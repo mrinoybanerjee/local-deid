@@ -386,6 +386,7 @@ must also be the easiest path; otherwise she will paste raw notes into ChatGPT.
   the web view has no file-URL access.
 - **Finding the window:** opening the app again (Spotlight, Finder) shows
   the window, because the menu bar item can be hidden behind the notch.
+  The launcher starts the app in the background and exits (DECISIONS 28).
 
 ## 6. Tag rules (v1: tags only)
 

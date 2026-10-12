@@ -508,3 +508,29 @@ spec does not state, and need Mrinoy's review.
       (Spotlight, Finder), because the menu bar item can be hidden behind
       a MacBook's notch. A second `open` reaches the running app (checked
       with LaunchServices on the mini).
+
+28. **The menu bar item on macOS 26: launch, do not exec** (2026-10-12;
+    found on the clinician's Mac, macOS 26.6.2: the app ran, its log was
+    empty, but "DeID" never appeared and was not in System Settings > Menu
+    Bar).
+    - **Cause, reproduced on the mini (macOS 26.6.2):** when the bundle's
+      launcher script `exec`s Python in its own place, macOS 26 shows no
+      menu bar item (Control Center hosts status items; none was added).
+      The same status item appears when Python runs from Terminal, when
+      Python is the bundle's executable, or when the launcher starts Python
+      in the background and exits. Measured by counting Control Center's
+      layer-25 windows (7 before, 8 with a working item).
+    - **Fix:** the launcher starts the app detached (`&!`) and exits. The
+      app process is no longer the one LaunchServices launched, so "open the
+      app again" starts a second copy: it finds the single-instance lock
+      taken, posts the distributed notification
+      `com.mrinoy.localdeid.show-window` (no data), and exits; the running
+      app shows its window. This replaces DECISIONS 27's reopen delegate,
+      which a detached process never receives.
+    - **Not chosen:** Python as the bundle executable (a symlink, an
+      LSEnvironment PYTHONPATH, and a sitecustomize boot hook; works, but
+      more moving parts and the bundle cannot be code-signed with a
+      symlinked executable).
+    - **Known side effect:** a second launch rewrites `last-run.log` before
+      it exits, so that log may lose the running copy's earlier lines.
+

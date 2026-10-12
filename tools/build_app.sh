@@ -46,8 +46,10 @@ cat > "$tmp/Local DeID.app/Contents/Info.plist" <<PLIST
 </plist>
 PLIST
 
-# The launcher. Its log keeps only the last run and never holds note text:
-# the app logs error codes and exception names only.
+# The launcher. It starts the app in the background and exits: on macOS 26 a menu bar
+# item never appears when the launcher exec()s Python in its own place (DECISIONS 28).
+# Its log keeps only the last run and never holds note text: the app logs error codes
+# and exception names only.
 cat > "$tmp/Local DeID.app/Contents/MacOS/LocalDeID" <<LAUNCH
 #!/bin/zsh
 checkout=${(q)checkout}
@@ -58,7 +60,8 @@ if [[ ! -x \$checkout/.venv/bin/python ]]; then
   exit 1
 fi
 export LOCALDEID_MODELS=\$checkout/models
-exec \$checkout/.venv/bin/python -m localdeid.app > \$logs/last-run.log 2>&1
+\$checkout/.venv/bin/python -m localdeid.app > \$logs/last-run.log 2>&1 < /dev/null &!
+exit 0
 LAUNCH
 chmod 755 "$tmp/Local DeID.app/Contents/MacOS/LocalDeID"
 

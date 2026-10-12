@@ -127,22 +127,11 @@ def _install_shell(window, api):
             return api.restore(draft), draft, seq if isinstance(seq, int) else None
         in_background(run, show_restore)
 
-    from webview.platforms.cocoa import BrowserView
-
-    class ReopenDelegate(BrowserView.AppDelegate):
-        """Opening the app again (Spotlight, Finder, Login Items) shows the window: the menu
-        bar item can be hidden behind the notch of a MacBook."""
-
-        def applicationShouldHandleReopen_hasVisibleWindows_(self, app, has_visible):
-            threading.Thread(target=bring_front, daemon=True).start()
-            return True
-
-    delegate = ReopenDelegate.alloc().init()
-    BrowserView._shared_app_delegate = delegate
-    NSApp.setDelegate_(delegate)
-
     class Target(NSObject):
         def open_(self, _):
+            threading.Thread(target=bring_front, daemon=True).start()
+
+        def show_(self, _):  # another launch of the app (Spotlight, Finder, login) asks for the window
             threading.Thread(target=bring_front, daemon=True).start()
 
         def deid_(self, _):
@@ -192,9 +181,24 @@ def _install_shell(window, api):
 
         NSEvent.addGlobalMonitorForEventsMatchingMask_handler_(NSEventMaskKeyDown, lambda e: (on_key(e), None)[1])
         NSEvent.addLocalMonitorForEventsMatchingMask_handler_(NSEventMaskKeyDown, on_key)
-    _install_shell.keep = (target, item, menu, hotkeys, delegate)  # keep the Objective-C objects alive
+    # Opening the app again starts a second copy, which only asks this one for its window
+    # (`_ask_running_app_to_show`): the menu bar item can be hidden behind the notch.
+    from Foundation import NSDistributedNotificationCenter
+
+    NSDistributedNotificationCenter.defaultCenter().addObserver_selector_name_object_(target, "show:", SHOW_WINDOW, None)
+    _install_shell.keep = (target, item, menu, hotkeys)  # keep the Objective-C objects alive
     objc  # noqa: B018 (imported for its side effect of loading the bridge)
     return hotkeys, failed
+
+
+SHOW_WINDOW = "com.mrinoy.localdeid.show-window"  # carries no data: any process on this Mac can see it
+
+
+def _ask_running_app_to_show() -> None:
+    from Foundation import NSDistributedNotificationCenter
+
+    NSDistributedNotificationCenter.defaultCenter().postNotificationName_object_userInfo_deliverImmediately_(
+        SHOW_WINDOW, None, None, True)
 
 
 def _single_instance():
@@ -224,7 +228,8 @@ def run_app(args) -> int:
 
     lock = _single_instance()
     if lock is None:
-        print("Local DeID is already running.")
+        print("Local DeID is already running: showing its window.")
+        _ask_running_app_to_show()
         return 0
     api, manager, engine, vault = build()
     stop = threading.Event()
@@ -656,21 +661,15 @@ def run_smoke(args) -> int:
                      url)
             hk = _on_main(lambda: _install_shell(window, api))
             step("hotkeys registered", hk is not None and hk[0] is not None and not hk[1], str(hk and hk[1]))
-            # Opening the app again (Spotlight, Finder) shows the hidden window: the menu bar
-            # item can sit behind the notch.
+            # Opening the app again (Spotlight, Finder) starts a copy that asks this one for
+            # its window: the menu bar item can sit behind the notch.
             window.hide()
             hidden_now = not _on_main(lambda: bool(window.native.isVisible()))
-
-            def reopen():
-                from AppKit import NSApp
-                return bool(NSApp.delegate().applicationShouldHandleReopen_hasVisibleWindows_(NSApp, False))
-
-            handled = _on_main(reopen)
+            _ask_running_app_to_show()
             end = time.time() + 10
             while time.time() < end and not _on_main(lambda: bool(window.native.isVisible())):
                 time.sleep(0.2)
-            step("reopening the app shows the window", hidden_now and handled
-                 and _on_main(lambda: bool(window.native.isVisible())))
+            step("opening the app again shows the window", hidden_now and _on_main(lambda: bool(window.native.isVisible())))
             api._clipboard.write(SMOKE_NOTE)
             sim = _on_main(lambda: hk[0].simulate(HOTKEY_D))
             end = time.time() + 180
