@@ -1,0 +1,55 @@
+NOTA DE SESIÓN DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+1. INFORMACIÓN GENERAL
+
+1.1 Fecha de la sesión: [[DATE|el martes 4 de junio de 2025]]
+1.2 Hora de la sesión: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+1.3 Cliente: [[CHILD|Santiago de la Cruz]] (apodo: "[[CHILD|Santi]]"), edad 4;2
+1.4 Número de expediente: [[ID|SLP-00472-NC]]
+1.5 Número de Medicaid: [[MEDICAID_ID|998271534A]]
+1.6 Agencia coordinadora: [[AGENCY|CDSA de la Región del Piedmont]]
+1.7 Proveedora: [[PROVIDER|Marisol Fernández-Soto]], Patóloga del Habla-Lenguaje bilingüe (CCC-SLP)
+1.8 Empresa: [[EMPLOYER|Carolina Bilingual Therapy Partners]]
+
+2. ANTECEDENTES
+
+2.1 [[CHILD|Santiago]] nació el [[DATE|3 de marzo de 2021]] y recibe servicios de terapia del habla desde el [[DATE|15/01/2025]] bajo un Plan Individualizado de Servicios Familiares (IFSP) con fecha de revisión programada para el [[DATE|10 de diciembre de 2025]].
+2.2 La familia reside en [[PLACE|482 Willow Bend Lane, Cary, NC 27511]], en el condado de [[PLACE|Wake]].
+2.3 La madre, [[PARENT|Carla del Río]], trabaja de noche en [[ORG|Hospital Regional de Durham]], en el departamento de enfermería. El padre, [[PARENT|Esteban de la Cruz]], es supervisor en [[ORG|Piedmont Logistics Group]].
+2.4 [[CHILD|Santiago]] tiene una hermana mayor, [[SIBLING|Valentina de la Cruz]], de 7 años, quien asiste a [[SCHOOL|Maple Ridge Elementary]].
+2.5 Su abuela, [[FAMILY|Rosa del Río]], cuida a los niños algunas tardes mientras los padres trabajan.
+
+3. OBSERVACIÓN SUBJETIVA
+
+3.1 [[PARENT|Carla del Río]] reportó que [[CHILD|Santiago]] produjo la palabra "pato" como [p_a_t_o] sin apoyo durante el desayuno el [[DATE|1 de junio de 2025]].
+3.2 También mencionó que [[CHILD|Santi]] jugó con su mejor amigo [[PEER|Mateo Jiménez]] en la guardería [[DAYCARE|Sunshine Bilingual Daycare]] y usó frases de dos palabras espontáneamente.
+3.3 La maestra, [[TEACHER|Ana López]], envió una nota indicando progreso similar en el salón.
+
+4. OBSERVACIÓN OBJETIVA
+
+4.1 Se trabajaron los fonemas /k/ y /g/ en posición inicial mediante claves de imitación (mod cues).
+4.2 [[CHILD|Santiago]] logró producir /k/ correctamente en 8/10 ensayos con apoyo visual.
+4.3 Produjo la palabra meta "casa" como ["kasa"] de forma espontánea en tres ocasiones.
+4.4 En la tarea de SALT, se codificó un enunciado como [EW] por omisión de la palabra final.
+4.5 Se administró una porción de la prueba Clinical Evaluation of Language Fundamentals (CELF-5), obteniendo una puntuación estándar de 82 (percentil 12).
+4.6 Durante un breve descanso, [[CHILD|Santiago]] mencionó a su perro, llamado [[PET|Rayo]], y pidió jugar con una pelota.
+
+5. COORDINACIÓN Y COMUNICACIÓN
+
+5.1 Se contactó por teléfono a la intérprete, [[PROVIDER|Diana Ortiz-Vega]], para confirmar disponibilidad en la próxima cita, al número [[PHONE|(919) 555-0148]].
+5.2 Se envió un correo de seguimiento a [[PARENT|Carla del Río]] a la dirección [[EMAIL|carla.delrio82@example.com]] con recomendaciones de práctica en casa.
+5.3 Se notificó a la coordinadora de servicios, [[PROVIDER|Lourdes Martínez]], de [[AGENCY|CDSA de la Región del Piedmont]], sobre el progreso para la revisión del IFSP.
+5.4 Se recomendó contactar a la pediatra, Dra. [[PROVIDER|Beatriz Salas]], para descartar causas sensoriales de la dificultad articulatoria.
+
+6. PLAN
+
+6.1 Continuar sesiones semanales los jueves a las [[TIME|3:30 p.m.]], próxima cita el [[DATE|12 de junio de 2025]].
+6.2 Revisar metas del IFSP antes de la fecha de revisión del [[DATE|diciembre de 2025]].
+6.3 Enviar informe actualizado a la agencia antes del [[DATE|20/06/2025]].
+6.4 Código de facturación aplicado: CPT 92507; código ICD-10: F80.1.
+
+7. FIRMA
+
+[[PROVIDER|Marisol Fernández-Soto]], CCC-SLP
+[[EMPLOYER|Carolina Bilingual Therapy Partners]]
+Fecha del informe: [[DATE|4 de junio de 2025]]

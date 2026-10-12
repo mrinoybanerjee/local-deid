@@ -1,0 +1,20 @@
+Fecha: [[DATE|11 de octubre de 2026]]
+Niño: [[CHILD|Mateo Alejandro Ríos]] (edad: [[KEEP|3;8]])
+Proveedora: [[PROVIDER|Carla Jiménez, MS, CCC-SLP]], empleada de [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Lugar: domicilio familiar, [[PLACE|412 Willow Bend Lane, Cary, Wake County]]
+Hora de inicio: [[TIME|3:15 p.m.]] Hora de finalización: [[TIME|4:00 p.m.]]
+
+2. ANTECEDENTES
+[[CHILD|Mateo]] vive con su madre [[PARENT|Lucía Ríos]] y su hermano mayor [[SIBLING|Diego]]. Su abuela materna, [[FAMILY|Rosa Fernández]], lo cuida las tardes después de la guardería mientras la madre trabaja en [[ORG|Wake Tech Community College]]. La familia recibe apoyo de [[AGENCY|la Oficina de WIC del Condado de Wake]] y está inscrita en [[AGENCY|Smart Start de Wake County]]. También asisten los sábados al programa infantil de [[ORG|la Biblioteca Pública Regional de Cary]], donde [[CHILD|Mateo]] juega con su amigo [[PEER|Lucas]], y participan en el grupo de juego de [[ORG|Iglesia Bautista Emanuel]]. En casa, el perro de la familia, [[PET|Max]], suele acompañar las sesiones.
+
+3. OBSERVACIONES CLÍNICAS
+Durante la sesión de las [[TIME|3:15 p.m.]] a las [[TIME|4:00 p.m.]], se trabajó el sonido [[KEEP|/k/]] usando el enfoque [[KEEP|PROMPT]]. [[CHILD|Mateo]] produjo "[[KEEP|casa]]" con [[KEEP|claves mínimas]] en [[KEEP|8/10]] ensayos. También imitó "[[CHILD|Teo]] corre" con apoyo moderado, sustituyendo [[KEEP|/k/]] por [[KEEP|[t]]]. Se administró la subprueba [[KEEP|Comprensión Auditiva]] del [[KEEP|PLS-5]]: puntaje estándar [[KEEP|85]], percentil [[KEEP|16]]. Rango de edad equivalente: [[KEEP|2;9–3;1]].
+
+4. COORDINACIÓN Y COMUNICACIÓN
+Se contactó a la maestra [[TEACHER|Ms. Patricia Gómez]] del programa [[AGENCY|Early Head Start de Wake County]] para coordinar metas compartidas. La madre indicó que el pediatra, [[PROVIDER|Dr. Esteban Vargas]], recomendó continuar terapia dos veces por semana. Para contacto, la clínica usa [[EMAIL|carla.jimenez@carolinapeds-slp.com]] y el sitio [[URL|www.carolinapedsslp.com]].
+
+5. PLAN
+Próxima sesión: [[DATE|15 de octubre de 2026]] a las [[TIME|10:30 a.m.]]. Continuar con [[KEEP|Cycles]] para el sonido [[KEEP|/k/]] y revisar meta [[KEEP|IFSP 2.1]].
+
+ID del caso: [[ID|WK-48213-RS]]
+Medicaid: [[MEDICAID_ID|NC928471635B]]

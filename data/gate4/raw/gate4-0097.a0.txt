@@ -1,0 +1,185 @@
+De: [[PROVIDER|Elena Marisol Prado]] <[[EMAIL|elena.prado@puentelunarslp.example]]>
+Para: [[PARENT|Lucía Belén Aranda]] <[[EMAIL|lucia.aranda@correoazul.example]]>; [[PARENT|Daniel Esteban Cifuentes]] <[[EMAIL|daniel.cifuentes@correoazul.example]]>
+Cc: [[PROVIDER|Nora Celeste Varela]] <[[EMAIL|nora.varela@senderoinfantil.example]]>
+Fecha: [[DATE|11 de octubre de 2026]], [[TIME|09:15 a. m.]]
+Asunto: Informe final y coordinación de servicios para [[CHILD|María José Cifuentes Aranda]]
+
+Estimada familia:
+
+Adjunto en este mismo hilo el informe final de evaluación. Incorporé la información sobre los horarios laborales y la preferencia de recibir instrucciones escritas en español. También aclaré que las respuestas en cualquiera de los dos idiomas cuentan para describir las habilidades comunicativas de [[CHILD|María José]].
+
+La propuesta incluye sesiones en la clínica y en la escuela, con autorización familiar para compartir información. Los horarios permiten que uno de ustedes participe sin perder el inicio de su turno. La primera semana servirá para confirmar el transporte, el lugar de entrada y la persona que acompañará a su hija.
+
+El informe distingue los resultados estandarizados de las observaciones durante el juego. Las recomendaciones se basan en ambos tipos de información. Por favor, conserven este hilo junto con los documentos escolares.
+
+Atentamente,
+
+[[PROVIDER|Elena Marisol Prado]]
+Patóloga del habla y lenguaje pediátrica bilingüe
+[[EMPLOYER|Puente Lunar Pediatric Speech]]
+[[PLACE|418 Lantern Pine Lane]], Suite 204
+[[PLACE|Cedar Loma]], North Carolina [[PLACE|28973]]
+Teléfono: [[PHONE|919-555-0146]]
+Portal: [[URL|https://puentelunarslp.example/familias]]
+
+> De: [[PROVIDER|Elena Marisol Prado]] <[[EMAIL|elena.prado@puentelunarslp.example]]>
+> Para: [[PARENT|Lucía Belén Aranda]] <[[EMAIL|lucia.aranda@correoazul.example]]>; [[PARENT|Daniel Esteban Cifuentes]] <[[EMAIL|daniel.cifuentes@correoazul.example]]>
+> Fecha: [[DATE|10 de octubre de 2026]], [[TIME|04:35 p. m.]]
+> Asunto: Respuesta a sus aclaraciones sobre empleo, transporte y lenguaje
+>
+> Estimada familia:
+>
+> Gracias por confirmar los antecedentes. Registré que la mamá trabaja actualmente en la tienda [[ORG|Amber Finch Market]] y en el servicio de limpieza [[ORG|Silver Nest Cleaning Service]]. Antes trabajó en el restaurante [[ORG|Willow Spoon Restaurant]]. El papá trabaja en la planta [[ORG|Cedar Loom Manufacturing Plant]] y algunos fines de semana en la compañía de construcción [[ORG|Blue Acorn Construction Company]]. Su empleo anterior fue en la granja [[ORG|Morning Heron Farm]].
+>
+> Estos datos explican los cambios de horario y las personas que realizan el transporte. No los usamos para interpretar los resultados clínicos. La abuela [[FAMILY|Rosa Elvira Aranda]] puede acompañar a su nieta cuando ustedes trabajan. La niñera [[FAMILY|Inés Paloma Duarte]] necesita instrucciones breves para practicar durante la merienda.
+>
+> También registré que ustedes desean mantener el español en casa. Esa preferencia coincide con la recomendación de apoyar ambos idiomas.
+>
+> [[PROVIDER|Elena Marisol Prado]]
+> Patóloga del habla y lenguaje pediátrica bilingüe
+> [[EMPLOYER|Puente Lunar Pediatric Speech]]
+> Teléfono: [[PHONE|919-555-0146]]
+>
+>> De: [[PROVIDER|Elena Marisol Prado]] <[[EMAIL|elena.prado@puentelunarslp.example]]>
+>> Para: [[PARENT|Lucía Belén Aranda]] <[[EMAIL|lucia.aranda@correoazul.example]]>; [[PARENT|Daniel Esteban Cifuentes]] <[[EMAIL|daniel.cifuentes@correoazul.example]]>
+>> Cc: [[PROVIDER|Nora Celeste Varela]] <[[EMAIL|nora.varela@senderoinfantil.example]]>
+>> Fecha: [[DATE|9 de octubre de 2026]], [[TIME|03:20 p. m.]]
+>> Asunto: Evaluación bilingüe del habla y lenguaje: [[CHILD|María José Cifuentes Aranda]]
+>>
+>> INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE
+>>
+>> Nombre de la paciente: [[CHILD|María José Cifuentes Aranda]]
+>> Nombre usado en casa: [[CHILD|Marijó]]
+>> Fecha de nacimiento: [[DATE|8 de agosto de 2022]]
+>> Edad cronológica: [[KEEP|4;2]]
+>> Fecha de evaluación: [[DATE|9 de octubre de 2026]]
+>> Lugar: [[EMPLOYER|Puente Lunar Pediatric Speech]], [[PLACE|Cedar Loma]], North Carolina
+>> Domicilio familiar: [[PLACE|726 Meadow Lantern Court]], [[PLACE|Cedar Loma]], North Carolina [[PLACE|28973]]
+>> Condado de residencia: [[PLACE|condado de Loma Verde]]
+>> Expediente clínico: [[ID|PLPS-026-4817]]
+>> Identificador escolar: [[ID|CLP-604193]]
+>> Medicaid: [[MEDICAID_ID|731482609M]]
+>> Autorización: [[ID|AUT-2609-58312]]
+>> Evaluadora: [[PROVIDER|Elena Marisol Prado]], patóloga del habla y lenguaje pediátrica bilingüe
+>> Intérprete participante: [[PROVIDER|Adriana Sol Pineda]]
+>> Coordinadora de servicios: [[PROVIDER|Nora Celeste Varela]]
+>> Código de evaluación: CPT [[KEEP|92523]]
+>> Código propuesto para tratamiento: CPT [[KEEP|92507]], modificador [[KEEP|GN]]
+>> Impresión diagnóstica: ICD-10 [[KEEP|F80.2]]
+>>
+>> MOTIVO Y ANTECEDENTES
+>>
+>> La familia solicita una evaluación por dificultades para comprender instrucciones largas y expresar necesidades mediante oraciones. La mamá [[PARENT|Lucía Belén Aranda]] refiere que su hija señala, lleva al adulto hacia un objeto y combina palabras cuando conoce la actividad. El papá [[PARENT|Daniel Esteban Cifuentes]] observa frustración cuando una persona no entiende la primera petición. La familia desea que la niña pueda explicar qué necesita, participar en juegos y contar una experiencia breve.
+>>
+>> La paciente asiste a [[SCHOOL|Cedar Lantern Preschool]]. Antes asistía a [[DAYCARE|Little Willow Nest Daycare]]. La maestra [[TEACHER|Camila Fernanda Robles]] informa que participa mejor en grupos pequeños y con materiales visibles. La asistente [[TEACHER|Tessa Maren Bell]] observa que necesita tiempo adicional para responder durante la reunión del salón. Estas observaciones describen el funcionamiento cotidiano y se consideran junto con las respuestas obtenidas directamente.
+>>
+>> La entrevista se realizó en español. La evaluación incluyó actividades en español e inglés según la experiencia lingüística de la niña. La intérprete apoyó la revisión de documentos y la conversación con personal que usa inglés. La evaluadora administró y analizó las tareas clínicas. La familia autorizó la comunicación con la escuela y los proveedores indicados en este informe.
+>>
+>> HISTORIA DE NACIMIENTO Y MÉDICA
+>>
+>> Según el resumen de nacimiento, el parto ocurrió en [[HOSPITAL|Loma Verde Community Hospital]], con una edad gestacional de [[KEEP|39 semanas y 2 días]]. El peso al nacer fue de [[KEEP|3,180 gramos]]. Las puntuaciones de Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. La familia refiere un embarazo sin complicaciones mayores y una estancia habitual después del parto. No se documentó ingreso a cuidados intensivos neonatales.
+>>
+>> La pediatra [[PROVIDER|Julia Renata Montes]] atiende a la paciente en [[ORG|Juniper Lantern Pediatrics]]. Su nota de [[DATE|22 de septiembre de 2026]] describe crecimiento estable y ausencia de enfermedades neurológicas conocidas. La familia informa episodios previos de otitis, sin cirugía ni tubos de ventilación. El control auditivo de [[DATE|30 de septiembre de 2026]] registró resultados dentro de los límites esperados. Se recomienda repetir la valoración si aparecen nuevas preocupaciones auditivas.
+>>
+>> La mamá sitúa las primeras palabras alrededor de [[KEEP|18 meses]] y las combinaciones espontáneas alrededor de [[KEEP|30 meses]]. No refiere pérdida de habilidades. La niña recibe terapia ocupacional con [[PROVIDER|Mateo Iván Leiva]] por dificultades en actividades de vestido y tolerancia a materiales. La fisioterapeuta [[PROVIDER|Sara Noemí Calderón]] revisó la coordinación motora y recomendó seguimiento durante actividades escolares. La familia no informa medicamentos diarios, alergias conocidas ni problemas persistentes para tragar.
+>>
+>> HISTORIA FAMILIAR Y LINGÜÍSTICA
+>>
+>> En casa viven ambos padres, la hermana [[SIBLING|Ana Lucía Cifuentes Aranda]] y el hermano [[SIBLING|Diego Andrés Cifuentes Aranda]]. La abuela [[FAMILY|Rosa Elvira Aranda]] cuida a los niños después de la escuela. El tío [[FAMILY|Óscar Julián Aranda]] realiza algunos traslados. La familia tiene un perro llamado [[PET|Nube]]. Durante el juego familiar, la niña suele buscar a sus hermanos para compartir juguetes.
+>>
+>> El español predomina en las comidas, los cuentos y las conversaciones familiares. El inglés aparece principalmente en la escuela y en algunos programas infantiles. Los padres estiman una exposición aproximada de [[KEEP|70%]] al español y [[KEEP|30%]] al inglés durante una semana habitual. Estas proporciones son estimaciones familiares y cambian con los turnos laborales. No representan una medición formal de dominio lingüístico.
+>>
+>> La familia describe dificultades similares para organizar mensajes en ambos idiomas. La niña conoce algunas palabras en un idioma y otras en el otro. Esa distribución se consideró durante la evaluación. La mezcla de idiomas, por sí sola, no se interpretó como una dificultad clínica. Se aceptaron respuestas pertinentes en cualquiera de los dos idiomas cuando el procedimiento permitía evaluar el concepto.
+>>
+>> En el salón juega con [[PEER|Valentina Sol Mena]] y [[PEER|Noah Elías Mercer]]. La maestra refiere que observa primero y luego entra al juego. Los adultos que la conocen entienden mejor sus mensajes por el contexto y sus gestos.
+>>
+>> PROCEDIMIENTOS Y CONDUCTA
+>>
+>> Se revisaron antecedentes, registros médicos disponibles y comentarios escolares. Se administró [[KEEP|PLS-5 Spanish]], con sus subpruebas [[KEEP|Comprensión auditiva]] y [[KEEP|Comunicación expresiva]]. También se obtuvo una muestra de lenguaje durante juego, descripción de imágenes y conversación. La transcripción utilizó convenciones de [[KEEP|SALT]] para documentar errores y emisiones incompletas. Las tareas informales se usaron para observar aprendizaje y respuesta a diferentes apoyos.
+>>
+>> La niña entró al consultorio con su mamá y exploró los materiales. Compartió atención durante actividades con animales y alimentos de juguete. Necesitó una pausa de movimiento después de una tarea de mesa. La participación mejoró cuando podía elegir entre dos actividades. No se observaron conductas que impidieran completar la evaluación, aunque el cansancio redujo la longitud de algunas respuestas al final.
+>>
+>> Los puntajes estandarizados corresponden únicamente a los procedimientos administrados conforme al manual. Las actividades con enseñanza adicional se informan por separado. Los resultados representan el desempeño en esta sesión y deben interpretarse junto con la historia bilingüe, la información familiar y el funcionamiento escolar. Las equivalencias de edad no describen todas las capacidades de la paciente.
+>>
+>> RESULTADOS ESTANDARIZADOS
+>>
+>> | Prueba o subprueba | Puntuación estándar | Percentil | Intervalo de confianza del [[KEEP|90%]] | Equivalencia de edad |
+>> |---|---|---|---|---|
+>> | [[KEEP|PLS-5 Spanish: Comprensión auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|71-84]] | [[KEEP|3;1]] |
+>> | [[KEEP|PLS-5 Spanish: Comunicación expresiva]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|68-81]] | [[KEEP|2;10]] |
+>> | [[KEEP|PLS-5 Spanish: Lenguaje total]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|69-80]] | [[KEEP|3;0]] |
+>>
+>> La puntuación de [[KEEP|Comprensión auditiva]] muestra dificultad para responder a ciertos conceptos y relaciones sin apoyo contextual. La puntuación de [[KEEP|Comunicación expresiva]] refleja dificultades para combinar información y usar formas gramaticales de manera consistente. El resultado de [[KEEP|Lenguaje total]] resume ambas áreas. Ninguna puntuación se utilizó de manera aislada para determinar las recomendaciones.
+>>
+>> COMPRENSIÓN DEL LENGUAJE
+>>
+>> En tareas informales, la niña identificó objetos cotidianos en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], sin ayuda adicional. Reconoció acciones familiares en [[KEEP|7/10]] oportunidades, o [[KEEP|70%]]. Siguió instrucciones de un paso con materiales visibles en [[KEEP|9/10]] oportunidades, o [[KEEP|90%]]. Las instrucciones de dos pasos redujeron el desempeño a [[KEEP|4/10]], o [[KEEP|40%]], especialmente cuando incluían una relación espacial.
+>>
+>> Comprendió mejor las palabras objetivo “[[KEEP|adentro]]” y “[[KEEP|arriba]]” que “[[KEEP|detrás]]” y “[[KEEP|entre]]”. Cuando se agregó una demostración y [[KEEP|mod cues]], el desempeño en instrucciones de dos pasos aumentó a [[KEEP|8/10]], o [[KEEP|80%]]. Este cambio indica beneficio de los apoyos durante la actividad. No sustituye el resultado obtenido sin enseñanza.
+>>
+>> Respondió preguntas sobre personas y acciones con mayor facilidad que preguntas sobre lugar o causa. En una tarea de elección visual respondió correctamente en [[KEEP|3 de 5]] oportunidades. Cuando el adulto presentó demasiadas palabras seguidas, la niña miró los objetos y esperó. La repetición breve, una pausa y un gesto facilitaron la respuesta. Se recomienda comprobar la comprensión mediante una acción observable.
+>>
+>> EXPRESIÓN Y MUESTRA DE LENGUAJE
+>>
+>> La muestra incluyó juego con muñecos, una merienda simulada y un libro sin texto. La niña produjo mensajes como “[[KEEP|quiero más jugo]]”, “[[KEEP|bebé está dormido]]” y “[[KEEP|yo poner aquí]]”. Usó gestos para completar mensajes cuando faltaba una palabra. En una producción dijo “[[PET|Nube]] ven”. En otra llamó “[[SIBLING|Diego]] mira”. Estas emisiones se conservaron como ejemplos de comunicación espontánea.
+>>
+>> Se observaron omisiones de artículos, variación en concordancia y uso limitado de verbos conjugados. Algunas formas aparecieron correctamente en frases conocidas, pero no se mantuvieron al describir una imagen nueva. La emisión “[[KEEP|niña comer galleta]]” se transcribió con [[KEEP|[EW]]] cuando la forma verbal no correspondía al contexto. Una emisión abandonada se registró con [[KEEP|[EU]]].
+>>
+>> Para pedir un objeto con una frase que incluyera acción y complemento, alcanzó [[KEEP|5/10]] oportunidades, o [[KEEP|50%]], de forma independiente. Con [[KEEP|min cues]] alcanzó [[KEEP|7/10]], o [[KEEP|70%]]. Con [[KEEP|mod cues]] y un ejemplo inmediato alcanzó [[KEEP|9/10]], o [[KEEP|90%]]. Al retirar el ejemplo, algunas respuestas volvieron a ser breves. Se necesita verificar el uso espontáneo en otras actividades.
+>>
+>> HABLA, VOZ Y COMUNICACIÓN SOCIAL
+>>
+>> La producción de [[KEEP|/k/]] fue variable en palabras conocidas. Se observó sustitución por [[KEEP|/t/]] en algunas posiciones y simplificación de grupos consonánticos. La producción de [[KEEP|/ɾ/]] también fue inconsistente. La familia entiende mejor el habla cuando conoce el tema. En palabras objetivo como “[[KEEP|casa]]” y “[[KEEP|carro]]”, la repetición facilitó algunos intentos, pero no produjo una respuesta estable.
+>>
+>> La muestra fue insuficiente para establecer un diagnóstico separado del habla. La voz y la fluidez no mostraron dificultades funcionales durante esta sesión. La niña compartió objetos, buscó la mirada del adulto y aceptó turnos. Necesitó apoyo para explicar una interrupción del juego y negociar con otra persona. Estas necesidades se relacionaron con la comprensión y la organización del mensaje.
+>>
+>> IMPRESIONES
+>>
+>> Los hallazgos son compatibles con un trastorno mixto del lenguaje receptivo y expresivo, ICD-10 [[KEEP|F80.2]]. La historia familiar, las observaciones escolares y las tareas clínicas muestran dificultades que afectan la participación. La exposición a dos idiomas no explica por sí sola el patrón observado. La niña presenta fortalezas en intención comunicativa, interés por las personas, uso de gestos y aprendizaje cuando recibe apoyo.
+>>
+>> Las dificultades tienen efectos concretos: seguir instrucciones durante transiciones, explicar necesidades, participar en juegos y contar acontecimientos. La diferencia entre el desempeño independiente y el desempeño con apoyo permite seleccionar objetivos funcionales. El tratamiento debe ayudar a transferir habilidades a actividades reales. Las decisiones futuras deberán considerar progreso, oportunidades de práctica y cambios en el entorno.
+>>
+>> RECOMENDACIONES Y HORARIO
+>>
+>> Se recomienda terapia del lenguaje dos veces por semana, con sesiones de 45 minutos. El plan propuesto utiliza CPT [[KEEP|92507]] con modificador [[KEEP|GN]]. La autorización administrativa y la disponibilidad escolar deben confirmarse antes del inicio. La reevaluación clínica se propone para [[DATE|9 de abril de 2027]], o antes si cambia de forma importante el funcionamiento.
+>>
+>> | Día | Inicio | Fin | Lugar |
+>> |---|---|---|---|
+>> | Lunes | [[TIME|08:15 a. m.]] | [[TIME|09:00 a. m.]] | [[EMPLOYER|Puente Lunar Pediatric Speech]], [[PLACE|418 Lantern Pine Lane]], [[PLACE|Cedar Loma]] |
+>> | Miércoles | [[TIME|01:30 p. m.]] | [[TIME|02:15 p. m.]] | [[SCHOOL|Cedar Lantern Preschool]], [[PLACE|92 Willow Compass Road]], [[PLACE|Cedar Loma]] |
+>> | Viernes, orientación familiar quincenal | [[TIME|04:00 p. m.]] | [[TIME|04:20 p. m.]] | Portal de [[EMPLOYER|Puente Lunar Pediatric Speech]] |
+>>
+>> La orientación familiar se realizará con la mamá, el papá o la persona cuidadora disponible. El transporte escolar debe coordinarse con la escuela. Las sesiones perdidas se revisarán según disponibilidad. No se recomienda añadir tareas extensas cuando la familia tiene poco tiempo. Una práctica breve durante una actividad cotidiana permite observar mejor el uso funcional.
+>>
+>> PLAN CLÍNICO Y OBJETIVOS
+>>
+>> Se propone [[KEEP|estimulación focalizada]], [[KEEP|expansión]] y [[KEEP|enseñanza naturalista]] dentro del juego y las rutinas. Se pueden incorporar estrategias de [[KEEP|Hanen]] para apoyar turnos y oportunidades de comunicación. La familia recibirá ejemplos en español. El personal escolar recibirá ejemplos adecuados al idioma de la actividad. Los apoyos se retirarán gradualmente cuando la niña responda de manera consistente.
+>>
+>> El antecedente de intervención temprana consta en [[AGENCY|CDSA de Loma Verde]]. El IFSP de [[DATE|12 de junio de 2025]] incluyó el resultado [[KEEP|3]], relacionado con pedir ayuda, y el resultado [[KEEP|4]], relacionado con participar en rutinas. Estos números identifican objetivos históricos. El plan actual debe coordinarse con los servicios escolares, sin asumir que el IFSP continúa vigente.
+>>
+>> Objetivo clínico [[KEEP|1]]: seguir instrucciones de dos pasos con una relación espacial en [[KEEP|8/10]] oportunidades, o [[KEEP|80%]], con [[KEEP|min cues]].
+>>
+>> Objetivo clínico [[KEEP|2]]: producir mensajes con una acción y un complemento para pedir, comentar o responder en [[KEEP|8/10]] oportunidades, o [[KEEP|80%]], con [[KEEP|min cues]].
+>>
+>> Objetivo clínico [[KEEP|3]]: contar una experiencia breve con apoyo de imágenes y dos elementos pertinentes en [[KEEP|4/5]] oportunidades, o [[KEEP|80%]], con [[KEEP|mod cues]].
+>>
+>> El progreso se registrará por actividad, idioma, nivel de apoyo y respuesta. Una respuesta repetida después del adulto se distinguirá de una respuesta espontánea. Se revisará la transferencia a casa y al salón antes de aumentar la dificultad. La familia y la escuela podrán aportar ejemplos breves, sin grabaciones obligatorias.
+>>
+>> COORDINACIÓN Y SEGUIMIENTO
+>>
+>> La terapeuta ocupacional y la fisioterapeuta podrán compartir recomendaciones sobre postura, acceso a materiales y pausas de movimiento. La pediatra recibirá el informe cuando la familia confirme el destinatario. La coordinadora ayudará a revisar elegibilidad y transporte. Si se necesita apoyo comunitario, la familia puede consultar [[AGENCY|Smart Start de Loma Verde]] y [[AGENCY|WIC de Loma Verde]].
+>>
+>> En casa, se recomienda elegir una rutina que ya ocurra diariamente. El adulto puede hacer una pausa, observar la intención y ofrecer un ejemplo breve. Debe aceptar gestos y palabras mientras apoya mensajes más completos. Conviene hablar en el idioma que cada persona domina mejor y mantener oportunidades naturales para usar ambos idiomas.
+>>
+>> La familia participó en la revisión de los resultados y expresó acuerdo con las prioridades funcionales. El próximo contacto está previsto para [[DATE|13 de octubre de 2026]], a las [[TIME|05:10 p. m.]]. Se confirmarán el horario, la autorización y los datos de contacto. Este informe documenta la evaluación y la propuesta inicial de atención.
+>>
+>> Firma:
+>>
+>> [[PROVIDER|Elena Marisol Prado]]
+>> Patóloga del habla y lenguaje pediátrica bilingüe
+>> [[EMPLOYER|Puente Lunar Pediatric Speech]]
+>> Licencia de North Carolina: [[ID|SLP-FICT-48261]]
+>> Teléfono: [[PHONE|919-555-0146]]
+>> Correo: [[EMAIL|elena.prado@puentelunarslp.example]]
+>> Dirección: [[PLACE|418 Lantern Pine Lane]], Suite 204, [[PLACE|Cedar Loma]], North Carolina [[PLACE|28973]]
+>> Fecha de firma: [[DATE|9 de octubre de 2026]]

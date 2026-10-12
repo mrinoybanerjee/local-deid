@@ -1,0 +1,185 @@
+NC Infant-Toddler Program — IFSP Review
+[X] Fictional training record  [X] Review  [ ] Initial IFSP  [ ] Exit
+Meeting date: [[DATE|3 de marzo de 2025]]
+Review period: [[DATE|03/03/2025]] through [[DATE|06/03/2025]]
+[X] Home  [ ] Daycare  [ ] Clinic  [X] Parent participation
+Document language: English. Family discussion languages: English and Spanish.
+
+FAMILY INFORMATION
+
+Child: [[CHILD|Emilio Rafael Solvera]]
+Preferred name: [[CHILD|Milo]]
+Birth date: [[DATE|12/18/2022]]
+Age at review: [[KEEP|26 months]]
+Child record: [[ID|ITP-25-047193]]
+Medicaid member number: [[MEDICAID_ID|483726195Q]]
+Authorization: [[ID|SLP-NC-2503186]]
+
+Mother: [[PARENT|Mariela Solvera]]
+Father: [[PARENT|Daniel Cardenal]]
+[X] Both parents share educational decisions.
+Sister: [[SIBLING|Inés Cardenal]], age [[KEEP|6 years]]
+Maternal grandmother and occasional caregiver: [[FAMILY|Teresa Solvera]]
+Family dog: [[PET|Nube]]
+
+Home address: [[PLACE|418 Willow Lantern Lane, Apt. 2C, Bellhaven Crossing, NC 27961]]
+County of residence: [[PLACE|Pine Lantern County]]
+Mother's telephone: [[PHONE|(919) 555-0148]]
+Father's telephone: [[PHONE|984.555.0173]]
+Family email: [[EMAIL|msolvera@example.org]]
+Preferred contact: [X] Text  [X] Telephone  [ ] Postal mail
+
+The family previously lived in [[PLACE|San Jacinto del Laurel]], Mexico. Grandmother's mailing address is [[PLACE|Calle del Cedro 27, Barrio Las Campanas, San Jacinto del Laurel, C.P. 54837]], Mexico. Her telephone is [[PHONE|+52 55 0000 0146]]. The family requests translated appointment reminders when available.
+
+SERVICE COORDINATION AND PARTICIPANTS
+
+CDSA office, long Spanish form: [[AGENCY|Centro de Servicios para el Desarrollo Infantil de la Región del Arroyo Claro]]
+Short form: [[AGENCY|CDSA Arroyo Claro]]
+Office address: [[PLACE|76 Lantern Grove Drive, Suite 110, Bellhaven Crossing, NC 27961]]
+Office telephone: [[PHONE|919-555-0122]]
+Information page: [[URL|https://cdsa-arroyoclaro.example/familias]]
+
+Service coordinator: Ms. [[PROVIDER|Beatriz Luján]]
+Coordinator's agency, long Spanish form: [[AGENCY|Agencia Comunitaria de Coordinación de Servicios Tempranos para Familias del Condado de Pino Linterna]]
+Short form: [[AGENCY|ACSET Pino Linterna]]
+Direct telephone: [[PHONE|919 555 0164]]
+Email: [[EMAIL|blujan@example.org]]
+
+Review author: [[PROVIDER|Elena Marín Vale]], bilingual pediatric speech-language pathologist
+Clinician's company: [[EMPLOYER|Little Lantern Bilingual Speech Services]]
+[X] English-Spanish services requested  [ ] Interpreter requested
+The clinician discussed each section in both family languages. The parents selected English for this written review. The service coordinator confirmed contact preferences and recorded the family's questions.
+
+REVIEW BASIS AND HEALTH INFORMATION
+
+[X] Parent interview  [X] Routine observation  [X] Prior assessment review
+Previous evaluation date: [[DATE|2025-02-12]]
+Pediatrician: Dr. [[PROVIDER|Camila Reeve]]
+Medical practice: [[HOSPITAL|Willow Lantern Pediatric Center]]
+Birth hospital: [[HOSPITAL|Cedar Moon Community Hospital]]
+
+Parent-reported birth history includes gestational age [[KEEP|39 weeks, 2 days]], birth weight [[KEEP|3.12 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. The parents report no current feeding restrictions. A hearing appointment is scheduled for [[DATE|03.18.2025]].
+
+The assessment used [[KEEP|PLS-5]] with bilingual clinical observations. Recorded results were [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], [[KEEP|7th percentile]], confidence interval [[KEEP|73-85]]; and [[KEEP|Expressive Communication]] standard score [[KEEP|75]], [[KEEP|5th percentile]], confidence interval [[KEEP|70-83]]. Scores describe the sampled performance and require cautious interpretation alongside both languages and daily function.
+
+Clinical diagnosis recorded: [[KEEP|F80.2]]. Speech treatment billing reference: [[KEEP|92507]], modifier [[KEEP|GN]].
+
+FAMILY CONCERNS, IN THE FAMILY'S OWN WORDS
+
+Mother: "I want [[CHILD|Emilio]] to tell us what he needs before he gets upset. He pulls my hand toward the refrigerator. Sometimes I understand him, but other people guess. I want him to ask for water and tell me when something hurts."
+
+Father: "We use Spanish at home and English outside. We want both languages to stay part of our family. When [[CHILD|Milo]] plays with his sister, he watches her closely. I want them to enjoy taking turns without us solving every disagreement."
+
+Grandmother: "I want to know what to do during our calls. I can sing and wait for him. I need examples that fit the songs we already use."
+
+Priority selected: [X] Communication during meals  [X] Shared play  [X] Transitions
+The parents prefer a few useful strategies practiced repeatedly. They request coaching that respects work shifts, familiar foods, and the child's choice to pause.
+
+STRENGTHS AND DAILY ROUTINES
+
+Morning: The child wakes near [[TIME|7:00 a.m.]]. He brings his cup to the kitchen, points toward preferred foods, and follows familiar directions with gestures. His mother offers breakfast before leaving for work at [[ORG|Juniper Basket Market]]. His father handles daycare arrival on most weekdays.
+
+Meals: The family eats dinner near [[TIME|6:15 p.m.]]. The child accepts several textures and enjoys helping carry napkins. Adults often anticipate requests quickly. A useful opportunity is to pause before serving another portion while keeping food accessible.
+
+Play: The child enjoys toy buses, containers, and rolling a ball. He imitates actions more consistently than spoken words. His sister offers objects and sometimes answers for him. Coaching will include giving each child a turn without requiring perfect speech.
+
+Bath and bedtime: Predictable songs support participation. The child points to pictures and turns pages. Bedtime begins around [[TIME|8:00 p.m.]]. The family wants a calm routine with choices, short language models, and enough time for a response.
+
+DAYCARE AND COMMUNITY PARTICIPATION
+
+Daycare: [[DAYCARE|Little Acorn Lantern House]]
+Lead teacher: Ms. [[TEACHER|Nora Salceda]]
+Classroom assistant: Mr. [[TEACHER|Evan Pruett]]
+Peer play partners: [[PEER|Lila Moret]] and [[PEER|Jonah Bellis]]
+Sister's school: [[SCHOOL|Copperleaf Primary School]]
+
+The teacher reports that the child joins songs and watches other children during snack. He sometimes leaves the table when adults ask repeated questions. The family requests brief written strategies that classroom staff can use during ordinary routines.
+
+A neighborhood playgroup meets at [[PLACE|Willow Lantern Park]]. Its volunteer host, [[PERSON|Rosa Fenwick]], knows the family's preferred arrival routine. The parents describe this group as a useful place to practice greetings without pressure. Classroom consultation requires family agreement before information is shared.
+
+OTHER AGENCIES AND FAMILY RESOURCES
+
+[X] Nutrition support  [X] Family resource referral  [ ] Transportation referral
+Nutrition agency: [[AGENCY|Pine Lantern WIC Office]]
+Community resource agency: [[AGENCY|Bright Bridge Smart Start Partnership]]
+Family support organization: [[AGENCY|Pine Lantern Family Resource Network]]
+
+The mother reports that nutrition appointments are current. The father requests information about a weekend playgroup with Spanish-speaking families. The coordinator will provide contact details and help the family compare schedules.
+
+The family recalled an earlier resource visit as "[[DATE|el martes 4 de junio de 2024]]." This date is parent reported. It is included to help locate the prior referral. No outside record was reviewed during this meeting.
+
+COMMUNICATION OBSERVATIONS
+
+During snack, [[CHILD|Emilio]] used a point, gaze shift, and "[[KEEP|más]]" to request another piece. He produced "[[KEEP|awa]]" after an adult modeled "[[KEEP|agua]]". During bus play, he said "[[KEEP|go]]" and copied "[[KEEP|beep beep]]". He also said "[[PET|Nube]] run" when the dog crossed the room.
+
+The child used spontaneous communication in [[KEEP|4 of 10]] observed opportunities and responded to supported choices in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. He followed familiar directions in [[KEEP|70%]] of sampled opportunities when gestures accompanied speech.
+
+Observed sound patterns included [w] represented as [[KEEP|[w]]], emerging [[KEEP|/k/]], and inconsistent imitation of [[KEEP|/ɾ/]]. A brief language sample contained an abandoned word coded [[KEEP|[EW]]]. These observations guide functional strategies; isolated sound drills are not the family's current priority.
+
+OUTCOME [[KEEP|1]]: REQUESTS DURING MEALS
+
+Family outcome: During snacks and dinner, the child will communicate a choice or request using a gesture, picture, word, or word combination.
+
+Success criterion: The family observes communication in [[KEEP|8/10]] natural opportunities across three separate meals, with no more than [[KEEP|min cues]]. Review date: [[DATE|June 3, 2025]].
+
+Strategies: Offer two visible choices. Name each choice once, then wait. Accept pointing, reaching with shared attention, pictures, and spoken attempts. Model "[[KEEP|more water]]", "[[KEEP|más agua]]", or "[[KEEP|help]]" after the child's message. Provide the requested item without demanding repetition.
+
+The clinician will use [[KEEP|Hanen]] interaction strategies to coach waiting, following the child's interest, and responding to attempts. Pictures will remain available beside the table. Adults will avoid turning every bite into a communication test.
+
+Progress today: The family reports more pointing and fewer guessed requests. Spoken requests remain variable when the child is tired.
+
+OUTCOME [[KEEP|2]]: SHARED PLAY
+
+Family outcome: During familiar play, the child and his sister will exchange turns and share attention with adult support.
+
+Success criterion: The child completes [[KEEP|3 of 5]] reciprocal play opportunities across two activities, with [[KEEP|min cues]], on three family observation days. Target date: [[DATE|2025/06/03]].
+
+Strategies: Sit nearby, use matching toys, and copy the child's action before adding a new action. Model "[[KEEP|my turn]]", "[[KEEP|your turn]]", "[[KEEP|mi turno]]", and "[[KEEP|otra vez]]". Pause after a short model. Let gestures count as participation.
+
+The sister can offer a toy and wait while an adult supports both children. Adults will end the activity when either child needs a break. The clinician will demonstrate choices during bus play and ball rolling, then observe the parent using the same strategies.
+
+Progress today: The child exchanged a ball with his sister for several turns. Adult support helped him remain engaged.
+
+OUTCOME [[KEEP|3]]: TRANSITIONS AND REPAIR
+
+Family outcome: The child will communicate a need for help, a break, or another turn during changes between activities.
+
+Success criterion: The child uses an agreed signal in [[KEEP|4 of 5]] transition opportunities across home and daycare, with [[KEEP|mod cues]] or less. Target date: [[DATE|06-03-2025]].
+
+Strategies: Show a simple picture before the change. Offer one concrete next step. Model "[[KEEP|help me]]", "[[KEEP|all done]]", "[[KEEP|ayuda]]", and "[[KEEP|terminé]]". Recognize body movements and vocalizations as possible messages, then confirm the meaning.
+
+Adults will give time to finish a small action when practical. The clinician will coach repair by acknowledging the attempt, offering a choice, and checking the child's response. Caregivers will use consistent pictures without requiring identical words in both languages.
+
+Progress today: A picture and a short verbal warning supported cleanup. Repeated questions increased frustration.
+
+SERVICE PLAN AND SESSION SCHEDULE
+
+[X] Natural environment  [X] Caregiver coaching  [X] Individual intervention
+Start date: [[DATE|03/10/2025]]
+Planned end date: [[DATE|06/03/2025]]
+Frequency: Speech-language intervention weekly; daycare consultation twice monthly; coordination monthly and as needed.
+
+| Day | Start | Stop | Location | Service |
+|---|---|---|---|---|
+| Monday | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[PLACE|418 Willow Lantern Lane, Apt. 2C, Bellhaven Crossing, NC 27961]] | Speech-language intervention |
+| Wednesday, twice monthly | [[TIME|10:15 a.m.]] | [[TIME|10:45 a.m.]] | [[DAYCARE|Little Acorn Lantern House]] | Classroom consultation |
+| Friday, monthly | [[TIME|12:30 p.m.]] | [[TIME|12:50 p.m.]] | Telephone; family at home | Service coordination |
+
+The family prefers advance notice of schedule changes. Missed visits will be discussed individually. Activities will use ordinary toys, meals, and books. The clinician will check each caregiver's understanding through demonstration and practice.
+
+FOLLOW-UP, CONSENT, AND REVIEW
+
+[X] Family helped select outcomes  [X] Family received a copy
+[X] Contact preferences reviewed  [X] Service choices discussed
+[ ] Additional interpreter requested  [ ] New medical records received
+
+The clinician will ask the family to note one successful communication example between visits. No daily worksheet is required. The coordinator will confirm the hearing appointment result and the requested community referral.
+
+The next review will compare routine examples with the outcome criteria. The team will adjust strategies if they are difficult to use, increase frustration, or do not fit the family's priorities.
+
+Parent acknowledgment: [[PARENT|Mariela Solvera]], [[DATE|03/03/2025]]
+Parent acknowledgment: [[PARENT|Daniel Cardenal]], [[DATE|03/03/2025]]
+Service coordinator: [[PROVIDER|Beatriz Luján]], [[DATE|03/03/2025]]
+Author: [[PROVIDER|Elena Marín Vale]], [[DATE|03/04/2025]]
+
+[X] All people, organizations, contact details, and clinical events in this record are fictional.

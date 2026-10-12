@@ -1,0 +1,46 @@
+From: [[PROVIDER|Elena Marisol Vega]] <[[EMAIL|evega@example.com]]>
+To: [[PARENT|Nora Bellamy]] <[[EMAIL|nbellamy@example.org]]>
+Date: [[DATE|06/01/2024]]
+Subject: [[CHILD|Adrian Bellamy]]'s school communication plan
+
+Dear [[PARENT|Nora]],
+
+Thank you for sharing your home observations. At age [[KEEP|4;2]], [[CHILD|Adrian]] benefits from Spanish and English models. These results describe performance during one visit; they do not measure everything he knows.
+
+Test | Subtest | Evaluation date | Standard score | Percentile | Confidence interval
+--- | --- | --- | --- | --- | ---
+[[KEEP|PLS-5]] | [[KEEP|Auditory Comprehension]] | [[DATE|2024-05-28]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]]
+
+His age equivalent was [[KEEP|2;9]]. He followed directions in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. We will practice [[KEEP|/k/]] in [[KEEP|"cup"]] through play and use [[KEEP|Hanen]] strategies during daily routines.
+
+Day | Start | Stop | Location
+--- | --- | --- | ---
+Tuesday | [[TIME|9:00 a.m.]] | [[TIME|9:25 a.m.]] | [[SCHOOL|Willow Lantern Preschool]]
+Thursday | [[TIME|1:10 p.m.]] | [[TIME|1:35 p.m.]] | [[EMPLOYER|Little Lantern Speech Services]]
+
+Please bring the picture book to the first session. The school team can use the same pictures during snack and cleanup. We will compare observations across both languages before changing the plan.
+
+Administrative reference: Medicaid ID [[MEDICAID_ID|731804629K]]; insurance member ID [[ID|MB48270196]]; NC ITP child ID [[ID|ITP-2405831]]; authorization [[ID|AUTH-608294]].
+
+We recorded the review date as [[DATE|3 de marzo de 2025]].
+
+Warmly,
+[[PROVIDER|Elena Marisol Vega]], bilingual pediatric speech-language pathologist
+[[EMPLOYER|Little Lantern Speech Services]], North Carolina
+[[PHONE|919-555-0146]]
+
+> From: [[PARENT|Nora Bellamy]]
+> Date: [[DATE|05/31/2024]]
+>
+> We can begin el [[DATE|martes 4 de junio]]. His sister [[SIBLING|Mila]] can help choose pictures. He told me, "[[PET|Biscuit]] run."
+>
+> Thank you,
+> [[PARENT|Nora]]
+
+>> From: Ms. [[TEACHER|Tessa Rowan]]
+>>
+>> His classmate [[PEER|Jonah]] enjoys picture games. I can model short requests during snack.
+>>
+>> Best,
+>> [[TEACHER|Tessa Rowan]]
+>> [[SCHOOL|Willow Lantern Preschool]]

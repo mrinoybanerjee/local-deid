@@ -1,0 +1,159 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA: REVISIÓN DEL IFSP
+Programa de intervención temprana de Carolina del Norte
+Documento sintético de prueba. Todos los datos, personas, organizaciones y lugares identificables son ficticios.
+
+DATOS DE LA REVISIÓN
+
+Campo	Dato
+Fecha de revisión	[[DATE|8 de octubre de 2026]]
+Fecha del IFSP inicial	[[DATE|9 de abril de 2026]]
+Período revisado	[[DATE|9 de abril de 2026]] al [[DATE|8 de octubre de 2026]]
+Próxima revisión	[[DATE|8 de abril de 2027]]
+Número de expediente	[[ID|ITP-BV-2604187]]
+Número de Medicaid	[[MEDICAID_ID|684209731R]]
+Autorización de servicios	[[ID|AUT-782640-SL]]
+Modalidad	Reunión presencial en el hogar, con participación escolar por teléfono
+Idioma del documento	Español
+Idioma elegido por la familia	Español; acepta materiales complementarios en inglés
+
+INFORMACIÓN DEL NIÑO Y DE LA FAMILIA
+
+Campo	Dato
+Nombre del niño	[[CHILD|Emilio de la Cruz]]
+Nombre usado en casa	[[CHILD|Milo]]
+Fecha de nacimiento	[[DATE|8 de agosto de 2024]]
+Edad actual	[[KEEP|26 meses]]
+Madre	[[PARENT|Ana Sofía de la Cruz]]
+Padre	[[PARENT|Julián Torres-Mena]]
+Hermana	[[SIBLING|Inés Torres-Mena]], de [[KEEP|6 años]]
+Abuela y cuidadora habitual	[[FAMILY|Rosa del Río]]
+Dirección	[[PLACE|418 Sendero del Olmo, apartamento 2B]], [[PLACE|Brisaverde]], Carolina del Norte [[PLACE|27587]]
+Condado	[[PLACE|Condado de Loma Serena]]
+Teléfono principal	[[PHONE|(919) 555-0146]]
+Correo familiar	[[EMAIL|ana.delacruz@correo.example]]
+
+La familia vive en una vivienda alquilada. La madre trabaja por turnos en [[ORG|Cooperativa Textil Nube Clara]]. El padre trabaja en [[ORG|Taller Mecánico Sendero Azul]]. Ambos desean participar en las visitas, aunque sus horarios cambian. La abuela cuida al niño durante dos tardes por semana. La familia autoriza que ella reciba enseñanza sobre las estrategias acordadas.
+
+El hogar usa español durante las comidas, el juego y los cuidados. El niño escucha inglés en la guardería. La familia desea conservar ambos idiomas. No considera necesario sustituir el español para apoyar el desarrollo. Tiene transporte propio, pero prefiere las visitas domiciliarias cuando coinciden con cambios de turno.
+
+CONTACTOS DEL EQUIPO
+
+Función	Nombre y credenciales	Entidad	Teléfono o contacto
+Coordinadora de servicios	[[PROVIDER|Mariela Campos-Vega]], B.S.W.	[[AGENCY|CDSA de Brisaverde y Loma Serena]]	[[PHONE|(919) 555-0112]]
+Patóloga bilingüe del habla y lenguaje	[[PROVIDER|Lucía Ferrer-Santos]], M.S., CCC-SLP	[[EMPLOYER|Semillas Bilingües Terapia Pediátrica]]	[[EMAIL|lucia.ferrer@semillasbilingues.example]]
+Pediatra	Dr. [[PROVIDER|Gabriel Solano]]	[[HOSPITAL|Centro Pediátrico Hospitalario Valle de Nácar]]	[[PHONE|(984) 555-0137]]
+Terapeuta ocupacional	[[PROVIDER|Elena Prado]], OTR/L	[[AGENCY|Red Infantil Camino Suave]]	[[PHONE|(919) 555-0173]]
+Maestra principal	[[TEACHER|Teresa Molina]]	[[DAYCARE|Guardería Brotes del Alba]]	[[PHONE|(984) 555-0162]]
+Contacto administrativo	[[PERSON|Óscar Vela]]	[[AGENCY|CDSA de Brisaverde y Loma Serena]]	[[PHONE|(919) 555-0181]]
+
+Sitio informativo de la empresa clínica: [[URL|https://semillasbilingues.example/familias]].
+
+La reunión se realizó en español. La coordinadora confirmó que los padres comprendían las opciones de servicios. La patóloga explicó los resultados con ejemplos cotidianos. No se solicitó intérprete. La familia puede pedir una explicación adicional antes de aceptar cualquier cambio.
+
+ANTECEDENTES Y FUENTES DE INFORMACIÓN
+
+La madre informó un nacimiento a las [[KEEP|38 semanas y 4 días]] de gestación, con peso de [[KEEP|3.120 g]]. Refirió puntuaciones Apgar de [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. No informó hospitalización prolongada. Estos antecedentes proceden del relato familiar y no se verificaron con el expediente del nacimiento.
+
+La evaluación de comunicación se realizó el [[DATE|29 de septiembre de 2026]]. La información incluye entrevista familiar, observación durante juego, muestra de lenguaje y resultados de [[KEEP|PLS-5 Spanish]]. La prueba auditiva del [[DATE|15 de septiembre de 2026]] indicó respuestas suficientes para participar en la evaluación, según el informe recibido. La familia no describió pérdida de habilidades.
+
+El niño busca interacción, imita acciones y comparte objetos de interés. Usa gestos, vocalizaciones y algunas palabras para pedir. La inteligibilidad disminuye cuando intenta mensajes más largos. La evaluación consideró las oportunidades de comunicación en ambos idiomas y no interpretó la exposición bilingüe como causa de dificultad.
+
+RESULTADOS DE COMUNICACIÓN
+
+Prueba o subprueba	Puntuación estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5 Spanish: Auditory Comprehension]]	[[KEEP|84]]	[[KEEP|14]]	[[KEEP|79-90]]	[[KEEP|2;0]]
+[[KEEP|PLS-5 Spanish: Expressive Communication]]	[[KEEP|76]]	[[KEEP|5]]	[[KEEP|71-83]]	[[KEEP|1;7]]
+[[KEEP|PLS-5 Spanish: Total Language]]	[[KEEP|79]]	[[KEEP|8]]	[[KEEP|74-85]]	[[KEEP|1;9]]
+
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las edades equivalentes describen el desempeño en esta evaluación; no representan una edad global del niño.
+
+Medida funcional	Resultado	Condición
+Peticiones espontáneas	[[KEEP|3/10]] oportunidades	Juego con objetos preferidos
+Peticiones con gesto y palabra	[[KEEP|7/10]] oportunidades	[[KEEP|mod cues]]
+Seguimiento de instrucciones familiares	[[KEEP|8/10]] oportunidades	[[KEEP|min cues]]
+Imitación de palabras funcionales	[[KEEP|4/10]] oportunidades	[[KEEP|max cues]]
+Mensajes comprendidos por la madre	[[KEEP|60%]]	Muestra breve de juego
+
+En la muestra aparecieron las producciones "[[KEEP|ma]]", "[[KEEP|agua]]" y "[[KEEP|ta]]". Se observaron sustituciones variables de [[KEEP|/k/]] y omisión de consonantes finales. El sonido [[KEEP|[w]]] apareció en una aproximación a "[[KEEP|agua]]". La muestra fue insuficiente para establecer un patrón estable para [[KEEP|/ɾ/]]. El registro de lenguaje incluyó el código [[KEEP|[EW]]] cuando la producción necesitó aclaración.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La madre expresó: “Quiero que [[CHILD|Emilio]] pueda decirnos lo que necesita antes de llorar. A veces entiendo sus señas, pero mi mamá necesita adivinar. Me gustaría que la comida y la salida de casa fueran más tranquilas”.
+
+El padre expresó: “Mi prioridad es poder jugar con [[CHILD|Milo]] cuando regreso. No quiero hacer una clase en la sala. Quiero aprender qué decir mientras jugamos con carros y cómo esperar su respuesta”.
+
+La abuela expresó: “Quiero saber cómo ayudar sin preguntarle muchas veces lo mismo. Si me muestra algo, quiero entenderlo y darle una manera sencilla de pedir”.
+
+La familia eligió primero la comunicación durante la merienda y el juego. Después desea trabajar las transiciones. Prefiere estrategias breves que puedan usar sin comprar materiales especiales. También solicita que el equipo explique cualquier símbolo o palabra nueva antes de enviarlos a casa.
+
+RUTINAS DIARIAS Y PARTICIPACIÓN
+
+Rutina	Horario habitual	Fortalezas y dificultades	Prioridad familiar
+Desayuno	[[TIME|7:15 a. m.]]	Elige alimentos con la mirada; se frustra si el adulto no entiende	Pedir y rechazar
+Salida hacia la guardería	[[TIME|8:05 a. m.]]	Busca sus zapatos; protesta al terminar el juego	Anticipar la transición
+Merienda	[[TIME|3:30 p. m.]]	Señala y entrega recipientes	Combinar gesto con palabra
+Juego familiar	[[TIME|6:00 p. m.]]	Imita acciones con carros y animales	Tomar turnos
+Preparación para dormir	[[TIME|8:10 p. m.]]	Disfruta canciones y libros repetidos	Elegir y comentar
+
+Durante la merienda, la abuela suele presentar varias preguntas seguidas. Practicará ofrecer dos opciones y esperar. Durante el juego, la hermana puede modelar una palabra y devolver el turno. Los adultos evitarán asignarle la responsabilidad de dirigir la práctica.
+
+El perro [[PET|Nilo]] atrae el interés del niño. En una observación, el niño dijo “[[PET|Nilo]] ven”. El equipo puede aprovechar ese interés durante actividades seguras y supervisadas. La familia también usa libros de animales, recipientes de cocina y carros disponibles en casa.
+
+OTRAS AGENCIAS Y CONTEXTO EDUCATIVO
+
+Entidad	Participación actual	Acción acordada
+[[AGENCY|WIC de Loma Serena]]	Apoyo alimentario y orientación nutricional	La familia comunicará cambios relevantes
+[[AGENCY|Smart Start Senderos de Brisaverde]]	Préstamo de libros y actividades familiares	Solicitar materiales en español
+[[AGENCY|DSS de Loma Serena]]	Información sobre recursos de transporte	Consultar si cambian los horarios laborales
+[[SCHOOL|Distrito Escolar de Loma Serena]]	Contacto inicial para transición	Revisar opciones con autorización familiar
+[[SCHOOL|Escuela Primaria Arroyo de Cristal]]	Posible sede de evaluación futura	Coordinar visita informativa
+
+En la guardería, [[CHILD|Emilio de la Cruz]] participa en el aula Semillitas con la maestra [[TEACHER|Teresa Molina]] y la asistente [[TEACHER|Adriana Ríos]]. Busca a sus compañeros [[PEER|Luna Beltrán]] y [[PEER|Diego Valdés]] durante el juego con bloques. A veces toma un objeto sin pedirlo. El personal apoyará un gesto, una palabra o un símbolo antes de ayudar a resolver el intercambio.
+
+La escuela identificó a la maestra [[TEACHER|Clara Monteverde]] como contacto del aula Puentes. Esta referencia permite preparar la transición; no constituye una asignación escolar ni una decisión de elegibilidad.
+
+RESULTADO [[KEEP|1]]: COMUNICACIÓN DURANTE LA MERIENDA
+
+La familia desea que [[CHILD|Emilio]] pida, elija o rechace alimentos mediante una palabra, un gesto claro o un símbolo. El criterio será comunicar una intención en [[KEEP|8/10]] oportunidades durante tres observaciones de la rutina, con [[KEEP|min cues]], antes del [[DATE|8 de abril de 2027]].
+
+La patóloga modelará palabras como "[[KEEP|más]]", "[[KEEP|agua]]" y "[[KEEP|no]]". El adulto presentará opciones visibles, hará una pausa y responderá al intento. No exigirá repetir una palabra para recibir comida. La familia registrará ejemplos breves, incluido el apoyo que necesitó el niño.
+
+Se usarán principios de [[KEEP|Hanen]] y del programa [[KEEP|It Takes Two to Talk]] para seguir el interés y ampliar mensajes. Se considerarán elementos de [[KEEP|PECS]] si un intercambio de imágenes facilita la participación. La selección dependerá de la respuesta funcional y de la preferencia familiar.
+
+RESULTADO [[KEEP|2]]: JUEGO COMPARTIDO
+
+Durante el juego con carros o animales, [[CHILD|Milo]] mantendrá intercambios de al menos tres turnos y producirá mensajes funcionales en [[KEEP|4 de 5]] oportunidades, con [[KEEP|mod cues]], antes del [[DATE|8 de abril de 2027]].
+
+El padre describirá acciones con frases breves. Esperará después de cada modelo y aceptará aproximaciones. Las palabras iniciales serán "[[KEEP|va]]", "[[KEEP|para]]" y "[[KEEP|mi turno]]". La hermana podrá participar cuando quiera, con supervisión adulta y actividades que también disfrute.
+
+La patóloga evaluará si apoyos de [[KEEP|Kaufman]] o [[KEEP|PROMPT]] ayudan a producir palabras elegidas por la familia. Cualquier contacto físico requerirá explicación y aceptación. [[KEEP|Cycles]] se considerará solamente si las muestras posteriores muestran patrones consistentes. Ningún enfoque se aplicará por su nombre sin una necesidad documentada.
+
+RESULTADO [[KEEP|3]]: TRANSICIONES PREDECIBLES
+
+La familia desea que [[CHILD|Emilio]] participe al terminar el juego y prepararse para salir. El criterio será completar la secuencia con un aviso visual y comunicar aceptación, ayuda o protesta en [[KEEP|3 de 5]] oportunidades, con [[KEEP|min cues]], antes del [[DATE|8 de abril de 2027]].
+
+Los adultos mostrarán una imagen de la actividad siguiente y ofrecerán una elección pequeña. Modelarán "[[KEEP|ayuda]]", "[[KEEP|terminé]]" y "[[KEEP|zapatos]]". La protesta será una comunicación válida. El adulto acompañará la transición sin retirar apoyos por llorar.
+
+La terapeuta ocupacional revisará barreras de participación junto con la familia. El personal educativo usará las mismas imágenes cuando resulte práctico. El equipo comparará ejemplos del hogar y de la guardería para ajustar el apoyo.
+
+CALENDARIO DE SERVICIOS
+
+Servicio	Frecuencia y duración	Lugar	Inicio	Fin previsto	Horario	Responsable
+Habla y lenguaje	Una visita semanal de 45 minutos	Hogar	[[DATE|15 de octubre de 2026]]	[[DATE|8 de abril de 2027]]	[[TIME|4:15 p. m.]]	[[PROVIDER|Lucía Ferrer-Santos]]
+Consulta de terapia ocupacional	Una visita mensual de 45 minutos	Hogar	[[DATE|22 de octubre de 2026]]	[[DATE|8 de abril de 2027]]	[[TIME|3:00 p. m.]]	[[PROVIDER|Elena Prado]]
+Coordinación de servicios	Contacto mensual y según necesidad	Teléfono o lugar acordado	[[DATE|8 de octubre de 2026]]	[[DATE|8 de abril de 2027]]	[[TIME|12:30 p. m.]]	[[PROVIDER|Mariela Campos-Vega]]
+Consulta con la guardería	Una consulta mensual de 20 minutos	Guardería	[[DATE|29 de octubre de 2026]]	[[DATE|8 de abril de 2027]]	[[TIME|10:00 a. m.]]	[[PROVIDER|Lucía Ferrer-Santos]]
+
+La documentación clínica utilizará, cuando corresponda, [[KEEP|CPT 92507]], [[KEEP|CPT 92523]], [[KEEP|ICD-10 F80.2]] y el modificador [[KEEP|GN]]. Estos códigos no sustituyen la descripción del servicio ni determinan por sí solos la cobertura.
+
+SEGUIMIENTO, TRANSICIÓN Y ACUERDO
+
+La coordinadora organizará una conversación sobre transición el [[DATE|12 de noviembre de 2026]]. Antes de compartir información, confirmará el alcance de la autorización familiar. La familia recibirá una copia en español y podrá solicitar correcciones.
+
+En cada visita, el equipo preguntará qué funcionó y qué resultó difícil. Revisará ejemplos de participación, apoyos y preferencias. Si una estrategia aumenta la frustración, la adaptará con la familia. Los datos guiarán los cambios del plan.
+
+Los padres aceptaron las prioridades y el calendario propuesto. La madre pidió avisos por correo cuando cambie una visita. El padre solicitó una demostración breve durante el juego. La patóloga incorporará ambas preferencias.
+
+Documento redactado en español por [[PROVIDER|Lucía Ferrer-Santos]], M.S., CCC-SLP, patóloga bilingüe del habla y lenguaje de [[EMPLOYER|Semillas Bilingües Terapia Pediátrica]].
+
+Fecha de documentación: [[DATE|8 de octubre de 2026]].

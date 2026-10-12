@@ -1,0 +1,40 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE
+
+Client: [[CHILD|Elio Marín]]; preferred name: [[CHILD|Lilo]]
+DOB: [[DATE|August 6, 2022]]; age: [[KEEP|4;2]]
+Service: [[DATE|October 9, 2026]], [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]
+Record: [[ID|SL-604182]]; Medicaid: [[MEDICAID_ID|482716093Q]]
+Authorization: [[ID|AUTH-731604]]
+Clinician: [[PROVIDER|Marisol Vega]], MS, CCC-SLP
+Employer: [[EMPLOYER|Little Lantern Bilingual Therapy]]
+Location: [[PLACE|214 Cloverbell Lane]], [[PLACE|Willowmere]], North Carolina [[PLACE|27104]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+[X] English  [X] Spanish
+CPT: [[KEEP|92507]]; modifier: [[KEEP|GN]]
+Diagnosis: ICD-10 [[KEEP|F80.2]]
+
+S — Subjective
+[X] Parent present  [X] Consent confirmed
+Mother [[PARENT|Inés Marín]] reported that [[CHILD|Elio]] requested breakfast with [[KEEP|"más pan"]] yesterday. Father [[PARENT|Tomás Ríos]] reported fewer communication breakdowns during play. Sister [[SIBLING|Alma Ríos]] modeled turn-taking. Grandmother [[FAMILY|Celia Marín]] joined briefly by telephone from Mexico. The family uses [[ORG|Lantern Grove Community Church]], where mother works. Volunteer [[PERSON|Nora Bell]] leads its family play program. Their dog, [[PET|Chispa]], remained nearby. During play, the child said "[[PET|Chispa]] run". Mother described this as a new combination.
+
+Family contact: [[PHONE|(919) 555-0146]]
+Father: [[PHONE|336.555.0182]]
+Grandmother: [[PHONE|+52 55 5555 0142]]
+Email: [[EMAIL|ines.marin@example.invalid]]
+
+O — Objective
+[X] Individual treatment  [X] Caregiver coaching
+The session used [[KEEP|Hanen]] strategies during pretend cooking and book sharing. Two-word requests occurred in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities. Action identification reached [[KEEP|70%]] with [[KEEP|min cues]]. Models included [[KEEP|"open box"]], [[KEEP|"more bubbles"]], and [[KEEP|"my turn"]]. The child produced [[KEEP|"me turn"]] after a delayed model. Initial [[KEEP|/k/]] emerged in [[KEEP|4/10]] trials with [[KEEP|max cues]]; substitution [[KEEP|[w]]] persisted during spontaneous speech. A language sample included SALT code [[KEEP|[EW]]] for an omitted verb.
+
+The prior evaluation dated [[DATE|September 18, 2026]] used CPT [[KEEP|92523]]. [[KEEP|PLS-5]] results included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|76]]. These results informed treatment planning alongside bilingual language samples and caregiver reports.
+
+A — Assessment
+[X] Progress observed  [ ] Goal met
+Functional requesting improved when adults paused and offered visible choices. Performance decreased when materials were removed from view. Spanish responses showed the same communication intent as English responses. The clinician accepted either language and avoided counting a language difference as an error. [[KEEP|IFSP outcome 2]] remains active. Mother demonstrated the pause-and-model routine accurately across [[KEEP|4 of 5]] practice opportunities. The child benefited from movement breaks and predictable turn-taking.
+
+P — Plan
+[X] Continue weekly therapy  [X] Coordinate services
+Practice requests during meals and shared reading. Use [[KEEP|min cues]] first, then increase support as needed. Review classroom carryover with Ms. [[TEACHER|Rosa Pineda]] at [[DAYCARE|Acorn Trail Early Learning]]. Teacher reported that peers [[PEER|Mila Torres]] and [[PEER|Benji Cole]] support turn-taking. Service coordinator [[PROVIDER|Dalia Cruz]] at the [[AGENCY|WIC]] office serving [[PLACE|Fern Hollow County]] will provide family resource information. Office phone: [[PHONE|919-555-0173]]. Resource page: [[URL|https://fernhollow-support.example.invalid]].
+
+Next visit: [[DATE|October 16, 2026]], [[TIME|9:00 a.m.]]
+Signature: [[PROVIDER|Marisol Vega]], CCC-SLP

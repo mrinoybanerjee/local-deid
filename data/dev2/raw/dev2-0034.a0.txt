@@ -1,0 +1,28 @@
+NOTA DE SESIÓN DE TERAPIA DEL HABLA Y LENGUAJE
+
+Niño: [[CHILD|Mateo Fernández Ruiz]] ("[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|12 de abril de 2021]]
+Edad: [[KEEP|4;6]]
+Número de Medicaid: [[MEDICAID_ID|NC4487213K]]
+Fecha de la sesión: [[DATE|9 de octubre de 2026]]
+Hora: [[TIME|2:30 p.m.]] a [[TIME|3:15 p.m.]]
+
+Lugar de servicio:
+[X] Hogar  [ ] Guardería  [ ] Clínica
+
+Dirección: [[PLACE|1420 Calle Roble]], [[PLACE|Cary]], [[PLACE|Condado de Wake]], [[PLACE|27511]]
+
+S (Subjetivo): La abuela, [[FAMILY|Rosa Delgado]], quien cuida a [[CHILD|Teo]] por las tardes mientras su mamá [[PARENT|Lucía Rodríguez]] trabaja en [[ORG|Muebles Carolina del Sur]], reporta que el niño durmió bien y comió su desayuno sin dificultad para tragar. La maestra, [[TEACHER|Sra. Pérez]], de la guardería [[DAYCARE|El Jardín de las Luciérnagas]], envió una nota diciendo que [[CHILD|Teo]] jugó con su compañero [[PEER|Diego]] durante el recreo y dijo "[[KEEP|quiero más]]" de forma espontánea.
+
+O (Objetivo): Se realizaron actividades estructuradas usando el enfoque [[KEEP|PROMPT]] para trabajar los sonidos /[[KEEP|k]]/ y /[[KEEP|g]]/ en posición inicial. [[CHILD|Teo]] produjo [[KEEP|8/10]] palabras objetivo con [[KEEP|claves táctiles mínimas]], incluyendo "[[KEEP|casa]]" y "[[KEEP|gato]]". En la prueba [[KEEP|Goldman-Fristoe 3]] obtuvo una puntuación estándar de [[KEEP|82]], percentil [[KEEP|13]]. Se usó el programa [[KEEP|Hanen]] con la abuela para modelar lenguaje durante el juego libre.
+
+A (Análisis): [[CHILD|Teo]] sigue mostrando progreso con los sonidos velares. Según el informe enviado por el Dr. [[PROVIDER|Alan Kim]], pediatra, no hay preocupaciones médicas nuevas. Se coordinó con [[PROVIDER|Marisol Tran]], intérprete certificada, para la próxima reunión del IFSP, meta [[KEEP|2.3]].
+
+P (Plan): Continuar sesiones dos veces por semana, [[KEEP|30 minutos]] cada una. La familia fue referida a [[AGENCY|WIC]] y al [[AGENCY|Departamento de Servicios Sociales del Condado de Wake (DSS)]] para apoyo nutricional. También se mencionó [[AGENCY|Smart Start del Condado de Durham]] como recurso adicional para la hermana menor.
+
+Contacto: para preguntas, comunicarse al [[EMAIL|gsoto.slp@carolinaspeechkids.com]] o visitar [[URL|www.carolinaspeechkids.com]]. Teléfono de la clínica: [[PHONE|(919) 555-0148]]. Celular de la mamá: [[PHONE|919-555-0193]]. Número del papá, que trabaja en Honduras: [[PHONE|+504 9988-7766]]. Se dejó también un mensaje al número de la abuela: [[PHONE|919.555.0122]].
+
+Nota adicional: el perro de la familia, [[PET|Rex]], estuvo presente en la sala pero no interfirió con la sesión. La hermana mayor, [[SIBLING|Camila]], ayudó a traducir algunas instrucciones para la abuela.
+
+Firma: [[PROVIDER|Gabriela Soto]], M.S., CCC-SLP
+ID de proveedor: [[ID|SLP-00912]]

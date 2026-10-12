@@ -1,0 +1,98 @@
+Patient Name: [[CHILD|Mateo de la Cruz]]
+Preferred Name: [[CHILD|Teo]]
+Date of Birth: [[DATE|March 14, 2021]]
+Chronological Age at Evaluation: 4;7
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Case/Record ID: [[ID|SLP-2026-0417]]
+Date of Evaluation: [[DATE|September 22, 2026]] and [[DATE|September 29, 2026]]
+Report Date: [[DATE|October 3, 2026]]
+Referring Agency: [[AGENCY|Piedmont CDSA Office]]
+Service Coordinator: [[PROVIDER|Tom Wachowski]]
+Interpreter: [[PROVIDER|Patricia Gómez]]
+Evaluating Clinician: [[PROVIDER|Alejandra Ferris]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist
+Clinic: [[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]]
+Address: [[PLACE|482 Chestnut Ridge Lane]], [[PLACE|Concord]], NC [[PLACE|28025]]
+Phone: [[PHONE|(704) 555-0148]]
+Email: [[EMAIL|aferris@carolinabilingualslp.com]]
+Parent/Guardian: [[PARENT|Lucía Rodríguez-Vega]] (mother)
+Parent/Guardian: [[PARENT|Tomás de la Cruz]] (father)
+Daycare/School: [[DAYCARE|Little Sprouts Early Learning Center]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Teo]] is a 4-year, 7-month-old bilingual (Spanish/English) boy referred for a comprehensive speech-language evaluation by the [[AGENCY|Piedmont CDSA Office]] following a concern raised by his daycare teacher, [[TEACHER|la maestra Carmen]], and by his mother, [[PARENT|Lucía Rodríguez-Vega]], regarding delayed and unclear speech. The family was referred to this clinic through [[AGENCY|Early Head Start]], where [[CHILD|Teo]] was previously enrolled before transitioning to [[DAYCARE|Little Sprouts Early Learning Center]]. Service coordination is provided by [[PROVIDER|Tom Wachowski]], who coordinated scheduling with the family and arranged for a Spanish-English interpreter, [[PROVIDER|Patricia Gómez]], to be present for both sessions. The evaluation took place across two visits, [[DATE|el lunes 22 de septiembre de 2026]] and [[DATE|29 de septiembre de 2026]], at the request of the family's pediatrician and the [[AGENCY|CDSA]] service coordinator, who noted that [[CHILD|Teo]]'s intelligibility had not improved despite being enrolled in daycare for over a year.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[DATE|37 weeks]] gestation at [[HOSPITAL|Cabarrus Valley Medical Center]] on [[DATE|03/14/2021]] via scheduled cesarean section due to breech presentation. Birth weight was reported as 6 lbs, 4 oz. [[PARENT|Mrs. de la Cruz]] reported an uncomplicated pregnancy with regular prenatal care through the [[AGENCY|WIC]] program, which the family also used for nutritional support during [[CHILD|Teo]]'s infancy. No NICU stay was required, and [[CHILD|Teo]] was discharged home with his mother on [[DATE|March 16, 2021]]. Developmental milestones for gross motor skills (sitting, walking) were reported as within normal limits, with independent walking achieved around 13 months. Fine motor skills were also reported as age-appropriate.
+
+[[PARENT|Lucía]] reported a history of frequent ear infections between ages 1 and 3, with at least six documented episodes treated with antibiotics by the family's pediatrician. Tympanostomy tubes were placed on [[DATE|the 4th of June, 2024]] ([[DATE|el martes 4 de junio]]) at an ENT clinic following a referral triggered by a failed hearing screening at a well-child visit. A follow-up hearing evaluation on [[DATE|07/18/2024]] showed normal hearing bilaterally with the tubes in place. No additional surgeries, hospitalizations, or significant illnesses were reported. [[CHILD|Teo]]'s vision was last screened at his 4-year well-child visit and was reported as normal. There is no known family history of autism, intellectual disability, or genetic syndromes; however, [[PARENT|Mr. de la Cruz]] reported that his own brother was a "late talker" and did not begin combining words until close to age 4.
+
+FAMILY, SOCIAL, AND LANGUAGE HISTORY
+
+[[CHILD|Teo]] lives with his mother, [[PARENT|Lucía Rodríguez-Vega]]; his father, [[PARENT|Tomás de la Cruz]]; and his older brother, [[SIBLING|Diego]], age 7, at the family's home in [[PLACE|Concord]], [[PLACE|Cabarrus County]]. The family also has a dog, [[PET|Rocky]], whom [[CHILD|Teo]] frequently mentions during play-based interactions. [[CHILD|Teo]]'s maternal grandmother, referred to by the family as [[FAMILY|doña Lupe]], provides after-school and weekend childcare and has lived with the family intermittently since [[DATE|2023]]. [[FAMILY|Doña Lupe]] speaks primarily Spanish and reports spending several hours daily engaged in verbal play, storytelling, and household routines with [[CHILD|Teo]].
+
+The home language environment is described as predominantly Spanish, with [[PARENT|Lucía]] estimating that approximately 70% of input at home is in Spanish and 30% in English, largely driven by [[SIBLING|Diego]]'s school-based English use at home. [[PARENT|Tomás]] works full-time at [[ORG|Carolina Fresh Poultry Processing]] on the evening shift and reports speaking to [[CHILD|Teo]] primarily in Spanish during the limited time they have together in the mornings. [[PARENT|Lucía]] works part-time as a cashier and is the primary daytime caregiver on days [[CHILD|Teo]] is not in daycare.
+
+[[CHILD|Teo]] began attending [[DAYCARE|Little Sprouts Early Learning Center]] in [[DATE|January 2025]] after transitioning out of the [[AGENCY|Early Head Start]] program, which the family accessed through a referral from [[AGENCY|Cabarrus County DSS]] when [[CHILD|Teo]] was an infant. At daycare, instruction is delivered primarily in English. [[CHILD|Teo]]'s classroom teacher, [[TEACHER|la maestra Carmen]], reports that he is social and eager to interact with peers but is frequently difficult to understand, which has led to frustration during group activities. The assistant teacher, [[TEACHER|Miss Ana]], echoed similar concerns, noting that [[CHILD|Teo]] often resorts to pointing or physical gestures rather than verbal requests when peers do not understand him. One peer in particular, [[PEER|Sofía]], has reportedly become [[CHILD|Teo]]'s preferred playmate and often "translates" his requests to other classmates and staff.
+
+The family's involvement with [[AGENCY|Smart Start]] of [[PLACE|Cabarrus County]] began earlier this year when [[PARENT|Lucía]] attended a parent workshop on early language development, which prompted her to request this evaluation. [[PARENT|Lucía]] reported that she had previously raised concerns about [[CHILD|Teo]]'s speech with his pediatrician around his second birthday but was told to "wait and see," which contributed to the delay in seeking a formal evaluation.
+
+BEHAVIORAL OBSERVATIONS
+
+During both evaluation sessions, [[CHILD|Teo]] presented as a friendly, curious child who separated easily from his mother and engaged readily with this examiner and with the interpreter, [[PROVIDER|Patricia Gómez]]. He demonstrated age-appropriate play skills, including symbolic play with toy animals and a pretend kitchen set, and engaged in reciprocal turn-taking during structured and unstructured tasks. Attention and engagement were adequate for the duration of both sessions, though some redirection was needed during longer verbal tasks.
+
+Speech intelligibility was notably reduced in connected speech, estimated at approximately 40% for unfamiliar listeners and 65% for familiar listeners (parent report), consistent with concerns raised by [[TEACHER|la maestra Carmen]] and [[PARENT|Lucía]]. [[CHILD|Teo]] was observed to use a limited consonant inventory, with frequent final consonant deletion (e.g., "ca" for "cat"), cluster reduction ("poon" for "spoon"), and gliding of liquids (e.g., "wed" for "red," producing /w/ for /r/). In Spanish, similar patterns were observed, with simplification of consonant clusters in words like "problema," produced as [poblema], and difficulty with the trilled /r/ sound. [[CHILD|Teo]] was stimulable for several target sounds with [[TIME|moderate]] cueing, achieving correct productions of /k/ and /g/ in isolation with mod cues during structured drill tasks.
+
+ASSESSMENT PROCEDURES AND RESULTS
+
+The following standardized and informal measures were administered in both English and Spanish, with input from the interpreter, [[PROVIDER|Patricia Gómez]], to ensure accurate administration and scoring in both languages.
+
+Standardized Measures:
+
+| Measure | Language | Standard Score | Percentile Rank |
+|---|---|---|---|
+| Goldman-Fristoe Test of Articulation–3 (GFTA-3) | English | 72 | 3rd |
+| Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3), Core Language | English | 79 | 8th |
+| Preschool Language Scales-5 (PLS-5), Spanish-Bilingual Edition | Spanish/English | 68 | 2nd |
+| Bilingual English-Spanish Assessment (BESA), Phonology Subtest | Spanish | 70 | 2nd |
+| Expressive Vocabulary Test-3 (EVT-3) | English | 76 | 5th |
+
+Oral mechanism examination revealed adequate structure and function for speech purposes, with no evidence of structural abnormality, dysarthria, or apraxia-related symptoms. Diadochokinetic rates were judged to be within age expectations.
+
+Spontaneous language samples were collected in both English and Spanish during play-based interaction. In English, [[CHILD|Teo]] produced primarily 2- to 3-word utterances (e.g., "I want that," "dog go outside"), with occasional 4-word combinations. Mean length of utterance in morphemes (MLU-m) was calculated at 2.8, below the expected range for his chronological age. SALT coding of the sample identified frequent omission of grammatical morphemes, coded as [EW] for several utterances involving omitted copula "is" (e.g., "he happy" for "he is happy"). In Spanish, utterances were similarly limited in length and complexity, with omission of articles and inconsistent verb conjugation (e.g., "yo quiero ir" produced as "yo queer ir").
+
+Articulation testing revealed a moderate phonological disorder affecting both languages, with phonological processes including final consonant deletion, cluster reduction, gliding, and stopping of fricatives. Target word probes elicited productions such as "sun" produced as [tʊn] and "shoe" produced as [tu], with the fricative /ʃ/ consistently realized as [t]. In quoted productions, [[CHILD|Teo]] was able to approximate the word "casa" as "tasa" and "perro" as "peo," demonstrating difficulty with the trilled /r/ phoneme. Stimulability testing showed that [[CHILD|Teo]] could approximate several target sounds with moderate cueing, including /s/ and /ʃ/ in isolation, though not yet in connected speech.
+
+Receptive and expressive vocabulary in both languages fell within the low-average to below-average range, with notably stronger vocabulary in Spanish for home and family-related concepts and stronger vocabulary in English for daycare and school-related concepts, consistent with the bilingual language environment described by the family.
+
+IMPRESSIONS
+
+Based on parent and teacher report, direct observation, and standardized and informal assessment results, [[CHILD|Teo]] presents with a moderate speech sound disorder affecting intelligibility in both English and Spanish, alongside a mild-to-moderate expressive and receptive language delay in both languages. Because deficits are present and proportionally similar across both of [[CHILD|Teo]]'s languages, this profile is consistent with a true communication disorder rather than a language difference attributable to typical bilingual development or reduced exposure to either language. [[CHILD|Teo]]'s strengths include strong social engagement, intact play skills, adequate oral-motor structure and function, and stimulability for several error sounds with cueing support, all of which are positive prognostic indicators for therapy.
+
+The history of chronic otitis media with effusion, treated with tympanostomy tubes placed on [[DATE|June 4, 2024]], may have contributed to early speech sound development delays, though current hearing status is reported as normal. [[CHILD|Teo]]'s rich home language environment, supported by his mother, father, and grandmother ([[FAMILY|doña Lupe]]), provides a strong foundation for bilingual intervention, and his family's engagement with community supports, including [[AGENCY|WIC]], [[AGENCY|Smart Start]], and [[AGENCY|Cabarrus County DSS]], reflects a supportive and resourceful family system.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Teo]] qualifies for speech-language therapy services based on standardized testing, clinical observation, and significant parent and teacher concern, meeting criteria for both articulation/phonology and expressive/receptive language impairment in both English and Spanish.
+
+2. Individual speech-language therapy is recommended at a frequency of two sessions per week, 30 minutes each, provided in both English and Spanish to the extent possible, with goals targeting phonological processes (final consonant deletion, cluster reduction, gliding, stopping), expanding utterance length and grammatical morpheme use, and increasing overall intelligibility across both languages.
+
+3. Continued coordination with [[AGENCY|Piedmont CDSA Office]] and service coordinator [[PROVIDER|Tom Wachowski]] is recommended to ensure services are reflected in [[CHILD|Teo]]'s IFSP, with the next IFSP review meeting recommended for [[DATE|December 2026]] to assess progress and discuss transition planning ahead of his third birthday... [note: chronological age noted above reflects current status; transition planning should instead focus on kindergarten entry given his age].
+
+4. Collaboration with [[DAYCARE|Little Sprouts Early Learning Center]] staff, including [[TEACHER|la maestra Carmen]] and [[TEACHER|Miss Ana]], is recommended to support carryover of therapy targets into the classroom setting, including use of visual supports and peer modeling strategies with classmates such as [[PEER|Sofía]].
+
+5. Home practice strategies were discussed with [[PARENT|Lucía Rodríguez-Vega]] and [[FAMILY|doña Lupe]], including modeling target sounds during daily routines and expanding [[CHILD|Teo]]'s utterances during shared book reading in both Spanish and English.
+
+6. A hearing re-screening is recommended within the next 6 months given [[CHILD|Teo]]'s history of chronic ear infections, to be coordinated through his primary care provider.
+
+7. Re-evaluation of progress is recommended in approximately 6 months, or sooner if requested by the family, daycare staff, or service coordinator.
+
+This evaluation and report were completed with the assistance of a qualified Spanish-English interpreter, [[PROVIDER|Patricia Gómez]], to ensure accurate communication with the family throughout both sessions.
+
+Respectfully submitted,
+
+[[PROVIDER|Alejandra Ferris]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]]
+Report completed: [[DATE|October 3, 2026]]

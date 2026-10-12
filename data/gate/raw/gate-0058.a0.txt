@@ -1,0 +1,20 @@
+Document: Fictional parent update  Date: [[DATE|October 8, 2026]]  Service time: [[TIME|9:15 a.m.]]
+Child: [[CHILD|Elena Marisol Varela]]  Preferred name: [[CHILD|Leni]]  Birth date: [[DATE|August 8, 2022]]  Age: [[KEEP|4;2]]
+Parent: [[PARENT|Sonia Varela]]  Parent: [[PARENT|Daniel Varela]]  Clinician: [[PROVIDER|Mara Beltrán]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Willow Lantern Speech Services]]  School: [[SCHOOL|Fernbridge Early Learning School]]  Teacher: Ms. [[TEACHER|Keira Solano]]
+Address: [[PLACE|418 Mallow Fern Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|28994]]  County: [[PLACE|Fernmere County]]
+Medicaid ID: [[MEDICAID_ID|938471625Q]]  Insurance member ID: [[ID|MBR482761903]]  NC ITP child ID: [[ID|ITP63028491]]  Authorization number: [[ID|AUTH26087341]]
+Phone: [[PHONE|919-555-0146]]  Email: [[EMAIL|mara.beltran@example.org]]  Website: [[URL|https://willowlantern.example.org]]
+Agency: [[AGENCY|Fernmere Children's Developmental Services Agency]]  Coordinator: [[PROVIDER|Nora Ibarra]]  Parent workplace: [[ORG|Mallow Moon Bookbindery]]
+
+Greeting: Dear [[PARENT|Sonia]] and [[PARENT|Daniel]],  Purpose: This note summarizes today's visit and offers a short home practice plan.
+
+Summary: [[CHILD|Elena]] used longer English phrases during pretend cooking and readily joined Spanish conversation with familiar adults. Both languages remain welcome during play. We discussed how language exposure can affect performance and why one score cannot describe communication across settings. Please continue using the language that feels natural for each family activity. There is no need to translate every sentence or ask for repeated corrections.
+
+Measures: Earlier records included the [[KEEP|Rossetti]], [[KEEP|Bayley]], and [[KEEP|Peabody]]. Today's [[KEEP|Goldman-Fristoe]] yielded [[KEEP|standard score 84]] and [[KEEP|14th percentile]]. Structured trials showed [[KEEP|8/10]] accurate initial [[KEEP|/k/]] productions with [[KEEP|mod cues]] and [[KEEP|80%]] accuracy. A sample included [[KEEP|"I want tat"]], targeting [[KEEP|"cat"]], and [[KEEP|[w]]] for [[KEEP|/r/]]. The transcript retained [[KEEP|[EW]]]. Billing references were [[KEEP|CPT 92507]] and [[KEEP|ICD-10 F80.0]].
+
+Classroom: Classmates [[PEER|Milo Trent]] and [[PEER|Ada Neri]] joined turn-taking games. Ms. [[TEACHER|Solano]] reported easier participation when directions included pictures.
+
+Home: Brother [[SIBLING|Nico Varela]], cousins [[FAMILY|Tessa Molina]] and [[FAMILY|Rafi Molina]], and babysitter [[FAMILY|June Alder]] can model short phrases. Pet dog [[PET|Biscuit]] provides a playful topic. Practice during snack preparation; offer a model, pause, and accept pointing or speech.
+
+Follow-up: We will review classroom examples on [[DATE|November 5, 2026]].  Closing: Warmly, [[PROVIDER|Mara Beltrán]]

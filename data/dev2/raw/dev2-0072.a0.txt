@@ -1,0 +1,21 @@
+Child Name: [[CHILD|Mateo Hernández Flores]]  Date of Birth: [[DATE|June 14, 2022]]  Age: [[KEEP|4;2]]
+Date of Service: [[DATE|October 8, 2026]]  Session Time: [[TIME|10:00 AM]] to [[TIME|10:45 AM]]
+Medicaid ID: [[MEDICAID_ID|MC58213746A]]  Child ID: [[ID|CDSA-00481529]]
+Provider: [[PROVIDER|Dana Whitfield]], M.S., CCC-SLP  Employer: [[EMPLOYER|Carolina Pediatric Therapy Services]]
+Interpreter: [[PROVIDER|Sofía Martínez]]  Service Coordinator: [[PROVIDER|Ana Beltrán]]
+Service Coordinator Agency: [[AGENCY|Niños Primero de Carolina del Norte, Agencia de Coordinación de Servicios]] (short: [[AGENCY|Niños Primero]])
+CDSA Office: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Durham]] (short: [[AGENCY|CDSA de Durham]])  Agency Phone: [[PHONE|919.555.0173]]
+Home Address: [[PLACE|482 Redbird Lane]], [[PLACE|Durham]], NC [[PLACE|27703]]
+Family Hometown Village: [[PLACE|El Rosario]], [[PLACE|Olancho]], Honduras
+Home Phone: [[PHONE|(919) 555-0142]]  Mother's Cell: [[PHONE|919-555-0198]]  Honduras Family Line: [[PHONE|+504 9876-5432]]
+
+S: [[PARENT|Lucía Hernández Ramírez]] reports [[CHILD|Mateo]] had a good week at [[FAMILY|Rosa Flores]]'s house while she worked an extra shift. [[PARENT|Lucía]] works at the [[ORG|Westside Grocery Store]] (la [[ORG|Tienda Westside]]) and says [[CHILD|he]] has been saying more words at home, including "[[KEEP|wawa]]" for water and "[[KEEP|baba]]" for bottle. Father, [[PARENT|Joel Flores Mendoza]], works nights at the [[ORG|Carolina Poultry Processing Plant]], known to the family as the [[ORG|Planta Procesadora de Pollo Carolina]], and reports [[CHILD|Mateo]] imitates his older sister [[SIBLING|Camila]], age [[KEEP|6]], more often now. Mother's partner, [[PARENT|Carlos Mendoza]], works for [[ORG|Ramírez Construction Company]] (la [[ORG|Compañía de Construcción Ramírez]]) and drove [[CHILD|Mateo]] to the session when [[PARENT|Lucía]]'s shift ran long. Grandmother [[FAMILY|Rosa Flores]] provides cleaning services for [[ORG|Sunrise Cleaning Service]] ([[ORG|Servicio de Limpieza Sunrise]]) three mornings a week and watches [[CHILD|Mateo]] during that time. Aunt [[FAMILY|Marta Ramírez]], who works at [[ORG|Green Valley Farm]] ([[ORG|Granja Green Valley]]), and uncle [[FAMILY|Pedro Hernández]], a cook at [[ORG|El Rancho Restaurant]] ([[ORG|Restaurante El Rancho]]), both attended the last family gathering, where [[CHILD|Mateo]] greeted them with "hola."
+
+O: Seen individually for [[KEEP|45]] minutes via telehealth with [[PROVIDER|Sofía Martínez]] interpreting. Administered selected subtests of the [[KEEP|PLS-5]]; Auditory Comprehension standard score [[KEEP|76]], [[KEEP|5th percentile]], age equivalent [[KEEP|2;8]]. [[CHILD|Mateo]] produced /[[KEEP|w]]/ for /[[KEEP|r]]/ in "[[KEEP|wabbit]]" for "[[KEEP|rabbit]]," consistent with prior sessions. With [[KEEP|moderate cues]] using [[KEEP|PROMPT]], he imitated CV and CVCV targets [[KEEP|3 of 5]] trials. Classroom report from [[TEACHER|Mr. Alvarado]] at [[DAYCARE|Little Steps Early Learning Center]] notes [[CHILD|Mateo]] follows one-step directions [[KEEP|8/10]] opportunities in group, often prompted by his classmate [[PEER|Diego Soto]], who models the expected routine.
+
+A: [[CHILD|Mateo]] continues to demonstrate a moderate receptive-expressive language delay consistent with [[KEEP|ICD-10 F80.9]]. Progress noted toward IFSP [[KEEP|Outcome 2]] with emerging two-word combinations. Family's current address at [[PLACE|482 Redbird Lane]] remains stable; mother notes extended family still lives near the village of [[PLACE|El Rosario]] in [[PLACE|Olancho]], Honduras, reachable at [[PHONE|+504 9876-5432]].
+
+P: Continue weekly teletherapy. [[PROVIDER|Ana Beltrán]] at [[AGENCY|Niños Primero]] will coordinate transportation support through the [[AGENCY|CDSA de Durham]] for the upcoming [[DATE|November 12, 2026]] IFSP review. Next session scheduled [[DATE|October 15, 2026]] at [[TIME|10:00 AM]].
+
+[[PROVIDER|Dana Whitfield]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pediatric Therapy Services]]

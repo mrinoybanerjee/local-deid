@@ -1,0 +1,41 @@
+NOTA DE SESIÓN DE TERAPIA DEL HABLA Y LENGUAJE
+
+Niño: [[CHILD|Mateo Fuentes]]
+Fecha de sesión: [[DATE|October 9, 2026]]
+Fecha de nacimiento: [[DATE|04/02/2022]] (edad: [[KEEP|4;6]])
+ID de Medicaid: [[MEDICAID_ID|NC77213845B]]
+Programa: [[DAYCARE|Little Learners Program]]
+Intérprete presente: [[PROVIDER|Rosa Camacho]]
+
+S (Subjetivo): [[CHILD|Mateo]] llegó desde el salón de [[DAYCARE|Little Learners Daycare]], de la clase de la Sra. [[TEACHER|Lopez]]. Su mamá, [[PARENT|Daniela Fuentes]], comentó que en casa [[CHILD|Mateo]] habló de su hermana, [[SIBLING|Camila]], y de su perrito [[PET|Rocky]]. Dijo: "[[PET|Rocky]] y [[SIBLING|Camila]] jugar afuera." El intérprete, [[PROVIDER|Rosa Camacho]], tradujo las observaciones de la madre durante toda la sesión.
+
+O (Objetivo): Se trabajó producción de /r/ y /s/ en posición inicial usando el enfoque [[KEEP|PROMPT]]. [[CHILD|Mateo]] logró [[KEEP|7/10]] intentos correctos de "[[KEEP|sol]]" con [[KEEP|claves mínimas]] y [[KEEP|4/10]] de "[[KEEP|rosa]]" con [[KEEP|claves moderadas]]. Produjo [[KEEP|/s/]] como [[KEEP|[θ]]] en dos ensayos. En juego libre dijo "quiero jugar con [[PEER|Diego]]", refiriéndose a su compañero de clase.
+
+Tabla de puntajes de la sesión (pegada como texto separado por tabulaciones):
+
+Prueba	Puntaje estándar	Percentil	Edad equivalente
+[[KEEP|CELF-5]]	[[KEEP|82]]	[[KEEP|12]]	[[KEEP|3;8-4;0]]
+[[KEEP|Auditory Comprehension]]	[[KEEP|79]]	[[KEEP|8]]	[[KEEP|3;4]]
+[[KEEP|PLS-5]]	[[KEEP|85]]	[[KEEP|16]]	[[KEEP|3;9-4;1]]
+
+A (Análisis): [[CHILD|Mateo]] continúa con distorsión de [[KEEP|/r/]] y [[KEEP|/s/]], consistente con retraso fonológico. Progresa con el programa [[KEEP|Cycles]]. Código SALT: [[KEEP|[EW]]] notado dos veces para omisión final.
+
+P (Plan): Continuar terapia dos veces por semana. Se coordinará con la terapeuta ocupacional, [[PROVIDER|Beatriz Nuñez]], y el fisioterapeuta, [[PROVIDER|James Whitfield]], sobre postura durante mesa de trabajo. El pediatra, Dr. [[PROVIDER|Carlos Mendoza]], de [[HOSPITAL|Pinecrest Pediatrics]], solicitó actualización para la próxima cita el [[DATE|November 18, 2026]].
+
+Horario de servicios:
+
+Día	Hora	Proveedor	Ubicación
+Lunes	[[TIME|9:00 AM]]	[[PROVIDER|Rosa Camacho]] (intérprete)	[[DAYCARE|Little Learners Daycare]]
+Jueves	[[TIME|2:30 PM]]	SLP	[[AGENCY|Carolina CDSA]]
+
+Contactos:
+
+Nombre	Relación	Teléfono
+[[PARENT|Daniela Fuentes]]	Madre	[[PHONE|(919) 555-0417]]
+[[PARENT|Héctor Fuentes]]	Padre	[[PHONE|(919) 555-0298]]
+[[PROVIDER|Rosa Camacho]]	Intérprete	[[PHONE|(919) 555-0163]]
+
+CPT: [[KEEP|92507]]; ICD-10: [[KEEP|F80.0]]. Clínica: [[EMPLOYER|Triangle Pediatric Speech Partners]], ubicada en [[PLACE|204 Maple Hollow Lane, Cary]]. ID de expediente: [[ID|TPS-004471]]. Correo de contacto de la clínica: [[EMAIL|intake@trianglepedspeech.com]].
+
+Firma: [[PROVIDER|Laura Jiménez, M.S., CCC-SLP]]
+Fecha de informe: [[DATE|October 9, 2026]]

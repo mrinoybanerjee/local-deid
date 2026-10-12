@@ -1,0 +1,41 @@
+Carolina Pediatric Speech & Language Therapy, PLLC
+Daily Session Note – Speech-Language Pathology
+
+Client: [[CHILD|Mateo Alvarez Cruz]]
+DOB: [[DATE|August 14, 2021]]  Age: [[KEEP|4;2]]
+Date of Service: [[DATE|October 9, 2026]]  Time: [[TIME|9:30 AM]]–[[TIME|10:15 AM]]
+Setting: [[SCHOOL|Forest Pines Elementary]], [[SCHOOL|Wake County Public School System]], Pre-K classroom of Ms. [[TEACHER|Lopez]]
+Clinician: [[PROVIDER|Sarah Mitchell]], M.S., CCC-SLP (bilingual English/Spanish)
+Employer: [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]]
+Medicaid ID: [[MEDICAID_ID|998213456A]]
+CPT: [[KEEP|92507]]  ICD-10: [[KEEP|F80.1]]
+
+S: Mother, [[PARENT|Lucía Rodríguez]], reports [[CHILD|Mateo]] continues to mix Spanish and English at home with his sister, [[SIBLING|Camila]], and their dog, [[PET|Rocky]]. Father, [[PARENT|Carlos Alvarez]], works at [[ORG|Triangle Metal Fabrication]] and was unable to attend today's session. [[PARENT|Lucía Rodríguez]] shared that the family attends services at [[ORG|Iglesia Nueva Esperanza]] on Sundays and that [[CHILD|Mateo]] enjoys the bilingual story-time program at the [[ORG|East Regional Library]].
+
+O: Session held in the classroom of Ms. [[TEACHER|Lopez]] at [[SCHOOL|Forest Pines Elementary]]. Peer [[PEER|Isaiah]] joined for the final ten minutes of the group activity. Articulation drill targeted /k/ and /g/ in word-initial position using the [[KEEP|Cycles]] approach. [[CHILD|Mateo]] produced "[[KEEP|cat]]" correctly [[KEEP|8/10]] trials with [[KEEP|min cues]]. /g/ remained in error; when asked to name the dog he said "[[PET|Rocky]] va," approximating the target as [w] with [[KEEP|mod cues]]. The utterance was coded [[KEEP|[EW]]] on the SALT transcript.
+
+Standardized measures administered this visit:
+
+Test	Standard Score	Percentile	Age Equivalent
+[[KEEP|GFTA-3]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|3;1]]
+[[KEEP|PLS-5 Auditory Comprehension]]	[[KEEP|82]]	[[KEEP|12th]]	[[KEEP|3;4]]
+[[KEEP|PLS-5 Expressive Communication]]	[[KEEP|85]]	[[KEEP|16th]]	[[KEEP|3;6]]
+
+A: [[CHILD|Mateo]] demonstrates continued gains in word-initial /k/ with [[KEEP|min cues]], consistent with progress noted since the [[DATE|March 3, 2026]] IFSP review. /g/ remains emerging; [[KEEP|PROMPT]] cueing was trialed with partial success ([[KEEP|3 of 5]] trials). Family reports consistent home carryover supported by Grandmother [[FAMILY|Rosa Cruz]], who provides after-school care three days weekly.
+
+P: Continue twice-weekly direct therapy per IFSP Outcome [[KEEP|2]]. Coordinate with service coordinator [[PROVIDER|Denise Walker]] at the [[AGENCY|Wake County CDSA]] regarding transition planning. Referral renewed through [[AGENCY|Wake County DSS]] and [[AGENCY|WIC]] continues for nutrition support; family remains enrolled with [[AGENCY|Smart Start of Wake County]] and previously received services through [[AGENCY|Early Head Start]].
+
+Contact information on file:
+
+Contact	Role	Phone	Email
+[[PARENT|Lucía Rodríguez]]	Mother	[[PHONE|(919) 555-0148]]	[[EMAIL|lucia.rodriguez82@gmail.com]]
+[[PROVIDER|Denise Walker]]	Service Coordinator	[[PHONE|(919) 555-0177]]	[[EMAIL|dwalker@wakecdsa.org]]
+[[PROVIDER|Sarah Mitchell]]	SLP	[[PHONE|(984) 555-0192]]	[[EMAIL|smitchell@carolinapeds-slp.com]]
+
+Service schedule:
+
+Day	Time	Service	Location
+Monday	[[TIME|9:30 AM]]	Direct SLP	[[SCHOOL|Forest Pines Elementary]]
+Thursday	[[TIME|1:00 PM]]	Direct SLP	Home, [[PLACE|412 Birchwood Lane]], [[PLACE|Garner]], NC [[PLACE|27529]]
+
+Next session scheduled [[DATE|October 14, 2026]]. Record reviewed and signed by [[PROVIDER|Sarah Mitchell]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]].

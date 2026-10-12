@@ -1,0 +1,26 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Niña: [[CHILD|María José Fernández Castillo]]
+Fecha de nacimiento: [[DATE|04/12/2021]] Edad: [[KEEP|4;6]]
+ID de caso: [[ID|NC-884215-SLP]] Medicaid: [[MEDICAID_ID|739204815B]]
+Fecha de servicio: [[DATE|11 de octubre de 2026]] Hora: [[TIME|2:30 p.m.]]
+Lugar: domicilio familiar, [[PLACE|482 Willow Bend Lane, Cary, NC 27511]]
+
+Clínica: [[PROVIDER|Daniela Ortiz Reyes, M.S., CCC-SLP]], patóloga del habla y lenguaje bilingüe, empleada de [[EMPLOYER|Tarheel Pediatric Speech & Language Services, PLLC]] (también conocida como [[EMPLOYER|Tarheel Pediatric Speech]] o [[EMPLOYER|TPSLS]]).
+
+S: La mamá, [[PARENT|Lucía Castillo Nuñez]], reporta que [[CHILD|María José]] ha estado usando más palabras en casa con su hermano mayor [[SIBLING|Joaquín]] y con la niñera [[FAMILY|Rosa Elena Pacheco]]. El padre, [[PARENT|Mario Fernández Ibarra]], no estuvo presente. La maestra de preescolar, [[TEACHER|Sra. Whitfield]], de [[DAYCARE|Little Sprouts Daycare]], envió una nota diciendo que [[CHILD|María José]] jugó bien con su compañera [[PEER|Sofía]] esta semana.
+
+O: Se usó el enfoque [[KEEP|Hanen]] y la estrategia [[KEEP|It Takes Two to Talk]] para fomentar turnos conversacionales. También se incorporó [[KEEP|PROMPT]] táctil para la producción de /k/ y /g/. [[CHILD|María José]] produjo "[[KEEP|cama]]" con sustitución [/t/] por /k/ en [[KEEP|6/10]] ensayos con [[KEEP|mod cues]]. Se trabajó el programa [[KEEP|Cycles]] para fonología, meta #[[KEEP|2]]. Se intentó también una tarjeta de [[KEEP|PECS]] para solicitar "más", con [[KEEP|max cues]].
+
+A: Progreso leve en inteligibilidad; [[KEEP|PLS-5]] previo mostró puntaje estándar [[KEEP|78]] (rango [[KEEP|73-83]]), percentil [[KEEP|7]]. Edad equivalente [[KEEP|2;6–3;0]].
+
+P: Continuar [[KEEP|Hanen]] y [[KEEP|Cycles]]; considerar [[KEEP|Kaufman]] para secuencias motoras del habla. Coordinar con el coordinador de servicios [[PROVIDER|Hugo Ramírez]] de [[AGENCY|CDSA del Triángulo]].
+
+Revisión de resultados del IFSP:
+
+Resultado	Estrategias	Progreso	Fecha
+Comunicación expresiva	[[KEEP|Hanen]], [[KEEP|PROMPT]]	Emergente, [[KEEP|6/10]]	[[DATE|10/04/2026]]
+Fonología	[[KEEP|Cycles]], [[KEEP|PECS]]	Mínimo, [[KEEP|3 of 5]]	[[DATE|09/20/2026]]
+Juego social	Modelado con [[PEER|Sofía]]	Adecuado	[[DATE|10/11/2026]]
+
+Próxima cita: [[DATE|18 de octubre de 2026]] a las [[TIME|2:30 p.m.]]. Contactar a [[PROVIDER|Daniela Ortiz Reyes]] al [[PHONE|(919) 555-0147]] o [[EMAIL|dortiz@tarheelpeds.com]]. Facturación: código [[KEEP|92507]], diagnóstico [[KEEP|F80.2]].

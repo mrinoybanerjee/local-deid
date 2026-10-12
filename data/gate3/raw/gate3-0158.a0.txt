@@ -1,0 +1,51 @@
+S: INFORMACIÓN FAMILIAR / FAMILY REPORT
+
+[[AGENCY|NC Infant-Toddler Program]] IFSP review dated [[DATE|September 18, 2026]]. Child: [[CHILD|Emilio Rafael Solís]], called [[CHILD|Milo]]; DOB [[DATE|July 11, 2024]]; age [[KEEP|26 months]]. Record [[ID|CH-ITP-026481]]; Medicaid [[MEDICAID_ID|583026194Q]]. Home: [[PLACE|427 Lantern Fern Lane]], [[PLACE|Brindle Cove]], North Carolina [[PLACE|27984]]. County: [[PLACE|Cedar Hollow County]]. Participants attended in person; family chose Spanish with English clarification.
+
+Parents: mamá [[PARENT|Valeria Solís]] and papá [[PARENT|Andrés Solís]]. Contact [[PHONE|252-555-0148]]; [[EMAIL|valeria.solis@example.invalid]]. Sister [[SIBLING|Inés Solís]], age [[KEEP|6 years]], joins evening play. Abuela, doña [[FAMILY|Lupe]], provides daytime care. Neighbor and babysitter [[FAMILY|Teresa Vidal]] covers shift overlap. Dog [[PET|Canela]] stays behind gate during visits.
+
+Mom works nights at [[ORG|Moonbridge Linen Services]] as a laundry sorter, [[TIME|10:00 p.m.]]–[[TIME|6:00 a.m.]]. Dad works variable delivery shifts. “Quiero que [[CHILD|Milo]] me diga qué necesita; cuando llora, todos adivinamos.” Dad: “En inglés entiende poquito; en español también necesita que le enseñemos. Queremos menos frustración, especialmente al comer.” Family priority: requests during meals, then participation with peers. No preference for English replacing Spanish.
+
+Wake approximately [[TIME|7:15 a.m.]]; breakfast with abuela at [[TIME|7:45 a.m.]]. Childcare arrival [[TIME|8:30 a.m.]]; nap [[TIME|12:30 p.m.]]; pickup [[TIME|3:15 p.m.]]. Dinner [[TIME|6:00 p.m.]], bath [[TIME|7:00 p.m.]], bedtime [[TIME|8:15 p.m.]]. “En el baño sí platica; cuando hay prisa, se queda callado.” Family wants practice embedded in these routines, sin tarea larga.
+
+Childcare: [[DAYCARE|Little Lantern Early Head Start Center]], [[PLACE|Brindle Cove]]. Teacher Miss [[TEACHER|Ana]] and assistant la maestra [[TEACHER|Carmen]] report pointing, occasional grabbing, and emerging turn-taking with [[PEER|Nora]] and [[PEER|Javi]]. Family permits coordination with classroom staff.
+
+Other supports: [[AGENCY|Fernbridge WIC Office]], [[PLACE|Cedar Hollow County]]; [[AGENCY|Lantern DSS Family Support Unit]], [[PLACE|Cedar Hollow County]]; [[AGENCY|Bright Acorn Smart Start Partnership]], [[PLACE|Cedar Hollow County]]. WIC provides nutrition follow-up; DSS assists childcare paperwork. Smart Start supplied bilingual books. Family reports no current transportation barrier; dispatcher Mr. [[PERSON|Tom]] confirms rides by telephone.
+
+O: OBSERVACIONES / OBJECTIVE
+
+Review visit [[TIME|9:05 a.m.]]–[[TIME|10:00 a.m.]]. Direct speech-language session [[TIME|9:12 a.m.]]–[[TIME|9:42 a.m.]]; caregiver coaching followed. Bilingual pediatric SLP [[PROVIDER|Elena Marisol Vega]], employed by [[EMPLOYER|Puente de Voz Pediatric Therapy, PLLC]]; short form [[EMPLOYER|Puente de Voz Therapy]]; abbreviation [[EMPLOYER|PVPT]]. Clinician contact [[PHONE|919-555-0162]]; [[EMAIL|evega@puentedevoz.example.invalid]]; [[URL|https://puentedevoz.example.invalid]]. License [[ID|NC-SLP-084731]].
+
+Service coordinator [[PROVIDER|Rosa Beltrán]], [[AGENCY|Fernbridge Children's Developmental Services Agency]], office [[PLACE|216 Willowglass Court]], [[PLACE|Brindle Cove]], North Carolina [[PLACE|27984]]; [[PHONE|252-555-0183]]. Coordinator joined [[TIME|9:45 a.m.]]–[[TIME|10:00 a.m.]]. Pediatrician Dr. [[PROVIDER|Samuel Ibarra]], [[HOSPITAL|Cedar Lantern Children's Hospital]], supplied fictional referral dated [[DATE|August 4, 2026]]. Prior audiology with [[PROVIDER|Nadia Flores]] dated [[DATE|August 21, 2026]] documented hearing adequate for speech access.
+
+Birth history per parent: gestational age [[KEEP|38 weeks, 4 days]]; birth weight [[KEEP|3.12 kg]]; Apgar scores [[KEEP|8]] and [[KEEP|9]]. No reported feeding tube, respiratory support, or regression. Medical record lists [[KEEP|ICD-10 F80.2]]. Today's treatment entry: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; authorization [[ID|AUTH-CH-260918-42]].
+
+Evaluation dated [[DATE|September 2, 2026]] used [[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]], [[KEEP|standard score 77]], [[KEEP|6th percentile]], [[KEEP|90% confidence interval 72–84]]; [[KEEP|Expressive Communication]], [[KEEP|standard score 74]], [[KEEP|4th percentile]], [[KEEP|90% confidence interval 69–82]]. Scores considered alongside caregiver report and bilingual sampling; administration conditions documented in evaluation.
+
+During snack, [[CHILD|Emilio]] requested through reach, gaze, gesture, or voice in [[KEEP|8/10]] opportunities; spoken requests in [[KEEP|3/10]]. Followed familiar directions with gesture in [[KEEP|4 of 5]] trials; without gesture, [[KEEP|2 of 5]]. Joint engagement sustained approximately four minutes during bubbles.
+
+Productions: [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"no"]], [[KEEP|"up"]], [[KEEP|"ma"]]. Said "[[PET|Canela]] ven" while pointing toward gate. Imitated [[KEEP|/m/]], [[KEEP|/p/]], and [[KEEP|[w]]] within play; no direct articulation drill. Target words [[KEEP|"abre"]], [[KEEP|"help"]], and [[KEEP|"más agua"]] modeled with [[KEEP|mod cues]]. Sample contained [[KEEP|[EW]]] on an extra repeated word; no diagnostic inference from this code alone.
+
+A: ANÁLISIS / ASSESSMENT
+
+Functional receptive-expressive communication delay persists across reported Spanish and English routines. Bilingual exposure does not explain the observed support needs. Strengths: social interest, shared enjoyment, imitation during predictable play, and responsive caregivers. Gestures currently carry more communication than spoken words.
+
+[[CHILD|Milo]] benefits from slower adult pacing, visible choices, expectant pauses, and accepting gestures before expanding spoken models. Frustration increases when adults anticipate needs or present several questions together. Family demonstrates consistent interpretation of gaze and reaching. Mother's work schedule requires brief practice with several caregivers.
+
+Progress toward outcome [[KEEP|1]]: emerging independent requests; criterion unmet. Outcome [[KEEP|2]]: participation improves with visual support; criterion unmet. Outcome [[KEEP|3]]: caregivers demonstrate strategies reliably in coached routines; generalization across shifts remains incomplete. Baseline and review measures use the same opportunity definitions.
+
+Clinical judgment supports continued natural-environment intervention and caregiver coaching. Use [[KEEP|Hanen]]-informed responsive interaction strategies; no claim of enrollment in a branded parent course. Consider simple picture choices before formal [[KEEP|PECS]] instruction. Family agrees that communication success includes gestures, pictures, and words in either language.
+
+P: PLAN / RESULTADOS Y SERVICIOS
+
+Outcome [[KEEP|1]]: By [[DATE|December 18, 2026]], during snack and dinner, [[CHILD|Emilio]] will request an item, assistance, or continuation using gesture, picture, or word in [[KEEP|8/10]] opportunities across three routine samples, with [[KEEP|min cues]]. Spoken-word use tracked separately. Family wording: “Que pueda pedir sin tener que llorar.”
+
+Strategies: offer two visible choices; pause; model [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"help"]], or [[KEEP|"abre"]]; honor the request promptly. Avoid requiring repetition before access. Abuela practices at breakfast; dad practices at dinner. Record one brief example daily, including language used and adult assistance.
+
+Outcome [[KEEP|2]]: By [[DATE|December 18, 2026]], during dressing and classroom cleanup, follow one familiar direction in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]], across home and childcare samples. Strategies: approach within view, gain attention, give one short direction, pair gesture initially, then fade. Teacher Miss [[TEACHER|Ana]] will compare Spanish and English supports without requiring translation.
+
+Outcome [[KEEP|3]]: By [[DATE|November 20, 2026]], two caregivers will demonstrate waiting, following the child's lead, and expanding communication in [[KEEP|80%]] of observed opportunities during two routines, with [[KEEP|min cues]]. SLP models, caregiver practices, and both review what worked. Use existing toys; no purchase required.
+
+Services: bilingual speech-language intervention, thirty minutes weekly, home or childcare, beginning [[DATE|September 25, 2026]], through [[DATE|December 18, 2026]]. Preferred slot [[TIME|9:15 a.m.]]–[[TIME|9:45 a.m.]]. Provider [[PROVIDER|Elena Marisol Vega]], [[EMPLOYER|PVPT]]. Coordinator [[PROVIDER|Rosa Beltrán]] schedules monthly contact and confirms consent before agency exchange.
+
+Next IFSP review [[DATE|December 18, 2026]], [[TIME|9:00 a.m.]]–[[TIME|10:00 a.m.]]. Family may request earlier review. Provide Spanish summary and English service grid. Check childcare carryover after two visits. Parents agreed verbally; signatures pending on program forms. Document contains wholly fictional people, places, organizations, identifiers, and clinical events.

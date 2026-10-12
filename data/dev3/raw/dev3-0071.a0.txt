@@ -1,0 +1,112 @@
+CONFIDENTIAL SPEECH-LANGUAGE EVALUATION REPORT
+
+[[EMPLOYER|Piedmont Pediatric Therapy Associates]]
+[[PLACE|214 Churton Street]], [[PLACE|Hillsborough]], NC [[PLACE|27278]]
+Phone: [[PHONE|(919) 555-0148]] | Fax: [[PHONE|(919) 555-0149]]
+
+Client: [[CHILD|Mateo Alexander Rivas-Fuentes]] (goes by "[[CHILD|Teo]]")
+Date of Birth: [[DATE|April 9, 2022]]
+Chronological Age: [[KEEP|4;2]]
+Evaluation Dates: [[DATE|June 11, 2026]] and [[DATE|June 18, 2026]]
+Report Date: [[DATE|June 22, 2026]]
+Evaluating Clinician: [[PROVIDER|Maria Hernandez-Lopez]], M.S., CCC-SLP
+Interpreter Present (Session 2): [[PROVIDER|Carmen Diaz]], certified medical interpreter
+Referring Physician: [[PROVIDER|Dr. Anjali Patel]], [[EMPLOYER|Triangle Pediatrics]]
+Service Coordinator: [[PROVIDER|Keisha Brown]], [[AGENCY|Orange County CDSA]]
+Medicaid ID: [[MEDICAID_ID|784512093B]]
+Insurance Member ID: [[ID|BCBSNC-55820147]]
+NC ITP Child ID: [[ID|NC-ITP-0048271]]
+Authorization/Record #: [[ID|Auth# 2026-11048]]
+
+S: SUBJECTIVE
+
+Reason for referral: [[CHILD|Teo]] was referred by [[PROVIDER|Dr. Patel]] after [[CHILD|Teo]]'s 4-year well-check flagged limited intelligibility and short utterance length. Mamá, [[PARENT|Lucía Fuentes Morales]], reports, "no le entiendo casi nada cuando está emocionado" (I can't understand almost anything he says when he's excited). Papá, [[PARENT|Jonathan Rivas]], agrees but notes [[CHILD|Teo]] "se hace entender con las manos" (makes himself understood with his hands) and gestures a lot at home. A developmental screening done through [[AGENCY|Smart Start of Orange County]] in [[DATE|March 2026]] also flagged concern, and the family was encouraged by a nutritionist at [[AGENCY|Orange County WIC]] during a routine visit to follow up on the referral promptly.
+
+Birth and medical history: [[CHILD|Teo]] was born at [[KEEP|38]] weeks gestation via scheduled C-section at [[HOSPITAL|UNC Hillsborough Hospital]]. Birth weight [[KEEP|6 lbs 11 oz]]. Apgar scores [[KEEP|8]] and [[KEEP|9]]. No NICU stay. Mom reports normal pregnancy, prenatal care through [[AGENCY|Orange County Health Department]], no complications, "todo salió bien, gracias a Dios" (everything turned out fine, thank God). Hx of recurrent otitis media, [[KEEP|6]] episodes between [[KEEP|8 months]] and [[KEEP|22 months]], tx'd with abx each time. Bilateral PE tubes placed [[DATE|January 14, 2024]] by Dr. [[PROVIDER|Samuel Greene]], ENT. No tubes currently in place; last ENT f/u [[DATE|March 3, 2026]] noted resolved MEE bilaterally. No hx of seizures, head injury, or hospitalization beyond birth. Vision screening WNL per pediatrician record. Growth and feeding history unremarkable; mom denies any choking, gagging, or texture aversions, "come de todo, hasta lo picante" (he eats everything, even spicy food), though family jokes he is picky about mixing foods on his plate.
+
+Family and language history: Household is bilingual Spanish-English. Primary caregivers are [[PARENT|Lucía]] and [[PARENT|Jonathan]], married [[KEEP|6]] years. [[CHILD|Teo]] is the younger of two children; older sister [[SIBLING|Ariana Rivas]], age [[KEEP|7]], is a 2nd grader described as "muy habladora, al revés de su hermanito" (very talkative, opposite of her little brother). [[SIBLING|Ariana]] frequently interprets for [[CHILD|Teo]] at home, finishing his sentences or answering for him when relatives ask him questions directly, which mom says she has started to discourage "para que él mismo hable" (so he talks for himself). Paternal grandmother, [[FAMILY|Rosa Morales]] ("[[FAMILY|Abuela Rosa]]"), lives with the family and provides after-school and evening childcare; she speaks mostly Spanish to [[CHILD|Teo]] and reports he responds "pero casi no habla conmigo" (but he barely talks to me). A family friend, [[FAMILY|Yolanda Pérez]], occasionally babysits on weekends when both parents' shifts overlap. At extended family gatherings, mom reports [[CHILD|Teo]] tends to withdraw and play alone rather than join cousins, "se va para un lado solo con sus carritos" (he goes off to one side alone with his little cars).
+
+[[PARENT|Lucía]] works at [[ORG|Variedades La Esperanza]], a general store, Tuesday through Saturday [[TIME|8:30 AM]] to [[TIME|4:00 PM]]; en español, ella "trabaja en la tienda Variedades La Esperanza" cerca de su casa. [[PARENT|Jonathan]] works the overnight shift at [[ORG|Blue Ridge Poultry Processing]], a poultry plant; "él trabaja en la planta de pollos Blue Ridge Poultry Processing" de [[TIME|11:00 PM]] a [[TIME|7:30 AM]]. Before the plant, [[PARENT|Jonathan]] worked for several years at [[ORG|El Sabor Latino]], a restaurant in [[PLACE|Mebane]]; the family still says "trabajaba en el restaurante El Sabor Latino" when explaining why [[CHILD|Teo]]'s early routines were less consistent, since shift changes meant different relatives put him to bed on different nights. [[FAMILY|Abuela Rosa]] previously worked on a farm in her home country, [[ORG|Finca El Rocío]] ("trabajaba en la finca El Rocío"), before immigrating, and now helps mainly with childcare rather than outside work. Maternal aunt, [[FAMILY|Marisol Fuentes]], works for a cleaning service, [[ORG|Brillante Cleaning Services]] ("trabaja en el servicio de limpieza Brillante Cleaning Services"), and her husband, [[FAMILY|Héctor Ramos]], works for a construction company, [[ORG|Triangle Construction Company]] ("trabaja en la compañía de construcción Triangle Construction Company"). Both occasionally help with transportation to appointments when parents' schedules don't line up.
+
+[[CHILD|Teo]] attends [[DAYCARE|El Jardín de los Soñadores]], a bilingual early-learning program in [[PLACE|Mebane]], [[TIME|7:45 AM]] to [[TIME|5:15 PM]], Monday through Friday. His lead teacher, Ms. [[TEACHER|Figueroa]], reports he plays well in small groups but "se frustra y empuja cuando no lo entienden" (gets frustrated and pushes when they don't understand him). Classmates [[PEER|Dylan Ortiz]] and [[PEER|Camila Suárez]] are frequent play partners; Ms. [[TEACHER|Figueroa]] notes [[PEER|Camila]] often "habla por él" (talks for him) when adults ask questions, similar to the pattern mom described with [[SIBLING|Ariana]] at home. Assistant teacher Mr. [[TEACHER|Ruiz]] separately mentioned during pickup one afternoon that [[CHILD|Teo]] "entiende todo lo que le decimos, solo que no contesta" (understands everything we tell him, he just doesn't answer). Family dog, [[PET|Luna]], is a favorite topic — [[CHILD|Teo]] frequently points at her and says "[[PET|Luna]] afuera" (Luna outside) rather than fuller phrases.
+
+Mom reports Spanish is the dominant home language (~[[KEEP|80%]] Spanish, [[KEEP|20%]] English), though [[CHILD|Teo]] is increasingly exposed to English at [[DAYCARE|El Jardín de los Soñadores]] and through [[SIBLING|Ariana]], who code-switches constantly, often mid-sentence ("[[CHILD|Teo]], ven aquí, come here, vamos"). No concerns reported for [[SIBLING|Ariana]]'s speech-language development; she met all milestones on time and was never referred for services. Family denies hx of ASD, hearing loss in extended family, or other developmental concerns, though mom notes a paternal uncle "no habló bien hasta los 5 años" (didn't speak well until age 5) and was eventually "dado de alta" (discharged) from services as a child, per family report, with no formal records available.
+
+O: OBJECTIVE
+
+Session 1 ([[DATE|June 11, 2026]]), conducted at [[EMPLOYER|Piedmont Pediatric Therapy Associates]] with [[PARENT|Lucía]] present; no interpreter requested, mom comfortable in English for intake but code-switched throughout. Free play/rapport-building [[TIME|9:00 AM]]–[[TIME|9:20 AM]]; structured standardized testing [[TIME|9:20 AM]]–[[TIME|9:50 AM]]; brief snack break [[TIME|9:50 AM]]–[[TIME|10:00 AM]]; parent interview and oral-mech/hearing screening [[TIME|10:00 AM]]–[[TIME|10:15 AM]].
+
+Session 2 ([[DATE|June 18, 2026]]), testing completed with interpreter [[PROVIDER|Carmen Diaz]] present for Spanish-language measures and parent report (SCQ-adapted interview). [[PARENT|Jonathan]] attended this session on his day off. Spanish standardized testing [[TIME|1:30 PM]]–[[TIME|2:00 PM]]; language sampling and stimulability probes [[TIME|2:00 PM]]–[[TIME|2:30 PM]]; interpreter-supported parent interview [[TIME|2:30 PM]]–[[TIME|2:45 PM]].
+
+Classroom observation: a brief informal observation was also completed by phone consultation with Ms. [[TEACHER|Figueroa]] on [[DATE|June 15, 2026]] around [[TIME|4:30 PM]], in lieu of an in-person classroom visit, to corroborate parent and clinic findings.
+
+Behavioral observations: [[CHILD|Teo]] separated easily from mom, explored the therapy room, initiated play with blocks and a toy truck. Attention sustained ~[[KEEP|12-15 minutes]] per activity with 1 break. Used gestures, pointing, and single words/short phrases to request and comment. Intelligibility estimated at [[KEEP|30-40%]] to unfamiliar listener (examiner) in connected speech, improving to [[KEEP|60%]] with context and gesture support. Oral mech exam WNL; no structural concerns, adequate DDK rates for age. Hearing screening passed bilaterally at [[KEEP|20 dB]] at [[KEEP|1000]], [[KEEP|2000]], and [[KEEP|4000 Hz]] today.
+
+Standardized and informal measures administered:
+
+Test/Measure | Language | Standard Score | Percentile | Age Equivalent
+[[KEEP|Preschool Language Scales-5 (PLS-5)]] Auditory Comprehension | English | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|2;9]]
+[[KEEP|PLS-5]] Expressive Communication | English | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|2;4]]
+[[KEEP|PLS-5]] Total Language Score | English | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|2;6]]
+[[KEEP|Preschool Language Scales-5 Spanish (PLS-5 Spanish)]] Auditory Comprehension | Spanish | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|3;1]]
+[[KEEP|PLS-5 Spanish]] Expressive Communication | Spanish | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|2;10]]
+[[KEEP|PLS-5 Spanish]] Total Language Score | Spanish | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|2;11]]
+[[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] | English/Spanish combined | [[KEEP|65]] | [[KEEP|1st]] | —
+[[KEEP|Bilingual English-Spanish Assessment (BESA)]] Phonology subtest | Both | [[KEEP|73-83]] (CI) | [[KEEP|9th]] | —
+[[KEEP|Receptive-Expressive Emergent Language Test-4 (REEL-4)]] parent report | Both | [[KEEP|71]] | [[KEEP|3rd]] | [[KEEP|2;7]]
+
+Note: scores reflect [[KEEP|95%]] confidence intervals of [[KEEP|73-83]] for BESA Phonology and [[KEEP|62-78]] for PLS-5 English Total Language. Given bilingual exposure (~[[KEEP|80/20]] Spanish/English), composite scores in each single language likely underestimate true ability; conceptual scoring approach applied per BESA protocol where available, combining correct responses across both languages for a single, more representative score.
+
+Articulation/phonology: Sound inventory includes stops, nasals, and most fricatives in both languages. Persisting error patterns: fronting of /k/ and /g/ (e.g., "[[KEEP|tasa]]" for "[[KEEP|casa]]"), stopping of /s/ and /z/ clusters, gliding of /ɾ/ and /l/ (e.g., "[[KEEP|guapo]]" produced as "[[KEEP|wapo]]"), final consonant deletion in English (e.g., "[[KEEP|cat]]" → "[[KEEP|ca]]"). PCC (percent consonants correct) estimated at [[KEEP|58%]] English, [[KEEP|64%]] Spanish, consistent with moderate-severe phonological disorder in both languages rather than a language-specific pattern, supporting a true SSD rather than a feature of normal bilingual development.
+
+Expressive language sample (English, 50-utterance SALT analysis): MLU [[KEEP|2.1]] morphemes, below expected range for age ([[KEEP|3.5-4.5]]). Predominantly 2-word combinations ("[[KEEP|more juice]]," "[[KEEP|Luna outside]]," "[[KEEP|no nap]]"). Frequent omission of grammatical morphemes; copula and auxiliary "be" absent in all obligatory contexts noted ([[KEEP|[EW]]] coded 14 times for early word loss/omission on SALT transcript). Pronoun use limited to "me" and "yo"; no use of "he/she" or "él/ella" observed spontaneously. A shorter informal Spanish sample collected with interpreter support during Session 2 showed similar MLU in Spanish ([[KEEP|2.3]] morphemes), with frequent article omission ("quiero [[KEEP|pelota]]" instead of "quiero la pelota") and inconsistent gender agreement on the few adjectives produced.
+
+Receptive language: Followed 1-step directions consistently ([[KEEP|9/10]]), 2-step directions inconsistently ([[KEEP|4/10]]), struggled with directions containing spatial concepts (in/on/under) and quantity concepts (more/all/none), performing at [[KEEP|3 of 10]] correct across both languages combined.
+
+Social communication / pragmatics: Initiated joint attention and requests appropriately. Used gestures (pointing, reaching, pulling examiner's hand) to compensate for limited verbal output. Some frustration noted when unable to make needs known verbally — pushed toy away and vocalized loudly once during Session 1; redirected easily with [[KEEP|moderate verbal cues]]. During a brief dyadic play probe with a peer-aged confederate toy, [[CHILD|Teo]] took turns and shared materials without prompting, consistent with mom's report that peer play at [[DAYCARE|El Jardín de los Soñadores]] is a relative strength. No repetitive behaviors, unusual sensory responses, or restricted interests noted. Eye contact and reciprocal play age-appropriate.
+
+Stimulability/dynamic assessment: With [[KEEP|maximal cueing]], [[CHILD|Teo]] produced /k/ correctly in isolation [[KEEP|7 of 10]] trials and in CV syllables [[KEEP|3 of 10]] trials. With [[KEEP|minimal cues]] (visual + tactile), improved to [[KEEP|5 of 10]] in CV context. Stimulable for /s/ in final position with [[KEEP|moderate cues]] ([[KEEP|6/10]]). Imitated 3-word models with [[KEEP|mod cues]] on [[KEEP|4 of 6]] trials, suggesting a reasonable zone of proximal development for expressive syntax goals.
+
+Parent interview (via interpreter [[PROVIDER|Carmen Diaz]], Session 2): [[PARENT|Jonathan]] reports concern began around [[KEEP|18 months]] when [[CHILD|Teo]] "no decía casi nada, ni en español ni en inglés" (wasn't saying almost anything, in Spanish or English). First words reportedly emerged around [[KEEP|16-18 months]], two-word combinations closer to [[KEEP|3;0]] — both delayed relative to typical milestones. Family denies regression in skills. [[PARENT|Lucía]] adds [[CHILD|Teo]] understands routines and instructions in Spanish well at home, which the interpreter confirmed matches her own observation during the parent interview portion.
+
+Collateral information: Per records release signed by [[PARENT|Lucía Fuentes Morales]] on [[DATE|June 11, 2026]], brief phone consult held with occupational therapist [[PROVIDER|Jennifer Walsh]], OTR/L, who has seen [[CHILD|Teo]] monthly since [[DATE|February 2026]] for fine motor delay; she reports improved pencil grasp and notes no oral-motor feeding concerns currently. Physical therapist [[PROVIDER|Brian O'Connell]], PT, DPT, discharged [[CHILD|Teo]] from PT services on [[DATE|April 30, 2026]] after meeting gross motor goals; his final note was reviewed with permission. Both providers coordinate through [[AGENCY|Orange County CDSA]] under the same IFSP.
+
+A: ASSESSMENT
+
+[[CHILD|Teo]] presents with a moderate-severe speech sound disorder and moderate language delay evident in both English and Spanish, consistent with a true bilingual communication disorder rather than a difference attributable to second-language acquisition alone. Scores in each single language fall below expected limits ([[KEEP|PLS-5]] Total Language SS [[KEEP|70]], [[KEEP|2nd]] percentile English; [[KEEP|PLS-5 Spanish]] Total Language SS [[KEEP|79]], [[KEEP|8th]] percentile Spanish), and deficits are present across both languages for phonology, expressive morphosyntax, and receptive concepts, which supports disorder over typical bilingual variability per current best-practice guidelines for bilingual assessment.
+
+Differential considerations: Hx of recurrent OM with PE tubes is a plausible contributing factor to early phonological development, though current hearing is WNL, suggesting the disorder is unlikely to be purely conductive-hearing-loss-driven at this point. Social communication skills, joint attention, and play are age-appropriate, arguing against ASD as primary driver, though continued monitoring is reasonable given mild pragmatic frustration behaviors noted and family hx reported by mom (paternal uncle late talker). No oral-motor or structural findings suggest CAS as primary diagnosis, though inconsistent error patterns across repeated trials on stimulability testing warrant continued rule-out monitoring; recommend differentiating SSD-with-phonological-pattern vs. CAS features at reassessment if progress is atypically slow, particularly given the variability noted between isolation and CV-context trials for /k/.
+
+ICD-10: [[KEEP|F80.1]] (Expressive Language Disorder), [[KEEP|F80.0]] (Phonological Disorder), rule out [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder) pending further receptive-language follow-up given inconsistent 2-step direction-following.
+
+CPT codes for today's services: [[KEEP|92523]] (speech sound production with evaluation of language), [[KEEP|96127]] (brief emotional/behavioral screen, pragmatics checklist).
+
+[[CHILD|Teo]] meets eligibility criteria for ongoing speech-language intervention under [[AGENCY|NC Infant-Toddler Program]] / Part C given scores more than [[KEEP|1.5 SD]] below the mean in 2+ domains in both languages tested. Severity is judged moderate-severe for phonology and moderate for expressive/receptive language, with prognosis judged good given strong stimulability, intact social communication, and a supportive, motivated family.
+
+P: PLAN
+
+1. Recommend speech-language therapy [[KEEP|2x/week]], [[KEEP|30 minutes]] individual sessions, targeting:
+   - Phonological process remediation (fronting, stopping, gliding, final consonant deletion) using a [[KEEP|Cycles]] approach across both languages with bilingual minimal pairs where possible.
+   - Expressive syntax growth targeting 3-4 word utterances, copula/auxiliary "be," and basic pronouns, incorporating [[KEEP|PROMPT]] tactile cueing given stimulability data.
+   - Receptive concept vocabulary (spatial/quantity terms) in both languages.
+   - Continued support for augmentative gesture use and introduction of a modified [[KEEP|PECS]]-based visual support system to reduce frustration during the transition period while verbal skills build.
+
+2. Recommend caregiver coaching using a [[KEEP|Hanen]]-based ("It Takes Two to Talk") framework, delivered bilingually, with specific strategies for [[FAMILY|Abuela Rosa]] and both parents given differing schedules; home program materials to be provided in Spanish so [[FAMILY|Abuela Rosa]] and [[PARENT|Lucía]] can practice during the day while [[PARENT|Jonathan]] sleeps before his overnight shift.
+
+3. Continue coordination with [[PROVIDER|Jennifer Walsh]], OTR/L, and service coordinator [[PROVIDER|Keisha Brown]] at [[AGENCY|Orange County CDSA]] for IFSP update; propose adding speech-language Outcome #3 ("[[CHILD|Teo]] will use 3-4 word phrases to request and comment across settings") at next 6-month review, tentatively scheduled [[DATE|December 10, 2026]].
+
+4. Request updated audiological monitoring given hx of recurrent OM; f/u with [[PROVIDER|Dr. Samuel Greene]] or current ENT if any new episodes occur.
+
+5. Share written summary (bilingual) with [[DAYCARE|El Jardín de los Soñadores]] and Ms. [[TEACHER|Figueroa]] to support classroom carryover strategies, with signed release on file dated [[DATE|June 11, 2026]]. Encourage Mr. [[TEACHER|Ruiz]] to continue offering [[CHILD|Teo]] choices verbally rather than accepting pointing alone, to build expressive output opportunities throughout the school day.
+
+6. Discussed with family the option of a short home-practice routine (5-10 minutes, 4-5x/week) built around daily moments already happening — walking [[PET|Luna]], riding in the car to [[DAYCARE|El Jardín de los Soñadores]] — rather than a separate structured activity, given parents' limited overlapping free time.
+
+7. Re-evaluate formally in [[KEEP|6 months]] (~[[DATE|December 2026]]) or sooner if progress is slower than expected, to reassess CAS rule-out status and update standardized scores.
+
+8. Family was given clinic's after-hours contact [[PHONE|(919) 555-0148]] and encouraged to call with questions; email summary sent to [[EMAIL|lucia.fuentesmorales@example.com]] per parent request. Next scheduled therapy session: [[DATE|June 25, 2026]], [[TIME|9:30 AM]].
+
+Discussed findings and recommendations with [[PARENT|Lucía Fuentes Morales]] and [[PARENT|Jonathan Rivas]] in person (Session 2) with interpreter support; both expressed understanding and agreement with plan. Mom stated, "quiero que hable los dos idiomas, español e inglés, no quiero que pierda ninguno" (I want him to speak both languages, Spanish and English, I don't want him to lose either one) — goal incorporated into bilingual treatment approach above. Dad added that he is willing to rearrange his schedule at [[ORG|Blue Ridge Poultry Processing]] on session days if transportation becomes an issue, and offered [[FAMILY|Héctor Ramos]] as a backup driver since his schedule at [[ORG|Triangle Construction Company]] is more flexible.
+
+Report prepared by: [[PROVIDER|Maria Hernandez-Lopez]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Therapy Associates]]
+Date: [[DATE|June 22, 2026]]

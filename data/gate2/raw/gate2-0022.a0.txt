@@ -1,0 +1,45 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|10 de octubre de 2026]]
+Inicio: [[TIME|09:15]]  Fin: [[TIME|10:00]]
+[X] Hogar  [ ] Centro infantil  [ ] Teleconsulta
+Idioma: español; apoyo bilingüe según necesidad.
+Paciente: [[CHILD|Elian Tobar Cifuentes]], edad [[KEEP|4;2]].
+Nacimiento: [[DATE|8 de agosto de 2022]]
+Expediente: [[ID|SLP-60482]]  Medicaid: [[MEDICAID_ID|583106274Q]]
+Profesional: Lic. [[PROVIDER|Mariela Vences Salvatierra]], patóloga bilingüe del habla y lenguaje.
+Empresa: [[EMPLOYER|Habla y Juego del Pinar]]
+Servicio: CPT [[KEEP|92507]]; diagnóstico ICD-10 [[KEEP|F80.2]].
+
+DATOS DEL ENTORNO
+
+Domicilio: [[PLACE|1847 Willow Lantern Lane]], [[PLACE|Brisaclara]], North Carolina, [[PLACE|27683]].
+Centro preescolar: [[DAYCARE|La Luciérnaga de Papel Azul]].
+Oficina responsable: [[AGENCY|Oficina de la Agencia de Servicios para el Desarrollo Infantil de Brisaclara]]; forma corta: [[AGENCY|CDSA Brisaclara]].
+Coordinadora: [[PROVIDER|Nuria Valcárcel Leiva]], de [[AGENCY|Red de Acompañamiento Vecinal y Familiar]]; forma corta: [[AGENCY|RAVF]].
+Contacto materno: [[PHONE|919-555-0146]]; [[EMAIL|lara.tobar@example.com]].
+La familia refiere vínculos con la aldea [[PLACE|Santa Lumbre del Guayabal]], Honduras.
+
+S — INFORMACIÓN FAMILIAR
+
+[X] Mamá presente  [ ] Papá presente  [X] Cuidadora presente
+Su mamá [[PARENT|Lara Cifuentes Montiel]] informó que [[CHILD|Elian]] pidió ayuda durante el desayuno. Su papá [[PARENT|Bruno Tobar Arce]] trabaja en [[ORG|Taller Nube de Cobre]]. Su hermana [[SIBLING|Inara Tobar Cifuentes]] participó al final. La abuela [[FAMILY|Yolena Montiel Paredes]] observó y practicó las estrategias. La familia retiró al perro [[PET|Chisguete]] para reducir distracciones.
+
+La maestra [[TEACHER|Dalia Ferral Soto]] reportó juego compartido con [[PEER|Amaru]] y [[PEER|Zaira]]. Un vecino, don [[PERSON|Severino Luján]], dejó materiales antes de comenzar. La madre describió sueño tranquilo y buena disposición para conversar. No informó cambios recientes en la audición.
+
+O — ACTIVIDADES Y RESPUESTA
+
+[X] Juego simbólico  [X] Lenguaje expresivo  [X] Sonidos del habla
+
+Se revisaron registros previos: [[KEEP|Rossetti]], aplicado a los [[KEEP|26 meses]]; [[KEEP|Bayley]], puntuación escalar [[KEEP|7]]; y [[KEEP|Peabody]], puntuación estándar [[KEEP|83]], percentil [[KEEP|13]]. En [[KEEP|Goldman-Fristoe]], la puntuación estándar registrada fue [[KEEP|79]], con intervalo de confianza [[KEEP|74–86]]. Estos resultados aportaron contexto; hoy no se administraron pruebas estandarizadas.
+
+Con estrategias de [[KEEP|Hanen]], [[CHILD|Elian]] produjo peticiones funcionales en [[KEEP|8/10]] oportunidades con [[KEEP|ayudas moderadas]]. Dijo [[KEEP|"quiero más agua"]] y [[KEEP|"abre caja"]]. Durante práctica de [[KEEP|/k/]], logró [[KEEP|60%]] de precisión con [[KEEP|ayudas máximas]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Una muestra incluyó la anotación SALT [[KEEP|[EW]]]. La hermana esperó turnos con apoyo verbal. La madre demostró cómo ampliar una petición sin exigir repetición inmediata.
+
+A — INTERPRETACIÓN
+
+La participación mejoró cuando el adulto siguió sus intereses y ofreció tiempo de espera. Persisten dificultades para organizar frases espontáneas y mantener sonidos posteriores. La respuesta favorable a modelos breves sugiere continuar la práctica funcional. Las observaciones familiares concuerdan con el desempeño de esta sesión, aunque el contexto escolar requiere seguimiento.
+
+P — PLAN
+
+[X] Continuar tratamiento  [X] Práctica familiar  [ ] Alta
+Se trabajó el objetivo [[KEEP|2]] del IFSP. La abuela practicará expansiones durante meriendas. Se solicitará una muestra breve de juego escolar. Próxima sesión: [[DATE|17 de octubre de 2026]], a las [[TIME|09:15]]. La madre confirmó comprensión mediante demostración.

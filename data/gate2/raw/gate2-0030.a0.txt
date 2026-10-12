@@ -1,0 +1,159 @@
+Tipo de documento: Evaluación inicial de habla y lenguaje pediátricos
+Carácter del registro: Documento sintético; todos los datos personales e institucionales son ficticios
+Paciente: [[CHILD|Emiliano Dariel Varela Soto]]
+Nombre de uso familiar: [[CHILD|Emi]]
+Iniciales del paciente: [[CHILD|EDVS]]
+Fecha de nacimiento: [[DATE|7 de abril de 2022]]
+Fecha de evaluación: [[DATE|18 de junio de 2026]]
+Edad cronológica: [[KEEP|4;2]]
+Hora de inicio: [[TIME|9:15 a. m.]]
+Hora de finalización: [[TIME|10:35 a. m.]]
+Número de expediente: [[ID|NC-SLP-60482]]
+Identificador de Medicaid: [[MEDICAID_ID|836402715Q]]
+Autorización: [[ID|AUT-260618-4739]]
+Diagnóstico de referencia: [[KEEP|F80.2]]
+Procedimiento de evaluación: [[KEEP|92523]]
+Procedimiento propuesto para tratamiento: [[KEEP|92507]]
+Modificador propuesto: [[KEEP|GN]]
+Profesional: Lic. [[PROVIDER|Mariela Inés Cárdenas]]
+Cargo: Patóloga bilingüe del habla y lenguaje pediátricos
+Empleador: [[EMPLOYER|Senderos de Voz y Lenguaje Pediátrico, PLLC]]
+Nombre comercial: [[EMPLOYER|Senderos de Voz]]
+Abreviatura institucional: [[EMPLOYER|SVLP]]
+Dirección clínica: [[PLACE|4827 Willow Lantern Lane, Suite 204]], [[PLACE|Cedar Hollow]], North Carolina [[PLACE|27683]]
+Teléfono clínico: [[PHONE|(919) 555-0146]]
+Correo clínico: [[EMAIL|mcárdenas@senderosvoz.example]]
+Sitio web: [[URL|https://www.senderosvoz.example]]
+Adulto responsable: [[PARENT|Lucía Marisol Soto]]
+Teléfono familiar: [[PHONE|(984) 555-0173]]
+Centro preescolar: [[DAYCARE|Nido del Colibrí de Cobre]]
+Fuente de referencia: Dra. [[PROVIDER|Rebeca Celina Amador]]
+Agencia vinculada: [[AGENCY|CDSA de Valle de los Faroles]]
+
+MOTIVO DE REFERENCIA Y ANTECEDENTES
+
+La familia solicita una evaluación porque [[CHILD|Emiliano]] tiene dificultad para explicar necesidades, comprender preguntas y participar en conversaciones. Su mamá, [[PARENT|Lucía Marisol Soto]], informa que las personas cercanas suelen anticipar lo que quiere. Cuando esa ayuda no está disponible, él señala, repite una palabra o abandona la actividad. Su papá, [[PARENT|Gabriel Esteban Varela]], desea que pueda contar algo ocurrido durante el día sin depender de preguntas constantes.
+
+La maestra, Sra. [[TEACHER|Nadia Belén Rosales]], describe dificultades para seguir instrucciones durante actividades grupales. En [[DAYCARE|Nido del Colibrí de Cobre]], el niño participa mejor cuando puede observar una demostración. La asistente, Srta. [[TEACHER|Elisa Montiel]], señala que busca a un adulto cuando sus compañeros no comprenden su mensaje. No se reportan pérdida de habilidades ni cambios recientes en su conducta habitual.
+
+La evaluación se realizó en español, con observación complementaria del uso espontáneo del inglés. La familia autorizó la participación de ambos padres. La información procede de entrevistas, documentos ficticios de referencia, observación directa y tareas clínicas. Ninguna conclusión se basa únicamente en una traducción de respuestas o en el rendimiento en inglés.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+Según el relato materno, el embarazo tuvo seguimiento regular y no presentó complicaciones importantes. [[CHILD|Emiliano Dariel Varela Soto]] nació en [[HOSPITAL|Hospital Maternoinfantil Brisa del Roble]] a una edad gestacional de [[KEEP|38 semanas y 2 días]]. El peso al nacer fue de [[KEEP|3150 g]]. Los puntajes Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. No necesitó ventilación ni ingreso prolongado.
+
+La familia recuerda dificultades iniciales de agarre durante la alimentación, resueltas con orientación. Actualmente acepta alimentos de distintas consistencias. No se reportan tos habitual al comer, atragantamientos frecuentes ni problemas para aumentar de peso. El sueño es variable, pero los padres no describen ronquidos persistentes ni pausas respiratorias.
+
+La pediatra, Dra. [[PROVIDER|Amador]], remitió al niño por dificultades de lenguaje. La familia reporta episodios previos de infección de oído, sin cirugía ni tubos de ventilación. El último episodio ocurrió el [[DATE|12 de febrero de 2026]]. No toma medicamentos diarios. No se informan convulsiones, lesiones neurológicas ni hospitalizaciones posteriores al nacimiento.
+
+El tamiz auditivo neonatal se reporta como aprobado, aunque no se presentó el documento original. La audióloga, Lic. [[PROVIDER|Teresa Abril Quiñones]], tiene una cita programada para el [[DATE|2 de julio de 2026]]. El resultado será necesario para completar la interpretación clínica. La ausencia de una prueba auditiva reciente se registra como una limitación.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+En casa viven el niño, ambos padres y su hermana, [[SIBLING|Alma Renata Varela Soto]], de [[KEEP|7 años]]. La abuela materna, [[FAMILY|Ofelia Soto Benítez]], lo cuida algunas tardes. Una tía, [[FAMILY|Celia Marín Soto]], participa en las rutinas de lectura. La familia también tiene un perro llamado [[PET|Chispa]]. Los adultos describen vínculos afectivos estables y oportunidades frecuentes de juego compartido.
+
+La familia reside en [[PLACE|7318 Larkspur Lantern Drive]], [[PLACE|Cedar Hollow]], North Carolina [[PLACE|27683]], dentro del condado de [[PLACE|Piedra Serena]]. La madre nació en la aldea de [[PLACE|Santa Brisa del Guayabo]], Guatemala. La dirección familiar que conserva allí es [[PLACE|Calle de los Nísperos 18, Barrio La Ceiba]], [[PLACE|Santa Brisa del Guayabo]], Guatemala. Estos datos se incluyen únicamente como antecedentes ficticios.
+
+El español es el idioma principal del hogar. El padre usa algunas expresiones en inglés relacionadas con su trabajo en [[ORG|Empaques Río de Ámbar]]. El niño escucha inglés diariamente en el centro preescolar y en algunos programas infantiles. La familia calcula una exposición mayor al español, pero no dispone de un registro formal de horas.
+
+La mamá refiere primeras palabras alrededor de los [[KEEP|19 meses]] y combinaciones breves alrededor de los [[KEEP|33 meses]]. La hermana suele responder por él cuando hay visitas. Se recomendó darle tiempo para iniciar su propio mensaje. El bilingüismo se considera parte de su desarrollo y no una causa suficiente para explicar las dificultades observadas.
+
+SERVICIOS PREVIOS Y DOCUMENTOS
+
+La coordinadora, Sra. [[PROVIDER|Irene Paloma Durán]], de [[AGENCY|CDSA de Valle de los Faroles]], facilitó una copia del plan temprano. El IFSP, fechado el [[DATE|20 de marzo de 2025]], incluía el resultado [[KEEP|2]] sobre comunicación de necesidades y el resultado [[KEEP|4]] sobre participación en rutinas familiares. La revisión del [[DATE|25 de septiembre de 2025]] describía avances con gestos y palabras aisladas.
+
+La familia reporta servicios domiciliarios breves, interrumpidos durante una mudanza. No presentó registros completos de asistencia ni datos comparables de progreso. Actualmente no recibe terapia individual. La posible transición a [[SCHOOL|Escuela Primaria Sendero de las Luciérnagas]] está en conversación con la familia. Esta evaluación no determina elegibilidad escolar ni sustituye los procedimientos del sistema educativo.
+
+PROCEDIMIENTOS Y CONDICIONES DE EVALUACIÓN
+
+Se administró [[KEEP|PLS-5 Spanish]], incluyendo [[KEEP|Auditory Comprehension]], [[KEEP|Expressive Communication]] y [[KEEP|Total Language]]. Las instrucciones siguieron el manual en los reactivos utilizados para calcular puntajes. Las ayudas adicionales se reservaron para tareas posteriores de observación y no se contabilizaron como respuestas independientes.
+
+También se obtuvo una muestra conversacional mediante juego, descripción de imágenes y conversación sobre rutinas. Se revisaron comprensión funcional, comunicación social, producción de sonidos y respuesta a apoyos. Las observaciones del inglés fueron descriptivas. No se asignaron puntajes normativos a una prueba en inglés ni se tradujeron esos puntajes al español.
+
+[[CHILD|Emi]] necesitó tiempo para familiarizarse con el espacio. Después aceptó las actividades y buscó compartir materiales. La atención fue suficiente en tareas breves. Durante actividades extensas pidió cambiar de juguete. Se ofrecieron descansos sin alterar las reglas de administración. Los resultados representan su desempeño en esta sesión y requieren integración con información cotidiana.
+
+RESULTADOS ESTANDARIZADOS
+
+| Prueba | Subprueba o índice | Puntaje bruto | Puntaje estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Auditory Comprehension]] | [[KEEP|38]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|90%: 71–83]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Expressive Communication]] | [[KEEP|34]] | [[KEEP|72]] | [[KEEP|3]] | [[KEEP|90%: 67–80]] | [[KEEP|2;10]] |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Total Language]] | [[KEEP|72]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|90%: 68–81]] | No corresponde |
+
+Los puntajes sugieren dificultades tanto receptivas como expresivas. Las edades equivalentes describen una comparación limitada con tareas específicas. No representan una edad global del desarrollo ni indican que el niño funcione igual que un niño menor en todas las áreas.
+
+El resultado de [[KEEP|Auditory Comprehension]] coincide con dificultades para interpretar relaciones espaciales y preguntas menos concretas. El resultado de [[KEEP|Expressive Communication]] coincide con mensajes breves y recursos gramaticales limitados. El índice [[KEEP|Total Language]] resume ambos componentes, pero no reemplaza el análisis funcional. Las diferencias de exposición lingüística y la historia auditiva también deben considerarse.
+
+COMPRENSIÓN DEL LENGUAJE
+
+El niño identificó objetos familiares, acciones visibles y partes del cuerpo. Respondió mejor cuando la instrucción correspondía a una actividad conocida. En una tarea clínica posterior, siguió instrucciones sencillas en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|min cues]]. El apoyo consistió en esperar y repetir la instrucción una vez.
+
+Cuando una instrucción incluía acciones consecutivas y una relación espacial, respondió correctamente en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]]. Confundió los objetivos [[KEEP|“debajo”]] y [[KEEP|“detrás”]] cuando no había una demostración. La presencia de materiales atractivos también influyó en la selección.
+
+Comprendió preguntas sobre objetos presentes con mayor facilidad que preguntas sobre causas o sucesos pasados. Ante una pregunta sobre por qué un personaje estaba mojado, señaló la lluvia, pero no explicó la relación. La respuesta mostró conocimiento parcial del evento. Las dificultades no se interpretaron como falta de interés o negativa a colaborar.
+
+EXPRESIÓN DEL LENGUAJE
+
+Durante el juego, [[CHILD|Emiliano]] produjo palabras aisladas y combinaciones cortas. Usó [[KEEP|“mamá mira carro”]], [[KEEP|“yo quiere ese”]] y [[KEEP|“no cabe aquí”]]. Sus mensajes permitían inferir una intención básica, pero con frecuencia faltaban palabras necesarias para precisar quién actuaba o qué había ocurrido.
+
+La muestra incluyó [[KEEP|42]] enunciados analizables. La longitud media fue de [[KEEP|2.8 palabras por enunciado]]. Esta medida fue descriptiva y no se comparó con una norma monolingüe. Se observaron omisiones de artículos, concordancia variable y uso limitado de tiempos verbales. En el registro de muestra se empleó [[KEEP|[EW]]] para señalar palabras adicionales que interrumpían la estructura prevista.
+
+Para pedir ayuda de manera independiente, alcanzó [[KEEP|4/10]] oportunidades, equivalentes a [[KEEP|40%]]. Con [[KEEP|mod cues]], alcanzó [[KEEP|8/10]], equivalentes a [[KEEP|80%]]. La diferencia sugiere capacidad para aprender dentro de la actividad. No demuestra dominio estable fuera de la sesión.
+
+Usó ocasionalmente [[KEEP|“more”]] y [[KEEP|“bye”]]. La alternancia entre idiomas se aceptó como un recurso comunicativo. Las dificultades gramaticales también aparecieron en español, su idioma de mayor experiencia. Por ello, la impresión clínica no se atribuye únicamente a la exposición reciente al inglés.
+
+HABLA, VOZ Y MECANISMO ORAL
+
+La observación oral mostró simetría facial y movimientos funcionales para las tareas solicitadas. No se identificaron señales evidentes de una alteración estructural que explicara el lenguaje. La voz y la resonancia parecieron adecuadas durante la sesión. No se observaron bloqueos persistentes ni esfuerzo al iniciar el habla.
+
+La precisión disminuyó en palabras largas. Se observaron sustituciones de [[KEEP|/k/]] por [[KEEP|[t]]] y producción variable de [[KEEP|/ɾ/]]. Para el objetivo [[KEEP|“casa”]], produjo [[KEEP|“tasa”]]. Para el objetivo [[KEEP|“pero”]], produjo [[KEEP|“pelo”]]. Estos ejemplos se registraron como observaciones clínicas, sin concluir un diagnóstico fonológico independiente.
+
+La inteligibilidad estimada para una oyente poco familiar fue de [[KEEP|65%]] en conversación contextualizada. Con imitación inmediata y [[KEEP|mod cues]], produjo [[KEEP|/k/]] en [[KEEP|6/10]] intentos. Se recomienda ampliar la evaluación del habla cuando haya una muestra más estable y se conozca el estado auditivo.
+
+COMUNICACIÓN SOCIAL Y JUEGO
+
+[[CHILD|Emi]] compartió atención, mostró objetos y aceptó turnos con la evaluadora. Buscó ayuda mediante mirada y gestos. Cuando no se comprendió su mensaje, primero repitió la misma palabra. Después aceptó mostrar el objeto. Esta flexibilidad constituye una fortaleza para desarrollar estrategias de reparación.
+
+La maestra refiere que juega cerca de [[PEER|Lía Fernanda Montalvo]] y busca carreras con [[PEER|Bruno Elías Téllez]]. En juegos con reglas verbales, suele observar antes de participar. La familia describe juego simbólico con vehículos y animales. Durante la evaluación simuló alimentar una figura y llevarla a dormir. La dificultad principal fue explicar la secuencia, no generar una idea de juego.
+
+IMPRESIONES CLÍNICAS
+
+Los hallazgos son compatibles con un trastorno mixto del lenguaje receptivo y expresivo, registrado como [[KEEP|F80.2]]. La impresión integra desempeño estandarizado, antecedentes y dificultades funcionales en español. La exposición al inglés puede influir en algunas respuestas, pero no explica por sí sola el patrón observado.
+
+Las fortalezas incluyen intención comunicativa, atención compartida, juego simbólico y respuesta favorable a apoyos. Las necesidades principales son comprender instrucciones más complejas, ampliar mensajes, expresar relaciones gramaticales y reparar fallas de comunicación. Las dificultades afectan su participación con adultos y compañeros.
+
+La conclusión es provisional respecto a factores auditivos y al perfil específico del habla. No se establece un diagnóstico neurológico ni escolar. La evaluación auditiva pendiente y la observación en el aula ayudarán a ajustar el plan. La familia recibió una explicación en español y pudo comentar prioridades antes de definir objetivos.
+
+OBJETIVOS PROPUESTOS
+
+Objetivo [[KEEP|1]]: seguir instrucciones relacionadas con rutinas, incluyendo acciones consecutivas y conceptos espaciales, en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Se registrará el tipo de instrucción y el apoyo exacto para distinguir aprendizaje de familiaridad con la tarea.
+
+Objetivo [[KEEP|2]]: producir mensajes funcionales con información sobre persona, acción y objeto en [[KEEP|80%]] de las oportunidades con [[KEEP|min cues]]. Se aceptarán mensajes en cualquiera de sus idiomas cuando comuniquen la intención con claridad.
+
+Objetivo [[KEEP|3]]: pedir ayuda, aclarar o mostrar información adicional después de una falla comunicativa en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]]. Se practicarán situaciones naturales de juego y actividades familiares.
+
+Objetivo [[KEEP|4]]: responder preguntas sobre una secuencia breve con [[KEEP|75%]] de precisión y [[KEEP|mod cues]]. Se documentará si la respuesta expresa una relación entre eventos o solamente nombra elementos visibles. Los objetivos se revisarán según participación y progreso funcional.
+
+RECOMENDACIONES Y PLAN
+
+Se recomienda terapia individual semanal durante un periodo inicial de doce semanas, mediante [[KEEP|92507]], con el modificador [[KEEP|GN]] cuando corresponda. La intervención priorizará necesidades funcionales y participación familiar. Se propone [[KEEP|estimulación focalizada]] en rutinas elegidas con los padres. La selección de actividades respetará intereses, idioma y disponibilidad familiar.
+
+En casa, los adultos pueden comentar lo que el niño hace y esperar antes de formular otra pregunta. Conviene ofrecer opciones claras y permitir una respuesta mediante palabras, gestos o una combinación. Cuando el mensaje sea incompleto, el adulto puede aportar una versión breve y natural sin exigir repeticiones constantes.
+
+Se recomienda mantener el español y permitir el inglés. La familia no necesita retirar un idioma. Se explicaron recursos de [[KEEP|Hanen]] como opción de orientación para cuidadores, sin afirmar que la familia ya participa en un programa formal.
+
+Para el aula, se recomienda acompañar instrucciones con objetos o imágenes, verificar comprensión mediante la acción y dar tiempo para responder. La docente puede preparar al niño antes de una actividad grupal y facilitar oportunidades de conversación con compañeros. Los apoyos deben favorecer autonomía y reducir la necesidad de que otro niño responda por él.
+
+La familia debe completar la evaluación auditiva programada y compartir el informe con autorización. También se recomienda solicitar la evaluación educativa correspondiente. La clínica puede aportar este documento y describir necesidades funcionales cuando la familia autorice el intercambio. No se realizó ningún envío durante esta sesión.
+
+SEGUIMIENTO Y CIERRE
+
+La revisión clínica se propone para el [[DATE|10 de septiembre de 2026]]. Se compararán comunicación espontánea, apoyos necesarios y participación en rutinas. Los puntajes de una nueva prueba no serán el único indicador de progreso. La familia recibirá actividades breves y podrá informar qué estrategias resultan prácticas en casa.
+
+[[PARENT|Lucía]] priorizó que su hijo pida ayuda sin frustrarse. [[PARENT|Gabriel]] priorizó comprender lo que ocurrió en el centro preescolar. Ambas prioridades se incorporaron al plan. Este registro ficticio documenta una evaluación completa para pruebas de desidentificación.
+
+Profesional responsable: Lic. [[PROVIDER|Mariela Inés Cárdenas]]
+Entidad responsable: [[EMPLOYER|Senderos de Voz y Lenguaje Pediátrico, PLLC]]
+Firma electrónica ficticia: [[ID|FIRMA-SLP-72649]]
+Fecha de firma: [[DATE|18 de junio de 2026]]
+Hora de firma: [[TIME|2:40 p. m.]]

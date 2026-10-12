@@ -1,0 +1,15 @@
+Nota de Sesión  Fecha: [[DATE|10 de octubre de 2026]]  Hora: [[TIME|3:30 p.m.]]  Clínica: [[HOSPITAL|Novant Health Pediatric ENT & Audiology, Campus Huntersville]]  Terapeuta: [[PROVIDER|Yesenia Campos]], MS, CCC-SLP  ID de caso: [[ID|NC-48217-SLP]]  Medicaid #: [[MEDICAID_ID|907224861B]]
+
+Paciente: [[CHILD|José Luis Mendoza Pérez]], conocido como [[CHILD|Chuy]]  Edad: [[KEEP|4;5]]  Escuela: [[DAYCARE|El Rinconcito de las Mariposas]]  Maestra: [[TEACHER|Srta. Odalys Fuentes]]
+
+S: La mamá de [[CHILD|Chuy]], [[PARENT|Reyna Pérez Soto]], reporta que [[CHILD|Chuy]] durmió mal porque su hermanito [[SIBLING|Pepe]] tuvo tos toda la noche. También comenta que la niñera, [[FAMILY|doña Carmela]], lo recogió hoy de [[DAYCARE|El Rinconcito de las Mariposas]] porque [[PARENT|Reyna]] trabaja en [[ORG|Carolina Poultry Processing]]. La familia vive en [[PLACE|214 Willow Branch Road, Huntersville, NC 28078]] y es originaria de [[PLACE|San Lucas Tolimán, Sololá, Guatemala]], donde aún viven los abuelos.
+
+O: Se administró [[KEEP|CELF-5]], subprueba de [[KEEP|Formulación de Oraciones]], puntaje estándar [[KEEP|78]], percentil [[KEEP|7]]. También [[KEEP|PLS-5]] en español, [[KEEP|Comprensión Auditiva]] edad equivalente [[KEEP|3;2]], rango [[KEEP|2;9–3;6]]. En producción de habla, [[CHILD|Chuy]] dijo "[[KEEP|pato]]" por "pavo" y sustituyó [[KEEP|/k/]] por [[KEEP|[t]]] en 6 de 10 ensayos ([[KEEP|6/10]]). Logró el sonido [[KEEP|/s/]] en posición inicial con [[KEEP|mod cues]] en [[KEEP|8/10]] intentos. Jugó junto a su compañero de terapia grupal, [[PEER|Juanito Alvarado]], usando el programa [[KEEP|PECS]] para pedir turnos.
+
+Se revisó el reporte del otorrino, Dr. [[PROVIDER|Marcus Whitfield]], de [[HOSPITAL|Novant Health Pediatric ENT & Audiology]], quien documentó [[KEEP|CIE-10 H65.19]] y recomendó seguimiento en [[KEEP|3]] meses. Se usó el código [[KEEP|CPT 92507]] para la sesión de hoy.
+
+A: [[CHILD|Chuy]] muestra progreso leve en inteligibilidad pero continúa con fonología inconsistente. La coordinadora de servicios, [[PROVIDER|Lizbeth Hernández]], de [[AGENCY|CDSA de Mecklenburg]], confirmó que el IFSP meta #[[KEEP|2]] sigue vigente.
+
+P: Continuar terapia semanal usando [[KEEP|Hanen]] en casa. Se habló con la abuela paterna, [[FAMILY|doña Esperanza Mendoza]], por teléfono al [[PHONE|(704) 555-0198]] para reforzar estrategias. Próxima cita: [[DATE|17 de octubre de 2026]] a las [[TIME|3:30 p.m.]] con intérprete [[PROVIDER|Noemí Castillo]]. Contactar a la clínica: [[EMAIL|slp.huntersville@novanthealth.org]].
+
+Firma: [[PROVIDER|Yesenia Campos]], [[EMPLOYER|Bilingual Pediatric Speech Partners, PLLC]]

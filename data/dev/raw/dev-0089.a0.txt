@@ -1,0 +1,17 @@
+NOTA DE SESION - TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha de la sesion: [[DATE|10 de octubre de 2026]]
+Hora: [[TIME|3:30 p.m.]]
+Nombre del nino: [[CHILD|Mateo Fernandez]]
+Fecha de nacimiento: [[DATE|14 de marzo de 2023]]
+Edad: 3;7
+ID de caso: [[ID|NC-48217-SLP]]
+Numero de Medicaid: [[MEDICAID_ID|987654321A]]
+
+S: La mama de [[CHILD|Mateo]], [[PARENT|Lucia Rodriguez]], reporta que durante la semana el nino dijo varias palabras nuevas en casa. Su hermana [[SIBLING|Luz]] ayudo a practicar las tarjetas de vocabulario que se enviaron la semana pasada, sentandose con el nino cada noche despues de la cena. La familia vive en [[PLACE|204 Birchwood Lane, Monroe, Condado de Union, NC 28112]]. La mama menciona que el pediatra, [[PROVIDER|Dr. Hector Salinas]], recomendo continuar la terapia dos veces por semana y referir a audiologia si no hay mejoria para la proxima revision. Tambien asistio la interprete, [[PROVIDER|Carla Mendez]], quien tradujo toda la sesion porque la mama prefiere comunicarse en espanol y aun esta aprendiendo ingles en las clases nocturnas de la comunidad.
+
+O: Se trabajo en la sesion de hoy en objetivos de articulacion y lenguaje expresivo usando el protocolo del Goldman-Fristoe Test of Articulation 3. [[CHILD|Mateo]] produjo el sonido /k/ con 8/10 de precision en palabras aisladas, mejorando desde la sesion anterior. En la prueba PLS-5 Spanish obtuvo un puntaje estandar de 82, percentil 12. Produjo la palabra objetivo "carro" con mod cues y tambien dijo "pato" de forma espontanea sin ayuda. Se codifico [EW] en dos ocasiones durante la muestra de lenguaje espontaneo de cinco minutos. El nino participo con buena atencion durante 20 de los 30 minutos de la sesion, con descansos breves para movimiento entre tareas.
+
+A: [[CHILD|Mateo]] continua mostrando progreso lento pero consistente en fonologia, consistente con el diagnostico de trastorno del lenguaje (ICD-10 F80.9). Se observa buena cooperacion familiar y participacion activa de [[SIBLING|Luz]] en casa. La terapeuta ocupacional, [[PROVIDER|Jason Byrd]], y la fisioterapeuta, [[PROVIDER|Patricia Nunez]], tambien trabajan con el nino en la misma clinica y reportan avances motores que apoyan la produccion del habla y la coordinacion oral-motora.
+
+P: Continuar sesiones dos veces por semana durante las proximas ocho semanas. Se coordino con la coordinadora de servicios del [[AGENCY|CDSA de Mecklenburg]], [[PROVIDER|Monica Flores]], para la revision del IFSP programada para el [[DATE|5 de diciembre de 2026]]. La familia fue referida tambien a [[AGENCY|DSS]] y al programa [[AGENCY|WIC]] para apoyo nutricional, y a [[AGENCY|Smart Start]] y [[AGENCY|Early Head Start]] para servicios adicionales de desarrollo temprano y cuidado infantil. Se le recordo a la mama llamar al [[PHONE|(704) 555-0148]] si necesita reprogramar alguna cita. La terapeuta, [[PROVIDER|Andrea Villalobos]], firma y cierra esta nota de progreso.

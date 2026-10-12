@@ -1,0 +1,22 @@
+Patient: [[CHILD|Mateo de la Cruz]]
+DOB: [[DATE|04/12/2022]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|9:30 AM]]–[[TIME|10:15 AM]]
+Age: [[KEEP|4;5]]
+Medicaid ID: [[MEDICAID_ID|NC4487213B]]
+Case ID: [[ID|CDSA-0098217]]
+Provider: [[PROVIDER|Hannah Weisz, MS, CCC-SLP]]
+Employer: [[EMPLOYER|Tar Heel Pediatric Therapy Associates]]
+Interpreter: [[PROVIDER|Elena Suárez]]
+Referring Physician: [[PROVIDER|Dr. Michael Okafor]]
+Agency: [[AGENCY|Centro de Desarrollo Infantil del Área de Piedmont]] ([[AGENCY|CDSA Piedmont]])
+Service Coordinator: [[PROVIDER|Priya Shah]], [[AGENCY|Agencia Comunitaria de Servicios Familiares y de Apoyo a la Niñez]] ([[AGENCY|ACSFAN]])
+Daycare/Preschool: [[DAYCARE|Camino Feliz Preschool]]
+
+S: [[CHILD|Mateo]]'s mother, [[PARENT|Lucía de la Cruz]], reported that he has been saying several new words at [[DAYCARE|Camino Feliz Preschool]] this week. [[CHILD|Mateo]]'s teacher, [[TEACHER|Ms. Byrd]], noted he imitated "[[KEEP|more please]]" during snack time on [[DATE|October 7, 2026]]. At home, [[CHILD|Mateo]]'s older sister, [[SIBLING|Sol de la Cruz]], has been modeling short phrases for him, and his grandmother, [[FAMILY|Rosa Ortiz-Fernández]], has started using simple carrier phrases during mealtimes as well. The family reports [[CHILD|Mateo]] continues to consistently call the family dog "[[PET|Luna]]" and points to request her when she is outside.
+
+O: Session conducted at [[AGENCY|CDSA Piedmont]], [[PLACE|412 Willow Bend Court]], [[PLACE|Cary]], [[PLACE|27518]]. This session addressed goals from the IFSP dated [[DATE|March 3, 2026]], Outcome [[KEEP|2]]. This clinician used [[KEEP|PROMPT]] tactile-kinesthetic cues to target CV and CVC syllable shapes. [[CHILD|Mateo]] produced /p/, /b/, and /m/ in isolation with [[KEEP|min cues]] and combined sounds into "[[KEEP|mama]]" and "[[KEEP|bye bye]]" spontaneously on [[KEEP|3 of 5]] trials. On the [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score remains [[KEEP|78]] ([[KEEP|8th percentile]]), consistent with prior testing from [[DATE|July 2026]]. Expressive Communication age equivalent is [[KEEP|18 months]]. This clinician trialed [[KEEP|Hanen]] strategies with [[PARENT|Lucía]], who demonstrated good carryover of expansion and imitation techniques.
+
+A: [[CHILD|Mateo]] continues to show slow but steady gains in babbling complexity and single-word approximations. His classmate, [[PEER|Jaxon]], was present briefly during the transition period, and [[CHILD|Mateo]] attempted to gain his attention by waving, a positive emerging social-communication skill. No behavioral concerns were noted this session.
+
+P: Continue weekly direct sessions targeting early words and the [[KEEP|PROMPT]] hierarchy. This clinician will coordinate with [[PROVIDER|Priya Shah]] regarding transition planning ahead of the IFSP review scheduled for [[DATE|January 15, 2027]]. Please contact this clinician at [[PHONE|(919) 555-0148]] or [[EMAIL|hweisz@tarheelpedstherapy.org]] with questions. Next session scheduled for [[DATE|October 16, 2026]] at [[TIME|9:30 AM]].

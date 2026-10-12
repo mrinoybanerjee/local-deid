@@ -1,0 +1,142 @@
+North Carolina Infant-Toddler Program
+Individualized Family Service Plan Review / Revisión del plan familiar
+SYNTHETIC TEST DOCUMENT — ALL PEOPLE, ORGANIZATIONS, CONTACTS, AND EVENTS ARE FICTIONAL
+
+Review date: [[DATE|October 9, 2026]]
+Plan period: [[DATE|October 12, 2026]] through [[DATE|April 9, 2027]]
+Review location: family apartment, [[PLACE|418 Lantern Finch Lane, Apartment 3B]], [[PLACE|Alder Cove]], North Carolina [[PLACE|27906]]
+County of residence: [[PLACE|Fernwater County]]
+Record number: [[ID|ITP-2609847]]
+Medicaid member number: [[MEDICAID_ID|830571642Q]]
+Speech authorization: [[ID|SL-2609-4182]]
+
+Información de la familia / Family information
+
+Role	Name	Contact	Preferred language
+Child	[[CHILD|Emilio Javier Castañeda]]	Date of birth [[DATE|August 2, 2024]]	Spanish and English
+Mother	[[PARENT|Marisol Castañeda]]	[[PHONE|252-555-0146]]; [[EMAIL|marisol.castaneda@example.invalid]]	Spanish for detailed discussions
+Father	[[PARENT|Diego Salcedo]]	[[PHONE|252-555-0182]]; [[EMAIL|diego.salcedo@example.invalid]]	Spanish and English
+Older sister	[[SIBLING|Sol Castañeda]]	Contact through parents	Spanish and English
+Maternal aunt	[[FAMILY|Luz Benítez]]	[[PHONE|252-555-0127]]	Spanish
+Regular babysitter	[[FAMILY|Hope Danner]]	[[PHONE|252-555-0163]]	English with familiar Spanish phrases
+
+The family calls [[CHILD|Emilio]] “[[CHILD|Milo]].” Initials used on the home calendar are [[CHILD|EJC]]. Current age is [[KEEP|26 months]]. His sister is [[KEEP|5;1]]. His aunt provides care when work schedules overlap. The family dog, [[PET|Chispa]], often joins floor play but stays behind a gate during meals.
+
+Parents share decisions and request explanations in both languages. Written reminders should use short sentences. The family prefers text messages after [[TIME|10:00 a.m.]] and before [[TIME|8:30 p.m.]]. They approve contact with the listed care team for this plan. Neither parent requests an interpreter today; interpretation remains available.
+
+Equipo / Service contacts
+
+Role	Name	Organization	Contact
+Service coordinator	[[PROVIDER|Nora Bellamy]]	[[AGENCY|Fernwater Children’s Developmental Services Agency]]	[[PHONE|252-555-0114]]
+Bilingual pediatric speech-language pathologist	[[PROVIDER|Elena Marín]]	[[EMPLOYER|Brisa Meadow Pediatric Therapy, PLLC]]	[[PHONE|252-555-0171]]; [[EMAIL|elena.marin@example.invalid]]
+Primary care physician	Dr. [[PROVIDER|Rafael Ochoa]]	[[HOSPITAL|Alder Cove Children’s Hospital]]	[[PHONE|252-555-0194]]
+Occupational therapist	[[PROVIDER|Priya Benton]]	[[AGENCY|Little Lantern Early Supports]]	[[PHONE|252-555-0138]]
+Available interpreter	[[PROVIDER|Celia Navarro]]	[[AGENCY|Fernwater Family Language Access]]	[[PHONE|252-555-0156]]
+
+The CDSA office, also called [[AGENCY|Fernwater CDSA]], is at [[PLACE|62 Copperleaf Court]], [[PLACE|Alder Cove]], North Carolina [[PLACE|27906]]. Its fictional resource page is [[URL|https://fernwater-cdsa.example.invalid/familias]].
+
+This review was written by [[PROVIDER|Elena Marín]], bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Brisa Meadow Therapy]]. Billing correspondence may identify the same employer as [[EMPLOYER|BMPT]]. The full legal employer name is [[EMPLOYER|Brisa Meadow Pediatric Therapy, PLLC]].
+
+Trabajo y horarios / Family employment
+
+Parent	Workplace and job in English	Family wording in Spanish
+Mother	Stock clerk at [[ORG|Copper Basket Market]] store	La tienda [[ORG|Copper Basket Market]], acomodando mercancía
+Mother	Night cleaner at [[ORG|Moonbridge Cleaning Service]]	El servicio de limpieza [[ORG|Moonbridge Cleaning Service]], limpiando oficinas
+Father	Packing operator at [[ORG|Silver Reed Packaging Plant]]	La planta [[ORG|Silver Reed Packaging Plant]], empacando cajas
+Father	Weekend helper at [[ORG|Stone Willow Construction Company]]	La compañía de construcción [[ORG|Stone Willow Construction Company]], ayudando con materiales
+Mother	Former dishwasher at [[ORG|Blue Acorn Restaurant]]	El restaurante [[ORG|Blue Acorn Restaurant]], lavando platos
+Father	Seasonal picker at [[ORG|Morning Lantern Farm]]	La granja [[ORG|Morning Lantern Farm]], recogiendo verduras
+
+Mom works nights at [[ORG|Moonbridge Cleaning Service]] as a cleaner, usually from [[TIME|9:00 p.m.]] to [[TIME|2:00 a.m.]]. Her daytime store shift changes weekly. Dad’s plant shift starts at [[TIME|6:30 a.m.]]. Construction and farm work depend on available assignments. These schedules affect attendance, sleep, and who practices the home activities.
+
+Preocupaciones y prioridades / Family voices
+
+Mother stated, “Quiero que [[CHILD|Milo]] me diga qué necesita antes de llorar. At breakfast, yo sé que quiere algo, pero no sé qué. I want little words, gestures, whatever helps.”
+
+Father stated, “Cuando llego del trabajo, quiero jugar con [[CHILD|Emilio]], aunque sean unos minutos. He brings the truck, pero después se frustra. We need something we can do without a worksheet.”
+
+The aunt reported, “Conmigo señala mucho. Si le doy tiempo, intenta otra vez. Please tell me the same words you tell mamá, para hacerlo igual.”
+
+The family’s first priority is easier communication during meals. Their second priority is shared play with the sister. Their third priority is a calmer transition from daycare to home. They want Spanish to remain part of everyday family life.
+
+The clinician reflected these concerns in both languages. “Vamos a usar lo que ya hacen: breakfast, trucks, bath time. We can practice while the routine happens.” Parents confirmed that the proposed activities fit their available time.
+
+Rutinas diarias / Daily routines
+
+Routine	Typical time	Participation and family opportunity
+Waking	[[TIME|7:15 a.m.]]	Child reaches toward a parent and brings his blanket to the couch.
+Breakfast	[[TIME|7:45 a.m.]]	Family offers familiar food and waits for a gesture, sound, or word.
+Daycare arrival	[[TIME|8:40 a.m.]]	Parent uses the same brief goodbye and shows the classroom picture.
+Afternoon pickup	[[TIME|4:20 p.m.]]	Child may cry when tired; caregiver offers water and a quiet transition.
+Dinner	[[TIME|6:15 p.m.]]	Family shares choices and keeps the dog away from the table.
+Bath	[[TIME|7:30 p.m.]]	Child enjoys pouring water and requesting another turn.
+Bedtime	[[TIME|8:15 p.m.]]	Caregiver reads a familiar book and pauses at repeated lines.
+
+At breakfast, [[CHILD|Emilio]] pushes away unwanted food but does not consistently indicate an alternative. His mother can offer two visible choices. During play, [[SIBLING|Sol]] builds a road while her brother moves vehicles. The sister wants a clear turn-taking routine.
+
+At pickup, the babysitter sometimes receives a tired child. A snack and a quiet ride help him settle. The family requests practice that continues across caregivers, con palabras sencillas and without adding another appointment.
+
+Otros apoyos / Other agencies and settings
+
+Organization	Contact or participant	Current involvement
+[[DAYCARE|Little Copper Nest Childcare]]	Ms. [[TEACHER|Alma Varela]], lead teacher	Shared routines and classroom communication
+[[SCHOOL|Fernwater Early Learning School]]	Mr. [[TEACHER|Jonas Pike]], classroom assistant	Sister’s school; no direct child services
+[[AGENCY|Fernwater County WIC Office]]	[[PERSON|Tessa Rowan]], enrollment clerk	Nutrition appointment reminders
+[[AGENCY|Fernwater Family Services DSS]]	[[PERSON|Owen Cress]], benefits worker	Family application assistance
+[[AGENCY|Alder Cove Smart Start Partnership]]	[[PERSON|Mina Vale]], resource navigator	Book lending and parent activities
+
+At daycare, [[CHILD|Emilio]] watches classmates [[PEER|Eva Montes]] and [[PEER|Noah Ríos]] before joining. During a small group, [[PEER|Paz Weaver]] offers toy animals. Ms. [[TEACHER|Varela]] reports that familiar songs support participation. No classroom observation occurred during this review; these details are staff reports.
+
+Evaluación y observaciones / Assessment information
+
+Evaluation date: [[DATE|September 25, 2026]]. Home observation began at [[TIME|10:05 a.m.]] and ended at [[TIME|10:55 a.m.]]. Review discussion began at [[TIME|11:10 a.m.]] and ended at [[TIME|12:00 p.m.]].
+
+The record includes [[KEEP|PLS-5]] results and bilingual observation. Scores below describe the recorded administration. The clinician considered language exposure, caregiver examples, and participation when writing this plan.
+
+Test	Subtest	Raw score	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|24]]	[[KEEP|81]]	[[KEEP|10th percentile]]	[[KEEP|76-88]]	[[KEEP|1;10]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	[[KEEP|22]]	[[KEEP|75]]	[[KEEP|5th percentile]]	[[KEEP|70–82]]	[[KEEP|1;7]]
+[[KEEP|PLS-5]]	[[KEEP|Total Language]]	[[KEEP|46]]	[[KEEP|77]]	[[KEEP|6th percentile]]	[[KEEP|73-83]]	[[KEEP|1;8]]
+
+Caregiver interview describes birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3,120 grams]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. These are parent-reported history, not verified hospital records.
+
+During play, the child followed familiar directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He requested help in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Independent communication occurred in [[KEEP|40%]] of sampled opportunities.
+
+Observed productions included “[[KEEP|agua]],” “[[KEEP|más]],” and “[[KEEP|go]].” For “[[KEEP|car]],” he produced “[[KEEP|tar]].” Speech samples included /[[KEEP|k]]/ attempts, [[KEEP|[w]]] glides, and an emerging [[KEEP|/ɾ/]]. The clinician recorded one omission using [[KEEP|[EW]]]. During dog play, he said “[[PET|Chispa]] go”; that phrase contains the pet’s name.
+
+Clinical record codes: [[KEEP|F80.2]] and [[KEEP|92507]]. Anticipated telehealth billing, if used, includes modifier [[KEEP|95]]. No telehealth session occurred today.
+
+Resultados y estrategias / Functional outcomes
+
+Outcome [[KEEP|1]]: During meals, the child will communicate a choice or request using a gesture, picture, sound, or word in [[KEEP|4 of 5]] opportunities across familiar caregivers.
+
+Baseline is [[KEEP|2 of 5]] opportunities with [[KEEP|max cues]]. Caregivers will offer visible choices, wait, and respond to each clear attempt. Target words include “[[KEEP|más]],” “[[KEEP|agua]],” “[[KEEP|open]],” and “[[KEEP|help]].” The clinician will use [[KEEP|focused stimulation]] and adapt practice to each caregiver’s language. Success means the family understands the message during the actual meal.
+
+Outcome [[KEEP|2]]: During vehicle or animal play, the child will complete a shared exchange with another person in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]].
+
+Baseline is [[KEEP|1 of 5]] opportunities with [[KEEP|mod cues]]. The sister will offer one toy, wait for a response, and return it after a turn. The clinician will use [[KEEP|Hanen]]-informed interaction strategies and [[KEEP|recasting]]. Practice words include “[[KEEP|my turn]],” “[[KEEP|tu turno]],” and “[[KEEP|go]].” Adults will accept Spanish, English, gestures, and mixed-language attempts.
+
+Outcome [[KEEP|3]]: During the daycare-to-home transition, the child will use a familiar communication signal before prolonged crying in [[KEEP|80%]] of observed transitions.
+
+Baseline is [[KEEP|30%]] by caregiver report. Adults will show the same home picture, offer water, and pause for a response. The family will practice “[[KEEP|casa]],” “[[KEEP|up]],” and “[[KEEP|all done]].” The clinician will use [[KEEP|routines-based coaching]]. Caregivers will note what happened and which support helped.
+
+Calendario / Service schedule
+
+Service	Provider	Start date	End date	Frequency	Setting	Session start	Session stop
+Speech-language therapy	[[PROVIDER|Elena Marín]]	[[DATE|October 12, 2026]]	[[DATE|April 9, 2027]]	Weekly, 45 minutes	Home	[[TIME|10:15 a.m.]]	[[TIME|11:00 a.m.]]
+Service coordination	[[PROVIDER|Nora Bellamy]]	[[DATE|October 9, 2026]]	[[DATE|April 9, 2027]]	Monthly and as needed	Phone/home	[[TIME|1:00 p.m.]]	[[TIME|1:30 p.m.]]
+Occupational therapy consultation	[[PROVIDER|Priya Benton]]	[[DATE|October 20, 2026]]	[[DATE|March 23, 2027]]	Monthly, 30 minutes	Home	[[TIME|11:15 a.m.]]	[[TIME|11:45 a.m.]]
+
+The coordinator will confirm each visit with the available caregiver. A workplace change can move the appointment without changing the family’s priorities.
+
+Acuerdos / Review agreement
+
+Parents agreed to the outcomes and requested a bilingual reminder sheet. The clinician will bring meal pictures and a brief play example. The coordinator will request daycare feedback before the next review on [[DATE|January 8, 2027]].
+
+Caregivers will describe one successful routine and one difficult routine at each visit. Progress will reflect communication across everyday activities. The next review will consider whether supports fit family schedules and whether the child needs different strategies.
+
+Mother: [[PARENT|Marisol Castañeda]] — verbal agreement documented.
+Father: [[PARENT|Diego Salcedo]] — verbal agreement documented.
+Clinician: [[PROVIDER|Elena Marín]], bilingual pediatric speech-language pathologist.
+Service coordinator: [[PROVIDER|Nora Bellamy]].
+Documentation completed: [[DATE|October 9, 2026]], [[TIME|3:40 p.m.]].

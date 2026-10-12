@@ -1,0 +1,34 @@
+Tipo: Nota diaria de terapia del lenguaje
+Paciente: [[CHILD|Emilio de la Cruz]]
+Edad: [[KEEP|4;2]]
+Nacimiento: [[DATE|9 de agosto de 2022]]
+Servicio: [[DATE|11 de octubre de 2026]]
+Expediente: [[ID|NC-SLP-482716]]
+Medicaid: [[MEDICAID_ID|583104927Q]]
+Profesional: Lic. [[PROVIDER|Adriana Vega-Solís]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Senderos del Habla]]
+Ciudad: [[PLACE|Valle Azulado]], Carolina del Norte
+Teléfono: [[PHONE|(919) 555-0146]]
+Correo: [[EMAIL|avega@example.com]]
+Portal: [[URL|https://example.com/terapia]]
+Diagnóstico: [[KEEP|F80.2]]
+Procedimiento: [[KEEP|92507]]; modificador [[KEEP|GN]]
+
+Horario semanal:
+
+| Día | Inicio | Fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 a. m.]] | [[TIME|9:30 a. m.]] | [[DAYCARE|Little Learners Daycare]] |
+| Miércoles | [[TIME|2:15 p. m.]] | [[TIME|2:45 p. m.]] | Sede de [[KEEP|Little Learners Program]] |
+
+Subjetivo:
+La mamá, [[PARENT|Mariela del Río]], trabaja de noche como técnica de mantenimiento en [[ORG|Empaques Luna Clara]]. La tía, [[FAMILY|Inés de la Cruz]], acompañó al niño porque la madre descansaba. Informó que su hermano, [[SIBLING|Tomás del Río]], practica turnos durante la merienda. La maestra, Sra. [[TEACHER|Beatriz Navas]], observó más peticiones con palabras. El compañero [[PEER|Nico Salcedo]] participó brevemente. La familia solicita actividades cortas que pueda repetir sin materiales especiales.
+
+Objetivo:
+La sesión se realizó en español, con apoyos visuales y pausas para responder. [[CHILD|Emilio]] pidió objetos mediante frases de dos palabras en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Produjo el fonema [[KEEP|/k/]] en [[KEEP|60%]] de los ensayos y sustituyó [[KEEP|[t]]] al aumentar la velocidad. Dijo «[[KEEP|quiero agua]]» espontáneamente. Al mirar una fotografía comentó «[[PET|Chispa]] corre». Se practicaron las palabras [[KEEP|casa]] y [[KEEP|copa]] mediante [[KEEP|Cycles]]. Durante el juego compartido necesitó [[KEEP|claves mínimas]] para esperar su turno.
+
+Análisis:
+El desempeño muestra avances en peticiones funcionales, con variabilidad al retirar las imágenes. La evaluación previa con [[KEEP|PLS-5 Spanish]] documentó una puntuación estándar de [[KEEP|78]] en [[KEEP|Comprensión auditiva]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|2;6–3;0]]. Estos resultados orientan los objetivos; no describen por sí solos el rendimiento diario. No hubo señales de dolor ni dificultades para tolerar las actividades.
+
+Plan:
+Continuar la meta [[KEEP|2]] del IFSP y usar estrategias de [[KEEP|Hanen]] durante rutinas familiares. La cuidadora demostró cómo ofrecer dos opciones y esperar una respuesta. Practicar cinco minutos diarios, registrar peticiones espontáneas y reducir las ayudas según la respuesta. Compartir recomendaciones con el aula durante la próxima coordinación. Revisar avances el [[DATE|25 de octubre de 2026]]. La familia confirmó que el horario propuesto permite mantener la asistencia.

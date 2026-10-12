@@ -1,0 +1,27 @@
+Tipo: Nota diaria de terapia del habla y lenguaje
+Paciente: [[CHILD|Elena Marisol Prado]]
+Edad: [[KEEP|4;2]]
+Expediente: [[ID|SLP-008417]]
+Medicaid: [[MEDICAID|000714829Q]]
+Fecha: [[DATE|11 de octubre de 2026]]
+Hora: [[TIME|09:15]]
+Profesional: [[PROVIDER|Nadia Cerezo]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Comunicación Infantil del Roble]]
+Ubicación: [[PLACE|Villa Cedral]], Carolina del Norte
+Teléfono: [[PHONE|(919) 555-0146]]
+Correo: [[EMAIL|ncerezo@example.invalid]]
+Facturación: CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]]
+
+Subjetivo:
+La mamá, [[PARENT|Rosa Prado]], informó que [[CHILD|Elena]] pidió ayuda durante el desayuno. Su hermano [[SIBLING|Iván]] acompañó a la familia. La cuidadora, doña [[FAMILY|Lupe]], practica turnos en casa. La mamá trabaja en [[ORG|Textiles Bruma Azul]]. La familia recibe apoyo de [[AGENCY|Oficina de Smart Start Senderos]], en el condado de [[PLACE|Pinar Claro]].
+
+Objetivo:
+Se revisaron antecedentes escolares del [[SCHOOL|Distrito Escolar de Pinar Claro]] y de la [[SCHOOL|Escuela Primaria Sendero Azul]]. La maestra [[TEACHER|Carmen]] informó mayor participación con su compañera [[PEER|Lidia]]. El informe previo del [[KEEP|Goldman-Fristoe Test of Articulation 3]] registró puntuación estándar [[KEEP|78]], percentil [[KEEP|7]] e intervalo de confianza [[KEEP|73-83]]. El perfil anterior de [[KEEP|Rossetti Infant-Toddler Language Scale]] documentó habilidades entre [[KEEP|24–27 meses]].
+
+Durante juego con [[KEEP|Hanen]], produjo [[KEEP|“quiero agua”]] en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Practicó [[KEEP|/k/]] en [[KEEP|“casa”]], con sustitución por [[KEEP|[t]]] en [[KEEP|40%]] de ensayos. También dijo “[[PET|Chispa]] ven” al mirar una fotografía.
+
+Análisis:
+[[CHILD|Elena]] mostró mejor iniciativa comunicativa. Las dificultades aumentaron al retirar los apoyos visuales. Respondió bien a pausas y modelos breves.
+
+Plan:
+Continuar la meta [[KEEP|2]] del IFSP. Practicar peticiones durante rutinas familiares y compartir estrategias con la maestra [[TEACHER|Carmen]]. Próxima sesión: [[DATE|18 de octubre de 2026]], a las [[TIME|09:15]].

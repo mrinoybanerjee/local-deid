@@ -1,0 +1,29 @@
+Mapa diario / Daily Session Note
+
+Fecha de sesión: [[DATE|October 9, 2026]]
+Niño/Child: [[CHILD|Mateo Fernández]] (nombre preferido: [[CHILD|Teo]])
+Fecha de nacimiento: [[DATE|August 3, 2022]] — Edad/Age: [[KEEP|4;2]]
+ID de expediente: [[ID|WK-20461-F]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+CDSA: [[AGENCY|Centro de Desarrollo y Servicios para Niños del Condado de Wake]] ("[[AGENCY|CDSA de Wake]]")
+Coordinadora de servicios / Service Coordinator: [[PROVIDER|Yolanda Pérez]], de la [[AGENCY|Agencia de Coordinación de Servicios Familiares del Triángulo]] ("[[AGENCY|ACSF]]")
+Hora de sesión: [[TIME|10:15 a.m.]] a [[TIME|11:00 a.m.]]
+Lugar: domicilio de la familia, [[PLACE|214 Willow Bend Lane, Garner]]
+
+Subjetivo: Hoy visité a [[CHILD|Teo]] en casa porque su mamá, [[PARENT|Lucía Rodríguez]], trabaja dos empleos y no pudo llevarlo a [[DAYCARE|Little Sprouts Early Learning Center]] esta semana. [[PARENT|Lucía Rodríguez]] trabaja de día en [[ORG|Bojangles' de Capital Boulevard]] y de noche en lo que ella solo llama "[[ORG|BB&T]]" por el banco. Ella dijo, "[[CHILD|Teo]] está diciendo más palabras, pero todavía mezcla el español y el inglés en la misma frase." Su hermanito menor, [[SIBLING|Diego]], estaba dormido durante la mayor parte de la sesión. La maestra de [[DAYCARE|Little Sprouts]], [[TEACHER|Ms. Jenkins]], reportó por correo que [[CHILD|Teo]] pide "more wawa" en vez de "más agua" con sus compañeros de clase.
+
+Objetivo: Administré partes del [[KEEP|PLS-5]] y del [[KEEP|CELF-5 Preschool-2]] para seguimiento informal. [[CHILD|Teo]] obtuvo un puntaje estándar de [[KEEP|82]] en Comprensión Auditiva, percentil [[KEEP|12]], dentro del intervalo de confianza [[KEEP|76-88]]. Produjo /k/ y /t/ de forma consistente en posición inicial con [[KEEP|mod cues]], y repitió correctamente "[[KEEP|pelota]]" y "[[KEEP|casa]]" en [[KEEP|8/10]] ensayos usando el enfoque [[KEEP|Hanen]] y señales táctiles de [[KEEP|PROMPT]]. En inglés dijo "[[KEEP|more wawa]]" en vez de "water," típico de code-switching a esta edad.
+
+Evaluación: [[CHILD|Teo]] sigue progresando hacia la Meta 2 del IFSP (comunicación expresiva bilingüe). Continúa calificando para servicios bajo [[AGENCY|DSS]] y tiene referido activo a [[AGENCY|WIC]] para seguimiento nutricional. La familia también participa en [[AGENCY|Smart Start]] y está en lista de espera para [[AGENCY|Early Head Start]].
+
+IFSP Outcome	Strategies	Progress	Date
+Outcome 1: Expressive vocabulary growth	Hanen parent coaching, bilingual labeling	8/10 trials correct	[[DATE|October 9, 2026]]
+Outcome 2: Speech sound production /k/ /t/	PROMPT tactile cues, modeling	Mod cues, improving	[[DATE|October 9, 2026]]
+Outcome 3: Social communication with peers	Daycare coaching, visual supports	Emerging, 3 of 5 attempts	[[DATE|October 9, 2026]]
+
+Plan: Continuar sesiones semanales. [[PARENT|Lucía Rodríguez]] solicitó que le enviemos el informe a [[EMAIL|lucia.rodriguez84@gmail.com]] antes de la próxima revisión del IFSP el [[DATE|November 12, 2026]]. La coordinadora [[PROVIDER|Yolanda Pérez]] confirmará la cita con la [[AGENCY|CDSA de Wake]] por teléfono al [[PHONE|(919) 555-0148]]. Más recursos disponibles en [[URL|www.triangleearlyintervention.org]].
+
+Firmado,
+[[PROVIDER|Hannah Fable, M.S., CCC-SLP]]
+[[EMPLOYER|Carolina Pediatric Speech Partners]]
+[[PHONE|(919) 555-0172]]

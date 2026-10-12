@@ -1,0 +1,34 @@
+Daily Therapy Note / Revisión de evaluación
+
+Client: [[CHILD|Emilio Narejo]]; DOB: [[DATE|August 9, 2022]]; age: [[KEEP|4;2]]  
+Service: [[DATE|October 11, 2026]], [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]  
+Clinician: [[PROVIDER|Marisol Vireda]], bilingual pediatric speech-language pathologist  
+Employer: [[EMPLOYER|Little Lantern Speech Studio]]  
+Location: [[PLACE|Nivar Creek]], North Carolina  
+Record: [[ID|LL-260184]]; Medicaid: [[MEDICAID_ID|583920174Q]]  
+Billing: CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]]
+
+**S — Subjetivo**
+
+Su mamá [[PARENT|Elena Narejo]] attended and reported, “En casa habla más cuando su hermana [[SIBLING|Luz]] juega con él.” Family requested school coordination with [[SCHOOL|Nivar Creek School District]], specifically [[SCHOOL|Juniper Lantern Elementary School]], and teacher Ms. [[TEACHER|Brenna Talven]] in the morning preschool classroom. Parent contact: [[EMAIL|elena.narejo@example.invalid]]; phone: [[PHONE|919-555-0146]]. Clinic website: [[URL|https://littlelantern.example.invalid]].
+
+**O — Objetivo / Evaluation review**
+
+Reviewed results from [[DATE|October 6, 2026]]. The [[KEEP|PLS-5]] was administered in English; Spanish language sampling supplemented interpretation. These scores describe English performance and require caution given bilingual exposure.
+
+| Measure | Standard score | Percentile | Confidence interval | Age-equivalent range |
+|---|---|---|---|---|
+| [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|Expressive Communication]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|71–81]] | [[KEEP|2;3–2;8]] |
+
+Today's session used [[KEEP|Hanen]] strategies during pretend cooking. [[CHILD|Emilio]] requested with two-word combinations in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He followed related directions in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Productions included “[[KEEP|más sopa]],” “[[KEEP|want spoon]],” and “[[KEEP|yo eat]].” Clinician modeled target words “[[KEEP|abre]]” and “[[KEEP|open]].”
+
+During brief speech practice, initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]] with [[KEEP|max cues]]. A [[KEEP|[w]]] substitution occurred during imitation. No frustration appeared; movement breaks supported participation. Mother practiced waiting, then expanding each request in the language used by the child. She demonstrated the routine independently during cleanup and described how to repeat it during meals.
+
+**A — Análisis**
+
+Functional requesting improved within familiar routines. Mixed-language productions conveyed clear intent and were accepted. English scores alone do not establish impairment across both languages. Additional Spanish sampling and classroom observations remain necessary. Attention varied during structured tasks but improved with meaningful choices.
+
+**P — Plan**
+
+Continue weekly sessions and caregiver coaching. Practice short requests during meals using [[KEEP|min cues]], then fade support. Review school observations next visit. With signed consent documented, prepare a teacher summary for parent review. Next appointment: [[DATE|October 18, 2026]] at [[TIME|9:15 a.m.]]. Parent agreed: “Sí, podemos practicar poquito cada día.”

@@ -1,0 +1,36 @@
+To: doña [[PARENT|Lupe]]
+From: [[PROVIDER|Eliana Norvés]], bilingual pediatric speech-language pathologist
+[[EMPLOYER|Solvienta Speech Services]], [[PLACE|Larkfen]], North Carolina
+Date: [[DATE|October 8, 2026]]
+
+[X] Home  [ ] Daycare  [X] School
+[X] English  [X] Spanish
+Child: [[CHILD|María Inés Valcera Monteluz]]
+Age: [[KEEP|4;2]]
+Record: [[ID|SS-482716]]
+Medicaid: [[MEDICAID_ID|583920174Q]]
+
+Dear doña [[PARENT|Lupe]],
+
+Thank you for meeting with me. This summary can help our school team support [[CHILD|María Inés]] across both languages.
+
+[X] Birth history reviewed  [X] Hearing follow-up discussed
+
+She was born on [[DATE|August 6, 2022]], at [[HOSPITAL|Brindleleaf Children's Hospital]]. Her medical history includes prematurity and twelve days in the NICU. Dr. [[PROVIDER|Ivo Serrales]] managed feeding concerns. Dr. [[PROVIDER|Nadia Velmar]] later documented clear middle ears. You reported no current swallowing concerns.
+
+At [[SCHOOL|Mossquill Early Learning School]], Miss [[TEACHER|Ana]] and la maestra [[TEACHER|Carmen]] describe strong participation during songs. Classmate [[PEER|Dalia Renvés]] helps model turn-taking. Her brother [[SIBLING|Nico]] practices picture naming, and grandmother [[FAMILY|Belisa]] reads Spanish stories. The family dog, [[PET|Tilo]], often joins these routines.
+
+[X] Language sample  [X] Parent coaching
+
+The [[KEEP|PLS-5 Spanish]] yielded a standard score of [[KEEP|82]] and percentile rank of [[KEEP|12]]. During play, she produced [[KEEP|"tat"]] for [[KEEP|"cat"]]. Initial [[KEEP|/k/]] accuracy was [[KEEP|8/10]] with [[KEEP|mod cues]], compared with [[KEEP|40%]] independently. One utterance received the SALT code [[KEEP|[EW]]]. Planned billing uses CPT [[KEEP|92507]] and ICD-10 [[KEEP|F80.0]].
+
+Please practice five minutes daily, accepting words in either language. Interpreter [[PROVIDER|Rosa Tenriel]] can join our next meeting on [[DATE|October 22, 2026]], at [[TIME|3:15 p.m.]].
+
+Coordinator [[PROVIDER|Mila Orveta]] at [[AGENCY|Larkfen Family Start]] will arrange transportation with driver Mr. [[PERSON|Tom]]. Your workplace, [[ORG|Velquill Textiles]], may receive a separate scheduling note with your permission.
+
+Contact: [[PHONE|919-555-0146]]
+Email: [[EMAIL|eliana@solvienta.example]]
+Resources: [[URL|https://solvienta.example/home]]
+Mailing address: [[PLACE|418 Quillberry Lane]], [[PLACE|Larkfen]], NC [[PLACE|27500]]
+
+[X] Parent copy  [X] School copy requested

@@ -1,0 +1,37 @@
+Tipo de documento: Carta de seguimiento familiar
+Paciente: [[CHILD|Elías Monteverde]]
+Edad: [[KEEP|4;2]]
+Fecha: [[DATE|8 de octubre de 2026]]
+Profesional: [[PROVIDER|Marina Solvera]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Pine Lantern Pediatric Speech]]
+Ubicación: [[PLACE|Brisavalle]], Carolina del Norte
+Expediente: [[ID|SLP-804731]]
+Medicaid: [[MEDICAID_ID|738204619Q]]
+Teléfono: [[PHONE|919-555-0148]]
+Correo: [[EMAIL|msolvera@pinelantern.example]]
+Domicilio familiar: [[PLACE|1846 Willow Finch Lane]], [[PLACE|Brisavalle]], NC [[PLACE|27583]]
+
+Motivo de la carta
+
+Estimada mamá [[PARENT|Renata Monteverde]] y estimado papá [[PARENT|Julián Monteverde]]:
+
+Comparto recomendaciones para apoyar la comunicación de [[CHILD|Elías]] en casa y en la escuela [[SCHOOL|Escuela Primaria Sendero Azul]]. Durante la visita, participó con interés cuando pudo elegir materiales y anticipar los cambios. La maestra [[TEACHER|Celia Robledo]] observó que necesita más tiempo para contestar preguntas frente al grupo.
+
+Resultados y observaciones
+
+En [[KEEP|PLS-5 Spanish]], el subtest [[KEEP|Comprensión auditiva]] mostró una puntuación estándar de [[KEEP|84]], percentil [[KEEP|14]], intervalo de confianza de [[KEEP|79–90]] y edad equivalente de [[KEEP|3;8]]. Estos resultados se interpretan junto con las muestras de ambos idiomas y la información familiar.
+
+[[CHILD|Elías]] siguió instrucciones en [[KEEP|8/10]] oportunidades con [[KEEP|claves mínimas]]. Produjo [[KEEP|/g/]] correctamente en [[KEEP|60 %]] de los intentos. Dijo [[KEEP|«tato»]] para la palabra objetivo [[KEEP|«gato»]]. La muestra incluyó el código [[KEEP|[EW]]]. El diagnóstico registrado es [[KEEP|F80.2]]; el servicio corresponde a [[KEEP|92507]], con modificador [[KEEP|GN]].
+
+Contexto familiar
+
+La mamá trabaja en la tienda [[ORG|Maple Lantern Store]] y en el servicio de limpieza [[ORG|Bright Clover Cleaning Service]]. El papá trabaja en la planta [[ORG|Cedar Loom Plant]] y en el restaurante [[ORG|River Apron Restaurant]]. Antes trabajó en la granja [[ORG|Silver Meadow Farm]] y en la empresa de construcción [[ORG|Oak Harbor Construction Company]]. Sus horarios cambian, por lo que acordamos actividades breves.
+
+La familia participa en el centro comunitario [[ORG|Puente de Luciérnagas]]. Allí, la voluntaria [[PERSON|L. Varela]] facilita encuentros familiares. La abuela [[FAMILY|Dalia Monteverde]] vive en la aldea [[PLACE|Los Naranjos del Viento]], Guatemala, y conversa con el niño por teléfono. Su hermana [[SIBLING|Inés Monteverde]] y su compañero [[PEER|Tomás Laredo]] pueden modelar turnos durante el juego.
+
+Plan compartido
+
+Practiquen con objetos cotidianos y esperen antes de repetir una pregunta. Acepten respuestas en cualquiera de los dos idiomas. Eviten corregir cada palabra. Respondan con un modelo claro y mantengan el intercambio agradable. Usaremos estrategias de [[KEEP|Hanen]] para ampliar frases durante rutinas familiares. Revisaremos los ejemplos que ustedes anoten y coordinaremos las mismas ayudas con la maestra. La próxima revisión será el [[DATE|22 de octubre de 2026]] a las [[TIME|3:30 p. m.]].
+
+Atentamente,
+[[PROVIDER|Marina Solvera]]

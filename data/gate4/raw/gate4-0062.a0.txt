@@ -1,0 +1,31 @@
+**Nota diaria de terapia del habla y lenguaje: formato SOAP**
+
+Fecha de servicio: [[DATE|14 de septiembre de 2026]]. Paciente: [[CHILD|Elías Marín Castaño]], edad [[KEEP|4;2]]. Expediente: [[ID|NC-SLP-48216]]. Medicaid: [[MEDICAID_ID|684207391Q]]. Lugar: preescolar [[DAYCARE|Nido del Cometa Azul]], [[PLACE|418 Calle Brisa Violeta]], [[PLACE|Lunavera]], Carolina del Norte, [[PLACE|27583]]. Profesional: [[PROVIDER|Renata Valdés Pino]], patóloga bilingüe del habla y lenguaje de [[EMPLOYER|Puentes de Voz Infantil]]. Inicio: [[TIME|9:05 a. m.]]. Finalización: [[TIME|9:35 a. m.]].
+
+**S — Información subjetiva**
+
+La mamá, [[PARENT|Inés Castaño Rivas]], informó que [[CHILD|Elías]] pidió agua con dos palabras durante el desayuno, a las [[TIME|7:20 a. m.]]. Su hermana [[SIBLING|Sol]] participó en el juego familiar. La abuela [[FAMILY|Marta Rivas Olmedo]] practicó turnos con fotografías. La maestra [[TEACHER|Dalia Serrano]] observó mayor participación cuando el compañero [[PEER|Bruno Ledesma]] ofreció materiales. La familia indicó que el niño habló sobre su perro [[PET|Nube]]. No informó cambios en la audición ni molestias durante esta sesión.
+
+**O — Observación y revisión de evaluación**
+
+Se revisaron los resultados de la evaluación bilingüe previa con [[KEEP|PLS-5 Spanish]]. Los intervalos corresponden al nivel de confianza del [[KEEP|95%]]. Las edades equivalentes se presentan como rangos descriptivos; no representan una edad global del desarrollo.
+
+| Prueba o subprueba | Fecha | Puntuación estándar | Percentil | Intervalo de confianza | Rango de edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|Comprensión auditiva]] | [[DATE|28 de agosto de 2026]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|76–88]] | [[KEEP|3;2–3;6]] |
+| [[KEEP|Comunicación expresiva]] | [[DATE|28 de agosto de 2026]] | [[KEEP|77]] | [[KEEP|6]] | [[KEEP|72–84]] | [[KEEP|2;10–3;3]] |
+| [[KEEP|Lenguaje total]] | [[DATE|28 de agosto de 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|3;0–3;5]] |
+
+Durante el juego, [[CHILD|Elías]] siguió instrucciones de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|apoyos mínimos]]. Produjo peticiones de dos palabras en [[KEEP|3 de 5]] oportunidades con [[KEEP|apoyos moderados]]. Se aplicaron estrategias de [[KEEP|Hanen]]: esperar, seguir su interés y ampliar sus mensajes.
+
+Se trabajó la palabra objetivo [[KEEP|"sol"]] mediante una imagen del astro. Esta palabra coincide con el nombre de su hermana [[SIBLING|Sol]], pero aquí se usó como sustantivo común. El niño produjo [[KEEP|"tol"]] y después [[KEEP|"sol"]] con modelo visual. En otro intercambio dijo “[[SIBLING|Sol]], ven”; esa emisión se dirigió a su hermana. La precisión de [[KEEP|/s/]] inicial fue del [[KEEP|70%]]. La producción espontánea [[KEEP|"yo quiere agua"]] se registró con el código [[KEEP|[EW]]].
+
+**A — Análisis**
+
+[[CHILD|Elías]] respondió mejor cuando recibió tiempo para iniciar. Los apoyos visuales facilitaron la comprensión, pero todavía necesitó modelos para combinar palabras. La diferencia entre respuestas espontáneas y respuestas imitadas requiere seguimiento. El desempeño de hoy permite mantener los objetivos actuales sin aumentar su complejidad.
+
+**P — Plan**
+
+Continuar terapia semanal. Practicar peticiones durante la merienda de las [[TIME|3:15 p. m.]] con [[KEEP|apoyos mínimos]]. Revisar la meta [[KEEP|2]] del [[KEEP|IFSP]] el [[DATE|12 de octubre de 2026]]. Facturación: [[KEEP|CPT 92507]], modificador [[KEEP|GN]]; diagnóstico: [[KEEP|ICD-10 F80.2]].
+
+Contacto familiar: [[PHONE|(919) 555-0147]]; [[EMAIL|ines.castano@example.invalid]]. Firma: [[PROVIDER|Renata Valdés Pino]].

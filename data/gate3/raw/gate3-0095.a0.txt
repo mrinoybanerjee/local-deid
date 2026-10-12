@@ -1,0 +1,181 @@
+INFORME DE EVALUACIÓN BILINGÜE DEL HABLA Y DEL LENGUAJE
+Documento ficticio para pruebas de desidentificación
+
+DATOS DE IDENTIFICACIÓN
+
+Campo	Dato
+Paciente	[[CHILD|Lucía del Río-Méndez]]
+Nombre familiar	[[CHILD|Luli]]
+Fecha de nacimiento	[[DATE|7 de agosto de 2022]]
+Edad cronológica	[[KEEP|4;2]]
+Fecha de evaluación	[[DATE|7 de octubre de 2026]]
+Horario	De [[TIME|9:15 a. m.]] a [[TIME|10:45 a. m.]]
+Fecha del informe	[[DATE|11 de octubre de 2026]]
+Expediente	[[ID|SL-2026-04782]]
+Número de Medicaid	[[MEDICAID_ID|583027419K]]
+Autorización	[[ID|AUT-6281947]]
+Diagnóstico del lenguaje	[[KEEP|F80.2]]
+Código de evaluación	[[KEEP|92523]]
+Código de tratamiento propuesto	[[KEEP|92507]]
+Modificadores previstos	[[KEEP|GN]], [[KEEP|EP]]
+Profesional	[[PROVIDER|Isabel Prado-Salcedo]], patóloga bilingüe del habla y del lenguaje
+Empresa	[[EMPLOYER|Senderos del Habla Pediátrica]]
+Dirección	[[PLACE|418 Calle del Abedul, oficina 203]], [[PLACE|Valle Sereno]], Carolina del Norte [[PLACE|27863]]
+
+CONTACTOS AUTORIZADOS
+
+Relación	Nombre	Teléfono	Correo electrónico
+Madre	[[PARENT|Verónica de la Cruz]]	[[PHONE|919-555-0146]]	[[EMAIL|veronica.cruz@example.com]]
+Padre	[[PARENT|Esteban del Río-Méndez]]	[[PHONE|984-555-0172]]	[[EMAIL|esteban.rio@example.com]]
+Coordinadora	[[PROVIDER|Paula Neri]]	[[PHONE|919-555-0128]]	[[EMAIL|paula.neri@example.com]]
+Clínica	[[EMPLOYER|Senderos del Habla Pediátrica]]	[[PHONE|252-555-0184]]	[[URL|https://senderos-habla.example.com]]
+
+MOTIVO DE CONSULTA
+
+La familia solicita una evaluación porque [[CHILD|Lucía]] tiene dificultad para comprender instrucciones largas y explicar lo que ocurrió durante el día. Su madre señala que las personas conocidas suelen entenderla cuando ven los objetos. Sin ese apoyo, la niña repite palabras, señala o abandona el mensaje. La familia desea que pueda pedir ayuda, participar en conversaciones y expresar malestar con mayor claridad.
+
+El pediatra, Dr. [[PROVIDER|Andrés Molina]], remitió a [[CHILD|Lucía del Río-Méndez]] después de revisar las inquietudes familiares. La remisión solicita examinar comprensión, expresión, sonidos del habla y comunicación social. Esta evaluación describe habilidades observadas en español y mediante sondeos complementarios en inglés. La interpretación considera la exposición a cada idioma, las oportunidades de aprendizaje y el desempeño funcional.
+
+ANTECEDENTES Y FUENTES DE INFORMACIÓN
+
+La información procede de una entrevista con ambos padres, formularios escolares, registros médicos ficticios y observación directa. La madre acompañó a [[CHILD|Lucía]] durante toda la sesión. El padre participó por teléfono al cierre. La familia autorizó comparar ejemplos del hogar y del aula para identificar necesidades presentes en más de un entorno.
+
+La niña recibió una valoración comunitaria a los [[KEEP|26 meses]], pero la familia no inició servicios continuos por cambios de horario. El expediente anterior describe pocas combinaciones de palabras y uso frecuente de gestos. No incluye puntuaciones que permitan una comparación directa. Los padres no informan pérdida de palabras ni disminución de habilidades sociales.
+
+La coordinadora [[PROVIDER|Paula Neri]] facilitó una copia del plan previo emitido por [[AGENCY|CDSA Sendero Oriental]], con sede en [[PLACE|Valle Sereno]]. Su número de caso es [[ID|CDSA-481062]]. El plan, fechado el [[DATE|18 de septiembre de 2024]], contenía el resultado IFSP [[KEEP|2]]. Ese resultado buscaba aumentar las peticiones durante actividades familiares. El documento se usa como antecedente y requiere revisión antes de reutilizarlo.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA
+
+[[CHILD|Lucía]] nació en [[HOSPITAL|Hospital Maternoinfantil de Las Encinas]], en [[PLACE|Puerto Encina]], Carolina del Norte. La gestación fue de [[KEEP|35 semanas y 4 días]]. El peso al nacer fue de [[KEEP|2.380 g]]. Las puntuaciones Apgar fueron [[KEEP|7]] al primer minuto y [[KEEP|9]] a los cinco minutos. La madre informa un parto por cesárea debido a cambios persistentes en la frecuencia cardíaca fetal.
+
+La niña permaneció nueve días en la unidad de cuidados intensivos neonatales, NICU, por dificultades iniciales de alimentación y control de temperatura. La neonatóloga, Dra. [[PROVIDER|Elena Varela]], supervisó su atención. La obstetra, Dra. [[PROVIDER|Marina Solís]], atendió a la madre. Los registros revisados no describen ventilación prolongada, convulsiones ni lesiones neurológicas.
+
+Actualmente, el Dr. [[PROVIDER|Andrés Molina]] brinda atención primaria en [[HOSPITAL|Centro Médico Infantil Brisa Clara]]. La familia informa episodios de otitis durante la primera infancia. La audióloga [[PROVIDER|Celia Duarte]] realizó una evaluación el [[DATE|22 de septiembre de 2026]] en [[HOSPITAL|Hospital Maternoinfantil de Las Encinas]]. El informe consultado describe audición suficiente para acceder al habla durante esa visita.
+
+No se informan medicamentos diarios, alergias conocidas ni dificultades actuales de deglución. La niña acepta alimentos de distintas texturas. La madre describe sueño variable cuando cambia la rutina familiar. La terapeuta ocupacional [[PROVIDER|Rosa Benítez]] observó sensibilidad al ruido en una consulta previa, sin establecer un diagnóstico adicional.
+
+HISTORIA FAMILIAR Y LINGÜÍSTICA
+
+[[CHILD|Lucía del Río-Méndez]] vive con su madre [[PARENT|Verónica de la Cruz]], su padre [[PARENT|Esteban del Río-Méndez]] y su hermano [[SIBLING|Tomás del Río-Méndez]], de [[KEEP|7 años]]. La abuela materna [[FAMILY|Rosa de la Cruz]] la cuida después del preescolar. La niñera [[FAMILY|Inés Duarte]] participa cuando los horarios laborales se superponen. La familia tiene un perro llamado [[PET|Nube]].
+
+El español predomina en casa. El padre usa algunas expresiones en inglés durante juegos, pero conversa principalmente en español. La madre trabaja en [[ORG|Panadería Molino de Abril]]. El padre trabaja en [[ORG|Taller Mecánico Horizonte Azul]]. Los padres describen oportunidades diarias para conversar durante comidas, traslados y lectura compartida.
+
+La exposición regular al inglés aumentó al ingresar al preescolar a los [[KEEP|3;6]]. La familia estima una distribución aproximada de [[KEEP|70%]] de español y [[KEEP|30%]] de inglés en una semana habitual. Estas cifras representan un cálculo familiar, no una medición de competencia lingüística.
+
+La madre refiere antecedentes de dificultades escolares de lectura en un tío, [[FAMILY|Gabriel de la Cruz]]. No conoce diagnósticos formales de lenguaje en otros familiares. La familia mantiene contacto con [[AGENCY|Oficina WIC Puente Familiar]] y [[AGENCY|Smart Start Semillas del Futuro]], ambas del condado de [[PLACE|Robledal]], para orientación sobre alimentación y recursos infantiles.
+
+CONTEXTO EDUCATIVO
+
+La niña asiste a [[SCHOOL|Preescolar Jardín de las Garzas]], en [[PLACE|Valle Sereno]]. Su maestra, Sra. [[TEACHER|Alicia Montoya]], describe interés por canciones, construcción y juegos de cocina. La auxiliar [[TEACHER|Beatriz Ledesma]] informa que necesita apoyo para seguir instrucciones dirigidas a todo el grupo.
+
+En el aula, [[CHILD|Lucía]] busca a sus compañeros [[PEER|Diego Salvatierra]] y [[PEER|Emma Paredes]]. Participa mejor cuando el juego tiene objetos concretos y acciones previsibles. Durante conversaciones grupales, suele responder después de escuchar a otro niño. La maestra observa dificultades similares en actividades realizadas en español, aunque aparecen con mayor frecuencia cuando la instrucción se presenta únicamente en inglés.
+
+La familia recibió apoyo previo de [[AGENCY|Early Head Start Caminos Pequeños]] del condado de [[PLACE|Robledal]]. La coordinadora anterior, [[PROVIDER|Nora Campos]], recomendó mantener contacto entre la familia y el personal educativo.
+
+PROCEDIMIENTOS Y CONDUCTA DURANTE LA EVALUACIÓN
+
+Se administró [[KEEP|PLS-5 Spanish]] conforme a los procedimientos del instrumento. También se recogió una muestra de lenguaje durante juego, descripción de imágenes y conversación. Se realizaron sondeos de comprensión, producción de sonidos y respuesta a apoyos. Las tareas complementarias en inglés se analizaron de manera descriptiva.
+
+[[CHILD|Lucía]] entró al consultorio con cautela y permaneció cerca de su madre durante los primeros minutos. Después exploró los materiales y aceptó turnos con la evaluadora. La atención mejoró cuando pudo alternar tareas de mesa con actividades de movimiento.
+
+La niña respondió a elogios concretos y a una agenda visual. Necesitó [[KEEP|ayudas mínimas]] para regresar a la actividad después de una pausa. En tareas lingüísticas más complejas, requirió [[KEEP|ayudas moderadas]] o [[KEEP|ayudas máximas]]. Los apoyos de los sondeos se registraron por separado y no se incorporaron a las puntuaciones estandarizadas.
+
+RESULTADOS ESTANDARIZADOS
+
+Instrumento	Subprueba o índice	Puntuación estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Comprensión auditiva]]	[[KEEP|74]]	[[KEEP|4]]	[[KEEP|69–81]]	[[KEEP|2;10]]
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Comunicación expresiva]]	[[KEEP|77]]	[[KEEP|6]]	[[KEEP|71–85]]	[[KEEP|3;0]]
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Lenguaje total]]	[[KEEP|75]]	[[KEEP|5]]	[[KEEP|69–83]]	[[KEEP|2;11]]
+
+Los intervalos corresponden al nivel de confianza de [[KEEP|90%]]. Las edades equivalentes describen el resultado dentro del instrumento. No representan una edad global de desarrollo ni deben utilizarse por sí solas para decidir servicios.
+
+El perfil muestra dificultades en comprensión y expresión. Las puntuaciones se interpretan junto con la historia lingüística y las muestras funcionales. Las diferencias de exposición entre idiomas limitan cualquier comparación basada únicamente en vocabulario. La evidencia de dificultad también aparece en actividades familiares realizadas en español.
+
+COMPRENSIÓN DEL LENGUAJE
+
+[[CHILD|Lucía]] identificó objetos cotidianos, acciones comunes y partes del cuerpo. Comprendió instrucciones breves cuando el referente estaba visible. En un sondeo de instrucciones de un paso, respondió correctamente en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], sin apoyo adicional.
+
+En instrucciones de dos pasos relacionadas, obtuvo [[KEEP|4/10]], equivalente a [[KEEP|40%]], de manera independiente. Con [[KEEP|ayudas moderadas]] y repetición pausada, aumentó a [[KEEP|7/10]], equivalente a [[KEEP|70%]]. La dificultad fue mayor cuando debía recordar el primer elemento mientras escuchaba el segundo.
+
+Comprendió mejor [[KEEP|“dentro”]] y [[KEEP|“arriba”]] que [[KEEP|“detrás”]] o [[KEEP|“entre”]]. En preguntas sobre imágenes, respondió con mayor precisión a preguntas concretas que a preguntas sobre causas. A veces señaló un elemento relacionado sin contestar lo solicitado.
+
+Durante lectura compartida, anticipó una acción repetida después de recibir un modelo. No explicó de forma independiente por qué un personaje necesitaba ayuda. Este patrón sugiere que el contexto y la repetición facilitan la comprensión, mientras que las relaciones verbales menos visibles requieren enseñanza explícita.
+
+EXPRESIÓN DEL LENGUAJE Y MUESTRA ESPONTÁNEA
+
+La muestra incluyó sesenta enunciados utilizables. Predominaron combinaciones breves con sustantivos y verbos de alta frecuencia. [[CHILD|Lucía]] expresó peticiones, rechazo, posesión y comentarios. El uso de artículos, pronombres y marcas verbales fue variable.
+
+Entre sus producciones se registraron [[KEEP|“yo quiero agua”]], [[KEEP|“no cabe aquí”]] y [[KEEP|“la niña está comiendo”]]. Al observar una fotografía familiar, dijo “[[SIBLING|Tomás]] me quitó el rojo”. Durante juego con animales, expresó “[[PET|Nube]] corre allá” y luego “[[SIBLING|Tomás]], mira a [[PET|Nube]]”. Los nombres se conservaron dentro de las transcripciones para documentar referentes personales.
+
+La niña nombró acciones comunes, pero recurrió a términos generales cuando desconocía una palabra. Usó [[KEEP|“eso”]] y [[KEEP|“hacer”]] para varios significados. Con [[KEEP|ayudas mínimas]], produjo frases más completas después de escuchar una expansión.
+
+En descripción de secuencias, mencionó elementos visibles sin establecer claramente el orden. El análisis mediante convenciones de [[KEEP|SALT]] registró omisiones y errores morfosintácticos con el código [[KEEP|[EW]]]. Las diferencias esperables por exposición bilingüe se examinaron por separado.
+
+La respuesta al modelado fue favorable. Sin embargo, la niña no mantuvo todas las formas nuevas al cambiar de actividad.
+
+HABLA, VOZ Y FLUIDEZ
+
+La exploración funcional mostró movimientos orales suficientes para las tareas observadas. La voz presentó calidad y volumen adecuados durante la sesión. No se observaron interrupciones persistentes de fluidez. Estos hallazgos corresponden a una muestra limitada.
+
+En palabras familiares, [[CHILD|Lucía]] produjo [[KEEP|/p/]], [[KEEP|/m/]] y [[KEEP|/t/]] con mayor estabilidad. Se observaron variaciones en [[KEEP|/k/]], [[KEEP|/g/]] y [[KEEP|/ɾ/]]. En una repetición del objetivo [[KEEP|“casa”]], produjo [[KEEP|[ˈtasa]]]. En inglés, el objetivo [[KEEP|“red”]] incluyó una sustitución con [[KEEP|[w]]].
+
+La inteligibilidad estimada fue de [[KEEP|80%]] para su madre y [[KEEP|60%]] para la evaluadora durante conversación sin apoyo visual. Estas estimaciones dependen del interlocutor y del contexto. Se recomienda recoger una muestra adicional antes de establecer un diagnóstico específico de los sonidos del habla.
+
+COMUNICACIÓN SOCIAL Y JUEGO
+
+[[CHILD|Lucía]] compartió atención, mostró objetos y buscó la reacción del adulto. Inició intercambios para pedir materiales y comentar acciones. Aceptó turnos cuando la actividad tenía una estructura clara.
+
+En oportunidades para reparar un mensaje, logró hacerlo en [[KEEP|3 de 5]] ocasiones con [[KEEP|ayudas moderadas]]. Las reparaciones incluyeron señalar, repetir y agregar una palabra. Cuando el adulto no comprendió después de varios intentos, la niña se apartó o cambió de actividad.
+
+El juego simbólico incluyó alimentar muñecos y representar una visita médica. La niña sostuvo secuencias breves después de un modelo. No se observaron conductas suficientes para formular conclusiones diagnósticas sobre otras áreas del desarrollo. La evaluación se concentra en lenguaje y comunicación funcional.
+
+IMPRESIONES CLÍNICAS
+
+Los resultados apoyan un perfil de trastorno mixto del lenguaje receptivo y expresivo, registrado con [[KEEP|F80.2]]. La conclusión se basa en dificultades presentes en español, antecedentes de desarrollo y limitaciones funcionales descritas en casa y en el aula.
+
+La exposición al inglés influye en el vocabulario disponible y en la familiaridad con ciertas tareas. Sin embargo, no explica por sí sola las dificultades para comprender relaciones verbales, organizar mensajes y mantener formas aprendidas en español. Se recomienda conservar ambos idiomas y valorar el progreso en situaciones relevantes para la familia.
+
+[[CHILD|Lucía del Río-Méndez]] presenta fortalezas en intención comunicativa, participación con materiales concretos y respuesta al modelado. Estas habilidades favorecen el tratamiento. La prioridad inicial será mejorar comprensión, expresión y reparación de mensajes. El seguimiento del habla permitirá determinar si necesita objetivos adicionales.
+
+OBJETIVOS FUNCIONALES PROPUESTOS
+
+Número	Objetivo	Criterio inicial
+Meta [[KEEP|1]]	Seguir instrucciones de dos pasos durante juego y rutinas	[[KEEP|8/10]] oportunidades con [[KEEP|ayudas mínimas]]
+Meta [[KEEP|2]]	Expresar una petición o comentario con información suficiente	[[KEEP|80%]] de oportunidades con [[KEEP|ayudas mínimas]]
+Meta [[KEEP|3]]	Responder preguntas concretas sobre una actividad reciente	[[KEEP|4/5]] oportunidades con [[KEEP|ayudas moderadas]]
+Meta [[KEEP|4]]	Reparar un mensaje mediante palabras, gesto o señalamiento	[[KEEP|3 de 5]] oportunidades con [[KEEP|ayudas mínimas]]
+
+Cada meta se medirá en más de una actividad. La profesional anotará el idioma, los apoyos y la respuesta independiente. La reducción de ayudas tendrá prioridad sobre repetir respuestas memorizadas.
+
+RECOMENDACIONES Y PLAN DE SERVICIOS
+
+1. Iniciar intervención bilingüe centrada en rutinas familiares. Usar [[KEEP|estimulación focalizada]], [[KEEP|expansiones]] y [[KEEP|reformulaciones]] para enseñar formas útiles durante juego y conversación.
+2. Ofrecer orientación familiar basada en principios de [[KEEP|Hanen]]. Seleccionar estrategias concretas que los cuidadores puedan integrar sin convertir cada interacción en una tarea.
+3. Presentar instrucciones con lenguaje claro y apoyos visuales. Retirar esos apoyos de manera gradual y comprobar comprensión mediante acciones.
+4. Mantener conversaciones y lectura en español. Incorporar inglés según las actividades escolares y las preferencias familiares.
+5. Coordinar ejemplos de vocabulario con la maestra. Enseñar las mismas palabras en distintos contextos y registrar su uso espontáneo.
+6. Revisar el habla después de ampliar la muestra. No se propone iniciar [[KEEP|PROMPT]] ni [[KEEP|Cycles]] con la información disponible.
+7. Usar un tablero sencillo de imágenes cuando facilite la participación. No se establece un programa [[KEEP|PECS]] en este momento.
+
+SERVICIOS PROPUESTOS
+
+Servicio	Frecuencia	Duración	Responsable
+Terapia individual	Dos sesiones por semana	30 minutos	[[PROVIDER|Isabel Prado-Salcedo]]
+Orientación familiar	Una reunión al mes	20 minutos	[[PROVIDER|Isabel Prado-Salcedo]]
+Coordinación escolar	Una consulta al mes	15 minutos	[[PROVIDER|Paula Neri]]
+Revisión del progreso	[[DATE|9 de diciembre de 2026]]	45 minutos	[[PROVIDER|Isabel Prado-Salcedo]]
+
+La familia prefiere sesiones los martes y jueves a las [[TIME|3:30 p. m.]]. El horario depende de disponibilidad y autorización. La solicitud de tratamiento utilizará [[KEEP|92507]] con el diagnóstico [[KEEP|F80.2]]. La facturación final deberá corresponder al servicio efectivamente prestado.
+
+DEVOLUCIÓN A LA FAMILIA Y CIERRE
+
+La evaluadora explicó los resultados en español y comprobó la comprensión mediante preguntas abiertas. [[PARENT|Verónica de la Cruz]] identificó como prioridad que su hija pueda explicar conflictos con su hermano. [[PARENT|Esteban del Río-Méndez]] pidió estrategias para las conversaciones durante el traslado al preescolar.
+
+La familia acordó practicar mensajes breves durante lectura y juego. La abuela [[FAMILY|Rosa de la Cruz]] recibirá una copia del material con autorización familiar. La clínica enviará el informe al pediatra y al centro educativo únicamente después de recibir el consentimiento correspondiente.
+
+La próxima revisión comparará desempeño independiente, nivel de ayuda y participación cotidiana. El plan se ajustará según esos datos y las prioridades familiares.
+
+Firma profesional: [[PROVIDER|Isabel Prado-Salcedo]]
+Patóloga bilingüe del habla y del lenguaje, Carolina del Norte
+Licencia profesional: [[ID|NC-SLP-08471]]
+Fecha de firma: [[DATE|11 de octubre de 2026]]

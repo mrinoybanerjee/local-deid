@@ -1,0 +1,75 @@
+Nombre del niño: [[CHILD|Mateo Alejandro Cruz Fernández]] ("[[CHILD|Teo]]")    Fecha de nacimiento: [[DATE|15 de enero de 2024]]    Edad actual: [[KEEP|2;3]]
+
+Expediente CDSA: [[ID|PT-440219]]    Número de Medicaid: [[MEDICAID_ID|920481773N]]    Idioma del hogar: español e inglés
+
+Dirección: [[PLACE|2318 Calle Primrose]], [[PLACE|Charlotte]], Condado de [[PLACE|Mecklenburg]], NC [[PLACE|28205]]    Teléfono de contacto: [[PHONE|(704) 555-0192]]
+
+Madre: [[PARENT|Lucía Fernández Ramos]]    Padre: [[PARENT|Carlos Cruz Delgado]]    Hermana: [[SIBLING|Sol Cruz Fernández]], [[KEEP|3 años]]
+
+Cuidadora habitual: abuela materna [[FAMILY|Rosa Delgado]]    Vecina que ayuda con transporte: [[PERSON|Carmen Ríos]]
+
+Coordinadora de servicios: [[PROVIDER|Ana María Torres]], [[AGENCY|CDSA del Piedmont, oficina de Charlotte]]    Correo de la coordinadora: [[EMAIL|anamaria.torres@cdsapiedmont.org]]    Sitio web de la agencia: [[URL|www.cdsapiedmont.org]]
+
+Terapeuta del habla y lenguaje: [[PROVIDER|Gabriela Núñez]], MS, CCC-SLP, bilingüe español-inglés    Agencia proveedora: [[EMPLOYER|Piedmont Pediatric Therapy Services, PLLC]]    Correo de la terapeuta: [[EMAIL|gabriela.nunez@piedmontpeds-slp.com]]
+
+Fecha de este IFSP de revisión: [[DATE|3 de octubre de 2026]]    Fecha del IFSP inicial: [[DATE|12 de abril de 2026]]    Fecha de la próxima revisión: [[DATE|2 de abril de 2027]]
+
+ANTECEDENTES DE NACIMIENTO Y MÉDICOS
+
+[[CHILD|Teo]] nació a las [[KEEP|34 semanas]] de gestación, con un peso al nacer de [[KEEP|2,150 gramos]], en [[HOSPITAL|Novant Health Presbyterian Medical Center – Campus Dilworth]]. Pasó [[KEEP|18 días]] en la [[KEEP|UCIN]] por dificultad respiratoria y succión débil. Su puntaje de Apgar fue de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. Después del alta, su pediatra, el [[PROVIDER|Dr. Michael Chen]], de [[HOSPITAL|Novant Health Pediatrics – Campus SouthPark]], refirió a la familia al [[AGENCY|CDSA del Piedmont]] por preocupaciones de alimentación y retraso de lenguaje observado en la visita de los [[KEEP|9 meses]]. A los [[KEEP|14 meses]], la otorrinolaringóloga, la [[PROVIDER|Dra. Patricia Owens]], de [[HOSPITAL|Novant Health Ear, Nose & Throat – Campus Ballantyne]], diagnosticó otitis media recurrente y colocó tubos de ventilación bilaterales. La audióloga del mismo centro, la [[PROVIDER|Dra. Susan Keller]], confirmó audición dentro de límites normales en ambos oídos después de la cirugía, con timpanogramas tipo A bilaterales. El diagnóstico médico actual que consta en el expediente es [[KEEP|ICD-10 F80.1]] (trastorno mixto del lenguaje receptivo-expresivo).
+
+EVALUACIONES
+
+En la evaluación inicial, [[CHILD|Teo]] fue evaluado con el [[KEEP|Rossetti Infant-Toddler Language Scale]], que arrojó una puntuación equivalente de edad de [[KEEP|11-13 meses]] en el área receptiva y [[KEEP|9-11 meses]] en el área expresiva, cuando su edad cronológica era de [[KEEP|1;9]]. En la revisión actual, el mismo instrumento mostró una edad equivalente de [[KEEP|18-20 meses]] receptivo y [[KEEP|15-17 meses]] expresivo, con una edad cronológica de [[KEEP|2;3]], lo cual refleja progreso pero continúa un retraso significativo. Se administró también el [[KEEP|Goldman-Fristoe Test of Articulation-3]], con una puntuación estándar de [[KEEP|73]] (intervalo de confianza [[KEEP|68-78]]) y un percentil de [[KEEP|4]]. Las [[KEEP|Bayley Scales of Infant and Toddler Development-4]] se administraron en el área cognitiva y motora, con puntuaciones compuestas de [[KEEP|92]] en cognición y [[KEEP|88]] en motor grueso, dentro de límites esperados. El [[KEEP|Peabody Picture Vocabulary Test-5]] no pudo completarse de manera estandarizada por la edad del niño, pero se usaron ítems de muestra que sugieren vocabulario receptivo limitado para su edad.
+
+Durante la observación de juego, [[CHILD|Teo]] produjo once palabras funcionales de manera consistente, entre ellas "mamá", "papá", "agua" (producida como [[KEEP|["ahua"]]]), y "más". Al pedirle que nombrara una tarjeta de dibujo del sol, dijo [[KEEP|["tol"]]], sustituyendo el fonema [[KEEP|/s/]] por [[KEEP|/t/]] en posición inicial. Esto es consistente con el patrón fonológico de frontalización observado en toda la muestra de habla.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA, EN SUS PROPIAS PALABRAS
+
+La [[PARENT|Sra. Fernández Ramos]] compartió: "Lo que más nos preocupa es que [[CHILD|Teo]] no nos dice lo que quiere, y se frustra mucho, grita y a veces se tira al piso. En la guardería dicen que se pone así con los otros niños también. Queremos que pueda pedir las cosas con palabras antes de que empiece la escuela."
+
+El [[PARENT|Sr. Cruz Delgado]] agregó: "Para mí es importante que entienda las instrucciones simples en la casa, como 'recoge los juguetes' o 'ven aquí', porque ahora tenemos que mostrarle todo con gestos o repetirlo muchas veces. Y también quisiera que hablara más con su hermana [[SIBLING|Sol]], porque ella quiere jugar con él y él no le responde."
+
+La abuela [[FAMILY|Rosa Delgado]], quien cuida a [[CHILD|Teo]] tres días a la semana mientras [[PARENT|Lucía]] trabaja, dijo: "Yo paso más tiempo con él que nadie y veo que entiende más de lo que habla. Cuando le hablo en español me mira, pero cuando viene la gente que habla solo inglés en la guardería, se queda callado. Quiero que los dos idiomas se trabajen juntos, no uno después del otro."
+
+Las prioridades familiares acordadas para esta revisión son: (1) que [[CHILD|Teo]] use al menos [[KEEP|50]] palabras diferentes de manera espontánea en ambos idiomas combinados; (2) que siga instrucciones de un solo paso sin apoyo visual el [[KEEP|8/10]] de las veces; y (3) que disminuyan los episodios de frustración conductual relacionados con la comunicación, según el registro de la guardería.
+
+RUTINAS DIARIAS
+
+Los días de semana, [[CHILD|Teo]] se despierta alrededor de las [[TIME|6:30 a.m.]] y desayuna con su familia antes de que la [[PARENT|Sra. Fernández Ramos]] lo lleve a [[DAYCARE|Little Learners Daycare]] a las [[TIME|7:45 a.m.]]. Su maestra principal es la [[TEACHER|Srta. Jennifer Álvarez]], quien reporta que [[CHILD|Teo]] disfruta las actividades sensoriales y de bloques, pero se frustra durante el círculo de canciones porque no puede seguir las palabras. Su compañero de clase favorito es [[PEER|Ethan Brooks]], con quien comparte juguetes de carritos, aunque la interacción verbal entre ellos es mínima. [[CHILD|Teo]] permanece en la guardería hasta las [[TIME|4:00 p.m.]], cuando lo recoge la abuela [[FAMILY|Rosa Delgado]] o la vecina [[PERSON|Carmen Ríos]], según el horario de trabajo de los padres.
+
+Dos tardes por semana, después de la guardería, [[CHILD|Teo]] asiste al [[ORG|Little Learners Program]], un grupo de intervención temprana centrado en lenguaje y juego social, donde también participa [[CHILD|Teo]] con otros niños de edad similar bajo la supervisión de personal de intervención temprana. La cena familiar es a las [[TIME|6:00 p.m.]], y es un momento que los padres identifican como clave para practicar vocabulario de comida y rutina de mesa. El baño es a las [[TIME|7:30 p.m.]], seguido de la lectura de cuentos en español e inglés antes de dormir a las [[TIME|8:30 p.m.]]. Los fines de semana, la familia visita con frecuencia a los abuelos paternos y asiste a misa los domingos, donde [[CHILD|Teo]] interactúa con otros niños de la congregación.
+
+El padre, [[PARENT|Carlos Cruz Delgado]], trabaja en [[ORG|Charlotte Pipe and Foundry]] en turnos rotativos, y la madre, [[PARENT|Lucía Fernández Ramos]], trabaja medio tiempo en el departamento de panadería de [[ORG|Harris Teeter]], cerca de su casa. El perro de la familia, [[PET|Rocky]], suele estar presente durante el juego en el patio, y los padres notan que [[CHILD|Teo]] dice el nombre del perro con más claridad que otras palabras, posiblemente por la repetición frecuente.
+
+OTRAS AGENCIAS Y APOYOS
+
+La familia recibe apoyo nutricional del programa [[AGENCY|WIC del Condado de Mecklenburg]] y participa en actividades de alfabetización temprana a través de [[AGENCY|Smart Start de Mecklenburg]]. En el pasado, la familia tuvo contacto breve con el [[AGENCY|Departamento de Servicios Sociales de Mecklenburg (DSS)]] por una evaluación de vivienda que ya se cerró sin seguimiento adicional. No hay otras agencias activas en este momento aparte del [[AGENCY|CDSA del Piedmont]] y los servicios médicos ya mencionados.
+
+RESULTADOS (OUTCOMES) Y ESTRATEGIAS
+
+Resultado [[KEEP|1]]: [[CHILD|Teo]] se comunicará sus necesidades y deseos usando palabras o frases cortas en lugar de conductas de frustración, en el hogar y en [[DAYCARE|Little Learners Daycare]], medido por el registro diario de la maestra y el reporte de los padres durante tres semanas consecutivas.
+Estrategias: modelar lenguaje expandido durante rutinas de alta motivación (comida, juego con [[PET|Rocky]]); usar el método de tiempo de espera y la técnica de "modelo más expansión"; coordinar con la [[TEACHER|Srta. Álvarez]] para usar las mismas tres frases clave en inglés y español durante la transición de actividades.
+
+Resultado [[KEEP|2]]: [[CHILD|Teo]] seguirá instrucciones familiares de un solo paso sin apoyo gestual el [[KEEP|8 de 10]] intentos en al menos dos entornos (hogar y guardería), según datos recolectados por los cuidadores.
+Estrategias: practicar instrucciones funcionales durante la rutina de recoger juguetes y de vestirse; usar apoyo visual decreciente; capacitar a la abuela [[FAMILY|Rosa Delgado]] y a la [[TEACHER|Srta. Álvarez]] en el uso de instrucciones cortas y consistentes en ambos idiomas.
+
+Resultado [[KEEP|3]]: [[CHILD|Teo]] producirá el fonema [[KEEP|/s/]] en posición inicial de palabra con precisión en al menos [[KEEP|3 de 5]] ensayos durante actividades estructuradas de juego, generalizando desde la palabra meta [[KEEP|"sol"]] hacia otras palabras con el mismo sonido.
+Estrategias: usar claves táctiles y modelo auditivo con [[KEEP|mod cues]] (claves moderadas); practicar la palabra meta [[KEEP|"sol"]] durante canciones y juego sensorial con tarjetas ilustradas; reforzar en casa relacionando el sonido con actividades cotidianas, evitando confundir la práctica fonológica con el nombre de su hermana [[SIBLING|Sol]], a quien [[CHILD|Teo]] nombra por separado durante el juego familiar.
+
+Resultado [[KEEP|4]]: [[CHILD|Teo]] aumentará su vocabulario expresivo combinado (español e inglés) a al menos [[KEEP|50]] palabras diferentes, documentado mediante registro de palabras de los padres y la terapeuta durante un período de seis semanas.
+Estrategias: usar el enfoque de lenguaje natural dentro de rutinas diarias; incorporar libros bilingües durante la lectura nocturna; coordinar con el programa [[ORG|Little Learners Program]] para reforzar las mismas palabras meta usadas en terapia individual.
+
+SERVICIOS Y FECHAS
+
+Terapia de habla y lenguaje individual: dos sesiones de [[KEEP|45 minutos]] por semana, en el hogar, código [[KEEP|CPT 92523]], con autorización vigente desde [[DATE|15 de abril de 2026]] hasta [[DATE|14 de abril de 2027]].    Proveedora: [[PROVIDER|Gabriela Núñez]], [[EMPLOYER|Piedmont Pediatric Therapy Services, PLLC]].
+
+Intervención temprana en grupo, [[ORG|Little Learners Program]]: dos sesiones de [[KEEP|60 minutos]] por semana, iniciadas el [[DATE|3 de mayo de 2026]], continúan hasta la próxima revisión.
+
+Seguimiento audiológico: cita de control programada para el [[DATE|20 de enero de 2027]] en [[HOSPITAL|Novant Health Ear, Nose & Throat – Campus Ballantyne]] con la [[PROVIDER|Dra. Susan Keller]].
+
+Visita de coordinación de servicios: realizada el [[DATE|28 de septiembre de 2026]] por la coordinadora [[PROVIDER|Ana María Torres]]; próxima visita de coordinación programada para el [[DATE|28 de diciembre de 2026]].
+
+Esta revisión del IFSP fue completada el [[DATE|3 de octubre de 2026]] con la participación de la [[PARENT|Sra. Lucía Fernández Ramos]], el [[PARENT|Sr. Carlos Cruz Delgado]], la coordinadora [[PROVIDER|Ana María Torres]] y la terapeuta [[PROVIDER|Gabriela Núñez]]. La familia expresó satisfacción con el progreso de [[CHILD|Teo]] y solicitó continuar con el mismo plan de servicios hasta la próxima revisión programada.
+
+Firma de la terapeuta: [[PROVIDER|Gabriela Núñez]], MS, CCC-SLP    Fecha de firma: [[DATE|3 de octubre de 2026]]

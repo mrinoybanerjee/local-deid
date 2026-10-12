@@ -1,0 +1,148 @@
+INFORME DE EVALUACIÓN FONOAUDIOLÓGICA PEDIÁTRICA BILINGÜE  
+Documento clínico sintético. Todos los datos personales e institucionales son ficticios.
+
+Cliente: [[CHILD|Mateo Lira Duarte]]; nombre familiar: [[CHILD|Teo]].  
+Fecha de nacimiento: [[DATE|5 de agosto de 2022]]. Edad cronológica: [[KEEP|4;2]].  
+Fecha de evaluación: [[DATE|9 de octubre de 2026]].  
+Expediente: [[ID|SLP-NC-60428]]. Medicaid: [[MEDICAID_ID|918427630Q]].  
+Autorización: [[ID|AUT-7264918]]. Referencia: [[ID|REF-840217]].  
+Madre: [[PARENT|Guadalupe Duarte Salinas]], conocida como [[PARENT|Lupita]].  
+Padre: [[PARENT|Jesús Lira Campos]], conocido como [[PARENT|Chuy]].  
+Domicilio: [[PLACE|1847 Calle del Junco, apartamento 6]], [[PLACE|Valle Azulado]], Carolina del Norte, [[PLACE|27683]].  
+Tel. familiar: [[PHONE|919-555-0146]]. Correo: [[EMAIL|familia.lira@example.test]].  
+Clínica: [[EMPLOYER|Habla y Juego del Piedemonte]].  
+Dirección clínica: [[PLACE|620 Avenida Laurel, oficina 204]], [[PLACE|Valle Azulado]], Carolina del Norte, [[PLACE|27683]].  
+Tel. clínica: [[PHONE|919-555-0178]]. Sitio: [[URL|https://hablayjuego.example]].  
+Evaluadora: [[PROVIDER|Camila Montes Rivera]], patóloga bilingüe del habla y lenguaje; firma abreviada: [[PROVIDER|C. Montes]].  
+Servicio: [[KEEP|92523]]; modificador: [[KEEP|GN]].  
+Inicio: [[TIME|09:05]]. Final: [[TIME|10:35]]. Pausa: [[TIME|09:48]] a [[TIME|09:56]].
+
+S:
+
+Motivo: dificultad para expresar necesidades, responder preguntas y hacerse entender fuera del hogar. La madre solicita evaluación en español. Refiere que [[CHILD|Mateo]] comunica más con gestos que con frases cuando siente prisa. El padre desea que pueda pedir ayuda durante el juego y contar algo breve de su jornada.
+
+Referencia recibida del Dr. [[PROVIDER|Elías Robledo Vega]], pediatra de [[HOSPITAL|Sistema Salud Pino Claro—Clínica Pediátrica del Campus Magnolia]]. Consulta previa: [[DATE|23 de septiembre de 2026]]. El documento remitido describe preocupación familiar por lenguaje y claridad del habla. No contiene diagnóstico de pérdida auditiva ni resultados recientes de audiometría. Se revisó con autorización materna.
+
+Informante principal: su mamá [[PARENT|Guadalupe Duarte Salinas]]. Entrevista presencial, en español, sin intérprete. Su papá [[PARENT|Jesús Lira Campos]] participó por teléfono de [[TIME|09:12]] a [[TIME|09:20]]. Ambos describen necesidades similares. La información del hogar se considera reporte familiar; no se presenta como observación directa de la evaluadora.
+
+Embarazo: controles regulares según la madre; hipertensión al final y amenaza de parto prematuro. Nacimiento en [[HOSPITAL|Sistema Salud Pino Claro—Hospital del Campus Magnolia]], ubicado en [[PLACE|Valle Azulado]]. Parto vaginal a [[KEEP|35 semanas y 4 días]] de gestación. Peso al nacer: [[KEEP|2.340 g]]. Apgar: [[KEEP|7]] al minuto y [[KEEP|9]] a los cinco minutos.
+
+Ingreso neonatal en [[HOSPITAL|Sistema Salud Pino Claro—UCIN del Campus Magnolia]] por dificultad respiratoria transitoria y alimentación inmadura. Estancia de doce días, según resumen aportado. Oxígeno inicial; sin ventilación invasiva documentada. Tamiz auditivo neonatal: aprobado bilateralmente en el registro de [[DATE|12 de agosto de 2022]]. Ese resultado no establece el estado auditivo actual.
+
+Historia médica: episodios de otitis media durante el último año, sin tubos de ventilación. Último episodio referido: [[DATE|17 de julio de 2026]]. La madre informa resfriados frecuentes y respiración oral durante congestión. Niega hospitalizaciones posteriores, convulsiones, lesión craneal o pérdida de habilidades. No refiere medicamentos diarios. Alergias conocidas: ninguna, según entrevista.
+
+Pendiente consulta con la Dra. [[PROVIDER|Nadia Ceballos Ruiz]] en [[HOSPITAL|Sistema Salud Pino Claro—Otorrinolaringología y Audiología del Campus Cedro]]. Cita familiar anotada para [[DATE|22 de octubre de 2026]], a [[TIME|14:10]]. No se dispone de evaluación audiológica diagnóstica reciente. Se solicita incluir resultados en el expediente cuando estén disponibles.
+
+Desarrollo referido: sedestación independiente a [[KEEP|8 meses]], marcha a [[KEEP|16 meses]], primeras palabras consistentes a [[KEEP|20 meses]]. Combinaciones espontáneas de palabras a [[KEEP|32 meses]]. La familia describe progreso continuo, aunque lento. No informa regresión. Estos hitos proceden del recuerdo familiar; no se verificaron con registros contemporáneos ni videos.
+
+Alimentación actual: acepta alimentos familiares de distintas texturas. Prefiere arroz, pollo desmenuzado y frutas blandas. Sin tos habitual al comer, voz húmeda ni infecciones respiratorias asociadas, según la madre. Usa vaso abierto con supervisión. No se realizó evaluación de deglución; el motivo de consulta corresponde al habla y lenguaje.
+
+Sueño y rutina: se acuesta cerca de [[TIME|20:30]] y despierta alrededor de [[TIME|06:45]]. La familia refiere despertares ocasionales cuando presenta congestión. Desayuna a [[TIME|07:15]]; sale al centro infantil a [[TIME|07:50]]. La madre observa mejor comunicación después del descanso y menor tolerancia cuando las personas repiten muchas preguntas.
+
+Hogar compuesto por ambos padres y su hermano [[SIBLING|José Lira Duarte]], llamado [[SIBLING|Pepe]], de [[KEEP|7 años]]. El hermano suele interpretar mensajes y alcanzar objetos antes de que el cliente los solicite. La familia reconoce esta dinámica. Desea dar más oportunidades para que el niño responda por sí mismo.
+
+La abuela materna [[FAMILY|Mariela Ríos Salinas]], identificada como [[FAMILY|M.R.]] en la hoja de contactos, cuida al cliente algunas tardes. Una tía, [[FAMILY|Ana Duarte Salinas]], lo recoge cuando cambia el turno laboral materno. Ambos cuidados ocurren en español. La mascota familiar es una perra llamada [[PET|Nube]]; aparece con frecuencia en el juego y las conversaciones.
+
+Lenguas: español predominante en casa; inglés durante actividades del centro infantil y algunos videos. La madre estima una exposición semanal de [[KEEP|70 %]] al español y [[KEEP|30 %]] al inglés. Estimación aproximada, sin diario lingüístico. El cliente comprende rutinas familiares en ambas lenguas. Produce más combinaciones espontáneas en español, según ambos padres.
+
+La madre trabaja en [[ORG|Empaques Lucero del Bosque]], en [[PLACE|Pinar de Alba]]. El padre trabaja en [[ORG|Taller Mecánico Rueda Serena]], en [[PLACE|Valle Azulado]]. Los horarios variables afectan quién acompaña las rutinas. La familia solicita actividades breves, que puedan usar distintos adultos, y comunicaciones escritas en español. No solicita reducir el uso del español.
+
+Asiste a [[DAYCARE|Centro Infantil Semillitas del Arroyo]] desde [[DATE|12 de enero de 2026]]. Docente principal: Sra. [[TEACHER|Juliana Ortiz Mena]]; en formularios aparece como [[TEACHER|J. Ortiz]]. Auxiliar: [[TEACHER|Rosa Benítez Lara]]. Informe docente fechado [[DATE|1 de octubre de 2026]]: participa en canciones, observa a otros niños y requiere ayuda para explicar conflictos.
+
+Compañeros mencionados: [[PEER|Juan Salceda Núñez]], llamado [[PEER|Juanito]], y [[PEER|Elena Mora Vidal]]. Según la docente, el cliente busca jugar con ambos, pero entrega juguetes sin explicar su intención. Cuando otro niño cambia el juego, puede retirarse o llamar al adulto. No se informan conductas agresivas persistentes ni aislamiento durante toda la jornada.
+
+Servicios previos: apoyo de [[AGENCY|CDSA Puente del Piedemonte]], condado de [[PLACE|Brisaverde]]. Coordinadora anterior: [[PROVIDER|Isabel Treviño Sol]]. IFSP previo fechado [[DATE|18 de abril de 2025]]; [[KEEP|resultado 2]] relacionado con pedir durante las rutinas. La familia refiere cierre al cumplir [[KEEP|3 años]]. No se recibió el informe completo de egreso.
+
+Apoyos actuales: [[AGENCY|Oficina WIC Puente de Nubes]] y [[AGENCY|Smart Start Caminos de Infancia]], ambas del condado de [[PLACE|Brisaverde]]. Contacto administrativo: [[PERSON|Daniela Paz Leal]]. La familia también recibió orientación de [[AGENCY|DSS Senderos Familiares]], del mismo condado. No se revisaron expedientes de esas oficinas. La prioridad familiar es mejorar comunicación funcional sin aumentar la carga diaria.
+
+O:
+
+Evaluación presencial en sala tranquila. Madre presente durante entrevista y parte de las tareas. Materiales: juguetes, láminas, libro ilustrado, objetos cotidianos y oportunidades de petición. Se alternaron actividades dirigidas y juego. El cliente exploró la sala, aceptó sentarse y buscó contacto con su madre al iniciar tareas nuevas.
+
+Estado conductual: alerta, activo y disponible para interacción. Atención variable según interés. Respondió mejor con materiales visibles y turnos breves. Durante la pausa tomó agua y caminó con su madre. Después regresó a la mesa sin resistencia. No se observaron signos de dolor, dificultad respiratoria o somnolencia marcada.
+
+Instrumento principal: [[KEEP|PLS-5 Spanish]]. Subpruebas: [[KEEP|Comprensión auditiva]] y [[KEEP|Comunicación expresiva]]. Se siguieron las consignas de los ítems puntuados y sus reglas de aplicación. Las demostraciones adicionales, repeticiones ampliadas y tareas dinámicas se registraron aparte. La interpretación integra entrevista, observación, exposición lingüística y desempeño funcional; ningún resultado aislado determina la impresión.
+
+Resultados de [[KEEP|PLS-5 Spanish]]. Edad de referencia: [[KEEP|4;2]]. Los intervalos corresponden a [[KEEP|90 %]] de confianza. Las edades equivalentes son descriptores del rendimiento en esta prueba; no representan una edad global de desarrollo ni una indicación para ubicar al niño con compañeros menores.
+
+| Prueba o subprueba | Puntuación directa | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---:|---:|---:|---|---|
+| [[KEEP|Comprensión auditiva]] | [[KEEP|37]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|3;0]] |
+| [[KEEP|Comunicación expresiva]] | [[KEEP|33]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69–82]] | [[KEEP|2;9]] |
+| [[KEEP|Lenguaje total]] | [[KEEP|70]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–82]] | [[KEEP|2;10]] |
+
+No se administró una batería normativa independiente en inglés. Se exploraron palabras y consignas familiares en esa lengua mediante tareas descriptivas. Los resultados no permiten comparar puntuaciones estandarizadas entre lenguas. La presencia de palabras en inglés dentro de un enunciado español se registró como alternancia lingüística, sin asignarle por sí sola valor patológico.
+
+Comprensión funcional: identificó objetos cotidianos en [[KEEP|9/10]] oportunidades y acciones representadas en [[KEEP|6/8]]. Siguió instrucciones simples contextualizadas en [[KEEP|8/10]]. En instrucciones con dos acciones relacionadas obtuvo [[KEEP|4/8]] sin demostración. El desempeño mejoró cuando pudo observar los objetos. La familiaridad con el vocabulario influyó en las respuestas.
+
+Conceptos: reconoció grande y pequeño en [[KEEP|5/6]] oportunidades. Ubicación dentro y fuera: [[KEEP|4/6]]. Ubicación debajo y detrás: [[KEEP|2/6]]. Las respuestas fueron menos consistentes cuando desapareció el apoyo visual. No se atribuye toda dificultad a memoria; también hubo vacilación ante palabras que la familia usa con menor frecuencia.
+
+Preguntas: respondió qué en [[KEEP|7/10]] oportunidades y dónde en [[KEEP|4/8]]. Ante por qué, ofreció una respuesta pertinente en [[KEEP|1/5]]. Con opciones visibles logró [[KEEP|3/5]] y [[KEEP|apoyo moderado]]. Esa mejoría corresponde a la tarea dinámica. No se sumó a las puntuaciones normativas ni se interpretó como respuesta independiente.
+
+Expresión: predominan enunciados cortos, con variación según actividad. Muestra: [[KEEP|50 enunciados]] espontáneos analizables. Longitud media descriptiva: [[KEEP|2,6 palabras por enunciado]]. Se observaron combinaciones para pedir, comentar, negar y localizar. Ejemplos: "[[KEEP|quiero otro carro]]", "[[KEEP|aquí no cabe]]" y "[[KEEP|mamá tiene agua]]". La muestra no incluyó narración extensa ni conversación con compañeros.
+
+Morfosintaxis: uso variable de artículos, concordancia y flexión verbal. Produjo "[[KEEP|los carro]]" y "[[KEEP|ella come ayer]]". En otros contextos produjo "[[KEEP|los perros]]" y "[[KEEP|se cayó]]". La variación exige seguimiento dentro de contextos comparables. No se consideró cada omisión un error sin revisar la intención, el contexto y la forma usada por la familia.
+
+Vocabulario: mayor facilidad con vehículos, comida y acciones de rutina. Menor precisión para describir tamaño, ubicación y secuencias. Nombró acciones en [[KEEP|6/10]] láminas. Cuando faltó una palabra, señaló o usó "[[KEEP|ese]]". La madre confirmó que algunas imágenes eran poco familiares. Se evitó interpretar desconocimiento de una imagen como ausencia total del concepto.
+
+Narración: ante una secuencia ilustrada, identificó personajes y una acción principal. No conectó de manera independiente inicio, problema y cierre. Con [[KEEP|apoyo máximo]] produjo "[[KEEP|niño cae]]" y "[[KEEP|mamá ayuda]]". Mantuvo el tema durante intercambios breves, pero requirió preguntas para agregar información. La tarea mostró necesidades de organización y formulación.
+
+Pragmática: inicia mediante mirada, gesto, entrega de objetos y habla. Solicitudes espontáneas en [[KEEP|7/10]] oportunidades creadas durante juego. Reparó mensajes poco claros en [[KEEP|3/8]], principalmente señalando. En una ocasión dijo "mamá, [[PET|Nube]] come". La producción se registró literalmente. No se asignó error por incluir el nombre de la mascota.
+
+Juego: uso funcional de vehículos y figuras. Incorporó alimentación y descanso en juego simbólico. Aceptó turnos en [[KEEP|8/10]] oportunidades con [[KEEP|apoyo mínimo]]. Mostró interés por las acciones de la evaluadora y compartió objetos. La dificultad principal surgió al explicar cambios de regla o resolver una interrupción, cuando aumentó el uso de gestos.
+
+Habla: muestra conversacional con consonantes y grupos de distinta complejidad. Se observaron simplificaciones de grupos consonánticos y omisiones en palabras largas. En la muestra, [[KEEP|/k/]] y [[KEEP|/g/]] fueron variables. Se escuchó sustitución de [[KEEP|/ɾ/]] por [[KEEP|[l]]] en algunas palabras. Estos hallazgos requieren análisis por posición, contexto y frecuencia.
+
+Ejemplos registrados: "[[KEEP|tasa]]" para "[[KEEP|casa]]"; "[[KEEP|pato]]" para "[[KEEP|plato]]"; "[[KEEP|pelota]]" conservada en distintas ocasiones. Produjo [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/t/]] y [[KEEP|/n/]] con estabilidad en palabras familiares. No se utilizaron diferencias dialectales o producciones propias del inglés como evidencia automática de trastorno fonológico.
+
+Inteligibilidad descriptiva: interlocutora no familiar comprendió aproximadamente [[KEEP|58 %]] de palabras en conversación sin contexto visual y [[KEEP|76 %]] con contexto compartido. Estimaciones derivadas de la muestra, no puntuaciones normativas. La madre comprendió aproximadamente [[KEEP|88 %]] de los mensajes observados. La diferencia concuerda con la familiaridad del interlocutor y las rutinas.
+
+Exploración dinámica: logró [[KEEP|/k/]] inicial en [[KEEP|6/10]] intentos con [[KEEP|apoyo moderado]] y modelo visual. Produjo "[[KEEP|quiero más agua]]" en [[KEEP|4/6]] oportunidades después de un modelo, frente a [[KEEP|1/6]] antes. La respuesta indica capacidad de aprendizaje durante tareas breves. No establece generalización ni sustituye una medida de progreso entre sesiones.
+
+Estructuras orales: simetría facial en reposo, movilidad labial funcional y movimientos linguales suficientes para las tareas observadas. No se observaron alteraciones estructurales evidentes. Voz perceptualmente clara; volumen variable con entusiasmo. Sin disfluencias persistentes en la muestra. La exploración fue clínica y limitada; no incluyó examen instrumental ni diagnóstico médico de las vías respiratorias.
+
+Audición funcional: respondió a su nombre y a sonidos ambientales dentro de la sala. Estas respuestas no descartan pérdida auditiva ni alteraciones del oído medio. No se realizó tamiz con equipo audiométrico. Se mantiene pendiente la evaluación de audiología. La información neonatal y las respuestas conductuales actuales se registran como datos distintos.
+
+Limitaciones: una sesión, una interlocutora principal y una muestra reducida de inglés. No hubo observación directa en el centro infantil. Los informes familiar y docente aportan contexto, pero no reemplazan muestras propias. Se documentó la ayuda ofrecida. Las respuestas obtenidas con [[KEEP|apoyo moderado]] o [[KEEP|apoyo máximo]] se diferenciaron de las producciones independientes.
+
+A:
+
+Perfil compatible con dificultad mixta del lenguaje, con efectos en comprensión de consignas menos contextualizadas y formulación de mensajes. Impresión clínica provisional: [[KEEP|F80.2]]. Las necesidades aparecen en las tareas observadas y en los reportes del hogar y centro infantil. La decisión no se basa solamente en las puntuaciones de [[KEEP|PLS-5 Spanish]].
+
+Dificultad de los sonidos del habla con reducción de claridad, especialmente en palabras largas y grupos consonánticos. Impresión provisional: [[KEEP|F80.0]]. Se necesita ampliar la muestra y revisar patrones por contexto. No se establece apraxia ni disartria con los datos disponibles. La variabilidad observada puede relacionarse con complejidad, familiaridad y demanda lingüística.
+
+El bilingüismo forma parte de la experiencia comunicativa del cliente. La alternancia entre español e inglés no se interpreta como déficit. La familia describe dificultades también en español, su lengua de mayor uso. Se recomienda obtener muestras funcionales en ambas lenguas y contrastarlas con las oportunidades reales de aprendizaje.
+
+Fortalezas: intención comunicativa, atención compartida, juego simbólico, interés social y respuesta a modelos. La madre identifica señales de frustración y ajusta las rutinas. El padre aporta ejemplos concretos de necesidades. Estas fortalezas permiten planear intervención dentro de actividades familiares y facilitan la participación de distintos adultos sin exigir materiales especiales.
+
+Impacto funcional: los mensajes breves y poco claros dificultan explicar conflictos, pedir ayuda específica y contar sucesos. Los adultos cercanos suelen anticipar necesidades; esto resuelve la situación inmediata, pero limita oportunidades para formular mensajes. La meta clínica será aumentar autonomía y claridad con demandas ajustadas, sin retirar apoyos necesarios.
+
+El antecedente de otitis y la ausencia de audiología reciente constituyen información pendiente. No se atribuye el perfil a una causa auditiva sin resultados. La coordinación con pediatría y audiología ayudará a interpretar cambios y respuesta terapéutica. Si aparecen datos nuevos, se revisarán las impresiones y el plan.
+
+Pronóstico funcional favorable para adquirir estrategias iniciales, dado el interés social y la respuesta durante la exploración dinámica. La magnitud y velocidad del cambio no pueden predecirse con una sola sesión. Se medirán respuestas independientes, uso fuera de terapia y participación familiar. La asistencia y el acceso lingüístico también influirán en el seguimiento.
+
+Necesidad de servicio: intervención fonoaudiológica individual, con orientación familiar y coordinación educativa. La selección de metas debe reflejar las prioridades de comunicación, no solamente ítems de prueba. No se establece elegibilidad escolar en este informe. Esa decisión corresponde al equipo educativo mediante su procedimiento y sus propias fuentes de información.
+
+P:
+
+Se propone intervención semanal individual durante un período inicial de doce semanas. Inicio sugerido: [[DATE|16 de octubre de 2026]], de [[TIME|15:30]] a [[TIME|16:15]]. Frecuencia sujeta a disponibilidad familiar y autorización. Revisión de progreso: [[DATE|8 de enero de 2027]]. Registrar asistencia, objetivos trabajados, respuestas independientes y tipo de ayuda.
+
+[[KEEP|Meta 1]]: durante juego y rutinas, formular peticiones de varias palabras en [[KEEP|8/10]] oportunidades con [[KEEP|apoyo mínimo]]. Usar modelos como "[[KEEP|quiero el carro rojo]]" y "[[KEEP|ayúdame a abrir]]". Medir oportunidades reales, sin exigir repetición en cada turno. Contar por separado respuestas espontáneas y respuestas posteriores a un modelo.
+
+[[KEEP|Meta 2]]: seguir consignas con dos acciones relacionadas en [[KEEP|4/5]] oportunidades, con [[KEEP|apoyo mínimo]], dentro de actividades familiares. [[KEEP|Meta 3]]: responder preguntas sobre acción y ubicación en [[KEEP|80 %]] de oportunidades con [[KEEP|apoyo mínimo]]. Introducir vocabulario conocido antes de aumentar la complejidad. Verificar comprensión mediante la acción, además de respuestas verbales.
+
+[[KEEP|Meta 4]]: reparar un mensaje mediante otra palabra, gesto claro o frase ampliada en [[KEEP|4/5]] oportunidades con [[KEEP|apoyo mínimo]]. [[KEEP|Meta 5]]: mejorar producción de [[KEEP|/k/]] y grupos seleccionados en palabras funcionales hasta [[KEEP|80 %]] con [[KEEP|apoyo moderado]]. Seleccionar palabras después de ampliar la muestra y confirmar prioridades familiares.
+
+Métodos previstos: [[KEEP|estimulación focalizada]], [[KEEP|expansión lingüística]] y [[KEEP|reformulación]] durante juego y rutinas. Para sonidos del habla, considerar [[KEEP|pares mínimos]] según el patrón confirmado. No se indica [[KEEP|PROMPT]] ni [[KEEP|PECS]] con los datos actuales. Revisar el método si la respuesta, el acceso comunicativo o las necesidades funcionales cambian.
+
+Orientación familiar: ofrecer oportunidades naturales para pedir, comentar y elegir. Esperar una respuesta antes de anticipar el objeto. Aceptar gestos y habla; después ofrecer un modelo breve. Evitar convertir cada interacción en una prueba. Mantener el español en casa. Los cuidadores pueden usar la lengua que les permita una interacción clara y cercana.
+
+Actividades: lectura compartida, juego con vehículos y preparación de la merienda. Comentar lo que ocurre y agregar una palabra al mensaje del niño. Practicar "[[KEEP|más agua]]", "[[KEEP|abre la caja]]" y "[[KEEP|el carro cayó]]" dentro del contexto. Si aparece cansancio o frustración, terminar la práctica y continuar la rutina habitual.
+
+Coordinar con la Sra. [[TEACHER|Juliana Ortiz Mena]], previa autorización familiar para compartir este informe. Solicitar ejemplos de comunicación durante juego, transición y merienda. Proponer apoyos visuales y tiempo para responder. Pedir que los adultos comprueben el mensaje antes de interpretarlo. Registrar participación con compañeros, sin exigir relatos extensos frente al grupo.
+
+Completar audiología en la fecha indicada. Solicitar al Dr. [[PROVIDER|Elías Robledo Vega]] seguimiento de otitis y respiración oral si persisten. La familia entregará resultados cuando los reciba. La clínica no realizará cambios médicos. Si la evaluación auditiva identifica una dificultad, integrar las recomendaciones del equipo correspondiente y ajustar el acceso a las consignas.
+
+Ofrecer información sobre evaluación educativa en [[SCHOOL|Escuela Preescolar Sendero del Sauce]], condado de [[PLACE|Brisaverde]], si la familia desea iniciar ese proceso. Evitar duplicar trámites ya abiertos. Mantener un registro breve de frases espontáneas y situaciones difíciles. Compartir ejemplos resumidos, sin grabar ni enviar imágenes de otros niños.
+
+Madre recibió explicación en español y describió correctamente las prioridades iniciales. Pendiente: resultados auditivos, muestra adicional de inglés y coordinación docente autorizada. No se enviaron documentos a terceros durante esta sesión. Informe completado por [[PROVIDER|Camila Montes Rivera]] el [[DATE|9 de octubre de 2026]], a [[TIME|16:40]]. Firma electrónica: [[PROVIDER|C. Montes]].

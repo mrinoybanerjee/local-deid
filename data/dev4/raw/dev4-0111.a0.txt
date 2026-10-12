@@ -1,0 +1,36 @@
+Nota de sesión diaria – Terapia del habla y lenguaje
+
+Nombre del niño: [[CHILD|Mateo Fuentes-Ramos]]
+Apodo: [[CHILD|Teo]]
+Fecha de nacimiento: [[DATE|June 14, 2021]]
+Edad: [[KEEP|4;4]]
+Fecha de la nota: [[DATE|October 9, 2026]]
+Hora de la sesión: [[TIME|10:30 a.m.]] a [[TIME|11:15 a.m.]]
+Proveedora: [[PROVIDER|Ana Martínez, MS, CCC-SLP]]
+Empresa: [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Programa de intervención temprana: [[AGENCY|Little Learners Program]]
+Guardería: [[DAYCARE|Little Learners Daycare]]
+Madre: [[PARENT|Lucía de la Cruz]]
+Diagnóstico: [[KEEP|R63.3]], trastorno del habla y del lenguaje
+Código CPT: [[KEEP|92507]]
+ID de caso: [[ID|LC-48213]]
+Medicaid ID: [[MEDICAID_ID|8845213607A]]
+Dirección: [[PLACE|214 Magnolia Court]], [[PLACE|Garner]], NC [[PLACE|27529]]
+Teléfono: [[PHONE|(919) 555-2047]]
+
+Antecedentes médicos:
+[[CHILD|Teo]] nació a las [[KEEP|32 semanas]] de gestación en el [[HOSPITAL|Wake Regional Medical Center]], con un peso al nacer de [[KEEP|1,680 gramos]] y un puntaje de Apgar de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. Permaneció [[KEEP|18 días]] en la unidad de cuidados intensivos neonatales de ese hospital, bajo el cuidado del Dr. [[PROVIDER|Héctor Salinas]], neonatólogo, y de la Dra. [[PROVIDER|Priya Nair]], pediatra de seguimiento. Su madre, [[PARENT|Lucía de la Cruz]], reporta que el desarrollo motor fue típico, pero que el lenguaje expresivo se retrasó notablemente después del primer año de vida.
+
+Subjetivo:
+[[PARENT|Lucía]] informa que [[CHILD|Teo]] ha estado usando más palabras en casa esta semana. Comenta que durante el baño, [[CHILD|Teo]] señaló su juguete y dijo "[[KEEP|agua]]" con buena claridad. También reporta que en la [[DAYCARE|Little Learners Daycare]], la maestra [[TEACHER|Brenda Collazo]] notó que [[CHILD|Teo]] jugó bien con su compañero [[PEER|Diego]] durante el círculo de canciones de esta mañana.
+
+Objetivo:
+Se trabajaron los objetivos del IFSP [[KEEP|#2]] y [[KEEP|#3]] del [[AGENCY|Little Learners Program]]: producción de consonantes finales y aumento del vocabulario funcional. Durante la actividad de juego simbólico, [[CHILD|Teo]] nombró a su perrito diciendo "[[PET|Rocky]] come", logrando la estructura sujeto-verbo con [[KEEP|mod cues]] en [[KEEP|7/10]] intentos. Al ver una foto familiar, dijo "[[SIBLING|Marisol]] duerme", generalizando la estructura con [[KEEP|min cues]] en [[KEEP|4/5]] ensayos. Produjo el fonema [[KEEP|/k/]] en posición final con [[KEEP|80%]] de precisión, una mejora notable desde la sesión anterior.
+
+En el área articulatoria, [[CHILD|Teo]] imitó la palabra objetivo "[[KEEP|gato]]" como "[[KEEP|dato]]", mostrando sustitución de [[KEEP|/g/]] por [[KEEP|/d/]]. Con [[KEEP|PROMPT]] táctil, logró [[KEEP|/g/]] inicial correctamente en [[KEEP|5/8]] intentos, lo cual sugiere que el apoyo táctil-cinestésico sigue siendo efectivo para este patrón.
+
+Análisis:
+[[CHILD|Teo]] continúa progresando hacia los objetivos del IFSP, con mejoras consistentes en longitud de enunciado y precisión fonológica. Su puntaje en el [[KEEP|PLS-5]], subprueba de [[KEEP|Comunicación Expresiva]], fue de [[KEEP|73-83]] (percentil [[KEEP|9]]), reflejando un retraso moderado respecto a sus pares. La colaboración continua entre [[PARENT|Lucía de la Cruz]], el personal de la [[DAYCARE|Little Learners Daycare]] y este servicio sigue siendo clave para la generalización de estas habilidades en entornos naturales.
+
+Plan:
+Continuar sesiones dos veces por semana a través del [[AGENCY|Little Learners Program]]. Coordinar con [[TEACHER|Brenda Collazo]] estrategias de modelado lingüístico dentro del aula. La próxima revisión del IFSP está programada para el [[DATE|November 20, 2026]]. Se contactará a la coordinadora de servicios, [[PROVIDER|Marta Ibáñez]], para confirmar la autorización de Medicaid vigente antes de esa fecha.

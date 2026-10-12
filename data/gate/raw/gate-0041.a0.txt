@@ -1,0 +1,41 @@
+Daily Speech-Language Therapy Note / Nota diaria
+
+Client: [[CHILD|Ana Sofia Valdez Montoya]]; preferred name: [[CHILD|Sofi]]
+DOB: [[DATE|August 8, 2022]]; age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Session: [[TIME|9:10 AM]] to [[TIME|9:55 AM]]
+Clinician: [[PROVIDER|Elena Paredes Soto]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Little Lantern Bilingual Therapies]]
+Location: [[DAYCARE|Maple Kite Learning House]], [[PLACE|1462 Wrenberry Lane]], [[PLACE|Alderbrook]], NC [[PLACE|27583]]
+Medicaid ID: [[MEDICAID_ID|684209731K]]
+Insurance member ID: [[ID|NCB472806159]]
+NC ITP child ID: [[ID|ITP-26018472]]
+Authorization number: [[ID|AUTH-SLP-826410]]
+CPT: [[KEEP|92507]]; ICD-10: [[KEEP|F80.2]]
+
+S / Subjetivo
+
+Su mama [[PARENT|Marisol Valdez Rojas]] attended the opening discussion. She reported, "En casa, [[CHILD|Sofi]] pide ayuda, pero cuando tiene prisa, no le entiendo." Papa [[PARENT|Diego Montoya Perez]] reportedly practices during breakfast. Abuela dona [[FAMILY|Lupe]] said, "Conmigo habla mas en espanol." Her brother [[SIBLING|Nicolas Montoya Valdez]] joined the final activity. Family reported that their dog, [[PET|Chispa]], motivates requests during pretend play.
+
+La maestra [[TEACHER|Carmen]] described improved participation during cleanup. Classroom assistant Miss [[TEACHER|Ana]] observed fewer frustrated gestures. Parent works at [[ORG|Willow Thread Packaging]] and requested morning appointments.
+
+O / Objetivo
+
+[[CHILD|Ana Sofia]] participated in play, picture description, and shared reading. Targets included [[KEEP|"quiero ayuda"]], [[KEEP|"my turn"]], and [[KEEP|"abre"]]. She produced functional requests in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], then in [[KEEP|6/10]] opportunities with [[KEEP|min cues]]. During peer practice, [[PEER|Julian Rios]] offered blocks while [[PEER|Maya Torres]] waited. [[CHILD|Sofi]] used [[KEEP|"my turn"]], then switched to [[KEEP|"mi turno"]], without prompting.
+
+For speech targets, initial [[KEEP|/k/]] accuracy reached [[KEEP|70%]] with visual placement cues. Observed productions included [[KEEP|"tat"]]] for [[KEEP|"cat"]], [[KEEP|"wabbit"]]] for [[KEEP|"rabbit"]], and initial [[KEEP|[w]]] substitution. A brief language sample included [[KEEP|[EW]]] coding for an extraneous word.
+
+Previous [[KEEP|PLS-5 Spanish]] testing on [[DATE|September 18, 2026]] documented Auditory Comprehension standard score [[KEEP|82]], percentile [[KEEP|12]], and Expressive Communication standard score [[KEEP|79]], percentile [[KEEP|8]]. These scores provided background; no standardized testing occurred today.
+
+A / Analisis
+
+[[CHILD|Ana Sofia Valdez Montoya]] showed stronger communication when adults accepted either language and allowed additional response time. Code-switching supported participation. Performance decreased when directions combined two actions. She benefited from gesture models and predictable turn-taking. Family practice appears consistent based on caregiver report.
+
+P / Plan
+
+Continue weekly therapy and practice requests during meals and play. Model one short phrase, pause, and accept a response in either language. Service coordinator [[PROVIDER|Rosa Benitez]] at [[AGENCY|Alderbrook Valley CDSA]] will receive the progress summary after caregiver consent. Pediatrician Dr. [[PROVIDER|Mateo Salas]] at [[HOSPITAL|Cedar Finch Children's Hospital]] remains the referring provider.
+
+Next session: [[DATE|October 16, 2026]], [[TIME|9:10 AM]].
+Caregiver callback: [[PHONE|919-555-0147]].
+Contact: [[EMAIL|marisol.valdez@example.com]].
+Home practice portal: [[URL|https://littlelantern.example/practice]].

@@ -1,0 +1,47 @@
+Document type: Daily speech-language therapy note
+Client: [[CHILD|Marisol Elena Varela]]
+Preferred name: [[CHILD|Soli]]
+DOB: [[DATE|08/09/2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|10/09/2026]]
+Session time: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Record: [[ID|SLP-604827]]
+Medicaid member: [[MEDICAID_ID|482716039Q]]
+Clinician: [[PROVIDER|Elena Torres]], MS, CCC-SLP
+Employer: [[EMPLOYER|Little Lantern Speech Partners]]
+Location: [[PLACE|184 Willow Lantern Lane]], [[PLACE|Briar Cove]], North Carolina [[PLACE|27903]]
+Parent contact: [[PARENT|Daniela Varela]]; [[PHONE|919-555-0147]]
+Email: [[EMAIL|daniela.varela@example.invalid]]
+Portal: [[URL|https://littlelantern.example.invalid]]
+Billing: [[KEEP|92507]]; modifier [[KEEP|GN]]
+Diagnosis: [[KEEP|F80.2]]
+
+SUBJECTIVE
+
+Mother [[PARENT|Daniela Varela]] attended and described improved requests during meals. Father [[PARENT|Esteban Varela]] sent a home practice log. Sister [[SIBLING|Inés Varela]] sometimes answers before the client finishes. Cousins [[FAMILY|Tomás Beltrán]] and [[FAMILY|Lola Beltrán]] visited this week. Babysitter [[FAMILY|Nora Castillo]] practiced waiting during snack preparation. The family reported that their dog, [[PET|Chispa]], motivates spontaneous comments. The client reportedly said, “[[PET|Chispa]] come here,” while pointing toward the kitchen.
+
+At [[SCHOOL|Willow Finch Preschool]], classmates [[PEER|Avery Moss]] and [[PEER|Jonah Pike]] joined pretend restaurant play. Ms. [[TEACHER|Paula Reed]] reported more verbal requests but continued difficulty following unfamiliar directions. Neighbor [[PERSON|Felix Stone]] delivered a toy kitchen; his presence briefly distracted the client during home practice.
+
+Mother reported a previous NICU admission at [[HOSPITAL|Juniper Harbor Health, Lantern Campus]]. Birth history included gestational age [[KEEP|35 weeks 4 days]], birth weight [[KEEP|2380 g]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. These details reflect caregiver history and were not independently verified today.
+
+OBJECTIVE
+
+The clinician provided bilingual assessment support and English-language treatment with Spanish carryover examples. Interpreter [[PROVIDER|Camila Ríos]] supported the caregiver discussion. Historical assessment results were reviewed to guide session planning.
+
+Assessment date | Test and subtest | Standard score | Percentile | Confidence interval | Age equivalent
+[[DATE|09/18/2026]] | [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-85]] at [[KEEP|95%]] | [[KEEP|2;9–3;1]]
+[[DATE|09/18/2026]] | [[KEEP|PLS-5]]: [[KEEP|Expressive Communication]] | [[KEEP|81]] | [[KEEP|10th]] | [[KEEP|76-88]] at [[KEEP|95%]] | [[KEEP|3;0–3;4]]
+
+Today, [[CHILD|Marisol]] followed related directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities. Accuracy increased to [[KEEP|80%]] with [[KEEP|mod cues]]. Targets included [[KEEP|"open"]], [[KEEP|"more juice"]], and [[KEEP|"my turn"]]. Productions included [[KEEP|"me want cup"]] and [[KEEP|"abre caja"]]. A language sample contained an extraneous-word annotation, [[KEEP|[EW]]].
+
+Speech practice addressed initial [[KEEP|/k/]] and monitored substitution with [[KEEP|[t]]]. The clinician used [[KEEP|Cycles]] activities with [[KEEP|mod cues]]. Caregiver coaching followed [[KEEP|Hanen]] strategies. A [[KEEP|PECS]] book remained available during transitions. [[KEEP|PROMPT]] was discussed as a possible future support; it was not administered today.
+
+ASSESSMENT
+
+The client showed stronger participation when the adult paused and offered a clear turn. Performance varied across familiar and novel materials. Spanish productions supported communicative intent and were accepted during play. The clinician interpreted results within the bilingual history and did not treat language difference as evidence of impairment.
+
+OT [[PROVIDER|Priya Desai]] recommended a stable seat and reduced table clutter. PT [[PROVIDER|Marcus Bell]] reported improved positioning during floor play. Pediatrician Dr. [[PROVIDER|Amina Holt]] requested continued functional communication updates. Audiology follow-up remains scheduled at [[HOSPITAL|Juniper Harbor Health, Meadow Campus]] on [[DATE|10/22/2026]].
+
+PLAN
+
+Continue the current treatment plan and coordinate classroom carryover with the teacher. Address [[KEEP|IFSP]] outcome [[KEEP|2]] through requesting, turn-taking, and following directions in daily routines. Coach caregivers to pause, model a short phrase, and accept either language. Next visit: [[DATE|10/16/2026]] at [[TIME|9:10 AM]]. Mother demonstrated the strategy and agreed to record brief examples.

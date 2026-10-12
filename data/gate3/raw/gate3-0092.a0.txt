@@ -1,0 +1,287 @@
+INFORME DE EVALUACIÓN DE HABLA Y LENGUAJE PEDIÁTRICO BILINGÜE
+
+Documento sintético. Todos los datos personales, lugares, organizaciones, antecedentes y resultados descritos son ficticios.
+
+DATOS DE IDENTIFICACIÓN
+
+Nombre del niño: [[CHILD|Emiliano Solís Aranda]]
+Nombre usado en casa: [[CHILD|Milo]]
+Fecha de nacimiento: [[DATE|5 de abril de 2022]]
+Edad cronológica: [[KEEP|4;2]]
+Fecha de evaluación: [[DATE|9 de junio de 2026]]
+Horario: [[TIME|9:15 a. m.]] a [[TIME|11:05 a. m.]]
+Fecha del informe: [[DATE|12 de junio de 2026]]
+Expediente: [[ID|SLB-260609-047]]
+Identificación de Medicaid: [[MEDICAID_ID|999472816K]]
+Autorización: [[ID|AUT-2606-11852]]
+
+Madre: [[PARENT|Renata Aranda Vega]]
+Padre: [[PARENT|Diego Solís Prado]]
+Domicilio: [[PLACE|417 Camino del Junco, apartamento 6]], [[PLACE|Villa Brisalta]], Carolina del Norte, [[PLACE|27900]]
+Condado: [[PLACE|Loma Clara]]
+Teléfono familiar: [[PHONE|919-555-0148]]
+Correo familiar: [[EMAIL|renata.aranda@example.invalid]]
+
+Profesional: [[PROVIDER|Adriana Beltrán Cifuentes]], patóloga del habla y lenguaje pediátrica bilingüe.
+Empresa: [[EMPLOYER|Senderos de Voz Pediátrica]]
+Dirección profesional: [[PLACE|82 Avenida del Laurel, oficina 204]], [[PLACE|Villa Brisalta]], Carolina del Norte.
+Teléfono: [[PHONE|919-555-0163]]
+Correo: [[EMAIL|adriana.beltran@example.invalid]]
+Sitio web: [[URL|https://senderosdevoz.example.invalid]]
+
+Lugar: [X] Hogar  [ ] Clínica  [ ] Centro preescolar
+Idiomas: [X] Español  [X] Inglés
+Participantes: [X] Madre  [X] Padre  [X] Niño  [X] Intérprete
+Servicio: [[KEEP|CPT 92523]]; modificador [[KEEP|GN]].
+
+MOTIVO DE CONSULTA
+
+La familia solicitó esta evaluación porque [[CHILD|Emiliano]] tiene dificultad para explicar lo que necesita, responder preguntas y conversar durante actividades cotidianas. Su mamá [[PARENT|Renata Aranda Vega]] indicó que comprende mejor las rutinas conocidas que las instrucciones nuevas. Su papá [[PARENT|Diego Solís Prado]] observó que algunas personas necesitan que el niño repita sus mensajes.
+
+[X] Preocupación por lenguaje  [X] Preocupación por pronunciación
+[ ] Pérdida reciente de habilidades  [ ] Cambio repentino de conducta
+
+La familia desea que el niño pida ayuda, relate experiencias breves y participe con otros niños sin depender siempre de un adulto. También quiere conservar el español como idioma familiar. No solicita sustituirlo por el inglés.
+
+La referencia provino de la pediatra Dra. [[PROVIDER|Marisol Pineda Ríos]]. El formulario menciona comunicación limitada durante consultas y frustración cuando el interlocutor no entiende. La evaluación examinó habilidades en ambos idiomas, considerando la exposición desigual y las oportunidades de aprendizaje. El propósito fue describir necesidades funcionales y orientar apoyos en casa y en el entorno educativo.
+
+FUENTES Y PROCEDIMIENTO
+
+[X] Entrevista familiar  [X] Observación directa  [X] Juego compartido
+[X] Prueba estandarizada  [X] Muestra de lenguaje  [X] Evaluación dinámica
+[X] Revisión de documentos  [ ] Observación presencial en el salón
+
+La profesional [[PROVIDER|Adriana Beltrán Cifuentes]] realizó las actividades clínicas en español e inglés. La intérprete [[PROVIDER|Elena Varela Montes]] facilitó parte de la entrevista con una cuidadora conectada por teléfono. La intérprete no administró pruebas ni tradujo estímulos para obtener puntuaciones normativas.
+
+Se revisaron el cuestionario familiar, una nota pediátrica y el resumen escolar enviado con autorización. Los antecedentes médicos proceden de esos documentos y del relato familiar. No se revisó un expediente hospitalario completo.
+
+La sesión incluyó pausas, materiales familiares y oportunidades de elegir. Las tareas siguieron las reglas del instrumento cuando correspondía. Las actividades modificadas se analizaron por separado. Sus respuestas no se incorporaron a las puntuaciones estandarizadas. La evaluación describe el desempeño observado durante esta sesión y los patrones informados en otros ambientes.
+
+ANTECEDENTES DEL DESARROLLO
+
+Según su mamá [[PARENT|Renata]], [[CHILD|Milo]] comenzó a sentarse sin apoyo alrededor de los [[KEEP|8 meses]] y caminó cerca de los [[KEEP|15 meses]]. La familia recuerda las primeras palabras funcionales alrededor de los [[KEEP|19 meses]]. Las combinaciones espontáneas aparecieron aproximadamente a los [[KEEP|31 meses]].
+
+No se informó pérdida de palabras ni de habilidades motoras. El desarrollo comunicativo fue gradual, con periodos en que aumentaron los gestos antes que las palabras. Actualmente, el niño lleva al adulto hacia un objeto, señala y agrega una palabra cuando necesita algo.
+
+[X] Señala para pedir  [X] Señala para compartir interés
+[X] Usa palabras espontáneas  [X] Combina palabras
+[ ] Cuenta experiencias con secuencia clara de manera constante
+
+La familia considera que aprende mejor cuando puede observar una acción y practicarla. Le cuesta responder si recibe varias preguntas seguidas. Las dificultades aumentan cuando está cansado o cuando el tema no tiene apoyo visual. Estas observaciones sugieren que las demandas del contexto influyen en su desempeño y deben considerarse al planificar la intervención.
+
+HISTORIA DEL NACIMIENTO
+
+[[CHILD|Emiliano Solís Aranda]] nació en [[HOSPITAL|Hospital Materno Infantil del Sauce]], situado en [[PLACE|Puerto Almendral]], Carolina del Norte. La fecha registrada fue [[DATE|5 de abril de 2022]]. La madre informó una edad gestacional de [[KEEP|38 semanas y 4 días]] y un peso al nacer de [[KEEP|3,180 gramos]].
+
+El parto fue vaginal, con asistencia médica por desaceleraciones transitorias. Las puntuaciones de Apgar informadas fueron [[KEEP|8 al minuto]] y [[KEEP|9 a los cinco minutos]]. La familia no recuerda necesidad de ventilación mecánica ni ingreso a cuidados intensivos.
+
+[X] Alta con la madre  [ ] Hospitalización neonatal prolongada
+[ ] Alimentación por sonda  [ ] Cirugía neonatal
+
+El resumen aportado menciona ictericia leve y seguimiento ambulatorio. La madre describió dificultades iniciales para establecer la alimentación, que mejoraron con apoyo. No se documentaron complicaciones neurológicas.
+
+Estos datos se registran como antecedentes informados. La profesional no confirmó cada detalle mediante el expediente del nacimiento. La historia disponible no identifica un evento perinatal que explique por sí solo las dificultades actuales de comunicación.
+
+HISTORIA MÉDICA Y SERVICIOS
+
+La pediatra Dra. [[PROVIDER|Marisol Pineda Ríos]] atiende al niño en [[HOSPITAL|Centro Médico Infantil Las Acacias]]. La última consulta documentada ocurrió el [[DATE|20 de mayo de 2026]]. La familia informó episodios de otitis durante la primera infancia, sin colocación de tubos de ventilación.
+
+[X] Antecedentes de otitis  [ ] Convulsiones  [ ] Lesión cerebral
+[ ] Medicación diaria  [ ] Alergia conocida a medicamentos
+
+La terapeuta ocupacional [[PROVIDER|Nora Salcedo Ferrer]] trabaja con participación en rutinas, tolerancia a materiales y uso de utensilios. El fisioterapeuta [[PROVIDER|Gabriel Treviño Alba]] realizó una consulta por equilibrio y recomendó actividades de movimiento. La coordinadora [[PROVIDER|Patricia Cárdenas Olmo]], de [[AGENCY|CDSA del Valle de los Faroles]], ayudó previamente a organizar servicios.
+
+El plan familiar anterior, fechado el [[DATE|18 de enero de 2025]], incluía el resultado [[KEEP|2]] del [[KEEP|IFSP]], relacionado con pedir objetos durante las comidas. La familia refiere avances en esa rutina. No se interpreta ese avance como evidencia de que todas las necesidades lingüísticas estén resueltas.
+
+FAMILIA Y CUIDADORES
+
+[[CHILD|Emiliano]] vive con su mamá [[PARENT|Renata Aranda Vega]], su papá [[PARENT|Diego Solís Prado]] y su hermana [[SIBLING|Valeria Solís Aranda]], de [[KEEP|7 años]]. Su hermano [[SIBLING|Bruno Solís Aranda]], de [[KEEP|10 años]], permanece en el hogar en semanas alternas.
+
+La abuela materna, doña [[FAMILY|Lupe]], cuida al niño algunas tardes. La tía [[FAMILY|Rocío Vega Luna]] participa en salidas familiares. La cuidadora [[FAMILY|Inés Duarte Mora]] ayuda cuando los horarios laborales coinciden. La madre trabaja en [[ORG|Taller Textil Horizonte de Lino]] y el padre en [[ORG|Cooperativa Solar Campo Sereno]].
+
+[X] Apoyo familiar disponible  [X] Rutinas compartidas
+[ ] Necesidad inmediata de transporte  [ ] Cambio reciente de vivienda
+
+La familia tiene una perra llamada [[PET|Nube]]. Durante el juego, el niño dijo: “[[PET|Nube]] ven”. También pidió: “mamá [[PARENT|Renata]] ayuda”. Estas expresiones se anotan como ejemplos espontáneos.
+
+Los adultos describen una relación afectuosa y buena disposición para practicar estrategias. Solicitan actividades breves que puedan integrar a las comidas, al juego y a la preparación para salir.
+
+HISTORIA DE IDIOMAS
+
+El español es el idioma principal del hogar. La familia calcula una exposición aproximada de [[KEEP|70%]] al español y [[KEEP|30%]] al inglés. Estas cifras son estimaciones familiares y no mediciones directas.
+
+La madre [[PARENT|Renata]] y doña [[FAMILY|Lupe]] usan principalmente español. El padre [[PARENT|Diego]] alterna según la actividad. Los hermanos usan ambos idiomas al jugar. La exposición regular al inglés aumentó con la asistencia al centro preescolar.
+
+[X] Comprende rutinas en español  [X] Comprende rutinas en inglés
+[X] Alterna idiomas  [X] Usa gestos con ambos idiomas
+
+[[CHILD|Milo]] mostró palabras diferentes en cada idioma. Algunas aparecieron solo en contextos específicos. La profesional consideró el conocimiento distribuido entre idiomas y evitó interpretar la alternancia como un error.
+
+Las dificultades para organizar mensajes y comprender instrucciones nuevas también aparecieron en español, su idioma de mayor exposición. Este patrón merece apoyo clínico. La familia puede continuar usando el idioma en que cada adulto se comunica con mayor comodidad. El bilingüismo no constituye, por sí mismo, un trastorno del lenguaje.
+
+ENTORNO EDUCATIVO
+
+[[CHILD|Emiliano]] asiste a [[DAYCARE|El Caracol de Nubes Azules]], en [[PLACE|Villa Brisalta]]. La docente principal es Ms. [[TEACHER|Lopez]]. El centro identifica su espacio como “Ms. [[TEACHER|Lopez]]'s room”. La auxiliar Miss [[TEACHER|Ana]] apoya las transiciones y el juego.
+
+El niño tiene una visita de transición programada a [[SCHOOL|Escuela Primaria Sendero del Lucero]], perteneciente a [[SCHOOL|Distrito Escolar de las Tres Colinas]]. La maestra [[TEACHER|Carmen]] dirige el salón [[SCHOOL|Aula Semillas del Lucero]]. Mr. [[TEACHER|Tom]] coordina actividades musicales durante esa visita.
+
+[X] Asistencia regular  [X] Participación variable en grupos
+[X] Necesita apoyo durante transiciones  [ ] Suspensión escolar
+
+El informe docente menciona interés por bloques, animales y canciones. Sus compañeros [[PEER|Alma Benítez]] y [[PEER|Nicolás Rueda]] suelen invitarlo a jugar. El compañero [[PEER|Teo]] interpreta algunos gestos y busca ayuda adulta cuando no entiende.
+
+La profesional recibió estos datos por escrito. No observó directamente el salón. Recomienda reunir información adicional sobre comunicación espontánea durante actividades grupales.
+
+CONDUCTA DURANTE LA EVALUACIÓN
+
+[[CHILD|Emiliano]] entró al espacio con curiosidad y exploró los materiales. Al inicio permaneció cerca de su madre. Después aceptó jugar con la profesional y compartir objetos.
+
+[X] Atención conjunta presente  [X] Juego simbólico presente
+[X] Busca ayuda  [X] Acepta turnos breves
+[ ] Conducta agresiva observada  [ ] Malestar sostenido
+
+El niño representó acciones de comer, dormir y conducir con muñecos. Cambió de actividad cuando recibió una explicación breve y una señal visual. Las demandas verbales prolongadas redujeron su participación. Una pausa de movimiento permitió retomar las tareas.
+
+La cooperación fue suficiente para obtener información clínica. Sin embargo, la atención variable pudo influir en algunas respuestas. La profesional registró cuándo hubo repetición permitida y cuándo se añadió apoyo fuera del procedimiento estandarizado.
+
+El contacto visual apareció de manera funcional al compartir interés o solicitar ayuda. No se exigió mantenerlo como condición para participar. Se valoraron también los gestos, la orientación corporal y las respuestas al interlocutor.
+
+AUDICIÓN, ALIMENTACIÓN Y MECANISMO ORAL
+
+La familia presentó un resultado de tamizaje auditivo fechado el [[DATE|14 de abril de 2026]]. El documento de [[HOSPITAL|Centro Médico Infantil Las Acacias]] indica respuesta favorable en ambos oídos. Esta información no sustituye una evaluación audiológica completa.
+
+[X] Responde a voces habituales  [X] Orienta hacia sonidos
+[ ] Dolor de oído referido durante la sesión  [ ] Tamizaje realizado hoy
+
+La inspección clínica mostró simetría facial y movimientos funcionales de labios y lengua durante tareas breves. No se observaron signos evidentes de dificultad estructural que explicaran la pronunciación. La exploración fue limitada por la tolerancia del niño.
+
+La familia informó alimentación variada, con rechazo de ciertas texturas. No describió tos frecuente, atragantamiento ni pérdida de peso. Este informe no establece un diagnóstico de deglución.
+
+La voz presentó intensidad y calidad funcionales durante la muestra. No se observaron bloqueos persistentes ni tensión que justificaran una evaluación específica de fluidez en esta sesión.
+
+RESULTADOS ESTANDARIZADOS
+
+Se administró [[KEEP|PLS-5 Spanish]] con los procedimientos bilingües correspondientes. Las puntuaciones siguientes pertenecen a una evaluación ficticia. Se interpretan junto con la entrevista, la observación y las muestras comunicativas.
+
+| Prueba o escala | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish: Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5 Spanish: Comunicación expresiva]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-83]] | [[KEEP|2;11]] |
+| [[KEEP|PLS-5 Spanish: Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-82]] | [[KEEP|3;0]] |
+
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las edades equivalentes describen una comparación limitada con el instrumento. No representan la edad global del niño ni deben usarse solas para decidir servicios.
+
+No se calcularon puntuaciones escalares adicionales. Tampoco se mezclaron respuestas de actividades modificadas con las puntuaciones de la prueba. El desempeño indica necesidad de examinar dificultades funcionales en ambos idiomas, considerando su historia de exposición.
+
+COMPRENSIÓN DEL LENGUAJE
+
+[[CHILD|Emiliano]] identificó objetos familiares, acciones comunes y partes del cuerpo. Comprendió instrucciones sencillas dentro del juego. Su desempeño disminuyó cuando la instrucción incluyó varios elementos o conceptos poco practicados.
+
+En actividades clínicas separadas, siguió instrucciones de un paso en [[KEEP|8/10]] oportunidades. Siguió instrucciones de dos pasos relacionados en [[KEEP|4/10]] oportunidades sin apoyo adicional. Con [[KEEP|mod cues]], respondió correctamente en [[KEEP|7/10]] oportunidades.
+
+Comprendió mejor [[KEEP|"dentro"]], [[KEEP|"arriba"]] y [[KEEP|"dame"]]. Mostró respuestas variables para [[KEEP|"debajo"]], [[KEEP|"antes"]] y [[KEEP|"ninguno"]]. Las dificultades no fueron iguales en todas las tareas.
+
+El niño seleccionó imágenes conocidas, pero algunas respuestas parecieron apoyarse en pistas visuales. La profesional cambió los materiales para comprobar la comprensión sin depender de una rutina memorizada.
+
+Estos resultados apoyan el uso de instrucciones breves, tiempo de procesamiento y ayudas visuales. Se recomienda retirar las ayudas de forma gradual y comprobar que la habilidad se mantiene con objetos y personas diferentes.
+
+EXPRESIÓN Y MUESTRA DE LENGUAJE
+
+La muestra incluyó peticiones, comentarios y respuestas durante juego y lectura. [[CHILD|Milo]] produjo [[KEEP|"yo quiero carro"]], [[KEEP|"se cayó ahí"]] y [[KEEP|"más agua por favor"]]. También usó [[KEEP|"no cabe"]] para describir un problema.
+
+Predominaron mensajes breves. La información necesaria para un oyente nuevo apareció de manera irregular. El niño omitió artículos y algunas marcas verbales en español. En inglés, produjo expresiones aprendidas y combinaciones menos variadas.
+
+En una actividad de descripción, comunicó dos elementos relevantes en [[KEEP|3 de 5]] oportunidades con [[KEEP|min cues]]. Para explicar una secuencia de imágenes, necesitó [[KEEP|max cues]].
+
+El análisis mediante [[KEEP|SALT]] registró [[KEEP|[EW]]] en ejemplos de uso gramatical inadecuado. Ese código se aplicó según el contexto lingüístico y no a la alternancia entre idiomas.
+
+La muestra mostró intención comunicativa clara. La principal necesidad consiste en ampliar y organizar los mensajes para que el interlocutor comprenda quién participa, qué ocurre y qué ayuda necesita el niño.
+
+HABLA Y PATRONES FONOLÓGICOS
+
+La evaluación clínica de pronunciación mostró simplificación de grupos consonánticos y sustituciones que redujeron la claridad. [[CHILD|Emiliano]] produjo [[KEEP|"tasa"]] para [[KEEP|"casa"]] y [[KEEP|"pato"]] para [[KEEP|"plato"]]. En algunos intentos, sustituyó [[KEEP|/k/]] por [[KEEP|/t/]].
+
+La producción de [[KEEP|/g/]] fue variable. La vibrante simple [[KEEP|/ɾ/]] apareció en ciertos contextos, pero no de manera constante. En palabras inglesas, se observó [[KEEP|[w]]] como sustitución de una consonante líquida.
+
+La profesional estimó una inteligibilidad de [[KEEP|65%]] para un oyente familiar y [[KEEP|45%]] para un oyente menos familiar dentro de la muestra. Son estimaciones clínicas dependientes del contexto.
+
+Con [[KEEP|mod cues]], logró [[KEEP|/k/]] en sílabas en [[KEEP|6/10]] intentos. No mantuvo esa producción de manera estable en palabras espontáneas.
+
+No se observaron señales suficientes para establecer un diagnóstico motor del habla. Se recomienda seguimiento de consistencia, transiciones y prosodia. Las diferencias esperadas entre español e inglés no se contaron automáticamente como errores.
+
+COMUNICACIÓN SOCIAL Y JUEGO
+
+[[CHILD|Emiliano]] inició interacción para mostrar objetos, pedir ayuda y compartir sorpresa. Respondió a comentarios sencillos y sostuvo intercambios breves cuando el adulto siguió su interés.
+
+[X] Interés social  [X] Uso funcional de gestos
+[X] Juego compartido  [X] Necesidad de apoyo para reparar mensajes
+
+Cuando un mensaje no se entendió, el niño repitió la misma palabra o aumentó el volumen. Con apoyo, señaló el objeto y añadió información. Reparó el mensaje en [[KEEP|4/6]] oportunidades con [[KEEP|mod cues]].
+
+La docente Ms. [[TEACHER|Lopez]] informó que participa mejor con grupos pequeños. Miss [[TEACHER|Ana]] describió dificultad para entrar en juegos ya iniciados. Estas observaciones requieren seguimiento en el entorno educativo.
+
+Durante la sesión, el niño toleró cambios pequeños y aceptó propuestas nuevas. La información disponible no permite atribuir todas sus dificultades sociales al lenguaje. Tampoco permite establecer otro diagnóstico del desarrollo. La intervención debe apoyar la participación y reunir datos de varios contextos.
+
+RESPUESTA AL APOYO
+
+La evaluación dinámica utilizó [[KEEP|estimulación focalizada]] y [[KEEP|reformulación]] durante una actividad con animales. La profesional presentó modelos breves y permitió que el niño eligiera cuándo responder.
+
+Antes del apoyo, [[CHILD|Milo]] produjo mensajes con acción y objeto en [[KEEP|2/8]] oportunidades. Después del modelado, lo hizo en [[KEEP|6/8]] oportunidades con [[KEEP|mod cues]]. En una actividad nueva, mantuvo la estructura en [[KEEP|3/8]] oportunidades con [[KEEP|min cues]].
+
+Esta respuesta muestra capacidad para aprender con apoyo. La generalización inmediata fue parcial. No se interpreta la mejoría dentro de la sesión como dominio independiente.
+
+Para la práctica familiar, se propone [[KEEP|enseñanza en el entorno natural]]. La familia puede observar una rutina, identificar una oportunidad comunicativa y ofrecer un modelo útil. Se recomienda esperar antes de repetir la pregunta.
+
+La profesional explicó principios de [[KEEP|Hanen]] como orientación familiar. No documentó inscripción en un programa formal. No se indicó [[KEEP|PROMPT]] en esta evaluación.
+
+IMPRESIONES CLÍNICAS
+
+Los hallazgos apoyan dificultades receptivas y expresivas que afectan las rutinas familiares y la participación educativa. Las necesidades aparecen en el idioma de mayor exposición y no se explican únicamente por aprender inglés.
+
+Impresión clínica: trastorno mixto del lenguaje receptivo y expresivo, [[KEEP|ICD-10 F80.2]]. También se identifican dificultades fonológicas con impacto funcional, compatibles con [[KEEP|ICD-10 F80.0]].
+
+Las fortalezas incluyen intención comunicativa, juego simbólico, interés social y respuesta al modelado. La familia ofrece oportunidades frecuentes de interacción. Estas fortalezas favorecen el tratamiento, aunque no permiten predecir un plazo exacto de progreso.
+
+La interpretación tiene límites. No hubo observación presencial en el salón ni evaluación audiológica completa. La atención variable y la distribución del vocabulario entre idiomas deben considerarse.
+
+Los resultados clínicos no determinan por sí solos la elegibilidad escolar. El equipo educativo debe integrar sus propios datos y procedimientos. La familia debe recibir las explicaciones en español y participar en las decisiones sobre servicios.
+
+OBJETIVOS PROPUESTOS
+
+Los siguientes objetivos iniciales deben ajustarse después de obtener una línea de base durante tratamiento.
+
+1. Objetivo [[KEEP|1]]: seguir instrucciones de dos pasos relacionados en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]], usando materiales y rutinas diferentes.
+
+2. Objetivo [[KEEP|2]]: producir mensajes con participante, acción y objeto en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]] durante juego o actividades familiares.
+
+3. Objetivo [[KEEP|3]]: reparar mensajes mediante palabras adicionales, gestos o apoyo visual en [[KEEP|80%]] de las oportunidades con [[KEEP|min cues]].
+
+4. Objetivo [[KEEP|4]]: producir [[KEEP|/k/]] en palabras funcionales en [[KEEP|80%]] de los intentos con [[KEEP|mod cues]], antes de aumentar la dificultad.
+
+5. Objetivo [[KEEP|5]]: relatar una secuencia breve con inicio y acción principal en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]].
+
+Se aceptarán respuestas funcionales en ambos idiomas cuando el objetivo evalúe comunicación general. Los objetivos específicos de sonidos considerarán las reglas de cada idioma.
+
+RECOMENDACIONES Y PLAN
+
+[X] Terapia de lenguaje  [X] Intervención fonológica
+[X] Orientación familiar  [X] Coordinación educativa
+[X] Seguimiento auditivo  [ ] Alta clínica
+
+1. Iniciar terapia bilingüe con actividades que respondan a las prioridades familiares. Confirmar frecuencia y duración según tolerancia, acceso y datos iniciales.
+
+2. Usar [[KEEP|lectura dialógica]], [[KEEP|estimulación focalizada]] y [[KEEP|reformulación]] para ampliar mensajes. Incorporar [[KEEP|Cycles]] si la evaluación continua confirma que resulta adecuado para los patrones fonológicos.
+
+3. Solicitar seguimiento audiológico por los antecedentes de otitis. Compartir el resultado con la pediatra Dra. [[PROVIDER|Marisol Pineda Ríos]] y el equipo tratante.
+
+4. Coordinar estrategias con [[PROVIDER|Nora Salcedo Ferrer]] y [[PROVIDER|Gabriel Treviño Alba]], con autorización familiar. Evitar demandas simultáneas que dificulten la participación.
+
+5. Pedir al equipo de [[SCHOOL|Escuela Primaria Sendero del Lucero]] que observe comprensión, expresión y reparación de mensajes durante actividades naturales.
+
+6. Mantener el español familiar. Modelar mensajes breves sin exigir repetición constante. Valorar los intentos comunicativos y ofrecer una forma más clara.
+
+La familia recibió los resultados en español. Ambos padres expresaron comprensión y acordaron comenzar con rutinas de juego y comida. Se propone revisar el progreso el [[DATE|11 de septiembre de 2026]].
+
+Firma clínica: [[PROVIDER|Adriana Beltrán Cifuentes]]
+Empresa: [[EMPLOYER|Senderos de Voz Pediátrica]]
+Fecha de firma: [[DATE|12 de junio de 2026]]

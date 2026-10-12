@@ -1,0 +1,22 @@
+Cliente: [[CHILD|Mateo Alvarez Reyes]] ("[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|03/14/2021]]  Edad: [[KEEP|4;7]]
+Fecha de la sesión: [[DATE|3 de marzo de 2025]]  Hora: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Lugar: [[AGENCY|Centro de Desarrollo y Servicios Infantiles del Condado de Wake]] ([[AGENCY|CDSA]]), [[PLACE|4521 Falcon Ridge Drive, Raleigh, NC 27609]]
+SLP: [[PROVIDER|Marisol Peña]], M.S., CCC-SLP, [[EMPLOYER|Carolina Bilingual Speech Services, PLLC]]
+Medicaid #: [[MEDICAID_ID|987654321B]]
+
+S: Mamá, [[PARENT|Lucía Rodríguez]], dice que [[CHILD|Teo]] ha estado "hablando más en casa." Tel. de contacto: [[PHONE|(919) 555-0142]]. Durante el juego, [[CHILD|Teo]] miró al perro e imitó, "[[PET|Luna]] run fast," y luego, jalando a su hermano hacia el carrito, dijo "[[SIBLING|Diego]] go now."
+
+O: Sesión en el consultorio del [[AGENCY|CDSA]]. Se trabajaron metas de fonología y sintaxis. [[CHILD|Teo]] mantuvo buena atención, con un breve descanso para tomar agua a las [[TIME|3:50 PM]].
+
+- Articulación: produjo [[KEEP|/k/]] en "[[KEEP|cat]]" con [[KEEP|mod cues]], [[KEEP|8/10]] ensayos.
+- Fonología: meta [[KEEP|/t/]] final; "[[KEEP|hat]]" → [[KEEP|[hæ]]], mejoró a [[KEEP|[hæt]]] con [[KEEP|min cues]].
+- Muestra de lenguaje: MLU [[KEEP|3.2]]; estructuras SVO en [[KEEP|3 of 5]] oportunidades.
+
+Pruebas estandarizadas: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] puntaje estándar [[KEEP|73-83]] ([[KEEP|95% CI]]); [[KEEP|Expressive Communication]] [[KEEP|68-79]]; edad equivalente [[KEEP|2;6–3;0]].
+
+A: [[CHILD|Teo]] sigue mostrando avances con el enfoque [[KEEP|PROMPT]]; la niñera, [[FAMILY|Carmen Ibarra]], reporta buen seguimiento en casa. La generalización al salón aún está emergiendo; sin seguimiento consistente reportado todavía por la maestra, Sra. [[TEACHER|Pérez]].
+
+P: Continuar sesiones semanales. La coordinadora de servicios, [[PROVIDER|J. Ortiz]], de la [[AGENCY|Agencia Comunitaria de Apoyo Familiar del Condado de Wake]] ([[AGENCY|ACAF]]), programará la próxima revisión del IFSP para el martes 4 de junio ([[DATE|6/4/2025]]). La maestra, Sra. [[TEACHER|Pérez]], del [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], solicitó estrategias actualizadas. Se envió copia al pediatra, [[PROVIDER|Dr. M.R. Chávez]].
+
+Próxima cita: [[DATE|3-10-2025]] a las [[TIME|3:30 PM]].

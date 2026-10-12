@@ -1,0 +1,53 @@
+NOTA DIARIA DE TERAPIA DEL LENGUAJE
+
+Campo	Dato
+Cliente	[[CHILD|Nicolás Varela Soto]]
+Edad	[[KEEP|4;2]]
+Nacimiento	[[DATE|9 de agosto de 2022]]
+Servicio	[[DATE|11 de octubre de 2026]]
+Horario	[[TIME|9:10 a. m.]]–[[TIME|9:45 a. m.]]
+Expediente	[[ID|NC-SLP-482613]]
+Medicaid	[[MEDICAID_ID|638274195Q]]
+Profesional	[[PROVIDER|Marina Solís]], patóloga bilingüe del habla y lenguaje
+Empresa	[[EMPLOYER|Little Lantern Speech Services]]
+Lugar	[[PLACE|Villa Nogal]], Carolina del Norte
+
+Subjetivo:
+La mamá informó que [[CHILD|Nicolás]] pidió ayuda durante el desayuno y toleró mejor las transiciones. Su hermana [[SIBLING|Elisa]] participó en la lectura nocturna. La abuela [[FAMILY|Teresa Soto]] practicó turnos con objetos familiares. La familia describió sueño adecuado y ninguna enfermedad reciente. El niño comentó “[[PET|Chispa]] corre” al mirar una fotografía de su perro.
+
+Contacto	Información
+Mamá	[[PARENT|Daniela Soto]]; [[PHONE|(919) 555-0147]]
+Papá	[[PARENT|Esteban Varela]]; [[EMAIL|esteban.varela@example.com]]
+Domicilio	[[PLACE|284 Calle Nube, Villa Nogal, NC 27500]]
+Coordinadora	[[PROVIDER|J. Ortiz]], [[AGENCY|CDSA del Valle Nublado]]
+Portal	[[URL|https://littlelantern.example/portal]]
+
+Contexto familiar:
+Los padres describieron empleos actuales y anteriores. Estos horarios afectan quién acompaña al niño y recibe las actividades domiciliarias.
+
+Progenitor	Lugares de trabajo
+Madre	la tienda [[ORG|Silver Basket Store]]; el restaurante [[ORG|Copper Spoon Restaurant]]; el servicio de limpieza [[ORG|Bright Window Cleaning Service]]
+Padre	la planta [[ORG|Maple Gear Plant]]; la granja [[ORG|Clover Hill Farm]]; la compañía de construcción [[ORG|Stone Finch Construction Company]]
+
+Objetivo:
+La sesión ocurrió en [[SCHOOL|Escuela Sendero Azul]], en el salón Ms. [[TEACHER|Lopez]]'s room. El compañero [[PEER|Tomás]] modeló turnos durante una actividad breve. Se utilizaron [[KEEP|Hanen]] y [[KEEP|PROMPT]] para apoyar peticiones, expansión verbal y producción de [[KEEP|/k/]]. El niño produjo [[KEEP|"quiero carro"]] con [[KEEP|min cues]] y [[KEEP|"casa"]] con [[KEEP|mod cues]]. Se registró sustitución por [[KEEP|[t]]] al inicio de palabras.
+
+Medida	Resultado
+[[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]]	Puntuación estándar [[KEEP|78]]; percentil [[KEEP|7]]
+Intervalo de confianza	[[KEEP|73-83]]
+Edad equivalente	[[KEEP|2;6–3;0]]
+Peticiones espontáneas	[[KEEP|8/10]]; [[KEEP|80%]]
+Producción inicial de [[KEEP|/k/]]	[[KEEP|3 de 5]]; [[KEEP|60%]]
+
+Análisis:
+Los resultados de la evaluación previa orientan la intervención; hoy no se administró nuevamente la prueba. La participación mejoró con apoyos visuales y pausas. Persisten dificultades para mantener consonantes posteriores y ampliar mensajes sin ayuda. La muestra incluyó [[KEEP|[EW]]] en el análisis [[KEEP|SALT]]. El objetivo [[KEEP|2]] del [[KEEP|IFSP]] muestra progreso funcional.
+
+Plan:
+Continuar juegos de petición y lectura compartida. Practicar [[KEEP|"coco"]] y [[KEEP|"camión"]] con [[KEEP|mod cues]]. Revisar la generalización con la familia y la maestra.
+
+Servicio	Frecuencia	Códigos
+Terapia individual	Martes y jueves, [[TIME|9:10 a. m.]]	[[KEEP|92507]]; [[KEEP|GN]]; [[KEEP|F80.2]]
+
+La familia recibió instrucciones en español y confirmó comprensión mediante demostración. Se acordó llevar un registro breve de peticiones durante comidas y juegos cotidianos.
+
+Firma: [[PROVIDER|M. Solís]].

@@ -1,0 +1,758 @@
+{
+ "vs_ref": {
+  "ref_fp32_w3072": {
+   "note_en_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   }
+  },
+  "onnx_q4_w4096": {
+   "note_en_500": {
+    "token_argmax_agree": 0.9987277353689568,
+    "max_abs_prob_diff": 0.6084879259648122,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 0.9869960988296489,
+    "max_abs_prob_diff": 0.9479511635179922,
+    "span_precision_vs_ref": 0.9375,
+    "span_recall_vs_ref": 0.8333333333333334
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9837704492339652,
+    "max_abs_prob_diff": 0.9377125516725189,
+    "span_precision_vs_ref": 0.9252336448598131,
+    "span_recall_vs_ref": 0.8735294117647059
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 0.9933532284319045,
+    "max_abs_prob_diff": 0.8779391632954487,
+    "span_precision_vs_ref": 0.9244186046511628,
+    "span_recall_vs_ref": 0.9190751445086706
+   }
+  },
+  "onnx_q4_w2048": {
+   "note_en_500": {
+    "token_argmax_agree": 0.9987277353689568,
+    "max_abs_prob_diff": 0.6084879259648122,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 0.9869960988296489,
+    "max_abs_prob_diff": 0.9479511635179922,
+    "span_precision_vs_ref": 0.9375,
+    "span_recall_vs_ref": 0.8333333333333334
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9837704492339652,
+    "max_abs_prob_diff": 0.9377126462276799,
+    "span_precision_vs_ref": 0.9252336448598131,
+    "span_recall_vs_ref": 0.8735294117647059
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 0.9933532284319045,
+    "max_abs_prob_diff": 0.87793809501723,
+    "span_precision_vs_ref": 0.9244186046511628,
+    "span_recall_vs_ref": 0.9190751445086706
+   }
+  },
+  "mlx_8bit_w4096": {
+   "note_en_500": {
+    "token_argmax_agree": 0.9987277353689568,
+    "max_abs_prob_diff": 0.3315329134589151,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 0.9986996098829649,
+    "max_abs_prob_diff": 0.1165026223016784,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9966242534406647,
+    "max_abs_prob_diff": 0.48538066926604834,
+    "span_precision_vs_ref": 0.9626436781609196,
+    "span_recall_vs_ref": 0.9852941176470589
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 0.9993217580032555,
+    "max_abs_prob_diff": 0.39994515495208166,
+    "span_precision_vs_ref": 0.9714285714285714,
+    "span_recall_vs_ref": 0.9826589595375722
+   }
+  },
+  "mlx_8bit_w8192": {
+   "note_en_500": {
+    "token_argmax_agree": 0.9987277353689568,
+    "max_abs_prob_diff": 0.3315329134589151,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 0.9986996098829649,
+    "max_abs_prob_diff": 0.1165026223016784,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9966242534406647,
+    "max_abs_prob_diff": 0.34748803835893705,
+    "span_precision_vs_ref": 0.9654178674351584,
+    "span_recall_vs_ref": 0.9852941176470589
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 0.9993217580032555,
+    "max_abs_prob_diff": 0.398334664997984,
+    "span_precision_vs_ref": 0.9771428571428571,
+    "span_recall_vs_ref": 0.9884393063583815
+   }
+  },
+  "mlx_8bit_full": {
+   "note_en_500": {
+    "token_argmax_agree": 0.9987277353689568,
+    "max_abs_prob_diff": 0.3315329134589151,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 0.9986996098829649,
+    "max_abs_prob_diff": 0.1165026223016784,
+    "span_precision_vs_ref": 1.0,
+    "span_recall_vs_ref": 1.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9966242534406647,
+    "max_abs_prob_diff": 0.34748803835893705,
+    "span_precision_vs_ref": 0.9654178674351584,
+    "span_recall_vs_ref": 0.9852941176470589
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 0.9993217580032555,
+    "max_abs_prob_diff": 0.398334664997984,
+    "span_precision_vs_ref": 0.9771428571428571,
+    "span_recall_vs_ref": 0.9884393063583815
+   }
+  }
+ },
+ "window_vs_full": {
+  "mlx_8bit w4096 vs full": {
+   "note_en_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 0.9990911451571021,
+    "max_abs_prob_diff": 0.27312430693649464
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.22687454073452393
+   }
+  },
+  "mlx_8bit w8192 vs full": {
+   "note_en_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   }
+  },
+  "onnx_q4 w2048 vs w4096": {
+   "note_en_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "note_es_500": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.0
+   },
+   "eval_mixed_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.007027376993329004
+   },
+   "eval_es_5000": {
+    "token_argmax_agree": 1.0,
+    "max_abs_prob_diff": 0.001790945430244717
+   }
+  }
+ },
+ "gold_coverage": {
+  "ref_fp32_w3072": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     1,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     222,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     8,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     64,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     7,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  },
+  "onnx_q4_w4096": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     0,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     201,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     10,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     68,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     3,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  },
+  "onnx_q4_w2048": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     0,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     201,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     10,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     68,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     3,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  },
+  "mlx_8bit_w4096": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     1,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     226,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     8,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     65,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     7,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  },
+  "mlx_8bit_w8192": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     1,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     226,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     8,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     65,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     7,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  },
+  "mlx_8bit_full": {
+   "note_en_500": {
+    "PERSON": [
+     45,
+     45
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     4,
+     4
+    ],
+    "SCHOOL": [
+     0,
+     8
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "note_es_500": {
+    "PERSON": [
+     7,
+     24
+    ],
+    "DATE": [
+     5,
+     5
+    ],
+    "PHONE": [
+     2,
+     2
+    ],
+    "SCHOOL": [
+     1,
+     1
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_mixed_5000": {
+    "PERSON": [
+     226,
+     291
+    ],
+    "DATE": [
+     60,
+     60
+    ],
+    "PHONE": [
+     27,
+     27
+    ],
+    "SCHOOL": [
+     8,
+     30
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   },
+   "eval_es_5000": {
+    "PERSON": [
+     65,
+     267
+    ],
+    "DATE": [
+     51,
+     51
+    ],
+    "PHONE": [
+     26,
+     26
+    ],
+    "SCHOOL": [
+     7,
+     32
+    ],
+    "ID": [
+     1,
+     1
+    ]
+   }
+  }
+ }
+}

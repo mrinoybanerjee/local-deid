@@ -1,0 +1,101 @@
+Patient Name: [[CHILD|Mateo Alejandro Flores Ramírez]]
+Preferred Name: [[CHILD|Teo]]
+Date of Birth: [[DATE|June 14, 2021]]
+Age at Evaluation: [[KEEP|4;2]]
+Gender: Male
+Primary Language(s): Spanish, English (simultaneous bilingual)
+Medicaid ID: [[MEDICAID_ID|745219863B]]
+Case/Record ID: [[ID|LDE-20395]]
+Referral Source: [[PROVIDER|Dr. Anita Patel]], Pediatrics, [[HOSPITAL|Guilford Family Health Center]]
+Evaluation Date(s): [[DATE|August 18, 2025]] and [[DATE|August 25, 2025]]
+Report Date: [[DATE|September 2, 2025]]
+Clinician: [[PROVIDER|Jennifer Suárez-Hall]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist
+Employer/Practice: [[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]]
+Interpreter Present: [[PROVIDER|Rosa Elena Campos]] (Spanish, certified medical interpreter)
+Service Coordinator: [[PROVIDER|Denise Walker]], [[AGENCY|Piedmont CDSA]]
+Home Address: [[PLACE|1420 Winding Creek Lane, Apt 3B, Greensboro, NC 27406]]
+County: [[PLACE|Guilford County]]
+Phone (Home): [[PHONE|(336) 555-0142]]
+Phone (Mom Cell): [[PHONE|(336) 555-0198]]
+Email: [[EMAIL|lflores1988@gmail.com]]
+Daycare/School: [[DAYCARE|Little Sprouts Head Start]]
+
+RAZÓN DE REFERIDO / REASON FOR REFERRAL
+
+[[CHILD|Mateo]], called [[CHILD|Teo]] at home and at school, was referred for a comprehensive bilingual speech-language evaluation by his pediatrician, [[PROVIDER|Dr. Anita Patel]], after his teacher at [[DAYCARE|Little Sprouts Head Start]], Ms. [[TEACHER|Amanda Lopez]], expressed concern that [[CHILD|Teo]] was "muy callado" in the classroom and rarely initiated speech with peers. His mother, [[PARENT|Lucía Flores Ramírez]], reports that at home [[CHILD|Teo]] habla bastante, pero se le entiende poco — he talks a lot, but he is hard to understand. [[PARENT|Lucía]] also noted that her son mixes Spanish and English "como ensalada," switching mid-sentence without apparent difficulty, which she was told by a neighbor might be normal for a bilingual child, but she wanted a professional opinion because [[CHILD|Teo]]'s older sister, [[SIBLING|Valentina]], did not have similar difficulty at this age.
+
+HISTORIA DE NACIMIENTO Y DESARROLLO / BIRTH AND DEVELOPMENTAL HISTORY
+
+[[CHILD|Teo]] was born on [[DATE|June 14, 2021]] at [[HOSPITAL|Moses H. Cone Memorial Hospital]] at [[KEEP|38 weeks]] gestational age via scheduled cesarean section. Birth weight was [[KEEP|6 lbs 11 oz]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. [[PARENT|Lucía]] reported an uncomplicated pregnancy, though she noted mild gestational hypertension managed with monitoring in the third trimester. There were no NICU admissions.
+
+Developmental milestones were reported as follows: sat independently at [[KEEP|6 months]], walked at [[KEEP|13 months]], first words emerged around [[KEEP|14-16 months]] in Spanish ("mamá," "agua," "perro"). [[PARENT|Lucía]] stated that [[CHILD|Teo]]'s first two-word combinations did not appear until closer to [[KEEP|26 months]], which she now recognizes was later than her daughter's. There is no reported history of recurrent ear infections, though [[CHILD|Teo]] had one episode of otitis media at approximately [[KEEP|18 months]], treated with antibiotics, with no tympanostomy tubes placed. A hearing screening at [[DAYCARE|Little Sprouts Head Start]] in [[DATE|May 2025]] showed normal results bilaterally.
+
+Family medical history is notable for a maternal cousin with a diagnosed language delay and a paternal uncle who reportedly "no hablaba bien" as a child, though no formal diagnosis was obtained. [[PARENT|Lucía]] denied any genetic syndromes, seizure history, or significant head trauma.
+
+HISTORIA FAMILIAR Y DE LENGUAJE / FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Teo]] lives with his mother, [[PARENT|Lucía Flores Ramírez]], his sister, [[SIBLING|Valentina]], age [[KEEP|7]], and his maternal grandmother, [[FAMILY|Rosa Pérez]], who moved to the United States two years ago to help with childcare. [[CHILD|Teo]]'s father, referred to in records only by his initials, [[PARENT|H.F.]], lives separately and has limited, inconsistent contact; [[PARENT|Lucía]] reported he speaks primarily Spanish when he does see the children.
+
+[[PARENT|Lucía]] works nights as a housekeeping supervisor at [[ORG|Carolina Suites Hotel]] near the airport, and picks up weekend shifts through a staffing agency everyone in the family just calls [[ORG|ABC]], sorting packages at a regional distribution center. Because of her schedule, [[FAMILY|Rosa]] and, occasionally, a neighbor known to the family only as [[FAMILY|M.R.]], provide after-school supervision for both children while [[PARENT|Lucía]] sleeps during the day before her shift.
+
+[[FAMILY|Rosa]] is originally from a small village called [[PLACE|El Jocotillo]], near [[PLACE|Copán]], Honduras, and she reports that in the home she speaks almost exclusively Spanish with [[CHILD|Teo]], often using regional vocabulary and expressions from her hometown — for example, she calls a drinking straw a "pajilla" rather than "pajita," and she says [[CHILD|Teo]] has picked up some of these words himself. [[PARENT|Lucía]] grew up partly in [[PLACE|Comitán]], Chiapas, México, before immigrating as a teenager, and she reports feeling "entre dos idiomas" herself, sometimes unsure which language to use with her children.
+
+Language exposure at home is estimated at roughly 70% Spanish and 30% English, with English increasing since [[CHILD|Teo]] started at [[DAYCARE|Little Sprouts Head Start]] in [[DATE|January 2024]]. [[SIBLING|Valentina]] frequently code-switches with [[CHILD|Teo]] during play, and [[PARENT|Lucía]] reports that [[SIBLING|Valentina]] sometimes "traduce" for her brother when he gets frustrated trying to be understood by English-speaking adults. The family's dog, [[PET|Luna]], is mentioned frequently by [[CHILD|Teo]] in both languages ("Luna run," "Luna está durmiendo"), and clinician observed this as a reliable topic for eliciting spontaneous speech.
+
+OBSERVACIONES CONDUCTUALES / BEHAVIORAL OBSERVATIONS
+
+During both evaluation sessions, [[CHILD|Teo]] separated easily from his mother and engaged readily with toys and books. He was observed to be social but reserved with this examiner initially, warming over the course of the session, consistent with his mother's report of being "tímido con gente nueva." Attention to task was adequate for structured activities of [[KEEP|10-15 minutes]] with min-to-mod cues to maintain engagement.
+
+Interpreter [[PROVIDER|Rosa Elena Campos]] assisted with portions of the Spanish-language administration and with clarifying parent report during history-taking, particularly around idiomatic phrases [[PARENT|Lucía]] used to describe [[CHILD|Teo]]'s speech ("se le enreda la lengua," "habla como atropellado").
+
+[[CHILD|Teo]] demonstrated frequent code-switching within utterances, e.g., "I want el carro rojo," and "no me gusta that one," consistent with typical bilingual language use rather than word-finding difficulty, as he readily supplied the target word in the other language when prompted.
+
+RESULTADOS DE LAS PRUEBAS / TEST RESULTS
+
+Standardized and informal measures were administered in both English and Spanish where appropriate, with Spanish administration prioritized given [[CHILD|Teo]]'s home language dominance. Conceptual scoring was used where available to account for his bilingual lexicon.
+
+| Measure | Date Administered | Domain | Standard Score | 95% CI | Percentile |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] Auditory Comprehension | [[DATE|August 18, 2025]] | Receptive | [[KEEP|82]] | [[KEEP|76-88]] | [[KEEP|12th]] |
+| [[KEEP|PLS-5 Spanish]] Expressive Communication | [[DATE|August 18, 2025]] | Expressive | [[KEEP|71]] | [[KEEP|64-78]] | [[KEEP|3rd]] |
+| [[KEEP|Bilingual English-Spanish Assessment (BESA)]] Morphosyntax Spanish | [[DATE|August 25, 2025]] | Expressive | [[KEEP|78]] | [[KEEP|70-86]] | [[KEEP|7th]] |
+| [[KEEP|BESA]] Morphosyntax English | [[DATE|August 25, 2025]] | Expressive | [[KEEP|85]] | [[KEEP|77-93]] | [[KEEP|16th]] |
+| [[KEEP|BESA]] Semantics (Combined) | [[DATE|August 25, 2025]] | Receptive/Expressive | [[KEEP|88]] | [[KEEP|80-96]] | [[KEEP|21st]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] Spanish-adapted | [[DATE|August 25, 2025]] | Speech Sound Production | [[KEEP|74]] | [[KEEP|68-80]] | [[KEEP|4th]] |
+| [[KEEP|Oral Mechanism Exam]] | [[DATE|August 18, 2025]] | Structural/Functional | Within normal limits | — | — |
+
+Speech Sound Production: On the [[KEEP|GFTA-3]] Spanish-adapted protocol, [[CHILD|Teo]] produced several phonological patterns consistent with his dialectal and bilingual background, including final consonant deletion in both languages (e.g., "sol" → [[KEEP|[so]]], "cat" → [[KEEP|[kæ]]]) and fronting of /ɾ/ in medial position (e.g., "carro" produced as [[KEEP|[kado]]]). He correctly produced /k/ in isolation and in [[KEEP|8/10]] trials of word-initial position but omitted it in [[KEEP|3 of 5]] trials of word-final position. Stimulability testing showed [[CHILD|Teo]] could approximate target sounds with mod cues, improving to [[KEEP|7/10]] accuracy for /ɾ/ with modeling and tactile cueing.
+
+During connected speech sampling using the [[KEEP|SALT]] protocol, [[CHILD|Teo]]'s mean length of utterance was [[KEEP|3.2 morphemes]] in Spanish and [[KEEP|2.9 morphemes]] in English, both below age expectations. Several utterances were coded [[KEEP|[EW]]] for word-level errors not attributable to dialectal variation. When asked to name a picture of a dog, he said "[[PET|Luna]] bark," substituting his own pet's name for the target word, which was noted but not scored as an error given the clear semantic association.
+
+Receptive and Expressive Vocabulary: On informal probes, [[CHILD|Teo]] demonstrated a vocabulary that, when combined across both languages (conceptual scoring), fell closer to age expectations than when either language was scored in isolation, a pattern consistent with typical bilingual development rather than a primary language disorder.
+
+Oral-Motor and Feeding: Oral mechanism examination was within normal limits for structure and function. No feeding or swallowing concerns were reported or observed.
+
+IMPRESIONES CLÍNICAS / CLINICAL IMPRESSIONS
+
+[[CHILD|Teo]] presents with a speech sound disorder and expressive language delay that are evident across both of his languages, which supports a true, underlying disorder rather than a difference attributable solely to bilingualism or dialectal variation. His receptive language skills are a relative strength, falling within the low-average to below-average range, while expressive language and speech sound production fall below age expectations in both English and Spanish.
+
+Diagnosis: Speech Sound Disorder ([[KEEP|ICD-10 F80.0]]) and Language Disorder, Expressive-Receptive ([[KEEP|ICD-10 F80.2]]).
+
+[[CHILD|Teo]]'s pattern of code-switching, observed throughout testing and reported at home, is consistent with typical bilingual language use and should not be targeted for reduction; rather, it reflects appropriate cross-linguistic flexibility given his dual-language environment. His difficulties are best explained by a disorder affecting both of his languages concurrently.
+
+RECOMENDACIONES / RECOMMENDATIONS
+
+1. [[CHILD|Teo]] qualifies for speech-language intervention services under North Carolina's Infant-Toddler Program criteria and should be referred to [[AGENCY|Piedmont CDSA]] for IFSP development; this report should be shared with service coordinator [[PROVIDER|Denise Walker]] to support [[KEEP|IFSP Outcome 2]] (expressive communication) and [[KEEP|IFSP Outcome 3]] (speech sound production).
+
+2. Individual speech-language therapy is recommended [[KEEP|2x/week]] for [[KEEP|30-minute]] sessions, ideally delivered by a bilingual provider or with consistent interpreter support, using therapeutic approaches such as [[KEEP|Cycles]] phonological approach for speech sound targets and a [[KEEP|Hanen]]-informed coaching model to support [[PARENT|Lucía]] and [[FAMILY|Rosa]] in facilitating language at home.
+
+3. Given [[PARENT|Lucía]]'s demanding work schedule between [[ORG|Carolina Suites Hotel]] and her weekend shifts through [[ORG|ABC]], therapy scheduling flexibility should be prioritized; evening or Saturday morning slots were requested by the family. A phone consultation is recommended for [[TIME|6:30 PM]] on weekdays, when [[PARENT|Lucía]] is awake before her night shift begins at [[TIME|11:00 PM]].
+
+4. Continued bilingual language exposure at home is strongly encouraged. The family should not reduce Spanish input in an attempt to "help" English development; research supports continued dual-language exposure.
+
+5. Classroom-based support at [[DAYCARE|Little Sprouts Head Start]] is recommended; consultation with Ms. [[TEACHER|Amanda Lopez]] regarding visual supports and extended processing time would be beneficial.
+
+6. Re-evaluation of speech sound production and expressive language is recommended in approximately [[KEEP|6 months]], or sooner if significant progress is noted, to determine continued eligibility and adjust goals.
+
+7. A referral to audiology for a follow-up hearing evaluation is recommended given the history of one episode of otitis media, to rule out any subtle hearing-related contribution, though no current concerns were raised.
+
+8. Family was provided with bilingual home-practice materials and encouraged to continue narrating daily routines in Spanish, incorporating [[CHILD|Teo]]'s interest in [[PET|Luna]] as a motivating topic for language practice.
+
+This evaluation and report were completed by [[PROVIDER|Jennifer Suárez-Hall]], M.S., CCC-SLP, of [[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]], with interpretation support from [[PROVIDER|Rosa Elena Campos]]. Please direct questions to the clinician at [[PHONE|(336) 555-0177]] or via the practice's secure portal. A copy of this report has been forwarded to [[PROVIDER|Dr. Anita Patel]] at [[HOSPITAL|Guilford Family Health Center]] and to service coordinator [[PROVIDER|Denise Walker]] at [[AGENCY|Piedmont CDSA]] with family consent, documented on [[DATE|August 18, 2025]].

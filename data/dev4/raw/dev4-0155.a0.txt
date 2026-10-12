@@ -1,0 +1,77 @@
+Nombre del niño: [[CHILD|Mateo Hernández Ramírez]]
+Fecha de nacimiento: [[DATE|14 de febrero de 2023]]
+Edad actual: [[KEEP|2;8]]
+Número de expediente: [[ID|CDSA-00482913]]
+Número de Medicaid: [[MEDICAID_ID|N847293015A]]
+Madre: [[PARENT|Lucía Rodríguez]]
+Padre: [[PARENT|Carlos Hernández]]
+Dirección: [[PLACE|214 Calle Pine, Burlington, Condado de Alamance]]
+Teléfono: [[PHONE|(336) 555-0147]]
+Coordinadora de servicios: [[PROVIDER|María Torres]]
+Oficina CDSA: [[AGENCY|Piedmont CDSA, oficina del Condado de Alamance]]
+Terapeuta del habla y lenguaje bilingüe: [[PROVIDER|Jennifer Smith, M.S., CCC-SLP]]
+Agencia de terapia: [[EMPLOYER|Carolina Pediatric Therapy Services]]
+Fecha de la reunión del IFSP inicial: [[DATE|3 de marzo de 2026]]
+Fecha de esta revisión: [[DATE|2 de octubre de 2026]]
+
+RESUMEN DE LA HISTORIA
+
+[[CHILD|Mateo]] nació a las [[KEEP|37 semanas]] de gestación, con un peso de [[KEEP|2,680 gramos]] y un puntaje de Apgar de [[KEEP|8/9]]. Su mamá, [[PARENT|Lucía Rodríguez]], reporta que el embarazo fue sin complicaciones mayores. [[CHILD|Mateo]] vive con sus padres y su hermana mayor, [[SIBLING|Rosa Hernández Ramírez]], de [[KEEP|5 años]], en una casa alquilada en [[PLACE|Burlington]]. [[SIBLING|Rosa]] asiste a la escuela primaria del área y, según la familia, le encanta jugar con [[CHILD|Mateo]] y "traducirle" lo que él quiere decir.
+
+La familia es bilingüe: en casa se habla principalmente español, aunque [[PARENT|Carlos Hernández]] también usa frases en inglés cuando está presente la [[FAMILY|abuela paterna, Elena Hernández]], quien vive con ellos dos veces por semana para ayudar con el cuidado de los niños.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA
+
+Durante la entrevista de revisión, [[PARENT|Lucía Rodríguez]] expresó, en sus propias palabras: "Mateo todavía no dice casi nada, solo señala lo que quiere. Cuando está frustrado grita o jala mi mano hacia el refrigerador." [[PARENT|Carlos Hernández]] agregó: "En la guardería dicen que él los entiende, pero no habla con los otros niños."
+
+Las prioridades que la familia identificó para esta revisión son:
+1. Que [[CHILD|Mateo]] use más palabras para pedir comida y juguetes en casa.
+2. Que pueda comunicarse con su hermana [[SIBLING|Rosa]] sin frustrarse.
+3. Que la maestra en la guardería entienda mejor sus intentos de comunicación.
+
+RUTINAS DIARIAS
+
+[[PARENT|Lucía Rodríguez]] trabaja en el restaurante El Rancho Mexicano, en el turno de la tarde, mientras que [[PARENT|Carlos Hernández]] trabaja para Pinnacle Construction Company como ayudante de construcción. Debido a estos horarios, [[CHILD|Mateo]] pasa las mañanas con su abuela [[FAMILY|Elena Hernández]] y asiste al Centro de Desarrollo Infantil Little Steps las tardes de lunes a viernes, en el salón de las Mariposas, a cargo de la maestra [[TEACHER|Ms. López]]. La [[TEACHER|maestra López]] reporta que [[CHILD|Mateo]] sigue instrucciones simples en inglés y en español, pero rara vez inicia comunicación verbal con sus compañeros, entre ellos [[PEER|Daniela]] y [[PEER|Josué]].
+
+La familia también mencionó que la tía materna, [[FAMILY|Sol Martínez]], cuida a [[CHILD|Mateo]] los fines de semana y ha notado que él se comunica mejor con gestos cuando está cansado. [[FAMILY|Sol Martínez]] trabaja en Sparkle Clean Services, una compañía de limpieza, en turnos nocturnos, por lo que su disponibilidad varía.
+
+La rutina típica incluye desayuno a las [[TIME|7:00 a.m.]], llegada a la guardería a las [[TIME|8:30 a.m.]], y cena familiar alrededor de las [[TIME|6:30 p.m.]], momento que la familia identificó como una buena oportunidad para practicar vocabulario de comida.
+
+OTRAS AGENCIAS Y PROGRAMAS INVOLUCRADOS
+
+La familia recibe apoyo del Departamento de Servicios Sociales del Condado de Alamance ([[AGENCY|DSS del Condado de Alamance]]) para asistencia con vivienda, y está inscrita en el programa WIC de la [[AGENCY|Oficina WIC del Condado de Alamance]]. [[PARENT|Lucía Rodríguez]] también mencionó que está en lista de espera para el programa [[AGENCY|Early Head Start de Alamance]], con la esperanza de que [[CHILD|Mateo]] pueda recibir más horas de intervención temprana estructurada. La coordinadora, [[PROVIDER|María Torres]], confirmó que la [[AGENCY|Partnership for Children del Condado de Alamance]] también ofrece un programa de visitas domiciliarias que la familia está considerando.
+
+EVALUACIÓN Y DIAGNÓSTICO
+
+Se administró el [[KEEP|PLS-5]] (Preschool Language Scale-5) en español, con los siguientes resultados: Comprensión Auditiva, puntaje estándar de [[KEEP|73]] (percentil [[KEEP|4]]), rango de confianza [[KEEP|68-78]]; Expresión Verbal, puntaje estándar de [[KEEP|65]] (percentil [[KEEP|1]]), rango de confianza [[KEEP|60-70]]. La edad equivalente para expresión verbal fue de [[KEEP|14 meses]], comparada con su edad cronológica de [[KEEP|2;8]]. También se observó el uso espontáneo de vocabulario: [[CHILD|Mateo]] produjo de forma consistente las palabras [[KEEP|"agua"]], [[KEEP|"mamá"]] y [[KEEP|"más"]], pero omitió consonantes finales, por ejemplo produciendo [[KEEP|"aba"]] en vez de [[KEEP|"agua"]].
+
+El diagnóstico actual es trastorno mixto del lenguaje receptivo-expresivo, código [[KEEP|F80.2]]. Los servicios se facturaron bajo los códigos [[KEEP|92523]] (evaluación de habla y lenguaje) y [[KEEP|92507]] (tratamiento individual de habla, lenguaje o audición), con el modificador [[KEEP|GN]] correspondiente a servicios de terapia del habla-lenguaje.
+
+RESULTADOS (OUTCOMES) Y ESTRATEGIAS
+
+Resultado 1: [[CHILD|Mateo]] usará al menos [[KEEP|10 palabras nuevas]] de forma espontánea en el hogar y en la guardería para pedir objetos preferidos, con [[KEEP|80%]] de precisión a lo largo de dos sesiones consecutivas.
+Estrategias: Modelado de lenguaje aumentado durante rutinas de comida y juego; uso de la técnica [[KEEP|Hanen]] "It Takes Two to Talk" para guiar a los padres en la expansión de los enunciados de [[CHILD|Mateo]]; la [[TEACHER|maestra López]] implementará modelado paralelo durante actividades de merienda en el salón de las Mariposas.
+
+Resultado 2: [[CHILD|Mateo]] combinará dos palabras (por ejemplo, [[KEEP|"más agua"]]) en al menos [[KEEP|8 de 10]] oportunidades observadas durante la sesión de terapia.
+Estrategias: Uso del enfoque [[KEEP|PROMPT]] para apoyar la producción de secuencias de dos palabras; práctica de rutinas de juego con [[SIBLING|Rosa]] como modelo de lenguaje entre hermanos, bajo supervisión de los padres.
+
+Resultado 3: La familia reportará mayor confianza al interpretar las señales comunicativas de [[CHILD|Mateo]] en al menos [[KEEP|3 de 5]] rutinas diarias identificadas (comida, baño, juego).
+Estrategias: Entrenamiento a los padres sobre espera estructurada (tiempo de espera de [[KEEP|5 segundos]]) y uso de claves visuales simples; coordinación con [[FAMILY|Sol Martínez]] para mantener consistencia los fines de semana.
+
+Durante la sesión de revisión, [[CHILD|Mateo]] logró producir el fonema [[KEEP|/m/]] de forma correcta en posición inicial en [[KEEP|9 de 10]] intentos, pero continuó omitiendo el fonema [[KEEP|/k/]] en posición final, sustituyéndolo por una oclusiva glótica [[KEEP|[ʔ]]]. Se usaron niveles de apoyo [[KEEP|mod cues]] y, en algunos casos, [[KEEP|max cues]] para elicitar producciones de dos palabras.
+
+FECHAS DE SERVICIO
+
+Las sesiones de terapia del habla y lenguaje se proveen dos veces por semana, generalmente los [[DATE|lunes]] y [[DATE|jueves]], en el hogar de la familia. Las últimas sesiones documentadas fueron el [[DATE|21 de septiembre de 2026]], el [[DATE|24 de septiembre de 2026]] y el [[DATE|28 de septiembre de 2026]]. La próxima revisión semestral del IFSP está programada para el [[DATE|15 de marzo de 2027]].
+
+COORDINACIÓN Y SEGUIMIENTO
+
+La coordinadora de servicios, [[PROVIDER|María Torres]], continuará comunicándose con la familia mensualmente para verificar el progreso hacia los resultados establecidos y para coordinar la solicitud al programa [[AGENCY|Early Head Start de Alamance]]. Se recomendó además una evaluación auditiva de seguimiento, ya que no se ha documentado una prueba auditiva formal desde el nacimiento. La familia fue referida al Hospital [[HOSPITAL|Alamance Regional Medical Center]] para dicha evaluación, con cita pendiente de confirmación por parte de la clínica de audiología.
+
+[[PARENT|Lucía Rodríguez]] firmó el consentimiento para continuar los servicios actuales y para compartir información con la guardería Little Steps y con la [[TEACHER|maestra López]], a fin de alinear las estrategias entre el hogar, la terapia y el salón de clases.
+
+Notas adicionales: la familia solicitó que los materiales educativos se entreguen en español, y expresó interés en recibir orientación bilingüe adicional por parte de [[PROVIDER|Jennifer Smith]] sobre el desarrollo típico del lenguaje en niños bilingües, ya que les preocupa que exponer a [[CHILD|Mateo]] a dos idiomas esté "retrasando" su habla. Se explicó a la familia, con el apoyo de materiales en español proporcionados por [[AGENCY|Piedmont CDSA]], que el bilingüismo no causa ni empeora los retrasos de lenguaje, y que las estrategias actuales apoyan el desarrollo en ambos idiomas.
+
+Firma de la terapeuta: [[PROVIDER|Jennifer Smith, M.S., CCC-SLP]]
+Fecha: [[DATE|2 de octubre de 2026]]
+Firma de la coordinadora de servicios: [[PROVIDER|María Torres]]

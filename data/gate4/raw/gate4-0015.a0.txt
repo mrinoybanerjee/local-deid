@@ -1,0 +1,25 @@
+Daily Therapy Note — Bilingual Pediatric SLP, North Carolina
+
+Pt: [[CHILD|Elena Marisol Varela]], age [[KEEP|4;2]]. DOB: [[DATE|August 9, 2022]]. DOS: [[DATE|October 11, 2026]]. Record: [[ID|SLP-604827]]. Medicaid: [[MEDICAID_ID|582641903R]]. Clinician: [[PROVIDER|Marina Celeste Prado]], CCC-SLP, [[EMPLOYER|Little Lantern Speech Services]].
+
+Session schedule:
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:10 AM]] | [[TIME|9:55 AM]] | [[SCHOOL|Clover Kite Preschool]] |
+| Wednesday | [[TIME|2:15 PM]] | [[TIME|3:00 PM]] | [[DAYCARE|Acorn Harbor Daycare]] |
+| Friday | [[TIME|10:00 AM]] | [[TIME|10:45 AM]] | [[AGENCY|Juniper Hollow CDSA]] |
+
+S: Mom [[PARENT|Nadia Varela]] attended w/ dad [[PARENT|Tomas Varela]] by phone. Home: [[PLACE|418 Willow Finch Lane]], [[PLACE|Juniper Hollow]], North Carolina, [[PLACE|27864]]. Contact: [[PHONE|919-555-0146]]; [[EMAIL|nadia.varela@example.com]]. CG portal: [[URL|https://littlelantern.example.org]].
+
+Parents described rotating jobs; workplace labels were recorded in English, then English words arranged in Spanish noun-first order. Mom listed [[ORG|Moon Basket Store]] / [[ORG|Store Moon Basket]], [[ORG|Silver Reed Restaurant]] / [[ORG|Restaurant Silver Reed]], and [[ORG|Bright Nest Cleaning Service]] / [[ORG|Cleaning Service Bright Nest]]. Dad listed [[ORG|Copper Finch Plant]] / [[ORG|Plant Copper Finch]], [[ORG|Meadow Lantern Farm]] / [[ORG|Farm Meadow Lantern]], and [[ORG|Cedar Arch Construction Company]] / [[ORG|Construction Company Cedar Arch]]. Variable shifts affect attendance b/c transportation changes weekly.
+
+Grandmother [[FAMILY|Rosa Beltran]] provides afternoon care. Sister [[SIBLING|Ines Varela]] models requests. Teacher Ms. [[TEACHER|Mara Solis]] reports improved turn-taking w/ peer [[PEER|Leo Cabrera]]. Neighbor [[PERSON|Dario Navas]] sometimes drives. Pt reportedly said, "[[PET|Churro]] run," while watching the family dog.
+
+O: Interpreter [[PROVIDER|Alma Rios]] supported CG discussion. English/Spanish play tasks used [[KEEP|Hanen]] strategies, [[KEEP|PROMPT]], and [[KEEP|Cycles]]. Pt produced [[KEEP|/k/]] in [[KEEP|"key"]] on [[KEEP|8/10]] trials w/ [[KEEP|mod cues]]; substituted [[KEEP|[w]]] during [[KEEP|"red"]]. Spanish [[KEEP|/ɾ/]] elicitation required [[KEEP|max cues]]. Requests reached [[KEEP|75%]] w/ [[KEEP|min cues]]. Sample included [[KEEP|"I want bubbles"]] and [[KEEP|[EW]]].
+
+Prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]: [[KEEP|standard score 78]], [[KEEP|7th percentile]], confidence interval [[KEEP|73-83]], age-equivalent range [[KEEP|2;6–3;0]]. Prior [[KEEP|CELF Preschool-3]] [[KEEP|Word Structure]]: [[KEEP|scaled score 5]]. Pt completed transitions on [[KEEP|3 of 5]] opportunities. Approx attention span improved w/ movement breaks.
+
+A: Functional requesting improved across languages; speech clarity remains reduced in connected speech. Performance varied by task familiarity and cue intensity. English scores require cautious interpretation given bilingual exposure. CG demonstrated strategies accurately.
+
+P: Continue [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]]. Coordinate w/ OT [[PROVIDER|Nora Valdez]], PT [[PROVIDER|Elias Moreno]], and pediatrician Dr. [[PROVIDER|Celia Duarte]] at [[HOSPITAL|Willow Lantern Children's Hospital]]. Practice targets during meals; review on [[DATE|October 25, 2026]]. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]], [[KEEP|ICD-10 F80.2]]. CG agreed to brief daily practice.

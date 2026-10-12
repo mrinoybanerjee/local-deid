@@ -1,0 +1,26 @@
++ Name: [[CHILD|Mateo Hernández Cruz]]
++ CA: [[KEEP|4;2]]
++ Context: nota de sesión diaria, terapia de lenguaje a domicilio, Charlotte, NC
+
+Resumen: Sesión de 45 minutos realizada en el hogar de la familia el [[DATE|12 de octubre de 2026]] a las [[TIME|3:30 p.m.]]. Presente la mamá [[PARENT|Lucía Rodríguez]] y la hermana mayor [[SIBLING|Sol Hernández Cruz]], de 9 años. [[CHILD|Mateo]] fue referido originalmente por la coordinadora de servicios [[PROVIDER|Ana Martínez]] de la [[AGENCY|CDSA del Condado de Mecklenburg]] tras la evaluación inicial.
+
+S: La mamá reporta que [[CHILD|Mateo]] ha estado usando la palabra objetivo "[[KEEP|sol]]" espontáneamente en casa, e incluso llama a su hermana [[SIBLING|Sol]] por error cariñoso cuando practica. También reporta que la familia recibió una carta de [[AGENCY|DSS del Condado de Mecklenburg]] confirmando la renovación de beneficios de [[AGENCY|WIC]], y que fueron referidos a [[AGENCY|Smart Start del Condado de Mecklenburg]] para apoyo adicional de desarrollo temprano. La familia vive en [[PLACE|calle Elm número 482]], [[PLACE|Charlotte]], [[PLACE|Condado de Mecklenburg]], [[PLACE|28205]].
+
+O: Se trabajaron los fonemas [[KEEP|/s/]] y [[KEEP|/l/]] en posición inicial usando el enfoque [[KEEP|PROMPT]]. Producción de la palabra objetivo "[[KEEP|sol]]" lograda con [[KEEP|claves mínimas]] en [[KEEP|8/10]] ensayos ([[KEEP|80%]]). También se trabajó la palabra "[[KEEP|luna]]" con [[KEEP|claves moderadas]] en [[KEEP|5 de 8]] intentos.
+
+Resultados administrados por [[PROVIDER|Ana Martínez]]:
+
+Fecha | Prueba | Puntaje estándar | IC 95%
+[[DATE|15 de marzo de 2026]] | [[KEEP|PLS-5]] [[KEEP|Comprensión Auditiva]] | [[KEEP|76]] | [[KEEP|70-82]]
+[[DATE|20 de septiembre de 2026]] | [[KEEP|PLS-5]] [[KEEP|Comunicación Expresiva]] | [[KEEP|81]] | [[KEEP|75-87]]
+[[DATE|20 de septiembre de 2026]] | [[KEEP|CELF-5]] [[KEEP|Percentil]] | [[KEEP|9]] | [[KEEP|4-16]]
+
+Se comparó con la evaluación previa del [[DATE|3 de marzo de 2025]] en el [[DAYCARE|Centro Infantil Pequeños Pasos]], donde la maestra [[TEACHER|Jessica Álvarez]] documentó preocupaciones similares. Su compañero de clase [[PEER|Diego]] fue mencionado como modelo de lenguaje positivo durante el juego.
+
+A: [[CHILD|Mateo]] muestra progreso consistente en fonología inicial y vocabulario funcional. Las puntuaciones reflejan mejora desde el rango [[KEEP|73-83]] documentado en marzo hasta el rango actual. Edad equivalente estimada: [[KEEP|2;6–3;0]] en comprensión auditiva, aún por debajo de su edad cronológica de [[KEEP|4;2]].
+
+P: Continuar sesiones semanales. Se coordinará con la pediatra Dra. [[PROVIDER|Carmen Ruiz]] para seguimiento médico. La mamá puede contactarme al [[PHONE|(704) 555-0198]] o por mensaje de texto al [[PHONE|704.555.0198]]. El papá, [[PARENT|Jorge Hernández]], actualmente trabaja en construcción y puede ser contactado desde Guatemala al [[PHONE|+502 5512-3344]] cuando visita a la familia extendida. La abuela [[FAMILY|Rosa Cruz]] ayuda con el cuidado los martes y jueves y su número en México es [[PHONE|011-52-55-1234-5678]]. También se dejó mensaje en la línea de la clínica [[EMPLOYER|Bilingual Speech Solutions PLLC]] al [[PHONE|980-555-2211]].
+
+Próxima cita: [[DATE|19 de octubre de 2026]] a las [[TIME|10:00 a.m.]] en la oficina de [[AGENCY|Partnership for Children del Condado de Mecklenburg]], ubicada en [[PLACE|avenida Freedom 1200]], [[PLACE|Charlotte]], NC [[PLACE|28208]]. Caso ID: [[ID|MK-2026-00471]]. Medicaid ID: [[MEDICAID_ID|987654321A]].
+
+Nota firmada por [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, patóloga del habla-lenguaje bilingüe.

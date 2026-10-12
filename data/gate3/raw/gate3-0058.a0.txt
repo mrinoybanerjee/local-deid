@@ -1,0 +1,65 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Campo	Dato
+Paciente	[[CHILD|Emilio Salcedo Rivas]]
+Edad	[[KEEP|4;2]]
+Nacimiento	[[DATE|9 de agosto de 2022]]
+Servicio	[[DATE|11 de octubre de 2026]]
+Horario	[[TIME|9:10 a. m.]] a [[TIME|9:50 a. m.]]
+Expediente	[[ID|SLP-26041-82]]
+Medicaid	[[MEDICAID_ID|739204681R]]
+Autorización	[[ID|AUT-726183]]
+Procedimiento	[[KEEP|92507]]
+Modificador	[[KEEP|GN]]
+Diagnóstico	[[KEEP|F80.2]]
+
+CONTACTOS Y ENTORNO
+
+Función	Nombre	Contacto o lugar
+Madre	[[PARENT|Mariela Rivas]]	[[PHONE|919-555-0148]]
+Padre	[[PARENT|Óscar Salcedo]]	[[EMAIL|oscar.salcedo@example.invalid]]
+Cuidadora	doña [[FAMILY|Lupe]]	[[PHONE|984-555-0162]]
+Docente	la maestra [[TEACHER|Carmen]]	[[SCHOOL|Preescolar Sendero de Luciérnagas]]
+Profesional	[[PROVIDER|Luciana Beltrán]], patóloga bilingüe del habla y lenguaje	[[EMPLOYER|Voces del Robledal Terapias]]
+Agencia	[[AGENCY|CDSA del Valle de Niebla]]	[[PLACE|Condado de Robledal]]
+Domicilio	[[PLACE|184 Calle del Helecho, Villa Encinar, 27593]]	Carolina del Norte
+
+S — INFORMACIÓN SUBJETIVA
+
+La madre acompañó al niño y describió más intentos de pedir ayuda durante las comidas. Comentó que trabaja de noche como técnica de inventario en [[ORG|Empaques Brisa de Cedro]]. El padre organiza la rutina matutina cuando ella duerme. La cuidadora usa canciones familiares para facilitar las transiciones y permite que el niño termine sus mensajes.
+
+Durante el juego, [[CHILD|Emilio]] dijo: "mi hermana [[SIBLING|Alma]] tiene mi carro". Después añadió: "el perro [[PET|Chispa]] duerme aquí". Ambas producciones fueron espontáneas. La madre informó que el niño busca conversar con su compañero [[PEER|Nicolás]], pero todavía necesita tiempo para responder cuando hay ruido.
+
+ANTECEDENTES PERTINENTES
+
+Según el resumen clínico ficticio, nació a las [[KEEP|35 semanas y 4 días]], con peso de [[KEEP|2.280 g]] y Apgar de [[KEEP|7 y 9]]. Recibió atención en la unidad neonatal de [[HOSPITAL|Sistema de Salud Faro del Pinar, campus Arroyo Claro]]. La audióloga [[PROVIDER|Renata Cevallos]] documentó respuestas auditivas funcionales en [[DATE|18 de septiembre de 2026]]. No se observaron señales de dolor durante esta sesión.
+
+O — OBSERVACIÓN Y DATOS
+
+La sesión se realizó en español, idioma principal del hogar. Se ofrecieron materiales familiares y pausas para responder. El niño participó en juego simbólico, lectura compartida y actividades de turnos. Se emplearon [[KEEP|Hanen]] y [[KEEP|estimulación focalizada]]. Los resultados anteriores sirven como referencia; hoy no se administró una prueba estandarizada.
+
+Prueba y subprueba	Fecha	Puntuación estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5]], [[KEEP|Comprensión auditiva]]	[[DATE|25 de septiembre de 2026]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-85]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5]], [[KEEP|Comunicación expresiva]]	[[DATE|25 de septiembre de 2026]]	[[KEEP|82]]	[[KEEP|12]]	[[KEEP|76-89]]	[[KEEP|2;9–3;2]]
+
+Actividad	Resultado	Nivel de ayuda
+Seguir instrucciones relacionadas	[[KEEP|8/10]]; [[KEEP|80%]]	[[KEEP|claves mínimas]]
+Pedir ayuda verbalmente	[[KEEP|3 de 5]]; [[KEEP|60%]]	[[KEEP|claves moderadas]]
+Producir [[KEEP|/k/]] en [[KEEP|"casa"]]	[[KEEP|6/10]]; [[KEEP|60%]]	[[KEEP|claves máximas]]
+Alternar turnos comunicativos	[[KEEP|7/10]]; [[KEEP|70%]]	[[KEEP|claves mínimas]]
+
+Se registraron [[KEEP|"yo quiero más"]] y [[KEEP|"ayuda, por favor"]] después de una pausa. La producción [[KEEP|"yo tiene carro"]] recibió el código SALT [[KEEP|[EW]]]. Se observó sustitución de [[KEEP|/k/]] por [[KEEP|[t]]] en palabras nuevas. El niño aceptó repetir cuando la actividad conservó un propósito de juego.
+
+A — ANÁLISIS CLÍNICO
+
+El niño mostró mayor iniciativa para pedir objetos y compartir información familiar. La comprensión mejoró cuando las instrucciones se relacionaron con acciones visibles. Las dificultades expresivas todavía afectan la organización de frases y la precisión de sonidos. Los datos de hoy apoyan mantener los objetivos actuales. La atención fluctuó durante la lectura, pero mejoró al permitir movimiento entre páginas. La participación familiar favoreció oportunidades de comunicación espontánea.
+
+P — PLAN
+
+Continuar el objetivo [[KEEP|2]] del [[KEEP|IFSP]] archivado como referencia funcional. Practicar peticiones durante meriendas y juegos. La madre recibió ejemplos en español y demostró cómo esperar antes de ayudar. Se acordó registrar expresiones espontáneas sin exigir repeticiones constantes.
+
+Servicio	Frecuencia	Próxima fecha	Hora
+Terapia individual	Semanal	[[DATE|18 de octubre de 2026]]	[[TIME|9:10 a. m.]]
+Consulta docente	Mensual	[[DATE|22 de octubre de 2026]]	[[TIME|1:30 p. m.]]
+
+Firma: [[PROVIDER|Luciana Beltrán]], patóloga del habla y lenguaje.

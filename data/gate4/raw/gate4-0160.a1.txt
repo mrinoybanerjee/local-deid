@@ -1,0 +1,145 @@
+Document Type: North Carolina Infant-Toddler Program IFSP Review
+Record Status: Fictional training document; all case details are synthetic
+Child: [[CHILD|Julián Elian Salcedo]]
+Preferred Name: [[CHILD|Juli]]
+Date of Birth: [[DATE|July 10, 2024]]
+Age at Review: [[KEEP|26 months]]
+Review Date: [[DATE|September 18, 2026]]
+Initial IFSP Date: [[DATE|September 4, 2026]]
+Evaluation Date: [[DATE|August 28, 2026]]
+Record Number: [[ID|ITP-260918-0472]]
+Medicaid Member ID: [[MEDICAID_ID|918263740Q]]
+Service Authorization: [[ID|AUTH-SLP-260921-683]]
+Parents: [[PARENT|Mariela Salcedo]] and [[PARENT|Esteban Salcedo]]
+Home Address: [[PLACE|482 Willow Lantern Lane, Apt 3B, Cedarbend, NC 27906]]
+County: [[PLACE|Larkwater County]]
+Primary Phone: [[PHONE|252-555-0148]]
+Alternate Phone: [[PHONE|252-555-0173]]
+Parent Email: [[EMAIL|mariela.salcedo@example.com]]
+Home Languages: Spanish and English
+Service Coordinator: [[PROVIDER|Dana Celeste Mercer]]
+CDSA Office: [[AGENCY|Larkwater Coastal CDSA]]
+CDSA Phone: [[PHONE|252-555-0116]]
+CDSA Website: [[URL|https://larkwatercdsa.example]]
+Review Clinician: [[PROVIDER|Isabel Maren Varela]], MA, CCC-SLP
+Clinician Role: Bilingual pediatric speech-language pathologist
+Clinician Employer: [[EMPLOYER|Puente Pequeño Pediatric Therapy]]
+Clinician Email: [[EMAIL|isabel.varela@puentepequeno.example]]
+Service Period: [[DATE|September 21, 2026]] through [[DATE|December 18, 2026]]
+
+Información familiar / People and supports
+
+I completed this review with both parents at the family home. Spanish supported the discussion of family priorities; English supported coordination with daycare. The family received explanations in both languages and requested a bilingual summary.
+
+[[CHILD|Julián]] lives with his parents and his sister, [[SIBLING|Alma Salcedo]], age [[KEEP|6 years]]. His maternal grandmother, [[FAMILY|Rosa Belén Cifuentes]], provides afternoon care. His aunt, [[FAMILY|Nadia Cifuentes]], helps with transportation when work shifts overlap. The family dog, [[PET|Nube]], often joins floor play.
+
+The father works at [[ORG|Harbor Lantern Packaging]]. The mother works at [[ORG|Cedar Basket Market]]. Their schedules vary, so the family prefers reminders by text and written practice ideas that any caregiver can use. No employer contact is authorized.
+
+The grandmother previously lived at [[PLACE|Casa 14, Calle del Naranjal, Aldea Las Brisitas, Santa Lucera]], Guatemala. The family uses video calls to maintain relationships there. During calls, relatives speak Spanish and wait for the child to respond with gestures, sounds, or words.
+
+The family identifies shared meals, music, and helping one another as strengths. Both parents demonstrated patient waiting and noticed small communication attempts. “En nuestra casa hablamos los dos idiomas; queremos que él pueda participar con todos,” the mother explained.
+
+Preocupaciones y prioridades / Family voice
+
+The mother stated, “Yo sé muchas veces lo que quiere, pero cuando estoy cocinando no puedo adivinar todo. Quiero que me pida ayuda sin llorar.” The father added, “Cuando llego del trabajo, quiero entender qué hizo durante el día, aunque sea con una palabra y una seña.”
+
+The parents prioritize requesting help, joining play, and communicating during meals. They do not want Spanish removed from home routines. “No queremos escoger un idioma y perder el otro,” the father said. We discussed accepting meaningful communication in either language and responding to the message.
+
+The grandmother described transitions as difficult: “Si cambiamos de actividad muy rápido, se tira al piso. Si le enseño lo que sigue, entiende mejor.” The family wants a predictable way to move from play to meals and from home to daycare.
+
+The sister wants shared play without taking every toy away to obtain a response. She stated, “Quiero que juegue conmigo y que me diga cuándo le toca.” Adults will supervise practice so that sibling play remains enjoyable.
+
+The family also requested support with unfamiliar listeners. The mother said, “Conmigo habla más; con otras personas se queda mirando.” We agreed to build participation through familiar routines before increasing demands in larger groups.
+
+Historia y evaluación / Clinical review
+
+The pediatrician, Dr. [[PROVIDER|Camila Renée Basto]], referred the family after concerns about expressive communication. Parent report describes birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.08 kg]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. These details came from the family’s fictional intake record.
+
+The family reported no recent loss of skills. Hearing follow-up remains scheduled for [[DATE|October 2, 2026]] at [[HOSPITAL|Cedarbend Children’s Hearing Hospital]]. Current observations cannot establish hearing status. The coordinator will request the report after the family provides consent.
+
+The bilingual evaluation used [[KEEP|PLS-5 Spanish]], caregiver interview, play observation, and a language sample. Recorded [[KEEP|Auditory Comprehension]] standard score was [[KEEP|89]], percentile [[KEEP|23]], with a [[KEEP|90%]] confidence interval of [[KEEP|83–96]]. Recorded [[KEEP|Expressive Communication]] standard score was [[KEEP|75]], percentile [[KEEP|5]], with a [[KEEP|90%]] confidence interval of [[KEEP|70–82]].
+
+The [[KEEP|Total Language]] standard score was [[KEEP|80]], percentile [[KEEP|9]], with a [[KEEP|90%]] confidence interval of [[KEEP|74–87]]. The recorded [[KEEP|Expressive Communication]] age equivalent was [[KEEP|1;6]]. Scores support the discussion but do not replace evidence from daily participation.
+
+During this review, [[CHILD|Juli]] followed familiar directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He requested an item or action in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Spontaneous productions included [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"up"]], and [[KEEP|"no cabe"]].
+
+He also said “[[PET|Nube]] ven” while pointing toward the doorway. That utterance showed a meaningful attempt to direct another participant. Speech included [ [KEEP|w] ]-like movement in an English word; formal phonetic notation was [[KEEP|[w]]]. Production of [[KEEP|/k/]] and [[KEEP|/ɾ/]] was inconsistent in this brief sample. No sound-specific outcome was added.
+
+A sample coded with [[KEEP|SALT]] included [[KEEP|[EW]]] for an unexplained word attempt. Interpretation considered both languages, the activity, and adult familiarity. The working service diagnosis is [[KEEP|F80.2]]. Treatment billing will use [[KEEP|92507]] with modifier [[KEEP|GN]] when applicable.
+
+Rutinas diarias / Participation at home and daycare
+
+Morning begins around [[TIME|6:45 AM]]. The mother offers breakfast while the father prepares for work. [[CHILD|Julián]] chooses between two familiar foods by reaching or pointing. When adults move quickly, he may cry before they notice his request. A short pause and visible choices helped during observation.
+
+At dressing, he brings shoes to an adult but rarely requests assistance. The family will keep the needed item visible, acknowledge his attempt, and provide help promptly. Practice must not delay leaving home or turn a necessary task into repeated testing.
+
+He attends [[DAYCARE|Little Lantern Grove Daycare]] on weekdays. Lead teacher Ms. [[TEACHER|Beatriz Lema]] and classroom assistant Mr. [[TEACHER|Owen Pell]] report stronger participation during songs than during free play. Peer [[PEER|Mila Corven]] offers pretend food; peer [[PEER|Theo Arlen]] shares rolling toys.
+
+During lunch, the child sometimes leaves the table when a container is difficult to open. Adults will pair an open-hand gesture with [[KEEP|"help"]] or [[KEEP|"ayuda"]], then respond to any clear attempt. Meals remain opportunities for eating and connection.
+
+The afternoon routine includes grandmother care, outdoor movement, and a quiet book before dinner. At approximately [[TIME|7:15 PM]], the family begins bath and bedtime activities. Water play supports turn-taking, but ending the bath is difficult without advance notice.
+
+Otras agencias / Community participation
+
+The family receives nutrition support through [[AGENCY|Larkwater Family WIC Office]]. The coordinator will help align appointments so that service visits do not repeatedly interrupt meals or transportation arrangements.
+
+The family attends a bilingual play circle at [[AGENCY|Cedarbend Smart Start Partnership]]. Facilitator [[PERSON|Elena Paz Montoro]] provides songs, books, and open play. The mother values this group because caregivers can participate in Spanish without translating every interaction.
+
+On Saturdays, the family visits [[SCHOOL|Willow Lantern Community Library]] for its family story program. Program host [[PERSON|Graham Solis]] welcomes movement and allows children to observe before joining. The family wants the child to stay for one short story and one song.
+
+Occupational therapist [[PROVIDER|Tessa Mirel Boone]], OTR/L, addresses participation in dressing and meals. Physical therapist [[PROVIDER|Adrian Lucero Finch]], PT, DPT, reviews balance and access to playground activities. Interpreter [[PROVIDER|Paula Inés Roldán]] supports visits conducted by providers who do not speak Spanish.
+
+Resultados funcionales / Outcomes and strategies
+
+Outcome [[KEEP|1]]: During meals and play, [[CHILD|Julián]] will communicate requests for items, actions, or help using gestures, words, or combined forms.
+
+The family selected a criterion of [[KEEP|4 of 5]] natural opportunities across two familiar routines. Adults will document examples rather than create extra demands. Target words include [[KEEP|"más"]], [[KEEP|"abre"]], [[KEEP|"help"]], and [[KEEP|"otra vez"]].
+
+We will use [[KEEP|enhanced milieu teaching]] and [[KEEP|caregiver coaching]]. Adults will follow his interest, pause briefly, offer an accessible model, and respond to the attempt. Start with [[KEEP|mod cues]] and reduce support toward [[KEEP|min cues]] as participation improves.
+
+Outcome [[KEEP|2]]: During shared play, the child will initiate or continue an exchange with a caregiver, sibling, or peer.
+
+The criterion is [[KEEP|3 of 5]] observed opportunities during a familiar play activity. Strategies include rolling a ball, feeding toy animals, and taking turns with a simple vehicle ramp. Adults will accept a look, gesture, sound, or word as a turn.
+
+Targets include [[KEEP|"mi turno"]], [[KEEP|"go"]], and [[KEEP|"mira"]]. The clinician will use [[KEEP|Hanen]] strategies to help adults notice and extend communication. Adults will avoid requiring repetition before every turn. The sister may participate when she chooses, with adult support.
+
+Outcome [[KEEP|3]]: During routine changes, the child will communicate readiness, a need for help, or a request for a brief pause.
+
+The family selected [[KEEP|80%]] successful participation across recorded transitions. A successful transition includes access to communication and adult support; crying alone does not indicate failure. Adults will show the next activity, describe it briefly, and allow time to respond.
+
+Targets include [[KEEP|"terminé"]], [[KEEP|"wait"]], and [[KEEP|"vamos"]]. Pictures will show familiar activities. They are visual supports within [[KEEP|total communication]], rather than a requirement to use [[KEEP|PECS]]. Begin with [[KEEP|max cues]] when needed and reduce assistance gradually.
+
+Outcome [[KEEP|4]]: During books and community songs, the child will join a shared activity through looking, pointing, movement, sounds, or words.
+
+The criterion is participation in [[KEEP|3 of 4]] opportunities within one short activity. We will use [[KEEP|dialogic reading]] with familiar pictures and predictable pauses. Targets include [[KEEP|"otra página"]], [[KEEP|"all done"]], and [[KEEP|"aquí"]].
+
+The family may leave or shorten a group activity when participation becomes difficult. Community practice will follow the child’s interest and regulation. Progress will reflect useful engagement, not quiet sitting.
+
+Calendario de sesiones / Planned service schedule
+
+| Service | Day | Start | Stop | Location |
+|---|---|---|---|---|
+| Bilingual speech-language therapy | Monday | [[TIME|9:00 AM]] | [[TIME|10:00 AM]] | Home: [[PLACE|482 Willow Lantern Lane, Apt 3B, Cedarbend, NC 27906]] |
+| Occupational therapy | Wednesday | [[TIME|3:15 PM]] | [[TIME|4:00 PM]] | [[DAYCARE|Little Lantern Grove Daycare]] |
+| Physical therapy consultation, monthly | Thursday | [[TIME|10:30 AM]] | [[TIME|11:00 AM]] | [[DAYCARE|Little Lantern Grove Daycare]] |
+| Service coordination, monthly | Friday | [[TIME|12:15 PM]] | [[TIME|12:45 PM]] | Parent telephone visit |
+| Supported community observation, once | Saturday | [[TIME|10:00 AM]] | [[TIME|10:30 AM]] | [[SCHOOL|Willow Lantern Community Library]] |
+
+Speech-language and occupational therapy begin [[DATE|September 21, 2026]] and [[DATE|September 23, 2026]], respectively. Physical therapy consultation begins [[DATE|September 24, 2026]]. The community observation is planned for [[DATE|October 10, 2026]], with family agreement.
+
+Weekly speech visits last 60 minutes, including caregiver practice and planning. Occupational therapy visits last 45 minutes. The team will confirm monthly consultation dates individually. Travel problems or illness may require rescheduling within the authorized service period.
+
+Coordinación, seguimiento y acuerdo
+
+[[PROVIDER|Dana Mercer]] will coordinate provider updates and obtain the hearing report. [[PROVIDER|Paula Roldán]] will interpret the first occupational therapy visit if the family requests Spanish support. Providers will send brief summaries using the family’s preferred language and agreed contact method.
+
+The parents will record one useful example from a routine when practical. No daily worksheet is required. The team will review participation, cueing needs, and family burden before adding strategies.
+
+At the next review on [[DATE|December 11, 2026]], the team will compare routine examples with the criteria for each outcome. The mother summarized her agreement: “Sí, esto nos sirve. Podemos practicar cuando estamos viviendo el día, sin hacer otra tarea grande.”
+
+I reviewed the plan aloud in Spanish and English. Both parents reported that the outcomes reflect their priorities. They requested copies for home and daycare, with consent limited to the providers and classroom staff named in this document.
+
+Electronically signed: [[PROVIDER|Isabel Maren Varela]], MA, CCC-SLP
+Employer: [[EMPLOYER|Puente Pequeño Pediatric Therapy]]
+Signature Date: [[DATE|September 18, 2026]]
+Signature Time: [[TIME|4:42 PM]]

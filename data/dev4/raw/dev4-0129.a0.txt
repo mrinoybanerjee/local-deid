@@ -1,0 +1,21 @@
+Client Name: [[CHILD|Mateo Fernández]]
+DOB: [[DATE|04/12/2022]]
+Medicaid ID: [[MEDICAID_ID|NC847102936B]]
+Record ID: [[ID|SLP-00417]]
+Service Date: [[DATE|October 9, 2026]]
+Clinician: [[PROVIDER|Rosa Valdez, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Pediatric Speech & Language Partners]]
+Interpreter: [[PROVIDER|Ana Beltrán]]
+
+Session Schedule:
+Day | Start | Stop | Location
+Monday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[HOSPITAL|Atrium Health Levine Children's Hospital, Pediatric Rehab Campus]]
+Thursday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[DAYCARE|Little Sprouts Daycare]]
+
+S: Su mamá [[PARENT|Lucía Fernández]] reports [[CHILD|Mateo]] has been "hablando más" at home. He lives at [[PLACE|214 Birchwood Lane, Charlotte, NC 28205]]; family's hometown village is [[PLACE|San Juan Ostuncalco, Quetzaltenango]], Guatemala. Abuela [[FAMILY|Carmen Pérez]] watches him after school. [[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Daycare]] in [[TEACHER|Ms. Lopez]]'s room; teacher [[TEACHER|Marisol Lopez]] notes he plays well with classmate [[PEER|Diego]] but withdraws from [[PEER|Chloe]].
+
+O: Seen for [[KEEP|CPT 92507]], [[KEEP|ICD-10 F80.1]]. [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], [[KEEP|9th percentile]]. Age equivalent [[KEEP|2;6–3;0]]. Gestational age at birth [[KEEP|34 weeks]], birth weight [[KEEP|4 lbs 6 oz]], [[KEEP|Apgar 7/9]]; followed at [[HOSPITAL|Atrium Health Levine Children's Hospital NICU]]. Also seen at [[AGENCY|Metrolina CDSA]] and referred to [[AGENCY|Carolina ENT & Audiology Associates, SouthPark Campus]]. Produced [[KEEP|/k/]] correctly [[KEEP|8/10]] trials; said "quiero [[KEEP|pelota]]" with [[KEEP|min cues]]. Target word substitution noted: he said "[[PET|Toby]] corre" for "[[PET|Toby]] runs" — [[KEEP|3 of 5]] trials correct using [[KEEP|Cycles]] approach.
+
+A: [[CHILD|Mateo]] shows steady gains per [[KEEP|Hanen]]-based coaching with [[PARENT|Lucía Fernández]]. Working toward [[KEEP|IFSP Goal 2]].
+
+P: Continue [[KEEP|PROMPT]] cueing twice weekly. Coordinate with service coordinator [[PROVIDER|Teresa Núñez]] at [[AGENCY|Smart Start of Mecklenburg County]]. Next review [[DATE|November 6, 2026]]. Contact: [[PHONE|(704) 555-0198]], [[EMAIL|rvaldez@carolinaslp.com]].

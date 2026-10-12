@@ -1,0 +1,145 @@
+carolina bilingual speech therapy, pllc
+informe de evaluación del habla y el lenguaje / speech and language evaluation report
+
+fecha de evaluación / date of evaluation: [[DATE|September 22, 2026]]
+fecha del informe / report date: [[DATE|September 29, 2026]]
+
+niño / child: [[CHILD|Mateo Hernández Cruz]]
+fecha de nacimiento / dob: [[DATE|March 3, 2022]] edad actual / current age [[KEEP|4;6]]
+expediente / record number: [[ID|MC-20269471]]
+medicaid id: [[MEDICAID_ID|998271345A]]
+género / sex: male
+idioma del hogar / home language: spanish and english, bilingual simultáneo según mamá
+
+padres / parents: [[PARENT|Lucía Hernández Cruz]] (mamá, contacto primario) y [[PARENT|Jorge Hernández]] (papá)
+domicilio / address: [[PLACE|4417 Briar Hollow Lane]], [[PLACE|Charlotte]], [[PLACE|28216]], [[PLACE|Mecklenburg County]]
+teléfono de mamá / mother's phone: [[PHONE|(704) 552-9087]]
+teléfono de papá / father's phone: [[PHONE|704-331-6690]]
+teléfono de la abuela en honduras / grandmother's phone in honduras: [[PHONE|+504 9988-4512]]
+correo electrónico / email: [[EMAIL|lucia.hcruz22@gmail.com]]
+
+evaluadora / evaluator: [[PROVIDER|Carolina Vázquez-Reyes]], m.s., ccc-slp, bilingual speech-language pathologist, licensed in north carolina
+empleadora de la evaluadora / evaluator's employer: [[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]]
+
+agencia de referencia / referring agency: [[AGENCY|Programa de Apoyo Integral para la Niñez y la Familia]] (en adelante PAINF) también conocido como el programa estatal de intervención temprana del condado de mecklenburg
+coordinadora de servicios / service coordinator: [[PROVIDER|Brenda Ingram]], PAINF
+pediatra / pediatrician: [[PROVIDER|Dr. Michael Chen]], [[HOSPITAL|Lakeside Pediatric Associates]]
+
+motivo de la referencia / reason for referral
+
+[[CHILD|mateo]] fue referido por PAINF y por su pediatra el [[DATE|august 12, 2026]] por preocupaciones de lenguaje expresivo y claridad del habla que su mamá [[PARENT|lucía]] notó desde que tenía como dos años pero que se hicieron más obvias cuando entró a daycare porque los maestros no le entendían casi nada y eso le frustraba mucho al niño y empezó a tener rabietas cuando no lo entendían la mamá reporta que en casa ella y su esposo [[PARENT|jorge]] le entienden casi todo porque están acostumbrados a su manera de hablar pero afuera de la casa es diferente la maestra de daycare [[TEACHER|ms jennifer lopez]] en [[DAYCARE|little sprouts early learning center]] mandó una nota a casa en [[DATE|july 2026]] pidiendo evaluación porque dice que [[CHILD|mateo]] se aísla un poco de los otros niños cuando no lo entienden y prefiere jugar solo con los carritos en la esquina del salón
+
+esta evaluación bilingüe se hizo para determinar los niveles actuales de habla y lenguaje de [[CHILD|mateo]] en los dos idiomas español e inglés y para ver si cumple criterios para servicios de intervención temprana bajo la parte c y para dar recomendaciones de tratamiento
+
+antecedentes de nacimiento y médicos / birth and medical history
+
+[[CHILD|mateo]] nació a las [[KEEP|38 semanas]] de gestación por cesárea en [[HOSPITAL|carolinas medical center]] el [[DATE|march 3, 2022]] peso al nacer [[KEEP|6 lb 11 oz]] apgar [[KEEP|8 y 9]] no hubo complicaciones en el parto según mamá aunque hubo un susto porque el cordón estaba un poco enredado pero resolvió solo sin intervención la mamá reporta embarazo normal con cuidado prenatal regular en una clínica en [[PLACE|gastonia]]
+
+historia médica es generalmente sin complicaciones mayores tuvo varias infecciones de oído entre los [[KEEP|8 meses]] y los [[KEEP|2 años]] de edad con tubos de ventilación puestos a los [[KEEP|18 meses]] por el otorrino [[PROVIDER|dr raymond kim]] en [[HOSPITAL|carolina ear nose and throat]] desde que le pusieron los tubos mamá dice que empezó a responder mejor a su nombre y a sonidos pero el habla siguió siendo difícil de entender no tiene diagnóstico de autismo aunque fue referido para evaluación de desarrollo general por su pediatra [[PROVIDER|dr chen]] esa evaluación está pendiente
+
+no toma medicamentos actualmente visión normal según último chequeo pediátrico el [[DATE|june 4, 2026]] audición normal confirmada por audiología el [[DATE|february 15, 2026]] en [[HOSPITAL|atrium health audiology]] resultados dentro de límites normales bilateral
+
+historia familiar y de lenguaje / family and language history
+
+la familia es de origen hondureño por el lado de mamá y mexicano por el lado de papá en casa se habla principalmente español la mamá [[PARENT|lucía]] trabaja en [[ORG|compass home health services]] como asistente administrativa y habla inglés en el trabajo pero en casa casi todo es en español el papá [[PARENT|jorge]] trabaja en construcción y también habla mayormente español con el niño aunque entiende bastante inglés
+
+mamá reporta "en casa yo le hablo en español todo el tiempo pero él mezcla las dos lenguas cuando habla conmigo dice cosas como 'quiero el water' o 'dame el carro rojo pero el otro'" esto es código-switching típico de niños bilingües y no se considera un signo de trastorno de lenguaje por sí solo
+
+[[CHILD|mateo]] tiene un hermano mayor [[SIBLING|diego]] de [[KEEP|7 años]] que también es bilingüe y que según mamá no tuvo retrasos de habla diego ayuda mucho a su hermano traduciendo lo que dice cuando están con otros niños que no son de la familia la abuela materna [[FAMILY|rosa cruz]] vive en honduras pero habla con la familia por videollamada casi todos los domingos y mamá dice que [[CHILD|mateo]] la entiende bien a pesar de la distancia
+
+la familia tiene un perro llamado [[PET|rocky]] que [[CHILD|mateo]] menciona mucho durante las sesiones de juego dice "[[PET|rocky]] corre" y también "[[PET|rocky]] come" como ejemplos de sus producciones de tres palabras
+
+mamá reporta que [[CHILD|mateo]] empezó a decir sus primeras palabras como a los [[KEEP|16 meses]] mucho más tarde que [[SIBLING|diego]] que empezó como a los [[KEEP|10 meses]] las primeras palabras fueron "mamá" "papá" y "agua" combinaciones de dos palabras empezaron como a los [[KEEP|30 meses]] lo cual está dentro de rango esperado pero un poco tarde
+
+horario de sesiones recomendado / recommended session schedule
+
+| día | hora de inicio | hora de fin | lugar |
+|---|---|---|---|
+| lunes | [[TIME|9:00 am]] | [[TIME|9:45 am]] | [[DAYCARE|little sprouts early learning center]], salón de terapia |
+| miércoles | [[TIME|2:30 pm]] | [[TIME|3:15 pm]] | domicilio familiar, [[PLACE|4417 briar hollow lane]] |
+| viernes | [[TIME|9:00 am]] | [[TIME|9:45 am]] | [[DAYCARE|little sprouts early learning center]], salón de terapia |
+
+procedimientos de evaluación / assessment procedures
+
+la evaluación se hizo en dos sesiones el [[DATE|september 15, 2026]] y el [[DATE|september 22, 2026]] en el consultorio de [[EMPLOYER|carolina bilingual speech therapy, pllc]] ubicado en [[PLACE|8810 pineville-matthews road]] [[PLACE|charlotte]] [[PLACE|28226]] ambas sesiones duraron aproximadamente [[KEEP|90 minutos]] con descansos la evaluación se hizo completamente en español primero y luego se repitieron tareas seleccionadas en inglés para comparar porque el equipo bilingüe siempre debe considerar ambos idiomas y no penalizar al niño por diferencias dialectales o de exposición
+
+se usó interpretación informal de la misma evaluadora [[PROVIDER|carolina vázquez-reyes]] quien es completamente bilingüe y certificada por ccc-slp no se necesitó interprete adicional la mamá [[PARENT|lucía]] estuvo presente en ambas sesiones y proveyó información de historia y también participó en algunas tareas de juego estructurado
+
+instrumentos administrados / instruments administered
+
+preschool language scales fifth edition ([[KEEP|PLS-5]]) spanish edition auditory comprehension y expressive communication
+goldman fristoe test of articulation third edition ([[KEEP|GFTA-3]])
+clinical evaluation of language fundamentals preschool-2 ([[KEEP|CELF Preschool-2]]) selected subtests administered in english
+muestra de habla espontánea en español e inglés durante juego con carritos bloques y libro de cuentos
+cuestionario de desarrollo de habla y lenguaje completado por mamá
+
+resultados de las pruebas / test results
+
+tabla de resultados / score table
+
+| prueba / subprueba | puntaje estándar | percentil | rango de confianza | interpretación |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]] auditory comprehension (español) | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | debajo del promedio |
+| [[KEEP|PLS-5]] expressive communication (español) | [[KEEP|72]] | [[KEEP|3]] | [[KEEP|68-76]] | significativamente debajo del promedio |
+| [[KEEP|CELF Preschool-2]] sentence structure (inglés) | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|75-87]] | debajo del promedio |
+| [[KEEP|GFTA-3]] sounds-in-words | [[KEEP|65]] | [[KEEP|1]] | [[KEEP|60-70]] | significativamente debajo del promedio |
+
+durante la administración del [[KEEP|PLS-5]] [[CHILD|mateo]] mostró mejor comprensión que expresión siguió instrucciones de dos pasos con [[KEEP|mod cues]] como "pon el carro rojo arriba de la mesa y después dame el libro" lo logró [[KEEP|8/10]] veces que es [[KEEP|80%]] de precisión con apoyo visual cuando se le quitó el apoyo visual bajó a [[KEEP|4/10]] o [[KEEP|40%]]
+
+en el área expresiva [[CHILD|mateo]] usó principalmente combinaciones de dos a tres palabras rara vez produjo oraciones completas ejemplos de su habla espontánea incluyen "[[PET|rocky]] corre" "quiero mas agua" "[[SIBLING|diego]] no" y en código-switching "quiero el water por favor" estas producciones muestran uso funcional de lenguaje pero por debajo de lo esperado para su edad de [[KEEP|4;6]]
+
+en la prueba de articulación [[KEEP|GFTA-3]] [[CHILD|mateo]] mostró múltiples errores de sonido consistentes con un trastorno fonológico incluyendo sustitución de /k/ por [t] en posición inicial por ejemplo dijo "tasa" para "casa" y omisión de consonantes finales por ejemplo dijo "sapa" para "sapo" también mostró el patrón de frontalización velar y simplificación de grupos consonánticos como [[KEEP|[pw]]] para /pl/ en la palabra "plato" que dijo como "pato"
+
+se observó también dificultad con el sonido /ɾ/ vibrante en español que es un sonido que se desarrolla más tarde típicamente pero considerando su edad y la cantidad de otros errores presentes no se consideró solo un patrón de desarrollo normal
+
+inteligibilidad / intelligibility fue calificada informalmente por la evaluadora y por mamá como aproximadamente [[KEEP|40-50%]] inteligible para oyentes desconocidos y [[KEEP|70-80%]] inteligible para oyentes familiares como mamá y papá esta discrepancia es consistente con lo que reportó la maestra [[TEACHER|ms lopez]] en daycare
+
+durante el juego libre con bloques y carritos la evaluadora observó que [[CHILD|mateo]] se frustraba cuando no lo entendían a la primera y a veces tiraba los juguetes o se volteaba y dejaba de intentar comunicar lo que quería esto pasó aproximadamente [[KEEP|3 de 5]] veces cuando hubo una ruptura de comunicación
+
+se intentó una muestra breve en inglés usando el libro de cuentos "brown bear brown bear" [[CHILD|mateo]] identificó colores correctamente en inglés [[KEEP|9/10]] o [[KEEP|90%]] mostrando que su vocabulario receptivo de colores en inglés está bien desarrollado probablemente por exposición en daycare sin embargo su producción verbal en inglés fue mínima limitándose a palabras sueltas como "red" "blue" "dog"
+
+impresiones diagnósticas / diagnostic impressions
+
+basado en los resultados de esta evaluación bilingüe [[CHILD|mateo hernández cruz]] presenta un trastorno mixto de lenguaje receptivo-expresivo con un componente significativo de trastorno fonológico del habla estos hallazgos están presentes en ambos idiomas español e inglés lo cual confirma que no se trata simplemente de una diferencia dialectal o de exposición bilingüe normal sino de un verdadero trastorno de comunicación
+
+código de diagnóstico / diagnostic code: [[KEEP|F80.2]] trastorno mixto del lenguaje receptivo-expresivo (mixed receptive-expressive language disorder)
+
+se recomienda también evaluación adicional de desarrollo general dado que el pediatra [[PROVIDER|dr chen]] ya inició ese proceso de referencia y los resultados de esa evaluación podrían informar el plan de tratamiento de manera más completa
+
+códigos de procedimiento recomendados para tratamiento / recommended treatment procedure codes: [[KEEP|92507]] tratamiento de trastornos de habla lenguaje voz o comunicación individual y [[KEEP|92523]] evaluación de producción del habla con evaluación de comprensión y expresión del lenguaje
+
+recomendaciones / recommendations
+
+1. se recomienda que [[CHILD|mateo]] reciba servicios de terapia de habla y lenguaje bilingüe (español/inglés) con una frecuencia de tres veces por semana sesiones de [[KEEP|45 minutos]] cada una en formato individual con elementos de juego estructurado
+
+2. se recomienda el uso del enfoque [[KEEP|Hanen]] para trabajar estrategias de lenguaje en el hogar con la familia y también se recomienda incorporar elementos de [[KEEP|PROMPT]] para abordar los patrones fonológicos observados dado que este enfoque táctil-cinestésico puede ser efectivo para los errores de posición y manera de articulación identificados
+
+3. se recomienda continuar la terapia en ambos idiomas no se recomienda eliminar el español del hogar la evidencia muestra que el bilingüismo no causa ni empeora los trastornos de lenguaje y que mantener el español es importante para la comunicación familiar y la identidad cultural de [[CHILD|mateo]]
+
+4. se recomienda coordinación con la maestra [[TEACHER|ms lopez]] en [[DAYCARE|little sprouts early learning center]] para implementar estrategias de apoyo en el salón como repetir y expandir lo que dice el niño y dar tiempo extra para que procese instrucciones
+
+5. se recomienda que la familia continúe con el proceso de evaluación de desarrollo general referido por [[PROVIDER|dr chen]] y que comparta los resultados de esa evaluación con esta clínica para ajustar el plan de tratamiento según sea necesario
+
+6. se recomienda revisión del plan de tratamiento en [[KEEP|90 días]] con reevaluación formal en aproximadamente [[KEEP|6 meses]] fecha tentativa de reevaluación [[DATE|march 2027]]
+
+7. PAINF debe ser notificado de estos resultados para determinar elegibilidad continua de servicios bajo intervención temprana parte c la coordinadora [[PROVIDER|brenda ingram]] fue contactada el [[DATE|september 24, 2026]] y recibirá copia de este informe
+
+8. se sugiere a la familia considerar grupo de apoyo para padres de niños bilingües con trastornos de comunicación ofrecido mensualmente a través de PAINF mamá expresó interés en esto durante la sesión de cierre
+
+resumen para la familia / summary for family
+
+[[PARENT|lucía]] y [[PARENT|jorge]] los resultados muestran que [[CHILD|mateo]] necesita ayuda con su lenguaje y su habla en los dos idiomas esto no es por hablar dos idiomas en casa eso no es el problema el problema es que su cerebro está procesando el lenguaje de una manera diferente y necesita terapia especializada para desarrollar esas habilidades sigan hablándole en español en casa eso es bueno para él y para la familia
+
+esta evaluadora está disponible para contestar preguntas en el correo [[EMAIL|cvazquezreyes@carolinabilingualslp.com]] o al teléfono de la clínica [[PHONE|(704) 887-2210]] extensión [[KEEP|314]]
+
+firmado electrónicamente por
+
+[[PROVIDER|carolina vázquez-reyes]] m.s. ccc-slp
+speech-language pathologist bilingüe
+[[EMPLOYER|carolina bilingual speech therapy, pllc]]
+licencia de north carolina número [[ID|SLP-44821]]
+fecha de firma [[DATE|September 29, 2026]]
+
+cc: [[PROVIDER|dr michael chen]], [[HOSPITAL|lakeside pediatric associates]]
+cc: [[PROVIDER|brenda ingram]], service coordinator, PAINF
+cc: expediente del cliente [[ID|MC-20269471]]

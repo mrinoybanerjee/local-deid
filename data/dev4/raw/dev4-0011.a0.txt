@@ -1,0 +1,18 @@
+[[DATE|10 de octubre de 2026]]
+Nota de sesión diaria – terapia de habla y lenguaje
+Hora: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+Pt: [[CHILD|Mateo Alejandro Cruz Hernández]] ("[[CHILD|Teo]]"), edad [[KEEP|4;2]]
+ID de caso: [[ID|NC-4471928-T]]
+Medicaid ID: [[MEDICAID_ID|887234561B]]
+Proveedor: [[PROVIDER|Ana Milagros Vega]], SLP, de [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] (en adelante "[[EMPLOYER|Carolina Pediatric Speech]]", abrev. "[[EMPLOYER|CPSLT]]")
+
+S: CG, [[PARENT|Rosa Elena Pérez Gómez]] (mamá), reporta q' pt durmió bien y comió antes de sesión. Mamá trabaja en [[ORG|Food Lion]] en [[PLACE|Garner]] y llegó tarde b/c tráfico. Refiere q' doña [[FAMILY|Lupe]] (abuela) cuidó a pt en la mañana mientras mamá hacía mandado en el [[AGENCY|CDSA del condado de Wake]] p/ renovar IFSP (revisión prog. [[DATE|15 de enero de 2027]]). Hermana [[SIBLING|Sofía]] (6a) también estuvo presente parte de la sesión. Familia asiste los domingos a [[ORG|Iglesia Bautista Monte Sión]] y usa el programa de tutoría en la [[ORG|Biblioteca Pública de Garner]].
+
+O: Pt trabajó en [[KEEP|PROMPT]] p/ producción de [[KEEP|/k/]] en palabras iniciales. Produjo "[[KEEP|casa]]" correctamente [[KEEP|8/10]] intentos c/ [[KEEP|mod cues]] táctiles. En juego c/ compañero [[PEER|Pepito]], imitó "[[KEEP|[k]omo estás]]" approx. 70% del tiempo. Eval. previa c/ [[KEEP|PLS-5]]: puntaje estándar [[KEEP|78]], percentil [[KEEP|7]]. La maestra [[TEACHER|Carmen]] reportó en nota escolar q' pt participa mejor en [[SCHOOL|Sunrise Elementary School]] desde inicio de terapia. Pt mencionó q' su perro "[[PET|Rocky]]" también dice "guau" y practicó el sonido p/ generalizar [[KEEP|/k/]] (sin preocupación médica, dx [[KEEP|F80.0]]).
+
+A: Pt progresa d/a [[KEEP|PROMPT]] y refuerzo en casa. Tolera transición bien. CG motivada; reporta apoyo de [[FAMILY|Juanito]] (tío) en casa c/ tareas de lenguaje. Esta terapeuta, Miss [[PROVIDER|Ana]], consultó brevemente c/ la intérprete, [[PROVIDER|Marisol Toledo]], sobre uso de "[[KEEP|Cycles]]" en próx. plan.
+
+P: Continuar 2x/sem, 30 min, CPT [[KEEP|92507]]. Próxima sesión [[DATE|17 de octubre de 2026]]. Contactar a mamá al [[PHONE|(919) 555-2847]] o [[EMAIL|rosa.perezgomez@example.com]] p/ coordinar.
+
+[[PROVIDER|Ana Milagros Vega]], SLP-CCC
+[[EMPLOYER|CPSLT]]

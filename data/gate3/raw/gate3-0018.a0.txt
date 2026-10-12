@@ -1,0 +1,36 @@
+Daily Speech-Language Therapy Note
+
+Field	Value
+Client	[[CHILD|Nico Valverde]]; age [[KEEP|4;2]]
+Service date	[[DATE|October 7, 2026]]
+Record	[[ID|SL-604281]]
+Medicaid	[[MEDICAID_ID|582194637Q]]
+Clinician	[[PROVIDER|Elena Marín]], bilingual pediatric speech-language pathologist
+Employer	[[EMPLOYER|Willow Lantern Speech Services]]
+Location	[[SCHOOL|Clover Lantern Preschool]], [[PLACE|Alder Cove]], North Carolina
+Billing	[[KEEP|92507]]; modifier [[KEEP|GN]]; diagnosis [[KEEP|F80.2]]
+
+Contact	Role	Details
+[[PARENT|Marisol Valverde]]	Mother	[[PHONE|919-555-0146]]
+doña [[FAMILY|Lupe]]	Grandmother	[[EMAIL|lupe.caregiver@example.invalid]]
+Miss [[TEACHER|Ana]]	Classroom teacher	School contact
+[[PROVIDER|Irene Salcedo]]	Service coordinator	[[AGENCY|Centro Regional de Apoyo al Desarrollo Infantil y Acompañamiento Familiar del Valle Claro (CRADIAFVC)]]
+
+S: Mother reported that [[CHILD|Nico]] used longer Spanish phrases during breakfast. His sister [[SIBLING|Sol]] practiced turn-taking with him. Grandmother described fewer frustrated gestures when adults paused before helping. Sleep and appetite were unchanged. Family requested examples that fit evening routines. Mother reported no new hearing concerns and confirmed that Spanish remains the main home language. English is used during classroom activities.
+
+O: Individual play-based treatment occurred in a quiet classroom corner. Historical testing results below informed task selection; no standardized reassessment occurred today.
+
+Test	Subtest	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Expressive Communication]]	[[KEEP|81]]	[[KEEP|10th]]	[[KEEP|76–86]]	[[KEEP|2;8–3;2]]
+
+Using [[KEEP|Hanen]] strategies, the clinician modeled [[KEEP|"my turn"]] and [[KEEP|"quiero más"]]. [[CHILD|Nico]] requested materials in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. He produced initial [[KEEP|/k/]] with [[KEEP|60%]] accuracy following visual placement cues. Brief [[KEEP|PROMPT]] support improved lip rounding. A spontaneous [[KEEP|"wabbit"]] included [[KEEP|[w]]] substitution; the language sample recorded [[KEEP|[EW]]]. During pretend play, he said "[[PET|Miga]] run" while moving a toy dog. Classmate [[PEER|Tessa Bell]] joined the final activity; reciprocal exchanges occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]].
+
+A: Functional requesting improved when adults waited and offered two choices. Performance varied across languages and tasks. Historical scores provide context but do not independently establish current ability. Speech accuracy decreased during longer utterances. Attention improved after a movement break, and participation remained steady through cleanup. Bilingual models supported comprehension without requiring English-only responses.
+
+P: Continue [[KEEP|IFSP outcome 2]] through shared reading and snack routines. Mother demonstrated the waiting strategy accurately. Send illustrated practice cards through [[AGENCY|CRADIAFVC]]. Practice should remain brief and playful; accept responses in either language.
+
+Service	Next date	Time	Frequency
+Individual speech therapy	[[DATE|October 14, 2026]]	[[TIME|9:15 AM]]	Weekly
+
+Signed: [[PROVIDER|Elena Marín]], speech-language pathologist.

@@ -1,0 +1,85 @@
+NC Infant-Toddler Program (NC ITP)
+Individualized Family Service Plan – Annual Review
+CDSA: [[AGENCY|Triad Regional CDSA]], [[PLACE|Guilford County]]
+Child: [[CHILD|Mateo Hernández-Cruz]]
+DOB: [[DATE|April 12, 2023]]
+Chronological age at review: [[KEEP|3;6]]
+IFSP Review Date: [[DATE|October 6, 2026]]
+Service Coordinator: [[PROVIDER|Megan Price]], [[AGENCY|Triad Regional CDSA]], office [[PHONE|(336) 555-0101]]
+Case/Child ID: [[ID|NC-ITP-004471]]
+Medicaid ID: [[MEDICAID_ID|887654321B]]
+Treating SLP: [[PROVIDER|S. Alvarado-Figueroa]], CCC-SLP, bilingual (English/Spanish), [[EMPLOYER|Piedmont Pediatric Therapy Partners]], contracted provider
+
+Family:
+Mother: [[PARENT|Lucía Rodríguez Martínez]], home [[PHONE|(336) 555-0148]]
+Father: [[PARENT|Jorge Hernández]], cell [[PHONE|336-555-0199]]
+Sibling: [[SIBLING|Valentina Hernández-Cruz]], age 5, same household
+Primary daytime caregiver: abuela [[FAMILY|Rosa Martínez]], cell [[PHONE|336.555.0122]]
+Paternal grandfather, reachable for video calls per mother at [[PHONE|+502 2222-3344]]
+Home address: [[PLACE|118 Willow Bend Court, Greensboro]]
+
+S:
+Home visit, no interpreter requested. [[PARENT|Lucía Rodríguez Martínez]] prefers English for clinical discussion, reports Spanish spoken at home majority of day. Visit also included [[FAMILY|Rosa Martínez]] for routine info.
+
+Family concerns, in own words. Mother: "He's trying to say more words but half the time it's just sounds, not real words." Also: "At daycare they say he doesn't follow directions with the other kids." Father, reached by phone at [[PHONE|(336) 555-0176]] during visit: "I think he understands more than he shows, it's just coming out slow." Abuela added: "En la casa yo le entiendo casi todo, pero con otras personas no."
+
+Priorities identified by family:
+1. Increase functional words/word combos so [[CHILD|Mateo]] can be understood by family and at [[DAYCARE|Little Sprouts Early Learning Center]].
+2. Support following 1-2 step directions in group routines at daycare.
+3. Help renewing childcare subsidy through [[AGENCY|Guilford County DSS]]; paperwork due before next review.
+4. Continue [[AGENCY|Guilford County WIC]] enrollment; last nutrition check-in [[DATE|September 2, 2026]].
+5. Family wants info on waitlist status for [[AGENCY|Early Head Start]] slot connected to [[DAYCARE|Little Sprouts Early Learning Center]]; current playgroup through [[AGENCY|Guilford County Partnership for Children]] (Smart Start) meets Tuesdays.
+
+Daily routine, per mother/abuela: wakes approx [[TIME|7:00 a.m.]], breakfast with [[SIBLING|Valentina Hernández-Cruz]], daycare drop-off [[TIME|8:15 a.m.]], nap [[TIME|1:00 p.m.]]-[[TIME|2:30 p.m.]], pick-up [[TIME|5:00 p.m.]], dinner as family, bath, bedtime [[TIME|8:30 p.m.]]. Weekends include church, visits to maternal aunt's house.
+
+Other agencies/providers involved: [[AGENCY|Guilford County DSS]] (childcare subsidy), [[AGENCY|Guilford County WIC]] (nutrition, quarterly follow-up), [[AGENCY|Guilford County Partnership for Children]] (Smart Start playgroup), pediatrician [[PROVIDER|Dr. Angela Kim]] (well-child, last visit [[DATE|August 14, 2026]]), OT services co-managed, notes reviewed from [[PROVIDER|K.S.]], COTA, re: fine motor home program.
+
+Birth/medical history reviewed with family. [[CHILD|Mateo]] born [[DATE|April 12, 2023]] at [[HOSPITAL|Carolina Piedmont Regional Hospital]], gestational age [[KEEP|34 weeks]], birth weight [[KEEP|4 lbs 6 oz]], Apgar [[KEEP|6/9]]. NICU stay 3 weeks at [[HOSPITAL|Carolina Piedmont Regional Hospital]] NICU; attending neonatologist [[PROVIDER|Dr. Samuel Patel]]. History notable for feeding difficulty in infancy, resolved by [[KEEP|12 months]]. No seizure history. Hearing screen passed bilaterally per newborn screen and repeat at [[DATE|March 2025]]. Vision screen WNL. Mother employed evenings at [[ORG|Fresh Market Distribution Center]]; father employed at [[ORG|Carolina Builders Supply]].
+
+O:
+PLS-5 (KEEP test) administered [[DATE|September 29, 2026]], chronological age at testing [[KEEP|3;5]].
+Auditory Comprehension: standard score [[KEEP|73]] (CI [[KEEP|65-81]]), [[KEEP|4th percentile]], age equivalent [[KEEP|20-24 months]].
+Expressive Communication: standard score [[KEEP|68]] (CI [[KEEP|60-76]]), [[KEEP|2nd percentile]], age equivalent [[KEEP|16-19 months]].
+Total Language Score: [[KEEP|69]], [[KEEP|2nd percentile]].
+
+Rossetti Infant-Toddler Language Scale (KEEP) used informally to supplement pragmatic/play skills; emerging joint attention, inconsistent turn-taking in play routines.
+
+Spontaneous single-word sample, 20-word corpus. Intelligibility approx [[KEEP|40%]] to unfamiliar listeners, [[KEEP|65%]] to family. Phonemic inventory includes [[KEEP|/m/]], [[KEEP|/b/]], [[KEEP|/p/]], [[KEEP|/n/]]; stimulable for [[KEEP|/t/]] and [[KEEP|/d/]] with [[KEEP|mod cues]]. Pattern of final consonant deletion noted, e.g. "[[KEEP|ba]]" for target "[[KEEP|ball]]" and "[[KEEP|ha]]" for target "[[KEEP|hat]]".
+
+Expressive sample during play: consistent productions of "[[KEEP|mama]]" and "[[KEEP|up]]"; imitated "[[PET|Toto]]" when [[SIBLING|Valentina Hernández-Cruz]] named the family dog. Used single words in [[KEEP|8/10]] structured opportunities with [[KEEP|mod cues]]; combined two words once, unprompted ("[[KEEP|more up]]").
+
+Following directions: followed 1-step directions [[KEEP|3 of 5]] trials without gesture; 1-step with gesture [[KEEP|4/5]]. No 2-step direction-following observed today.
+
+Diagnostic impression coded [[KEEP|F80.1]] (expressive language disorder with receptive involvement). Billed under CPT [[KEEP|92523]], modifier [[KEEP|GN]].
+
+A:
+[[CHILD|Mateo]] continues to present with mixed receptive-expressive language delay, moderate-severe range, consistent with prior eligibility determination. Scores in the [[KEEP|65-81]] standard score range and percentile ranks below [[KEEP|5th percentile]] across domains confirm continued eligibility for NC ITP services. Gap between receptive and expressive skills has narrowed slightly since last review (prior Expressive SS [[KEEP|60-68]] CI) but remains clinically significant. Phonological pattern of final consonant deletion is developmentally appropriate for age equivalent but limits intelligibility given chronological age [[KEEP|3;6]].
+
+Pragmatic skills (joint attention, turn-taking) remain emerging and are impacting group participation at daycare, consistent with family-reported difficulty following directions among peers. No new medical concerns identified; feeding history resolved, hearing/vision WNL, supports ongoing primary diagnosis of expressive-receptive language disorder rather than sensory etiology.
+
+Family's stated priorities align well with current outcomes; recommend continuing Outcome 1 and 2, revising strategies for Outcome 2 given new daycare context, and adding a transition-related outcome ahead of third birthday.
+
+Outcome 1 (continued): [[CHILD|Mateo]] will use 2-word combinations to request and comment across home and daycare settings.
+Strategies: modeling expansion ("up" to "more up"), parallel talk during routines, abuela and parents coached in expectant waiting and choice-giving during meals/play. Daycare staff at [[DAYCARE|Little Sprouts Early Learning Center]] to receive handout on cueing hierarchy (min/mod/max cues).
+
+Outcome 2 (continued, revised strategy): [[CHILD|Mateo]] will follow 1- and 2-step directions with decreasing visual support in group settings.
+Strategies: visual schedule introduced at daycare transitions, pairing verbal direction with gesture fading over 4-week increments, coordination with daycare lead teacher.
+
+Outcome 3 (new): Family will have information needed to plan for transition from NC ITP to preschool services or continued community supports by age 3.
+Strategies: service coordinator [[PROVIDER|Megan Price]] to provide transition packet, discuss potential Early Head Start placement, coordinate timing with [[AGENCY|Guilford County DSS]] subsidy renewal so childcare continuity is not disrupted during transition window.
+
+P:
+Continue direct SLP services, 2x weekly, 30 minutes, home/daycare settings, through contracted provider [[EMPLOYER|Piedmont Pediatric Therapy Partners]]. Continue OT consult services 1x monthly per existing plan; next OT note due from [[PROVIDER|K.S.]] by [[DATE|November 1, 2026]].
+
+Service coordination activities: [[PROVIDER|Megan Price]] to follow up on [[AGENCY|Guilford County DSS]] subsidy renewal paperwork by [[DATE|October 20, 2026]]; confirm continued [[AGENCY|Guilford County WIC]] enrollment at next nutrition check-in [[DATE|December 2, 2026]]; share [[AGENCY|Early Head Start]] waitlist update with family by [[DATE|November 15, 2026]].
+
+Next 6-month review scheduled [[DATE|April 6, 2027]]. Annual IFSP review scheduled [[DATE|October 5, 2027]], contingent on continued eligibility. Transition planning conference to be scheduled no later than [[KEEP|90 days]] prior to third birthday, per NC ITP timeline, target window opening [[DATE|January 12, 2027]].
+
+Family education provided today: cueing hierarchy handout (min/mod/max cues) reviewed in English, key phrases translated to Spanish for abuela's use at home. Family given SLP direct line [[PHONE|336-555-0211]] and office email [[EMAIL|intake@piedmontpedsllc.org]] for scheduling questions; CDSA general line remains [[PHONE|(336) 555-0101]].
+
+No change to transportation or interpreter needs at this time; family continues to decline formal interpreter services, noting mother is comfortable in both languages for clinical visits. Consent for continued services reviewed and signed by [[PARENT|Lucía Rodríguez Martínez]] and [[PARENT|Jorge Hernández]] at today's visit.
+
+Plan reviewed with family verbally; copy of updated IFSP to be mailed to home address within 10 business days per NC ITP procedure, with electronic copy available on request through [[AGENCY|Triad Regional CDSA]] family portal.
+
+Signed: [[PROVIDER|S. Alvarado-Figueroa]], CCC-SLP
+[[DATE|October 6, 2026]]

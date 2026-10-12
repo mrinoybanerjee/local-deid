@@ -1,0 +1,15 @@
+Client: [[CHILD|Mateo Alvarez]]  DOB: [[DATE|04/12/2019]]  Age: [[KEEP|7;6]]  Date of Service: [[DATE|October 9, 2026]]
+Session Time: [[TIME|9:15 AM]]–[[TIME|9:45 AM]]  Setting: [[SCHOOL|Pinewood Elementary School]], [[TEACHER|Ms. Lopez]]'s classroom
+School District: [[SCHOOL|Wake County Public School System]]  Medicaid ID: [[MEDICAID_ID|784512369B]]
+Provider: [[PROVIDER|Jessica Tran]], MS, CCC-SLP  Employer: [[EMPLOYER|Carolina Pediatric Therapy Group]]
+Interpreter: [[PROVIDER|Marisol Peña]]  Agency: [[AGENCY|Wake County CDSA]]
+
+S: Mother [[PARENT|Lucía Alvarez]] reports [[CHILD|Mateo]] has been practicing his /r/ sound at home with his older sister, [[SIBLING|Sol]], who helps him with flashcards after school. She also noted that his babysitter, [[FAMILY|Carmen Ruiz]], picks him up most days from [[DAYCARE|Marigold Thicket]] preschool, located at [[PLACE|214 Marigold Lane, Cary, 27511]], and reports steady progress with turn-taking in the toddler room. Father [[PARENT|Jorge Alvarez]] works at [[ORG|Bandwidth Inc.]] and asked whether evening sessions are possible.
+
+O: [[CHILD|Mateo]] arrived on time and transitioned well into the therapy room. Administered [[KEEP|GFTA-3]] probe items targeting /r/ in initial position; produced [[KEEP|8/10]] correct with [[KEEP|min cues]]. He imitated the target word "[[KEEP|rabbit]]" with [[KEEP|mod cues]] for tongue placement, improved from last session's [[KEEP|65%]] accuracy. During group activity, classmate [[PEER|Ethan Torres]] modeled the /r/ sound, and [[CHILD|Mateo]] attempted "[[KEEP|run]]" independently, self-correcting from "[[KEEP|wun]]." Used [[KEEP|PROMPT]] cues for tactile support on bilabial-to-lingual transitions. Teacher [[TEACHER|Ms. Lopez]] reported [[CHILD|Mateo]] is participating more during circle time and asked that strategies be shared with the classroom paraprofessional.
+
+[[CHILD|Mateo]]'s father called the clinic afterward at [[PHONE|(919) 555-0148]] to ask about scheduling a make-up session; he can be reached at [[EMAIL|jalvarez.family@mailinator.com]].
+
+A: [[CHILD|Mateo]] continues to show steady gains on IFSP [[KEEP|Outcome 2]], generalizing /r/ in single words with decreasing cue level. Family carryover with [[SIBLING|Sol]] appears to support home practice. No concerns raised regarding the family dog, [[PET|Rocky]], who reportedly distracts him during home drills.
+
+P: Continue biweekly sessions at [[SCHOOL|Pinewood Elementary School]]. Next review scheduled for [[DATE|November 13, 2026]]. Recommend coordinating with [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|Hope Daniels]] regarding transition planning and sharing updated cueing strategies with [[DAYCARE|Marigold Thicket]] staff.

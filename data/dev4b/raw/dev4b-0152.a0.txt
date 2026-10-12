@@ -1,0 +1,70 @@
++ Nombre: [[CHILD|Mateo Alejandro Fernández Ríos]]
++ Apodo: [[CHILD|Teo]]
++ EC: [[KEEP|4;2]]
++ Fecha de nacimiento: [[DATE|3 de enero de 2022]] ([[DATE|01/03/2022]])
++ Fecha de evaluación: [[DATE|3 de marzo de 2026]] ([[DATE|03/03/2026]])
++ Hora de inicio / Hora de finalización: [[TIME|9:15 a.m.]] – [[TIME|11:40 a.m.]]
++ Contexto: Evaluación clínica ambulatoria de lenguaje y habla, realizada en las oficinas de [[EMPLOYER|Carolina Bilingüe de Habla y Lenguaje, PLLC]], en [[PLACE|Garner]], Carolina del Norte, con una sesión complementaria de observación en el hogar de la familia en [[PLACE|calle Hollow Oak #214, Garner, NC 27529]].
++ Evaluadora: [[PROVIDER|Dra. Ana María Castillo, CCC-SLP]]
++ Médico que refiere: [[PROVIDER|Dr. Steven Marks]], pediatra, [[HOSPITAL|Clínica Pediátrica de Garner]]
++ Coordinadora de servicios: [[PROVIDER|Karen Smith]], [[AGENCY|CDSA del Condado de Wake]]
++ ID Medicaid: [[MEDICAID_ID|920384756A]]
++ ID de miembro de seguro (secundario): [[MEDICAID_ID|BCBSNC-884271039]]
++ ID de niño del NC ITP: [[MEDICAID_ID|ITP-2026-00482]]
++ Número de autorización: [[MEDICAID_ID|AUTH-2026-003381]]
++ Número de expediente: [[MEDICAID_ID|REC-48213]]
+
+Resumen: [[CHILD|Mateo]] es un niño de [[KEEP|4;2]] años, bilingüe en desarrollo (español e inglés), que fue referido para esta evaluación por [[PROVIDER|el Dr. Marks]] y por la maestra principal de [[DAYCARE|Little Learners Daycare]], la [[TEACHER|Srta. Pamela López]], debido a preocupaciones persistentes sobre su habla poco inteligible y su lenguaje expresivo limitado, tanto en español como en inglés. [[CHILD|Mateo]] recibe actualmente servicios de intervención temprana a través del [[ORG|Programa Little Learners]], coordinado por el [[AGENCY|CDSA del Condado de Wake]], bajo un Plan Individualizado de Servicios para la Familia (IFSP) cuya revisión más reciente ocurrió el [[DATE|el martes 4 de junio de 2025]]. Esta evaluación se realizó para actualizar el perfil de lenguaje de [[CHILD|Mateo]] antes de la próxima revisión del IFSP y para determinar la necesidad continua de servicios directos de patología del habla y lenguaje.
+
+Antecedentes: La familia fue referida inicialmente al [[AGENCY|CDSA del Condado de Wake]] el [[DATE|12 de enero de 2024]] después de que la pediatra anterior, [[PROVIDER|la Dra. Carmen Ibáñez]], notara un retraso notable en el lenguaje expresivo de [[CHILD|Mateo]] durante su visita de los [[KEEP|18 meses]]. La madre, [[PARENT|Lucía Rodríguez Paredes]], reportó que [[CHILD|Mateo]] dijo sus primeras palabras alrededor de los [[KEEP|22 meses]], mucho más tarde que su hermana mayor, [[SIBLING|Valentina Fernández Rodríguez]]. Desde el [[DATE|1 de septiembre de 2024]], [[CHILD|Mateo]] asiste de lunes a viernes a [[DAYCARE|Little Learners Daycare]], en el [[PLACE|Condado de Johnston]], donde pasa aproximadamente ocho horas diarias en un ambiente mayormente en inglés. Su maestra asistente, la [[TEACHER|Srta. Jennifer Gómez]], también ha expresado preocupación por la frustración de [[CHILD|Mateo]] cuando sus compañeros, como [[PEER|Ethan]] y [[PEER|Sofía]], no logran entender lo que él intenta comunicar durante el juego libre.
+
+En el hogar, [[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Rodríguez Paredes]]; su padre, [[PARENT|Carlos Fernández Soto]]; su hermana, [[SIBLING|Valentina Fernández Rodríguez]], de [[KEEP|7 años]]; y, varios días a la semana, con su abuela materna, [[FAMILY|Rosa Paredes]], quien cuida a los niños por las tardes mientras los padres trabajan. La familia también tiene un perro llamado [[PET|Rocky]], al que [[CHILD|Mateo]] menciona con frecuencia durante las sesiones de juego.
+
+Historia de nacimiento y desarrollo: [[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación mediante parto vaginal sin complicaciones mayores en el [[HOSPITAL|Hospital Regional de Clayton]], con un peso al nacer de [[KEEP|3,100 gramos]] y puntuaciones de Apgar de [[KEEP|8]] y [[KEEP|9]] al minuto uno y cinco respectivamente. No requirió estancia en la unidad de cuidados intensivos neonatales. La madre reporta un embarazo sin complicaciones, aunque menciona haber tenido una infección urinaria tratada durante el segundo trimestre.
+
+El desarrollo motor grueso y fino de [[CHILD|Mateo]] se reporta dentro de los límites esperados: caminó solo a los [[KEEP|13 meses]] y usa actualmente utensilios y crayones de manera apropiada para su edad. Sin embargo, el desarrollo del lenguaje se ha mantenido retrasado desde la infancia temprana. [[CHILD|Mateo]] ha tenido múltiples episodios de otitis media, incluyendo uno de los oídos tratado médicamente en [[DATE|noviembre de 2023]] y otro en [[DATE|julio de 2024]]; se le colocaron tubos de ventilación (miringotomía) el [[DATE|9 de septiembre de 2024]] en una cirugía ambulatoria realizada por el [[PROVIDER|Dr. Wesley Tran]], otorrinolaringólogo, en el [[HOSPITAL|Hospital Pinares]]. Desde la cirugía, [[PARENT|la madre]] reporta una ligera mejoría en la atención auditiva de [[CHILD|Mateo]], aunque las preocupaciones de lenguaje y habla persisten. Un examen de audición más reciente, realizado el [[DATE|15 de enero de 2026]], resultó dentro de los límites normales en ambos oídos.
+
+El expediente médico de [[CHILD|Mateo]] incluye los diagnósticos [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo) y [[KEEP|F80.1]] (trastorno del lenguaje expresivo), documentados por [[PROVIDER|el Dr. Marks]] el [[DATE|20 de febrero de 2025]]. La evaluación actual se facturó bajo el código [[KEEP|CPT 92523]] (evaluación de habla y lenguaje), con el modificador [[KEEP|GN]] correspondiente a servicios de patología del habla y lenguaje.
+
+Historia familiar y de lenguaje: El idioma principal del hogar es el español. [[PARENT|Lucía Rodríguez Paredes]] habla con [[CHILD|Mateo]] casi exclusivamente en español, mientras que [[PARENT|Carlos Fernández Soto]] alterna entre español e inglés dependiendo del contexto. [[PARENT|La madre]] trabaja de noche en el turno nocturno del [[HOSPITAL|Hospital Pinares]], como auxiliar de enfermería, de [[TIME|11:00 p.m.]] a [[TIME|7:00 a.m.]], de domingo a jueves. [[PARENT|El padre]] mantiene dos empleos: durante el día trabaja en el almacén de [[ORG|Cedar Ridge Furniture]], y por las noches, tres veces por semana, trabaja en una tienda de conveniencia que la familia conoce solamente como "[[ORG|QT]]". Debido a estos horarios, la abuela materna, [[FAMILY|Rosa Paredes]], y ocasionalmente una tía, [[FAMILY|Marisol Paredes]], ayudan con el cuidado de los niños durante las tardes y noches.
+
+[[PARENT|Lucía]] reporta que [[CHILD|Mateo]] entiende más de lo que puede expresar, tanto en español como en inglés. En casa, usa oraciones cortas de dos a tres palabras, como "[[KEEP|quiero agua]]" o "[[KEEP|no más]]", y con frecuencia recurre a gestos o a tomar la mano de un adulto para señalar lo que necesita. [[SIBLING|Valentina]] a menudo "traduce" para su hermano menor cuando él se frustra al no poder comunicarse con otros adultos. La familia asistió a dos sesiones de capacitación para padres a través del [[AGENCY|Smart Start del Condado de Wake]], en [[DATE|octubre de 2025]], enfocadas en estrategias de estimulación del lenguaje en el hogar.
+
+[[CHILD|Mateo]] también fue evaluado previamente en español con apoyo de una intérprete certificada, [[PROVIDER|Yesenia Ortiz]], durante la evaluación inicial de elegibilidad del [[DATE|5 de febrero de 2024]]. En esa ocasión se determinó elegibilidad para servicios de intervención temprana bajo la Parte C, con un retraso significativo documentado en el dominio de comunicación.
+
+Resultados de las pruebas: Durante la sesión actual, [[CHILD|Mateo]] se mostró cooperador, aunque mostró períodos breves de frustración cuando no podía nombrar o describir objetos con rapidez. Se administraron pruebas estandarizadas en español e inglés, además de observación estructurada del juego y muestra de lenguaje espontáneo.
+
+| Prueba / Subprueba | Idioma | Puntuación estándar | Percentil | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]] – Comprensión Auditiva | Español | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5]] – Comunicación Expresiva | Español | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|2;3–2;9]] |
+| [[KEEP|PLS-5]] – Lenguaje Total | Español | [[KEEP|70]] | [[KEEP|2]] | [[KEEP|2;6]] |
+| [[KEEP|CELF Preescolar-3]] – Conceptos y Siguiendo Instrucciones | Inglés | [[KEEP|78]] | [[KEEP|7]] | — |
+| [[KEEP|CELF Preescolar-3]] – Estructura de Oraciones | Inglés | [[KEEP|73]] | [[KEEP|4]] | — |
+| [[KEEP|GFTA-3]] – Articulación | Español/Inglés | [[KEEP|65]] | [[KEEP|1]] | — |
+| [[KEEP|BESA]] – Morfosintaxis | Español | [[KEEP|68]] | [[KEEP|2]] | — |
+
+En la subprueba de Comprensión Auditiva del [[KEEP|PLS-5]], [[CHILD|Mateo]] siguió instrucciones de dos pasos correctamente en [[KEEP|6 de 10]] ensayos ([[KEEP|60%]]) y señaló imágenes de vocabulario básico con precisión de [[KEEP|7/10]]. En producción de habla, se observaron errores de sustitución consistentes: sustituyó /s/ por [[KEEP|[t]]] en posición inicial, como en "[[KEEP|tol]]" para "sol", y omitió consonantes finales en el español, por ejemplo "[[KEEP|flo]]" para "flor". En inglés, se observó el mismo patrón de simplificación de grupos consonánticos, produciendo "[[KEEP|poon]]" en lugar de "spoon" con [[KEEP|min cues]] del modelo de la evaluadora.
+
+Durante una actividad de juego simbólico con figuras de animales, [[CHILD|Mateo]] señaló un muñeco y dijo espontáneamente "[[KEEP|eso é Rocky]]", refiriéndose a su perro [[PET|Rocky]], demostrando el uso de vocabulario personal relevante aunque con errores fonológicos y gramaticales consistentes con su perfil general.
+
+Un intervalo de confianza del [[KEEP|95%]] para la puntuación compuesta de Lenguaje Total del [[KEEP|PLS-5]] fue de [[KEEP|65-77]], ubicando a [[CHILD|Mateo]] en el rango muy por debajo del promedio comparado con sus pares de la misma edad cronológica ([[KEEP|4;2]]) en ambos idiomas evaluados.
+
+Impresiones clínicas: Con base en los resultados estandarizados, la observación clínica y el reporte de los padres y maestros, [[CHILD|Mateo]] presenta un trastorno mixto del lenguaje receptivo-expresivo de moderado a severo, con un componente fonológico significativo, consistente con el diagnóstico [[KEEP|F80.2]] documentado anteriormente. Sus dificultades están presentes en ambos idiomas, lo cual indica un trastorno de lenguaje primario y no simplemente una diferencia típica asociada al desarrollo bilingüe. La inteligibilidad del habla de [[CHILD|Mateo]] se estima en aproximadamente [[KEEP|40%]] con oyentes familiares y menos del [[KEEP|20%]] con oyentes no familiares, lo cual limita significativamente su participación social con compañeros como [[PEER|Ethan]] y [[PEER|Sofía]] en [[DAYCARE|Little Learners Daycare]].
+
+Las habilidades de comprensión auditiva, aunque también por debajo del promedio, se mantienen relativamente más fuertes que las habilidades expresivas, lo cual es un factor pronóstico positivo. La frustración conductual reportada por [[TEACHER|la Srta. López]] y [[TEACHER|la Srta. Gómez]] parece estar directamente relacionada con la brecha comunicativa de [[CHILD|Mateo]], más que con un problema conductual primario.
+
+Recomendaciones: Se recomienda que [[CHILD|Mateo]] continúe recibiendo servicios de patología del habla y lenguaje a través del [[ORG|Programa Little Learners]] y del [[AGENCY|CDSA del Condado de Wake]], con una frecuencia mínima de dos sesiones individuales de [[KEEP|30 minutos]] por semana, idealmente en un modelo bilingüe o con apoyo de interpretación consistente. Se sugiere actualizar los Resultados [[KEEP|1]] y [[KEEP|2]] del IFSP para reflejar objetivos específicos en fonología (reducción de procesos de simplificación final y sustitución de fricativas) y en morfosintaxis expresiva en ambos idiomas.
+
+Se recomienda específicamente lo siguiente:
+
+1. Continuar la terapia directa de habla y lenguaje usando un enfoque de [[KEEP|Cycles]] para los patrones fonológicos identificados, con apoyo visual y modelado en ambos idiomas.
+2. Incorporar estrategias del enfoque [[KEEP|Hanen]] para que [[PARENT|los padres]] y [[FAMILY|la abuela]] puedan apoyar el lenguaje expresivo de [[CHILD|Mateo]] durante las rutinas diarias en el hogar.
+3. Coordinar con [[DAYCARE|Little Learners Daycare]] para que [[TEACHER|la Srta. López]] y [[TEACHER|la Srta. Gómez]] refuercen el vocabulario trabajado en terapia durante las actividades de clase.
+4. Realizar una nueva evaluación auditiva de seguimiento en [[DATE|enero de 2027]] para monitorear la función auditiva tras los tubos de ventilación.
+5. Programar la próxima revisión del IFSP antes del [[DATE|4 de junio de 2026]], fecha límite anual establecida por el [[AGENCY|CDSA del Condado de Wake]].
+6. Proveer a la familia materiales educativos en español sobre estimulación del lenguaje, a través del programa [[AGENCY|WIC]] y [[ORG|Programa Little Learners]].
+
+Se discutieron estos resultados con [[PARENT|Lucía Rodríguez Paredes]] el mismo día de la evaluación. La familia puede comunicarse con esta evaluadora al [[PHONE|(919) 555-0148]] o con la coordinadora de servicios, [[PROVIDER|Karen Smith]], al [[PHONE|(919) 555-0271]], para cualquier pregunta sobre este informe o sobre la coordinación de servicios continuos.
+
+Informe preparado y firmado electrónicamente por [[PROVIDER|Dra. Ana María Castillo, CCC-SLP]], [[EMPLOYER|Carolina Bilingüe de Habla y Lenguaje, PLLC]], el [[DATE|6 de marzo de 2026]] ([[DATE|2026-03-06]]).

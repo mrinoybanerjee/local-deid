@@ -1,0 +1,36 @@
+DAILY SESSION NOTE
+
+Client: [[CHILD|Mateo Fernández]] ("[[CHILD|Teo]]")
+DOB: [[DATE|04/12/2022]] Age: [[KEEP|4;6]]
+Medicaid ID: [[MEDICAID_ID|NC7729104M]]
+Date of service: [[DATE|October 9, 2026]] Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+CPT: [[KEEP|92507]] ICD-10: [[KEEP|F80.1]]
+
+S: Interpreter [[PROVIDER|Rosa Bermúdez]] joined by phone. Su mamá [[PARENT|Lucía Fernández]] reports [[CHILD|Teo]] slept poorly; papá [[PARENT|Héctor Fernández]] trabaja en la fábrica (works at the factory), [[ORG|Carolina Textile Plant]], turno de noche. Mamá limpia casas (cleans houses) for [[ORG|Piedmont Cleaning Services]]. Hermana mayor [[SIBLING|Valentina]] ([[KEEP|7 years old]]) attends [[SCHOOL|Maple Ridge Elementary]]. Perro familiar [[PET|Canela]] was mentioned during warm-up play.
+
+O: Session at [[EMPLOYER|Carolina Bilingual Speech Partners]] clinic, conducted by [[PROVIDER|Dr. Ingrid Solano, CCC-SLP]]. Worked on /k/ and /g/ in word-initial position.
+
+Scores	Pre	Post
+[[KEEP|GFTA-3]] raw score	[[KEEP|34]]	[[KEEP|29]]
+[[KEEP|Percentile]]	[[KEEP|12th]]	[[KEEP|18th]]
+Accuracy /k/	[[KEEP|4/10]]	[[KEEP|7/10]]
+
+Contact	Role	Phone
+[[PARENT|Lucía Fernández]]	[[PARENT|Mother]]	[[PHONE|(336) 555-0147]]
+[[PROVIDER|Dr. Marisol Peña]]	[[PROVIDER|Pediatrician]]	[[PHONE|(336) 555-0188]]
+[[PROVIDER|Carlos Ibáñez, OTR/L]]	[[PROVIDER|OT]]	[[PHONE|(336) 555-0199]]
+[[PROVIDER|Dana Whitfield, PT]]	[[PROVIDER|PT]]	[[PHONE|(336) 555-0212]]
+
+Used [[KEEP|PROMPT]] cueing, [[KEEP|mod cues]] throughout. [[CHILD|Teo]] produced "[[KEEP|cuchara]]" ([[KEEP|/k/]] target) with [[KEEP|min cues]] [[KEEP|3 of 5]] trials. Peer [[PEER|Ana]] from his group imitated "[[KEEP|casa]]" independently. SALT code [[KEEP|[EW]]] noted for one utterance.
+
+A: [[CHILD|Teo]] continues toward [[KEEP|IFSP Outcome 2]]. [[KEEP|Age-equivalent]] range [[KEEP|2;6–3;0]] for articulation. Compared to prior eval ([[DATE|June 15, 2026]]) at [[AGENCY|Piedmont CDSA]], gains noted.
+
+P: Continue 2x/week. Service schedule below.
+
+Day	Time	Location
+Monday	[[TIME|2:30 PM]]	[[DAYCARE|Little Learners Daycare]]
+Thursday	[[TIME|10:00 AM]]	[[ORG|Little Learners Program]]
+
+[[CHILD|Teo]]'s teacher, Ms. [[TEACHER|Camila Rojas]], reports carryover of "[[KEEP|go]]" and "[[KEEP|cup]]" in classroom. Babysitter [[FAMILY|Yesenia Morales]] confirmed home practice. Next review IFSP date [[DATE|January 14, 2027]] at [[AGENCY|Piedmont CDSA]], [[PLACE|Hillsborough, NC 27278]].
+
+Electronically signed: [[PROVIDER|Ingrid Solano, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Speech Partners]]. Email: [[EMAIL|isolano@carolinabsp.com]]. Record ID: [[ID|CBSP-00487]].

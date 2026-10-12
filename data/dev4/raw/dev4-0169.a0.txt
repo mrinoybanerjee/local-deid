@@ -1,0 +1,177 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN (IFSP)
+
+[ ] Initial IFSP   [ ] Six-Month Review   [X] Annual IFSP Review
+
+Review Date: [[DATE|November 3, 2026]]
+Initial IFSP Date: [[DATE|May 10, 2025]]
+Most Recent Six-Month Review: [[DATE|May 12, 2026]]
+
+SECTION 1: CHILD AND FAMILY INFORMATION
+
+Child's Name: [[CHILD|Camila Torres]]
+Date of Birth: [[DATE|March 3, 2024]]    Current Age: [[KEEP|2;8]]
+Medicaid ID: [[MEDICAID_ID|512873940A]]
+Case/Record ID: [[ID|IT-20458]]
+
+Primary Home Language: [ ] English   [X] Spanish   [X] Both (bilingual home)
+Language Camila hears most: [X] Spanish   [X] English   [ ] Other
+
+Address: [[PLACE|482 Willowbrook Lane]], [[PLACE|Greensboro]], [[PLACE|Guilford County]], [[PLACE|27401]]
+Home Phone: [[PHONE|(336) 555-0148]]    Email: [[EMAIL|ana.torres82@example.com]]
+
+Mother/Guardian: [[PARENT|Ana Torres]]    Employer: [[ORG|Bright Smiles Family Dentistry]]
+Father/Guardian: [[PARENT|Diego Torres]]    Employer: [[ORG|Carolina Logistics Partners]]
+
+Household Members:
+[X] Mother   [X] Father   [X] Sibling(s)   [ ] Other relative in home
+
+Sibling(s) in home: [[SIBLING|Sol Torres]], age 7, second grader
+
+Service Coordinator: [[PROVIDER|James Caldwell]], [[AGENCY|Piedmont CDSA]]
+CDSA Office Address: [[PLACE|1900 Yanceyville Street]], [[PLACE|Greensboro]], [[PLACE|27405]]
+Service Coordinator Phone: [[PHONE|(336) 555-0177]]    Email: [[EMAIL|jcaldwell@piedmontcdsa.org]]
+
+Birth and Medical History: [[CHILD|Camila]] was born at [[HOSPITAL|Carolina Piedmont Medical Center]] at [[KEEP|36 weeks]] gestation, weighing [[KEEP|5 lbs 2 oz]], with an Apgar score of [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. She spent two days in the special care nursery for feeding support and was discharged home with no further NICU stay. Newborn hearing screening was passed bilaterally. A follow-up hearing screening on [[DATE|August 4, 2026]] showed results within normal limits for both ears. Vision screening at the last well-child visit was also within normal limits. Immunizations are up to date per the family's report.
+
+SECTION 2: FAMILY'S CONCERNS, PRIORITIES, AND RESOURCES (in the family's own words)
+
+[[PARENT|Ana Torres]] shared the following during today's review, with interpretation support provided by [[PROVIDER|Lucia Fernandez]], certified bilingual interpreter:
+
+"Our biggest concern right now is that [[CHILD|Camila]] still mixes up her sounds. She says things like 'tai' for 'sal' and we can't always tell what she wants. Her big sister, [[SIBLING|Sol]], talks for her a lot, and we worry Camila depends on that too much at home."
+
+"At home we are proud that she imitates more words now. She says 'mamá' and 'papá' clearly, and she tries to copy her sister when they play with blocks or watch cartoons together."
+
+"Our priority for this year is that Camila can tell her teacher at daycare what she needs without pointing. We also want her to be understood by her cousins when the whole family is together, and by her grandmother when she visits on weekends."
+
+[[PARENT|Diego Torres]] added: "I want to make sure we are doing the right things at home in both languages. Sometimes people tell us to only speak English, but we don't want her to lose Spanish."
+
+Family Resources Identified: extended family support (cousins [[FAMILY|Mateo Flores]] and [[FAMILY|Valentina Flores]] visit most weekends, along with their mother, Camila's aunt), a grandmother, [[FAMILY|Carmen Reyes]], who comes on Saturdays, reliable childcare through [[FAMILY|Rosa Fernández]] (babysitter, Tuesdays and Thursdays), stable housing, and both parents employed with flexible scheduling that allows them to attend therapy sessions.
+
+SECTION 3: DAILY ROUTINES AND NATURAL ENVIRONMENTS
+
+Where does the child spend most of the day?
+[X] Home   [X] Daycare   [ ] Relative's home   [ ] Other
+
+Typical Weekday Routine:
+[[TIME|7:00 AM]] – Wake up, breakfast with family
+[[TIME|8:15 AM]] – Dropped off at [[DAYCARE|Little Learners Daycare]]
+[[TIME|9:30 AM]] – Circle time and free play with classmates
+[[TIME|11:00 AM]] – Outdoor play and gross motor activities
+[[TIME|12:00 PM]] – Lunch and nap
+[[TIME|3:00 PM]] – Snack and small group activities
+[[TIME|4:30 PM]] – Picked up by [[PARENT|Ana Torres]] or [[FAMILY|Rosa Fernández]]
+[[TIME|6:00 PM]] – Dinner, bath, and bedtime routine with [[PARENT|Diego Torres]]
+
+Weekend Routine: Saturdays typically include a visit from [[FAMILY|Carmen Reyes]] and sometimes the cousins, [[FAMILY|Mateo Flores]] and [[FAMILY|Valentina Flores]], who bring their own dog over to play with the family's dog, [[PET|Luna]]. Sundays are quieter, with church and a family meal.
+
+At [[DAYCARE|Little Learners Daycare]], Camila's classmates [[PEER|Ethan Brooks]] and [[PEER|Zoe Martin]] often invite her to the pretend kitchen center, where she currently points and gestures to request items rather than using words consistently. Her lead teacher, Ms. [[TEACHER|Patricia Nguyen]], reports that Camila follows two-step directions in the classroom [[KEEP|7 out of 10]] opportunities observed over the past month, an improvement from [[KEEP|4 out of 10]] six months ago. The assistant teacher, Ms. [[TEACHER|Brianna Hale]], noted that Camila has started greeting peers by waving and saying "hi" without prompting.
+
+During bath time at home, Camila plays with toy boats while the family dog, [[PET|Luna]], sits nearby by the tub. During a recent home visit, Camila imitated the sentence "mira a [[PET|Luna]]" with full support and moderate cues, and separately imitated "Luna duerme" when the dog settled by her feet.
+
+Does the child participate in any community or therapy programs outside daycare?
+[X] Yes   [ ] No
+
+Camila attends the [[AGENCY|Little Learners Program]], a developmental playgroup coordinated through [[AGENCY|Piedmont CDSA]], on Wednesday mornings. The family also receives support from [[AGENCY|WIC]] and has an open case with [[AGENCY|Smart Start of Guilford County]] for childcare subsidy assistance.
+
+SECTION 4: PRESENT LEVELS OF DEVELOPMENT
+
+Communication Development (completed by [[PROVIDER|Sofia Delgado]], M.S., CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]])
+
+Assessment Date: [[DATE|October 20, 2026]]
+Tools Administered: [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], [[KEEP|Spanish Edition]]; [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]]; informal bilingual language sample and parent interview.
+
+Results:
+Auditory Comprehension Standard Score: [[KEEP|78]] ([[KEEP|7th percentile]])
+Expressive Communication Standard Score: [[KEEP|74]] ([[KEEP|4th percentile]])
+Total Language Score: [[KEEP|75]], [[KEEP|confidence interval 70-80]]
+Age Equivalent: [[KEEP|18-20 months]]
+
+Diagnosis: [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder)
+
+Camila presents with a bilingual expressive and receptive language delay affecting both English and Spanish, consistent with a true delay rather than typical bilingual acquisition patterns, as both languages were sampled. Phonological goals targeted /s/ in word-initial position using words such as [[KEEP|"sol"]], [[KEEP|"sapo"]], and [[KEEP|"silla"]], with Camila achieving [[KEEP|8/10]] ([[KEEP|80%]]) accuracy with [[KEEP|moderate cues]] across the last two sessions, up from [[KEEP|3/10]] ([[KEEP|30%]]) at the initial IFSP. She continues to omit final consonants, producing [[KEEP|[pe]]] for [[KEEP|"pez"]] and [[KEEP|[ka]]] for [[KEEP|"casa"]], and she substitutes /t/ for /s/ in some two-syllable words.
+
+Camila's older sister, [[SIBLING|Sol Torres]], is 7 years old and helps model language at home, according to her mother [[PARENT|Ana Torres]]. The family reports that when Camila hears her sister's name called across the room, she turns and smiles but does not yet attempt to say it, even though she can produce the therapy target word "sol" in structured drill with cueing.
+
+Oral mechanism exam was within normal limits for structure and function, with adequate range of motion for speech sound production. Hearing was within normal limits per the most recent screening noted above.
+
+Therapy approach: sessions follow a hybrid [[KEEP|PROMPT]] and [[KEEP|Hanen It Takes Two to Talk]] model, with caregiver coaching embedded in each visit and a home program sent weekly in both English and Spanish.
+
+Other Developmental Domains (reported by team members outside speech-language pathology): the occupational therapist, [[PROVIDER|Grace Whitfield]], noted age-appropriate fine motor skills with mild difficulty in bilateral coordination tasks. The physical therapist, [[PROVIDER|Marcus Ibanez]], reported gross motor skills within normal limits, with Camila walking, running, and climbing stairs with one hand held. No cognitive or social-emotional concerns were identified by the team at this time, though continued monitoring was recommended.
+
+SECTION 5: OTHER AGENCIES AND SERVICES INVOLVED
+
+[X] CDSA Service Coordination — [[AGENCY|Piedmont CDSA]]
+[X] WIC
+[X] Smart Start
+[ ] DSS (Department of Social Services)
+[X] Pediatric Medical Home — [[HOSPITAL|Piedmont Pediatric Partners]], Dr. [[PROVIDER|Samuel Ortiz]]
+[ ] Early Head Start
+
+Primary Care Provider: Dr. [[PROVIDER|Samuel Ortiz]], [[HOSPITAL|Piedmont Pediatric Partners]]
+Last Well-Child Visit: [[DATE|September 15, 2026]]
+
+SECTION 6: OUTCOMES
+
+Outcome 1: Camila will use two- to three-word phrases to request preferred items and activities in both English and Spanish, across home and daycare settings.
+
+Strategies:
+- Caregiver coaching during daily routines using expectant delay and modeling
+- Weekly individual therapy session targeting vocabulary expansion in both languages
+- Collaboration with Ms. [[TEACHER|Patricia Nguyen]] at [[DAYCARE|Little Learners Daycare]] on classroom cueing strategies
+- Visual supports sent home for use during bath and mealtime routines
+
+Service: Individual speech-language therapy, 30 minutes weekly, in home and daycare settings
+CPT Code: [[KEEP|92523]] (speech sound and language evaluation, as needed) and [[KEEP|92507]] (individual speech-language treatment)
+Frequency: 1x/week, 30 minutes, through [[EMPLOYER|Carolina Pediatric Speech]]
+Start Date: [[DATE|May 10, 2025]]    Projected Review Date: [[DATE|May 1, 2027]]
+
+Progress to Date: Camila has moved from primarily gestural requesting to combining two words in [[KEEP|6 of 10]] observed opportunities, a gain of [[KEEP|30 percentage points]] since the last review. Her mother reports she now says "más agua" and "no quiero" spontaneously at home.
+
+Outcome 2: Camila will produce word-initial /s/, /p/, and /k/ sounds correctly in single words during structured play, to improve intelligibility for familiar and unfamiliar listeners.
+
+Strategies:
+- Articulation drill using minimal pairs and phonological awareness activities
+- Home practice with [[PARENT|Ana Torres]] and [[PARENT|Diego Torres]] using a picture card set sent home weekly
+- Monthly consultation with classroom staff at [[DAYCARE|Little Learners Daycare]]
+- Incorporating the pet, [[PET|Luna]], and favorite toys into drill activities to increase motivation
+
+Service: Individual speech-language therapy, billed under CPT [[KEEP|92507]], continuing from the prior IFSP period
+Frequency: 1x/week, 30 minutes
+Provider: [[PROVIDER|Sofia Delgado]], M.S., CCC-SLP, [[EMPLOYER|CPSLS]]
+
+Progress to Date: accuracy on word-initial /s/ has increased from [[KEEP|3/10]] ([[KEEP|30%]]) at the initial IFSP to [[KEEP|8/10]] ([[KEEP|80%]]) at this review, with [[KEEP|moderate cues]] fading toward [[KEEP|minimal cues]] in the most recent two sessions. Accuracy for /k/ remains lower, at [[KEEP|5/10]] ([[KEEP|50%]]), and will continue to be targeted.
+
+Outcome 3: Camila will follow two-step directions in English and Spanish during daycare and home routines without physical prompting.
+
+Strategies:
+- Visual schedule supports at [[DAYCARE|Little Learners Daycare]]
+- Bilingual direction-following practice embedded in therapy sessions
+- Caregiver training on simplifying language input at home
+- Coordination with the [[AGENCY|Little Learners Program]] playgroup facilitator on carryover of strategies
+
+Service: Consultation with [[DAYCARE|Little Learners Daycare]] staff, quarterly, provided by [[PROVIDER|Sofia Delgado]]
+Next Review: [[DATE|May 1, 2027]]
+
+Progress to Date: following two-step directions has improved from [[KEEP|4/10]] to [[KEEP|7/10]] across settings, per combined report from Ms. [[TEACHER|Patricia Nguyen]] and the family.
+
+SECTION 7: TRANSITION PLANNING
+
+[ ] Not applicable at this time   [X] Discussed, no immediate action needed
+
+The team discussed the transition process that will begin closer to Camila's third birthday, including referral to the local school district's preschool exceptional children's program if continued services are indicated. [[PARENT|Ana Torres]] and [[PARENT|Diego Torres]] confirmed they understand this timeline and will be contacted by [[PROVIDER|James Caldwell]] to begin transition planning approximately six months before Camila turns three. The family requested that any future providers be comfortable supporting bilingual language development.
+
+SECTION 8: TEAM SIGNATURES
+
+I have participated in the development of this IFSP and agree with the outcomes and services listed above.
+
+Parent/Guardian: [[PARENT|Ana Torres]]                Date: [[DATE|November 3, 2026]]
+Parent/Guardian: [[PARENT|Diego Torres]]               Date: [[DATE|November 3, 2026]]
+Service Coordinator: [[PROVIDER|James Caldwell]], [[AGENCY|Piedmont CDSA]]     Date: [[DATE|November 3, 2026]]
+Speech-Language Pathologist: [[PROVIDER|Sofia Delgado]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]]     Date: [[DATE|November 3, 2026]]
+Occupational Therapist: [[PROVIDER|Grace Whitfield]]                Date: [[DATE|November 3, 2026]]
+Physical Therapist: [[PROVIDER|Marcus Ibanez]]                   Date: [[DATE|November 3, 2026]]
+Interpreter: [[PROVIDER|Lucia Fernandez]]                Date: [[DATE|November 3, 2026]]
+
+Next IFSP Review Due: [[DATE|May 1, 2027]]

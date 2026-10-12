@@ -1,0 +1,26 @@
+DAILY SESSION NOTE
+
+Client: [[CHILD|Mateo Hernández]]          DOB: [[DATE|04/12/2021]]          Age: [[KEEP|4;6]]
+Medicaid ID: [[MEDICAID_ID|MC4471239B]]          Case ID: [[ID|CDSA-3302]]
+Session Date: [[DATE|October 9, 2026]]          Session Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+
+Setting: [X] Home  [ ] Daycare  [ ] Clinic  [ ] Telehealth
+Language used: [X] English  [X] Spanish  [ ] Interpreter present
+
+Weekly Schedule:
+
+| Day       | Start            | Stop             | Location                                              |
+|-----------|------------------|-------------------|--------------------------------------------------------|
+| Monday    | [[TIME|3:30 PM]] | [[TIME|4:15 PM]] | Home – [[PLACE|118 Birchwood Lane, Asheboro, NC 27203]] |
+| Wednesday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[DAYCARE|Little Sprouts Daycare]], [[PLACE|Asheboro]]  |
+| Friday    | [[TIME|1:00 PM]] | [[TIME|1:45 PM]] | [[ORG|Randolph County Library]] community room          |
+
+S: [[CHILD|Mateo]] arrived from [[DAYCARE|Little Sprouts Daycare]] with his grandmother, [[FAMILY|doña Lupe]], who reports he slept well and was "muy contento" this morning. His mother, [[PARENT|Carla Hernández]], called ahead at [[PHONE|(336) 555-0147]] to confirm transportation. [[CHILD|Mateo]]'s older sister, [[SIBLING|Valentina]], joined briefly after school and modeled turn-taking during a shared book task.
+
+O: Targeted goals from IFSP Outcome [[KEEP|2]]: increase intelligibility of final consonants and expand MLU in both languages. [[CHILD|Mateo]] produced /k/ in final position with [[KEEP|mod cues]] in [[KEEP|7/10]] trials ("[[KEEP|duck]]" → "[[KEEP|duh]]", self-corrected once). In Spanish, with his dog nearby he said "[[PET|Rocky]] corre," demonstrating a 2-word combination. [[KEEP|Auditory Comprehension]] on informal probe estimated at [[KEEP|26 months]] equivalent, consistent with the prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score of [[KEEP|73-83]] ([[KEEP|90% CI]]).
+
+A: [[CHILD|Mateo]] continues to benefit from [[KEEP|PROMPT]] cueing and a modified [[KEEP|Hanen]] approach at home. Family reports continued participation in the Wednesday playgroup at [[ORG|St. Andrew's Lutheran Church]], where [[PROVIDER|Miss Ana]] leads bilingual story time; this supports generalization of vocabulary targets. Grandmother mentioned a cousin's upcoming visit from [[PLACE|Guatemala City]] and shared his aunt's number, [[PHONE|+502 5523-4178]], in case scheduling changes are needed during the visit.
+
+P: Continue biweekly direct therapy per the schedule above. Will coordinate with [[TEACHER|la maestra Carmen]] at [[DAYCARE|Little Sprouts Daycare]] regarding classroom carryover, and with service coordinator [[PROVIDER|Mr. Tom]] at [[AGENCY|Piedmont CDSA]], reachable at [[PHONE|336.555.0199]] or [[EMAIL|tom.rivera@piedmontcdsa.org]], ahead of the [[DATE|January 15, 2027]] IFSP review. Next session: [[DATE|October 13, 2026]], [[TIME|3:30 PM]].
+
+Clinician: [[PROVIDER|Jess Alvarado]], M.S., CCC-SLP          [[EMPLOYER|Carolina Pediatric Speech Partners]]

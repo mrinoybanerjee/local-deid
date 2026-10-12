@@ -1,0 +1,27 @@
+NOTA DE SESION - TERAPIA DEL HABLA Y LENGUAJE
+
+Nombre: [[CHILD|Mateo Fernandez Ruiz]]
+Fecha de nacimiento: [[DATE|9 de enero de 2022]]
+Fecha de servicio: [[DATE|3 de marzo de 2026]]
+ID de caso: [[ID|NC-48217-M]]
+ID de Medicaid: [[MEDICAID_ID|739204815B]]
+Proveedor: [[PROVIDER|Carolina Gomez Solis]], MS CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech and Language Services, PLLC]] ("[[EMPLOYER|Carolina Pediatric]]", abreviado "[[EMPLOYER|CPSLS]]")
+
+ANTECEDENTES: [[CHILD|Mateo]] nacio a las [[KEEP|34 semanas]] de gestacion en el [[HOSPITAL|Wake Regional Medical Center]], con un peso de [[KEEP|1810 gramos]] y Apgar de [[KEEP|6 y 8]]. Paso [[KEEP|19 dias]] en la unidad de cuidados intensivos neonatales (NICU) del [[HOSPITAL|Wake Regional Medical Center]], bajo el cuidado del Dr. [[PROVIDER|Hector Villalobos]] y la neonatologa Dra. [[PROVIDER|Susan Whitfield]]. Fue referido por la pediatra Dra. [[PROVIDER|Ana Beltran]] del consultorio [[ORG|Triangle Kids Pediatrics]].
+
+La familia recibe apoyo de [[AGENCY|DSS del Condado de Wake]] y participa en el programa [[AGENCY|WIC]]. Tambien estan inscritos con [[AGENCY|Smart Start del Condado de Wake]] y recibieron una referencia de [[AGENCY|Early Head Start]] el [[DATE|15 de febrero de 2026]]. La coordinadora de servicios, [[PROVIDER|Marisol Pena]], de la [[AGENCY|Wake County Partnership for Children]], hizo la ultima revision de IFSP el martes [[DATE|4 de febrero de 2026]].
+
+SUBJETIVO: La mama, [[PARENT|Lucia Fernandez]], reporta que [[CHILD|Mateo]] durmio bien anoche y llego a la sesion con su hermana mayor, [[SIBLING|Camila Fernandez]], quien estaba jugando con su perrita, [[PET|Lola]], antes de la sesion. La mama menciona que [[CHILD|Mateo]] estuvo con su abuela, [[FAMILY|Rosa Ruiz]], el fin de semana del [[DATE|28 de febrero]] al [[DATE|1 de marzo de 2026]], y que la abuela reporto buen progreso en casa.
+
+OBJETIVO: Se administro el subtest [[KEEP|Comprension Auditiva]] del [[KEEP|PLS-5]], obteniendo una puntuacion estandar de [[KEEP|82]], percentil [[KEEP|12]]. Edad equivalente de [[KEEP|2;6]]. En produccion de sonidos, [[CHILD|Mateo]] logro producir el fonema [[KEEP|/k/]] en posicion inicial con claves [[KEEP|minimas]] en [[KEEP|8 de 10]] ensayos (80%). Para el fonema [[KEEP|/s/]], dijo "[[KEEP|tho]]" por "[[KEEP|sol]]" con claves [[KEEP|moderadas]]. Se trabajo tambien con el programa [[KEEP|PROMPT]] para mejorar la coordinacion oromotora.
+
+Durante el juego, [[CHILD|Mateo]] intento comunicarse con su companero de grupo, [[PEER|Diego Alvarado]], usando el enfoque [[KEEP|Hanen]] para ampliar emisiones de dos palabras. La maestra del salon, [[TEACHER|Jennifer Suarez]], en [[DAYCARE|Little Sprouts Early Learning Center]], reporto que [[CHILD|Mateo]] usa gestos para pedir ayuda a su companera [[PEER|Valentina Ortiz]] durante el tiempo de juego.
+
+ANALISIS: [[CHILD|Mateo]] cumple con [[KEEP|objetivo 2]] del IFSP en [[KEEP|3 de 5]] intentos sin ayuda. Se recomienda continuar con terapia [[KEEP|2 veces]] por semana.
+
+PLAN: Proxima sesion programada para el [[DATE|10/03/2026]] a las [[TIME|3:30 pm]] en la clinica ubicada en [[PLACE|4521 Falls of Neuse Road]], [[PLACE|Raleigh]], [[PLACE|27609]]. El padre, [[PARENT|Jorge Fernandez]], confirmara por telefono al [[PHONE|(919) 555-0147]] o por correo [[EMAIL|jfernandez88@mailbox.com]]. Para preguntas de facturacion contactar a [[EMPLOYER|CPSLS]] al [[PHONE|(919) 555-0199]] o visitar [[URL|www.carolinapedsslp.com]].
+
+Codigo CPT facturado: [[KEEP|92507]]. Diagnostico ICD-10: [[KEEP|F80.1]].
+
+Firma: [[PROVIDER|C. Gomez Solis]], MS CCC-SLP
+Interprete presente: [[PROVIDER|Daniela Marquez]]

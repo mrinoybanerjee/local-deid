@@ -1,0 +1,44 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE
+
+Service date: [[DATE|October 8, 2026]]
+Client: [[CHILD|Mateo Rafael Serrano]], called [[CHILD|Teo]]
+DOB: [[DATE|August 6, 2022]]  Age: [[KEEP|4;2]]
+Record: [[ID|NC-SLP-804271]]  Medicaid: [[MEDICAID_ID|804271639R]]
+Clinician: [[PROVIDER|Elena Marisol Varela]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Little Lantern Speech Services]]
+Location: [[PLACE|218 Willowglass Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27904]]
+
+[X] Home  [ ] Daycare  [ ] Telepractice
+[X] English  [X] Spanish support  [X] Parent present
+CPT: [[KEEP|92507]]  Modifier: [[KEEP|GP]]  ICD-10: [[KEEP|F80.2]]
+
+Session schedule:
+| Day | Start | Stop | Location |
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:40 AM]] | [[DAYCARE|Willowglass Early Learning]] |
+| Thursday | [[TIME|2:10 PM]] | [[TIME|2:50 PM]] | Home, [[PLACE|Alderbrook]] |
+| Saturday | [[TIME|10:15 AM]] | [[TIME|10:45 AM]] | [[ORG|Cedarfen Community Center]] |
+
+S — Family report:
+Mother [[PARENT|Guadalupe Serrano]], called [[PARENT|Lupita]], reported more spontaneous requests during meals. Father [[PARENT|Jesús Serrano]], called [[PARENT|Chuy]], practiced waiting before offering help. Sister [[SIBLING|Inés Serrano]] joined the opening activity. Grandfather [[FAMILY|José Serrano]], called [[FAMILY|Pepe]], provided transportation. The family attends a playgroup at [[ORG|Cedarfen Community Center]]. Volunteer Mr. [[PERSON|Dorian Vale]] supplied picture cards. Mother reported that the child said “[[PET|Miso]] run” when the family cat crossed the kitchen. No illness or medication changes were reported.
+
+O — Skilled intervention:
+[X] Play activities  [X] Caregiver coaching  [X] Speech sound practice
+
+The clinician used [[KEEP|Hanen]] strategies during a pretend picnic. [[CHILD|Teo]] requested [[KEEP|"more juice"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-word combinations occurred in [[KEEP|70%]] of sampled turns. For [[KEEP|IFSP outcome 2]], the child followed related directions in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Productions included [[KEEP|"baby eat"]] and [[KEEP|"open box"]]. Initial [[KEEP|/k/]] occurred in [[KEEP|6/10]] trials with [[KEEP|max cues]]; [[KEEP|[t]]] substitutions persisted. Targets were [[KEEP|"cup"]], [[KEEP|"car"]], and [[KEEP|"key"]]. No tactile prompting was used. A brief movement break supported return to the table.
+
+Prior fictional evaluation results were reviewed: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These results informed task selection; no standardized reassessment occurred today. The language sample included the [[KEEP|SALT]] code [[KEEP|[EW]]] for an extra word.
+
+A — Clinical impression:
+Participation improved when choices were visible and adults paused. [[CHILD|Mateo]] used gestures effectively but needed verbal models for longer messages. English and Spanish responses were accepted. Speech errors occurred across both languages. Teacher Ms. [[TEACHER|Marina Bell]] previously reported similar difficulty during classroom play with [[PEER|Juan Ortiz]], called [[PEER|Juanito]], and [[PEER|Amara Finch]]. Today's observations support continued treatment and caregiver practice. Fatigue reduced accuracy near session end.
+
+P — Next steps:
+[X] Continue current frequency  [X] Home practice reviewed
+
+Mother will practice requests during snack and book routines. Practice will remain brief, with choices and wait time. Provider [[PROVIDER|M.R.]] will coordinate picture vocabulary with classroom staff. Service coordinator [[PROVIDER|Nadia Soto]] at [[AGENCY|Cedarfen Child Development Office]] will review scheduling on [[DATE|October 15, 2026]]. Next session will address directions and initial [[KEEP|/k/]].
+
+Parent contact: [[PHONE|(919) 555-0146]]
+Clinician email: [[EMAIL|elena.varela@littlelantern.example]]
+Resource: [[URL|https://littlelantern.example/practice]]
+
+[X] Caregiver demonstrated understanding  [ ] Additional interpreter requested
+Signature: [[PROVIDER|Elena Marisol Varela]]

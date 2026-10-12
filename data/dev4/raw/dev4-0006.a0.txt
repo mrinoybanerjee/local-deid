@@ -1,0 +1,90 @@
+Tipo de documento: Plan Individualizado de Servicios para la Familia (IFSP) – Revisión semestral
+Nombre del niño: [[CHILD|Mateo Alejandro Flores Ramírez]]
+Apodo: [[CHILD|Teo]]
+Fecha de nacimiento: [[DATE|14 de febrero de 2024]]
+Edad actual: [[KEEP|2;8]]
+Número de expediente: [[ID|IFSP-2026-04471]]
+Número de Medicaid: [[MEDICAID_ID|987654321A]]
+Idioma del hogar: Español
+Madre: [[PARENT|Lucía Esperanza Ramírez Torres]]
+Padre: [[PARENT|Carlos Andrés Flores Medina]]
+Dirección: [[PLACE|Calle Main 1425]], [[PLACE|Greensboro]], NC [[PLACE|27401]]
+Condado: [[PLACE|Condado de Guilford]]
+Teléfono: [[PHONE|(336) 555-0148]]
+Correo electrónico: [[EMAIL|lucia.ramirez84@example.com]]
+Coordinadora de servicios: [[PROVIDER|Brenda Hall]]
+Agencia CDSA: [[AGENCY|CDSA del Piedmont]], oficina de [[PLACE|Greensboro]]
+Intérprete: [[PROVIDER|Rosa Jiménez]]
+Terapeuta del habla y lenguaje: [[PROVIDER|María Elena Castro, M.S., CCC-SLP]]
+Agencia empleadora de la terapeuta: [[EMPLOYER|Terapias Pediátricas Carolina, PLLC]]
+Fecha del IFSP inicial: [[DATE|3 de marzo de 2025]]
+Fecha de esta revisión: [[DATE|6 de octubre de 2026]]
+
+INFORMACIÓN FAMILIAR
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Esperanza Ramírez Torres]], su padre, [[PARENT|Carlos Andrés Flores Medina]], y su hermana mayor, [[SIBLING|Sol Flores Ramírez]], de [[KEEP|siete años]], en su casa de [[PLACE|Greensboro]]. La familia llegó de México hace seis años y el español es el idioma principal del hogar. La madre trabaja en el turno de noche en [[ORG|Avícola Piedmont, Inc.]] y el padre trabaja como supervisor en [[ORG|Construcción Sánchez y Asociados]]. Durante el día, [[CHILD|Mateo]] y [[SIBLING|Sol]] pasan tiempo con su niñera, [[FAMILY|Yesenia Pérez]], quien los cuida tres días a la semana mientras los padres trabajan. Los fines de semana, los niños suelen visitar a sus primos, [[FAMILY|Diego Ramírez]] y [[FAMILY|Valentina Ramírez]], hijos de la tía materna. La familia tiene un perro llamado [[PET|Max]], con quien [[CHILD|Mateo]] disfruta jugar en el patio.
+
+[[CHILD|Mateo]] asiste tres mañanas por semana al [[DAYCARE|Centro de Cuidado Infantil Arcoíris]], donde comparte el salón con sus compañeros [[PEER|Emily]] y [[PEER|Jayden]]. Su pediatra, la [[PROVIDER|Dra. Ashley Monroe]], lo ha seguido desde el nacimiento y refirió a la familia al [[AGENCY|CDSA del Piedmont]] después de notar un retraso notable en el lenguaje expresivo durante la visita de los [[KEEP|18 meses]].
+
+HISTORIAL DE LA REFERENCIA
+
+La [[PROVIDER|Dra. Ashley Monroe]] refirió formalmente a [[CHILD|Mateo]] al [[AGENCY|CDSA del Piedmont]] el [[DATE|2 de diciembre de 2024]], después de que la maestra del salón en el [[DAYCARE|Centro de Cuidado Infantil Arcoíris]], [[TEACHER|Patricia Núñez]], también expresara preocupación por la falta de palabras y por el uso limitado de gestos para comunicarse durante las actividades grupales. La evaluación inicial de elegibilidad se realizó el [[DATE|10 de enero de 2025]], y el primer IFSP se firmó el [[DATE|3 de marzo de 2025]], con la familia, la coordinadora de servicios [[PROVIDER|Brenda Hall]], y la terapeuta [[PROVIDER|María Elena Castro]] presentes. Desde entonces, la familia ha asistido a todas las sesiones programadas, con excepción de dos citas reprogramadas por enfermedad.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en palabras de la familia)
+
+Durante la entrevista, con apoyo de la intérprete [[PROVIDER|Rosa Jiménez]], la madre compartió: "Lo que más nos preocupa es que [[CHILD|Teo]] no nos dice lo que quiere. Señala o llora, pero no usa palabras. Su hermana [[SIBLING|Sol]] hablaba mucho a esta edad, y por eso notamos la diferencia." El padre agregó: "Queremos que pueda decirle a su maestra qué necesita, y que pueda jugar con otros niños sin frustrarse."
+
+La familia identificó tres prioridades: que [[CHILD|Mateo]] use palabras para pedir comida y juguetes durante las comidas y el juego; que pueda seguir instrucciones sencillas en la guardería; y que la familia aprenda estrategias para fomentar el lenguaje en casa, en ambos idiomas.
+
+RUTINAS DIARIAS
+
+La familia describió un día típico. [[CHILD|Mateo]] se despierta alrededor de las [[TIME|6:30 a.m.]] y desayuna con su hermana [[SIBLING|Sol]] antes de que la niñera [[FAMILY|Yesenia]] los lleve a la guardería a las [[TIME|8:00 a.m.]]. En el [[DAYCARE|Centro de Cuidado Infantil Arcoíris]], participa en círculo de canciones, juego libre y merienda. Por la tarde, la familia cena junta alrededor de las [[TIME|6:00 p.m.]], y es en ese momento cuando los padres notan más las dificultades de comunicación de [[CHILD|Mateo]]: él señala el refrigerador o jala la mano de su madre en lugar de pedir con palabras. Antes de dormir, a las [[TIME|8:30 p.m.]], la rutina incluye un baño y cuentos, momento que el padre identificó como una buena oportunidad para practicar vocabulario nuevo.
+
+OBSERVACIÓN EN LA GUARDERÍA
+
+Durante una visita de consulta, la terapeuta observó a [[CHILD|Mateo]] en el salón de la maestra [[TEACHER|Patricia Núñez]] junto con sus compañeros [[PEER|Emily]], [[PEER|Jayden]] y [[PEER|Sofía]]. [[CHILD|Mateo]] se mantuvo cerca de la maestra durante la mayor parte del tiempo de juego libre y mostró dificultad para unirse al juego simbólico que [[PEER|Emily]] y [[PEER|Jayden]] organizaban con bloques. Cuando [[PEER|Sofía]] le ofreció un bloque, [[CHILD|Mateo]] lo tomó sin establecer contacto visual ni usar ninguna palabra. La maestra [[TEACHER|Patricia Núñez]] comentó que estas interacciones son típicas y que suele redirigir a [[CHILD|Mateo]] hacia actividades sensoriales cuando se frustra.
+
+OTROS PROVEEDORES Y AGENCIAS
+
+[[CHILD|Mateo]] recibe terapia ocupacional con [[PROVIDER|Jennifer Combs, OTR/L]], una vez por semana, enfocada en la aversión táctil a ciertas texturas de comida. También recibe fisioterapia mensual con [[PROVIDER|Michael Sutton, PT, DPT]] por hipotonía leve de tronco observada desde los [[KEEP|12 meses]]. La familia recibe apoyo nutricional de la oficina de WIC del [[PLACE|Condado de Guilford]], y la madre asistió a dos talleres de crianza ofrecidos por la [[AGENCY|Coalición de Apoyo a Familias Latinas del Piedmont (CAFLAP)]]. La coordinadora de servicios, [[PROVIDER|Brenda Hall]], refirió a la familia a [[AGENCY|CAFLAP]] para ayuda con el proceso de residencia y acceso a recursos comunitarios en español.
+
+La familia también fue conectada con el [[AGENCY|Departamento de Servicios Sociales del Condado de Guilford]] para asistencia con vivienda, y actualmente espera una cita de valoración. Antes de la referencia al [[AGENCY|CDSA del Piedmont]], la madre había contactado a Early Head Start buscando un cupo para [[CHILD|Mateo]], pero no había plazas disponibles en el momento de esta revisión.
+
+APOYO COMUNITARIO ADICIONAL
+
+La familia asiste los domingos a una iglesia local en [[PLACE|Greensboro]], donde [[SIBLING|Sol]] canta en el coro infantil y [[CHILD|Mateo]] juega en la guardería de la iglesia durante el servicio. La madre mencionó que varias familias de la congregación han compartido información sobre programas de Smart Start del [[PLACE|Condado de Guilford]], y la familia planea inscribirse en un grupo de apoyo para padres de niños con retrasos del desarrollo que se reúne mensualmente en ese lugar.
+
+EVALUACIÓN Y DESEMPEÑO ACTUAL
+
+La evaluación más reciente, realizada por [[PROVIDER|María Elena Castro, M.S., CCC-SLP]], utilizó el [[KEEP|PLS-5]] ([[KEEP|Preschool Language Scale-5]]), versión en español. En el subtest de [[KEEP|Comprensión Auditiva]], [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|73]] (percentil [[KEEP|4]]), y en [[KEEP|Comunicación Expresiva]] obtuvo una puntuación estándar de [[KEEP|68]] (percentil [[KEEP|2]]), con un intervalo de confianza de [[KEEP|62-78]]. La edad equivalente de lenguaje expresivo fue de [[KEEP|14 meses]], con un rango de [[KEEP|12-16 meses]]. Estos resultados confirman un retraso significativo en ambos dominios del lenguaje, en ambos idiomas.
+
+Además del lenguaje, el equipo administró el dominio motor y cognitivo del [[KEEP|Bayley-4]] ([[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]]). [[CHILD|Mateo]] obtuvo una puntuación compuesta de [[KEEP|91]] en el dominio cognitivo (percentil [[KEEP|27]]), dentro del rango promedio, y una puntuación compuesta de [[KEEP|83]] en motor grueso (percentil [[KEEP|13]]), consistente con la hipotonía leve de tronco reportada por fisioterapia. No se identificaron preocupaciones en el dominio socioemocional según el cuestionario [[KEEP|ASQ:SE-2]] completado por los padres, con una puntuación total de [[KEEP|45]], por debajo del punto de corte de [[KEEP|60]].
+
+Historial médico relevante: nacido a las [[KEEP|38 semanas]] de gestación, con peso al nacer de [[KEEP|3,200 gramos]] y puntaje de Apgar de [[KEEP|8/9]]. No hubo complicaciones perinatales significativas. El código de facturación para la evaluación fue [[KEEP|92523]], con diagnóstico correspondiente [[KEEP|F80.1]] (trastorno mixto del lenguaje receptivo-expresivo).
+
+Durante la sesión de evaluación, se trabajaron palabras con [[KEEP|/s/]] inicial, incluyendo "[[KEEP|sol]]", "[[KEEP|sapo]]" y "[[KEEP|silla]]". [[CHILD|Mateo]] produjo "[[KEEP|tol]]" para "[[KEEP|sol]]" y "[[KEEP|apo]]" para "[[KEEP|sapo]]", mostrando omisión consistente del fonema [[KEEP|/s/]] inicial. También se observó sustitución de [[KEEP|/k/]] por [[KEEP|/t/]], como en "[[KEEP|tasa]]" por "[[KEEP|casa]]". Con claves táctiles y [[KEEP|mod cues]], logró aproximar [[KEEP|/s/]] en aislamiento en [[KEEP|3 de 5]] intentos.
+
+RESULTADOS DEL IFSP Y ESTRATEGIAS
+
+[[KEEP|Resultado 1]]: [[CHILD|Mateo]] usará al menos [[KEEP|20]] palabras funcionales de manera espontánea para pedir objetos y actividades preferidas, en el hogar y en la guardería, para [[DATE|6 de abril de 2027]]. Estrategias: los padres y la niñera, [[FAMILY|Yesenia Pérez]], usarán el enfoque [[KEEP|Hanen]] ("[[KEEP|It Takes Two to Talk]]") durante las comidas y el juego, ofreciendo opciones con apoyo visual y esperando con expectativa antes de dar el objeto deseado. El equipo de la guardería incorporará las mismas estrategias durante la merienda.
+
+[[KEEP|Resultado 2]]: [[CHILD|Mateo]] seguirá instrucciones de un paso con apoyo gestual en el [[KEEP|80%]] de las oportunidades durante actividades estructuradas, para [[DATE|6 de abril de 2027]]. Estrategias: la terapeuta, [[PROVIDER|María Elena Castro]], modelará instrucciones simples acompañadas de gestos naturales durante las sesiones quincenales, y se entrenará a la familia para replicar el modelo durante la rutina de baño y vestido.
+
+[[KEEP|Resultado 3]]: la familia reportará sentirse segura usando al menos tres estrategias de estimulación del lenguaje en casa, en español, para [[DATE|6 de abril de 2027]]. Estrategias: sesiones de coaching familiar quincenales con [[PROVIDER|María Elena Castro]] y la intérprete [[PROVIDER|Rosa Jiménez]], con videos cortos grabados por los padres para revisión conjunta.
+
+El equipo también acordó continuar monitoreando la aversión táctil a texturas de comida junto con [[PROVIDER|Jennifer Combs]], y el tono muscular de tronco junto con [[PROVIDER|Michael Sutton]], ambos coordinados con el plan de lenguaje para evitar duplicar objetivos.
+
+PLAN DE SERVICIOS Y FECHAS
+
+Terapia de habla y lenguaje: sesiones individuales de 30 minutos, dos veces por semana, en el hogar, con [[PROVIDER|María Elena Castro]], a partir del [[DATE|13 de octubre de 2026]]. Terapia ocupacional: sesiones de 45 minutos, una vez por semana, con [[PROVIDER|Jennifer Combs]]. Fisioterapia: sesiones de 30 minutos, una vez al mes, con [[PROVIDER|Michael Sutton]]. Coordinación de servicios: contacto mensual con [[PROVIDER|Brenda Hall]], con la próxima revisión de seis meses programada para el [[DATE|6 de abril de 2027]].
+
+Debido al horario nocturno de la madre, las sesiones de terapia de habla y lenguaje se programaron para las [[TIME|10:00 a.m.]], cuando ella puede estar despierta y presente. El padre, [[PARENT|Carlos Andrés Flores Medina]], participará en las sesiones los días que su turno lo permita. El transporte no es una barrera, ya que la familia cuenta con vehículo propio; sin embargo, la coordinadora de servicios, [[PROVIDER|Brenda Hall]], les proporcionó información sobre el beneficio de transporte no médico de emergencia (NEMT) de Medicaid en caso de que surgiera la necesidad en el futuro.
+
+La familia firmó el consentimiento para todos los servicios el [[DATE|6 de octubre de 2026]], con la intérprete [[PROVIDER|Rosa Jiménez]] presente para asegurar comprensión completa del plan. Se proporcionó copia impresa en español a la madre, [[PARENT|Lucía Esperanza Ramírez Torres]], y copia electrónica fue enviada a [[EMAIL|lucia.ramirez84@example.com]]. La intérprete [[PROVIDER|Rosa Jiménez]] está certificada por el estado de Carolina del Norte para servicios médicos y de intervención temprana, y ha trabajado con la familia desde la evaluación inicial, lo cual ha facilitado la confianza y la comunicación durante todo el proceso.
+
+RESUMEN
+
+El equipo considera que [[CHILD|Mateo]] muestra buen potencial de progreso dado el ambiente familiar comprometido y motivado. Se recomienda continuar monitoreando el desarrollo del lenguaje en ambos idiomas y reevaluar formalmente con el [[KEEP|PLS-5]] antes de la transición al preescolar. La coordinadora de servicios, [[PROVIDER|Brenda Hall]], permanece disponible en [[PHONE|(336) 555-0199]] para cualquier pregunta de la familia. El equipo acordó revisar el progreso informalmente por teléfono a los tres meses, antes de la revisión formal de seis meses, para ajustar las estrategias si fuera necesario. Todos los miembros del equipo, incluyendo a los padres, firmaron el acuerdo de confidencialidad y recibieron una copia del plan completo en papel y de forma digital. La próxima actualización de este informe se enviará a todos los proveedores antes de la fecha programada.
+
+Documento preparado por: [[PROVIDER|María Elena Castro, M.S., CCC-SLP]], [[EMPLOYER|Terapias Pediátricas Carolina, PLLC]].
+Fecha de este informe: [[DATE|6 de octubre de 2026]].

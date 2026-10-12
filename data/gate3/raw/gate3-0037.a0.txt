@@ -1,0 +1,138 @@
+Pine Lantern Pediatric Speech and Language Therapy, PLLC  
+Employer: [[EMPLOYER|Pine Lantern Pediatric Speech and Language Therapy, PLLC]]  
+Office: [[PLACE|1846 Lantern Hollow Drive]], Suite [[PLACE|203]], [[PLACE|Juniper Bend]], North Carolina [[PLACE|27583]]  
+Telephone: [[PHONE|(919) 555-0146]]  
+Email: [[EMAIL|elena.vega@pinelantern.example]]  
+Website: [[URL|https://pinelantern.example]]
+
+Child: [[CHILD|Nicolás de la Cruz]]  
+Preferred name: [[CHILD|Nico]]  
+Date of birth: [[DATE|July 14, 2022]]  
+Age at evaluation: [[KEEP|4;2]]  
+Parents: [[PARENT|Mariela de la Cruz]] and [[PARENT|Gabriel Santos-Reyes]]  
+Home: [[PLACE|728 Meadowfinch Court]], [[PLACE|Juniper Bend]], North Carolina [[PLACE|27583]]  
+Parent telephone: [[PHONE|(984) 555-0128]]  
+Parent email: [[EMAIL|mariela.family@example.com]]  
+Record number: [[ID|PL-26-0418]]  
+Medicaid member number: [[MEDICAID_ID|482761935Q]]  
+Authorization number: [[ID|NC-ST-260914-07]]  
+Evaluation date: [[DATE|September 14, 2026]]  
+Appointment: [[TIME|9:10 a.m.]] to [[TIME|10:35 a.m.]]  
+Report date: [[DATE|September 18, 2026]]  
+Clinician: [[PROVIDER|Elena Marisol Vega-Pérez]], MS, CCC-SLP  
+Service: Speech and language evaluation, CPT [[KEEP|92523]]  
+Diagnostic impression: Mixed receptive-expressive language disorder, ICD-10 [[KEEP|F80.2]]
+
+Dear [[PARENT|Mariela de la Cruz]] and [[PARENT|Gabriel Santos-Reyes]],
+
+Thank you for bringing [[CHILD|Nicolás]] to meet with me. This letter explains what we learned, what the results mean, and how we can help. Your child showed curiosity, humor, and a strong wish to connect. Those strengths will support his progress.
+
+I am a bilingual pediatric speech-language pathologist with [[EMPLOYER|Pine Lantern Therapy]]. I used English and Spanish during our visit. We discussed your concerns in your preferred language and checked that my examples matched what you see at home.
+
+You requested this evaluation because [[CHILD|Nico]] often uses short messages, misses parts of directions, and becomes upset when listeners misunderstand him. You want him to ask for help, explain what happened, and join play more easily. You also want him to keep using Spanish with his family.
+
+The referral from Dr. [[PROVIDER|Avery Bellamy]] arrived on [[DATE|August 19, 2026]]. It described concerns about language development and requested a speech-language assessment. Our office reviewed the referral, your questionnaire, classroom notes, and an earlier developmental service summary.
+
+[[CHILD|Nicolás]] attends [[DAYCARE|Little Learners Daycare]] in [[PLACE|Juniper Bend]]. His classroom teacher, Miss [[TEACHER|Ana]], reports that he learns familiar routines well. He needs extra support when a direction includes an unfamiliar word or changes the usual order.
+
+Another classroom staff member, la maestra [[TEACHER|Carmen]], described successful play with classmates [[PEER|Sofía Valdés]] and [[PEER|Eli Parker]]. He watches their actions and joins with objects or gestures. He sometimes leaves when the game requires spoken negotiation.
+
+You also shared records from the [[KEEP|Little Learners Program]], a community therapy program. Although its name resembles [[DAYCARE|Little Learners Daycare]], it provides a separate service. Its coordinator, [[PROVIDER|Tessa Morgan]], helped arrange the records for this visit.
+
+Your main concern is communication in daily life. You described missed messages during meals, dressing, and playground play. You said that relatives understand more when they know the situation. Unfamiliar adults often need gestures or repeated attempts.
+
+You reported that [[CHILD|Nicolás]] was born at [[KEEP|39 weeks, 2 days]] at [[HOSPITAL|Cedar Moon Children's Hospital]]. His birth weight was [[KEEP|7 pounds, 3 ounces]]. Reported Apgar scores were [[KEEP|8]] at the first check and [[KEEP|9]] at the later check.
+
+The birth history described an uncomplicated delivery and no extended hospital stay. You reported no feeding tube, breathing support, seizures, or major surgery. These details came from your questionnaire and interview; I did not independently review the delivery record.
+
+Early feeding was comfortable overall. You recalled some difficulty moving from smooth foods to mixed textures. He now eats several familiar family foods and drinks from an open cup. You reported no current coughing, choking, or pain with meals.
+
+There were several ear infections during early childhood. The audiology report from [[PROVIDER|Lena Okafor]] at [[HOSPITAL|Cedar Moon Children's Hospital]], dated [[DATE|August 28, 2026]], documented hearing adequate for speech access during that visit. Please continue routine hearing follow-up with his medical team.
+
+Dr. [[PROVIDER|Avery Bellamy]] remains the primary care physician. You reported no daily prescription medicines and no known medication allergies. Sleep is usually steady, although settling takes longer after busy days. No new medical concern appeared during this assessment.
+
+You recalled independent walking at approximately [[KEEP|14 months]] and recognizable words near [[KEEP|20 months]]. Word combinations became more common around [[KEEP|30 months]]. These are parent estimates. They help describe development but do not establish a diagnosis alone.
+
+[[CHILD|Nico]] lives with both parents and his sister, [[SIBLING|Lucía Santos-Reyes]], who is [[KEEP|7 years]] old. His grandmother, [[FAMILY|Mercedes del Río]], visits regularly. A family caregiver, doña [[FAMILY|Lupe]], provides care on some afternoons.
+
+The family dog, [[PET|Bongo]], often appears in his play stories. During our visit, he said, “[[PET|Bongo]] go outside.” Because that message concerned a familiar pet, you understood his meaning immediately. I needed the surrounding play to understand it.
+
+Spanish is the main language used during family meals and visits. English is common at daycare and during community activities. [[PARENT|Gabriel Santos-Reyes]] uses both languages at home. [[PARENT|Mariela de la Cruz]] usually speaks Spanish during bedtime stories.
+
+His sister, [[SIBLING|Lucía]], moves comfortably between the languages during play. His grandmother, [[FAMILY|Mercedes del Río]], prefers Spanish. You described these language choices as natural family routines. You do not use a fixed schedule for either language.
+
+[[PARENT|Gabriel Santos-Reyes]] works at [[ORG|Meadowglass Packaging Cooperative]]. A changing work schedule affects who handles pickup and evening routines. The neighbor who sometimes assists with transportation, Mr. [[PERSON|Tom]], does not provide language instruction or therapy.
+
+You reported no known family history of childhood hearing loss. A relative reportedly received speech support, but you did not have records or a clear description. We treated that information as background rather than evidence of a particular inherited condition.
+
+Learning two languages does not explain all the difficulties described here. We considered language exposure, opportunities to practice, and communication in both languages. Your goal of keeping Spanish is appropriate. Family language gives him access to relationships, stories, and everyday learning.
+
+During the session, [[CHILD|Nicolás]] explored toy animals, a pretend kitchen, picture books, and blocks. He checked my face, shared discoveries, and brought objects to request help. He accepted transitions best when I showed the next activity first.
+
+He initially stayed close to his mother, [[PARENT|Mariela de la Cruz]]. After a short warm-up, he played with me while she remained nearby. Brief movement breaks helped him return to table activities. His participation was sufficient for the tasks described below.
+
+I administered the English [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] according to its directions for the scored items. Separate Spanish activities included conversation, play, directions, and learning trials. Translated or coached responses did not contribute to standardized scores.
+
+The [[KEEP|PLS-5]] compares performance with its reference group. Its scores describe his performance on English tasks during this visit. They do not measure his full knowledge across languages. The table therefore belongs beside the family interview and bilingual observations.
+
+| Test or subtest | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---:|---:|---:|---:|
+| [[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|70–84]] | [[KEEP|3;0]] |
+| [[KEEP|PLS-5 Expressive Communication]] | [[KEEP|72]] | [[KEEP|3rd percentile]] | [[KEEP|66–81]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5 Total Language]] | [[KEEP|73]] | [[KEEP|4th percentile]] | [[KEEP|68–81]] | [[KEEP|2;10]] |
+
+The confidence intervals use a [[KEEP|90%]] confidence level. Age equivalents summarize particular test performance. They do not mean that he functions like a younger child in every area. We will use daily communication skills to guide treatment.
+
+On [[KEEP|Auditory Comprehension]], he understood familiar actions and identified common objects. Directions became harder when they included location words, several details, or a less familiar sentence form. He sometimes acted on the last word he heard.
+
+During separate play tasks, he followed familiar single-step directions in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|min cues]]. He followed related two-step directions in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. These observations were outside standardized scoring.
+
+On [[KEEP|Expressive Communication]], he named familiar items and combined words for requests. He had difficulty explaining an event, adding needed details, and forming some questions. His message length varied with familiarity, language, and the support available.
+
+In English play, he produced [[KEEP|“want more car”]] and [[KEEP|“baby sleeping”]]. In Spanish play, he produced [[KEEP|“más agua”]] and [[KEEP|“perro corre”]]. These messages showed useful meaning, although longer explanations often needed adult help.
+
+When asked to describe a picture, he first said [[KEEP|“boy fall”]]. After a model and [[KEEP|mod cues]], he added [[KEEP|“boy fall down”]]. In a separate Spanish activity, he also needed support to explain who acted and what happened.
+
+Learning trials showed a useful response to teaching. After demonstrations, he used a new location word in [[KEEP|4/6]] opportunities with [[KEEP|mod cues]]. Later, he used it in [[KEEP|2/6]] opportunities with [[KEEP|min cues]]. Continued practice across activities will matter.
+
+Speech clarity varied with message length. I heard substitutions involving /[[KEEP|k]]/ and /[[KEEP|g]]/ in some English words. During informal imitation, the target [[KEEP|“car”]] became [[KEEP|“tar”]]. I also heard [[KEEP|[w]]] for [[KEEP|/r/]] in an English sample.
+
+Spanish speech included variable production of [[KEEP|/ɾ/]]. These observations require further sampling before a separate speech diagnosis. We must consider each language's sound system and expected development. Accent or differences between languages should not be treated as errors.
+
+His lips, tongue, and jaw appeared functional for the speech tasks observed. Voice sounded comfortable, and I did not hear persistent stuttering during the sample. A brief clinic sample cannot describe every speaking situation.
+
+The language sample included [[KEEP|[EW]]] when coding an extra word. Sample codes organize observations; they are not diagnoses. I considered communication success, sentence patterns, gestures, and responses to support together.
+
+My impression is a mixed receptive-expressive language disorder, ICD-10 [[KEEP|F80.2]]. This impression rests on difficulties understanding and expressing messages across languages, developmental history, family concerns, and classroom examples. The English standardized scores provide supporting information within their limits.
+
+His strengths include social interest, shared attention, pretend play, persistence, and improvement after models. He already uses several ways to communicate. Treatment should build spoken language while allowing gestures, pictures, and other supports that help him participate.
+
+I recommend the following plan:
+
+1. Begin speech-language treatment through [[EMPLOYER|PLPSLT]] twice weekly, subject to the approved service plan. Individual treatment would use CPT [[KEEP|92507]]. Start with useful requests, help-seeking, directions, and short explanations in both languages.
+
+2. Teach caregivers practical strategies through [[KEEP|Hanen]]-informed coaching. Follow his interests, pause for a response, and expand his message slightly. If he says [[KEEP|“more juice”]], an adult can model [[KEEP|“I want more juice”]] without requiring repetition.
+
+3. Use brief practice during meals, books, and play. Offer choices and allow time to answer. Acknowledge gestures and partial words. Model the message he needs, then continue the activity so communication remains useful and enjoyable.
+
+4. Develop IFSP Outcome [[KEEP|3]] from the earlier plan dated [[DATE|May 16, 2025]] into current family priorities. The [[AGENCY|Juniper Bend Children's Developmental Services Agency]] record provides background. Confirm the present service pathway with coordinator [[PROVIDER|Tessa Morgan]].
+
+5. For treatment Goal [[KEEP|1]], target complete requests in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. For Goal [[KEEP|2]], target related two-step directions in [[KEEP|4/5]] opportunities with [[KEEP|min cues]]. Measure performance across familiar activities and both languages.
+
+6. Coordinate classroom supports with Miss [[TEACHER|Ana]] and la maestra [[TEACHER|Carmen]]. Use pictures, short directions, and a pause before repeating. Arrange supported play with [[PEER|Sofía]] or [[PEER|Eli]], while keeping participation comfortable for every child.
+
+7. Request an educational evaluation through [[SCHOOL|Willow Lantern Elementary School]] if you want school services considered. Share this report and classroom concerns. The school team will determine eligibility and the appropriate educational plan through its own process.
+
+8. Review progress on [[DATE|December 14, 2026]]. Bring examples of successful messages and difficult situations. We will adjust goals using therapy data, family observations, and teacher reports. Contact us sooner if communication changes sharply or new hearing concerns arise.
+
+Please keep speaking the languages that feel natural to your family. You do not need to translate every sentence or correct every attempt. Warm, repeated exchanges during ordinary activities give him many chances to understand, respond, and learn.
+
+Thank you for sharing your observations and hopes for [[CHILD|Nicolás]]. Your knowledge helped make this assessment useful. I look forward to helping your family build communication that works at home, in care, and with friends.
+
+Warmly,
+
+[[PROVIDER|Elena Marisol Vega-Pérez]], MS, CCC-SLP  
+Bilingual Pediatric Speech-Language Pathologist  
+[[EMPLOYER|Pine Lantern Pediatric Speech and Language Therapy, PLLC]]  
+[[PHONE|(919) 555-0146]]  
+[[EMAIL|elena.vega@pinelantern.example]]

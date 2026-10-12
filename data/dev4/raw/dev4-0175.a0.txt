@@ -1,0 +1,27 @@
+NOTA DE SESION - TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|9 de octubre de 2026]]
+Hora: [[TIME|3:30 PM]]
+Cliente: [[CHILD|Mateo Fuentes]] Edad: [[KEEP|4;2]]
+ID NC ITP: [[ID|NC-ITP-883291]]
+Medicaid ID: [[MEDICAID_ID|MCD7742910X]]
+ID de miembro de seguro: [[ID|INS-5582014-B]]
+Numero de autorizacion: [[ID|AUTH-2026-00417]]
+
+S: [[PARENT|Marisol Fuentes]], mama de [[CHILD|Mateo]], reporta que la semana fue buena. Mama trabaja de noche en [[ORG|Carolina Poultry Processing]], y tambien trabaja medio tiempo en [[ORG|CVS]] los fines de semana. El papa, [[PARENT|Hector Fuentes]], trabaja en construccion con [[ORG|BRC]] (Blue Ridge Construction) durante el dia, asi que casi no se ven. La abuela, [[FAMILY|Carmen Lopez]], cuida a [[CHILD|Mateo]] y a su hermanita [[SIBLING|Valentina]] mientras los padres trabajan. La familia asiste a la iglesia [[ORG|Iglesia Bautista Nueva Vida]] los domingos y participan en el programa de la biblioteca publica [[AGENCY|Biblioteca del Condado de Wake]], el cual ofrece sesiones de lectura bilingue los jueves.
+
+[[CHILD|Mateo]] fue evaluado anteriormente con el [[KEEP|PLS-5]], obteniendo una puntuacion estandar de [[KEEP|73]] en Comprension Auditiva y [[KEEP|71]] en Expresion de Lenguaje, ambas en el rango [[KEEP|73-83]]. Edad equivalente reportada: [[KEEP|2;6–3;0]].
+
+O: Se trabajo en articulacion del sonido /k/ en posicion inicial usando el enfoque [[KEEP|Cycles]]. [[CHILD|Mateo]] produjo "[[KEEP|casa]]" con sustitucion por [t], logrando aproximacion correcta con [[KEEP|mod cues]] en [[KEEP|8/10]] ensayos. Tambien se practico el sonido /s/; produjo "[[KEEP|sol]]" como "[t]ol" en [[KEEP|3 de 5]] intentos, mejorando a [[KEEP|min cues]] al final de la sesion.
+
+Se incorporaron tarjetas del sistema [[KEEP|PECS]] para apoyar comunicacion funcional durante juego con bloques. [[CHILD|Mateo]] imito la frase objetivo "[[KEEP|mas bloques]]" correctamente en [[KEEP|90%]] de las oportunidades.
+
+Durante el juego simbolico, [[CHILD|Mateo]] menciono a su perro diciendo "[[PET|Toby]] corre", demostrando combinacion de dos palabras espontanea.
+
+A: [[CHILD|Mateo]] continua mostrando progreso lento pero constante en fonologia y lenguaje expresivo. La consistencia en asistencia se ve afectada porque mama trabaja dos empleos y el horario de transporte es limitado. Se recomienda continuar con el enfoque [[KEEP|Cycles]] y aumentar apoyo visual tipo [[KEEP|Hanen]] en casa.
+
+P: Continuar terapia dos veces por semana. Se coordino con la agencia [[AGENCY|CDSA Triangle]] para revisar el IFSP, meta numero [[KEEP|3]], en la proxima reunion programada para [[DATE|20 de noviembre de 2026]]. La coordinadora de servicios, [[PROVIDER|Yolanda Martinez]], hara seguimiento telefonico al [[PHONE|(919) 555-2047]]. Reporte enviado a la pediatra, [[PROVIDER|Dra. Ana Beltran]], al correo [[EMAIL|clinica@pediatriasalud.org]].
+
+Proxima cita: [[DATE|16 de octubre de 2026]] a las [[TIME|3:30 PM]] en la clinica ubicada en [[PLACE|482 Hillview Road, Cary, NC 27511]].
+
+Nota escrita por [[PROVIDER|Laura Jimenez]], SLP-CCC, en nombre de [[EMPLOYER|Carolina Pediatric Speech Partners]].

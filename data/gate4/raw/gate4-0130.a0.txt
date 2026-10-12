@@ -1,0 +1,47 @@
+NOTA DIARIA / DAILY SESSION NOTE — Documento completamente ficticio
+
+Client: [[CHILD|Elena Marisol Varela]], nickname [[CHILD|Leni]]; age [[KEEP|4;2]].
+Service date: [[DATE|October 8, 2026]]; [[TIME|4:10 p.m.]]–[[TIME|4:55 p.m.]]
+Clinician: [[PROVIDER|Isabel Monteverde]], bilingual pediatric SLP, [[EMPLOYER|Willow Lantern Pediatric Therapies]], North Carolina.
+Record: [[ID|WL-260108-73]]; Medicaid: [[MEDICAID_ID|684209175Q]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+[X] Home  [ ] Daycare  [ ] Telepractice
+[X] Parent present  [X] Spanish/English  [ ] Interpreter needed
+Location: [[PLACE|418 Lantern Fern Lane]], [[PLACE|Brisaverde]], NC [[PLACE|27598]].
+Contact: [[PHONE|919-555-0147]]; [[EMAIL|marina.varela@example.com]].
+
+SUBJETIVO / Family update
+
+Mom, [[PARENT|Marina Varela]], reports: “Esta semana pide ayuda más rápido, pero cuando está cansada vuelve a señalar.” Mom works nights at [[ORG|Moonbasket Linen Services]] as a laundry machine operator. Dad, [[PARENT|Tomás Varela]], practices during breakfast. Older brother [[SIBLING|Nicolás Varela]] sometimes answers before the child finishes; discussed waiting without making this a correction game.
+
+Abuela [[FAMILY|Celia Duarte]] provides evening care. The family attends the play group at [[ORG|Centro Comunitario Lucero del Roble]]. Group friend [[PEER|Inés Salgado]] models turn-taking. Volunteer Ms. [[PERSON|Rosa Beltrán]] supplies picture books. Their dog, [[PET|Miga]], joined the session briefly. The child said, “[[PET|Miga]] ven,” while pointing toward the doorway.
+
+[X] No new concerns reported  [ ] Medication change reported
+
+OBJETIVO / Lo observado
+
+Used a farm set, snack containers, and shared book reading. The child remained engaged when activities followed her choices. During requests, produced [[KEEP|"más jugo"]] and [[KEEP|"open please"]] with [[KEEP|min cues]]. Expanded to [[KEEP|"quiero más jugo"]] after a model, with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|8/10]] opportunities; spontaneous combinations appeared in [[KEEP|60%]] of sampled turns.
+
+Practiced target [[KEEP|"casa"]] with initial [[KEEP|/k/]] using visual placement cues. Correct productions occurred in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Spanish [[KEEP|/ɾ/]] remained variable; no drill assigned. English [[KEEP|/r/]] sometimes surfaced as [[KEEP|[w]]]. Recorded [[KEEP|"wabbit"]] during play and coded the English word attempt with SALT [[KEEP|[EW]]].
+
+Applied [[KEEP|Hanen]] interaction strategies and brief [[KEEP|Cycles]] activities. Caregiver practiced pausing, following the child’s lead, and expanding one word. No tactile prompting used.
+
+REVISIÓN / Prior evaluation information
+
+Reviewed the evaluation dated [[DATE|September 17, 2026]]. [[KEEP|Goldman-Fristoe Test of Articulation-3]], subtest [[KEEP|Sounds-in-Words]], yielded standard score [[KEEP|76]], percentile [[KEEP|5th]], and confidence interval [[KEEP|71-83]]. English-only results require cautious interpretation alongside bilingual samples.
+
+Earlier [[KEEP|Bayley-4]] testing at [[KEEP|26 months]] documented scaled score [[KEEP|6]] on [[KEEP|Expressive Communication]]. Historical [[KEEP|Rossetti Infant-Toddler Language Scale]] findings placed emerging skills within [[KEEP|21–24 months]]. Prior [[KEEP|Peabody Developmental Motor Scales-2]] results were reviewed for context only. Parent-reported birth history: gestational age [[KEEP|39 weeks]], birth weight [[KEEP|3,240 g]], Apgar scores [[KEEP|8]] and [[KEEP|9]].
+
+ANÁLISIS / Clinical impression
+
+Functional communication improved with familiar routines and predictable pauses. Spanish remains the preferred language for comfort and requests. Code-switching supported communication; observed language choices did not indicate confusion. Frustration decreased when adults acknowledged gestures before modeling speech. Fatigue may affect participation after daycare.
+
+PLAN / Próximos pasos
+
+Continue [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]]. Practice requesting help during snack and dressing, with [[KEEP|min cues]] as tolerated. Avoid requiring repetition before meeting basic needs.
+
+Service coordinator [[PROVIDER|Daniela Fuenmayor]] works through [[AGENCY|Red de Coordinación Familiar Puentes del Amanecer]], short form [[AGENCY|RCFPA]]. The assigned CDSA office is [[AGENCY|Agencia de Servicios para el Desarrollo Infantil de Brisaverde]], short form [[AGENCY|CDSA Brisaverde]].
+
+Next visit: [[DATE|October 15, 2026]], [[TIME|4:00 p.m.]]
+[X] Home practice reviewed  [X] Caregiver demonstrated understanding

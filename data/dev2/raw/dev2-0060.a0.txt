@@ -1,0 +1,15 @@
+Setting: [X] Home  [ ] Daycare  [ ] Clinic
+Interpreter present: [X] Yes ([[PROVIDER|Ana Gómez]])  [ ] No
+Caregiver present: [X] Mother  [ ] Father  [ ] Other: ___
+
+Subjective: [[PARENT|Lucía Rodríguez]] reports [[CHILD|Mateo]] has been "talking more at home" since the family started attending the Wednesday playgroup at [[AGENCY|Iglesia El Buen Pastor]]'s family resource room. She says his brother [[SIBLING|Diego]] still "finishes his sentences for him" at dinner, and the dog, [[PET|Max]], gets excited whenever [[CHILD|Mateo]] tries to bark back, which the family finds motivating. [[PARENT|Lucía]] also mentioned her cousin [[FAMILY|Rosa]] has been babysitting on Tuesdays and has started cueing [[CHILD|Mateo]] with the home program. She noted her husband, [[PARENT|Carlos Hernández]], now works evening shifts at [[ORG|Triangle Auto Parts]] and misses most sessions.
+
+Mother confirmed the family's phone changed; new contact is [[PHONE|(919) 555-0176]], with a backup number for grandmother in Oaxaca at [[PHONE|+52 951 123 4567]]. [[PARENT|Lucía]]'s sister in Guatemala can also be reached at [[PHONE|+502 2234 5678]] if needed for scheduling around visits.
+
+Objective: Session held at [[PLACE|214 Birchwood Lane]], [[PLACE|Apex]], NC [[PLACE|27502]]. [[CHILD|Mateo]] ([[KEEP|4;2]], born at [[KEEP|32 weeks gestation]], [[KEEP|Apgar 7/9]]) was seen following his NICU stay at [[HOSPITAL|WakeMed Children's Hospital – North Pavilion Campus]]. Target sounds /k/ and /g/ practiced in syllables with [[KEEP|moderate cues]]; [[CHILD|Mateo]] produced "[[KEEP|cookie]]" correctly [[KEEP|7/10]] trials, up from baseline. Word retrieval tasks adapted from [[KEEP|Hanen]] strategies were used. Audiologist [[PROVIDER|Dr. Patel]] recommended a follow-up hearing screen through [[AGENCY|Wake County CDSA]] office; last IFSP review was [[DATE|September 18, 2026]].
+
+Classmate [[PEER|Ethan]] was mentioned by mother as a playdate peer who models two-word phrases well. Teacher Ms. [[TEACHER|Alvarez]] at [[DAYCARE|Little Sprouts Early Learning Center]] sent home a note, initialed "[[PROVIDER|M.R.]]" by the assistant, about increased babbling during circle time.
+
+Assessment: [[CHILD|Mateo]] continues to show progress toward IFSP [[KEEP|Outcome 2]]. Family engagement remains strong; home carryover is improving.
+
+Plan: Continue biweekly visits; next session [[DATE|October 24, 2026]] at [[TIME|10:30 AM]]. Case Medicaid ID [[MEDICAID_ID|MA99214567B]]. Clinician contact: [[EMAIL|j.chen@carolinapediatricspeech.com]], [[EMPLOYER|Carolina Pediatric Speech Partners]].

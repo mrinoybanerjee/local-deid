@@ -1,0 +1,30 @@
+NOTA DE SESION - TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|10/09/2026]]
+Hora de la sesion: [[TIME|9:30 AM]] a [[TIME|10:15 AM]]
+Nombre del nino: [[CHILD|Mateo Alejandro Vargas]]
+Fecha de nacimiento: [[DATE|02/14/2022]]
+Numero de Medicaid: [[MEDICAID_ID|987654321B]]
+ID de caso CDSA: [[ID|CD-44271]]
+
+S: La mama de [[CHILD|Mateo]], [[PARENT|Carla Vargas]], reporto que en casa el nino ha estado diciendo mas palabras con su hermana [[SIBLING|Valentina]]. Dice que [[CHILD|Mateo]] jugo con su perro y dijo "[[PET|Toby]] corre" durante el fin de semana. La abuela, [[FAMILY|Rosa Jimenez]], quien lo cuida los jueves, tambien noto mas intentos de comunicacion.
+
+[[CHILD|Mateo]] asiste al [[DAYCARE|Centro Infantil Pequenos Pasos]] en el [[SCHOOL|Distrito Escolar de las Escuelas Publicas del Condado de Wake]], en el salon de la maestra [[TEACHER|Sra. Hernandez]]. La coordinadora de servicios, [[PROVIDER|Ana Morales]], de la [[AGENCY|oficina CDSA de Wake]], confirmo que la familia tambien recibe apoyo de [[AGENCY|DSS]], [[AGENCY|WIC]], y [[AGENCY|Smart Start]]. [[CHILD|Mateo]] fue referido anteriormente a traves de [[AGENCY|Early Head Start]].
+
+O: Se uso la interprete [[PROVIDER|Lucia Fernandez]] para facilitar comunicacion con la familia. Se administraron actividades usando el enfoque [[KEEP|Hanen]] y tecnicas de [[KEEP|PROMPT]]. [[CHILD|Mateo]], con edad cronologica de [[KEEP|4;8]], produjo /k/ en posicion inicial con [[KEEP|mod cues]] en [[KEEP|8/10]] intentos. Para el sonido /s/, logro [[KEEP|3 of 5]] producciones correctas con [[KEEP|max cues]].
+
+Durante actividad de juego con figuras de animales, [[CHILD|Mateo]] dijo "[[SIBLING|Valentina]] quiere jugar" y tambien "[[PET|Toby]] come". Se trabajo el fonema [[KEEP|/ɾ/]] en palabras como "perro", logrando aproximacion [[KEEP|[w]]] en la mayoria de los ensayos.
+
+Se revisaron resultados recientes del [[KEEP|PLS-5]]: puntuacion estandar de [[KEEP|73-83]] en Comunicacion Expresiva, percentil [[KEEP|9]]. En el area de [[KEEP|Auditory Comprehension]] obtuvo puntuacion escalada de [[KEEP|7]], con edad equivalente de [[KEEP|2;6–3;0]].
+
+A: [[CHILD|Mateo]] continua progresando hacia el Objetivo 2 del IFSP relacionado con produccion de consonantes iniciales. Se observa generalizacion limitada fuera de la sesion, segun reporte de [[PARENT|Carla Vargas]] y [[FAMILY|Rosa Jimenez]].
+
+P: Continuar sesiones semanales enfocadas en /k/, /s/, y /ɾ/ usando [[KEEP|Cycles]]. Se coordinara con terapista ocupacional [[PROVIDER|Dr. Kevin Smith]] y fisioterapeuta [[PROVIDER|Laura Chen]] para integrar metas motoras. Se recomienda seguimiento con el pediatra, [[PROVIDER|Dr. Michael Torres]], en [[HOSPITAL|Clinica Pediatrica de Raleigh]], ubicada en [[PLACE|4521 Avenida Hillsborough, Raleigh, NC 27606]].
+
+Proxima cita: [[DATE|10/16/2026]] a las [[TIME|9:30 AM]].
+
+Contacto de la familia: [[PHONE|919-555-0184]], correo [[EMAIL|carla.vargas@email.com]].
+
+Nota completada por: [[PROVIDER|Maria Gonzalez, M.S., CCC-SLP]]
+[[EMPLOYER|Terapia Pediatrica Carolina]]
+CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]]

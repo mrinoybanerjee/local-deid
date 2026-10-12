@@ -1,0 +1,22 @@
+Carolina Pediatric Speech & Language Therapy, PLLC (d/b/a "Carolina Pediatric Speech," CPSL)
+Sesión de terapia del habla y lenguaje / Speech-Language Therapy Session Note
+
+Fecha de servicio: [[DATE|October 9, 2026]]
+Cliente: [[CHILD|Mateo Alejandro Flores Reyes]] (DOB [[DATE|May 14, 2021]]), edad [[KEEP|5;4]]
+Hora de sesión: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Lugar: [[PLACE|412 Pinebrook Lane, Durham, NC 27703]]
+ID de expediente: [[ID|CPSL-00482-D]]
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Clínica: [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] ("[[EMPLOYER|Carolina Pediatric Speech]]," [[EMPLOYER|CPSL]])
+SLP: [[PROVIDER|Ana Castillo]], CCC-SLP
+Intérprete: [[PROVIDER|José Martínez]] (español/inglés)
+
+S: Su mamá, [[PARENT|Lucía Rodríguez]], reportó que [[CHILD|Mateo]] tuvo una semana "difícil" — dijo en español, "no quiere hablar en la escuela, solo en casa." [[CHILD|Mateo]]'s older sister, [[SIBLING|Camila]], sometimes translates for him with neighbors, según [[PARENT|Lucía]]. La niñera, [[FAMILY|Marisol Tapia]], confirmó que [[CHILD|Mateo]] habla con fluidez en casa con su perro [[PET|Rocky]] ("[[PET|Rocky]] sit," dijo claramente) pero se queda callado con los primos [[FAMILY|Diego]] y [[FAMILY|Valeria]] cuando visitan. La maestra, Sra. [[TEACHER|Lopez]], en [[SCHOOL|Oak Grove Elementary]], notó que [[CHILD|Mateo]] no habla con sus compañeros [[PEER|Noah]] y [[PEER|Ethan]] durante el recreo. [[PARENT|Lucía]] agregó, "el pediatra, [[PROVIDER|Dr. Omar Haddad]], dice que es normal para bilingües pero yo no estoy segura."
+
+O: Session conducted bilingual EN/ES with [[PROVIDER|José Martínez]] interpreting parent input. Administered [[KEEP|CELF-5]] Spanish screener; [[CHILD|Mateo]] produced single-word responses in English, full sentences in Spanish with mom present. [[KEEP|PLS-5]] Auditory Comprehension [[KEEP|standard score 88]] ([[KEEP|21st percentile]]), [[KEEP|CI 82-94]]. Articulation probe: substituted [[KEEP|/ɾ/]] for [[KEEP|/r/]] in "[[KEEP|carro]]," [[KEEP|3 of 5]] trials, [[KEEP|mod cues]]. English naming task [[KEEP|6/10]] correct with [[KEEP|min cues]]; target word "dog" produced as "[[KEEP|[d]]]" initial sound only. No eye contact with [[PROVIDER|Ana]] during English tasks; relaxed posture and spontaneous Spanish narrative when discussing [[PET|Rocky]] and cousin [[FAMILY|Diego]]'s birthday party.
+
+A: Presentation consistent with selective mutism ([[KEEP|ICD-10 F94.0]]) layered on typical bilingual code-switching rather than a primary language disorder; [[KEEP|PLS-5]] Spanish scores within average range support this. Coordinated with [[PROVIDER|Mara Figueroa]], OT, and [[PROVIDER|Trevor Haines]], PT, both at [[EMPLOYER|CPSL]], who report similar context-dependent quieting during gross motor group with classmate [[PEER|Noah]]. Recommend referral to [[AGENCY|Agencia de Desarrollo Infantil y Familiar del Condado de Durham]] ([[AGENCY|ADIFCD]]) for IFSP review, Outcome [[KEEP|#2]]; family already enrolled, service coordinator pending reassignment at [[AGENCY|ADIFCD]].
+
+P: 1) Continue twice-weekly tx targeting generalization of Spanish gains to English contexts using [[KEEP|Hanen]] strategies; 2) Contact [[AGENCY|ADIFCD]] service coordinator by [[DATE|October 16, 2026]] re: selective mutism protocol; 3) [[PROVIDER|Ana]] to call Sra. [[TEACHER|Lopez]] at [[SCHOOL|Oak Grove Elementary]], [[PHONE|(919) 555-0148]], to discuss classroom low-demand speaking opportunities with [[PEER|Ethan]]; 4) Request pediatrician records from [[PROVIDER|Dr. Omar Haddad]] via [[EMAIL|dr.haddad@trianglepeds-example.com]]; 5) Next session [[DATE|October 16, 2026]] [[TIME|3:30 PM]], home visit, interpreter [[PROVIDER|José Martínez]] requested again. [[PARENT|Lucía]] to complete [[AGENCY|ADIFCD]] intake packet; [[EMPLOYER|CPSL]] billing to submit under Medicaid ID [[MEDICAID_ID|987654321B]], CPT [[KEEP|92507]].
+
+— [[PROVIDER|Ana Castillo]], MS, CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]]

@@ -1,0 +1,104 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+PROGRAMA DE INFANTES Y NIÑOS PEQUEÑOS DE CAROLINA DEL NORTE — REVISIÓN DE LOS SEIS MESES
+
+INFORMACIÓN DEL NIÑO Y LA FAMILIA
+• Niño: [[CHILD|Mateo del Río-Vásquez]], también llamado [[CHILD|Teo]] en casa.
+• Fecha de nacimiento: [[DATE|4 de febrero de 2024]]. Edad cronológica en la fecha de esta revisión: [[KEEP|2;7]].
+• Dirección: [[PLACE|118 Camino Alondra]], [[PLACE|Garner]], [[PLACE|Condado de Wake]], [[PLACE|27529]].
+• Teléfono de la familia: [[PHONE|(919) 555-0142]].
+• Número de Medicaid del niño: [[MEDICAID_ID|784215630B]].
+• Número de caso del IFSP: [[ID|NC-ITP-22190]].
+• Madre: [[PARENT|Lucía Vásquez Molina]], de [[KEEP|29]] años, trabaja como auxiliar contable en [[ORG|Panadería La Espiga Dorada]]. Correo electrónico: [[EMAIL|lucia.vasquezm@mailpronto.com]].
+• Padre: [[PARENT|Carlos del Río Pérez]], trabaja en construcción en [[ORG|Construcciones Solís]]. Teléfono móvil: [[PHONE|(984) 555-0177]].
+• Hermana: [[SIBLING|Sol del Río-Vásquez]], de [[KEEP|5]] años, cursa kínder.
+• Abuela materna, quien cuida a [[CHILD|Mateo]] tres tardes por semana: [[FAMILY|Rosa Molina de la Cruz]].
+• Idioma principal del hogar: español. La familia solicita todos los servicios e informes en español.
+
+COORDINACIÓN DE SERVICIOS
+• Agencia responsable: [[AGENCY|Agencia de Desarrollo Infantil y Servicios de Apoyo del Condado de Wake]] ([[AGENCY|CDSA de Wake]]), ubicada en [[PLACE|2512 Avenida Sendero]], [[PLACE|Raleigh]], [[PLACE|27610]].
+• Teléfono principal de la [[AGENCY|CDSA de Wake]]: [[PHONE|(919) 555-0210]].
+• Coordinadora de servicios: [[PROVIDER|Yolanda Ferreira]], de la [[AGENCY|CDSA de Wake]]. Teléfono directo: [[PHONE|(919) 555-0231]]. Correo: [[EMAIL|y.ferreira@cdsawake.org]].
+• Intérprete certificada que participó en esta reunión: [[PROVIDER|Marisol Tapia]], intérprete médica contratada por la [[AGENCY|CDSA de Wake]].
+• La coordinadora [[PROVIDER|Ferreira]] confirmó que la familia recibirá copia del IFSP en español dentro de los diez días hábiles siguientes a esta reunión.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA, EN SUS PROPIAS PALABRAS
+• La madre, [[PARENT|Lucía]], dijo: "A [[CHILD|Mateo]] le cuesta que le entendamos. Dice muchas palabras pero se le caen las sílabas, y cuando se frustra empieza a jalar y a gritar."
+• También dijo: "En la iglesia, cuando las señoras le preguntan su nombre, él no logra decirlo claro y se pone tímido. Eso me preocupa porque en enero empieza el programa de niños pequeños allá."
+• El padre, [[PARENT|Carlos]], agregó: "Yo quiero que cuando entre a la escuela, los maestros lo entiendan sin que yo tenga que estar traduciendo todo el tiempo."
+• La familia priorizó, en orden: 1) que [[CHILD|Mateo]] sea más claro al hablar en español y en inglés; 2) que disminuyan las rabietas relacionadas con la frustración al comunicarse; 3) que la familia aprenda señas simples o estrategias para usar en casa mientras mejora el habla; 4) que el equipo coordine con el programa de la biblioteca y con la iglesia para que el personal sepa cómo apoyarlo.
+• La madre pidió explícitamente que las sesiones de terapia combinen español e inglés, porque la abuela [[FAMILY|Rosa]] solo habla español y el padre prefiere reforzar en inglés algunas noches.
+
+RUTINAS DIARIAS DE LA FAMILIA
+• [[TIME|7:00 a.m.]]: [[CHILD|Mateo]] se despierta, desayuna con su hermana [[SIBLING|Sol]] y ve dibujos animados mientras la madre se prepara para el trabajo.
+• [[TIME|8:30 a.m.]]: la abuela [[FAMILY|Rosa]] lo lleva al [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], donde está en el salón de dos años con la maestra [[TEACHER|Brenda Jiménez-Castro]].
+• [[TIME|12:00 p.m.]]: almuerzo y siesta en el centro; el personal reporta que [[CHILD|Mateo]] juega bien con su compañero [[PEER|Ismael]], aunque a veces otros niños no le entienden y él se frustra.
+• [[TIME|5:00 p.m.]]: la madre lo recoge y van a casa; los martes y jueves pasan por la [[AGENCY|Oficina de WIC del Condado de Wake]] cuando hay cita de seguimiento nutricional.
+• Los miércoles por la tarde, la familia asiste al grupo de cuentos bilingües en la [[ORG|Biblioteca Pública de Garner]], donde [[CHILD|Mateo]] participa en canciones y juegos con otros niños de su edad.
+• Los domingos, la familia asiste a misa en la [[ORG|Iglesia Católica San Juan Bautista]], y [[CHILD|Mateo]] asiste a la clase de niños pequeños con la catequista [[PERSON|Alicia Fuentes]].
+• Las cenas son en familia; el padre llega del trabajo alrededor de las [[TIME|6:30 p.m.]] y juega con [[CHILD|Mateo]] y [[SIBLING|Sol]] antes de dormir.
+• La familia reporta que las rutinas de baño y de vestirse son momentos de mucha frustración, porque [[CHILD|Mateo]] quiere comunicar preferencias (qué ropa, qué juguete) y no logra que le entiendan.
+
+OTRAS AGENCIAS Y PROVEEDORES INVOLUCRADOS CON LA FAMILIA
+• Pediatra: [[PROVIDER|Dra. Norma Aguilar]], consultorio en [[PLACE|4410 Calle Roble]], [[PLACE|Garner]]. Teléfono: [[PHONE|(919) 555-0188]].
+• Terapeuta ocupacional: [[PROVIDER|Katherine Soto-Fernández]], quien evaluó integración sensorial en [[DATE|marzo de 2026]] y continúa viendo a [[CHILD|Mateo]] cada dos semanas por temas de regulación sensorial relacionados con la frustración comunicativa.
+• Fisioterapeuta: [[PROVIDER|Darnell Osei]], quien dio de alta a [[CHILD|Mateo]] en [[DATE|enero de 2026]] tras cumplir las metas de equilibrio y marcha.
+• [[AGENCY|Oficina de WIC del Condado de Wake]]: seguimiento nutricional mensual; la familia reporta buen crecimiento.
+• [[AGENCY|Smart Start del Condado de Wake]]: la familia recibió un vale para materiales de lectura bilingüe en [[DATE|febrero de 2026]].
+• [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]]: la directora [[PERSON|Verónica Salcedo]] coordina con el equipo del IFSP para las visitas de consulta mensuales.
+• [[ORG|Biblioteca Pública de Garner]]: el programa bilingüe es facilitado por la bibliotecaria [[PERSON|Ingrid Paloma]], quien ha recibido orientación breve del equipo sobre cómo apoyar la comunicación de [[CHILD|Mateo]] durante las actividades.
+• [[ORG|Iglesia Católica San Juan Bautista]]: la familia pidió que la catequista [[PERSON|Alicia Fuentes]] reciba las mismas estrategias de apoyo visual que usa el centro de cuidado.
+
+NIVEL ACTUAL DE DESARROLLO Y COMUNICACIÓN
+• Evaluación de seguimiento realizada el [[DATE|14 de septiembre de 2026]] por la patóloga del habla y lenguaje bilingüe, [[PROVIDER|Camila Nieto Ríos]], de [[EMPLOYER|Terapias Pediátricas Carolina, PLLC]], en inglés y español, con apoyo de la intérprete [[PROVIDER|Marisol Tapia]] para la devolución a la familia.
+• [[KEEP|PLS-5]] (Preschool Language Scales–5), administrado bilingüe:
+  - Comprensión Auditiva ([[KEEP|Auditory Comprehension]]): puntaje estándar [[KEEP|76]], percentil [[KEEP|5]].
+  - Comunicación Expresiva ([[KEEP|Expressive Communication]]): puntaje estándar [[KEEP|71]], percentil [[KEEP|3]].
+  - Puntaje Total del Lenguaje: [[KEEP|73]], intervalo de confianza del [[KEEP|95%]]: [[KEEP|68-78]].
+• Inteligibilidad conectada estimada en [[KEEP|40%]] para oyentes familiares y menor para oyentes desconocidos.
+• Inventario fonético: produce /p, b, m, n, t, d, w/ de forma consistente; /s, l, r, ɾ/ son inconsistentes; omite consonantes finales en aproximadamente [[KEEP|60%]] de las palabras de prueba.
+• Ejemplo registrado: al mostrarle una tarjeta del sol, [[CHILD|Mateo]] señaló y dijo [[KEEP|"to"]] en lugar de la palabra objetivo [[KEEP|"sol"]], omitiendo la consonante inicial /s/ y la final /l/. En un segundo intento con clave visual, produjo [[KEEP|[tol]]], sustituyendo /s/ por [t] pero manteniendo la final.
+• Longitud media de enunciado de aproximadamente [[KEEP|2.1]] morfemas, por debajo de lo esperado para [[KEEP|2;7]].
+• Diagnóstico de referencia: [[KEEP|F80.1]] (trastorno del desarrollo del habla y el lenguaje, tipo expresivo).
+• Código de procedimiento usado para la evaluación: [[KEEP|92523]].
+• Antecedentes perinatales relevantes, reportados por la madre: nació a las [[KEEP|37 semanas]] de gestación, peso al nacer [[KEEP|2,800 gramos]], Apgar [[KEEP|8/9]].
+
+RESULTADOS ESPERADOS Y ESTRATEGIAS (OUTCOMES DEL IFSP)
+
+RESULTADO 1 ([[KEEP|Outcome 1]]): [[CHILD|Mateo]] usará consonantes finales en palabras funcionales de dos sílabas, en español e inglés, en al menos [[KEEP|7 de 10]] oportunidades durante actividades estructuradas de juego.
+• Estrategias:
+  - La clínica, [[PROVIDER|Camila Nieto Ríos]], usará el enfoque [[KEEP|PROMPT]] y claves táctiles para ayudar a [[CHILD|Mateo]] a sentir el cierre de las consonantes finales.
+  - Se trabajará específicamente con la palabra objetivo [[KEEP|"sol"]], aprovechando que es también el nombre de su hermana [[SIBLING|Sol]], lo cual motiva a [[CHILD|Mateo]] durante la práctica en casa.
+  - La familia practicará en casa con claves [[KEEP|mod]] (modeladas), repitiendo la palabra junto con [[CHILD|Mateo]] antes de que él la intente solo.
+  - Se usará apoyo visual (tarjetas con el sol, fotos de [[SIBLING|Sol]]) para reforzar la asociación entre el sonido final y la palabra completa.
+
+RESULTADO 2 ([[KEEP|Outcome 2]]): [[CHILD|Mateo]] disminuirá los episodios de frustración comunicativa (jalar, gritar) a no más de [[KEEP|2]] episodios por sesión de una hora, al usar un sistema de comunicación de apoyo.
+• Estrategias:
+  - Introducir tableros visuales sencillos inspirados en [[KEEP|PECS]], adaptados al español, para que [[CHILD|Mateo]] señale en lugar de frustrarse.
+  - La terapeuta ocupacional, [[PROVIDER|Katherine Soto-Fernández]], coordinará con [[PROVIDER|Camila Nieto Ríos]] para integrar estrategias de autorregulación antes de las actividades de comunicación.
+  - El personal del [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], incluida la maestra [[TEACHER|Brenda Jiménez-Castro]], usará las mismas tarjetas visuales durante el día.
+  - Se pedirá a la catequista [[PERSON|Alicia Fuentes]] y a la bibliotecaria [[PERSON|Ingrid Paloma]] que tengan copias laminadas de las tarjetas para las actividades comunitarias.
+
+RESULTADO 3 ([[KEEP|Outcome 3]]): La familia reportará el uso de al menos tres estrategias de lenguaje del enfoque [[KEEP|Hanen]] durante las rutinas diarias (comidas, baño, vestirse) para el próximo trimestre.
+• Estrategias:
+  - [[PROVIDER|Camila Nieto Ríos]] enseñará a la madre [[PARENT|Lucía]] y a la abuela [[FAMILY|Rosa]] las técnicas de "seguir la iniciativa del niño" y "esperar y observar" propias del enfoque [[KEEP|Hanen]].
+  - Se grabará un video corto de la rutina de baño para revisar en la siguiente sesión y ajustar las estrategias con claves de nivel [[KEEP|máximo]] inicialmente, reduciendo a claves de nivel [[KEEP|mínimo]] conforme avance.
+  - El padre [[PARENT|Carlos]] recibirá una hoja resumen en inglés y español para reforzar las mismas estrategias durante las cenas.
+
+RESULTADO 4 ([[KEEP|Outcome 4]]): [[CHILD|Mateo]] participará en el programa de niños pequeños de la [[ORG|Iglesia Católica San Juan Bautista]] y en el grupo de la [[ORG|Biblioteca Pública de Garner]] con apoyo visual y sin más de un episodio de frustración por sesión.
+• Estrategias:
+  - Orientación breve del equipo a la catequista [[PERSON|Alicia Fuentes]] y a la bibliotecaria [[PERSON|Ingrid Paloma]] sobre el uso de las tarjetas de comunicación.
+  - Visita de consulta de la coordinadora [[PROVIDER|Yolanda Ferreira]] a ambos espacios durante el próximo trimestre, para verificar la implementación.
+
+SERVICIOS Y FECHAS
+• Terapia de habla y lenguaje individual: dos sesiones semanales de [[KEEP|45 minutos]], en el hogar de la familia, en [[PLACE|118 Camino Alondra]], [[PLACE|Garner]], a partir del [[DATE|21 de septiembre de 2026]] hasta la próxima revisión programada para el [[DATE|15 de marzo de 2027]]. Proveedora: [[PROVIDER|Camila Nieto Ríos]], de [[EMPLOYER|Terapias Pediátricas Carolina, PLLC]].
+• Terapia ocupacional: una sesión quincenal de [[KEEP|30 minutos]], continuando desde el [[DATE|3 de marzo de 2026]]. Proveedora: [[PROVIDER|Katherine Soto-Fernández]].
+• Consulta de coordinación de servicios: visitas trimestrales a cargo de [[PROVIDER|Yolanda Ferreira]], la próxima programada para el [[DATE|12 de diciembre de 2026]].
+• Servicios de interpretación: disponibles en cada sesión y reunión a solicitud de la familia, coordinados por [[PROVIDER|Marisol Tapia]] a través de la [[AGENCY|CDSA de Wake]].
+• Consulta mensual al [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]] para capacitar al personal en las estrategias del IFSP, a cargo de [[PROVIDER|Camila Nieto Ríos]], comenzando el [[DATE|1 de octubre de 2026]].
+• Próxima revisión semestral del IFSP: [[DATE|15 de marzo de 2027]]. Revisión anual completa: [[DATE|4 de febrero de 2027]], coincidiendo con el cumpleaños de [[CHILD|Mateo]].
+
+CONSENTIMIENTO Y FIRMAS
+• La madre, [[PARENT|Lucía Vásquez Molina]], y el padre, [[PARENT|Carlos del Río Pérez]], firmaron el consentimiento informado para los servicios descritos en este plan el [[DATE|23 de septiembre de 2026]], con apoyo de la intérprete [[PROVIDER|Marisol Tapia]].
+• La coordinadora de servicios, [[PROVIDER|Yolanda Ferreira]], certifica que esta reunión incluyó a todos los miembros requeridos del equipo y que la familia participó activamente en la definición de prioridades y estrategias.
+• La clínica de habla y lenguaje, [[PROVIDER|Camila Nieto Ríos]], certifica que este documento refleja fielmente la evaluación, las preocupaciones de la familia y los acuerdos alcanzados el [[DATE|23 de septiembre de 2026]].
+• Copia entregada a la familia en español el [[DATE|28 de septiembre de 2026]], según lo solicitado.

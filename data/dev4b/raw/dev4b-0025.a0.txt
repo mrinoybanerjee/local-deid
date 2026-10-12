@@ -1,0 +1,22 @@
++ Name: [[CHILD|Mateo Alvarez]]
++ CA: [[KEEP|4;2]]
++ Context: Home-based speech-language session at the family's apartment on [[PLACE|Willow Creek Lane]], [[PLACE|Durham]], with interpreter support for [[PARENT|Lucía Rodríguez]].
+
+Session held [[DATE|September 9, 2026]] from [[TIME|10:00 AM]] to [[TIME|10:30 AM]]. Services billed under CPT [[KEEP|92507]] and [[KEEP|92523]] for individual treatment and standardized assessment of speech sound production, consistent with ICD-10 [[KEEP|F80.2]] (mixed receptive-expressive language disorder). I am employed by [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] (also known as [[EMPLOYER|Carolina Pediatric Speech]], or "[[EMPLOYER|CPSLT]]"), which coordinates [[CHILD|Mateo]]'s care under his [[AGENCY|Durham County CDSA]] referral, Medicaid ID [[MEDICAID_ID|987654321A]].
+
+Interpreter [[PROVIDER|Sara Gomez]] supported communication with [[PARENT|Lucía Rodríguez]] throughout. [[CHILD|Mateo]]'s father, [[PARENT|Carlos Alvarez]], joined briefly by phone. [[CHILD|Mateo]]'s older brother, [[SIBLING|Diego]], and the family dog, [[PET|Rocky]], were present in the home.
+
+Subjective: [[PARENT|Lucía Rodríguez]] reports [[CHILD|Mateo]] continues to say "[[KEEP|wa]]" for [[KEEP|/w/]] and omits final consonants, e.g., "[[KEEP|ca]]" for "cat." His pediatrician, Dr. [[PROVIDER|Alan Kim]], recommended continued weekly therapy at a well visit on [[DATE|August 3, 2026]].
+
+Objective: [[CHILD|Mateo]] produced /k/ in isolation with [[KEEP|8/10]] accuracy ([[KEEP|80%]]) given [[KEEP|mod cues]], up from his last review. He imitated target words using [[KEEP|PROMPT]] cueing and completed a [[KEEP|PECS]] exchange with [[KEEP|3 of 5]] trials independent.
+
+Coordination: OT [[PROVIDER|Jenna Park]] and PT [[PROVIDER|Mike Tran]] attended the IFSP review on [[DATE|July 15, 2026]] addressing Outcome [[KEEP|2]]. Teacher Ms. [[TEACHER|Lopez]] at [[DAYCARE|Little Sprouts Daycare]] reports similar gains in peer play with classmate [[PEER|Noah]].
+
+Plan: Continue twice-weekly sessions per the schedule below.
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[DAYCARE|Little Sprouts Daycare]] |
+| Thursday | [[TIME|3:00 PM]] | [[TIME|3:30 PM]] | Home, [[PLACE|Willow Creek Lane]] |
+
+Next review scheduled [[DATE|December 1, 2026]]. Questions may be directed to [[PROVIDER|Maria Rivera]], SLP, [[EMPLOYER|CPSLT]], at [[PHONE|(919) 555-0142]] or [[EMAIL|m.rivera@carolinapedspeech.com]].

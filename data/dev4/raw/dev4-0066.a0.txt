@@ -1,0 +1,87 @@
++ Nombre: [[CHILD|Mateo Fernández Rodríguez]]
++ Apodo: [[CHILD|Mateín]]
++ Fecha de nacimiento: [[DATE|14 de marzo de 2024]]
++ EC: [[KEEP|1;6]]
++ Número de expediente: [[ID|RM-2024-0317B]]
++ Número de Medicaid: [[MEDICAID_ID|MD4471982K]]
++ Contexto: Revisión semestral del Plan Individualizado de Servicios para la Familia (IFSP), realizada el [[DATE|martes 4 de junio de 2025]] en el hogar de la familia, ubicado en [[PLACE|214 Calle Olmo]], [[PLACE|Rivermont]], [[PLACE|Condado de Rivermont]], y en el salón de terapia de [[AGENCY|Little Learners Program]]. Participaron la madre, [[PARENT|Lucía Rodríguez]]; el padre, [[PARENT|Carlos Fernández]]; la coordinadora de servicios, [[PROVIDER|Mónica Reyes]], del [[AGENCY|CDSA de Rivermont]]; y la patóloga del habla y lenguaje bilingüe, [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, de [[EMPLOYER|Carolina Pediatric Therapy Group]].
+
+Resumen:
+
+[[CHILD|Mateo]] es un niño de [[KEEP|1;6]] que reside con su madre, [[PARENT|Lucía Rodríguez]]; su padre, [[PARENT|Carlos Fernández]]; y su hermana mayor, [[SIBLING|Sol]], de 4 años, en [[PLACE|Rivermont, Condado de Rivermont]]. La familia es de origen mexicano y el español es el idioma principal del hogar; [[PARENT|Lucía]] indica que entiende algo de inglés pero prefiere recibir todos los servicios en español, y [[PARENT|Carlos]] prefiere lo mismo. [[CHILD|Mateo]] fue referido al Programa de Carolina del Norte para Bebés y Niños Pequeños (NC Infant-Toddler Program) el [[DATE|10 de septiembre de 2024]] por su pediatra, el Dr. [[PROVIDER|Esteban Vargas]], debido a preocupaciones sobre el desarrollo del lenguaje, la alimentación y un posible retraso motor leve. Esta visita documenta la segunda revisión del IFSP desde la calificación inicial y resume el progreso, las preocupaciones actuales de la familia y los resultados actualizados.
+
+**Historia de nacimiento y médica**
+
+[[CHILD|Mateo]] nació el [[DATE|14 de marzo de 2024]] (14-03-2024) en el [[HOSPITAL|Hospital Memorial de Rivermont]], con una edad gestacional de [[KEEP|34 semanas]] y un peso al nacer de [[KEEP|1,980 gramos]]. Los puntajes de Apgar fueron de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. El embarazo estuvo marcado por preeclampsia materna, lo cual motivó el parto prematuro por cesárea de emergencia. [[CHILD|Mateo]] pasó [[KEEP|18 días]] en la Unidad de Cuidados Intensivos Neonatales (NICU) del [[HOSPITAL|Hospital Memorial de Rivermont]] bajo el cuidado de la neonatóloga, la Dra. [[PROVIDER|Patricia Núñez]], por dificultad respiratoria transitoria e ictericia neonatal que requirió fototerapia. Durante su estancia en la NICU recibió alimentación por sonda nasogástrica debido a succión-deglución-respiración descoordinada, patrón común en bebés prematuros. Fue dado de alta el [[DATE|1 de abril de 2024]] (04/01/2024) con seguimiento ambulatorio a cargo del Dr. [[PROVIDER|Esteban Vargas]], pediatra de cabecera en [[PLACE|Rivermont]], y con referido a audiología de seguimiento, la cual resultó normal en ambos oídos según timpanometría y otoemisiones acústicas realizadas el [[DATE|2 de mayo de 2024]].
+
+No se reportan otras hospitalizaciones importantes, aunque [[CHILD|Mateo]] fue visto en la sala de emergencias el [[DATE|12/22/2024]] por una infección de oído (otitis media aguda, código [[KEEP|H66.90]]), tratada con antibióticos orales sin complicaciones. Tiene además antecedentes de reflujo gastroesofágico (código [[KEEP|K21.9]]), actualmente manejado con modificación de dieta, espesante en los líquidos y posición vertical después de las comidas, según indicación del Dr. [[PROVIDER|Esteban Vargas]]. [[PARENT|Lucía]] reporta que un primo paterno tuvo "un retraso para hablar" en la niñez que se resolvió sin intervención, pero no se identifican otros antecedentes familiares de trastornos del habla, lenguaje o audición de importancia.
+
+**Coordinación de servicios y agencia designada**
+
+El caso de [[CHILD|Mateo]] es coordinado por [[PROVIDER|Mónica Reyes]], coordinadora de servicios del [[AGENCY|CDSA de Rivermont]] (Centro de Desarrollo Infantil y Familiar), ubicado en [[PLACE|820 Avenida del Parque]], [[PLACE|Rivermont]]. Se le puede contactar al [[PHONE|(336) 555-0148]] o por correo electrónico a [[EMAIL|mreyes@cdsarivermont.org]]. La evaluación multidisciplinaria inicial que calificó a [[CHILD|Mateo]] para el Programa de Bebés y Niños Pequeños se realizó el [[DATE|3 de octubre de 2024]], y el IFSP inicial se firmó el [[DATE|17 de octubre de 2024]] (2024-10-17). La primera revisión de seis meses ocurrió el [[DATE|5 de diciembre de 2024]]; esta visita del [[DATE|4 de junio de 2025]] corresponde a la segunda revisión programada, conforme al calendario establecido por el [[AGENCY|CDSA de Rivermont]].
+
+**Preocupaciones y prioridades de la familia**
+
+Durante la entrevista familiar, [[PARENT|Lucía]] expresó lo siguiente, en sus propias palabras: "Lo que más me preocupa es que [[CHILD|Mateo]] todavía no dice ninguna palabra clara. Mi sobrina a esta edad ya decía 'mamá' y 'agua', y él solo hace sonidos." [[PARENT|Carlos]] añadió: "También nos preocupa cómo come. Se atraganta con ciertas texturas y a veces tarda una hora en terminar de comer. Nos da miedo que se vaya a ahogar." [[PARENT|Lucía]] también comentó sobre la interacción social de su hijo: "En la guardería dicen que juega solo casi todo el tiempo. Queremos que juegue con los demás niños."
+
+La familia identificó las siguientes prioridades para esta revisión:
+
+1. Que [[CHILD|Mateo]] aprenda a usar palabras o señas para pedir cosas que quiere, como comida, agua o un juguete.
+2. Que mejore la tolerancia a texturas variadas durante las comidas, para reducir el riesgo de arcadas y acortar el tiempo de las comidas.
+3. Que la familia reciba estrategias en español que puedan usar en casa, y que el personal de [[DAYCARE|Little Learners Daycare]] pueda reforzar las mismas estrategias durante el día.
+4. Que [[CHILD|Mateo]] participe más con otros niños durante el juego en la guardería.
+
+[[PARENT|Lucía]] también mencionó: "Yo quiero que cuando [[CHILD|Mateo]] empiece a hablar, hable los dos idiomas, español e inglés, como su hermana [[SIBLING|Sol]]." La familia fue tranquilizada de que el desarrollo bilingüe no causa ni empeora los retrasos del lenguaje, y que el equipo fomentará activamente el uso continuo del español en el hogar mientras se introduce el inglés de manera gradual en la guardería.
+
+**Rutinas diarias**
+
+[[CHILD|Mateo]] asiste a [[DAYCARE|Little Learners Daycare]] de lunes a viernes, de [[TIME|7:30 a.m.]] a [[TIME|5:00 p.m.]], mientras [[PARENT|Lucía]] trabaja como auxiliar administrativa en [[ORG|Piedmont Furniture Supply]] y [[PARENT|Carlos]] trabaja en construcción con un contratista local. Su maestra en la sala de bebés es la Sra. [[TEACHER|Ivonne Castillo]], quien reporta que [[CHILD|Mateo]] disfruta de la hora de música y de los juegos con pelotas, pero se frustra fácilmente cuando otro niño, [[PEER|Derek]], le quita un juguete, y responde llorando o empujando en lugar de usar palabras o gestos. La Sra. [[TEACHER|Castillo]] también observó que [[CHILD|Mateo]] prefiere jugar cerca de los adultos más que con sus compañeros, [[PEER|Derek]] y [[PEER|Sofía]], durante el tiempo de juego libre.
+
+En casa, la rutina matutina incluye el desayuno a las [[TIME|6:45 a.m.]], seguido de que [[PARENT|Carlos]] lo lleve a la guardería antes de ir al trabajo. Por las tardes, [[PARENT|Lucía]] lo recoge alrededor de las [[TIME|5:15 p.m.]] y la familia cena junta a las [[TIME|6:30 p.m.]]. La hora de dormir es hacia las [[TIME|8:00 p.m.]], con una rutina consistente de baño, lectura de cuentos y canciones de cuna en español. Los fines de semana, la familia frecuentemente visita a la abuela materna, [[FAMILY|Dolores Rodríguez]], quien vive a pocas cuadras y a veces cuida a [[CHILD|Mateo]] y a [[SIBLING|Sol]] cuando los padres trabajan horas extra. [[FAMILY|Dolores]] habla con [[CHILD|Mateo]] principalmente en español y, según reporta [[PARENT|Lucía]], ya ha comenzado a reforzar el uso de gestos para pedir cosas, siguiendo las sugerencias de la terapia anterior.
+
+Durante las comidas, [[CHILD|Mateo]] muestra una marcada preferencia por alimentos suaves y en puré; se atraganta con alimentos de textura mixta, como la sopa con trozos de verdura, y rechaza por completo los alimentos crujientes, como las galletas saladas. La familia ha estado trabajando en casa con las estrategias de posicionamiento y presentación gradual de alimentos recomendadas en la visita anterior, con mejoría parcial mencionada por ambos padres.
+
+**Otras agencias y servicios comunitarios**
+
+Además de los servicios del Programa de Bebés y Niños Pequeños, la familia recibe apoyo de varias agencias comunitarias en el [[PLACE|Condado de Rivermont]]:
+
+- El [[AGENCY|Departamento de Servicios Sociales del Condado de Rivermont]] (DSS) ayuda a la familia con un subsidio de cuidado infantil y con el proceso de renovación de Medicaid, gestionado por la trabajadora social [[PROVIDER|Teresa Ocampo]].
+- El programa [[AGENCY|WIC del Condado de Rivermont]] provee fórmula especializada y consejería nutricional; la familia asiste a citas mensuales con la nutricionista, [[PROVIDER|Beatriz Salinas]], quien también ha dado recomendaciones sobre texturas apropiadas para la edad de [[CHILD|Mateo]].
+- [[AGENCY|Smart Start del Condado de Rivermont]] financia parcialmente la matrícula de [[CHILD|Mateo]] en [[DAYCARE|Little Learners Daycare]] a través de una subvención de calidad de cuidado infantil, lo cual ha permitido que la familia mantenga el cupo a pesar de ingresos limitados.
+- La familia también fue referida a [[AGENCY|Early Head Start]] para el próximo ciclo escolar, con la posibilidad de que [[CHILD|Mateo]] reciba servicios combinados de educación temprana e intervención.
+
+[[PARENT|Lucía]] expresó gratitud por el apoyo de estas agencias, pero mencionó que a veces es difícil coordinar las citas: "Siento que tengo cuatro trabajos diferentes nada más llenando papeles y yendo de una oficina a otra." La coordinadora de servicios, [[PROVIDER|Mónica Reyes]], ofreció ayudar a sincronizar las fechas de las próximas citas con DSS y WIC para reducir la carga administrativa de la familia.
+
+**Evaluación actual y progreso**
+
+En esta revisión se administró la Escala Rossetti de Lenguaje Infantil (Rossetti Infant-Toddler Language Scale), obteniendo [[CHILD|Mateo]] un desempeño correspondiente a una edad equivalente de [[KEEP|9-11 meses]] en el área de lenguaje expresivo y [[KEEP|12-14 meses]] en el área de lenguaje receptivo, en comparación con su edad cronológica de [[KEEP|1;6]]. Se observó que usa [[KEEP|3]] gestos consistentes (señalar, levantar los brazos, negar con la cabeza) y produce aproximadamente [[KEEP|5]] vocalizaciones consonante-vocal, incluyendo algo similar a [[KEEP|"mamá"]] dirigido inconsistentemente hacia [[PARENT|Lucía]]. En una muestra de juego de [[KEEP|15 minutos]], produjo [[KEEP|2 de 10]] intentos de imitación verbal exitosos, y en una tarea estructurada logró [[KEEP|70%]] de respuestas correctas a instrucciones simples de un paso (por ejemplo, "dame" y "ven"). También se observó un repertorio de fonemas limitado a [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|/a/]], sin producción consistente de [[KEEP|/t/]] o [[KEEP|/k/]] en ninguna posición.
+
+Durante la evaluación de alimentación, realizada conjuntamente con terapia ocupacional, se observó un patrón de masticación inmaduro y una respuesta de arcada con texturas mixtas; no se observaron signos manifiestos de aspiración, aunque, por protocolo estándar del programa, la familia fue referida a una evaluación formal de deglución con un terapeuta ocupacional especializado en alimentación pediátrica.
+
+Comparado con la evaluación inicial del [[DATE|3 de octubre de 2024]], en la que [[CHILD|Mateo]] obtuvo una edad equivalente de [[KEEP|6-8 meses]] en lenguaje expresivo, se observa un progreso de aproximadamente [[KEEP|dos a tres meses]] de desarrollo en ocho meses de intervención, lo cual indica una tasa de progreso más lenta que la esperada para la edad y apoya la continuación de servicios intensivos de habla y lenguaje, así como la adición de terapia de alimentación.
+
+**Resultados del IFSP (outcomes) y estrategias**
+
+[[KEEP|Resultado 1]]: [[CHILD|Mateo]] usará al menos [[KEEP|10]] señas o gestos funcionales de manera consistente para pedir objetos, comida o actividades preferidas, en al menos [[KEEP|8 de 10]] oportunidades observadas, para la próxima revisión.
+Estrategias: Implementar comunicación aumentativa basada en gestos siguiendo el enfoque de [[KEEP|Hanen]] ("It Takes Two to Talk"), con modelado de señas simples durante las rutinas de comida y juego. La familia continuará además con el programa [[KEEP|PROMPT]] para apoyar la producción motriz del habla, introducido en la sesión del [[DATE|15 de mayo de 2025]], con énfasis en las aproximaciones a [[KEEP|"mamá"]] y [[KEEP|"más"]].
+
+[[KEEP|Resultado 2]]: [[CHILD|Mateo]] tolerará al menos [[KEEP|5]] texturas de alimentos variadas (incluyendo purés espesos, alimentos machacados y pequeños trozos suaves) sin arcadas, en [[KEEP|4 de 5]] comidas observadas.
+Estrategias: La terapeuta ocupacional y la patóloga del habla y lenguaje colaborarán en sesiones conjuntas de alimentación una vez por semana en [[AGENCY|Little Learners Program]], usando un protocolo de desensibilización oral y progresión gradual de texturas, con seguimiento semanal del peso en coordinación con el Dr. [[PROVIDER|Esteban Vargas]].
+
+[[KEEP|Resultado 3]]: La familia reportará el uso de al menos [[KEEP|3]] estrategias de lenguaje (expansión, pausa expectante y narración paralela) durante las rutinas diarias, según lo registrado en un diario familiar semanal.
+Estrategias: Sesiones de capacitación familiar en español, coordinadas por [[PROVIDER|Laura Jiménez]], con material visual y práctica en vivo durante las comidas y el juego. Se reforzará también con el personal de [[DAYCARE|Little Learners Daycare]], quienes recibirán una breve orientación sobre las estrategias usadas en terapia, con el permiso firmado por la familia para compartir información.
+
+[[KEEP|Resultado 4]]: [[CHILD|Mateo]] iniciará interacción con al menos un compañero durante el juego estructurado en la guardería, en al menos [[KEEP|3]] ocasiones por semana, según observación de la maestra.
+Estrategias: La maestra, Sra. [[TEACHER|Ivonne Castillo]], implementará actividades de juego paralelo guiado entre [[CHILD|Mateo]] y sus compañeros, [[PEER|Derek]] y [[PEER|Sofía]], con apoyo visual, modelado de turnos y reforzamiento positivo inmediato.
+
+**Frecuencia y ubicación de los servicios**
+
+[[CHILD|Mateo]] continuará recibiendo terapia de habla y lenguaje dos veces por semana, en sesiones de [[KEEP|45 minutos]], en [[AGENCY|Little Learners Program]], bajo la autorización [[ID|AUTH-33920R]]. La terapia ocupacional para alimentación se agregará una vez por semana, también de [[KEEP|45 minutos]], iniciando el [[DATE|9 de junio de 2025]] (09/06/2025). Los servicios continuarán facturándose bajo los códigos [[KEEP|92507]] y [[KEEP|92526]], con el modificador [[KEEP|GN]] para servicios de habla y lenguaje, y bajo el código [[KEEP|97165]] para la evaluación inicial de terapia ocupacional.
+
+**Plan de transición**
+
+La próxima revisión del IFSP está programada para el [[DATE|3 de diciembre de 2025]], y la evaluación anual completa se realizará antes del [[DATE|17/10/2025]]. Se recomienda que la familia continúe el contacto regular con la coordinadora de servicios, [[PROVIDER|Mónica Reyes]], para iniciar la planificación de la transición a servicios preescolares cuando [[CHILD|Mateo]] cumpla [[KEEP|3]] años. Dicho proceso debe comenzar formalmente al menos noventa días antes de su cumpleaños número [[KEEP|3]], de acuerdo con las políticas de transición del NC Infant-Toddler Program, e incluirá una evaluación de elegibilidad para servicios de educación especial preescolar a través del sistema escolar local.
+
+**Firma**
+
+Documento preparado por [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, patóloga bilingüe del habla y lenguaje, [[EMPLOYER|Carolina Pediatric Therapy Group]], el [[DATE|4 de junio de 2025]]. Revisado y aprobado por la coordinadora de servicios, [[PROVIDER|Mónica Reyes]], [[AGENCY|CDSA de Rivermont]]. Copia proporcionada a la familia y al pediatra de referencia, Dr. [[PROVIDER|Esteban Vargas]].

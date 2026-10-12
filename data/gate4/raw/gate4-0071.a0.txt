@@ -1,0 +1,33 @@
+DATOS DE LA SESIÓN
+
+- Paciente: [[CHILD|Nicolás Arvelo]], apodo [[CHILD|Nico]], edad [[KEEP|4;2]]. Fecha de nacimiento: [[DATE|08/06/2022]]. Sesión: [[DATE|10/08/2026]], de [[TIME|09:15]] a [[TIME|10:00]], en [[EMPLOYER|Lenguaje Infantil Brisaclara]], [[PLACE|482 Sendero del Laurel]], [[PLACE|Cedralina]], Carolina del Norte, [[PLACE|27584]].
+- Expediente: [[ID|SLP-604827]]. Medicaid: [[MEDICAID_ID|582047193K]]. Servicio individual: CPT [[KEEP|92507]]; evaluación previa: CPT [[KEEP|92523]]. Diagnóstico: ICD-10 [[KEEP|F80.2]]. Profesional responsable: [[PROVIDER|Mariela Castañeda]], patóloga bilingüe del habla y lenguaje.
+
+SUBJETIVO
+
+- Su mamá [[PARENT|Elena Arvelo]] informó mayor iniciativa para pedir ayuda en español. Su papá [[PARENT|Tomás Berrio]] describió frustración durante conversaciones rápidas en inglés. La familia usa ambos idiomas diariamente y desea mantener oportunidades naturales para cada idioma, sin exigir traducciones.
+- Su hermana [[SIBLING|Inés Arvelo]] participó en un juego doméstico. Su abuela [[FAMILY|Rosa Berrio]] cuida al paciente después del preescolar. La maestra [[TEACHER|Clara Montes]], de [[SCHOOL|Preescolar Senderos de Nube]], observó intercambios con su compañero [[PEER|Bruno Ledesma]]. La niñera [[FAMILY|Dalia Fuentes]] recibió instrucciones para practicar turnos.
+
+OBJETIVO
+
+- La intérprete [[PROVIDER|Lidia Solarte]] apoyó la explicación de formularios a la familia; la terapeuta realizó directamente las actividades clínicas en español e inglés. Se alternaron materiales según la respuesta del paciente, sin penalizar cambios de idioma.
+- Tabla de resultados históricos; los datos orientan el seguimiento y requieren interpretación junto con muestras bilingües:
+
+  | Fecha | Prueba y subprueba | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+  |---|---|---|---|---|---|
+  | [[DATE|09/17/2026]] | [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+  | [[DATE|09/17/2026]] | [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|76–86]] | [[KEEP|2;9–3;3]] |
+
+- Identificó acciones en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|claves moderadas]]. Siguió instrucciones relacionadas en [[KEEP|3 de 5]] oportunidades con [[KEEP|claves mínimas]]. Produjo [[KEEP|/k/]] en [[KEEP|6/10]] ensayos; se observó sustitución por [[KEEP|[t]]].
+- Durante juego simbólico dijo [[KEEP|"quiero agua"]] y [[KEEP|"más carro"]]. Ante una fotografía comentó “[[PET|Tilo]] corre”; luego pidió [[KEEP|"ayuda"]]. La muestra incluyó el código [[KEEP|[EW]]] para una palabra adicional. Se emplearon estrategias de [[KEEP|Hanen]] y apoyos visuales, con pausas suficientes para iniciar mensajes.
+
+ANÁLISIS
+
+- La participación mejoró con elecciones visibles y rutinas predecibles. Persisten dificultades para comprender relaciones espaciales y ampliar enunciados. El rendimiento varió según la familiaridad del vocabulario, por lo que estas observaciones no establecen una preferencia lingüística definitiva. La familia confirmó que las producciones reflejan situaciones habituales.
+- El paciente toleró las transiciones sin malestar. Las respuestas espontáneas aumentaron después del modelado y la espera. Se recomienda mantener muestras comparables en ambos idiomas para valorar cambios funcionales.
+
+PLAN Y COORDINACIÓN
+
+- Continuar el objetivo [[KEEP|2]] del IFSP. Practicar peticiones durante merienda y juego, con [[KEEP|claves mínimas]]. Revisar avances el [[DATE|11/05/2026]].
+- Coordinar recomendaciones con la terapeuta ocupacional [[PROVIDER|Julia Navas]], el fisioterapeuta [[PROVIDER|Óscar Leiva]] y la pediatra Dra. [[PROVIDER|Renata Cordero]], de [[HOSPITAL|Hospital Infantil Loma Serena]]. La coordinadora [[PROVIDER|Mónica Salcedo]], de [[AGENCY|CDSA Valle del Laurel]], recibirá el resumen autorizado.
+- Contacto familiar: [[PHONE|919-555-0146]]; [[EMAIL|elena.arvelo@example.com]]. Portal: [[URL|https://lenguaje-brisaclara.example.com]]. La mamá explicó correctamente la práctica mediante demostración y acordó registrar ejemplos breves.

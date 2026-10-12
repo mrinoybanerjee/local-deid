@@ -1,0 +1,93 @@
+SPEECH-LANGUAGE EVALUATION REPORT / INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE
+
+Client/Paciente: [[CHILD|Jesús del Río]] ("[[CHILD|Chuy]]")   Date of Birth: [[DATE|04/18/2021]]   Chronological Age: [[KEEP|4;6]]   Sex: Male
+Evaluation Date(s): [[DATE|September 15, 2026]] and [[DATE|September 22, 2026]]   Report Date: [[DATE|September 29, 2026]]
+Medicaid ID: [[MEDICAID_ID|882741039R]]   CDSA Case ID: [[ID|CDSA-4471-GSO]]   Authorization #: [[ID|AUTH-55921]]
+Referring Agency: [[AGENCY|Piedmont CDSA]]   Service Coordinator: [[PROVIDER|Nancy Whitfield]]   County: [[PLACE|Guilford County]]
+Evaluating Clinician: [[PROVIDER|Katherine Simmons]], M.S., CCC-SLP, Bilingual Spanish-English   NPI: [[ID|1639284471]]
+Employer: [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]]   also known as "[[EMPLOYER|Carolina Pediatric Therapy]]" or "[[EMPLOYER|CPTP]]"
+Clinic Address: [[PLACE|4410 Battleground Avenue, Suite 210, Greensboro, NC 27410]]   Clinic Phone: [[PHONE|(336) 555-0148]]
+Clinic Email: [[EMAIL|intake@cptp-nc.com]]   Clinic Website: [[URL|www.cptp-nc.com]]
+Interpreter: [[PROVIDER|Rosa Jiménez]], Qualified Spanish Medical Interpreter, present for both sessions
+Mother/Madre: [[PARENT|Guadalupe Martínez-Flores]] ("[[PARENT|Lupita]]")   Father/Padre: [[PARENT|Pedro del Río]]
+Home Address: [[PLACE|118 Willowbrook Lane, Greensboro, NC 27406]]   Home Phone: [[PHONE|(336) 555-0271]]   Cell: [[PHONE|(336) 555-0298]]
+Daycare/Preschool: [[DAYCARE|Little Sprouts Early Learning Academy]]   Classroom Teacher: Ms. [[TEACHER|Amanda Lopez]]
+Pediatrician: Dr. [[PROVIDER|Arturo Fernández]], [[HOSPITAL|Guilford Pediatric Associates]]
+Occupational Therapist: [[PROVIDER|Megan Daniels]], OTR/L   Physical Therapist: [[PROVIDER|Brian Walsh]], PT, DPT
+CPT Codes: [[KEEP|92523]], [[KEEP|92522]]   ICD-10: [[KEEP|F80.2]], [[KEEP|F80.4]]
+
+ANTECEDENTES / BACKGROUND
+
+[[CHILD|Jesús del Río]], called "[[CHILD|Chuy]]" by his family, was referred for a bilingual speech-language evaluation by [[AGENCY|Piedmont CDSA]] following his annual IFSP review on [[DATE|August 12, 2026]]. His mother, [[PARENT|Guadalupe Martínez-Flores]], reported during the intake interview, "[[CHILD|Chuy]] no habla mucho con nosotros, pero habla bastante con su hermano [[SIBLING|Pepe]]." She explained that at home the family speaks mostly Spanish, aunque su esposo [[PARENT|Pedro del Río]] trabaja turnos largos en [[ORG|Deluxe Foods Distribution]] and sometimes brings home English phrases that the children pick up. [[PARENT|Lupita]] added, "En la casa decimos 'agua' y 'leche,' pero en la guardería le dicen 'milk' y 'water,' y a veces se confunde."
+
+[[CHILD|Chuy]] attends [[DAYCARE|Little Sprouts Early Learning Academy]] five days a week, where his classroom teacher, Ms. [[TEACHER|Amanda Lopez]], first raised concerns about limited expressive language in both English and Spanish. Ms. [[TEACHER|Lopez]] noted that [[CHILD|Chuy]] plays alongside peers such as [[PEER|Juanito Ramírez-Castro]] but rarely initiates verbal exchanges, often pointing or pulling a peer's sleeve instead of using words. The director of [[DAYCARE|Little Sprouts Early Learning Academy]] also mentioned that [[CHILD|Chuy]]'s cousin, [[FAMILY|Teo Flores]], who sometimes picks him up when [[PARENT|Lupita]] works late, has commented that [[CHILD|Chuy]] "habla como bebé" compared to other children his age.
+
+Current services include twice-weekly occupational therapy with [[PROVIDER|Megan Daniels]] for fine motor delays and weekly physical therapy with [[PROVIDER|Brian Walsh]] for mild gross motor incoordination. [[PARENT|Guadalupe Martínez-Flores]] and [[PARENT|Pedro del Río]] requested this evaluation to determine whether [[CHILD|Chuy]]'s limited talking reflects a true language disorder, a second-language learning pattern, or both, and to guide planning before he transitions to [[SCHOOL|Hillcrest Elementary School]] next year.
+
+HISTORIA DE NACIMIENTO Y MÉDICA / BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Chuy]] was born at [[KEEP|38 weeks]] gestation via scheduled cesarean delivery at [[HOSPITAL|Cone Health Women's Hospital]]. Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. Birth weight was [[KEEP|6 lbs 11 oz]]. [[PARENT|Guadalupe Martínez-Flores]] reported an uncomplicated pregnancy, with routine prenatal care through [[AGENCY|WIC]] and her obstetrician in [[PLACE|Greensboro]]. [[CHILD|Chuy]] passed his newborn hearing screening bilaterally and has had no reported ear infections requiring tubes, though [[PARENT|Lupita]] mentioned, "tuvo como tres infecciones de oído el año pasado, pero nada grave."
+
+Dr. [[PROVIDER|Arturo Fernández]] at [[HOSPITAL|Guilford Pediatric Associates]] has followed [[CHILD|Chuy]] since birth and referred him to [[AGENCY|Piedmont CDSA]] at [[KEEP|18 months]] after noting delayed motor and language milestones at a well-child visit. Developmental history indicates [[CHILD|Chuy]] sat independently at [[KEEP|7 months]], walked at [[KEEP|16 months]], and said his first words, "mamá" and "agua," around [[KEEP|22 months]], both later than his older sister. No history of seizures, significant illness, or hospitalization beyond birth is reported. Vision and hearing were last screened on [[DATE|March 3, 2026]] at [[HOSPITAL|Guilford Pediatric Associates]] and were within normal limits.
+
+HISTORIA FAMILIAR Y DE LENGUAJE / FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Chuy]] lives with his parents, [[PARENT|Guadalupe Martínez-Flores]] and [[PARENT|Pedro del Río]], his older brother [[SIBLING|José del Río]] ("[[SIBLING|Pepe]]," age [[KEEP|7]]), and his younger sister [[SIBLING|Ana del Río]] (age [[KEEP|2]]). His grandmother, [[FAMILY|Carmen Soto]], lives nearby and babysits most weekday afternoons; she speaks only Spanish with the children. The family's dog, [[PET|Rocky]], is frequently mentioned during play, and [[PARENT|Lupita]] noted that [[CHILD|Chuy]]'s clearest spontaneous phrase at home is "[[KEEP|¡[[PET|Rocky]] ven!]]" shouted from the back porch.
+
+Language exposure in the home is estimated at roughly 80 percent Spanish and 20 percent English. [[PARENT|Pedro del Río]] reported, "Yo le hablo en español casi todo el tiempo, pero cuando mi hermano [[FAMILY|Teo Flores]] viene de visita, él le habla a [[CHILD|Chuy]] mitad en inglés mitad en español, y el niño se queda callado." [[SIBLING|Pepe]] is described as bilingual and fluent in both languages, often translating for [[CHILD|Chuy]] at [[DAYCARE|Little Sprouts Early Learning Academy]] pickup. Family friend [[FAMILY|Rosario Vega]], who sometimes watches the children on weekends, reported that [[CHILD|Chuy]] "entiende todo lo que le dices, pero contesta con gestos o con una sola palabra."
+
+No other family members are reported to have histories of speech, language, or learning disorders, though [[PARENT|Guadalupe Martínez-Flores]] mentioned that her brother, [[FAMILY|Teo Flores]], "también tardó en hablar de niño." [[PARENT|Lupita]] expressed worry that [[CHILD|Chuy]] will struggle socially once he enters [[SCHOOL|Hillcrest Elementary School]], saying, "quiero que hable los dos idiomas bien, no quiero que se quede atrás en ninguno."
+
+SESSION SCHEDULE / HORARIO DE SESIONES
+
+Services are coordinated across home, daycare, and clinic settings to support generalization in both languages. The current treatment schedule, established with [[PARENT|Guadalupe Martínez-Flores]], is as follows:
+
+Day         Start Time      Stop Time       Location
+Monday      [[TIME|9:00 AM]]       [[TIME|9:45 AM]]       [[DAYCARE|Little Sprouts Early Learning Academy]], [[PLACE|2200 Spring Garden Street, Greensboro, NC 27403]]
+Wednesday   [[TIME|3:30 PM]]       [[TIME|4:15 PM]]       [[EMPLOYER|CPTP]] clinic, [[PLACE|4410 Battleground Avenue, Suite 210, Greensboro, NC 27410]]
+Friday      [[TIME|10:00 AM]]      [[TIME|10:45 AM]]      [[PLACE|118 Willowbrook Lane, Greensboro, NC 27406]] (home visit)
+
+[[PROVIDER|Rosa Jiménez]] attends the Wednesday clinic sessions to interpret for [[PARENT|Guadalupe Martínez-Flores]] and [[PARENT|Pedro del Río]] when either parent is present, and [[FAMILY|Carmen Soto]] typically attends the Friday home visits in their place.
+
+PROCEDIMIENTOS DE EVALUACIÓN / EVALUATION PROCEDURES
+
+Assessment was conducted bilingually across two sessions, with [[PROVIDER|Rosa Jiménez]] interpreting all parent interview content and [[PROVIDER|Katherine Simmons]] administering direct testing in both English and Spanish. Standardized measures included the [[KEEP|Preschool Language Scales-5 (PLS-5) Spanish]], the [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]], and the [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]. Informal measures included a parent interview using the [[KEEP|Bilingual English-Spanish Assessment (BESA)]] language use survey, play-based language sampling, and a [[KEEP|30-minute]] structured observation at [[DAYCARE|Little Sprouts Early Learning Academy]] during free play with peers including [[PEER|Juanito Ramírez-Castro]].
+
+[[CHILD|Chuy]] separated easily from his mother and engaged readily with toys, though he required [[KEEP|moderate cues]] to attend to structured tasks. He demonstrated adequate attention for brief activities but showed frustration, pushing materials away, when verbal demands increased. Rapport was established quickly using preferred toys, including a stuffed dog he referred to repeatedly as "[[KEEP|[[PET|Rocky]]]]."
+
+RESULTADOS DE LAS PRUEBAS / TEST RESULTS
+
+Test/Subtest                                              Standard Score    Percentile    Range/CI
+[[KEEP|PLS-5 Spanish]] Auditory Comprehension              [[KEEP|76]]              [[KEEP|5th]]          [[KEEP|70-82]]
+[[KEEP|PLS-5 Spanish]] Expressive Communication             [[KEEP|68]]              [[KEEP|2nd]]          [[KEEP|62-74]]
+[[KEEP|PLS-5 Spanish]] Total Language Score                 [[KEEP|70]]              [[KEEP|2nd]]          [[KEEP|65-75]]
+[[KEEP|CELF Preschool-3]] Sentence Structure                [[KEEP|72]]              [[KEEP|3rd]]          [[KEEP|66-78]]
+[[KEEP|CELF Preschool-3]] Word Structure                    [[KEEP|79]]              [[KEEP|8th]]          [[KEEP|73-85]]
+[[KEEP|GFTA-3]] Sounds-in-Words Standard Score               [[KEEP|81]]              [[KEEP|10th]]         [[KEEP|75-87]]
+
+On the [[KEEP|PLS-5 Spanish]], [[CHILD|Chuy]] obtained an Auditory Comprehension standard score of [[KEEP|76]] ([[KEEP|5th percentile]]) and an Expressive Communication standard score of [[KEEP|68]] ([[KEEP|2nd percentile]]), yielding a Total Language Score of [[KEEP|70]] ([[KEEP|2nd percentile]]), within the [[KEEP|65-75]] confidence interval. Receptive skills, while also below average, were notably stronger than expressive skills, consistent with parent report. On the [[KEEP|CELF Preschool-3]], administered in English, [[CHILD|Chuy]] scored in the [[KEEP|low average to below average range]] across Sentence Structure ([[KEEP|72]], [[KEEP|3rd percentile]]) and Word Structure ([[KEEP|79]], [[KEEP|8th percentile]]), suggesting emerging but inconsistent English morphosyntax. The [[KEEP|GFTA-3]] yielded a Sounds-in-Words standard score of [[KEEP|81]] ([[KEEP|10th percentile]]), with substitution patterns including stopping of [[KEEP|/s/]] to [[KEEP|[t]]] and gliding of [[KEEP|/ɾ/]] to [[KEEP|[w]]], both developmentally appropriate for his age in Spanish-influenced speech.
+
+Language sample analysis showed a mean length of utterance of [[KEEP|2.1 morphemes]] in Spanish and [[KEEP|1.8 morphemes]] in English, below expectations for age [[KEEP|4;6]]. [[CHILD|Chuy]] produced targeted vocabulary with [[KEEP|6 of 10]] items labeled correctly in Spanish and [[KEEP|4 of 10]] in English during a bilingual naming task. When imitating the target word "[[KEEP|pelota]]," he produced "[[KEEP|peota]]," omitting the medial [[KEEP|/l/]]. During free play, he spontaneously said "[[KEEP|más agua]]" and, referencing the therapy dog toy, "[[KEEP|[[PET|Rocky]] corre]]," both appropriately marked as two-word combinations for his stage.
+
+During the daycare observation, [[CHILD|Chuy]] used primarily gestures with [[PEER|Juanito Ramírez-Castro]] and one other classmate, requiring [[KEEP|minimal to moderate cues]] from Ms. [[TEACHER|Lopez]] to request materials verbally rather than pointing. He successfully followed [[KEEP|3 of 5]] two-step directions in Spanish and [[KEEP|2 of 5]] in English without visual support.
+
+IMPRESIONES / IMPRESSIONS
+
+[[CHILD|Chuy]] presents with a bilingual language disorder affecting both Spanish, his dominant language, and English, his emerging second language, as evidenced by below-average scores across standardized measures administered in both languages and corroborated by consistent parent, teacher, and clinician observation. Because deficits are present across both of [[CHILD|Chuy]]'s languages rather than isolated to the less-dominant one, a true language disorder is indicated rather than a typical second-language acquisition pattern. Expressive language is more significantly impaired than receptive language, and mild speech sound errors are consistent with his developmental stage and exposure pattern, not indicative of a primary speech sound disorder.
+
+[[PARENT|Guadalupe Martínez-Flores]] and [[PARENT|Pedro del Río]] demonstrate strong engagement and insight, and the extended family, including [[FAMILY|Carmen Soto]] and [[FAMILY|Teo Flores]], provides consistent additional language exposure, which is a protective factor. Coordination between [[PROVIDER|Katherine Simmons]], [[PROVIDER|Megan Daniels]], and [[PROVIDER|Brian Walsh]] should continue given overlapping fine and gross motor goals that may affect attention during structured language tasks.
+
+RECOMENDACIONES / RECOMMENDATIONS
+
+1. [[CHILD|Chuy]] qualifies for continued speech-language therapy services under IFSP Outcome [[KEEP|#3]] (expressive language) and Outcome [[KEEP|#4]] (bilingual vocabulary development), to be delivered by [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]] under the current authorization through [[AGENCY|Piedmont CDSA]].
+2. Continue individual bilingual speech-language therapy twice weekly, per the schedule above, using a combined [[KEEP|Hanen]] and [[KEEP|PROMPT]] approach to support expressive vocabulary and early sentence structure in both languages.
+3. Incorporate [[KEEP|PECS]]-based supports temporarily at [[DAYCARE|Little Sprouts Early Learning Academy]] to reduce frustration during peer interactions while verbal output increases, coordinated with Ms. [[TEACHER|Amanda Lopez]].
+4. Family training focused on expansion strategies in Spanish, since this is [[CHILD|Chuy]]'s dominant and most supported language; [[PROVIDER|Rosa Jiménez]] should continue interpreting at clinic sessions to ensure [[PARENT|Guadalupe Martínez-Flores]] and [[PARENT|Pedro del Río]] fully participate in goal-setting.
+5. Continued coordination with [[PROVIDER|Megan Daniels]] (OT) and [[PROVIDER|Brian Walsh]] (PT) regarding shared attention and motor-planning goals that intersect with language tasks.
+6. Re-evaluation of both languages in approximately [[KEEP|6 months]] to monitor progress and determine continued eligibility prior to transition planning for [[SCHOOL|Hillcrest Elementary School]].
+7. Referral back to Dr. [[PROVIDER|Arturo Fernández]] for a repeat hearing screening given the reported history of ear infections, to rule out any fluctuating conductive component contributing to inconsistent auditory attention.
+
+This evaluation was completed by [[PROVIDER|Katherine Simmons]], M.S., CCC-SLP, on behalf of [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]] ([[EMPLOYER|CPTP]]), in coordination with [[AGENCY|Piedmont CDSA]] and the family. Questions may be directed to the clinic at [[PHONE|(336) 555-0148]] or [[EMAIL|intake@cptp-nc.com]].
+
+Electronically signed: [[PROVIDER|Katherine Simmons]], M.S., CCC-SLP   Date: [[DATE|September 29, 2026]]
+Interpreter attestation: [[PROVIDER|Rosa Jiménez]], Qualified Spanish Medical Interpreter   Date: [[DATE|September 29, 2026]]

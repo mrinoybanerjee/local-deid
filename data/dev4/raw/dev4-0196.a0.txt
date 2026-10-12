@@ -1,0 +1,26 @@
+NOTA DE SESIÓN DIARIA / Daily Session Note
+
+Child: [[CHILD|Mateo Fernández Reyes]]  DOB: [[DATE|04/12/2022]]  Age: [[KEEP|4;6]]
+NC ITP Child ID: [[ID|ITP-4471920]]  Medicaid ID: [[MEDICAID_ID|987654321C]]  Insurance Member ID: [[ID|BCBS-NC-5582014]]  Auth #: [[ID|AUTH-2026-00938]]
+CDSA: Centro de Desarrollo y Servicios para Niños de la Región del Piedmont (CDSA Piedmont) — service coordinator [[PROVIDER|Ana Beltrán]], Agencia de Coordinación de Servicios del Condado de Guilford (short form: ACSCG)
+Seen at: [[HOSPITAL|Cone Health Pediatric Rehabilitation Clinic, Kernersville Campus]]
+Home address: [[PLACE|118 Rolling Meadow Lane, Kernersville, NC 27284]]
+Family hometown: [[PLACE|San Juan de la Maguana, Dominican Republic]]
+Session date: [[DATE|October 9, 2026]]  Time: [[TIME|9:30 AM]]
+
+S: Su mamá [[PARENT|Lucía Fernández]] reportó, "[[CHILD|Mateo]] está diciendo más palabras en casa, pero todavía se frustra." Abuela [[FAMILY|Rosa Reyes]] also noted he said "quiero jugo" clearly twice this week. His hermana [[SIBLING|Camila]] helped prompt turn-taking during snack.
+
+O: [[KEEP|CELF-5]] [[KEEP|Receptive Language Index]] standard score [[KEEP|76]] ([[KEEP|5th percentile]]); [[KEEP|PLS-5 Auditory Comprehension]] age equivalent [[KEEP|2;6–3;0]]. Articulation probe: target /k/ produced correctly [[KEEP|7/10]] trials with [[KEEP|mod cues]]; final consonant deletion noted in "[[KEEP|dog]]" → [[KEEP|[dɔ]]]. Used [[KEEP|PECS]] phase II spontaneously [[KEEP|3 of 5]] opportunities. Apgar [[KEEP|8/9]], birth weight [[KEEP|2.9 kg]], gestational age [[KEEP|36 weeks]] per NICU history at [[HOSPITAL|Atrium Health Wake Forest Baptist, NICU Level III]].
+
+A: CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]]. Good stimulability for /k/ with [[KEEP|PROMPT]] cueing.
+
+P: Continue [[KEEP|Hanen]] coaching with parent; next session [[DATE|October 16, 2026]].
+
+IFSP OUTCOME REVIEW
+Outcome	Strategies	Progress	Date
+[[KEEP|Outcome 1]]: expressive vocabulary	[[KEEP|PECS]], modeling	emerging 2-word combos	[[DATE|10/09/2026]]
+[[KEEP|Outcome 2]]: articulation /k,g/	[[KEEP|PROMPT]], tactile cues	[[KEEP|7/10]] correct	[[DATE|10/09/2026]]
+[[KEEP|Outcome 3]]: social turn-taking	Hanen coaching with [[PARENT|Lucía Fernández]]	improving with [[SIBLING|Camila]]	[[DATE|10/09/2026]]
+
+Clinician: [[PROVIDER|Marisol Quintero, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Contact: [[PHONE|(336) 555-0147]] / [[EMAIL|m.quintero@carolinapedstherapy.com]]

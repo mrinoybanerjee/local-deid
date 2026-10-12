@@ -1,0 +1,19 @@
+Niño/a: [[CHILD|Mateo Hernández Cruz]] ("[[CHILD|Teo]]")   Fecha de nacimiento: [[DATE|14 de marzo de 2021]]   Edad: [[KEEP|4;7]]   ID de caso: [[ID|NC-48217]]   Medicaid: [[MEDICAID_ID|987654321A]]
+
+Fecha de sesión: [[DATE|9 de octubre de 2026]]   Hora: [[TIME|10:15 a.m.]] – [[TIME|11:00 a.m.]]   Lugar: [[AGENCY|CDSA del Condado de Wake]]   Coordinadora de servicios: [[PROVIDER|Marta Gómez]]
+
+Dirección: [[PLACE|412 Pine Ridge Drive]], [[PLACE|Raleigh]], [[PLACE|Condado de Wake]], NC [[PLACE|27610]]   Lugar de origen de la familia: [[PLACE|Aldea El Rosario]], Guatemala
+
+Agencias involucradas: [[AGENCY|DSS del Condado de Wake]], [[AGENCY|WIC]], [[AGENCY|Smart Start de Wake County]], [[AGENCY|Early Head Start de Wake County]]
+
+Antecedentes: [[CHILD|Teo]] nació a las [[KEEP|38 semanas de gestación]], con un peso de [[KEEP|3.2 kg]] y un puntaje de Apgar de [[KEEP|8/9]]. La familia emigró desde [[PLACE|Aldea El Rosario]], Guatemala, cuando [[CHILD|Teo]] tenía [[KEEP|10 meses]], y se instaló cerca de [[PLACE|Raleigh]]. Se inscribió en [[AGENCY|Early Head Start de Wake County]] con la ayuda de la coordinadora [[PROVIDER|Marta Gómez]].
+
+S: La mamá, [[PARENT|Lucía Rodríguez]], reporta que [[CHILD|Teo]] durmió bien y comió antes de la sesión. Dice que en casa [[CHILD|Teo]] jugó con su perro [[PET|Max]] y dijo "[[KEEP|quiero jugar]]" sin apoyo. La abuela, [[FAMILY|Rosa Cruz]], quien cuida a [[CHILD|Teo]] después de la escuela, comenta que también juega con su hermana [[SIBLING|Camila]] y con su vecino [[PEER|Josué]]. El papá, [[PARENT|Carlos Hernández]], trabaja en [[ORG|Food Lion]] y no pudo asistir hoy. La niñera [[FAMILY|Dalia Pérez]] trajo a [[CHILD|Teo]] a la cita. También asistió la intérprete, [[PROVIDER|Yesenia Flores]], quien ayudó a facilitar la comunicación con la familia durante la sesión. La trabajadora social de [[AGENCY|DSS]], [[PERSON|Keisha Brown]], llamó para coordinar una visita domiciliaria la próxima semana.
+
+O: Se administró el [[KEEP|PLS-5]], subprueba de [[KEEP|Comprensión Auditiva]]. Puntaje estándar: [[KEEP|73-83]]   Percentil: [[KEEP|9]]   Edad equivalente: [[KEEP|2;6–3;0]]. En producción de habla, [[CHILD|Teo]] logró el fonema [[KEEP|/k/]] con [[KEEP|8/10]] ensayos correctos usando claves [[KEEP|mod cues]]. Produjo la palabra meta "[[KEEP|casa]]" como "[[KEEP|tasa]]". Se usó el enfoque [[KEEP|PROMPT]] y tarjetas de [[KEEP|PECS]]. Se registró el código [[KEEP|ICD-10 F80.1]] y el código [[KEEP|CPT 92507]] para la sesión. [[CHILD|Teo]] también trabajó el fonema [[KEEP|/s/]] en palabras con apoyo visual, logrando [[KEEP|6/8]] producciones correctas con claves [[KEEP|min cues]].
+
+A: [[CHILD|Teo]] muestra progreso en el [[KEEP|Objetivo 2]] del IFSP ([[KEEP|IFSP Outcome 2]]). Su maestra, Sra. [[TEACHER|López]], en [[DAYCARE|Little Stars Child Care]], reporta mejoría similar en el salón.
+
+P: Continuar con sesiones semanales. La coordinadora [[PROVIDER|Marta Gómez]] programará la revisión del IFSP para el [[DATE|15 de enero de 2027]]. Contactar a la familia al [[PHONE|(919) 555-2487]] o [[EMAIL|lucia.rodriguez@example.com]]. Se notificará a [[AGENCY|WIC]] sobre el cambio de horario y se enviará una copia de esta nota a la oficina de [[AGENCY|Smart Start de Wake County]] para actualizar el expediente.
+
+Terapeuta: [[PROVIDER|Ana Martínez]], SLP-CCC, [[EMPLOYER|Carolina Pediatric Therapy Services]]

@@ -1,0 +1,45 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Paciente: [[CHILD|Camila Ortiz Reyes]] ("[[CHILD|Cami]]")
+Fecha de nacimiento: [[DATE|04/18/2021]]
+Edad: [[KEEP|4;6]]
+Fecha de sesión: [[DATE|October 6, 2026]]
+Hora: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Clínica: [[PROVIDER|Marisol Peña, M.S., CCC-SLP]], bilingüe español/inglés
+Empleadora: [[EMPLOYER|Carolina Bright Speech & Language Partners, PLLC]]
+ID de Medicaid: [[MEDICAID_ID|7738204915B]]
+ID de miembro de seguro: [[ID|INS-44021987]]
+ID de niño NC ITP: [[ID|NCITP-2026-05871]]
+Número de autorización: [[ID|AUTH-993147]]
+
+CONTACTOS	TELÉFONO	CORREO
+[[PARENT|Rosa Ortiz]] (madre)	[[PHONE|(919) 555-0142]]	[[EMAIL|rosa.ortiz88@yahoo.com]]
+[[PROVIDER|Marisol Peña]], SLP	[[PHONE|(984) 555-0199]]	[[EMAIL|mpena@carolinabrightslp.com]]
+[[AGENCY|Wake County Partnership for Children]]	[[PHONE|(919) 555-0301]]	N/A
+
+S: La madre, [[PARENT|Rosa Ortiz]], reporta que [[CHILD|Cami]] continúa en seguimiento con el [[HOSPITAL|UNC Children's Hospital, Campus de Audiología y Otorrinolaringología de Chapel Hill]] por antecedente de otitis media recurrente. Último audiograma en [[DATE|September 15, 2026]] mostró audición dentro de límites normales bilateral. [[PARENT|Rosa]] menciona que [[CHILD|Cami]] empezó este mes en [[DAYCARE|Little Sprouts Early Learning Center]] en [[PLACE|Garner, Wake County]], y que su maestra, [[TEACHER|Srta. Jennifer Holloway]], ha notado que [[CHILD|Cami]] se frustra cuando sus compañeros, especialmente [[PEER|Dylan]] y [[PEER|Ava]], no la entienden.
+
+La familia recibe apoyo de [[AGENCY|WIC]] y está en proceso con [[AGENCY|Wake County DSS]] para asistencia de vivienda. El padre, [[PARENT|Héctor Ortiz]], trabaja en [[ORG|Carolina Logistics Group]] y no pudo asistir hoy. La abuela materna, [[FAMILY|Delia Reyes]], cuida a [[CHILD|Cami]] los martes y jueves.
+
+O: Se administró el [[KEEP|CELF-5]], subprueba [[KEEP|Formulación de Oraciones]]: puntaje estándar [[KEEP|78]], percentil [[KEEP|7]]. En el [[KEEP|PLS-5]], [[KEEP|Comprensión Auditiva]] obtuvo edad equivalente de [[KEEP|26 meses]].
+
+Trabajamos producción de /[[KEEP|r]]/ en posición inicial. [[CHILD|Cami]] produjo "[[KEEP|rosa]]" como [[KEEP|[losa]]] y "[[KEEP|ratón]]" con [[KEEP|mod cues]], logrando [[KEEP|6/10]] ensayos correctos. Se usó el enfoque [[KEEP|Cycles]] para fonemas /[[KEEP|ɾ]]/ y /[[KEEP|s]]/.
+
+PUNTAJE	INTENTOS	CORRECTOS
+Línea base	[[KEEP|10]]	[[KEEP|3/10]]
+Con [[KEEP|mod cues]]	[[KEEP|10]]	[[KEEP|6/10]]
+Independiente	[[KEEP|10]]	[[KEEP|2/10]]
+
+Se practicó vocabulario con tarjetas; [[CHILD|Cami]] nombró [[KEEP|8 de 10]] ítems de forma espontánea.
+
+A: [[CHILD|Cami]] muestra progreso lento pero constante hacia el Objetivo [[KEEP|IFSP #2]] (producción de consonantes iniciales). Persisten dificultades de inteligibilidad que afectan interacción con pares en [[DAYCARE|Little Sprouts]].
+
+P: Continuar sesiones [[KEEP|2x/semana, 45 minutos]] bajo [[KEEP|CPT 92507]]. Coordinar con [[PROVIDER|Dra. Lin Zhao]], otorrinolaringóloga en [[HOSPITAL|UNC Children's Hospital]], para seguimiento auditivo. Se enviará referido a [[AGENCY|Early Head Start]] de [[PLACE|Wake County]] para servicios adicionales de desarrollo. Próxima revisión de IFSP programada para [[DATE|December 2, 2026]].
+
+HORARIO DE SERVICIO	DÍA	HORA
+Terapia de habla	Martes	[[TIME|2:30 PM]]
+Terapia de habla	Jueves	[[TIME|2:30 PM]]
+
+Firmado electrónicamente: [[PROVIDER|Marisol Peña, M.S., CCC-SLP]]
+[[EMPLOYER|Carolina Bright Speech & Language Partners, PLLC]]
+Fecha: [[DATE|October 6, 2026]]

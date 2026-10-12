@@ -1,0 +1,14 @@
+Nombre del niño: [[CHILD|Emiliano Torres]]  Fecha de nacimiento: [[DATE|04/12/2022]]  Fecha de sesión: [[DATE|11 de octubre de 2026]]  Hora: [[TIME|3:30 p.m.]]
+ID de Medicaid: [[MEDICAID_ID|987654321A]]  Número de caso: [[ID|CDSA-2291]]
+Terapeuta: [[PROVIDER|Marisol Peña, M.S., CCC-SLP]]  Empresa: [[EMPLOYER|Carolina Bilingual Speech Partners]]
+Lugar de servicio: [[PLACE|412 Pine Needle Lane, Fayetteville, NC]]
+
+S: [[CHILD|Emiliano]] llegó con su mamá, [[PARENT|Rosa Torres]], quien trabaja en [[ORG|Lion's Market]] (tienda), y más tarde pasó su papá, [[PARENT|Héctor Torres]], que trabaja en la [[ORG|Planta Empacadora Río Claro]] (planta de empaque). [[PARENT|Rosa]] reportó que [[CHILD|Emiliano]] jugó con su amiguito [[PEER|Dylan]] y que su niñera, [[FAMILY|doña Lupe]], dice que repite palabras nuevas en casa.
+
+O: Se administró [[KEEP|GFTA-3]] el [[DATE|05/10/2026]], puntaje estándar [[KEEP|82]] (IC [[KEEP|76-83]]); comparado con [[DATE|12/06/2025]], puntaje estándar [[KEEP|74]] (IC [[KEEP|68-80]]). [[CHILD|Emiliano]] produjo /k/ correctamente en [[KEEP|7/10]] ensayos con [[KEEP|mod cues]]; dijo "[[KEEP|cama]]" en lugar de "[[KEEP|cara]]" ([[KEEP|/l/]] por [[KEEP|/ɾ/]]). Edad actual [[KEEP|4;6]]. Se usó el enfoque [[KEEP|Cycles]] con tarjetas de [[KEEP|PECS]] como apoyo visual.
+
+A: [[CHILD|Emiliano]] avanza hacia la [[KEEP|meta 2 del PFIE]]. Su maestra, [[TEACHER|Miss Ana]], confirma generalización parcial en el salón. El coordinador de servicios, [[PROVIDER|Mr. Tom]], y el interprete del hospital coordinaron la próxima evaluación con la pediatra, [[PROVIDER|Dra. Salinas]], del [[HOSPITAL|Hospital Comunitario Valle Verde]].
+
+P: Continuar sesiones semanales; próxima revisión del PFIE el [[DATE|20 de noviembre de 2026]]. Contacto: [[PHONE|(910) 555-0147]], [[EMAIL|m.pena@carolinaspeech.org]].
+
+Firma: [[PROVIDER|Marisol Peña, M.S., CCC-SLP]]

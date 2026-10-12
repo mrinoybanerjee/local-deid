@@ -1,0 +1,36 @@
+1. Session Identification
+   1.1 Service Details
+
+Service date: [[DATE|October 8, 2026]]; session time: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]. Client: [[CHILD|Elian Cordero]], age [[KEEP|4;2]]. Record: [[ID|ST-684209]]; Medicaid: [[MEDICAID_ID|583026491M]]. Services occurred at [[DAYCARE|The Velvet Acorn Nest]], [[PLACE|418 Lantern Finch Lane]], [[PLACE|Bellhaven]], North Carolina [[PLACE|27963]].
+
+   1.2 Clinician
+
+I, [[PROVIDER|Marisela Varela]], MS, CCC-SLP, a bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Willow Thread Pediatric Therapy]], provided this session in English and Spanish. Office telephone: [[PHONE|(919) 555-0146]].
+
+2. Subjective Information
+   2.1 Family and Classroom Report
+
+Mother [[PARENT|Irene Cordero]] reported increased verbal requests during meals. The family previously lived in [[PLACE|San Jacinto del Níspero]], Guatemala. Brother [[SIBLING|Tomás Cordero]] models short phrases during play. Aunt [[FAMILY|Nadia Cordero]] provides afternoon care. Teacher Ms. [[TEACHER|Orla Benton]] reported improved participation with classmate [[PEER|Juno Salvatierra]]. The family authorized coordination with the [[AGENCY|Smart Start]] office serving [[PLACE|Mossvale County]].
+
+3. Objective Findings
+   3.1 Assessment Context
+
+Previous [[KEEP|PLS-5]] findings included [[KEEP|Auditory Comprehension]], [[KEEP|standard score 78]], [[KEEP|7th percentile]], [[KEEP|age equivalent 3;1]], and [[KEEP|90% confidence interval 73–85]]. These results provided background; standardized testing was not repeated today.
+
+   3.2 Treatment Performance
+
+Using [[KEEP|Cycles]], the clinician targeted [[KEEP|/k/]] in [[KEEP|"key"]] and [[KEEP|"cup"]]. [[CHILD|Elian]] produced initial consonants accurately in [[KEEP|8/10]] trials with [[KEEP|mod cues]]. Spontaneous [[KEEP|"tup"]] remained evident. Requests reached [[KEEP|75%]] accuracy with [[KEEP|min cues]]. Spanish [[KEEP|/ɾ/]] productions required [[KEEP|max cues]] in [[KEEP|3 of 5]] opportunities. A language sample contained [[KEEP|[EW]]] annotations.
+
+4. Clinical Assessment
+   4.1 Interpretation
+
+The child demonstrated better engagement during shared play than during structured naming. Errors persisted across languages. The clinician interpreted progress cautiously because performance varied with task demands and adult support. No swallowing concerns were reported or observed.
+
+5. Plan
+   5.1 Continued Intervention
+
+Continue treatment under IFSP outcome [[KEEP|2]]. Practice functional requests and initial consonants through brief daily routines. Mother received modeling instructions and demonstrated understanding. Review classroom carryover at the next visit on [[DATE|October 15, 2026]].
+
+6. Billing and Authentication
+
+Documented service: [[KEEP|CPT 92507]]; diagnosis: [[KEEP|ICD-10 F80.2]]. Electronically signed by [[PROVIDER|Marisela Varela]], MS, CCC-SLP.

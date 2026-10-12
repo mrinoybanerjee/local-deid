@@ -1,0 +1,126 @@
+EVALUACIÓN DEL HABLA Y LENGUAJE
+
+Nombre del niño: [[CHILD|Mateo Andrés Fernández Ríos]]  Fecha de nacimiento: [[DATE|14 de marzo de 2021]]  Edad actual: [[KEEP|4;7]]
+Fecha de la evaluación: [[DATE|2 de octubre de 2025]]  Fecha del informe: [[DATE|9 de octubre de 2025]]
+Número de expediente: [[ID|MCR-20458]]  Número de Medicaid: [[MEDICAID_ID|987654321A]]
+Dirección: [[PLACE|214 Calle Olmo, Cary, Carolina del Norte 27511]]  Condado: [[PLACE|condado de Wake]]
+Teléfono de contacto: [[PHONE|(919) 555-2847]]  Correo electrónico: [[EMAIL|lrios.familia@gmail.com]]
+Clínica: [[EMPLOYER|Triángulo Terapias del Habla, PLLC]]  Sitio web: [[URL|www.trianguloterapiashabla.com]]
+Dirección de la clínica: [[PLACE|4820 Avenida Pinares, Raleigh, Carolina del Norte 27609]]
+Patóloga del habla y lenguaje: [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP  Intérprete: [[PROVIDER|Rosa Delgado]]
+Pediatra: Dr. [[PROVIDER|Esteban Carrillo]]  Terapeuta ocupacional: [[PROVIDER|Nicole Harmon]], OTR/L
+Fisioterapeuta: [[PROVIDER|Brian Osei]], PT  Coordinadora de servicios: [[PROVIDER|Yesenia Campos]]
+Agencia remitente: [[AGENCY|CDSA del Triángulo]]  Guardería/preescolar: [[DAYCARE|Rinconcito de las Mariposas]]
+Maestra principal: Srta. [[TEACHER|Brenda Castellanos]]  Maestra asistente: Srta. [[TEACHER|Diana Walcott]]
+
+RAZÓN DE LA REMISIÓN
+
+[[CHILD|Mateo]] es un niño de [[KEEP|4;7]] años que fue remitido para una evaluación integral de habla y lenguaje por su pediatra, el Dr. [[PROVIDER|Esteban Carrillo]], y por el programa de intervención temprana del [[AGENCY|CDSA del Triángulo]], debido a preocupaciones persistentes sobre su inteligibilidad y el desarrollo de su vocabulario en los dos idiomas del hogar. Su madre, [[PARENT|Lucía Ríos Domínguez]], y su padre, [[PARENT|Andrés Fernández Paredes]], reportan que [[CHILD|Mateo]] usa oraciones cortas y que frecuentemente omite sonidos finales, lo cual dificulta que personas fuera del círculo familiar inmediato lo entiendan. La coordinadora de servicios, [[PROVIDER|Yesenia Campos]], solicitó esta evaluación como parte de la revisión anual del Plan Individualizado de Servicios para la Familia, específicamente para actualizar el resultado número [[KEEP|3]] relacionado con la comunicación funcional.
+
+La evaluación se realizó en el hogar de la familia, ubicado en [[PLACE|214 Calle Olmo, Cary, Carolina del Norte 27511]], y en las instalaciones del [[DAYCARE|Rinconcito de las Mariposas]], ubicado en [[PLACE|905 Calle Roble, Cary, Carolina del Norte 27513]]. Debido a que ambos padres se sienten más cómodos comunicándose en español, la entrevista con la familia se llevó a cabo completamente en ese idioma, mientras que las observaciones en el preescolar se realizaron con el apoyo de la intérprete [[PROVIDER|Rosa Delgado]], quien tradujo del inglés al español las instrucciones de las maestras cuando fue necesario. El código de procedimiento utilizado para la evaluación fue [[KEEP|CPT 92523]] (evaluación del habla y del lenguaje con interpretación).
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+Según el informe materno, el embarazo de [[CHILD|Mateo]] llegó a las [[KEEP|38 semanas]] de gestación, sin complicaciones significativas reportadas. El parto fue vaginal, y [[CHILD|Mateo]] nació con un peso de [[KEEP|3,100 gramos]] y una puntuación de Apgar de [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. No hubo necesidad de cuidados intensivos neonatales. La madre indica que [[CHILD|Mateo]] fue dado de alta del [[HOSPITAL|Hospital Materno WakeMed Cary]] a las [[KEEP|48 horas]] de vida, sin complicaciones adicionales.
+
+El historial médico de [[CHILD|Mateo]] incluye otitis media recurrente, con un total de seis episodios documentados entre los [[KEEP|8 meses]] y los [[KEEP|3 años]] de edad. Se le colocaron tubos de ventilación bilaterales a la edad de [[KEEP|22 meses]], procedimiento realizado por un otorrinolaringólogo en [[PLACE|Raleigh]]. Desde entonces, la frecuencia de infecciones de oído ha disminuido considerablemente, aunque la madre reporta un episodio leve hace aproximadamente seis meses que se resolvió con antibióticos recetados por el Dr. [[PROVIDER|Esteban Carrillo]].
+
+[[CHILD|Mateo]] también tiene un diagnóstico de hipotonía leve, identificado por su fisioterapeuta, [[PROVIDER|Brian Osei]], durante una evaluación a los [[KEEP|18 meses]] de edad. Esta hipotonía afecta principalmente el tono muscular del tronco y, según los informes de terapia ocupacional de [[PROVIDER|Nicole Harmon]], también puede influir en el control oral-motor necesario para la articulación precisa. La terapeuta ocupacional ha observado dificultades masticatorias con alimentos de textura dura, por lo cual la familia ha modificado algunas comidas en el hogar.
+
+No hay antecedentes de convulsiones, hospitalizaciones mayores después del período neonatal, ni cirugías adicionales fuera de la miringotomía. La visión y la audición fueron evaluadas más recientemente el [[DATE|15 de agosto de 2025]], con resultados dentro de límites normales bilateralmente, según el audiólogo del programa de detección auditiva infantil del condado. Los diagnósticos actuales relevantes para esta evaluación incluyen [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo, provisional) y [[KEEP|F80.0]] (trastorno fonológico del habla).
+
+HISTORIA FAMILIAR Y DE IDIOMA
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Ríos Domínguez]]; su padre, [[PARENT|Andrés Fernández Paredes]]; su hermana mayor, [[SIBLING|Sol Fernández Ríos]], de siete años; y su abuela materna, [[FAMILY|Carmen Domínguez Vega]], quien vive con la familia y ayuda con el cuidado de los niños durante el día. La familia también cuenta con el apoyo ocasional de una vecina y amiga cercana, [[FAMILY|Yolanda Pérez]], quien recoge a los niños de la guardería cuando los padres trabajan hasta tarde. La familia tiene además un perro llamado [[PET|Rocky]], que [[CHILD|Mateo]] menciona con frecuencia durante el juego.
+
+El idioma predominante en el hogar es el español. La madre, [[PARENT|Lucía Ríos Domínguez]], trabaja como asistente administrativa en [[ORG|Construcciones del Roble LLC]], y el padre, [[PARENT|Andrés Fernández Paredes]], trabaja como técnico de mantenimiento en [[ORG|Sistemas Industriales Carolina]]. Ambos padres hablan español como primera lengua y tienen un dominio intermedio del inglés. La abuela, [[FAMILY|Carmen Domínguez Vega]], habla únicamente español y es quien pasa más tiempo con [[CHILD|Mateo]] durante las mañanas antes de que lo lleven a la guardería.
+
+[[CHILD|Mateo]] fue expuesto principalmente al español durante sus primeros tres años de vida. A partir de los [[KEEP|3 años]], comenzó a asistir al [[DAYCARE|Rinconcito de las Mariposas]], un preescolar bilingüe donde las actividades se conducen mayormente en inglés con apoyo limitado en español. Según la maestra principal, Srta. [[TEACHER|Brenda Castellanos]], y la maestra asistente, Srta. [[TEACHER|Diana Walcott]], [[CHILD|Mateo]] entiende instrucciones simples en ambos idiomas, pero su producción expresiva es más limitada en inglés. En el salón, [[CHILD|Mateo]] interactúa principalmente con dos compañeros, [[PEER|Liam]] y [[PEER|Ava]], con quienes comparte juegos de bloques y actividades de arte.
+
+La hermana de [[CHILD|Mateo]], [[SIBLING|Sol]], es bilingüe funcional y a menudo traduce para su hermano menor cuando juega con compañeros de habla inglesa. Es relevante notar, para fines de la terapia fonológica, que una de las palabras meta seleccionadas en sesiones previas fue la palabra [[KEEP|"sol"]], la cual [[CHILD|Mateo]] produce consistentemente como [[KEEP|[so]]], omitiendo el sonido final /l/ en posición final de sílaba. Esta coincidencia entre la palabra meta y el nombre de su hermana ha generado cierta confusión durante actividades de juego dirigido, ya que [[CHILD|Mateo]] en ocasiones asocia la palabra con ella en lugar del astro. Durante una actividad de imitación directa en esta evaluación, se le pidió a [[CHILD|Mateo]] que dijera "hola, [[SIBLING|Sol]]", frase que produjo como [[KEEP|[ola so]]], manteniendo la omisión de /l/ también en el nombre propio.
+
+OBSERVACIÓN CONDUCTUAL DURANTE LA EVALUACIÓN
+
+[[CHILD|Mateo]] se presentó a la evaluación acompañado de su madre, [[PARENT|Lucía Ríos Domínguez]], y de su abuela, [[FAMILY|Carmen Domínguez Vega]]. Mostró inicialmente timidez con la evaluadora, [[PROVIDER|Laura Jiménez]], pero se mostró más cómodo después de aproximadamente [[KEEP|10 minutos]] de juego libre con bloques y figuras de animales. Mantuvo contacto visual apropiado, respondió a su nombre de manera consistente y demostró intención comunicativa clara a través de gestos, señalamiento y aproximaciones verbales.
+
+Durante la sesión en la guardería, realizada por la tarde alrededor de las [[TIME|1:30 p.m.]], se observó que [[CHILD|Mateo]] participaba activamente en el círculo de canciones dirigido por la Srta. [[TEACHER|Brenda Castellanos]], aunque con producciones verbales limitadas en comparación con sus compañeros de la misma edad. Durante el recreo de la tarde, alrededor de las [[TIME|2:15 p.m.]], se observó una interacción espontánea entre [[CHILD|Mateo]] y su compañero [[PEER|Liam]], en la cual [[CHILD|Mateo]] produjo la frase "[[PET|Rocky]] corre rápido" como [[KEEP|[oki ko ápido]]], ilustrando omisiones consistentes de consonantes iniciales y finales.
+
+[[CHILD|Mateo]] demostró niveles de atención apropiados para su edad durante tareas estructuradas de aproximadamente [[KEEP|15 minutos]] de duración, aunque requirió redirección ocasional durante tareas menos preferidas, como la nominación de láminas. La intérprete, [[PROVIDER|Rosa Delgado]], asistió en la administración de instrucciones durante las porciones en inglés de la evaluación, confirmando que [[CHILD|Mateo]] comprendía las consignas básicas pero mostraba inconsistencia en sus respuestas expresivas en ese idioma.
+
+PRUEBAS ADMINISTRADAS Y RESULTADOS
+
+Se administraron las siguientes pruebas estandarizadas, con apoyo de interpretación según fue necesario:
+
+1. [[KEEP|Bilingual English Spanish Assessment]] (BESA) – Morfosintaxis, español
+2. [[KEEP|Bilingual English Spanish Assessment]] (BESA) – Fonología, español
+3. [[KEEP|Preschool Language Scales-5]] (PLS-5), versión en español – Comprensión Auditiva y Comunicación Expresiva
+4. [[KEEP|Goldman-Fristoe Test of Articulation-3]] (GFTA-3), adaptado informalmente al español
+5. Muestra de lenguaje espontáneo, 100 enunciados, transcrita y analizada mediante codificación tipo SALT
+
+Resultados de las pruebas estandarizadas:
+
+Prueba / Subprueba                              Puntaje estándar      Percentil        Intervalo de confianza (95%)
+BESA – Morfosintaxis (español)                   [[KEEP|76]]               [[KEEP|5to percentil]]      [[KEEP|71-81]]
+BESA – Fonología (español)                       [[KEEP|81]]               [[KEEP|10mo percentil]]     [[KEEP|76-86]]
+PLS-5 – Comprensión Auditiva                      [[KEEP|79]]               [[KEEP|8vo percentil]]      [[KEEP|73-85]]
+PLS-5 – Comunicación Expresiva                    [[KEEP|72]]               [[KEEP|3er percentil]]      [[KEEP|67-77]]
+PLS-5 – Puntaje de Lenguaje Total                 [[KEEP|74]]               [[KEEP|4to percentil]]      [[KEEP|69-79]]
+GFTA-3 (adaptado, español)                        [[KEEP|70]]               [[KEEP|2do percentil]]      [[KEEP|65-75]]
+
+La equivalencia de edad derivada de la subprueba de Comunicación Expresiva del PLS-5 fue de [[KEEP|2;6-3;0]], lo cual representa un retraso significativo en relación con su edad cronológica de [[KEEP|4;7]]. En la subprueba de Fonología de BESA, [[CHILD|Mateo]] mostró procesos fonológicos consistentes con omisión de consonantes finales y reducción de grupos consonánticos, descritos en mayor detalle a continuación.
+
+ANÁLISIS FONOLÓGICO Y DE LENGUAJE ESPONTÁNEO
+
+El análisis de la muestra de lenguaje espontáneo de 100 enunciados reveló una longitud media de enunciado de [[KEEP|3.1 morfemas]], consistente con un nivel de desarrollo gramatical por debajo de lo esperado para su edad. Se identificaron procesos fonológicos persistentes, incluyendo omisión de consonante final (por ejemplo, "[[KEEP|pan]]" producido como [[KEEP|[pa]]]), reducción de grupos consonánticos (por ejemplo, "[[KEEP|flor]]" producido como [[KEEP|[for]]]), y sustitución de /ɾ/ por [w] en posición inicial (por ejemplo, "[[KEEP|ratón]]" producido como [[KEEP|[watón]]]).
+
+En una tarea de repetición de palabras, [[CHILD|Mateo]] logró producir correctamente [[KEEP|8/10]] palabras monosilábicas sin grupos consonánticos, pero solo [[KEEP|3 de 10]] palabras con grupos consonánticos complejos. Su inteligibilidad general fue estimada por la evaluadora, con apoyo de la intérprete, en aproximadamente [[KEEP|60%]] para oyentes familiares y [[KEEP|35%]] para oyentes no familiares, en contexto conversacional espontáneo.
+
+Un segmento representativo de la transcripción, codificado con convenciones tipo SALT, se presenta a continuación:
+
+"Yo quiero [[KEEP|[ese]]] uno" [[KEEP|[EW]]]
+"[[PET|Rocky]] no [[KEEP|[tá]]] aquí"
+"[[SIBLING|Sol]] [[KEEP|[uwa]]] conmigo" (intentando decir "juega conmigo")
+
+Durante una de las actividades con claves de apoyo, [[CHILD|Mateo]] respondió favorablemente a claves moderadas, logrando producir la palabra [[KEEP|"flor"]] correctamente con claves táctiles y modelo auditivo repetido, aunque no logró generalizar la producción sin apoyo. Con claves mínimas, su tasa de éxito en palabras con grupos consonánticos fue considerablemente menor.
+
+HORARIO DE SESIONES DE TERAPIA PROPUESTO
+
+Día          Hora de inicio      Hora de fin         Lugar
+Lunes        [[TIME|9:00 a.m.]]       [[TIME|9:45 a.m.]]       [[PLACE|214 Calle Olmo, Cary, Carolina del Norte 27511]]
+Miércoles    [[TIME|1:00 p.m.]]       [[TIME|1:45 p.m.]]       [[DAYCARE|Rinconcito de las Mariposas]]
+Viernes      [[TIME|10:30 a.m.]]      [[TIME|11:15 a.m.]]      [[EMPLOYER|Triángulo Terapias del Habla, PLLC]]
+
+Las sesiones de los lunes se realizarán en el hogar de la familia por la mañana, antes de que [[CHILD|Mateo]] sea llevado a la guardería alrededor de las [[TIME|11:00 a.m.]]. Las sesiones de los miércoles se coordinarán directamente con la Srta. [[TEACHER|Brenda Castellanos]] en el [[DAYCARE|Rinconcito de las Mariposas]], durante el bloque de actividades dirigidas por la tarde. Las sesiones de los viernes se llevarán a cabo en la clínica, con transporte proporcionado por la abuela, [[FAMILY|Carmen Domínguez Vega]], quien generalmente recoge a [[CHILD|Mateo]] de la guardería alrededor de las [[TIME|10:00 a.m.]] los viernes.
+
+IMPRESIONES CLÍNICAS
+
+Con base en los resultados obtenidos en las pruebas estandarizadas, la observación conductual, y el análisis de la muestra de lenguaje espontáneo, [[CHILD|Mateo]] presenta un trastorno mixto del lenguaje receptivo-expresivo de moderado a severo, con un componente fonológico significativo que afecta notablemente su inteligibilidad en ambos idiomas. Sus puntajes en todas las medidas estandarizadas administradas se ubicaron por debajo de [[KEEP|1.5 desviaciones estándar]] de la media, consistente con los criterios diagnósticos de [[KEEP|F80.2]] y [[KEEP|F80.0]].
+
+Es importante notar que, debido a la exposición dual al español y al inglés en el entorno de la guardería, el perfil de [[CHILD|Mateo]] no puede atribuirse únicamente a factores de aprendizaje bilingüe típico. Sus dificultades están presentes en ambos idiomas, lo cual respalda la presencia de un trastorno subyacente del lenguaje y del habla, más allá de las diferencias esperadas asociadas al desarrollo bilingüe. Los procesos fonológicos observados, incluyendo la omisión consistente de consonantes finales, también contribuyen significativamente a su baja inteligibilidad, particularmente con oyentes no familiares, incluyendo compañeros como [[PEER|Liam]] y [[PEER|Ava]] en el entorno escolar.
+
+La historia de otitis media recurrente y la hipotonía leve documentada por el fisioterapeuta, [[PROVIDER|Brian Osei]], y la terapeuta ocupacional, [[PROVIDER|Nicole Harmon]], representan factores contribuyentes relevantes que deben considerarse en la planificación del tratamiento, particularmente en lo relacionado con el control motor-oral necesario para la articulación precisa de grupos consonánticos.
+
+RECOMENDACIONES
+
+1. Se recomienda que [[CHILD|Mateo]] continúe recibiendo terapia de habla y lenguaje individual, con una frecuencia de tres sesiones de [[KEEP|45 minutos]] por semana, según el horario propuesto anteriormente, durante un período inicial de seis meses, con reevaluación del progreso en ese momento.
+
+2. Se recomienda el uso del enfoque [[KEEP|PROMPT]] para abordar los componentes motor-orales de la producción del habla, dado el componente de hipotonía identificado por el equipo de terapia ocupacional y fisioterapia.
+
+3. Se recomienda la incorporación del enfoque [[KEEP|Cycles]] para el tratamiento de los procesos fonológicos identificados, particularmente la omisión de consonante final y la reducción de grupos consonánticos, con metas específicas organizadas en ciclos de aproximadamente [[KEEP|60 días]] cada uno.
+
+4. Se recomienda que la familia participe en un programa de capacitación tipo [[KEEP|Hanen]], específicamente diseñado para padres de niños bilingües con retrasos de lenguaje, para apoyar las estrategias de estimulación del lenguaje en el hogar en ambos idiomas.
+
+5. Se recomienda coordinación continua con la Srta. [[TEACHER|Brenda Castellanos]] y la Srta. [[TEACHER|Diana Walcott]] en el [[DAYCARE|Rinconcito de las Mariposas]], para asegurar la generalización de las metas de terapia al entorno escolar, incluyendo durante las interacciones con compañeros como [[PEER|Liam]] y [[PEER|Ava]].
+
+6. Se recomienda mantener comunicación regular con el pediatra, Dr. [[PROVIDER|Esteban Carrillo]], respecto a la recurrencia de infecciones de oído, dado su posible impacto continuo en el desarrollo del lenguaje receptivo.
+
+7. Se recomienda que la coordinadora de servicios, [[PROVIDER|Yesenia Campos]], actualice el IFSP para incluir metas específicas relacionadas con la inteligibilidad funcional en entornos bilingües, y que se considere una referencia adicional al [[AGENCY|Programa de Nutrición Infantil del Condado de Wake]] para apoyo nutricional relacionado con las dificultades masticatorias observadas.
+
+8. Se recomienda continuar el monitoreo del progreso mediante muestras de lenguaje espontáneo trimestrales y re-administración parcial del PLS-5 en aproximadamente seis meses, con el fin de documentar el avance hacia las metas establecidas.
+
+9. Se recomienda que la familia continúe utilizando estrategias de modelado en español durante las actividades diarias con la abuela, [[FAMILY|Carmen Domínguez Vega]], y que la hermana, [[SIBLING|Sol Fernández Ríos]], participe en actividades de juego estructurado diseñadas para fomentar, en lugar de sustituir, las producciones independientes de [[CHILD|Mateo]].
+
+Este informe fue preparado por [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, con el apoyo de la intérprete [[PROVIDER|Rosa Delgado]], y será compartido con la familia, el pediatra Dr. [[PROVIDER|Esteban Carrillo]], y el equipo del [[AGENCY|CDSA del Triángulo]] para su revisión e incorporación al plan de servicios de [[CHILD|Mateo]].
+
+Firma: [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP
+Fecha: [[DATE|9 de octubre de 2025]]

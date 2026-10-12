@@ -1,0 +1,23 @@
+Sesión diaria — [[DATE|October 8, 2026]]
+
+I, [[PROVIDER|Elena Marisol Varela]], bilingual pediatric speech-language pathologist with [[EMPLOYER|Luzbridge Pediatric Therapies]], saw [[CHILD|María José Castañeda Solís]] at [[TIME|9:15 a.m.]] in [[PLACE|Cedar Quay]], North Carolina. Her mother, [[PARENT|Inés Solís]], attended; interpreter [[PROVIDER|Daniela Rueda]] supported discussion of school paperwork. The home address was confirmed as [[PLACE|418 Willow Lantern Lane]], [[PLACE|Cedar Quay]], [[PLACE|27903]]. Contact: [[PHONE|919-555-0146]]; [[EMAIL|ines.solis@example.com]]. Record [[ID|CQ-261008-047]]; Medicaid [[MEDICAID_ID|731046829Q]]. Visit coding: [[KEEP|92507]], modifier [[KEEP|GN]], diagnosis [[KEEP|F80.2]].
+
+Antecedentes y datos
+
+At age [[KEEP|4;2]], [[CHILD|María José]] uses Spanish most often at home and English during preschool routines. The fictional intake records birth on [[DATE|August 2, 2022]], at [[HOSPITAL|Willow Lantern Children’s Hospital]], gestational age [[KEEP|38 weeks, 2 days]], birth weight [[KEEP|3,180 g]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. No new feeding or hearing concerns were reported today.
+
+Prior scores were reviewed as historical context. Language exposure and interpreter support limit direct interpretation of these standardized results.
+
+| Measure | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[DATE|September 17, 2026]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|90%]]: [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+
+During play, [[CHILD|María José]] entered calmly, selected animals, and invited her mother to participate. Mamá reported, “Ahora pide ayuda, pero cuando está cansada cambia al inglés.” With [[KEEP|min cues]], she followed familiar directions in [[KEEP|8/10]] opportunities. Novel directions required [[KEEP|mod cues]], with success in [[KEEP|3 of 5]] trials. She produced “[[KEEP|quiero agua]]” and “[[KEEP|help me open]]” during pretend snack preparation. A brief language sample included [[KEEP|[EW]]] coding for an extra word; this was reviewed descriptively alongside her bilingual language patterns.
+
+Intervención focused on shared attention, functional requesting, and speech clarity. I used [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]] to coach waiting, following her lead, and expanding messages. [[KEEP|PECS]] supported choices while spoken attempts remained welcome. [[KEEP|Cycles]] activities targeted [[KEEP|/k/]] in “[[KEEP|casa]]”; accuracy reached [[KEEP|60%]] with [[KEEP|mod cues]]. [[KEEP|Kaufman]] shaping supported movement between syllables. Brief [[KEEP|PROMPT]] input followed assent and stopped when she turned away. Spanish [[KEEP|/ɾ/]] remained inconsistent; observed substitution [[KEEP|[w]]] was documented without drilling. She returned to play after a movement break.
+
+Coordinación con familia
+
+Her sister, [[SIBLING|Alma Castañeda Solís]], and grandmother, [[FAMILY|Teresa Solís]], will practice turn-taking at home. During a pet picture activity, she said, “[[PET|Chispa]] ven.” Teacher Ms. [[TEACHER|Nora Beltrán]] at [[SCHOOL|Estrella Grove Preschool]] reported easier transitions beside classmate [[PEER|Luca Montalvo]]. OT [[PROVIDER|Priya Serrano]] recommended a stable seat; PT [[PROVIDER|Owen Valdés]] recommended alternating floor and table play. Pediatrician Dr. [[PROVIDER|Camila Robles]] remains the medical contact. These recommendations came from existing care notes; no outside messages were sent today. Mother practiced waiting and expanding successfully during the final activity.
+
+Plan: continue weekly bilingual sessions addressing [[KEEP|IFSP outcome 3]] and [[KEEP|goal 2]]. Service coordinator [[PROVIDER|Beatriz Luján]] at [[AGENCY|Cedar Quay CDSA]] is listed for the review on [[DATE|November 5, 2026]]. Home practice will pair “[[KEEP|abre]]” and “[[KEEP|open]]” with preferred containers, using [[KEEP|min cues]] before adding help. Father [[PARENT|Julián Castañeda]] can join evening play. Next session, collect another functional language sample and compare independent requests across languages. Mother summarized the plan: “Poquito, jugando, sin presión.” She agreed to note successful requests and situations requiring extra support.

@@ -1,0 +1,25 @@
+Daily Session Note — Speech-Language Pathology
+
+Child: [[CHILD|Mateo del Río]] (DOB [[DATE|04/12/2022]]); session date [[DATE|October 9, 2026]], [[TIME|2:15 PM]]–[[TIME|2:55 PM]], home visit at [[PLACE|118 Larkspur Lane, Hendersonville, NC 28792]].
+
+Present: mother [[PARENT|Lucía Rodríguez-Vega]], older sister [[SIBLING|Camila del Río]] ([[KEEP|4;2]]), service coordinator [[PROVIDER|Esteban de la Cruz]] of the [[AGENCY|Centro de Desarrollo Infantil y Servicios Especializados del Suroeste de Carolina del Norte]] ([[AGENCY|CDSA Suroeste]]), and Spanish interpreter [[PROVIDER|Marisol Pham]] by phone.
+
+S: [[PARENT|Lucía]] reports [[CHILD|Mateo]] now says "[[KEEP|más agua]]" independently at home and imitates [[KEEP|/p/]] and [[KEEP|/m/]] in babble. She mentioned a call from preschool teacher [[TEACHER|Debra Holt]] at [[SCHOOL|Mountain Sprouts Preschool]] about a new peer, [[PEER|Noah Castellanos-Wray]], who models two-word phrases during centers.
+
+O: Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest; raw score converts to [[KEEP|standard score 76]] ([[KEEP|90% CI 70-82]]). [[KEEP|Expressive Communication]] standard score [[KEEP|79]] ([[KEEP|CI 73-85]]). [[CHILD|Mateo]] produced [[KEEP|"pa" for "pan"]] with [[KEEP|mod cues]], [[KEEP|3 of 5]] trials. He used [[KEEP|PECS]] cards to request snack, [[KEEP|8/10]] opportunities.
+
+A: Scores remain in the [[KEEP|below average]] range, consistent with [[KEEP|ICD-10 F80.2]]. Comprehension age equivalent is [[KEEP|26 months]]. Family requests coordination with [[AGENCY|DSS]] for respite care; babysitter [[FAMILY|Rosa Jiménez]] has started attending sessions to learn cueing.
+
+P: Continue [[KEEP|Hanen]] strategies; introduce [[KEEP|PROMPT]] tactile cues for bilabials. Next visit [[DATE|October 16, 2026]].
+
+Contacts: clinic line [[PHONE|(828) 555-0147]], [[PARENT|Lucía]]'s cell [[PHONE|828.555.0192]], [[PROVIDER|Esteban]]'s office [[PHONE|704-555-0038]] ext. [[ID|204]], grandmother in Honduras [[PHONE|+504 9876-5432]].
+
+Case numbers: Medicaid ID [[MEDICAID_ID|987654321A]]; CDSA case [[ID|CDSA-00441]].
+
+IFSP Review Table (tab-separated: outcome, strategies, progress, date)
+
+[[CHILD|Mateo]] will request preferred items using 2-word phrases (Outcome [[KEEP|1]])	[[KEEP|Hanen]] modeling, [[KEEP|PECS]] exchange	[[KEEP|standard score 76]] ([[KEEP|CI 70-82]]) on [[DATE|09/02/2026]]; [[KEEP|79]] ([[KEEP|CI 73-85]]) on [[DATE|10/09/2026]]	[[DATE|October 9, 2026]]
+[[CHILD|Mateo]] will imitate bilabial sounds in babble (Outcome [[KEEP|2]])	[[KEEP|PROMPT]] tactile cues, [[KEEP|min cues]] fading to [[KEEP|mod cues]]	[[KEEP|3 of 5]] trials, up from [[KEEP|1 of 5]] on [[DATE|08/05/2026]]	[[DATE|October 9, 2026]]
+Family will use visual supports across settings (Outcome [[KEEP|3]])	Coaching [[PARENT|Lucía Rodríguez-Vega]] and babysitter [[FAMILY|Rosa Jiménez]] on [[KEEP|PECS]]	Used independently [[KEEP|8/10]] opportunities	[[DATE|October 9, 2026]]
+
+Signed, [[PROVIDER|Hannah Osei]], M.S., CCC-SLP, [[EMPLOYER|Blue Ridge Pediatric Therapy, PLLC]].

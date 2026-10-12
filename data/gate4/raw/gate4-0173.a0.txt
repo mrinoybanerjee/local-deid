@@ -1,0 +1,40 @@
+Date: [[DATE|October 8, 2026]]
+To: [[PARENT|Guadalupe Elena Navarro]] and [[PARENT|Jesús Andrés Navarro]]
+From: [[PROVIDER|Elena Marisol Varela]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Willow Thread Speech Services]], North Carolina
+Child: [[CHILD|Teodoro Luis Navarro]], called [[CHILD|Teo]]
+Record: [[ID|WT-604183]]
+Medicaid: [[MEDICAID_ID|482731906K]]
+
+[X] Home  [ ] Daycare  [X] School consultation
+[X] English  [X] Spanish  [X] Parent copy
+
+Dear [[PARENT|Lupita]] and [[PARENT|Chuy]],
+
+Thank you for sharing your routines during our visit on [[DATE|October 6, 2026]], at [[TIME|3:15 p.m.]]. Your child participated comfortably when we alternated English and Spanish. Please continue using both languages during everyday play. You do not need to replace Spanish with English.
+
+[X] Background reviewed  [X] Hearing follow-up discussed
+
+Your intake summary lists birth at [[KEEP|35 weeks]], birth weight [[KEEP|2,240 grams]], and Apgar scores of [[KEEP|7]] and [[KEEP|9]]. The NICU stay occurred at [[HOSPITAL|Cedar Lantern Health Hospital, Moss Wing Campus]]. Dr. [[PROVIDER|Nadia Solano]] requested follow-up through [[HOSPITAL|Cedar Lantern Health Audiology, Fern Annex Campus]]. The [[AGENCY|Cresswell County Smart Start Office]] can help coordinate transportation from your home at [[PLACE|218 Lantern Finch Lane]], [[PLACE|Bellhaven]], [[PLACE|27864]].
+
+[X] Findings shared  [X] Classroom examples included
+
+At age [[KEEP|4;2]], [[CHILD|Teodoro]] completed selected activities from the [[KEEP|PLS-5]]. The [[KEEP|Auditory Comprehension]] result was [[KEEP|standard score 78]], [[KEEP|7th percentile]], with confidence interval [[KEEP|73-83]] and age-equivalent range [[KEEP|2;6–3;0]]. These findings support discussion alongside family observations; they do not describe every skill across both languages.
+
+Ms. [[TEACHER|Marina Quintero]] at [[SCHOOL|Meadow Lantern Preschool]] reported that classmates [[PEER|Amara Bellamy]] and [[PEER|Silas Moreno]] invite him into pretend cooking. His brother [[SIBLING|José Gabriel Navarro]], called [[SIBLING|Pepe]], models short requests. Cousins [[FAMILY|Juan Esteban Leal]], called [[FAMILY|Juanito]], and [[FAMILY|Lucía Beatriz Leal]] join weekend games. Babysitter [[FAMILY|Rosa Inés Dávila]] described him saying “[[PET|Miso]] run” when the family cat crossed the kitchen.
+
+[X] Home practice  [X] School practice
+
+Practice [[KEEP|“help me”]] and [[KEEP|“my turn”]] during familiar activities. Wait briefly before offering [[KEEP|min cues]]; increase to [[KEEP|mod cues]] when needed. Today, requesting reached [[KEEP|8/10]] opportunities, or [[KEEP|80%]], while final consonants appeared in [[KEEP|3 of 5]] attempts. We heard [[KEEP|[w]]] for [[KEEP|/r/]] and practiced [[KEEP|/k/]]. One sample contained [[KEEP|“want cookie”]] with the [[KEEP|SALT]] code [[KEEP|[EW]]].
+
+We will use [[KEEP|Hanen]] strategies and review [[KEEP|IFSP Outcome 2]]. Billing references are [[KEEP|CPT 92507]], modifier [[KEEP|GN]], and [[KEEP|ICD-10 F80.2]].
+
+Please share which routines feel easiest. Brief practice during snacks is enough; stop when frustration rises. Your workplace, [[ORG|Firefly Paper Cooperative]], may allow a quieter call during lunch.
+
+[X] Contact permitted  [ ] Group distribution
+Phone: [[PHONE|(919) 555-0146]]
+Email: [[EMAIL|elena.varela@willowthread.example]]
+Resources: [[URL|https://willowthread.example/families]]
+
+Warmly,
+[[PROVIDER|Elena Varela]]

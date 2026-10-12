@@ -1,0 +1,31 @@
+From: [[PROVIDER|Elena Valcera]] <[[EMAIL|elena.valcera@willowspeech.example.invalid]]>
+To: [[PARENT|Marisol Cedrano]] <[[EMAIL|marisol.cedrano@example.invalid]]>
+Date: [[DATE|October 8, 2026]], [[TIME|4:15 PM]]
+Subject: Daily speech session — [[CHILD|Nicolás Cedrano]]
+Record: [[ID|NC-SLP-804219]]; Medicaid: [[MEDICAID_ID|938461027Q]]
+
+S: [[CHILD|Nicolás]] attended with his mother, [[PARENT|Marisol Cedrano]], who reported more requests during meals. His father, [[PARENT|Tomás Cedrano]], reported that his sister, [[SIBLING|Alina Cedrano]], now waits before answering for him. Grandmother [[FAMILY|Rosa Beltrena]] practiced turn taking at home. Mother reported no new concerns. The family uses Spanish at home and English during school activities. Interpreter [[PROVIDER|Irene Solvado]] supported discussion of classroom carryover and confirmed that both parents understood today's practice suggestions.
+
+O: Session occurred at [[SCHOOL|Moonbranch Elementary School]], within [[SCHOOL|Bellfern Grove School District]], in Ms. [[TEACHER|Celeste Vardina]]'s classroom. Classmates [[PEER|Luca Morvena]] and [[PEER|Esme Taldora]] joined a brief play activity. At age [[KEEP|4;2]], the client produced initial [[KEEP|/k/]] in [[KEEP|8/10]] trials with [[KEEP|mod cues]], then [[KEEP|60%]] independently. Targets included [[KEEP|"cup"]], [[KEEP|"key"]], and [[KEEP|"come"]]. He said [[KEEP|"I want cup"]] and "[[PET|Mango]] run" while describing home routines. A language sample included [[KEEP|[EW]]] on an omitted article. Using [[KEEP|Cycles]] activities and [[KEEP|Hanen]] interaction strategies, he completed [[KEEP|3 of 5]] conversational turns with [[KEEP|min cues]].
+
+A: Prior [[KEEP|PLS-5]] results showed [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73–83]], and age equivalent [[KEEP|2;6–3;0]]. Today's performance supports continued treatment for [[KEEP|F80.2]]. Reduced prompting improved participation. Speech accuracy decreased during spontaneous conversation, although visual supports helped him repair misunderstandings. Spanish responses showed similar needs for sentence expansion.
+
+P: Continue IFSP goal [[KEEP|2]] and caregiver modeling during snack routines. Coordinate positioning with OT [[PROVIDER|Mara Quintel]] and movement breaks with PT [[PROVIDER|Dario Fenlora]]. Send the progress summary to pediatrician Dr. [[PROVIDER|Inés Valmora]] after caregiver authorization. Billing: [[KEEP|92507]], modifier [[KEEP|GN]]. Next session: [[DATE|October 15, 2026]], [[TIME|9:30 AM]].
+
+[[PROVIDER|Elena Valcera]], MS, CCC-SLP
+Bilingual Pediatric Speech-Language Pathologist
+[[EMPLOYER|Willow Compass Speech Services]]
+[[PHONE|(919) 555-0146]]
+
+> From: [[PARENT|Marisol Cedrano]]
+> Date: [[DATE|October 7, 2026]], [[TIME|7:05 PM]]
+> Subject: Re: Scheduling and home practice
+>
+> Our work histories explain the changing pickup schedule. My workplaces include [[ORG|Cedar Lantern Store]] / [[ORG|Tienda Farol de Cedro]], [[ORG|Blue Finch Restaurant]] / [[ORG|Restaurante Pinzón Azul]], and [[ORG|Clear Morning Cleaning Service]] / [[ORG|Servicio de Limpieza Mañana Clara]].
+>
+> My husband's workplaces include [[ORG|Silver Orchard Plant]] / [[ORG|Planta Huerto Plateado]], [[ORG|Sun Basket Farm]] / [[ORG|Granja Canasta del Sol]], and [[ORG|River Arch Construction Company]] / [[ORG|Compañía de Construcción Arco del Río]]. These include former jobs and current seasonal contracts. Please contact us before changing appointment times.
+>
+> Our address is [[PLACE|1846 Lantern Sedge Lane]], [[PLACE|Bellfern Grove]], North Carolina [[PLACE|27900]]. Our hometown village is [[PLACE|San Lucero del Mangle]], Guatemala. We practice requests while packing lunch and naming toys. Our neighbor, [[PERSON|Nora Velcaya]], sometimes helps with transportation.
+>
+> [[PARENT|Marisol Cedrano]]
+> Parent contact: [[PHONE|(984) 555-0172]]

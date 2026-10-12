@@ -1,0 +1,43 @@
+From: [[PROVIDER|Elena Marlow]] <[[EMAIL|elena.marlow@finchspeech.example]]>
+To: [[PARENT|Marisol Vega]] <[[EMAIL|marisol.vega@example.com]]>
+Cc: Ms. [[TEACHER|Tessa Reed]] <[[EMAIL|tessa@copperkite.example]]>
+Sent: [[DATE|May 12, 2026]], [[TIME|4:15 PM]]
+Subject: Daily speech session for [[CHILD|Nico Vega]]
+Record: [[ID|FS-260512-047]]
+Medicaid: [[MEDICAID_ID|482731906Q]]
+
+Hello, Ms. [[PARENT|Vega]],
+
+Below is today's SOAP note and the home practice plan. This email copy belongs in the clinical record.
+
+S: [[CHILD|Nico]] attended his session at [[DAYCARE|Copper Kite Orchard]] in [[PLACE|Bellmere]], North Carolina, from [[TIME|9:10 AM]] to [[TIME|9:40 AM]]. His age is [[KEEP|4;2]]. His mother reported that he used longer requests during breakfast but became quiet when adults asked repeated questions. She works at [[ORG|NPS]] and [[ORG|Moonberry Market]]; her changing shifts limit evening practice. His sister, [[SIBLING|Luz]], joined breakfast practice. Babysitter [[FAMILY|Mina Bell]] can support practice after pickup. No pain or illness was reported.
+
+O: Treatment addressed [[KEEP|IFSP outcome 2]] through [[KEEP|focused stimulation]] and [[KEEP|Hanen]] strategies in English and Spanish. During pretend shopping, [[CHILD|Nico]] produced three-word requests in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He said [[KEEP|"I want apple"]] and [[KEEP|"más jugo please"]]. For initial [[KEEP|/k/]], accuracy was [[KEEP|60%]] with [[KEEP|mod cues]]; [[KEEP|"cat"]] became [[KEEP|[tæt]]]. Final consonants appeared in [[KEEP|3 of 5]] trials with [[KEEP|max cues]]. Classmates [[PEER|Ada Finch]] and [[PEER|Milo Fern]] took turns choosing pictures. Ms. [[TEACHER|Reed]] modeled waiting before supplying words.
+
+The prior [[KEEP|PLS-5]] evaluation, dated [[DATE|April 21, 2026]], documented [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], and a [[KEEP|90%]] confidence interval of [[KEEP|73-83]]. The age-equivalent range was [[KEEP|2;6–3;0]]. These results provide background; no standardized assessment occurred today. Informal language sampling included [[KEEP|[EW]]] coding. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+A: [[CHILD|Nico]] initiated more requests when partners paused and offered choices. He needed more support for consonant production than for requesting. Performance varied across languages and activities. Today's sample does not establish a new diagnosis. Classroom noise reduced his participation near the end, but a quieter table helped him return to the activity.
+
+P: Continue weekly sessions. Practice [[KEEP|"cup"]] and [[KEEP|"car"]] during one short routine. Accept either language, model once, and wait. Avoid requiring repetition after every attempt. Coordinate with the classroom before the next visit on [[DATE|May 19, 2026]]. I will send a picture strip that fits beside the snack basket. Please record one successful request and the support needed.
+
+[[PROVIDER|Elena Marlow]], MS, CCC-SLP
+Bilingual pediatric speech-language pathologist
+[[EMPLOYER|Finchbridge Speech Studio]]
+[[PHONE|(919) 555-0147]]
+[[URL|https://finchspeech.example]]
+
+> From: [[PARENT|Marisol Vega]] <[[EMAIL|marisol.vega@example.com]]>
+> Sent: [[DATE|May 12, 2026]], [[TIME|7:05 AM]]
+>
+> Thank you. Cousins [[FAMILY|Hope Alder]] and [[FAMILY|Will Alder]] visited yesterday. Our dog, [[PET|Pebble]], followed them around. [[CHILD|Nico]] said "[[PET|Pebble]] run" without help. His sister laughed, and he tried again. Short breakfast practice works best between my two jobs.
+>
+> [[PARENT|Marisol Vega]]
+> Parent
+>
+>> From: Ms. [[TEACHER|Tessa Reed]]
+>> Sent: [[DATE|May 11, 2026]], [[TIME|3:20 PM]]
+>>
+>> We can reserve the quiet table tomorrow. His classmates enjoyed the shopping game last week.
+>>
+>> [[TEACHER|Tessa Reed]]
+>> Classroom teacher, [[DAYCARE|Copper Kite Orchard]]

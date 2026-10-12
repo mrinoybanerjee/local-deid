@@ -1,0 +1,42 @@
+Daily Speech-Language Therapy Note
+
+Client	Age	Service date	Record number
+[[CHILD|Elian Solvera]]	[[KEEP|2;10]]	[[DATE|October 8, 2026]]	[[ID|REC-628419]]
+Medicaid ID	Insurance member ID	NC ITP child ID	Authorization number
+[[MEDICAID_ID|738194625K]]	[[ID|MBR-59274618]]	[[ID|ITP-8402716]]	[[ID|AUTH-261008-73]]
+
+Clinician: [[PROVIDER|Marisol Virella]], MS, CCC-SLP, bilingual pediatric speech-language pathologist.
+Employer: [[EMPLOYER|Willow Lantern Speech Partners]]
+Setting: [[DAYCARE|The Velvet Acorn Observatory]], [[PLACE|4187 Lantern Finch Lane]], [[PLACE|Bellwick]], North Carolina [[PLACE|27984]].
+
+Contact	Role	Contact information
+[[PARENT|Nadia Solvera]]	Mother	[[PHONE|919-555-0146]]
+[[TEACHER|Tessa Brindle]]	Classroom teacher	[[EMAIL|tbrindle@velvetacorn.example]]
+[[PROVIDER|Rina Pellori]]	Service coordinator	[[PHONE|252-555-0183]]
+
+Service	Date	Start	End	CPT	Modifier	ICD-10
+Individual speech-language therapy	[[DATE|October 8, 2026]]	[[TIME|9:15 AM]]	[[TIME|9:45 AM]]	[[KEEP|92507]]	[[KEEP|GN]]	[[KEEP|F80.2]]
+
+Reference measure	Subtest	Evaluation date	Standard score	Percentile	[[KEEP|90%]] confidence interval	Age equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[DATE|September 17, 2026]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-85]]	[[KEEP|2;0–2;4]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	[[DATE|September 17, 2026]]	[[KEEP|81]]	[[KEEP|10th]]	[[KEEP|76-88]]	[[KEEP|2;1–2;5]]
+
+S: Mother reported that [[CHILD|Elian]] used Spanish more often during breakfast and brought an empty cup to request another drink. His sister, [[SIBLING|Mila]], helped model turn taking at home. His grandmother, [[FAMILY|Celia Voss]], reported hearing “[[PET|Pipo]] corre” while the family dog crossed the kitchen. Ms. [[TEACHER|Brindle]] described easier transitions when adults offered a choice before cleanup. No new hearing concerns or illness were reported.
+
+O: I provided play-based intervention in English and Spanish using familiar classroom materials. Activities included pretend snack preparation, animal play, and a shared picture book. [[KEEP|Hanen]] strategies supported caregiver modeling, waiting, and following the child's interest. Selected [[KEEP|PROMPT]] cues supported lip closure during functional word practice. Participation improved when materials remained visible and the adult paused before offering help.
+
+Target	IFSP outcome	Observed performance	Support
+Requesting with two-word combinations	[[KEEP|2]]	[[KEEP|8/10]] opportunities; [[KEEP|80%]]	[[KEEP|mod cues]]
+Following related directions	[[KEEP|3]]	[[KEEP|3 of 5]] opportunities; [[KEEP|60%]]	[[KEEP|min cues]]
+Producing initial [[KEEP|/k/]]	[[KEEP|4]]	[[KEEP|4/10]] attempts; [[KEEP|40%]]	[[KEEP|max cues]]
+
+Spontaneous productions included [[KEEP|"más jugo"]], [[KEEP|"my turn"]], and [[KEEP|"open box"]]. For the target [[KEEP|"car"]], [[CHILD|Elian]] initially produced [[KEEP|"tar"]], then improved after a model. The language sample contained [[KEEP|[EW]]] on an omitted verb. Peer [[PEER|Bram]] joined the final activity and accepted a requested turn with the toy bus.
+
+A: Functional requesting increased within structured play, although independent combinations remained inconsistent across activities. Comprehension appeared stronger with gestures and familiar routines. English reference scores above describe prior testing and do not establish impairment independently of bilingual history. Today's responses in both languages supported continued attention to functional communication. Speech sound accuracy remained variable, especially when excitement increased speaking rate. The child benefited from brief models and predictable pauses.
+
+P: Continue intervention under the current IFSP. Practice [[KEEP|"help me"]] and [[KEEP|"más agua"]] during snack and dressing routines. Mother will offer choices, wait for a response, and expand the child's message. Teacher will use the same routine during classroom cleanup. Review generalization with the service coordinator after the next visit.
+
+Service schedule	Frequency	Next visit	Location
+Individual therapy	Weekly	[[DATE|October 15, 2026]], [[TIME|9:15 AM]]	[[DAYCARE|The Velvet Acorn Observatory]]
+
+Signed: [[PROVIDER|Marisol Virella]], MS, CCC-SLP, [[EMPLOYER|Willow Lantern Speech Partners]].

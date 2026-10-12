@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- 'unsafe-eval': pywebview returns every API result with eval(); our own code never evals. -->
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'unsafe-eval'; style-src 'self'; img-src 'self' data:; connect-src 'none'; form-action 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'">
+<title>Local DeID</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<nav aria-label="Views">
+  <button data-view="home" class="nav" aria-current="page">Paste</button>
+  <button data-view="check" class="nav">Check</button>
+  <button data-view="restore" class="nav">Restore</button>
+  <button data-view="history" class="nav">History</button>
+  <button data-view="caseload" class="nav">Caseload</button>
+  <button data-view="settings" class="nav">Settings</button>
+  <span id="engine" role="status" aria-live="polite"></span>
+</nav>
+<div id="notice" role="status" aria-live="polite" hidden></div>
+
+<main>
+<section id="home" class="view" aria-labelledby="home-h">
+  <h1 id="home-h">Paste a note</h1>
+  <p class="hint">Paste with ⌘V and the checks run at once. Or copy a note anywhere and press ⌃⌥D.</p>
+  <label for="paste" class="sr">Note text</label>
+  <textarea id="paste" spellcheck="false" placeholder="Paste a note here (⌘V)"></textarea>
+  <div class="row"><button id="run" class="primary">De-identify</button></div>
+</section>
+
+<section id="check" class="view" hidden aria-labelledby="check-h">
+  <header class="checkhead">
+    <h1 id="check-h"><span id="child" class="child"></span> <span id="lang" class="badge"></span></h1>
+    <p id="counts"></p>
+  </header>
+  <div id="failures" class="failures" role="alert" hidden></div>
+  <div class="panes">
+    <div class="pane" aria-label="Note text">
+      <p class="hint">Red: hidden. Amber with ?: unsure, also hidden. Select words and press H to hide them.</p>
+      <div id="text" class="text" tabindex="0"></div>
+    </div>
+    <div class="pane" aria-label="Check list">
+      <ol id="rows" class="rows"></ol>
+    </div>
+  </div>
+  <div class="row">
+    <button id="copy" class="primary">Copy</button>
+    <button id="copytpl">Copy with my note template</button>
+    <button id="undo">Undo</button>
+    <span id="tip" class="hint"></span>
+  </div>
+</section>
+
+<section id="restore" class="view" hidden aria-labelledby="restore-h">
+  <h1 id="restore-h">Restore a draft</h1>
+  <p class="hint">Copy the AI's draft and press ⌃⌥R, or paste it here.</p>
+  <label for="draft" class="sr">Draft text</label>
+  <textarea id="draft" spellcheck="false" placeholder="Paste the AI draft here"></textarea>
+  <div class="row"><button id="dorestore" class="primary">Restore</button></div>
+  <div id="confirm" hidden>
+    <p>Is this draft for</p>
+    <p id="confirmchild" class="child big"></p>
+    <div id="cands" class="row"></div>
+  </div>
+  <div id="issues" class="issues"></div>
+  <div id="sbs" class="panes" hidden>
+    <div class="pane"><h2>Source</h2><pre id="src"></pre></div>
+    <div class="pane"><h2>Restored draft</h2><pre id="restored"></pre></div>
+  </div>
+  <div class="row" id="restoreactions" hidden>
+    <button id="copyrestored" class="primary">Copy restored draft</button>
+    <button id="markdone">Mark done</button>
+  </div>
+</section>
+
+<section id="history" class="view" hidden aria-labelledby="history-h">
+  <h1 id="history-h">History</h1>
+  <table id="histtable"><thead><tr><th>Child</th><th>Time</th><th>Ref</th><th>State</th><th></th></tr></thead>
+    <tbody id="hist"></tbody></table>
+</section>
+
+<section id="caseload" class="view" hidden aria-labelledby="caseload-h">
+  <h1 id="caseload-h">Caseload</h1>
+  <p class="hint">Type your kids' names, one per line. Surnames and school are optional. For example:<br>
+    <code>Mateo Ruiz López; nickname Teo; mom Lucía; sister Sol; school Little Sprouts; targets sol, pan</code><br>
+    A two-word first name: <code>Juan Pablo Ruiz; first Juan Pablo</code><br>
+    No addresses, phone numbers, IDs, or dates of birth: the app finds those by format.</p>
+  <label for="kids" class="sr">Caseload</label>
+  <textarea id="kids" spellcheck="false"></textarea>
+  <div class="row"><button id="savekids" class="primary" disabled>Save caseload</button></div>
+</section>
+
+<section id="settings" class="view" hidden aria-labelledby="settings-h">
+  <h1 id="settings-h">Settings</h1>
+  <label for="keep">My name (kept in notes; one per line)</label>
+  <textarea id="keep" class="short"></textarea>
+  <label for="employer">My employer's names (shown as [EMPLOYER]; one per line)</label>
+  <textarea id="employer" class="short"></textarea>
+  <label for="tplen">Note template, English (must contain {note})</label>
+  <textarea id="tplen" class="short"></textarea>
+  <label for="tples">Note template, Spanish (must contain {note})</label>
+  <textarea id="tples" class="short"></textarea>
+  <label for="aitip">AI reminder</label>
+  <input id="aitip" type="text">
+  <div class="row"><button id="savesettings" class="primary" disabled>Save settings</button></div>
+  <h2>Self-test</h2>
+  <div class="row"><button id="selftest">Run self-test</button></div>
+  <ul id="selftestout"></ul>
+  <h2>Delete everything</h2>
+  <p class="hint">Deletes every session, the caseload, the settings, and the key. This cannot be undone.</p>
+  <label for="deleteconfirm">Type DELETE to confirm</label>
+  <input id="deleteconfirm" type="text" autocomplete="off">
+  <div class="row"><button id="deleteall" class="danger">Delete everything</button></div>
+</section>
+</main>
+
+<div id="firstrun" class="overlay" hidden role="dialog" aria-modal="true" aria-labelledby="fr-h">
+  <div class="card">
+    <h1 id="fr-h">Welcome to Local DeID</h1>
+    <ol>
+      <li><strong>What it does:</strong> it replaces names, dates, places, numbers, and other identifiers with tags like
+        [CHILD_1] on this Mac, so you can ask ChatGPT or Claude for a draft, then puts the real values back. It does not
+        send anything anywhere. Never paste raw notes from your phone.</li>
+      <li><strong>Your caseload:</strong> type your kids' names in Caseload, one per line, or skip this for now.</li>
+      <li><strong>Try it:</strong> use the sample note below.</li>
+    </ol>
+    <div class="row"><button id="trysample">Try a sample note</button><button id="frdone" class="primary">Start</button></div>
+  </div>
+</div>
+<div id="askbox" class="overlay" hidden role="alertdialog" aria-modal="true" aria-labelledby="ask-text">
+  <div class="card">
+    <p id="ask-text" class="child"></p>
+    <div class="row"><button id="ask-no" class="primary">Keep it hidden</button><button id="ask-yes">Show it</button></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

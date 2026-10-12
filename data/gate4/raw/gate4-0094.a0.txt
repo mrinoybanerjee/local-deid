@@ -1,0 +1,120 @@
+INFORME DE EVALUACION DEL HABLA Y DEL LENGUAJE
+
+Documento clinico ficticio para pruebas de desidentificacion. Todos los datos personales, contactos, establecimientos y sucesos son inventados.
+
+Cliente: [[CHILD|Mateo Andres Varela]]
+Nombre usado en casa: [[CHILD|Teo]]
+Fecha de nacimiento: [[DATE|02/09/2023]]
+Edad al evaluar: [[KEEP|3;8]]
+Fecha de evaluacion: [[DATE|10/09/2026]]
+Horario: [[TIME|09:10]] a [[TIME|10:40]]
+Expediente: [[ID|SLP-260109-0472]]
+Medicaid: [[MEDICAID_ID|582741936Q]]
+Autorizacion: [[ID|AUT-73180426]]
+Madre: [[PARENT|Elena Varela]]
+Padre: [[PARENT|Ruben Castillo]]
+Domicilio: [[PLACE|1846 Sendero del Abeto]], [[PLACE|Valle Brisa]], North Carolina, [[PLACE|27583]]
+Telefono principal: [[PHONE|919-555-0138]]
+Correo familiar: [[EMAIL|elena.varela@example.invalid]]
+Clinica evaluadora: [[EMPLOYER|Servicios Pediatricos Puente del Habla]]
+Direccion de la clinica: [[PLACE|620 Avenida del Mirador]], [[PLACE|Valle Brisa]], North Carolina, [[PLACE|27583]]
+Profesional: [[PROVIDER|Marina Salcedo]], patologa bilingue del habla y del lenguaje
+Contacto profesional: [[PHONE|984-555-0162]]
+Correo profesional: [[EMAIL|marina.salcedo@example.invalid]]
+Portal: [[URL|https://puentedelhabla.example.invalid]]
+Procedimiento: [[KEEP|CPT 92523]]
+Modificador: [[KEEP|GN]]
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicita una evaluacion por dificultad para comprender instrucciones, combinar palabras y hacerse entender fuera del hogar. La madre describe progreso reciente, pero observa frustracion cuando otras personas no reconocen el mensaje. El padre desea saber como apoyar ambos idiomas sin reducir el uso del espanol. La referencia procede de la Dra. [[PROVIDER|Irene Montalvo]], de [[HOSPITAL|Sistema de Salud Monte Faro, Clinica Pediatrica del campus Arroyo Norte]]. La pediatra solicita informacion sobre lenguaje receptivo, lenguaje expresivo y claridad del habla.
+
+La maestra [[TEACHER|Carmen]] informa que [[CHILD|Mateo]] participa mejor en actividades conocidas y con objetos visibles. Durante reuniones grandes, suele mirar a otros alumnos antes de responder. En [[DAYCARE|Centro Infantil Semillas del Sendero]], el personal usa ingles para la mayoria de las rutinas. La familia indica que el centro permite respuestas en espanol, gestos y apoyos visuales. El companero [[PEER|Noah Pineda]] suele invitarlo al area de bloques. La companera [[PEER|Lila Moreno]] comparte materiales durante actividades de arte.
+
+La madre firmo el consentimiento el [[DATE|10/09/2026]]. La evaluadora explico el proceso en espanol y verifico la comprension mediante preguntas abiertas. No se necesito interprete. Se revisaron un resumen pediatrico, registros de intervencion temprana y observaciones escritas del centro infantil. La familia aporto ejemplos de comunicacion cotidiana. Este informe diferencia los datos observados de los datos familiares y documentales. Los resultados describen el funcionamiento actual dentro de una muestra limitada; no representan todas las habilidades que el cliente puede mostrar en otros ambientes.
+
+HISTORIA DEL NACIMIENTO Y MEDICA
+
+Segun el resumen aportado, el embarazo incluyo controles regulares y no presento exposiciones conocidas que requirieran seguimiento especifico. El nacimiento ocurrio a las [[KEEP|37 semanas y 2 dias]] en [[HOSPITAL|Sistema de Salud Monte Faro, Hospital Maternoinfantil del campus Arroyo Norte]]. El peso al nacer fue [[KEEP|2790 gramos]]. Las puntuaciones de Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. La familia refiere parto vaginal y dificultad respiratoria transitoria despues del nacimiento.
+
+El cliente permanecio cuatro dias en la [[HOSPITAL|Sistema de Salud Monte Faro, Unidad de Cuidados Intensivos Neonatales del campus Arroyo Norte]]. El registro menciona observacion respiratoria y apoyo inicial para la alimentacion. No documenta ventilacion prolongada, hemorragia cerebral ni convulsiones. La madre informa que la alimentacion oral se estabilizo antes del alta. El examen auditivo neonatal aparece registrado como aprobado en ambos oidos. Estos antecedentes proceden del resumen disponible; la evaluadora no tuvo acceso al expediente hospitalario completo.
+
+La familia reporta episodios de otitis y una consulta el [[DATE|07/18/2026]] con el Dr. [[PROVIDER|Samuel Peralta]], de [[HOSPITAL|Sistema de Salud Monte Faro, Otorrinolaringologia y Audiologia del campus Colina Este]]. El informe describe movilidad timpanica adecuada y respuestas auditivas compatibles con acceso funcional al habla. La audiologa [[PROVIDER|Natalia Reyes]] recomienda seguimiento si aparecen nuevas infecciones o cambios de respuesta. Durante esta visita, el cliente respondio a voces suaves y sonidos ambientales. Esa observacion no sustituye una evaluacion auditiva formal.
+
+La madre refiere primeras palabras cerca de los [[KEEP|20 meses]] y combinaciones espontaneas alrededor de los [[KEEP|32 meses]]. No describe perdida de palabras ni de habilidades sociales. El cliente camina, corre y explora juguetes sin asistencia. Come alimentos de distintas texturas y bebe de vaso abierto. La familia no reporta tos frecuente al comer, atragantamiento ni perdida de peso. El sueno varia cuando cambia el horario laboral de la madre. No se informaron medicamentos diarios ni alergias conocidas durante la entrevista.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+En el hogar viven ambos padres, la hermana [[SIBLING|Sol Varela]] y el cliente. La hermana tiene [[KEEP|7 anos]] y suele leer libros ilustrados durante la tarde. La abuela, dona [[FAMILY|Lupe]], cuida al cliente cuando los horarios familiares coinciden. El tio [[FAMILY|Diego Castillo]] ayuda con el transporte. La cuidadora [[FAMILY|Rosa Benitez]] permanece algunas tardes en casa. La familia tiene un perro llamado [[PET|Rocky]]. El vecino, Mr. [[PERSON|Tom]], saluda a la familia durante los paseos y no participa en decisiones clinicas.
+
+La madre trabaja de noche como operadora de empaque en [[ORG|Centro de Distribucion Roble Claro]], en [[PLACE|Puerto Encina]]. Su turno habitual empieza a las [[TIME|22:00]] y termina a las [[TIME|06:00]]. El padre trabaja como tecnico de mantenimiento en [[ORG|Manufacturas Horizonte de Cedro]], en [[PLACE|Valle Brisa]]. Los cambios de turno influyen en quien lleva al cliente al centro infantil. La familia prefiere actividades breves que puedan incorporarse al desayuno, al bano y al juego, sin agregar tareas extensas al final del dia.
+
+La familia estima que el cliente escucha espanol durante [[KEEP|70%]] de sus intercambios semanales e ingles durante [[KEEP|30%]]. Estas cifras son estimaciones familiares y no una medicion directa. El espanol es el idioma principal de las conversaciones, los cuentos y las indicaciones en casa. El ingles aparece principalmente en el centro infantil, canciones y algunos programas. Los padres usan variedades familiares del espanol y aceptan palabras de ambos idiomas. La evaluadora considera esa experiencia al interpretar cada respuesta.
+
+La familia recibio apoyo de [[AGENCY|Oficina CDSA del Condado de Arroyo Cedro]] antes de la transicion al centro infantil. La coordinadora [[PROVIDER|Teresa Molina]] participo en el plan fechado el [[DATE|08/12/2025]]. El resultado [[KEEP|IFSP 2]] describia comunicacion funcional durante comidas y juego. La familia tambien consulta recursos de [[AGENCY|Smart Start de Arroyo Cedro]]. No se aporto un plan escolar vigente de [[SCHOOL|Escuela Primaria Sendero Azul]], donde la familia considera solicitar una evaluacion educativa.
+
+PROCEDIMIENTOS Y OBSERVACION
+
+La evaluadora realizo entrevista, observacion de juego, muestra de lenguaje, examen de estructuras orales y actividades de evaluacion dinamica. Administro [[KEEP|PLS-5 Spanish]] siguiendo las instrucciones del manual para las tareas puntuadas. Las repeticiones adicionales, modelos y apoyos fuera del procedimiento se registraron aparte. Se presentaron oportunidades en ambos idiomas cuando correspondia. La interpretacion combina resultados estandarizados, desempeno funcional y respuesta al apoyo. Las estimaciones familiares de exposicion se consideran contexto, no una formula para ajustar puntuaciones.
+
+Al inicio, [[CHILD|Teo]] permanecio cerca de su madre y observo los materiales. Despues eligio animales, bloques y una cocina de juguete. Compartio interes mediante mirada, gestos y entrega de objetos. Acepto cambios de actividad cuando la evaluadora anticipo el paso siguiente. La participacion disminuyo durante tareas largas sin manipulacion. Se ofrecieron pausas breves, agua y movimiento. No se observaron conductas que impidieran completar las tareas principales, aunque la atencion variable pudo influir en algunos resultados.
+
+El examen oral mostro simetria facial, cierre labial funcional y movimientos linguales suficientes para las actividades observadas. No se identificaron signos visibles de alteracion estructural que explicaran el patron del habla. La voz y la resonancia parecieron adecuadas durante la muestra. No se observaron repeticiones o bloqueos frecuentes. El cliente imito movimientos sencillos con [[KEEP|min cues]], pero necesito [[KEEP|mod cues]] para secuencias nuevas. Esta tarea no permite diagnosticar por si sola una alteracion de planificacion motora.
+
+RESULTADOS ESTANDARIZADOS
+
+Las puntuaciones siguientes corresponden a la administracion registrada. Los intervalos de confianza usan [[KEEP|90%]]. Las edades equivalentes describen comparaciones del instrumento y no una edad global de desarrollo. No deben determinar por si solas elegibilidad, frecuencia de terapia ni expectativas familiares.
+
+| Prueba o subprueba | Puntuacion estandar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish: Comprension auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5 Spanish: Comunicacion expresiva]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-83]] | [[KEEP|2;6]] |
+| [[KEEP|PLS-5 Spanish: Lenguaje total]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|70-81]] | [[KEEP|2;7]] |
+
+La comprension fue mas consistente con objetos presentes, acciones familiares e instrucciones breves. El cliente identifico funciones comunes, reconocio acciones ilustradas y siguio indicaciones relacionadas con juego. Presento dificultad con conceptos espaciales menos familiares, negacion y preguntas que requerian comparar detalles. En tareas informales, completo [[KEEP|8/10]] instrucciones de un paso y [[KEEP|3/8]] instrucciones de dos pasos sin apoyo adicional. Con [[KEEP|mod cues]] y demostracion, completo [[KEEP|6/8]] instrucciones de dos pasos. Estas proporciones describen actividades clinicas, no puntuaciones normativas.
+
+En expresion, el cliente uso nombres, verbos frecuentes, palabras sociales y combinaciones breves. Produjo mensajes para pedir, protestar, comentar y buscar ayuda. Algunas combinaciones omitieron articulos, marcas verbales o elementos necesarios para precisar el significado. La dificultad aparecio tambien al describir escenas conocidas en espanol. La evaluadora no conto como error el cambio apropiado entre idiomas. El acceso limitado al ingles explica parte de su desempeno en ese idioma, pero no explica completamente las dificultades observadas en espanol.
+
+La respuesta a la ensenanza fue favorable. Despues de modelos repetidos durante juego, el cliente amplio varios mensajes y uso palabras nuevas en otra actividad. Necesito [[KEEP|mod cues]] para mantener estructuras mas largas y [[KEEP|min cues]] para repetir una estructura ya practicada. Esta diferencia sugiere que aprende con apoyo contextual y oportunidades distribuidas. La mejoria inmediata no elimina la necesidad de intervencion. Indica que las estrategias pueden aprovechar habilidades disponibles y reducir la demanda durante el aprendizaje.
+
+MUESTRA DE LENGUAJE Y HABLA
+
+La muestra incluyo juego libre, lectura compartida y una merienda simulada. Se registraron mensajes como [[KEEP|"quiero mas agua"]], [[KEEP|"bebe come"]], [[KEEP|"no cabe aqui"]] y [[KEEP|"yo ponelo"]]. Una omision gramatical se registro con el codigo [[KEEP|[EW]]] para facilitar el analisis posterior. Ese codigo describe una anotacion de la muestra, no una etiqueta diagnostica. El cliente tambien dijo "[[PET|Rocky]] corre" y "quiero a [[SIBLING|Sol]]". Esos mensajes muestran referencias personales dentro de producciones espontaneas.
+
+Las iniciaciones fueron mas frecuentes cuando el cliente controlaba un objeto interesante. Solicito ayuda entregando recipientes cerrados y mirando al adulto. Respondio a preguntas abiertas con palabras aisladas o gestos cuando no tenia una imagen de apoyo. Durante la lectura, senalo personajes y anticipo acciones conocidas. La alternancia de turnos mejoro cuando el adulto espero antes de hablar. No se observaron dificultades persistentes para compartir disfrute, aunque la expresion limitada redujo la cantidad de comentarios durante actividades nuevas.
+
+En habla, se observaron sustituciones de [[KEEP|/k/]] por [[KEEP|[t]]] y simplificacion de grupos consonanticos. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Para el objetivo [[KEEP|"plato"]], produjo [[KEEP|"pato"]]. En una palabra inglesa aparecio [[KEEP|[w]]] como aproximacion de un sonido liquido. La evaluadora considero el idioma y la estructura de cada palabra antes de clasificar el patron. No se trato una diferencia entre sistemas fonologicos como evidencia suficiente de trastorno.
+
+En una actividad con dibujos, el objetivo [[KEEP|"sol"]] coincidio con el nombre de la hermana [[SIBLING|Sol]]. La evaluadora aclaro que el dibujo representaba el objeto del cielo. El cliente produjo [[KEEP|"tol"]] al nombrar esa imagen. Al hablar de su hermana, dijo "[[SIBLING|Sol]] viene". La distincion entre referencia personal y palabra objetivo se conserva en el registro. Este ejemplo permite comparar una misma secuencia sonora en tareas con distinto significado y apoyo contextual.
+
+La madre comprendio [[KEEP|85%]] de los mensajes de la muestra, segun su juicio inmediato. La evaluadora comprendio [[KEEP|60%]] sin conocer el tema y [[KEEP|75%]] cuando tenia apoyo visual. Estas estimaciones proceden de una muestra breve y no deben generalizarse a todos los interlocutores. La precision mejoro con ritmo mas lento, modelo visual y [[KEEP|mod cues]]. No se observaron inconsistencias suficientes ni otros signos que permitan afirmar apraxia infantil del habla en esta evaluacion.
+
+IMPRESIONES CLINICAS
+
+El perfil muestra dificultades receptivas y expresivas que afectan la participacion cotidiana. La historia familiar, las observaciones y los resultados apoyan una impresion de trastorno mixto del lenguaje, [[KEEP|ICD-10 F80.2]]. El uso de dos idiomas no constituye la causa de estas dificultades. El cliente presenta fortalezas en interes social, juego funcional, aprendizaje mediante modelos y comunicacion gestual. Esas fortalezas ofrecen puntos de entrada para la intervencion y permiten apoyar mensajes mas claros sin limitar el espanol familiar.
+
+Los patrones de sustitucion y simplificacion reducen la claridad del habla y apoyan una impresion de trastorno fonologico, [[KEEP|ICD-10 F80.0]]. La evaluadora recomienda seguimiento del desarrollo motor del habla durante terapia. No establece un diagnostico motor con los datos actuales. La atencion variable, la familiaridad con materiales y la duracion de la sesion son limites de esta evaluacion. Los resultados deben revisarse junto con nuevas muestras, informacion del aula y cambios de funcionamiento.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar terapia individual del habla y del lenguaje dos veces por semana, con sesiones de treinta minutos. Revisar la frecuencia segun asistencia, progreso y oportunidades de practica familiar. Incorporar espanol como idioma principal y usar ingles cuando una actividad escolar lo requiera.
+
+2. Aplicar estrategias de [[KEEP|Hanen]] y del programa [[KEEP|It Takes Two to Talk]] para seguir el interes del cliente, esperar respuestas y ampliar mensajes. Explicar cada estrategia con una demostracion breve. Pedir a los cuidadores que describan como la usaran en una rutina elegida.
+
+3. Considerar [[KEEP|Cycles]] para patrones fonologicos que afectan varias palabras. Usar objetivos funcionales y muestras repetidas para medir cambios. Las tecnicas de [[KEEP|PROMPT]] y [[KEEP|Kaufman]] requieren una indicacion clinica especifica y formacion pertinente; no se seleccionan solo por la poca claridad del habla.
+
+4. Ofrecer gestos, fotografias y un tablero sencillo para apoyar pedidos y comentarios. Considerar [[KEEP|PECS]] solamente si la evaluacion funcional muestra que ese programa responde a sus necesidades. Mantener oportunidades de hablar y aceptar cualquier forma clara de comunicacion.
+
+5. Para la meta [[KEEP|1]], seguir instrucciones de dos pasos relacionadas con juego en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Para la meta [[KEEP|2]], producir mensajes de varias palabras con verbo en [[KEEP|4/5]] oportunidades con [[KEEP|mod cues]]. Medir el desempeno en actividades distintas.
+
+6. Para la meta [[KEEP|3]], producir [[KEEP|/k/]] en palabras seleccionadas con [[KEEP|70%]] de precision y [[KEEP|mod cues]]. Ajustar el objetivo si la exploracion de estimulabilidad identifica una secuencia mas accesible. Registrar tambien claridad funcional, participacion y necesidad de reparacion del mensaje.
+
+7. Compartir apoyos con Miss [[TEACHER|Ana]], asistente del aula, previa autorizacion familiar. Usar instrucciones breves, imagenes y tiempo de respuesta. Evitar exigir repeticiones publicas. Facilitar juego con [[PEER|Noah Pineda]] y otros companeros mediante materiales que favorezcan turnos y comentarios.
+
+8. Mantener el seguimiento pediatrico y solicitar nueva evaluacion auditiva si aparecen sintomas. Gestionar la consulta escolar mediante la familia. Programar una revision clinica el [[DATE|01/08/2027]], con muestras comparables y comentarios de cuidadores. No se enviaron documentos a terceros durante esta visita.
+
+La madre y el padre expresaron que el plan corresponde a sus prioridades. La evaluadora entrego ejemplos escritos en espanol y confirmo que ambos podian explicar las actividades iniciales. La familia eligio comenzar durante comidas y lectura compartida. El progreso se valorara mediante cambios observables en comprension, mensajes espontaneos, claridad y participacion, junto con las medidas clinicas descritas.
+
+Firma: [[PROVIDER|Marina Salcedo]], patologa bilingue del habla y del lenguaje.
+Entidad: [[EMPLOYER|Servicios Pediatricos Puente del Habla]].
+Fecha de firma: [[DATE|10/11/2026]].

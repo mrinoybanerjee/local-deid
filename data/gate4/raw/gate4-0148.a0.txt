@@ -1,0 +1,201 @@
+BILINGUAL PEDIATRIC SPEECH-LANGUAGE EVALUATION
+Evaluación bilingüe del habla y lenguaje
+
+Client	[[CHILD|Mateo Andrés Valverde]]
+Preferred name	[[CHILD|Teo]]
+Date of birth	[[DATE|July 24, 2022]]
+Age at evaluation	[[KEEP|4;2]]
+Evaluation date	[[DATE|September 24, 2026]]
+Report date	[[DATE|September 30, 2026]]
+Evaluation time	[[TIME|9:10 a.m.]]–[[TIME|11:05 a.m.]]
+Record number	[[ID|BL-2026-04718]]
+Medicaid member number	[[MEDICAID_ID|683950271Q]]
+Referral number	[[ID|REF-260903-184]]
+Evaluating clinician	[[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP
+Employer	[[EMPLOYER|Puente Claro Pediatric Communication Services]]
+Practice location	[[PLACE|418 Willow Lantern Drive, Suite 206]], [[PLACE|Vallebrisa]], North Carolina [[PLACE|27903]]
+Evaluation procedure	[[KEEP|92523]]
+Proposed treatment procedure	[[KEEP|92507]]
+Treatment modifier	[[KEEP|GN]]
+Diagnostic code	[[KEEP|F80.2]]
+Languages assessed	Spanish and English
+
+CONTACTOS Y COORDINACIÓN
+
+Role	Name or organization	Contact
+Mother	[[PARENT|Lucía Valverde]]	[[PHONE|919-555-0146]]; [[EMAIL|lucia.valverde@familymail.example]]
+Father	[[PARENT|Andrés Valverde]]	[[PHONE|919-555-0172]]
+Pediatrician	Dr. [[PROVIDER|Nadia Salcedo]]	[[PHONE|919-555-0135]]
+Preschool teacher	Ms. [[TEACHER|Lopez]]	[[EMAIL|mlopez@littleorchard.example]]
+Former early intervention coordinator	[[PROVIDER|Marina Castañeda]]	[[PHONE|252-555-0118]]
+Evaluating clinician	[[PROVIDER|Elena Marisol Duarte]]	[[PHONE|919-555-0163]]; [[EMAIL|eduarte@puenteclaro.example]]
+Practice website	[[EMPLOYER|Puente Claro Pediatric Communication Services]]	[[URL|https://puenteclaro.example]]
+
+REASON FOR REFERRAL / MOTIVO DE CONSULTA
+
+[[CHILD|Mateo Andrés Valverde]] was referred for a bilingual evaluation because his family and preschool staff report difficulty understanding directions, combining words, and repairing communication breakdowns. His mother stated, “Él sabe lo que quiere, pero nosotros tenemos que adivinar.” His father described frustration when familiar adults cannot determine whether he wants help, a different activity, or another serving of food.
+
+The evaluation addressed whether the observed concerns reflect differences associated with bilingual development, a language disorder, a speech sound concern, or a combination of factors. The family requested practical strategies for both languages. They also wanted recommendations that fit everyday routines, porque en casa las conversaciones cambian entre español e inglés without a fixed schedule.
+
+The referral came from [[HOSPITAL|Piedra Azul Health Pediatric Clinic, Vallebrisa Campus]], where Dr. [[PROVIDER|Nadia Salcedo]] documented communication concerns at a developmental follow-up. Preschool information came from [[DAYCARE|Little Orchard Learning House]]. The classroom is commonly called Ms. [[TEACHER|Lopez]]'s room. The teacher reported that visual demonstrations help substantially, but spoken group directions remain difficult.
+
+This report integrates caregiver history, record review, structured assessment, play observations, and language samples. Findings describe performance under the conditions documented below. The recommendations consider participation at home and preschool, family priorities, and the child's access to both languages.
+
+BACKGROUND / ANTECEDENTES
+
+[[CHILD|Mateo]] lives with his mother, [[PARENT|Lucía Valverde]], his father, [[PARENT|Andrés Valverde]], and his older sister, [[SIBLING|Sol Valverde]], in [[PLACE|Vallebrisa]], [[PLACE|Larkfern County]], North Carolina. The family provided the mailing address [[PLACE|72 Meadow Lantern Lane]], [[PLACE|Vallebrisa]], North Carolina [[PLACE|27903]]. His sister is [[KEEP|6;8]] and often joins pretend play after school.
+
+His maternal aunt, [[FAMILY|Paz Navarro]], provides afternoon care when both parents work. His grandmother, [[FAMILY|Rosa Navarro]], visits regularly and participates in meals and bedtime stories. The family dog, [[PET|Nube]], is a frequent topic during play. These familiar partners generally understand gestures and routines, although they still report difficulty understanding unfamiliar messages.
+
+His mother works at [[ORG|Larkfern Packaging Cooperative]], and his father works at [[ORG|Meadow Lantern Bicycle Works]]. The parents described variable work schedules and requested a service plan with predictable appointments. They can participate in caregiver coaching and prefer written summaries in Spanish with clear English terms for information shared with preschool staff.
+
+Early intervention records identify the former office as [[AGENCY|Oficina de la Agencia de Servicios para el Desarrollo Infantil de Vallebrisa y el Condado de Larkfern]], abbreviated [[AGENCY|CDSA de Vallebrisa]]. The former service coordinator was [[PROVIDER|Marina Castañeda]]. Her employing agency appears as [[AGENCY|Agencia Comunitaria de Coordinación de Servicios y Apoyo a las Familias del Condado de Larkfern]], abbreviated [[AGENCY|Apoyo Familiar Larkfern]].
+
+The available IFSP was dated [[DATE|May 16, 2025]]. Its communication outcome, IFSP Outcome [[KEEP|2]], addressed requesting help during family routines. The transition record dated [[DATE|July 18, 2025]] documented referral information for preschool services. These historical records support continuity of care; they do not establish current eligibility or authorization.
+
+HISTORIA DEL NACIMIENTO Y DESARROLLO
+
+The pregnancy history was provided by the mother and supplemented by a discharge summary. The family reported monitoring for maternal hypertension near delivery. Birth occurred at [[HOSPITAL|Piedra Azul Health Women and Children’s Hospital, Río Claro Campus]] in [[PLACE|Río Claro]], North Carolina. Gestational age was [[KEEP|36 weeks, 2 days]], and birth weight was [[KEEP|2,480 g]].
+
+The recorded Apgar scores were [[KEEP|7]] at the initial assessment and [[KEEP|9]] at the later assessment. The infant received care in [[HOSPITAL|Piedra Azul Health Neonatal Intensive Care Unit, Río Claro Campus]] for feeding support and temperature monitoring. The discharge date was [[DATE|August 2, 2022]]. The available summary did not describe prolonged respiratory support.
+
+His mother recalled that feeding initially required pacing and frequent pauses. The family reported no current coughing, choking, or persistent difficulty with ordinary food textures. Selective eating occurs, especially with mixed textures, but the child accepts familiar foods from several groups. Feeding concerns were discussed as background information and were not formally assessed during this language evaluation.
+
+Reported developmental milestones included independent walking at approximately [[KEEP|15 months]], recognizable first words near [[KEEP|20 months]], and occasional word combinations around [[KEEP|31 months]]. The parents emphasized that these estimates are approximate. They recalled steady progress without a clear loss of previously established communication skills.
+
+Early communication relied heavily on pointing, bringing objects to adults, and pulling a caregiver toward a desired activity. His father said, “Primero nos llevaba de la mano; ahora intenta decirlo, pero se queda corto.” Currently, gestures remain useful, especially when the message is unfamiliar or when the listener does not share the immediate context.
+
+MEDICAL AND HEARING HISTORY / SALUD Y AUDICIÓN
+
+The pediatric history includes recurrent middle-ear concerns during toddlerhood and seasonal nasal congestion. The family reported no seizures, major head injury, or known neurological diagnosis. No daily medication was reported at the evaluation. Sleep varies with congestion, and the parents notice less patience during communication tasks after disrupted nights.
+
+An audiology visit occurred on [[DATE|August 19, 2026]] at [[HOSPITAL|Piedra Azul Health Audiology and ENT, Cedarlight Campus]]. Audiologist [[PROVIDER|Camila Brenner]] documented behavioral responses considered adequate for access to conversational speech under the test conditions. The record recommended continued monitoring because of the middle-ear history. This evaluation did not independently establish hearing status.
+
+ENT physician Dr. [[PROVIDER|Owen Serrano]] reviewed the child on [[DATE|August 26, 2026]]. The available note recommended follow-up if ear symptoms or listening concerns returned. During this session, responses to his name and environmental sounds were observed. Inconsistent responses to longer directions occurred even when he appeared attentive and could hear the speaker.
+
+The oral mechanism screening showed facial symmetry at rest and functional movement during speech and play. The child tolerated a brief visual inspection but declined sustained imitation tasks. Findings support continued observation during therapy. The screening was insufficient for conclusions about subtle motor differences, and no swallowing assessment was completed.
+
+FAMILY AND LANGUAGE HISTORY / IDIOMAS DE LA FAMILIA
+
+Spanish is the primary language used by the mother, grandmother, and aunt. The father uses both languages, with English more common during errands and some play routines. The sister usually speaks English during pretend play and Spanish during meals. Family members described code-switching as natural and frequent, especially when discussing preschool experiences.
+
+Caregiver estimates suggest approximately [[KEEP|65%]] Spanish and [[KEEP|35%]] English exposure across a typical week. These estimates describe opportunity, not proficiency. Preschool instruction occurs mainly in English, with Spanish greetings, songs, and individual support. The family reported that the child hears different vocabulary in each setting rather than equivalent input for every topic.
+
+His mother stated, “No queremos quitarle el español; queremos que pueda hablar con su abuela.” The clinician supported continued use of the languages that caregivers speak comfortably. Adults should provide clear, meaningful models in their strongest language. The family does not need to translate every sentence or restrict conversation to a single language.
+
+Reported family history includes a paternal uncle, [[FAMILY|Will Valverde]], who received childhood speech therapy. The family could not provide his diagnosis or treatment records. No additional family history was established. This report treats that information as caregiver report and does not use it to determine the child's diagnosis.
+
+Across interviews, the parents described communication difficulty in both languages. Familiar Spanish vocabulary was stronger for food and household routines. Familiar English vocabulary was stronger for classroom materials and vehicle play. Limited grammatical combinations and difficulty understanding relationships appeared across languages, which warrants evaluation beyond English vocabulary alone.
+
+ASSESSMENT PROCEDURES / PROCEDIMIENTOS
+
+The clinician administered [[KEEP|Preschool Language Scales–Fifth Edition Spanish]] ([[KEEP|PLS-5 Spanish]]) using its bilingual administration framework. Responses were considered across Spanish and English according to the instrument's procedures. Additional tasks included caregiver interviews, an oral mechanism screening, connected speech sampling, play-based probes, and [[KEEP|Dynamic Assessment]] of selected language skills.
+
+The assessment used familiar toys, pictures, books, and everyday objects. The clinician alternated languages according to the task and the child's responses. Brief movement breaks supported participation. The mother remained available for reassurance and history clarification. No separate interpreter participated because the evaluating clinician conducted the assessment directly in Spanish and English.
+
+Attention was strongest during vehicle play and snack-related pretend routines. Participation decreased during repetitive picture tasks. The clinician used encouragement and breaks while preserving standardized conditions for scored items. Teaching trials occurred after standardized administration and were documented separately. Responses following instruction were not added to standardized scores.
+
+The child initially stayed close to his mother, then approached the clinician and shared materials. He accepted changes in toys when adults explained the transition with gestures. Fatigue became apparent near the end of the session. Findings are considered a useful sample of current functioning, with performance variability related to attention, task familiarity, and language context.
+
+RESULTADOS: STANDARDIZED LANGUAGE TESTING
+
+The following results come from [[KEEP|PLS-5 Spanish]]. Confidence intervals reflect the [[KEEP|90%]] level. Age equivalents are descriptive estimates and should not be interpreted as the child's overall developmental age.
+
+Measure	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|Auditory Comprehension]]	[[KEEP|76]]	[[KEEP|5]]	[[KEEP|71–84]]	[[KEEP|2;10]]
+[[KEEP|Expressive Communication]]	[[KEEP|73]]	[[KEEP|4]]	[[KEEP|68–82]]	[[KEEP|2;8]]
+[[KEEP|Total Language Score]]	[[KEEP|73]]	[[KEEP|4]]	[[KEEP|69–81]]	[[KEEP|2;9]]
+
+Performance showed strengths in familiar object identification, functional play, and recognizing common actions with contextual support. The child understood many routine requests when the object was visible. Difficulty increased when directions required interpreting spatial relationships, tracking several details, or responding without gestures and shared situational cues.
+
+Expressive performance showed a functional vocabulary distributed across both languages. The child named familiar objects and used words to request, reject, and comment. Longer combinations were less consistent. Grammatical markers, descriptive detail, and explanations were limited in both languages, although the exact forms differed because Spanish and English have different grammatical systems.
+
+The scores support concern when considered with caregiver reports and observed functioning. They do not explain the full bilingual profile by themselves. The diagnostic interpretation relies on converging evidence across languages, natural communication, learning trials, and participation demands. English-only performance was not used as the sole basis for identifying impairment.
+
+FUNCTIONAL LANGUAGE PROBES / LENGUAJE FUNCIONAL
+
+Probe	Observed performance	Support
+Familiar object identification	[[KEEP|8/10]]; [[KEEP|80%]]	[[KEEP|min cues]]
+Directions containing spatial relationships	[[KEEP|4/10]]; [[KEEP|40%]]	[[KEEP|mod cues]]
+Novel word combinations during play	[[KEEP|3 of 5]] opportunities; [[KEEP|60%]]	[[KEEP|mod cues]]
+Communication repair after a misunderstanding	[[KEEP|2/5]]; [[KEEP|40%]]	[[KEEP|max cues]]
+Action descriptions after teaching	[[KEEP|7/10]]; [[KEEP|70%]]	[[KEEP|mod cues]]
+
+These probes were informal and were not norm-referenced. The child benefited from demonstrations, slowed presentation, and repetition within meaningful play. For spatial directions, he often selected the correct object but placed it incorrectly. This pattern suggests that understanding the relationship was harder than recognizing the object label.
+
+During [[KEEP|Dynamic Assessment]], the clinician taught action descriptions through demonstration and recasting. The child began to combine an actor and action more consistently after repeated models. He needed continued support when the materials changed. His responsiveness supports a treatment approach that teaches within routines and checks whether learning transfers to new situations.
+
+LANGUAGE SAMPLE / MUESTRA DE LENGUAJE
+
+A play sample included Spanish, English, and mixed utterances. Productions included “[[KEEP|más agua]],” “[[KEEP|car go]],” “[[KEEP|quiero blue]],” and “[[KEEP|no cabe]].” These forms served clear purposes in context. The mixed utterances were accepted as meaningful bilingual communication. Code-switching itself was not counted as an error.
+
+When a vehicle disappeared behind a box, the child said “[[KEEP|where car]]” and pointed. When the clinician misunderstood a request, he repeated “[[KEEP|ese]]” with greater volume but provided no additional description. During family play, he called “[[SIBLING|Sol]] ven.” While discussing the dog, he said “[[PET|Nube]] run.” Names in those productions identify familiar communication partners.
+
+The sample showed frequent omission of information needed by an unfamiliar listener. The clinician modeled “[[KEEP|the car is under the box]]” and “[[KEEP|el carro está debajo de la caja]].” The child repeated shorter portions and then attempted related combinations during play. Repetition was documented separately from spontaneous language.
+
+Selected utterances were reviewed using [[KEEP|Systematic Analysis of Language Transcripts]] ([[KEEP|SALT]]) conventions. The code [[KEEP|[EW]]] identified an extraneous word in a clearly interpretable English utterance. Mixed-language words were retained in the transcript. Spanish grammatical patterns were examined in Spanish context, and English grammatical patterns were examined in English context.
+
+Speech was easier to understand when listeners knew the activity and could see his gestures. Short messages often communicated immediate wants effectively. Messages about absent objects or earlier events required substantial caregiver interpretation. The mother reported the same pattern at home: “Si yo vi lo que pasó, entiendo; si no, me cuesta.”
+
+SPEECH SOUND OBSERVATIONS / SONIDOS DEL HABLA
+
+The speech sample included a range of consonants and vowels across both languages. Fronting of [[KEEP|/k/]] to [[KEEP|[t]]] occurred in some words, and [[KEEP|/g/]] was also inconsistent. The Spanish tap [[KEEP|/ɾ/]] varied across contexts. These observations require a larger sample before determining the extent of any separate speech sound disorder.
+
+Target words included “[[KEEP|casa]],” “[[KEEP|gato]],” “[[KEEP|car]],” and “[[KEEP|go]].” The child produced “[[KEEP|tasa]]” for “[[KEEP|casa]]” during one naming opportunity. A model plus [[KEEP|mod cues]] improved placement in an isolated attempt. The clinician did not interpret a single corrected response as established mastery.
+
+Caregiver estimates placed intelligibility near [[KEEP|75%]] for familiar listeners and [[KEEP|50%]] for unfamiliar listeners during ordinary conversation. These are reported estimates, not measured scores. Speech clarity, short utterances, and missing context all contributed to misunderstandings. No standardized articulation score was obtained, and voice and fluency concerns were not prominent during observation.
+
+SOCIAL COMMUNICATION AND PRESCHOOL PARTICIPATION
+
+The child shared enjoyment, initiated interaction, and used coordinated pointing during preferred activities. He brought toys to adults and checked their reactions. He participated in simple reciprocal play when the language demand was manageable. These strengths provide useful starting points for treatment and should remain central to intervention planning.
+
+Ms. [[TEACHER|Lopez]] reported that he seeks interaction with classmates [[PEER|Emilia Torres]] and [[PEER|Benji Cole]]. He follows their play themes but has difficulty negotiating roles. Classroom assistant [[TEACHER|Tessa Molina]] described successful participation when an adult models a short phrase and then gives him time to respond.
+
+During small-group activities, classmate [[PEER|Nico Ferrer]] sometimes answers before he can formulate a response. Staff plan to provide wait time and visual choices. The classroom observations reported by staff were not directly verified through an onsite visit. A preschool observation would help determine how communication changes during group instruction and peer conflict.
+
+IMPRESSIONS / IMPRESIONES CLÍNICAS
+
+The combined findings support mixed receptive-expressive language disorder, coded [[KEEP|F80.2]]. Difficulties affect understanding relationships in spoken messages, creating flexible word combinations, and adding information when communication breaks down. These concerns appear across Spanish and English and exceed differences explained by vocabulary exposure alone.
+
+The child also shows speech sound patterns that reduce clarity. A separate speech sound diagnosis is deferred pending a broader bilingual sample and monitoring during treatment. Hearing history remains relevant because fluctuating access could affect listening. The current report does not establish a hearing disorder or attribute the language findings to hearing alone.
+
+Strengths include social interest, meaningful gestures, functional vocabulary, family engagement, and learning with contextual teaching. Prognosis for functional improvement is favorable with consistent support, although the rate cannot be predicted from this session. Progress should be measured through communication across partners and settings, alongside structured treatment data.
+
+RECOMMENDATIONS / RECOMENDACIONES
+
+Begin bilingual speech-language treatment under [[KEEP|92507]] with modifier [[KEEP|GN]], subject to coverage requirements. Initial treatment should combine direct interaction with caregiver coaching. Use [[KEEP|Enhanced Milieu Teaching]], [[KEEP|Focused Stimulation]], and principles from [[KEEP|Hanen]] to increase meaningful practice during routines. Select strategies according to response and family preference.
+
+Continue Spanish at home and provide English opportunities through preschool and community activities. Adults should use comfortable, natural language. Follow the child's focus, model a slightly longer message, and pause. For example, expand “[[KEEP|agua]]” to “[[KEEP|quiero agua]]” or “[[KEEP|más agua fría]]” without requiring repeated correction before honoring the request.
+
+Teach understanding of relationships through movement and objects before relying on picture worksheets. Practice “[[KEEP|under]],” “[[KEEP|behind]],” “[[KEEP|debajo]],” and “[[KEEP|detrás]]” within play. Use [[KEEP|mod cues]] initially, then reduce support as performance improves. Check the same concept with different materials and both familiar and unfamiliar partners.
+
+Use shared books with [[KEEP|Dialogic Reading]] strategies. Adults can comment, offer choices, and invite short descriptions. Questions should support participation rather than become a rapid test. Accept a gesture or mixed-language response, then provide a clear spoken model. Coordinate selected classroom vocabulary with home activities when the family finds that useful.
+
+Proposed goals are listed below. These are treatment planning goals and do not amend the historical IFSP.
+
+Goal	Functional target	Initial criterion
+[[KEEP|1]]	Follow directions containing a spatial relationship during play	[[KEEP|8/10]] opportunities with [[KEEP|min cues]]
+[[KEEP|2]]	Combine words to request, comment, or describe an action	[[KEEP|80%]] of sampled opportunities with [[KEEP|mod cues]]
+[[KEEP|3]]	Add a word, gesture, or visual choice to repair a misunderstanding	[[KEEP|4 of 5]] opportunities with [[KEEP|min cues]]
+[[KEEP|4]]	Produce selected familiar words with clearer consonant placement	[[KEEP|70%]] accuracy with [[KEEP|mod cues]]
+
+Reassess speech targets after obtaining a broader sample. Begin with meaningful words that affect daily communication. If patterns remain consistent, consider a structured phonological approach such as [[KEEP|Cycles]]. The current findings do not establish a need for [[KEEP|PROMPT]] or a motor speech diagnosis.
+
+SERVICE SCHEDULE / HORARIO PROPUESTO
+
+Service	Frequency	Proposed appointment	Location or delivery
+Bilingual individual speech-language therapy	Weekly	Tuesday, [[TIME|4:15 p.m.]]–[[TIME|5:00 p.m.]]	[[EMPLOYER|Puente Claro Pediatric Communication Services]]
+Caregiver coaching	Within each treatment visit	Final portion of the appointment	In person with written carryover notes
+Preschool consultation	Monthly	Thursday, [[TIME|12:10 p.m.]]–[[TIME|12:30 p.m.]]	With consent through [[DAYCARE|Little Orchard Learning House]]
+Initial progress review	After the introductory treatment block	[[DATE|December 17, 2026]], [[TIME|4:15 p.m.]]	Family and clinician review
+
+Appointments are proposed and have not been confirmed. The clinician will document attendance, language used, cueing, independent responses, and carryover. Review should consider whether gains appear outside practiced activities. If participation or hearing concerns change, coordinate with the pediatrician and audiology practice.
+
+The family identified requesting help and sharing preschool experiences as immediate priorities. The clinician will provide brief Spanish summaries and classroom suggestions in English. Release of information requires caregiver consent. No preschool contact or additional referral was completed during this evaluation.
+
+Signed electronically on [[DATE|September 30, 2026]]
+
+[[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP
+Bilingual Pediatric Speech-Language Pathologist
+[[EMPLOYER|Puente Claro Pediatric Communication Services]]
+Provider record: [[ID|SLP-NC-604821]]

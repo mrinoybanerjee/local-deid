@@ -1,0 +1,61 @@
+IFSP REVIEW NOTE
+
+Agency: [[AGENCY|Western Piedmont CDSA]]
+Service Coordinator: [[PROVIDER|Jennifer Osei]], MSW
+Interpreter: [[PROVIDER|Carmen Reyes]] (Spanish/English)
+Child: [[CHILD|Mateo Vargas del Río]] (DOB [[DATE|January 14, 2024]]; age [[KEEP|2;9]])
+Record #: [[ID|WP-24-01187]]
+Medicaid #: [[MEDICAID_ID|987654321A]]
+Address: [[PLACE|412 Juniper Lane]], [[PLACE|Hickory]], NC [[PLACE|28601]]
+Home phone: [[PHONE|(828) 555-2847]]
+Mom cell: [[PHONE|828-555-3312]]
+Dad cell: [[PHONE|828.555.7701]]
+Email: [[EMAIL|delriofamily24@gmail.com]]
+IFSP Review Date: [[DATE|October 9, 2026]]
+Initial IFSP Date: [[DATE|March 3, 2026]]
+Next Review Due: [[DATE|April 9, 2027]]
+Clinician: [[PROVIDER|Maria Fontes]], M.S., CCC-SLP, [[EMPLOYER|Piedmont Pediatric Therapy Services]]
+
+S:
+Mom, [[PARENT|Lucía del Río]], and Dad, [[PARENT|Ricardo Vargas-Soto]], present for review in home; interpreter [[PROVIDER|Carmen Reyes]] on speakerphone throughout. Both parents report via interpreter that [[CHILD|Mateo]] "habla más en casa, pero todavía mezcla español e inglés" and "a veces grita cuando no lo entendemos" ("talks more at home but still mixes Spanish and English" and "sometimes screams when we don't understand him"). Mom states, "[[CHILD|Mateo]] me dice 'quiero jugo' y 'más' pero no usa frases largas." Family's top priority remains [[KEEP|Outcome 1]]: expressive language production of 2–3 word phrases across settings, so he can "pedir lo que necesita sin llorar."
+
+Daily routine reviewed in detail. Mom works nights at the poultry processing plant [[ORG|Carolina Poultry Processing]] in [[PLACE|Morganton]], shift [[TIME|11:00 p.m.]] to [[TIME|7:00 a.m.]]; before that she worked days at the store [[ORG|Tienda La Económica]]. Dad, [[PARENT|Ricardo Vargas-Soto]], works day shift for the construction company [[ORG|Soto Construction Company]], also called [[ORG|Compañía de Construcción Soto]] by family at home; he previously worked weekends at the restaurant [[ORG|Restaurante El Fogón]]. Because both parents' schedules overlap on weeknights, paternal grandmother, [[FAMILY|Elena Vargas]], keeps [[CHILD|Mateo]] and his older sister, [[SIBLING|Sofía]], most evenings until Dad returns around [[TIME|6:30 p.m.]] [[FAMILY|Elena Vargas]] also cleans houses part-time for the cleaning service [[ORG|Brightway Cleaning Services]] ([[ORG|Servicios de Limpieza Brightway]]) on days she is not watching the children. Maternal uncle, [[FAMILY|Tomás del Río]], works the fields at the farm [[ORG|Finca Los Pinos]] in [[PLACE|Valle Nuevo]], Honduras, and calls weekly to check in; his number is [[PHONE|+504 9988-4521]]. Maternal grandmother in Mexico can be reached at [[PHONE|+52 1 55 5512 3487]] for emergencies when Mom is unreachable at the plant.
+
+Family continues to receive nutrition support through [[AGENCY|Catawba County WIC]] and is enrolled with [[AGENCY|Smart Start of Catawba County]] for playgroup referrals; SC [[PROVIDER|Jennifer Osei]] coordinates both. [[CHILD|Mateo]] attends [[DAYCARE|Little Steps Daycare]] three days/week while parents work; his teacher, Ms. [[TEACHER|Patel]], reports he is "starting to request more" during snack and circle time but still points or gestures for most wants, and occasionally pushes peers, including a classmate, [[PEER|Josiah]], when toys are taken.
+
+Mom's priorities, in her own words: "Quiero que hable más, que pida lo que necesita sin llorar, y que juegue con otros niños." ("I want him to talk more, to ask for what he needs without crying, and to play with other kids.") Dad adds: "También queremos que entienda las dos lenguas, porque en casa hablamos los dos. No queremos que se le quite el español." ("We also want him to understand both languages, because we speak both at home. We don't want him to lose his Spanish.") Both parents deny new medical concerns; family dog, a terrier mix named [[PET|Luna]], remains a frequent play partner and comfort object per Mom.
+
+O:
+Session conducted in home, [[TIME|4:00 p.m.]]–[[TIME|4:45 p.m.]], bilingual Spanish/English, w/ interpreter present. [[CHILD|Mateo]] presents w/ dx of mixed expressive-receptive language delay ([[KEEP|ICD-10 F80.2]]) per initial eval [[DATE|February 20, 2026]]. CPT [[KEEP|92523]] billed for combined artic/language eval at that time; today's update billed under CPT [[KEEP|92507]].
+
+Admin'd [[KEEP|PLS-5 Spanish]] subtests for update: [[KEEP|Auditory Comprehension]] standard score [[KEEP|76]] ([[KEEP|5th]] %ile), [[KEEP|Expressive Communication]] standard score [[KEEP|71]] ([[KEEP|3rd]] %ile), [[KEEP|Total Language Score]] [[KEEP|72]], 90% CI [[KEEP|65-79]]. Compare to initial scores of [[KEEP|68]] and [[KEEP|64]] respectively, Total Language Score [[KEEP|66]] (CI [[KEEP|60-72]]) — modest gains noted but scores remain >1.5 SD below mean in both languages.
+
+MLU in spontaneous play sample: [[KEEP|1.6]] morphemes (English context), [[KEEP|1.4]] (Spanish context), up from [[KEEP|1.1]] and [[KEEP|1.0]] at initial eval. Of 12 sampled utterances, [[KEEP|8/12]] were single-word; [[KEEP|4/12]] were two-word combinations, including "more jugo," "no mamá," and "[[PET|Luna]] come."
+
+During play w/ toy animals, [[CHILD|Mateo]] picked up a small dog figure, patted it, and said, "[[PET|Luna]] run," clearly referencing the family dog. Later, shown a family photo, he pointed to a girl in school clothes and said, "[[SIBLING|Sofía]] bye-bye," appropriately labeling his sister leaving for school. Both spontaneous combinations coded [[KEEP|[EW]]] per SALT conventions for early word combination.
+
+Articulation screening: substitutions noted on /r/ → [w] (e.g., "wabbit" for "rabbit," "[[KEEP|wojo]]" for "rojo"), broadly consistent w/ [[KEEP|26-month]] developmental norms; stimulable to [[KEEP|min cues]] in structured imitation. Final consonant deletion present in [[KEEP|3 of 5]] trials on CVC targets in both languages. Fronting noted on /k/ → [t] in [[KEEP|2/5]] trials. No concerns for oral-motor structure or function; diadochokinetic rates WNL for age.
+
+Social/pragmatic: [[KEEP|mod cues]] needed to sustain turn-taking during ball rolling game; initiated joint attention [[KEEP|6/10]] opportunities, up from [[KEEP|3/10]] at initial eval. Gestural communication remains a strength; reliably combines point + vocalization to request, and uses a headshake "no" appropriately when offered a disliked snack.
+
+Birth history reviewed per parent report: born at [[KEEP|36 weeks]] gestation, birth weight [[KEEP|5 lb 8 oz]], Apgar [[KEEP|8/9]]. No NICU stay, no feeding concerns in infancy. Bilingual exposure since birth, w/ Spanish primary at home and increased English exposure at [[DAYCARE|Little Steps Daycare]] since [[DATE|August 2025]]. Hearing screening at [[HOSPITAL|Catawba Valley Medical Center]] on [[DATE|February 10, 2026]] documented WNL bilaterally.
+
+A:
+[[CHILD|Mateo]] continues to meet NC Infant-Toddler Program eligibility criteria for developmental delay in the expressive and receptive language domains, consistent w/ [[KEEP|ICD-10 F80.2]]. Progress is evident since the initial IFSP ([[DATE|March 3, 2026]]) in early word combinations, MLU, and joint attention, though standard scores remain in the delayed range across both languages assessed. Family's stated priorities align closely w/ continued focus on functional, two-language communication across home, daycare, and community settings. Per current evidence, family should not be counseled to reduce Spanish input; dual-language exposure supports rather than delays this presentation, and this was discussed directly w/ both parents through the interpreter today.
+
+Risk/context factors: limited extended family support available during the overnight shift at [[ORG|Carolina Poultry Processing]]; continued reliance on [[FAMILY|Elena Vargas]] for evening care should be monitored, and respite options should remain on the SC's radar given both parents' nonstandard hours.
+
+P:
+[[KEEP|Outcome 1]] (continued): [[CHILD|Mateo]] will use 2–3 word phrases to request, comment, and protest across 3 settings (home, daycare, therapy) with [[KEEP|min-mod cues]], measured by 80% of opportunities across 2 consecutive sessions. Strategies: expansion and recasting of child utterances in both languages during play; [[KEEP|Hanen]]-based "OWL" strategies (Observe, Wait, Listen) coached w/ Mom and Dad jointly during sessions; visual supports paired w/ a core-vocabulary board at home and daycare.
+
+[[KEEP|Outcome 2]] (new): [[CHILD|Mateo]] will reduce final consonant deletion on single-syllable CVC words to [[KEEP|2 of 10]] trials or fewer via structured, play-based drill in both languages, using [[KEEP|moderate cueing]] fading toward [[KEEP|minimal cueing]] over the IFSP period.
+
+[[KEEP|Outcome 3]] (continued): Family will report increased confidence supporting bilingual communication at home; SC and SLP will provide a bilingual handout and coach Mom and Dad 1x/month during a co-treatment visit scheduled around Mom's night shift.
+
+Services: Direct SLP treatment 2x/wk, [[KEEP|30 min]] sessions, in-home, bilingual delivery, through [[AGENCY|Western Piedmont CDSA]] contract provider [[EMPLOYER|Piedmont Pediatric Therapy Services]]. Service coordination monthly via [[PROVIDER|Jennifer Osei]]. Interpreter [[PROVIDER|Carmen Reyes]] to join 1x/month co-treatment visits and all formal reviews. Family also referred for WIC renewal through [[AGENCY|Catawba County WIC]] (due [[DATE|December 2026]]) and continued enrollment w/ [[AGENCY|Smart Start of Catawba County]] playgroup, both coordinated by [[PROVIDER|Jennifer Osei]].
+
+Next formal IFSP review scheduled [[DATE|April 9, 2027]]; interim phone check-in planned [[DATE|January 12, 2027]] at [[TIME|10:00 a.m.]] Family may reach the SLP directly at the clinic line [[PHONE|(828) 555-9040]] or SC [[PROVIDER|Jennifer Osei]] at [[PHONE|(828) 555-6213 ext. 4]].
+
+Signed: [[PROVIDER|Maria Fontes]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Therapy Services]]
+[[DATE|October 9, 2026]]

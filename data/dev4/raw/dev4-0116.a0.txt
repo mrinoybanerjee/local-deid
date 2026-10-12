@@ -1,0 +1,105 @@
+[X] Evaluation  [ ] Re-evaluation  [ ] Progress Note  [ ] Discharge Summary
+
+**[[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]**
+Speech-Language Pathology Evaluation Report
+
+Child's Name: [[CHILD|Sofía del Río]]
+Date of Birth: [[DATE|March 14, 2021]]   Chronological Age at Evaluation: [[KEEP|4;7]]
+Record #: [[ID|LD-2026-04471]]   Medicaid ID: [[MEDICAID_ID|804552391A]]
+Evaluation Dates: [[DATE|September 15, 2026]] and [[DATE|September 22, 2026]]
+Report Date: [[DATE|September 29, 2026]]
+Evaluating Clinician: [[PROVIDER|Elena Vásquez]], M.S., CCC-SLP (bilingual Spanish/English)
+Referring Provider: [[PROVIDER|Dr. Anil Patel]], pediatrician
+Address on File: [[PLACE|2214 Larkspur Lane]], [[PLACE|Greensboro]], [[PLACE|Guilford County]], NC [[PLACE|27405]]
+Clinic Phone: [[PHONE|(336) 555-0148]]   Clinic Email: [[EMAIL|evasquez@carolinapeds-slp.com]]
+
+Setting of Evaluation:
+[X] Home  [ ] Clinic  [ ] Daycare  [ ] School
+
+Primary Language Spoken in Home:
+[ ] English only  [ ] Spanish only  [X] Both English and Spanish
+
+Insurance Type:
+[ ] Private  [X] Medicaid  [ ] Both
+
+Referral Reason:
+[X] Parent concern  [X] Pediatrician concern  [X] Agency referral  [ ] School concern
+
+**Background and Referral**
+
+[[CHILD|Sofía]] is a [[KEEP|4;7]]-year-old girl who was referred for a comprehensive bilingual speech-language evaluation by her pediatrician, [[PROVIDER|Dr. Anil Patel]], following a well-child visit on [[DATE|August 3, 2026]] at which her mother, [[PARENT|Carla Beltrán-Soto]], expressed concern about [[CHILD|Sofía]]'s limited vocabulary and difficulty being understood by unfamiliar listeners in both English and Spanish. [[CHILD|Sofía]] was also referred internally through [[AGENCY|Piedmont CDSA]] after a routine developmental screening flagged delays in expressive language and articulation. The family's service coordinator, [[PROVIDER|Patricia Nguyen]], coordinated the referral and has remained the point of contact for IFSP-related scheduling.
+
+[[CHILD|Sofía]] currently attends [[DAYCARE|Little Sprouts Early Learning Center]] four days a week, where her teacher, Ms. [[TEACHER|Lopez]], reports that [[CHILD|Sofía]] is social but often gestures or points rather than using words to communicate her needs, and that other children in Ms. [[TEACHER|Lopez]]'s room sometimes finish her sentences for her. [[CHILD|Sofía]] has a close friend at daycare, [[PEER|Emma]], with whom she plays during free choice time, though Ms. [[TEACHER|Lopez]] notes that [[CHILD|Sofía]] tends to follow [[PEER|Emma]]'s lead rather than initiate play verbally.
+
+**Birth and Medical History**
+
+[[CHILD|Sofía]] was born at [[KEEP|38]] weeks gestation at [[HOSPITAL|Piedmont Triad Regional Hospital]] via uncomplicated vaginal delivery. Birth weight was [[KEEP|6 lbs 11 oz]], and Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. [[PARENT|Carla Beltrán-Soto]] reported no complications during pregnancy, though she noted mild gestational hypertension managed without medication. [[CHILD|Sofía]] was discharged home on day two of life and has met gross motor milestones within expected limits (sat independently at [[KEEP|6 months]], walked at [[KEEP|13 months]]).
+
+Medical history is significant for recurrent otitis media, with four documented episodes between [[KEEP|18]] and [[KEEP|30 months]] of age, two of which were treated with amoxicillin and two with azithromycin following allergic reaction concerns. [[CHILD|Sofía]] underwent bilateral myringotomy with tube placement on [[DATE|June 4, 2024]] at [[HOSPITAL|Piedmont Triad Regional Hospital]], performed by Dr. [[PROVIDER|Marcus Whitfield]], ENT. Tubes extruded naturally by age three with no further infections reported. Hearing was last screened on [[DATE|July 22, 2026]] and results were within normal limits bilaterally. Vision screening was also unremarkable. There is no reported history of seizure, head injury, or significant illness requiring hospitalization beyond the tube placement. Current ICD-10 diagnosis under consideration is [[KEEP|F80.2]] (mixed receptive-expressive language disorder); today's visit was billed under CPT [[KEEP|92523]].
+
+**Family and Language History**
+
+[[CHILD|Sofía]] lives with her mother, [[PARENT|Carla Beltrán-Soto]]; her father, [[PARENT|Luis del Río]]; and her older sister, [[SIBLING|Camila del Río]], age [[KEEP|7]], who is reportedly a strong talker in both languages and sometimes speaks for [[CHILD|Sofía]] at home. [[PARENT|Carla Beltrán-Soto]] works days in the cut-and-sew department at [[ORG|Carolina Furniture Works]] and works three overnight shifts per week as a CNA, a second job she took on last year to help cover household expenses. [[PARENT|Luis del Río]] works in residential construction and is often away from early morning until evening. Given both parents' demanding schedules, [[CHILD|Sofía]]'s paternal grandmother, [[FAMILY|Rosa Beltrán]], provides afternoon and evening childcare several days a week and reports that [[CHILD|Sofía]] primarily uses Spanish with her, though she understands simple English directions.
+
+The household is bilingual, with Spanish spoken predominantly by [[PARENT|Luis del Río]] and [[FAMILY|Rosa Beltrán]], and a mix of English and Spanish spoken by [[PARENT|Carla Beltrán-Soto]], who was raised in [[PLACE|Winston-Salem]] in a bilingual home herself. [[PARENT|Carla Beltrán-Soto]] reported that [[CHILD|Sofía]]'s first words emerged around [[KEEP|22 months]], later than her sister's first words at roughly [[KEEP|12 months]]. Early intervention services through [[AGENCY|Early Head Start]] began at age two following a referral from the family's [[AGENCY|WIC]] nutritionist, who noted feeding and language concerns during a routine visit. The family has also received support connecting to resources through [[AGENCY|Guilford County Smart Start]] and has an open case with [[AGENCY|Guilford County DSS]] related to a prior housing assistance application; [[PARENT|Carla Beltrán-Soto]] noted this has sometimes created scheduling conflicts with therapy appointments.
+
+The family's apartment complex manager, [[PERSON|Mr. Dale Thompson]], was mentioned by [[PARENT|Carla Beltrán-Soto]] as having commented that [[CHILD|Sofía]] seems "quieter than other kids her age" in the shared courtyard, which the mother found validating of her own concerns. The family's dog, [[PET|Luna]], is a frequent subject of [[CHILD|Sofía]]'s gestures and vocalizations at home; [[PARENT|Carla Beltrán-Soto]] reported that [[CHILD|Sofía]] will point at the back door and say "[[KEEP|Luna fuera]]" when she wants the dog let outside, one of her more consistent two-word combinations.
+
+**Assessment Procedures**
+
+Testing was conducted across two sessions in the home setting, with portions administered in English and portions in Spanish per standardized bilingual protocols, using parallel forms where available. [[CHILD|Sofía]] separated easily from her mother during both sessions and engaged readily with toys and picture materials. Rapport was established quickly, and behavior during testing was judged to be representative of her typical functioning, per parent report.
+
+**Standardized Test Results**
+
+| Test/Subtest | Date | Score Type | Score | Percentile | 95% CI |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] Auditory Comprehension | [[DATE|09/15/2026]] | Standard Score | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|73-85]] |
+| [[KEEP|PLS-5]] Expressive Communication | [[DATE|09/15/2026]] | Standard Score | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|70-82]] |
+| [[KEEP|PLS-5]] Total Language Score | [[DATE|09/15/2026]] | Standard Score | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|71-81]] |
+| [[KEEP|CELF-5 Preschool-2]] Sentence Structure | [[DATE|09/22/2026]] | Scaled Score | [[KEEP|7]] | [[KEEP|16th]] | [[KEEP|5-9]] |
+| [[KEEP|CELF-5 Preschool-2]] Word Structure | [[DATE|09/22/2026]] | Scaled Score | [[KEEP|6]] | [[KEEP|9th]] | [[KEEP|4-8]] |
+| [[KEEP|Goldman-Fristoe 3]] Sounds-in-Words | [[DATE|09/22/2026]] | Standard Score | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|64-76]] |
+
+Age equivalents derived from the [[KEEP|PLS-5]] fell between [[KEEP|2;6–3;0]] for both receptive and expressive domains, reflecting a gap of approximately [[KEEP|18-24 months]] relative to chronological age.
+
+**Auditory Comprehension / Receptive Language**
+
+On the [[KEEP|PLS-5]] Auditory Comprehension subtest, [[CHILD|Sofía]] followed [[KEEP|2-step]] directions inconsistently ([[KEEP|3 of 5]] trials) and demonstrated understanding of basic spatial concepts (in, on, under) but struggled with more complex concepts such as "behind" and "between." She identified [[KEEP|8/10]] common objects by function in Spanish but only [[KEEP|6/10]] in English, suggesting somewhat stronger receptive skills in her home language. She demonstrated emerging understanding of early wh-questions ("what" and "where") but inconsistent responses to "why" and "how" questions across both languages.
+
+**Expressive Language**
+
+Expressively, [[CHILD|Sofía]]'s utterances were primarily [[KEEP|1-2 word]] combinations, with occasional [[KEEP|3-word]] utterances noted during play-based sampling (e.g., "[[KEEP|mamá no aquí]]"). Mean length of utterance was calculated at [[KEEP|1.8 morphemes]] in Spanish and [[KEEP|1.4 morphemes]] in English, both well below expectations for her age. She used a limited range of grammatical morphemes, omitting plural markers and verb tense markers in both languages. During a structured naming task, [[CHILD|Sofía]] labeled [[KEEP|9/20]] pictured items correctly across both languages combined, frequently substituting gestures or approximations (e.g., pointing and saying "[[KEEP|eso]]" for unfamiliar items).
+
+**Speech Sound Production**
+
+Articulation testing via the [[KEEP|Goldman-Fristoe 3]] revealed multiple sound errors affecting intelligibility, including final consonant deletion, cluster reduction, and fronting of velars. [[CHILD|Sofía]] produced "[[KEEP|tat]]" for the target word "[[KEEP|cat]]" and "[[KEEP|poon]]" for "[[KEEP|spoon]]," consistent with cluster reduction and stopping patterns typical of younger children. She demonstrated stimulability for /[[KEEP|k]]/ in isolation with [[KEEP|mod cues]] but was unable to produce it consistently in words. The phoneme /[[KEEP|ɾ]]/, present in Spanish words such as "[[KEEP|pero]]," was inconsistently produced, sometimes realized as [[KEEP|[d]]]. Overall intelligibility in connected speech was estimated at approximately [[KEEP|40%]] to unfamiliar listeners and [[KEEP|65%]] to familiar listeners, per both clinician judgment and parent report.
+
+**Oral Mechanism and Social Communication**
+
+Oral mechanism examination was within normal limits for structure and function, with adequate range of motion for speech production. No signs of dysarthria or apraxia were observed, though a mild oral-motor coordination weakness was noted and will continue to be monitored. Socially, [[CHILD|Sofía]] demonstrated appropriate eye contact, joint attention, and turn-taking during play, and she used gestures and vocalizations purposefully to communicate wants and needs, suggesting pragmatic skills are a relative strength.
+
+**Impressions**
+
+Results of this evaluation indicate a moderate mixed receptive-expressive language disorder affecting both English and Spanish, consistent with a primary language impairment rather than a language difference attributable solely to bilingual exposure, given that delays are present across both languages relative to same-age bilingual peers. [[CHILD|Sofía]] also presents with a moderate speech sound disorder characterized by multiple phonological process errors that significantly reduce intelligibility, particularly to unfamiliar listeners such as classroom staff at [[DAYCARE|Little Sprouts Early Learning Center]]. Her history of recurrent otitis media is a likely contributing factor to early language delay, though current hearing status is within normal limits and should not be considered an active barrier to progress.
+
+[[CHILD|Sofía]]'s relative strengths in social communication, joint attention, and nonverbal communication are encouraging prognostic indicators. Her family's strong engagement, bilingual home environment, and existing connections with [[AGENCY|Piedmont CDSA]], [[AGENCY|Early Head Start]], and [[AGENCY|Guilford County Smart Start]] provide a solid foundation for continued intervention.
+
+**Recommendations**
+
+1. [[CHILD|Sofía]] qualifies for ongoing speech-language intervention under her IFSP, Outcome [[KEEP|2]] and Outcome [[KEEP|3]], targeting expressive vocabulary growth and speech sound intelligibility.
+2. Individual therapy twice weekly, [[KEEP|30 minutes]] per session, delivered bilingually, focusing on core vocabulary expansion, early morphosyntax (plurals, present progressive -ing), and phonological awareness activities.
+3. Incorporate a [[KEEP|Hanen]]-based coaching model for [[PARENT|Carla Beltrán-Soto]] and [[PARENT|Luis del Río]] to support language facilitation strategies during daily routines, given their limited availability for in-person sessions due to work schedules.
+4. Target phonological processes using a [[KEEP|Cycles]] approach, prioritizing final consonant deletion and cluster reduction, with ongoing stimulability work for /[[KEEP|k]]/ and /[[KEEP|ɾ]]/.
+5. Collaborate with Ms. [[TEACHER|Lopez]] at [[DAYCARE|Little Sprouts Early Learning Center]] to implement visual supports and simplified language models within the classroom setting, including strategies for supporting [[CHILD|Sofía]]'s interactions with peers such as [[PEER|Emma]].
+6. Coordinate with service coordinator [[PROVIDER|Patricia Nguyen]] regarding continued eligibility and transition planning as [[CHILD|Sofía]] approaches her third birthday transition timeline from [[AGENCY|Piedmont CDSA]] services.
+7. Re-screen hearing in [[KEEP|6 months]] given history of recurrent otitis media, and refer back to Dr. [[PROVIDER|Marcus Whitfield]] if any signs of middle ear dysfunction recur.
+8. Re-evaluate standardized language and articulation scores in approximately [[KEEP|12 months]] to monitor progress and adjust the treatment plan accordingly.
+9. Encourage continued bilingual input at home; research consistently supports dual-language exposure for children with language disorders, and there is no indication that reducing Spanish input would benefit [[CHILD|Sofía]]'s English development.
+
+This evaluation and these recommendations were discussed with [[PARENT|Carla Beltrán-Soto]] at the conclusion of testing on [[DATE|September 22, 2026]]. A written copy of this report will be provided to the family and, with consent, shared with [[AGENCY|Piedmont CDSA]], [[DAYCARE|Little Sprouts Early Learning Center]], and Dr. [[PROVIDER|Anil Patel]]'s office.
+
+Respectfully submitted,
+
+[[PROVIDER|Elena Vásquez]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]

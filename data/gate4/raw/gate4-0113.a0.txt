@@ -1,0 +1,31 @@
+Nota diaria / SOAP
+Service date: [[DATE|October 8, 2026]]
+Client: [[CHILD|Elena Solís]], age [[KEEP|4;2]]; record [[ID|SLP-604831]]; Medicaid [[MEDICAID_ID|704193862Q]].
+Clinician: [[PROVIDER|Marisol Vega]], bilingual pediatric SLP, [[EMPLOYER|Willow Lantern Speech]], North Carolina.
+Location: [[SCHOOL|Little Lantern Preschool]], [[PLACE|218 Lantern Lane]], [[PLACE|Willowbend]], North Carolina [[PLACE|27900]].
+
+S / Familia
+Su mamá [[PARENT|Irene Solís]] reported, “At [[TIME|7:15 a.m.]], she asked for breakfast en español.” Her brother [[SIBLING|Nico]] waited nearby. Abuela doña [[FAMILY|Lupe]] described practice with their dog [[PET|Miso]]. Father works at [[ORG|Lantern Loom Textiles]].
+
+O / Datos
+Measure	Standard score	Percentile	Confidence interval	Evaluation date
+[[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-85]]	[[DATE|September 24, 2026]]
+[[KEEP|PLS-5]] / [[KEEP|Expressive Communication]]	[[KEEP|81]]	[[KEEP|10th]]	[[KEEP|76-88]]	[[DATE|September 24, 2026]]
+
+Horario de servicios
+Day	Start	Stop	Location
+Thursday	[[TIME|9:05 a.m.]]	[[TIME|9:35 a.m.]]	[[SCHOOL|Little Lantern Preschool]]
+Tuesday	[[TIME|1:10 p.m.]]	[[TIME|1:40 p.m.]]	[[DAYCARE|Moonbasket Daycare]]
+
+Contactos
+Role	Name	Contact
+Teacher	Miss [[TEACHER|Ana]]	[[PHONE|919-555-0142]]
+Coordinator	[[PROVIDER|Rosa Beltrán]], [[AGENCY|Willowbend CDSA]]	[[EMAIL|rosa.beltran@example.org]]
+
+During shared play, [[CHILD|Elena]] produced "[[KEEP|quiero más]]" with [[KEEP|mod cues]] in [[KEEP|8/10]] opportunities. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]] using [[KEEP|Cycles]]. Peer [[PEER|Dalia]] modeled turn-taking. La maestra [[TEACHER|Carmen]] joined briefly; Mr. [[PERSON|Tom]] delivered classroom supplies. Child said, “[[PET|Miso]] run,” then independently produced "[[KEEP|corre]]".
+
+A / Impresión
+Participation improved when directions alternated languages. Comprehension exceeded spontaneous expression today; fatigue increased near [[TIME|9:30 a.m.]]. No new concerns were reported following the visit to [[HOSPITAL|Willowbend Children's Hospital]]. The family preferred brief play routines; clinician modeled pauses and accepted responses in either language. Visual choices supported engagement without requiring repeated imitation.
+
+P / Plan
+Continue [[KEEP|IFSP goal 2]] with [[KEEP|Hanen]] strategies and [[KEEP|min cues]]. Practice "[[KEEP|más agua]]" during meals. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; diagnosis [[KEEP|F80.2]]. Family handout: [[URL|https://willowlantern.example.org/practice]]. Next review: [[DATE|November 5, 2026]].

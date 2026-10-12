@@ -1,0 +1,43 @@
+DATOS DE LA SESIÓN
+
+- Synthetic training record; all people, organizations, locations, and identifiers are fictional.
+- Client: [[CHILD|Nicolás del Río-Serrano]], called [[CHILD|Nico]] at home; age [[KEEP|4;2]]. Service date: [[DATE|3 de marzo de 2025]]. DOB: [[DATE|01/03/2021]].
+- Clinician: [[PROVIDER|Elena Marín-Valdés]], bilingual pediatric speech-language pathologist, North Carolina; employer: [[EMPLOYER|Puentes de Voz Pediatric Therapy]].
+- Record: [[ID|PV-250303-046]]; Medicaid: [[MEDICAID_ID|729104683Q]]; authorization: [[ID|SLP-88216-B]].
+- Contact: mamá [[PARENT|Adela de la Cruz]], [[PHONE|(919) 555-0147]], [[EMAIL|adela.delacruz@example.com]]. Practice portal: [[URL|https://puentesdevoz.example.com]].
+
+HORARIO / SESSION SCHEDULE
+
+- Planned sessions support carryover across settings. Today's appointment ended as scheduled.
+
+  | Day / date | Start | Stop | Location |
+  |---|---|---|---|
+  | Monday, [[DATE|03/03/2025]] | [[TIME|9:10 a.m.]] | [[TIME|9:55 a.m.]] | [[DAYCARE|Semillitas del Viento]], [[PLACE|Lunavera]] |
+  | Wednesday, [[DATE|2025-03-05]] | [[TIME|10:00 a.m.]] | [[TIME|10:45 a.m.]] | [[SCHOOL|Brisa Nueva Elementary]], [[PLACE|4827 Laurel Comet Lane]] |
+  | Friday, [[DATE|03.07.2025]] | [[TIME|2:15 p.m.]] | [[TIME|3:00 p.m.]] | Home, [[PLACE|Cordelia Pines]], [[PLACE|27863]] |
+
+SUBJETIVO / LA FAMILIA CUENTA
+
+- Papá [[PARENT|Tomás Serrano]] reported, “En casa entiende más cuando hablamos despacio.” His workplace, [[ORG|Telar Azul Packaging]], changed his shift; grandmother [[FAMILY|Inés del Río]] will bring the child Wednesday.
+- Sister [[SIBLING|Lola Serrano]] joined the home practice demonstration. The child spontaneously said, “[[PET|Miga]] come aquí,” while describing the family's dog.
+- Teacher Ms. [[TEACHER|Vera Solís]] reported easier transitions when classmates [[PEER|Emilio Prado]] and [[PEER|Alma Vela]] model turn-taking.
+- Referral came through [[AGENCY|Agencia Comunitaria para el Desarrollo Infantil y el Acompañamiento Integral de Familias del Condado de Lunavera (ACDIAIF)]]. [[AGENCY|ACDIAIF]] coordinator [[PROVIDER|Rebeca Montes]] documented initial contact el [[DATE|martes 4 de junio de 2024]].
+
+OBJETIVO / LO QUE OBSERVAMOS
+
+- Prior evaluation dated [[DATE|2/14/2025]] included [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These historical results informed targets; no standardized testing occurred today.
+- Used [[KEEP|Hanen]] strategies during pretend cooking, then [[KEEP|Cycles]] practice for [[KEEP|/k/]]. Produced target "[[KEEP|casa]]" in [[KEEP|8/10]] trials with [[KEEP|mod cues]]; initial independent accuracy was [[KEEP|40%]].
+- Requested "[[KEEP|más agua]]" in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. During bilingual play, [[CHILD|Nico]] said "[[KEEP|quiero blue car]]"; clinician expanded to "[[KEEP|quiero el carro azul]]".
+- Observed substitution [[KEEP|[w]]] during English productions. Spanish [[KEEP|/ɾ/]] remained inconsistent. Language sample included [[KEEP|[EW]]] annotations. Practiced [[KEEP|IFSP outcome 2]] through requesting and shared attention.
+
+ANÁLISIS / IMPRESIÓN CLÍNICA
+
+- Engagement improved with familiar routines and visual choices. Accuracy increased with support; independent carryover remains emerging.
+- English and Spanish responses showed similar benefit from modeling. Today's sample does not establish a language dominance pattern.
+- Diagnoses: [[KEEP|F80.2]] and [[KEEP|F80.0]]. Skilled treatment remains appropriate for functional communication goals.
+
+PLAN / PRÓXIMOS PASOS
+
+- Continue weekly intervention. Coach caregivers to pause, model one phrase, and accept either language.
+- Review progress on [[DATE|03/21/2025]]. Share the practice sheet at pickup; obtain caregiver feedback next visit.
+- Billing: [[KEEP|92507]], modifier [[KEEP|GN]]. Signed by [[PROVIDER|Elena Marín-Valdés]] at [[TIME|11:20 a.m.]].

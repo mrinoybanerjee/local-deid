@@ -1,0 +1,120 @@
+PROGRAMA DE INFANTES Y NINOS PEQUENOS DE NORTH CAROLINA
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA: IFSP INICIAL
+
+Fecha del plan: [[DATE|18 de septiembre de 2026]].
+Periodo de servicios: [[DATE|21 de septiembre de 2026]] a [[DATE|20 de marzo de 2027]].
+Revision prevista: [[DATE|18 de diciembre de 2026]].
+Documento sintetico. Todos los datos personales, contactos, entidades locales y registros son ficticios.
+
+INFORMACION DEL NINO Y DE LA FAMILIA
+
+Nombre: [[CHILD|Nicolas de la Cruz-Pineda]], conocido en casa como [[CHILD|Nico]].
+Nacimiento: [[DATE|12 de julio de 2024]].
+Edad al establecer este plan: [[KEEP|26 meses]].
+Expediente: [[ID|ITP-684207]].
+Medicaid: [[MEDICAID_ID|684207193Q]].
+Autorizacion: [[ID|AUT-260918-452]].
+
+La madre, [[PARENT|Elena de la Cruz]], y el padre, [[PARENT|Rafael Ortega-Pineda]], comparten las decisiones y autorizan los servicios. Su hermana, [[SIBLING|Camila Ortega-Pineda]], participa en juegos familiares. La abuela materna, dona [[FAMILY|Lupe]], cuida al nino durante algunos turnos laborales. El perro [[PET|Biscocho]] forma parte de las rutinas del hogar.
+
+La familia vive en [[PLACE|427 Willow Basket Lane]], [[PLACE|Arroyo Sereno]], North Carolina, [[PLACE|28743]], condado de [[PLACE|Pino Claro]]. Telefono principal: [[PHONE|828-555-0146]]. Telefono alterno: [[PHONE|828-555-0172]]. Correo familiar: [[EMAIL|familia.cruzpineda@example.com]]. La familia prefiere llamadas en espanol y mensajes breves antes de visitas.
+
+EQUIPO Y OFICINA RESPONSABLE
+
+La coordinadora de servicios es [[PROVIDER|Teresa Molina]], de [[AGENCY|CDSA del Valle de Pinos]], con oficina en [[PLACE|85 Lantern Oak Drive]], [[PLACE|Arroyo Sereno]], North Carolina, [[PLACE|28743]]. Contacto: [[PHONE|828-555-0128]]; [[EMAIL|teresa.molina@example.com]].
+
+La autora es [[PROVIDER|Isabel Rivera-Soto]], patologa bilingue del habla y lenguaje pediatrica de [[EMPLOYER|Puentes Pequenos Speech Services]]. Contacto profesional: [[PHONE|828-555-0163]]; [[EMAIL|isabel.riverasoto@example.com]]. El portal informativo es [[URL|https://puentes-pequenos.example.com]].
+
+Participaron ambos padres, la abuela, la coordinadora y la clinica. La familia recibio explicaciones completas en espanol. No solicito interprete. El plan refleja observaciones compartidas y decisiones tomadas durante la reunion domiciliaria.
+
+RECURSOS, TRABAJO Y APOYOS
+
+La madre trabaja en la tienda [[ORG|Market River Lantern]]. El padre trabaja en la planta [[ORG|Plant Cedar Ribbon Foods]]. Estos nombres laborales estan registrados en ingles, con el tipo de establecimiento primero, siguiendo el orden usado por la familia en espanol. Los horarios cambian cada semana y pueden afectar la disponibilidad.
+
+La abuela tiene transporte para visitas cercanas. Un vecino, Mr. [[PERSON|Tom]], ofrece llevar a la familia cuando recibe aviso previo. La familia desea mantener su informacion clinica privada y compartir solamente instrucciones utiles con quienes apoyan las rutinas.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La madre, [[PARENT|Elena de la Cruz]], expresa: "Quiero entender lo que necesita antes de que se enoje. A veces dice [[KEEP|"awa"]] para pedir [[KEEP|"agua"]], pero otras veces me lleva de la mano. Me preocupa que parezca que no sabe cuando en realidad si quiere participar".
+
+El padre, [[PARENT|Rafael Ortega-Pineda]], expresa: "Mi prioridad es que pueda decir o mostrar cuando quiere ayuda. Cuando llego del trabajo quiero jugar con el sin convertir todo en una tarea. Quiero aprender que hacer y darle tiempo para responder".
+
+Dona [[FAMILY|Lupe]] expresa: "Quiero que la comida sea tranquila. Si puede escoger entre dos cosas, yo puedo esperar. Tambien quiero saber como ayudarlo cuando se frustra".
+
+La familia prioriza comunicacion funcional, participacion en comidas y juego compartido. Desea conservar el espanol como idioma principal del hogar e incluir palabras del ingles cuando aparezcan naturalmente en la guarderia.
+
+FORTALEZAS E INTERESES
+
+[[CHILD|Nico]] busca adultos conocidos, disfruta canciones con movimientos y anticipa juegos repetidos. Lleva objetos para mostrar y acepta turnos breves con apoyo. Le interesan camiones, burbujas, recipientes y el perro [[PET|Biscocho]]. La familia observa que aprende mejor cuando el adulto sigue su interes.
+
+Su hermana [[SIBLING|Camila Ortega-Pineda]] conoce sus juegos favoritos y ofrece modelos sencillos. La familia dispone de libros, juguetes y espacios seguros. Ambos padres quieren practicar estrategias durante actividades habituales. Los cuidadores identifican la espera, el ruido y los cambios inesperados como situaciones que requieren apoyo.
+
+RUTINAS DIARIAS Y ENTORNOS
+
+El dia comienza cerca de [[TIME|6:45 a. m.]]. Durante el desayuno, el nino suele elegir alimentos al mirar o alcanzar. El adulto interpreta sus gestos, pero a veces entrega el objeto antes de permitir una respuesta. Se practicara una pausa breve sin retirar alimentos necesarios.
+
+La llegada a [[DAYCARE|Guarderia Nidos del Arroyo]] ocurre alrededor de [[TIME|8:10 a. m.]]. Miss [[TEACHER|Ana]] recibe al grupo. La maestra [[TEACHER|Carmen]] acompana canciones, meriendas y juego libre. Los companeros [[PEER|Lia Moreno]] y [[PEER|Bruno Vega]] participan en juegos con bloques. Se ensayaran intercambios breves con materiales duplicados.
+
+La merienda familiar ocurre cerca de [[TIME|4:30 p. m.]]. El bano permite nombrar acciones y pedir ayuda. Antes de dormir, aproximadamente a [[TIME|8:00 p. m.]], la familia mira libros y canta. Los fines de semana incluyen visitas a la abuela y juego al aire libre. No se agregaran ejercicios que interrumpan estas rutinas.
+
+SALUD Y ANTECEDENTES
+
+Segun el resumen familiar, el nacimiento ocurrio a [[KEEP|39 semanas de gestacion]], con peso de [[KEEP|3,240 g]]. Se reportan puntuaciones Apgar de [[KEEP|8]] y [[KEEP|9]]. Estos antecedentes provienen del relato parental; no se reviso el expediente neonatal.
+
+La pediatra [[PROVIDER|Marina Solis]] atiende en [[HOSPITAL|Centro Pediatrico Hospitalario Roble Claro]]. La ultima consulta reportada fue [[DATE|2 de septiembre de 2026]]. La familia no refiere medicamentos actuales ni dificultades persistentes de deglucion. Se recomienda comunicar cambios auditivos, dolor o perdida de habilidades.
+
+El diagnostico consignado para los servicios de lenguaje es [[KEEP|F80.2]]. Este plan describe necesidades funcionales y apoyos familiares. La familia comprende que las observaciones del lenguaje no sustituyen una evaluacion medica.
+
+EVALUACION Y LINEA BASE
+
+La evaluacion se realizo el [[DATE|10 de septiembre de 2026]], mediante entrevista, observacion y [[KEEP|PLS-5 Spanish]]. En [[KEEP|Auditory Comprehension]], se obtuvo puntuacion estandar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-85]] y edad equivalente [[KEEP|1;9]]. En [[KEEP|Expressive Communication]], la puntuacion estandar fue [[KEEP|75]], percentil [[KEEP|5]], intervalo de confianza [[KEEP|70-83]] y edad equivalente [[KEEP|1;6]].
+
+La clinica considero el contexto bilingue y los informes familiares. Las puntuaciones se interpretan junto con la participacion cotidiana. La muestra incluyo [[KEEP|"ma"]], [[KEEP|"no"]] y [[KEEP|"awa"]]. Se registro una sustitucion con [[KEEP|[w]]] y produccion inconsistente de [[KEEP|/k/]]. La anotacion [[KEEP|[EW]]] se uso en la transcripcion con convenciones de [[KEEP|SALT]].
+
+En oportunidades naturales, el nino pidio mediante gesto o palabra en [[KEEP|3/10]], equivalente a [[KEEP|30%]], con [[KEEP|max cues]]. Siguio instrucciones familiares en [[KEEP|6/10]], equivalente a [[KEEP|60%]], con [[KEEP|mod cues]]. Estos datos orientan apoyos; no representan una medida permanente de capacidad.
+
+OTRAS AGENCIAS Y COORDINACION
+
+La familia recibe orientacion de [[AGENCY|DSS Senderos Familiares]] del condado de [[PLACE|Pino Claro]] y apoyo nutricional de [[AGENCY|WIC Canasta Sana]] del mismo condado de [[PLACE|Pino Claro]]. Tambien consulta actividades de [[AGENCY|Smart Start Puertas Abiertas]] del condado de [[PLACE|Pino Claro]].
+
+La coordinadora explorara disponibilidad en [[AGENCY|Early Head Start Semillas del Valle]], con sede en [[PLACE|Loma del Sauce]]. La familia autoriza compartir el resumen funcional con la guarderia y solicita revisar cada envio. No se entregaran expedientes completos sin autorizacion especifica. Los apoyos comunitarios complementaran las estrategias familiares y evitaran duplicar visitas.
+
+RESULTADO [[KEEP|1]]: PEDIR Y ELEGIR
+
+Para [[DATE|18 de diciembre de 2026]], [[CHILD|Nicolas]] comunicara una peticion o eleccion mediante gesto, imagen o palabra en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], durante comida y juego, con [[KEEP|min cues]].
+
+La familia ofrecera dos opciones visibles, nombrara cada una y esperara. Aceptara cualquier intento claro. Modelara [[KEEP|"agua"]], [[KEEP|"mas"]] y [[KEEP|"ayuda"]] sin exigir repeticion. La clinica demostrara expansion de mensajes y ajustara las opciones a lo que resulte util.
+
+Se usaran principios de [[KEEP|Hanen]] para seguir el interes y responder al mensaje. Si las imagenes facilitan la participacion, se probaran apoyos visuales antes de decidir sobre [[KEEP|PECS]]. La familia registrara ejemplos breves. Se considerara logrado cuando el criterio aparezca en ambas rutinas durante dos semanas consecutivas.
+
+RESULTADO [[KEEP|2]]: PARTICIPAR EN RUTINAS COMPARTIDAS
+
+Para [[DATE|18 de diciembre de 2026]], [[CHILD|Nico]] seguira una instruccion funcional y completara un turno compartido en [[KEEP|4/5]] oportunidades, equivalente a [[KEEP|80%]], durante libros, limpieza de juguetes o canciones, con [[KEEP|min cues]].
+
+Los adultos diran una instruccion breve, acompanaran con gesto y permitiran tiempo de respuesta. Practicaran [[KEEP|"dame"]], [[KEEP|"pon aqui"]] y [[KEEP|"mi turno"]] con objetos presentes. Reduciran preguntas repetidas y ofreceran modelos durante la accion.
+
+La maestra [[TEACHER|Carmen]] seleccionara una actividad grupal predecible. [[PEER|Bruno Vega]] podra compartir materiales cuando ambos ninos quieran participar. La clinica observara si el apoyo visual mejora la comprension. Se anotaran contexto, respuesta y ayuda utilizada. La familia y la guarderia revisaran ejemplos durante las visitas, sin comparar el rendimiento con otros ninos.
+
+RESULTADO [[KEEP|3]]: REDUCIR FRUSTRACION MEDIANTE COMUNICACION
+
+Para [[DATE|18 de diciembre de 2026]], los cuidadores identificaran la necesidad y ofreceran una alternativa comunicativa en [[KEEP|4/5]] situaciones de frustracion, equivalente a [[KEEP|80%]]. El nino usara gesto, imagen o [[KEEP|"ayuda"]] antes de abandonar la actividad, con [[KEEP|mod cues]].
+
+El adulto describira lo que ocurre, ofrecera ayuda y evitara prolongar la espera cuando exista malestar. Podra modelar [[KEEP|"abre"]], [[KEEP|"terminado"]] o [[KEEP|"otra vez"]]. La respuesta del nino se aceptara sin exigir una forma oral.
+
+Dona [[FAMILY|Lupe]] practicara estas estrategias durante merienda y vestido. La clinica revisara barreras sensoriales y demandas del entorno. La familia registrara que apoyo funciono. El objetivo busca acceso a la comunicacion; no exige eliminar todas las expresiones de enojo ni retrasar consuelo.
+
+SERVICIOS Y FECHAS
+
+La terapia del habla y lenguaje comenzara el [[DATE|21 de septiembre de 2026]], con una visita semanal de cuarenta y cinco minutos en el hogar o la guarderia. Finalizara este periodo el [[DATE|20 de marzo de 2027]]. La familia participara mediante observacion, practica y comentarios.
+
+La evaluacion corresponde a [[KEEP|92523]]. Las sesiones de tratamiento corresponden a [[KEEP|92507]], con modificador [[KEEP|GN]] cuando corresponda a la facturacion autorizada. La coordinacion tendra contacto mensual y visitas adicionales segun necesidad familiar.
+
+La coordinadora confirmara horarios, transporte y autorizaciones antes del inicio. Las ausencias se reprogramaran segun disponibilidad. La clinica documentara estrategias usadas, participacion y progreso hacia cada resultado.
+
+REVISION Y ACUERDO FAMILIAR
+
+La revision del [[DATE|18 de diciembre de 2026]] comparara los datos con las lineas base y las prioridades familiares. El equipo ajustara apoyos si las rutinas cambian. La familia puede solicitar una revision antes de esa fecha.
+
+Ambos padres expresan acuerdo con los resultados y los lugares de servicio. Recibieron informacion en espanol sobre consentimiento, privacidad y participacion voluntaria. La coordinadora entregara una copia y confirmara que los contactos sean correctos.
+
+Redactado por [[PROVIDER|Isabel Rivera-Soto]], patologa bilingue del habla y lenguaje pediatrica, el [[DATE|18 de septiembre de 2026]].

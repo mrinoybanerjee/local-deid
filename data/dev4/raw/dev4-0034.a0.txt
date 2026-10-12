@@ -1,0 +1,106 @@
+---
+
+**North Carolina Infant-Toddler Program**
+**Individualized Family Service Plan (IFSP) — Annual Review**
+
+CDSA Office: [[AGENCY|Foothills CDSA]], [[PLACE|2201 Tate Boulevard SE, Suite 110]], [[PLACE|Hickory]], NC [[PLACE|28602]]
+Record/Case ID: [[ID|CDSA-2026-01184]]
+Medicaid ID: [[MEDICAID_ID|804213567B]]
+Review Meeting Date: [[DATE|October 6, 2026]]
+Original IFSP Date: [[DATE|April 22, 2026]]
+
+**1. Child and Family Information**
+
+Child: [[CHILD|Mateo Hernández Cruz]]
+Date of Birth: [[DATE|February 14, 2024]] (chronological age at this review: [[KEEP|2;8]])
+Primary language(s) in the home: Spanish (primary), English (secondary)
+
+Parents: [[PARENT|Lucía Rodríguez Martínez]] (mother) and [[PARENT|Carlos Hernández Pérez]] (father)
+Home address: [[PLACE|1420 Catawba Ridge Lane]], [[PLACE|Hickory]], NC [[PLACE|28601]]
+
+Siblings: [[SIBLING|Sol Hernández Rodríguez]], age 5, attends kindergarten at [[SCHOOL|Oakwood Elementary School]]
+
+Other household members: [[FAMILY|Rosario Cruz Martínez]] (maternal grandmother, "[[CHILD|Mateo]]'s abuela"), who lives in the home and provides childcare on weekday mornings while [[PARENT|Lucía Rodríguez Martínez]] works a split shift at a local poultry processing plant and [[PARENT|Carlos Hernández Pérez]] works nights at [[ORG|Case Farms Processing]].
+
+[[PARENT|Lucía Rodríguez Martínez]] was born in [[PLACE|Aldea El Rosario]], a small village in the Copán region of Honduras, and moved to the United States nine years ago. Extended family, including [[CHILD|Mateo]]'s maternal aunt, still live in [[PLACE|Aldea El Rosario]], and the family travels there most summers to visit.
+
+**Contacts**
+
+Name	Role	Phone	Email
+[[PARENT|Lucía Rodríguez Martínez]]	Mother	[[PHONE|828-555-0142]]	[[EMAIL|lucia.rodriguez84@gmail.com]]
+[[PARENT|Carlos Hernández Pérez]]	Father	[[PHONE|828-555-0142]]	—
+[[PROVIDER|Jennifer Álvarez]]	Service Coordinator, [[AGENCY|Foothills CDSA]]	[[PHONE|828-555-0199]]	[[EMAIL|jennifer.alvarez@foothillscdsa.org]]
+[[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]]	Speech-Language Pathologist, [[EMPLOYER|Carolina Pediatric Therapy Partners]]	[[PHONE|704-555-0187]]	[[EMAIL|mariana.ortiz@carolinapedstherapy.com]]
+[[PROVIDER|Dana Kim, PT]]	Physical Therapist	[[PHONE|828-555-0233]]	—
+[[PROVIDER|Brian Walsh, OTR/L]]	Occupational Therapist	[[PHONE|828-555-0241]]	—
+[[PROVIDER|Aisha Thompson]], MD	Pediatrician, [[AGENCY|Foothills CDSA]] referral	[[PHONE|828-555-0260]]	—
+
+**2. Family Concerns, Priorities, and Resources**
+
+As stated by [[PARENT|Lucía Rodríguez Martínez]] (spoken in Spanish, translated and recorded by [[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]] with [[PROVIDER|Jennifer Álvarez]] present):
+
+"My biggest worry is that [[CHILD|Mateo]] doesn't talk like other kids his age. He points and he grunts, but he only has maybe ten words, and half of those only his sister [[SIBLING|Sol]] understands. [[SIBLING|Sol]] talked so much by this age, and she helps him a lot, but I don't want him to depend on her to speak for him forever. My mother, [[FAMILY|Rosario]], watches him in the mornings and she worries too. We want him ready for preschool next year, and we want him to be able to tell us when something hurts, or when he's scared."
+
+[[PARENT|Carlos Hernández Pérez]] added, through [[PROVIDER|Jennifer Álvarez]] interpreting during an evening call: "I work nights, so I don't see the therapy sessions much, but my wife tells me everything. I want to understand the home exercises so I can do them with him on weekends."
+
+Family priorities for this review period:
+1. Increase [[CHILD|Mateo]]'s expressive vocabulary and intelligibility so unfamiliar listeners can understand him.
+2. Support the transition to a preschool classroom at [[DAYCARE|Sunshine Steps Early Learning Center]] in fall 2027.
+3. Coach both parents and [[FAMILY|Rosario Cruz Martínez]] in consistent strategies across home, school, and therapy settings.
+4. Continue Medicaid coverage and WIC nutrition support without interruption.
+
+**3. Daily Routines**
+
+Weekday mornings, [[CHILD|Mateo]] wakes around [[TIME|6:30 AM]] and eats breakfast with [[SIBLING|Sol]] and [[FAMILY|Rosario Cruz Martínez]] before [[PARENT|Lucía Rodríguez Martínez]] leaves for work. [[FAMILY|Rosario]] walks him to [[DAYCARE|Sunshine Steps Early Learning Center]] by [[TIME|8:15 AM]], where his teacher, [[TEACHER|Keisha Lopez]], reports he engages well with peers during free play but becomes frustrated and bites when he cannot make a request understood. Afternoons include a nap, snack, and outdoor play; [[PARENT|Lucía Rodríguez Martínez]] picks him up around [[TIME|4:00 PM]]. Evenings are family dinner together, bath, and a bedtime story that [[SIBLING|Sol]] "reads" to him from memory. [[PARENT|Carlos Hernández Pérez]] is present for bedtime most nights before his shift.
+
+**4. Present Levels of Development (Speech-Language)**
+
+Evaluation date: [[DATE|September 15, 2026]]
+Evaluator: [[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]]
+
+Test	Domain	Score	Percentile/Range
+[[KEEP|Rossetti Infant-Toddler Language Scale]]	[[KEEP|Interaction-Attachment]]	[[KEEP|Age Range 12-15 months]]	—
+[[KEEP|Rossetti Infant-Toddler Language Scale]]	[[KEEP|Receptive Language]]	[[KEEP|Age Range 10-12 months]]	—
+[[KEEP|Goldman-Fristoe Test of Articulation-3]]	[[KEEP|Sounds-in-Words]]	[[KEEP|Standard Score 68]]	[[KEEP|2nd percentile]]
+[[KEEP|Bayley Scales of Infant and Toddler Development-4th Edition]]	[[KEEP|Expressive Communication]]	[[KEEP|Scaled Score 5]]	[[KEEP|5th percentile]]
+[[KEEP|Bayley Scales of Infant and Toddler Development-4th Edition]]	[[KEEP|Receptive Communication]]	[[KEEP|Scaled Score 6]]	[[KEEP|9th percentile]]
+[[KEEP|Peabody Picture Vocabulary Test-5]]	[[KEEP|Receptive Vocabulary]]	[[KEEP|Standard Score 71]]	[[KEEP|3rd percentile]]
+
+[[CHILD|Mateo]] presents with expressive language and speech sound production significantly below age expectations in both Spanish and English, with relative strength in nonverbal problem-solving per [[KEEP|Bayley Scales of Infant and Toddler Development-4th Edition]] Cognitive domain ([[KEEP|Scaled Score 9]], [[KEEP|37th percentile]]). His phonetic inventory is limited to bilabials and a few alveolars; he substitutes [[KEEP|[d]]] for [[KEEP|/t/]] and omits final consonants (e.g., "[[KEEP|ba]]" for "[[KEEP|bath]]"). During the picture-naming task, [[CHILD|Mateo]] produced the target word [[KEEP|"sol"]] (Spanish for "sun") with [[KEEP|moderate cues]], approximating it as [[KEEP|[so]]]; this was scored as an attempt, not a word match, and is unrelated to any person's name within the family. He imitated single words with [[KEEP|min-mod cues]] roughly [[KEEP|4 of 10]] trials and showed emerging two-word combinations in Spanish only ("[[KEEP|más agua]]"). Suspected diagnosis under review: [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder). Service billed under CPT [[KEEP|92523]].
+
+**5. Other Agencies Involved**
+
+The family receives nutrition support through [[AGENCY|Catawba County WIC]] and has an open case with [[AGENCY|Catawba County Department of Social Services]] for a childcare subsidy. [[AGENCY|Smart Start of Catawba County]] funds a portion of [[CHILD|Mateo]]'s tuition at [[DAYCARE|Sunshine Steps Early Learning Center]]. [[PROVIDER|Jennifer Álvarez]] coordinates quarterly check-ins across these agencies and [[AGENCY|Foothills CDSA]].
+
+**6. Outcomes and Strategies**
+
+[[KEEP|Outcome 1]]: [[CHILD|Mateo]] will use 50 or more single words functionally across home and daycare settings within six months, as reported by [[PARENT|Lucía Rodríguez Martínez]] and [[TEACHER|Keisha Lopez]].
+Strategies: Weekly direct therapy using [[KEEP|Hanen]] "[[KEEP|It Takes Two to Talk]]" coaching principles with [[PARENT|Lucía Rodríguez Martínez]] and [[FAMILY|Rosario Cruz Martínez]] present; modeling expansion and self-talk during daily routines; home log of new words shared with [[TEACHER|Keisha Lopez]] weekly.
+
+[[KEEP|Outcome 2]]: [[CHILD|Mateo]] will produce final consonants in single words with [[KEEP|no more than moderate cues]] in 8 of 10 opportunities.
+Strategies: [[KEEP|PROMPT]]-based tactile-kinesthetic cueing during 1:1 sessions; home practice sheet reviewed with [[PARENT|Carlos Hernández Pérez]] on weekends; introduce [[KEEP|Cycles]] phonological approach targeting final consonant deletion as the first pattern.
+
+[[KEEP|Outcome 3]]: [[CHILD|Mateo]] will use a backup visual system to reduce frustration-related biting at daycare within three months.
+Strategies: Introduce core-vocabulary picture cards modeled on [[KEEP|PECS]] Phase 1 for requesting; [[TEACHER|Keisha Lopez]] trained to prompt card use during free play; data collected daily by [[DAYCARE|Sunshine Steps Early Learning Center]] staff and reviewed biweekly by [[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]].
+
+[[KEEP|Outcome 4]]: [[CHILD|Mateo]] will increase vowel accuracy and syllable shape variety to support later multisyllabic word attempts.
+Strategies: [[KEEP|Kaufman]] Speech to Language Protocol hierarchy for motor-planning practice, beginning with reduplicated syllables before moving to true words; coordinate with [[PROVIDER|Brian Walsh, OTR/L]] regarding oral-motor tone findings noted during his evaluation.
+
+**7. Session Schedule**
+
+Day	Start	End	Location
+Monday	[[TIME|9:00 AM]]	[[TIME|9:45 AM]]	[[DAYCARE|Sunshine Steps Early Learning Center]], [[PLACE|Hickory]], NC
+Wednesday	[[TIME|10:15 AM]]	[[TIME|11:00 AM]]	Family home, [[PLACE|1420 Catawba Ridge Lane]], [[PLACE|Hickory]], NC
+Friday	[[TIME|1:30 PM]]	[[TIME|2:15 PM]]	[[EMPLOYER|Carolina Pediatric Therapy Partners]] clinic, [[PLACE|Hickory]], NC
+
+PT and OT co-treat occurs on alternating Wednesdays from [[TIME|11:00 AM]] to [[TIME|11:30 AM]] at the family home.
+
+**8. Team Summary and Signatures**
+
+The team, including [[PROVIDER|Jennifer Álvarez]], [[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]], [[PROVIDER|Dana Kim, PT]], [[PROVIDER|Brian Walsh, OTR/L]], and both parents, agreed the outcomes above remain appropriate with the strategy additions noted. [[PARENT|Lucía Rodríguez Martínez]] confirmed she understands the home program in Spanish and will continue the WIC and DSS appointments without change. Next review scheduled for [[DATE|April 6, 2027]].
+
+Signatures:
+[[PARENT|Lucía Rodríguez Martínez]], Parent — Date: [[DATE|October 6, 2026]]
+[[PARENT|Carlos Hernández Pérez]], Parent — Date: [[DATE|October 6, 2026]]
+[[PROVIDER|Jennifer Álvarez]], Service Coordinator — Date: [[DATE|October 6, 2026]]
+[[PROVIDER|Mariana Ortiz, M.S., CCC-SLP]], Speech-Language Pathologist — Date: [[DATE|October 6, 2026]]

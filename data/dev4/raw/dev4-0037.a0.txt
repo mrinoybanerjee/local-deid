@@ -1,0 +1,28 @@
+Patient Name: [[CHILD|Lucas Fernández]]
+DOB: [[DATE|04/18/2021]]
+Medicaid ID: [[MEDICAID_ID|7734521098B]]
+Case ID: [[ID|CDSA-00482]]
+Service Date: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Provider: [[PROVIDER|Marisol Ibarra]], M.S., CCC-SLP
+Employer: [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Interpreter: [[PROVIDER|J. Ortiz]]
+CPT Codes: [[KEEP|92507]], [[KEEP|92523]]
+ICD-10: [[KEEP|F80.2]]
+
+S: Mother, [[PARENT|Elena Fernández]], reports [[CHILD|Lucas]] has been practicing sounds at home and at [[AGENCY|Smart Start of Wake County]]'s playgroup. She shared that [[CHILD|Lucas]]'s older sister, [[SIBLING|Camila]], has been modeling words for him, and that [[FAMILY|his abuela]] watches him on Tuesdays while mom volunteers at [[ORG|Iglesia Bautista Nueva Vida]]'s food pantry. Family also uses the story-time program at [[PLACE|Garner Branch Library]] on Saturdays.
+
+O: [[CHILD|Lucas]] ([[KEEP|4;2]]) participated in a 45-minute individual session targeting articulation and expressive language. Administered subtest from [[KEEP|CELF-5]], [[KEEP|Expressive Vocabulary]] subtest, [[KEEP|standard score 76]], [[KEEP|percentile 5]], [[KEEP|95% CI 70-82]]. Comparison scores reviewed in table below:
+
+| Date | Test | Score | CI |
+|------|------|-------|-----|
+| [[DATE|07/14/2026]] | [[KEEP|CELF-5]] | [[KEEP|73]] | [[KEEP|68-78]] |
+| [[DATE|10/09/2026]] | [[KEEP|CELF-5]] | [[KEEP|76]] | [[KEEP|70-82]] |
+
+[[CHILD|Lucas]] produced target /k/ in word-initial position with [[KEEP|min cues]], achieving [[KEEP|8/10]] ([[KEEP|80%]]) accuracy, improved from [[KEEP|6/10]] last session. He imitated "[[KEEP|cat]]" and "[[KEEP|cup]]" correctly but substituted [t] for /k/ in "[[KEEP|key]]" ([[KEEP|3 of 5]] trials). Peer model [[PEER|Noah]] from the classroom was referenced by [[CHILD|Lucas]] spontaneously ("[[CHILD|Lucas]] and [[PEER|Noah]] play ball").
+
+Teacher [[TEACHER|Ms. Whitaker]] at [[DAYCARE|Little Sprouts Early Learning Center]] sent a note indicating continued peer interaction gains. Service coordinator [[PROVIDER|Tasha Byrd]] confirmed IFSP outcome 2 remains in progress.
+
+A: [[CHILD|Lucas]] demonstrates slow but steady progress toward [[KEEP|/k/]] and [[KEEP|/g/]] production goals using [[KEEP|Cycles]] approach. Family engagement remains strong per mother's report.
+
+P: Continue biweekly sessions targeting [[KEEP|/k/, /g/]] in CVC words using [[KEEP|PROMPT]] cueing. Recommend home practice using [[KEEP|Hanen]] strategies. Follow-up IFSP review scheduled [[DATE|December 3, 2026]]. Contact clinic at [[PHONE|(919) 555-0187]] or [[EMAIL|intake@carolinapedspeech.com]] with questions.

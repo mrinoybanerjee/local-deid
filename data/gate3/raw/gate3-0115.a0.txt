@@ -1,0 +1,25 @@
+IDENTIFICACIÓN Y SESIÓN
+- Documento ficticio. Cliente: [[CHILD|Elio Marvén]], edad [[KEEP|4;2]]. Servicio: [[DATE|October 8, 2026]], de [[TIME|9:10 a.m.]] a [[TIME|9:55 a.m.]], North Carolina.
+- Terapeuta bilingüe: [[PROVIDER|Nadia Solvera]], SLP, de [[EMPLOYER|Brisa Clara Pediatric Speech]]. Expediente [[ID|NC-482716]]; Medicaid [[MEDICAID_ID|583920174Q]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+SUBJETIVO / LO QUE CUENTA LA FAMILIA
+- Su mamá [[PARENT|Inés Marvén]] informó: “Ya pide ayuda en español, pero cuando está cansado cambia al inglés.” Su papá [[PARENT|Darío Marvén]] confirmó práctica diaria durante juegos.
+- La abuela [[FAMILY|Celia Orenzo]] visita desde [[PLACE|Calle Jacaranda 28]], [[PLACE|Santa Lumbre]], Guatemala. La familia vive en [[PLACE|417 Willow Lantern Lane]], [[PLACE|Bellhaven]], NC [[PLACE|27589]].
+- Contacto: [[PHONE|919-555-0147]]; [[EMAIL|ines.marven@example.com]]. Recursos familiares: [[URL|https://brisa-clara.example/familias]]. El vecino [[PERSON|Tomás Velandra]] facilita transporte cuando los padres trabajan.
+- La madre trabaja en [[ORG|Alborada Textiles]]. La familia recibe coordinación de [[AGENCY|Piedraluz CDSA]] y seguimiento pediátrico en [[HOSPITAL|Loma Serena Children’s Hospital]] con la Dra. [[PROVIDER|Vera Alcenda]].
+
+OBJETIVO / OBSERVACIONES
+- En [[SCHOOL|Escuela Primaria Sendero Azul]], Ms. [[TEACHER|Rosa Beltrán]] observa interacción con [[PEER|Milo Cendara]]. También asiste a [[DAYCARE|Pequeños Faroles]].
+- Durante juego, dijo “[[PET|Chispa]] corre con [[SIBLING|Lúa Marvén]]” y “[[SIBLING|Lúa]] help [[PET|Chispa]].” Ambas producciones surgieron espontáneamente mientras movía figuras.
+- Produjo [[KEEP|“quiero más”]] en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Para el objetivo [[KEEP|“carro”]], aproximó [[KEEP|/k/]] en [[KEEP|60%]] con [[KEEP|mod cues]]; persistió sustitución por [[KEEP|[t]]].
+- La muestra incluyó [[KEEP|“him go”]], registrada con [[KEEP|[EW]]]. Respondió mejor cuando el adulto esperó y siguió su iniciativa.
+- Durante turnos compartidos, mantuvo atención, solicitó ayuda y aceptó transiciones con apoyo visual. No se observaron signos de fatiga.
+
+ANÁLISIS / IMPRESIÓN CLÍNICA
+- Evaluación previa, [[DATE|September 17, 2026]]: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]], puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]], equivalente de edad [[KEEP|2;6–3;0]].
+- El cambio de idioma fue funcional; se aceptaron respuestas en ambos idiomas. Las dificultades observadas requieren seguimiento entre contextos.
+
+INTERVENCIÓN Y PLAN
+- Se aplicaron [[KEEP|Hanen]] y [[KEEP|It Takes Two to Talk]] para coaching familiar; [[KEEP|PECS]] apoyó solicitudes. Se incorporaron [[KEEP|PROMPT]], [[KEEP|Cycles]] y [[KEEP|Kaufman]] según objetivos individuales.
+- Continuar objetivo IFSP [[KEEP|2.1]]: pedir ayuda durante rutinas. Practicar [[KEEP|“ayuda”]] con [[KEEP|min cues]], sin exigir repetición.
+- Próxima sesión: [[DATE|October 15, 2026]], [[TIME|9:10 a.m.]]. Revisar generalización con familia y escuela.

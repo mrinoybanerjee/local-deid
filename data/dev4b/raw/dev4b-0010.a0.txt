@@ -1,0 +1,44 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DE HABLA Y LENGUAJE
+
+Paciente: [[CHILD|María José Fuentes Álvarez]]
+Fecha de nacimiento: [[DATE|9 de mayo de 2021]]
+Edad: [[KEEP|4;5]]
+Medicaid ID: [[MEDICAID_ID|784512093A]]
+Fecha de la sesión: [[DATE|10 de octubre de 2026]]
+Hora: [[TIME|9:30 a.m.]] – [[TIME|10:15 a.m.]]
+Programa: [[DAYCARE|El Nido de las Lunitas]]
+Intérprete: [[PROVIDER|Rosa Elena Campos]]
+
+S (Subjetivo):
+La maestra [[TEACHER|Carla Jiménez]] reporta que [[CHILD|María José]] jugó bien con su compañera [[PEER|Valentina Soto]] durante el círculo matutino. Su mamá, [[PARENT|Lucía Fuentes]], comentó por teléfono ([[PHONE|(919) 555-0148]]) que su hermanito [[SIBLING|Mateo]] también empezó a imitar sonidos en casa. La niñera [[FAMILY|Yolanda Pérez]] la recogió hoy porque [[PARENT|Lucía]] tenía cita médica.
+
+O (Objetivo):
+Se administró el [[KEEP|CELF-5]], subprueba [[KEEP|Comprensión Auditiva]].
+
+Fecha	Puntaje estándar	Percentil	Intervalo de confianza
+[[DATE|03/14/2026]]	[[KEEP|78]]	[[KEEP|7mo]]	[[KEEP|73-83]]
+[[DATE|10/10/2026]]	[[KEEP|85]]	[[KEEP|16to]]	[[KEEP|80-90]]
+
+Producción de fonemas dirigidos: logró /k/ en posición inicial [[KEEP|3 de 5]] intentos con [[KEEP|claves moderadas]]. Dijo "[[KEEP|kasa]]" por "casa". Edad equivalente: [[KEEP|3;2–3;6]]. Se usó el enfoque [[KEEP|PROMPT]] para apoyar la articulación.
+
+A (Evaluación):
+[[CHILD|María José]] muestra progreso constante hacia la Meta #[[KEEP|2]] del IFSP. Comparado con su compañero de grupo [[PEER|Diego Ramírez]], su participación verbal ha aumentado.
+
+P (Plan):
+Continuar sesiones dos veces por semana. Se coordinará con el pediatra, Dr. [[PROVIDER|Hernán Castillo]], y con la terapeuta ocupacional [[PROVIDER|Beatriz Nuñez]] y el fisioterapeuta [[PROVIDER|Jorge Salinas]].
+
+Horario de servicios:
+Día	Hora	Proveedor
+Lunes	[[TIME|9:30 a.m.]]	[[PROVIDER|Rosa Elena Campos]] (intérprete)
+Jueves	[[TIME|2:00 p.m.]]	[[PROVIDER|Beatriz Nuñez]] (TO)
+
+Contactos:
+Nombre	Relación	Teléfono
+[[PARENT|Lucía Fuentes]]	Madre	[[PHONE|(919) 555-0148]]
+[[PARENT|Ramón Álvarez]]	Padre	[[PHONE|(984) 555-0271]]
+
+Se coordinó con la agencia [[AGENCY|CDSA del Triángulo]] para la revisión anual del IFSP, programada para el [[DATE|15 de enero de 2027]]. La familia vive en [[PLACE|Cary, Carolina del Norte]]. El perro de la familia, [[PET|Canela]], estuvo presente y [[CHILD|María José]] dijo "[[PET|Canela]] corre" espontáneamente durante el juego libre, demostrando generalización del fonema /k/.
+
+Notas adicionales enviadas al correo de la clínica: [[EMAIL|recepcion@terapiabilinguenc.com]]. Próxima cita: [[DATE|17 de octubre de 2026]] a las [[TIME|9:30 a.m.]].
+
+Firma: [[PROVIDER|Isabel Marín, M.S., CCC-SLP]], bilingüe certificada, Carolina del Norte.

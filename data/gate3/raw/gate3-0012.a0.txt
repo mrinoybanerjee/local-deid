@@ -1,0 +1,35 @@
+SESSION DETAILS
+- Service date: [[DATE|October 9, 2026]], from [[TIME|9:10 a.m.]] to [[TIME|9:55 a.m.]], at [[EMPLOYER|Brightwoven Pediatric Communication Therapy PLLC]], [[PLACE|418 Lanternberry Lane]], [[PLACE|Cedar Vale]], North Carolina [[PLACE|27896]].
+- Client: [[CHILD|Nico de la Cruz]], age [[KEEP|4;2]]. Record: [[ID|BW-260941]]. Medicaid member: [[MEDICAID_ID|735204681Q]]. Authorization: [[ID|ST-684920]].
+- Treating bilingual speech-language pathologist: [[PROVIDER|Elena Vega-Santos]], CCC-SLP. Employer references in referral records include [[EMPLOYER|Brightwoven Therapy]] and [[EMPLOYER|BPCT]]. Today's session used English and Spanish according to family preference.
+
+SUBJECTIVE
+- Mother [[PARENT|Marisol de la Cruz]] reported more spontaneous requests during breakfast but continued frustration when listeners misunderstand longer messages. Father [[PARENT|Adrián de la Cruz]] practiced waiting before offering choices.
+- Sister [[SIBLING|Luz]] joined the opening routine. Grandmother [[FAMILY|Inés del Río]] supplied a home practice update. The family dog, [[PET|Miga]], remained home.
+- Teacher Ms. [[TEACHER|Tessa Vale]] at [[SCHOOL|Lantern Grove Preschool]] reported that classmates [[PEER|Amaya Finch]] and [[PEER|Leo Moss]] usually understand familiar play requests. Unfamiliar classroom staff often need gestures.
+- Mother requested activities that fit evening routines after her shift at [[ORG|Cloudberry Textile Cooperative]]. She described consistent attendance and no new feeding, hearing, or sleep concerns.
+
+RELEVANT HISTORY
+- Records describe birth at [[KEEP|34 weeks, 5 days]], birth weight [[KEEP|2,180 g]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. The neonatal admission occurred at [[HOSPITAL|LumenHarbor Health System, Willowbank Campus NICU]].
+- Pediatrician Dr. [[PROVIDER|Maya Reed]] at [[HOSPITAL|LumenHarbor Health System, Cedar Vale Campus Pediatric Clinic]] referred for language concerns. Audiologist [[PROVIDER|Daniel Ortiz]] at [[HOSPITAL|LumenHarbor Health System, Pineglass Campus Audiology]] documented hearing adequate for speech access on [[DATE|August 18, 2026]].
+- Historical [[KEEP|PLS-5]] results from [[DATE|September 4, 2026]] included [[KEEP|Auditory Comprehension]] standard score [[KEEP|79]], percentile [[KEEP|8]], confidence interval [[KEEP|73-85]], and age equivalent [[KEEP|3;0]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|76]], percentile [[KEEP|5]], with an age-equivalent range of [[KEEP|2;6–3;0]].
+- These English-language results provide descriptive context. They require interpretation alongside bilingual language samples and family reports.
+
+OBJECTIVE
+- Play routines targeted requests, agent-action combinations, and following related directions. Using [[KEEP|Hanen]] strategies, the clinician followed the child's interests and expanded messages without requiring immediate imitation.
+- [[CHILD|Nico]] produced independent requests in [[KEEP|8/10]] opportunities and followed related directions in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Accuracy increased to [[KEEP|80%]] with visual supports.
+- During pretend cooking, productions included [[KEEP|"quiero más"]], [[KEEP|"baby eat"]], and [[KEEP|"the spoon fall"]]. Targets included [[KEEP|"more soup"]], [[KEEP|"baby is eating"]], and [[KEEP|"the spoon fell"]].
+- During animal play, he said "[[PET|Miga]] run" while moving a toy dog. This utterance showed spontaneous transfer from a familiar home topic.
+- Speech practice addressed initial [[KEEP|/k/]] using [[KEEP|"key"]] and [[KEEP|"cup"]]. Correct placement occurred in [[KEEP|6/10]] trials with [[KEEP|max cues]]. A brief sample showed [[KEEP|[w]]] substitutions and occasional Spanish [[KEEP|/ɾ/]] approximations.
+- Language sampling used [[KEEP|SALT]] conventions, including [[KEEP|[EW]]]. No standardized testing occurred today.
+
+ASSESSMENT
+- Participation remained strong throughout play. Requests showed greater independence than grammatical combinations. Visual supports reduced task breakdowns, while repeated verbal prompts increased withdrawal.
+- Performance supports continued treatment for mixed receptive-expressive language needs. Cross-language differences were considered before interpreting errors. Speech targets remained functional and limited to familiar words.
+- Archived [[KEEP|IFSP Outcome 2]] from [[AGENCY|Cedar Vale Children's Developmental Services Agency]] addressed communicating needs during daily routines. Current [[KEEP|Goal 1]] addresses requests; [[KEEP|Goal 2]] addresses related directions.
+
+PLAN AND BILLING
+- Continue weekly sessions. Practice snack requests and action descriptions with [[KEEP|min cues]]. Coordinate classroom carryover through service coordinator [[PROVIDER|Nadia Brooks]].
+- Scheduling contact: [[PHONE|919-555-0146]]; [[EMAIL|appointments@brightwoven.example]]; portal [[URL|https://brightwoven.example/families]].
+- Submit [[KEEP|CPT 92507]] with modifier [[KEEP|GN]] and diagnosis [[KEEP|ICD-10 F80.2]]. Next session: [[DATE|October 16, 2026]], [[TIME|9:10 a.m.]].
+- Signed electronically by [[PROVIDER|Elena Vega-Santos]], CCC-SLP.

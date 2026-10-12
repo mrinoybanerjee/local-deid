@@ -1,0 +1,38 @@
+De: [[PROVIDER|Elena Varela Soto]] <[[EMAIL|elena.varela@example.org]]>
+Para: [[PARENT|Marisol Cordero Paz]] <[[EMAIL|marisol.cordero@example.net]]>
+Fecha: [[DATE|3 de marzo de 2025]], [[TIME|15:40]]
+Asunto: Nota diaria de [[CHILD|Nicolás Cordero Paz]]
+Expediente: [[ID|NC-SLP-006284]]
+Medicaid: [[MEDICAID_ID|482761935Q]]
+
+Estimada señora [[PARENT|Cordero Paz]]:
+
+Comparto la nota de hoy y el intercambio que orientó la sesión. Todos los participantes aceptaron el uso del español como idioma principal.
+
+S: [[CHILD|Nicolás]], de [[KEEP|4;2]], llegó con su abuela [[FAMILY|Teresa Paz Luna]]. Ella informó sueño interrumpido después de una visita de su hermano [[SIBLING|Bruno Cordero Paz]]. Su mamá [[PARENT|Marisol Cordero Paz]] trabaja de noche como técnica de inventario en [[ORG|Empaques Río Claro]]. La familia pidió actividades breves para practicar antes del turno nocturno. El niño mostró interés por contar historias sobre su perro [[PET|Chispa]].
+
+O: Sesión individual entre [[TIME|14:00]] y [[TIME|14:35]], en [[EMPLOYER|Voces del Sendero Terapia Bilingüe]], ubicada en [[PLACE|1846 Calle del Laurel]], [[PLACE|Villa Cedral]], Carolina del Norte, [[PLACE|27962]]. Se facturó [[KEEP|CPT 92507]], modificador [[KEEP|GN]], por [[KEEP|ICD-10 F80.2]]. Usé [[KEEP|Hanen]] para ampliar mensajes durante juego simbólico y estrategias de [[KEEP|PROMPT]] para apoyar la colocación articulatoria. Produjo [[KEEP|/k/]] inicialmente con [[KEEP|mod cues]] en [[KEEP|8/10]] oportunidades; anteriormente sustituía ese sonido por [[KEEP|[t]]]. Para [[KEEP|/ɾ/]], necesitó [[KEEP|max cues]] y logró [[KEEP|3 de 5]] intentos.
+
+Comprendió instrucciones de dos pasos en [[KEEP|70%]] de oportunidades con [[KEEP|min cues]]. Las producciones espontáneas incluyeron “[[KEEP|quiero carro rojo]]” y “[[KEEP|yo tengo dos]]”. Durante otra muestra dijo “[[PET|Chispa]] corre”. Practicamos las palabras objetivo “[[KEEP|casa]]”, “[[KEEP|coco]]” y “[[KEEP|cara]]”. En la transcripción marqué una repetición con [[KEEP|[EW]]]. La atención mejoró cuando alternamos movimiento y mesa.
+
+A: La evaluación del [[DATE|02/17/2025]] mediante [[KEEP|PLS-5 Spanish]] mostró un puntaje estándar de [[KEEP|78]] en [[KEEP|Comprensión auditiva]], percentil [[KEEP|7]], e intervalo de confianza del [[KEEP|95%]] de [[KEEP|73-83]]. La edad equivalente informada fue [[KEEP|2;6–3;0]]. Estos resultados complementan la observación funcional; la muestra bilingüe sigue siendo necesaria. Hoy aumentó la participación, aunque las preguntas abiertas todavía requieren apoyo. No observé dolor ni cambios respiratorios.
+
+P: Continuar dos sesiones semanales. Mantener el objetivo [[KEEP|2]] del [[KEEP|IFSP]] y revisar el plan el [[DATE|10/03/2025]]. La familia practicará elecciones durante la merienda. Coordinaré con la maestra [[TEACHER|Julia Olmeda Ruiz]] del aula Mariposas, en [[SCHOOL|Escuela Primaria Senderos del Sauce]], del [[SCHOOL|Distrito Escolar del Condado de Loma Serena]]. Solicitaré ejemplos de interacción con sus compañeros [[PEER|Alma Rivas]] y [[PEER|Teo Salcedo]], con autorización familiar.
+
+Atentamente,
+[[PROVIDER|Elena Varela Soto]], patóloga bilingüe del habla y lenguaje
+[[EMPLOYER|Voces del Sendero Terapia Bilingüe]]
+[[PHONE|919-555-0146]] | [[URL|https://voces-sendero.example.org]]
+
+> De: [[PARENT|Marisol Cordero Paz]]
+> Fecha: [[DATE|03/02/2025]], [[TIME|20:15]]
+>
+> Gracias. Su papá [[PARENT|Daniel Cordero Vega]] puede acompañarlo la próxima semana. Nació el [[DATE|01/03/2021]], a las [[KEEP|35 semanas]], con peso de [[KEEP|2180 g]] y Apgar de [[KEEP|7/9]]. Estuvo en la unidad neonatal de [[HOSPITAL|Sistema de Salud Horizonte Azul, campus Cedro Norte]]. La doctora [[PROVIDER|Irene Beltrán Mora]] recomendó seguimiento auditivo el [[DATE|martes 4 de junio de 2024]]. Adjunto el informe, número [[ID|AUD-72418]].
+
+>> De: [[TEACHER|Julia Olmeda Ruiz]]
+>> Fecha: [[DATE|2025-02-28]], [[TIME|08:10]]
+>>
+>> En clase participa mejor con imágenes. Ayer pidió “[[KEEP|más agua]]” sin modelo. La auxiliar [[TEACHER|Rosa Valdés Peña]] observó que espera su turno durante canciones. Podemos enviar una muestra breve después del recreo.
+>>
+>> [[TEACHER|Julia Olmeda Ruiz]]
+>> [[SCHOOL|Escuela Primaria Senderos del Sauce]]

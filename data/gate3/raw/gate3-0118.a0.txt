@@ -1,0 +1,42 @@
+INFORMACIÓN / ENCOUNTER
+
+- Client: [[CHILD|Mateo Nicolás Valverde]], called [[CHILD|Teo]], age [[KEEP|4;2]]. Service date: [[DATE|October 8, 2026]]. Record: [[ID|SLP-604821]]; Medicaid: [[MEDICAID_ID|731904628Q]]; authorization: [[ID|AUTH-826419]].
+- Treating bilingual SLP: [[PROVIDER|Elena Marisol Castañeda]], employed by [[EMPLOYER|Willow Lantern Pediatric Therapy, PLLC]]. Family uses [[EMPLOYER|Willow Lantern Therapy]]; scheduling uses [[EMPLOYER|WLPT]].
+- Clinic: [[PLACE|218 Lantern Finch Lane]], [[PLACE|Briarfen]], North Carolina [[PLACE|27964]], [[PLACE|Laurelstone County]]. Contact: [[PHONE|919-555-0146]], [[EMAIL|ecastaneda@willowlantern.example]], [[URL|https://willowlantern.example]].
+
+HORARIO / SESSION SCHEDULE
+
+- Planned visits below; today's Thursday visit occurred as scheduled.
+
+  | Day | Start | Stop | Location |
+  |---|---|---|---|
+  | Tuesday | [[TIME|9:00 a.m.]] | [[TIME|9:30 a.m.]] | [[DAYCARE|Little Lanterns Learning House]] |
+  | Thursday | [[TIME|10:15 a.m.]] | [[TIME|11:00 a.m.]] | [[EMPLOYER|WLPT]] |
+  | Friday | [[TIME|1:00 p.m.]] | [[TIME|1:30 p.m.]] | [[SCHOOL|Briarfen Meadow Preschool]] |
+
+SUBJETIVO / FAMILY REPORT
+
+- Mamá [[PARENT|Guadalupe Serrano Valverde]], known as [[PARENT|Lupita]], reported, “En casa pide más, pero cuando tiene prisa, se frustra.” Papá [[PARENT|Andrés Valverde]] described better turn-taking during breakfast.
+- Brother [[SIBLING|Jesús Valverde]], called [[SIBLING|Chuy]], practiced picture choices. Abuelo [[FAMILY|José Serrano]], called [[FAMILY|Pepe]], joined home practice. Babysitter [[FAMILY|Nadia Beltrán]] reported that the child said, “[[PET|Chispa]] run.”
+- Ms. [[TEACHER|Rosa Mendieta]] reported improved participation with classmate [[PEER|Juan Esteban Mena]], called [[PEER|Juanito]]. Family requested examples for sharing toys, porque the child often grabs materials before asking.
+- Mother works at [[ORG|Copper Finch Packaging Cooperative]]. Neighbor [[PERSON|Dalia Varela]] provides transportation when needed. Family reported no new concerns about hearing, sleep, or feeding.
+
+OBJETIVO / OBSERVATIONS
+
+- Pediatrician Dr. [[PROVIDER|Tomás Ibarra]] referred from [[HOSPITAL|Laurelstone Children's Hospital]]. Coordinator [[PROVIDER|Marina Solís]] at [[AGENCY|Laurelstone County CDSA]] confirmed the review date, [[DATE|November 12, 2026]].
+- Birth history, per fictional intake: DOB [[DATE|August 8, 2022]]; gestational age [[KEEP|39 weeks]]; birth weight [[KEEP|7 lb 2 oz]]; Apgar scores [[KEEP|8]] and [[KEEP|9]]. First referral occurred at [[KEEP|26 months]].
+- Prior evaluation dated [[DATE|September 17, 2026]] included [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. A historical [[KEEP|CELF-5]] example in the referral packet listed [[KEEP|Sentence Comprehension]] scaled score [[KEEP|6]]; its applicability remains unverified.
+- Today, [[CHILD|Mateo]] followed spatial directions in [[KEEP|8/10]] trials, or [[KEEP|80%]], with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities. Productions included [[KEEP|"quiero agua"]], [[KEEP|"más bubbles"]], and [[KEEP|"yo turn"]].
+- Practiced targets [[KEEP|"casa"]] and [[KEEP|"carro"]], observing [[KEEP|/k/]], [[KEEP|/ɾ/]], and substitution [[KEEP|[w]]]. Accuracy reached [[KEEP|60%]] with [[KEEP|max cues]], then [[KEEP|70%]] with [[KEEP|min cues]] during imitation.
+
+ANÁLISIS / ASSESSMENT
+
+- Diagnosis: mixed receptive-expressive language disorder, [[KEEP|F80.2]]. Spanish and English samples showed increased spontaneous combinations. Code-switching supported communication and did not count as an error.
+- [[KEEP|Hanen]] strategies, [[KEEP|PECS]] choices, and brief [[KEEP|PROMPT]] support improved engagement. [[KEEP|Cycles]] targets remain under consideration. Transcript coding included [[KEEP|[EW]]] for an extra word.
+- [[CHILD|Teo]] benefited from slower pacing, visual choices, and wait time. Fatigue increased during cleanup; a movement break restored participation.
+
+PLAN / PRÓXIMOS PASOS
+
+- Continue [[KEEP|IFSP]] outcome [[KEEP|2]], goal [[KEEP|2.1]], using requesting and direction-following routines. Model [[KEEP|"ayuda"]] and [[KEEP|"my turn"]] during play; accept either language.
+- Home practice: offer two choices, pause, and expand the child's message. Mamá demonstrated the routine accurately and said, “Sí, poquito cada día.”
+- Billing: individual treatment [[KEEP|92507]] with modifier [[KEEP|GN]]. Prior evaluation used [[KEEP|92523]]. Next session: [[DATE|October 9, 2026]]. Signed electronically by [[PROVIDER|Elena Marisol Castañeda]], bilingual SLP.

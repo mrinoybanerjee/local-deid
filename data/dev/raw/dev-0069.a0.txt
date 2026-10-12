@@ -1,0 +1,140 @@
+PLAN DE SERVICIO FAMILIAR INDIVIDUALIZADO (IFSP) — INDIVIDUALIZED FAMILY SERVICE PLAN
+North Carolina Infant-Toddler Program / Programa para Infantes y Niños Pequeños de Carolina del Norte
+IFSP REVIEW REPORT
+
+1. IDENTIFYING INFORMATION / INFORMACIÓN DE IDENTIFICACIÓN
+
+Child's Name / Nombre del niño: [[CHILD|Mateo Alejandro Flores Ramírez]] (called [[CHILD|Teo]] at home)
+Date of Birth: [[DATE|March 3, 2022]]
+NC ITP Child ID: [[ID|NC-ITP-884215]]
+Medicaid ID: [[MEDICAID_ID|9183746205A]]
+Primary Insurance (BCBSNC) Member ID: [[ID|YQK482910573]]
+Authorization Number (this episode of care): [[ID|TPA-2026-00417]]
+Home Address: [[PLACE|214 Willow Bend Lane]], [[PLACE|Asheboro]], [[PLACE|Randolph County]], [[PLACE|27203]]
+Home Phone: [[PHONE|(336) 555-0148]]
+Mother's Email: [[EMAIL|lucia.flores84@mailbox.com]]
+
+Mother/Madre: [[PARENT|Lucía Rodríguez Flores]], 29 años, works part-time at [[ORG|Belk Department Store]] in [[PLACE|Asheboro]].
+Father/Padre: [[PARENT|Diego Flores Mendoza]], works night shifts at [[ORG|Perdue Farms]].
+Sister/Hermana: [[SIBLING|Camila Flores]], age 6, attends first grade.
+Grandmother/Abuela (primary daytime caregiver): [[FAMILY|Rosa Ramírez]], who lives with the family and cares for [[CHILD|Teo]] on weekday mornings.
+
+CDSA Office: [[AGENCY|Catawba Valley CDSA]], [[PLACE|118 Fairview Street]], [[PLACE|Asheboro]], [[PLACE|27203]]
+Service Coordinator: [[PROVIDER|Mónica Sanders]], Service Coordinator, [[AGENCY|Catawba Valley CDSA]], phone [[PHONE|(336) 555-0177]]
+Speech-Language Pathologist / Patóloga del Habla-Lenguaje: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP, bilingual clinician, [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]]
+Interpreter present at this review: [[PROVIDER|Marisol Gutiérrez]], Spanish Medical Interpreter, Language Access Services
+Occupational Therapist: [[PROVIDER|Rachel Kim]], OTR/L, [[ORG|TherapyWorks of the Piedmont]]
+Physical Therapist: [[PROVIDER|Brian Chase]], PT, DPT, [[ORG|TherapyWorks of the Piedmont]]
+Pediatrician: [[PROVIDER|Dr. Angela Patel]], Asheboro Pediatric Associates
+
+Original IFSP Date: [[DATE|April 14, 2026]]
+This Review Date: [[DATE|October 2, 2026]]
+Next Scheduled Review: [[DATE|April 2, 2027]]
+Eligibility established via comprehensive evaluation on [[DATE|March 20, 2026]].
+
+2. REASON FOR REVIEW / RAZÓN DE LA REVISIÓN
+
+This six-month IFSP review was conducted at the family home on [[DATE|October 2, 2026]] from [[TIME|9:00 AM]] to [[TIME|10:15 AM]], with [[PROVIDER|Jennifer Hayes]] facilitating in English and Spanish, interpreter [[PROVIDER|Marisol Gutiérrez]] assisting as needed, and Service Coordinator [[PROVIDER|Mónica Sanders]] present by phone from [[TIME|9:40 AM]] onward. [[PARENT|Lucía]] and [[FAMILY|Rosa Ramírez]] attended in person; [[PARENT|Diego]] joined by phone from [[TIME|9:15 AM]] to [[TIME|9:50 AM]] during a break at work.
+
+3. FAMILY CONCERNS, PRIORITIES, AND RESOURCES / PREOCUPACIONES Y PRIORIDADES FAMILIARES
+
+Preocupaciones principales (in [[PARENT|Lucía]]'s own words, translated with interpreter support): "Mateo todavía no dice muchas palabras. Dice 'mamá' y 'agua' pero casi nada más, y a veces me frustro porque no sé qué necesita." ("[[CHILD|Mateo]] still doesn't say many words. He says 'mamá' and 'agua' but almost nothing else, and sometimes I get frustrated because I don't know what he needs.")
+
+[[FAMILY|Rosa]] added, in Spanish: "Cuando lo cuido en las mañanas, él señala las cosas pero no habla. Yo le hablo en español todo el día." ("When I care for him in the mornings, he points at things but doesn't talk. I speak to him in Spanish all day.")
+
+[[PARENT|Diego]] shared by phone, mixing English and Spanish: "I just want him to be able to tell us lo que necesita before he gets frustrated. En el trabajo yo pienso mucho en esto."
+
+Family priorities for this period:
+- Increase [[CHILD|Mateo]]'s expressive vocabulary in Spanish (home language) and English (daycare language).
+- Reduce frustration-related tantrums that [[PARENT|Lucía]] described as "varias veces al día" (several times a day).
+- Help [[SIBLING|Camila]] understand how to support her brother's communication, since she sometimes "habla por él" (speaks for him) instead of waiting.
+
+Family resources noted: strong extended family support through [[FAMILY|Rosa Ramírez]], stable housing, and both parents' employment, though [[PARENT|Diego]]'s overnight schedule limits his availability for daytime sessions.
+
+4. PRESENT LEVELS OF DEVELOPMENT
+
+Communication: [[CHILD|Mateo]] (age 4;7) presents with an expressive language delay confirmed on the Rosetti Infant-Toddler Language Scale, with expressive skills at the 6-9 month age-equivalent range and receptive skills closer to age level. He produces approximately 8 single words consistently across English and Spanish ("mamá," "papá," "agua," "no," "más," "perro," "arriba," "ya"), uses pointing and pulling to request, and imitates vowel sounds and the bilabial [m] but rarely initiates consonant-vowel combinations spontaneously. During the session, [[CHILD|Mateo]] attempted "pan" for bread with mod cues and produced [pa] independently, a 50% approximation.
+
+Fine/Gross Motor: Per [[PROVIDER|Rachel Kim]]'s most recent OT note, fine motor skills are within 1 standard deviation of mean on the Peabody Developmental Motor Scales-2. Per [[PROVIDER|Brian Chase]]'s PT note, gross motor is age-appropriate; [[CHILD|Mateo]] runs, climbs stairs with alternating feet, and kicks a ball with good balance.
+
+Social-Emotional: [[CHILD|Mateo]] engages readily with familiar adults and [[FAMILY|Rosa]] but shows limited turn-taking in play with peers at daycare, per report from [[TEACHER|Ms. Denise Holloway]] at [[DAYCARE|Little Sprouts Early Learning Academy]]. He has one preferred playmate, [[PEER|Sofía]], with whom he shares toys without prompting.
+
+Medical: [[PROVIDER|Dr. Angela Patel]] confirmed at the [[DATE|September 9, 2026]] well-child visit that hearing screening results were within normal limits and there are no structural concerns affecting speech production.
+
+5. DAILY ROUTINES AND NATURAL ENVIRONMENTS / RUTINAS DIARIAS
+
+A typical weekday, per family report:
+- [[TIME|6:30 AM]]: [[CHILD|Mateo]] wakes; [[FAMILY|Rosa]] helps him dress while narrating actions in Spanish.
+- [[TIME|7:15 AM]] to [[TIME|7:45 AM]]: breakfast; [[PARENT|Lucía]] leaves for her shift at [[ORG|Belk Department Store]] around [[TIME|7:50 AM]].
+- [[TIME|8:30 AM]] to [[TIME|12:30 PM]]: attends [[DAYCARE|Little Sprouts Early Learning Academy]], mixed English/Spanish classroom.
+- [[TIME|12:45 PM]]: picked up by [[FAMILY|Rosa]]; lunch and nap from [[TIME|1:00 PM]] to [[TIME|2:30 PM]].
+- [[TIME|3:00 PM]] to [[TIME|5:00 PM]]: outdoor play and errands with [[FAMILY|Rosa]] and [[SIBLING|Camila]] after school.
+- [[TIME|5:30 PM]]: [[PARENT|Lucía]] returns home; family dinner "todos juntos" at the table.
+- [[TIME|7:30 PM]]: bath and bedtime routine, often with a bilingual picture book.
+- [[PARENT|Diego]] leaves for his overnight shift around [[TIME|9:00 PM]] and returns around [[TIME|7:00 AM]].
+
+The family requested that direct therapy continue to occur in the home during morning hours, when [[FAMILY|Rosa]] is present and can carry over strategies, rather than relocating sessions to the daycare.
+
+6. OTHER AGENCIES AND SERVICES INVOLVED / OTRAS AGENCIAS
+
+- [[AGENCY|Randolph County WIC Program]]: family receives nutrition supplements; last recertification [[DATE|August 18, 2026]].
+- [[AGENCY|Smart Start of Randolph County]]: provided the childcare subsidy that allows [[CHILD|Mateo]] to attend [[DAYCARE|Little Sprouts Early Learning Academy]].
+- [[AGENCY|Randolph County Department of Social Services]]: family has an open case for housing assistance, unrelated to developmental services, case number referenced by [[PROVIDER|Mónica Sanders]] but not disclosed in this record.
+- Pediatric medical home: [[PROVIDER|Dr. Angela Patel]], Asheboro Pediatric Associates.
+
+7. OUTCOMES AND STRATEGIES / RESULTADOS Y ESTRATEGIAS
+
+Outcome 1: [[CHILD|Mateo]] will increase his expressive vocabulary to 50 functional words across English and Spanish, measured by parent log and direct observation, within 6 months.
+Strategies:
+- [[PROVIDER|Jennifer Hayes]] will model bilingual labeling ("agua/water," "más/more") during play-based sessions and coach [[FAMILY|Rosa]] and [[PARENT|Lucía]] on expectant pauses after requests.
+- [[FAMILY|Rosa]] will narrate daily routines in Spanish and model single words paired with gestures.
+- [[SIBLING|Camila]] will practice waiting 5 seconds before answering for [[CHILD|Mateo]], per a visual reminder card created with the SLP.
+- Progress noted: as of this review, [[CHILD|Mateo]] has increased from 4 to 8 consistent single words and imitates CV combinations with mod cues approximately 40% of trials.
+
+Outcome 2: [[CHILD|Mateo]] will reduce frustration behaviors (hitting, throwing) to no more than 1 episode per day by using a functional communication alternative.
+Strategies:
+- Introduce a 4-icon core board (más, ayuda/help, terminar/finished, agua) during meals and play, modeled by [[PROVIDER|Jennifer Hayes]] and reinforced by [[FAMILY|Rosa]] and [[PARENT|Lucía]] at home.
+- [[PROVIDER|Rachel Kim]] will consult on fine motor supports for pointing accuracy to the core board.
+- Progress noted: family reports frustration episodes decreased from "como seis veces al día" to approximately 2-3 times daily, with increased use of pointing to request.
+
+Outcome 3: [[CHILD|Mateo]] will engage in reciprocal play exchanges (3 back-and-forth turns) with a peer at daycare with no more than 1 adult prompt.
+Strategies:
+- [[TEACHER|Ms. Denise Holloway]] will seat [[CHILD|Mateo]] near [[PEER|Sofía]] during centers and model turn-taking phrases in English.
+- [[PROVIDER|Jennifer Hayes]] will provide one consultative visit to the daycare classroom during the next service period.
+- Progress noted: emerging; [[CHILD|Mateo]] has engaged in 2 consecutive turns with [[PEER|Sofía]] during block play, observed [[DATE|September 25, 2026]].
+
+8. SERVICE DELIVERY / PRESTACIÓN DE SERVICIOS
+
+Service: Speech-Language Therapy, individual, home-based.
+Provider: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]].
+Frequency/Duration: 2 sessions per week, 45 minutes each, typically [[TIME|9:30 AM]] to [[TIME|10:15 AM]] on Tuesdays and Thursdays.
+Location: family home, [[PLACE|214 Willow Bend Lane]], [[PLACE|Asheboro]].
+CPT code: 92507 (individual speech-language treatment).
+
+Service: Occupational Therapy consultation.
+Provider: [[PROVIDER|Rachel Kim]], OTR/L, [[ORG|TherapyWorks of the Piedmont]].
+Frequency: monthly consultation, 30 minutes, next session [[DATE|October 20, 2026]] at [[TIME|11:00 AM]].
+
+Service: Physical Therapy.
+Provider: [[PROVIDER|Brian Chase]], PT, DPT, [[ORG|TherapyWorks of the Piedmont]].
+Status: discharged from direct PT services as of [[DATE|June 1, 2026]]; gross motor goals met.
+
+Service Coordination.
+Provider: [[PROVIDER|Mónica Sanders]], [[AGENCY|Catawba Valley CDSA]].
+Frequency: contact at minimum every 3 months; next contact scheduled [[DATE|January 5, 2027]].
+
+9. TRANSITION PLANNING NOTE
+
+Because [[CHILD|Mateo]] will turn 3 on [[DATE|March 3, 2025]] (prior transition already completed; he remains eligible under a documented developmental delay per NC ITP policy), no new transition conference is required at this time. The team will revisit preschool transition planning no later than [[DATE|September 2027]], approximately 6 months before his third-birthday-adjusted transition window closes under program rules.
+
+10. SIGNATURES / FIRMAS
+
+I have participated in this review and agree with the outcomes and services described above. Estoy de acuerdo con los resultados y servicios descritos arriba.
+
+Parent/Madre: [[PARENT|Lucía Rodríguez Flores]] ___________________ Date: [[DATE|October 2, 2026]]
+Parent/Padre: [[PARENT|Diego Flores Mendoza]] (verbal consent via phone, confirmed by interpreter) Date: [[DATE|October 2, 2026]]
+Service Coordinator: [[PROVIDER|Mónica Sanders]] ___________________ Date: [[DATE|October 2, 2026]]
+Speech-Language Pathologist: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP ___________________ Date: [[DATE|October 2, 2026]]
+Interpreter: [[PROVIDER|Marisol Gutiérrez]] ___________________ Date: [[DATE|October 2, 2026]]
+
+Document completed by [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP, on behalf of [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]], and submitted to [[AGENCY|Catawba Valley CDSA]] for the child's record, Child ID [[ID|NC-ITP-884215]], Record/Authorization Number [[ID|TPA-2026-00417]].

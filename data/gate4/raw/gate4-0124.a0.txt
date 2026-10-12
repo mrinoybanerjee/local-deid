@@ -1,0 +1,38 @@
+1. Identificación / Administrative Record  
+a. Client: [[CHILD|Elian Varela]], age [[KEEP|4;2]]; DOB [[DATE|08/09/2022]]. Service date: [[DATE|10/11/2026]], North Carolina.  
+b. Clinician: [[PROVIDER|Marisol Tavera]], bilingual pediatric speech-language pathologist, [[EMPLOYER|Larkbridge Pediatric Communication]].  
+c. Medicaid: [[MEDICAID_ID|583027164R]]; insurance member: [[ID|NX482719063]]; NC ITP child: [[ID|ITP-2607418]]; authorization: [[ID|AUTH-913627]].
+
+2. Horario / Session Schedule  
+a. Authorized weekly schedule:
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[SCHOOL|Willowglass Learning School]] |
+| Wednesday | [[TIME|1:15 PM]] | [[TIME|1:45 PM]] | [[DAYCARE|Little Lantern Daycare]] |
+| Sunday | [[TIME|10:00 AM]] | [[TIME|10:30 AM]] | [[PLACE|184 Lantern Hollow Lane]], [[PLACE|Fernvale]], [[PLACE|27863]] |
+
+b. Today’s session began at [[TIME|10:00 AM]] and ended at [[TIME|10:30 AM]].
+
+3. Subjetivo / Family Report  
+a. Su mamá [[PARENT|Nadia Varela]] reported, “Habla más con su hermana [[SIBLING|Inés Varela]].” Abuela [[FAMILY|Celina Moya]] described improved requesting.  
+b. Ms. [[TEACHER|Alba Cordero]] reported participation alongside classmate [[PEER|Teo Beltrán]]. Neighbor [[PERSON|Bruno Ledesma]] provided transportation. Mother’s workplace, [[ORG|Fernvale Ribbon Works]], permits appointment flexibility.
+
+4. Objetivo / Structured Measures  
+a. Prior evaluation results informed today’s task selection:
+
+| Test/subtest | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[DATE|09/18/2026]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+
+b. Using [[KEEP|PROMPT]] with [[KEEP|mod cues]], [[CHILD|Elian]] produced initial [[KEEP|/k/]] in [[KEEP|8/10]] trials, achieving [[KEEP|80%]]. He said [[KEEP|"tar"]] for [[KEEP|"car"]]; later, he said “[[PET|Pipo]] run.” Transcript coding included [[KEEP|[EW]]].
+
+5. Evaluación / Clinical Interpretation  
+a. Performance supports continued intervention. La participación improved during familiar routines. Fatigue increased near closure; bilingual models supported engagement.
+
+6. Plan / Coordination  
+a. Continue [[KEEP|Hanen]] coaching toward IFSP goal [[KEEP|2]]. Coordinate with [[AGENCY|Fernvale CDSA]] and Dr. [[PROVIDER|Irene Solano]] at [[HOSPITAL|Cedarcrest Children’s Hospital]].  
+b. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+7. Contacto / Follow-up  
+a. Family contact: [[PHONE|919-555-0146]]; [[EMAIL|nadia.varela@example.com]]. Home-practice portal: [[URL|https://larkbridge.example/practice]].

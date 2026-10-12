@@ -1,0 +1,118 @@
+[[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]]
+Informe de Evaluación de Habla y Lenguaje — Bilingüe (Español/Inglés)
+
+Niño/a: [[CHILD|Mateo Hernández Cruz]] (apodo "[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|14 de marzo de 2022]]
+Edad cronológica al momento de evaluación: [[KEEP|4;7]]
+Sexo: masculino
+Fecha de evaluación: [[DATE|2 de octubre de 2026]]
+Fecha del informe: [[DATE|9 de octubre de 2026]]
+ID de expediente clínico: [[ID|CPT-2206-0451]]
+ID de Medicaid: [[MEDICAID_ID|987654321A]]
+Evaluadora: [[PROVIDER|Dra. Ana Martínez]], M.S., CCC-SLP, bilingüe español/inglés
+Coordinadora de servicios (Parte C): [[PROVIDER|Carla Jiménez]], [[AGENCY|CDSA de Durham]]
+Pediatra de cabecera: [[PROVIDER|Dr. Rajesh Patel]]
+Dirección de la clínica: [[PLACE|4215 Page Road, Suite 220, Durham, NC 27703]]
+Tel. clínica: [[PHONE|(919) 555-0148]] | Correo: [[EMAIL|amartinez@carolinapedstherapy.com]]
+Consentimiento informado firmado por [[PARENT|Lucía Rodríguez]] el [[DATE|28 de septiembre de 2026]].
+
+S: (Subjetivo)
+
+Hx de referencia. Evaluación solicitada por [[PARENT|Lucía Rodríguez]] (madre) y [[PARENT|Javier Hernández]] (padre), motivados por preocupación persistente sobre inteligibilidad y lenguaje expresivo de [[CHILD|Teo]], [[KEEP|4;7]]. Refieren cita: "habla como con la boca llena" y que personas fuera de casa "no le entienden casi nada". Preocupación inicial surgió a los [[KEEP|18 meses]], cuando [[CHILD|Mateo]] aún no combinaba dos palabras y tenía vocabulario expresivo limitado (<[[KEEP|20 palabras]]). Evaluado por Early Intervention a través de [[AGENCY|CDSA de Durham]] a los [[KEEP|20 meses]]; IFSP activo desde [[DATE|5 de enero de 2023]]. Revisión semestral más reciente: [[DATE|12 de agosto de 2026]]. Resultado/meta [[KEEP|#2]] (lenguaje expresivo, combinar 3+ palabras) y Resultado [[KEEP|#3]] (inteligibilidad fonológica) siguen activos y parcialmente alcanzados por reporte de proveedor anterior.
+
+Hx de embarazo y parto. Embarazo a término (39 semanas), sin complicaciones, madre niega uso de sustancias, tabaco o alcohol durante embarazo. Parto vaginal espontáneo en [[HOSPITAL|Duke University Hospital]]. Apgar [[KEEP|8/9]]. Peso al nacer [[KEEP|3,200 gramos]] ([[KEEP|7 lb 1 oz]]). Sin ingreso a UCIN, alta a las [[KEEP|48 horas]] de vida, junto con [[PARENT|Lucía Rodríguez]].
+
+Hx médica. Hitos motores dentro de límites esperados (caminó a los [[KEEP|13 meses]]). Hx de 4 episodios de otitis media aguda entre [[KEEP|12 y 26 meses]], tratados con antibióticos; colocación de tubos de ventilación bilateral el [[DATE|7 de junio de 2024]] por [[PROVIDER|Dra. Susan Kim]], otorrinolaringóloga. Madre reporta mejoría de audición aparente tras tubos, aunque retraso de lenguaje persistió. Visión evaluada por pediatra, [[KEEP|WNL]]. Sin hx de convulsiones, sin hospitalizaciones adicionales. Dx actuales en expediente, confirmados por pediatra [[PROVIDER|Dr. Rajesh Patel]]: [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo) y [[KEEP|F80.0]] (trastorno fonológico), ambos pendientes de reconfirmación en esta evaluación (ver A:). Sin dx de autismo, aunque seguimiento de desarrollo general continúa abierto por pediatra como precaución.
+
+Hx familiar. Madre refiere hx personal de "terapia de habla" en la niñez, sin detalles de dx. Hermana mayor, [[SIBLING|Luz Hernández]] ([[KEEP|7 años]]), desarrollo típico, sin hx de retraso de habla/lenguaje, actualmente en 2do grado. Primo materno, [[FAMILY|Sol Cruz]] ([[KEEP|6 años]]), con dx de trastorno del espectro autista, seguido por otro proveedor fuera de esta clínica; familia reporta cierta preocupación de que [[CHILD|Teo]] "se parezca" a [[FAMILY|Sol]] en algunos aspectos sociales, aunque niega conductas repetitivas marcadas o intereses restringidos en [[CHILD|Teo]]. Abuela materna, [[FAMILY|Rosa Cruz]], cuida a [[CHILD|Mateo]] dos días por semana (martes y jueves) mientras ambos padres trabajan; habla únicamente español con el niño y refuerza vocabulario de rutinas diarias (comida, baño). Niñera ocasional de fin de semana: [[FAMILY|Patricia Gómez]], vecina de la familia.
+
+Hx de lenguaje y exposición bilingüe. Hogar bilingüe; madre estima que el español representa aproximadamente [[KEEP|80%]] del input lingüístico en el hogar, inglés [[KEEP|20%]] (principalmente a través de televisión y hermana mayor, quien es dominante en inglés por la escuela). [[CHILD|Teo]] asiste de lunes a viernes, [[TIME|7:30 a.m.]] a [[TIME|5:00 p.m.]], al centro de cuido infantil [[DAYCARE|El Jardín de Mariposas]], ubicado en [[PLACE|Durham, NC]], donde el ambiente del aula es mayormente en inglés con apoyo bilingüe parcial. Maestra principal del salón, [[TEACHER|Srta. Patricia Gutiérrez]], reporta por correo electrónico y llamada telefónica previa a esta evaluación que [[CHILD|Teo]] participa con gusto en actividades grupales, busca a sus compañeros para jugar, pero se frustra visiblemente cuando sus pares no comprenden lo que dice; compañero cercano, [[PEER|Diego]], frecuentemente "traduce" las intenciones de [[CHILD|Teo]] a otros niños del salón. Otra compañera mencionada por la maestra, [[PEER|Valentina]], evita jugar con [[CHILD|Mateo]] en actividades de conversación dirigida, aunque sí participa en juego físico/motor grueso con él.
+
+Familia participa activamente en actividades comunitarias de apoyo al lenguaje: programa semanal "Cuentos Bilingües" los sábados en la sucursal North Regional de la [[AGENCY|Biblioteca Pública del Condado de Durham]]; asistencia dominical a clase de niños en español en [[AGENCY|Iglesia Bautista Nueva Vida]], en [[PLACE|Durham]]. Familia recibió apoyo nutricional de [[AGENCY|WIC]] desde el nacimiento de [[CHILD|Teo]] hasta los 3 años; actualmente en lista de espera para beca de cuido infantil a través de [[AGENCY|Smart Start]] del condado. Familia fue referida previamente a [[AGENCY|Early Head Start]] pero no obtuvo cupo disponible en su zona. Trabajadora social de caso en [[AGENCY|DSS]] asignada para seguimiento de beneficios es [[PROVIDER|Yolanda Pérez]].
+
+Hx ocupacional de los padres. Madre, [[PARENT|Lucía Rodríguez]], trabaja como auxiliar de enfermería en [[ORG|Duke Regional Hospital]], turnos rotativos de 12 horas. Padre, [[PARENT|Javier Hernández]], trabaja en construcción con horario variable y frecuentes viajes cortos fuera del condado, lo cual limita su disponibilidad para sesiones de terapia programadas en horario diurno.
+
+Hx de mascotas/contexto doméstico. Familia tiene un perro, [[PET|Max]], descrito por madre como "parte de la familia"; [[CHILD|Teo]] usa frecuentemente el nombre de [[PET|Max]] en juego simbólico y como motivador en actividades de lenguaje en casa.
+
+Hx de terapia previa. [[CHILD|Mateo]] recibió terapia de habla-lenguaje en el hogar a través de Early Intervention, una vez por semana, desde [[DATE|marzo de 2024]] hasta su transición al preescolar actual en [[DATE|agosto de 2026]]. Proveedora anterior: [[PROVIDER|Mónica Suárez]], CCC-SLP. Reporte de progreso más reciente disponible (recibido por fax de proveedora anterior) documenta mejoría de longitud media de enunciado (LME/MLU) de [[KEEP|2.1]] a [[KEEP|3.4]] morfemas en el curso de 18 meses de tx, y aumento de vocabulario expresivo estimado de [[KEEP|50]] a más de [[KEEP|300 palabras]].
+
+O: (Objetivo)
+
+Sesión de evaluación realizada el [[DATE|2 de octubre de 2026]], de [[TIME|9:00 a.m.]] a [[TIME|11:15 a.m.]], en consultorio de la clínica, con madre presente en sala durante la mayor parte de la sesión. Evaluación conducida completamente en español por evaluadora bilingüe nativa; no se requirió intérprete. Niño cooperador durante toda la sesión, afecto positivo, buen contacto visual, atención sostenida con descansos breves cada 15 minutos aproximadamente; sin conductas disruptivas.
+
+Pruebas estandarizadas administradas (normas en español cuando disponibles):
+
+Prueba / Subprueba — Puntaje — Interpretación
+[[KEEP|CELF-5 Español]] — Comprensión Auditiva — SS [[KEEP|76]] ([[KEEP|percentil 5]]) — por debajo de lo esperado
+[[KEEP|CELF-5 Español]] — Estructura de Oraciones — SS [[KEEP|71]] ([[KEEP|percentil 3]]) — significativamente por debajo
+[[KEEP|CELF-5 Español]] — Recordando Oraciones — SS [[KEEP|68]] ([[KEEP|percentil 2]]) — significativamente por debajo
+[[KEEP|Índice de Lenguaje Receptivo]] — [[KEEP|74]] (IC 95%: [[KEEP|70–78]]) — rango deficiente
+[[KEEP|Índice de Lenguaje Expresivo]] — [[KEEP|69]] (IC 95%: [[KEEP|65–73]]) — rango deficiente
+[[KEEP|GFTA-3]] (adaptado p/análisis fonológico) — SS [[KEEP|72]], edad equiv. [[KEEP|3;0]] — retraso fonológico moderado-severo
+[[KEEP|PLS-5 Spanish]] Auditory Comprehension — edad equiv. [[KEEP|3;2]]
+[[KEEP|PLS-5 Spanish]] Expressive Communication — edad equiv. [[KEEP|2;10]]
+
+Facturación de hoy: [[KEEP|92523]] (evaluación de habla y lenguaje), [[KEEP|92507]] modificador de prueba de tx trial.
+
+Muestra de habla espontánea (50 enunciados, contexto de juego libre en español). LME [[KEEP|3.4]] morfemas, consistente con reporte previo. Inventario fonético: produce consonantes bilabiales, nasales y oclusivas de forma consistente; procesos fonológicos persistentes observados:
+- Reducción de grupos consonánticos: "[[KEEP|["pato"]]]" por "[[KEEP|plato]]" (/pl/ → /p/).
+- Omisión de sílaba inicial: "[[KEEP|["apato"]]]" por "[[KEEP|zapato]]".
+- Sustitución [[KEEP|/ɾ/]] por [[KEEP|/l/]]: "[[KEEP|["calo"]]]" por "[[KEEP|carro]]".
+- Fronting inconsistente de [[KEEP|/k/]] a [[KEEP|/t/]]: "[[KEEP|["tasa"]]]" por "[[KEEP|casa]]" (en 4 de 10 oportunidades).
+- Posteriorización ocasional de [[KEEP|[s]]] a [[KEEP|[ʃ]]] en posición final de sílaba.
+
+Precisión de producción de consonantes (PCC) estimada en [[KEEP|65%]]. Inteligibilidad en contexto conocido (con familia) [[KEEP|75%]]; con desconocidos, sin contexto, [[KEEP|40%]].
+
+Comprensión de instrucciones de 2 pasos sin apoyo contextual: [[KEEP|6/10]] ([[KEEP|60%]]) correctas. Repetición de oraciones de complejidad creciente: [[KEEP|5/10]] correctas, con errores principalmente en estructuras subordinadas y orden de palabras.
+
+Prueba de narrativa (secuencia de 4 láminas): produjo [[KEEP|3 de 5]] elementos clave de la historia (personaje, problema, acción, resolución), sin incluir marco temporal; nivel considerado por debajo de lo esperado para la edad.
+
+Tx trial dentro de la sesión (vocabulario de acción con apoyo visual y modelado): [[KEEP|8/10]] ([[KEEP|80%]]) de respuestas correctas con [[KEEP|mod cues]] (modelo verbal + apoyo visual); sin apoyo, desempeño cayó a [[KEEP|3/10]] ([[KEEP|30%]]). Respondió favorablemente a estrategias de expansión y modelado tipo [[KEEP|Hanen]].
+
+Prueba de praxias orales no verbales y verbales: sin hallazgos sugestivos de apraxia infantil del habla; diadococinesia (DDK) dentro de límites normales para la edad en tareas de repetición silábica alternante. Examen oral-motor: estructura y función dentro de límites normales, sin hallazgos de fisura submucosa ni frenillo lingual restrictivo. Cribado auditivo: pasó cribado conductual en consultorio; madre reporta tubos de ventilación en buen estado por chequeo reciente.
+
+Observación pragmática y juego simbólico: iniciativa social adecuada para la edad, contacto visual recíproco apropiado, respuesta consistente a nombre, juego simbólico de nivel esperado (tema de "rescate" con figuras de acción, incluyó diálogo entre personajes aunque con inteligibilidad reducida). Sin conductas repetitivas ni intereses restringidos observados durante la sesión; sin banderas rojas adicionales de espectro autista identificadas en esta evaluación puntual.
+
+A: (Análisis)
+
+Resultados de esta evaluación son consistentes con trastorno mixto del lenguaje receptivo-expresivo, [[KEEP|F80.2]], de severidad moderada a severa en ambos dominios, junto con trastorno fonológico, [[KEEP|F80.0]], de severidad moderada-severa, en el contexto de desarrollo bilingüe típico español-inglés. Los déficits observados en español (idioma dominante y de mayor exposición) no se explican únicamente por la exposición bilingüe, dado que el desempeño está significativamente por debajo de lo esperado en comprensión y expresión en el idioma de mayor dominio. El patrón de errores fonológicos (reducción de grupos consonánticos, sustitución /ɾ/ por /l/, fronting inconsistente) es consistente con un trastorno fonológico primario y no representa transferencia dialectal regional esperada ni interferencia típica entre español e inglés en desarrollo bilingüe simultáneo.
+
+Factores contribuyentes probables: hx de otitis media recurrente entre los 12 y 26 meses pudo haber contribuido al retraso inicial de adquisición fonológica por reducción intermitente de input auditivo claro durante periodo crítico. Hx familiar materna de dificultades de habla en la niñez sugiere posible componente hereditario, aunque sin diagnóstico formal documentado de la madre. Primo con dx de TEA no constituye, por evidencia de esta evaluación, indicador de riesgo compartido de espectro autista en [[CHILD|Teo]]; sin embargo, dado hx familiar, se recomienda monitoreo continuo de hitos sociales por parte de pediatra.
+
+Impacto funcional significativo: inteligibilidad reducida (40% con desconocidos) limita participación social plena en el aula de [[DAYCARE|El Jardín de Mariposas]] y en actividades comunitarias como el programa de biblioteca. Maestra [[TEACHER|Srta. Gutiérrez]] documenta frustración observable y dependencia de intermediación de pares (p. ej. [[PEER|Diego]]) para comunicarse, lo cual representa riesgo de evitación verbal progresiva si no se interviene.
+
+[[CHILD|Mateo]] continúa siendo elegible para servicios de patología del habla-lenguaje bajo IDEA Parte C hasta su transición a Parte B. Reunión de transición con distrito escolar y [[AGENCY|CDSA de Durham]] está programada para [[DATE|20 de enero de 2027]]; se recomienda que resultados de esta evaluación formen parte del expediente de elegibilidad para servicios preescolares especiales.
+
+P: (Plan)
+
+1. Continuar terapia de habla-lenguaje individual, 2 veces por semana, sesiones de [[KEEP|30 minutos]], bajo CPT [[KEEP|92507]], con enfoque combinado: abordaje fonológico basado en Ciclos ([[KEEP|Cycles]]) dirigido a procesos de reducción de grupos consonánticos y sustitución /ɾ/-/l/, junto con intervención de lenguaje expresivo usando modelado, expansión y técnicas del enfoque [[KEEP|Hanen]] "It Takes Two to Talk" adaptadas al español.
+
+2. Meta a corto plazo (6-8 semanas): producción de grupos consonánticos /pl/, /kl/, /bl/ en palabras aisladas con [[KEEP|mod cues]] a [[KEEP|80%]] de precisión en 3 sesiones consecutivas.
+
+3. Meta a corto plazo paralela: combinar 3-4 palabras en enunciados espontáneos describiendo acciones, con apoyo visual, [[KEEP|80%]] de oportunidades en contexto estructurado.
+
+4. Capacitación a padres una vez al mes, presencial o por telesalud, enfocada en estrategias de modelado, tiempo de espera y expansión en el hogar; coordinar calendario con disponibilidad laboral de [[PARENT|Javier Hernández]] cuando sea posible, dado horario variable.
+
+5. Coordinar continuidad de servicios con coordinadora de caso [[PROVIDER|Carla Jiménez]] en [[AGENCY|CDSA de Durham]] antes de la reunión de transición del [[DATE|20 de enero de 2027]].
+
+6. Referir seguimiento audiológico de control con [[PROVIDER|Dra. Susan Kim]], programado para [[DATE|15 de noviembre de 2026]], para confirmar función de tubos de ventilación y descartar pérdida auditiva residual.
+
+7. Compartir estrategias de aula con maestra [[TEACHER|Srta. Patricia Gutiérrez]] en [[DAYCARE|El Jardín de Mariposas]]: modelar enunciados cortos y claros, ofrecer tiempo de espera de al menos 5 segundos antes de repetir o reformular, usar apoyo visual durante instrucciones de grupo, y fomentar interacción directa entre [[CHILD|Teo]] y pares como [[PEER|Valentina]] en actividades estructuradas de baja demanda verbal para construir confianza antes de aumentar demanda comunicativa.
+
+8. Animar a la familia a continuar aprovechando apoyos comunitarios existentes como refuerzo natural de lenguaje: programa "Cuentos Bilingües" en [[AGENCY|Biblioteca Pública del Condado de Durham]] y clase infantil en español en [[AGENCY|Iglesia Bautista Nueva Vida]].
+
+9. Enviar copia de este informe, con consentimiento firmado, a pediatra [[PROVIDER|Dr. Rajesh Patel]] y a trabajadora social de [[AGENCY|DSS]], [[PROVIDER|Yolanda Pérez]], para expediente de servicios sociales y seguimiento de beneficios.
+
+10. Reevaluación formal estándar en [[KEEP|6 meses]] (aprox. [[DATE|abril de 2027]]), o antes si se requiere para la reunión de elegibilidad de transición a Parte B.
+
+11. Monitoreo continuo, sin acción formal en este momento, de hitos sociales por parte de pediatra dada hx familiar de TEA en primo [[FAMILY|Sol Cruz]]; sin indicación actual de referido a evaluación de espectro autista basada en hallazgos de esta sesión.
+
+12. Contacto de la clínica para preguntas o reprogramación: [[PHONE|(919) 555-0148]] o [[EMAIL|amartinez@carolinapedstherapy.com]].
+
+Pronóstico: favorable con intervención consistente, dado buen nivel de cooperación, respuesta positiva a cueing moderado durante tx trial ([[KEEP|80%]] con apoyo), y alto nivel de involucramiento familiar y comunitario documentado.
+
+Firmado electrónicamente:
+[[PROVIDER|Ana Martínez]], M.S., CCC-SLP
+Patóloga del Habla-Lenguaje, bilingüe español/inglés
+[[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]]
+Fecha del informe: [[DATE|9 de octubre de 2026]]

@@ -1,0 +1,39 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE — FICTIONAL TEST RECORD
+
+Client: [[CHILD|Nicolás Vega]]; preferred name: [[CHILD|Nico]]
+DOB: [[DATE|01/03/2021]]  Age: [[KEEP|4;2]]
+Service: [[DATE|2025-03-03]]  Time: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Record: [[ID|SLP-582041]]  Medicaid: [[MEDICAID_ID|839274615Q]]
+Clinician: [[PROVIDER|Elena Salcedo]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Willow Lantern Pediatric Therapy]]
+Location: [[PLACE|418 Lanternberry Lane]], [[PLACE|Mossvale]], North Carolina [[PLACE|27863]]
+Contact: [[PHONE|919-555-0146]]; [[EMAIL|elena.salcedo@example.com]]
+
+[X] Home  [ ] Daycare  [ ] Telehealth
+[X] English  [X] Spanish  [X] Parent present
+Diagnosis: [[KEEP|F80.2]]  CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]
+
+S — Subjective:
+Mother [[PARENT|Marisol Vega]] reported improved requesting during breakfast. She works two jobs: evening stocking at [[ORG|Briar Basket Market]] and weekend shifts at [[ORG|RHC]]. Scheduling remains difficult, but she practices during bus rides. Aunt [[FAMILY|Inés Duarte]] supervises afternoon routines. Mother described home practice beginning on [[DATE|3 de marzo de 2025]] and recalled an earlier screening on [[DATE|el martes 4 de junio de 2024]]. Her calendar lists the next appointment as [[DATE|03.10.2025]].
+
+[X] No pain reported  [X] Alert  [ ] Fatigued
+Mother reported birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. No new hearing concerns were reported.
+
+O — Objective:
+At [[DAYCARE|Little Lantern Daycare]], Ms. [[TEACHER|Lopez]] reported that [[CHILD|Nico]] participates more consistently in Ms. [[TEACHER|Lopez]]'s room. Classmate [[PEER|Maya Chen]] models turn-taking during block play. Today's activities included pretend feeding, picture choices, and movement breaks.
+
+Prior [[KEEP|PLS-5]] results dated [[DATE|02/18/2025]]: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. These results remain background information; no standardized retesting occurred today.
+
+Using [[KEEP|Hanen]] strategies and a simple [[KEEP|PECS]] choice board, [[CHILD|Nicolás]] requested preferred items in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-word combinations occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]] during play. A spontaneous [[KEEP|[w]]] substitution occurred once.
+
+Productions included [[KEEP|"more bubbles"]], [[KEEP|"I want car"]], and [[KEEP|"go up"]]. During family-picture play, he said "[[PET|Chispa]] run" and "[[SIBLING|Luna]] help me." The clinician recorded [[KEEP|[EW]]] for one extraneous word. Targets included [[KEEP|"cup"]], [[KEEP|"car"]], and [[KEEP|"my turn"]].
+
+A — Assessment:
+Functional requesting increased when adults paused and offered visible choices. Performance decreased during rapid verbal questioning. Spanish responses showed the same communicative intent as English responses. These observations support continued treatment across both languages. Parent practice was demonstrated accurately after a brief model. Today's accuracy reflects structured play and should not be treated as independent classroom performance.
+
+P — Plan:
+[X] Continue weekly therapy  [X] Home practice reviewed
+Address [[KEEP|IFSP outcome 2]] through snack choices and sibling play. Practice five brief turns using familiar objects, accept either language, and expand successful requests by one word. Mother will share the picture board with the afternoon caregiver. Next session will compare spontaneous requests across two routines and reduce adult prompts when participation remains stable.
+
+Signature: [[PROVIDER|Elena Salcedo]], CCC-SLP
+Signed: [[DATE|03/03/2025]] at [[TIME|10:20 AM]]

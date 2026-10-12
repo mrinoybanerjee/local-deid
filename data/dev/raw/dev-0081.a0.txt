@@ -1,0 +1,26 @@
+Daily Note - Speech-Language Therapy
+
+Client: [[CHILD|Mateo Reyes]]
+DOB: [[DATE|04/12/2021]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]
+CPT Codes: 92507, 92523
+ICD-10: F80.2
+Medicaid ID: [[MEDICAID_ID|MC4471239A]]
+
+S: [[CHILD|Mateo]] presented for his weekly individual session following pickup from [[DAYCARE|Little Sprouts Early Learning Center]] in [[PLACE|Ms. Lopez's room]]. Teacher [[TEACHER|Lopez]] reported via note that [[CHILD|Mateo]] had a good morning but struggled during circle time to answer peer [[PEER|Avery]]'s questions. His mother, [[PARENT|Lucia Rodriguez]], stated he has been using more two-word phrases at home, telling his older sister [[SIBLING|Camila]] "mas jugo" when wanting more juice. Family reports his grandmother, [[FAMILY|abuela Rosa]], who lives in a small village near [[PLACE|San Pedro La Laguna]], Guatemala, has been video-calling weekly and noted improved intelligibility.
+
+O: Session conducted at clinic located at [[PLACE|1420 Maple Grove Lane]], [[PLACE|Hickory]], NC. Administered speech sound production drills targeting /k/ and /g/ in word-initial position. [[CHILD|Mateo]] produced /k/ correctly in "cat" 8/10 trials (80%) with moderate cues, improved from last session's 6/10. Spanish production of /k/ in "casa" was 7/10 with min cues. Articulation of consonant clusters remains emerging; target word "star" produced as [tar] consistently. Referenced goal bank aligned with ICD-10 F80.2 (mixed receptive-expressive language disorder).
+
+Caregiver [[PARENT|Jorge Reyes]] (father) called clinic at [[PHONE|828-555-0147]] prior to session to confirm transportation; he works at [[ORG|Catawba Valley Furniture Co.]] and will be late picking up today. Interpreter [[PROVIDER|Marisol Fuentes]] assisted with caregiver communication via phone, as English proficiency is limited for [[PARENT|Lucia]].
+
+A: [[CHILD|Mateo]] continues to demonstrate steady progress toward IEP goal of producing CV and CVC words with 80% accuracy across 3 consecutive sessions; current session supports mastery trend. Receptive vocabulary remains a strength per recent [[PROVIDER|Dr. Patel]] evaluation. SALT transcript coding noted [EW] for one utterance during unintelligible speech stretch.
+
+P: Continue biweekly sessions (92507 individual, 92523 evaluation as needed) targeting /k/, /g/, and consonant cluster reduction in both English and Spanish contexts. Will coordinate with [[AGENCY|Western Piedmont CDSA]] service coordinator [[PROVIDER|Hannah Brooks]] regarding IFSP review scheduled [[DATE|November 18, 2026]]. Recommend home practice using quoted target "go" /goʊ/ during play with pet dog, [[PET|Max]]. Will send updated home program to [[PARENT|Lucia Rodriguez]] via email at [[EMAIL|lucia.reyes2021@gmail.com]].
+
+Next appointment: [[DATE|October 16, 2026]] at [[TIME|2:30 PM]].
+
+Clinician: [[PROVIDER|Sarah Mitchell, MS, CCC-SLP]]
+Employed by [[EMPLOYER|Foothills Pediatric Therapy Associates]]
+Record #: [[ID|LD-882914]]
+Clinic Phone: [[PHONE|828-555-0199]]

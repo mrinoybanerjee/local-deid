@@ -1,0 +1,143 @@
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS FAMILIARES (IFSP)
+PROGRAMA INFANT-TODDLER DE CAROLINA DEL NORTE
+
+INFORMACIÓN DE IDENTIFICACIÓN DEL NIÑO
+- Nombre completo: [[CHILD|Mateo de la Cruz]]
+- Nombre que usa la familia: [[CHILD|Teo]]
+- Fecha de nacimiento: [[DATE|14 de enero de 2024]]
+- Edad cronológica en esta revisión: [[KEEP|2;9]]
+- Número de expediente del programa: [[ID|IT-20394]]
+- Número de Medicaid: [[MEDICAID_ID|MA9284716B]]
+- Dirección residencial: [[PLACE|742 Calle Roble]], [[PLACE|Garner]], [[PLACE|Condado de Wake]], [[PLACE|27529]]
+- Teléfono principal del hogar: [[PHONE|(919) 555-0148]]
+- Correo electrónico de la familia: [[EMAIL|familiadelacruz24@gmail.com]]
+- Idioma principal del hogar: español
+- Fecha del IFSP inicial: [[DATE|12 de febrero de 2026]]
+- Fecha de esta reunión de revisión: [[DATE|3 de octubre de 2026]]
+- Fecha de la próxima revisión programada: [[DATE|3 de abril de 2027]]
+
+HISTORIA MÉDICA Y DE NACIMIENTO
+- [[CHILD|Teo]] nació a las [[KEEP|36 semanas]] de gestación, con un peso de [[KEEP|2,450 gramos]].
+- Apgar al nacer: [[KEEP|8/9]].
+- Hospitalización neonatal breve por dificultad para alimentarse; egresó del [[HOSPITAL|Hospital WakeMed Cary]] a los cuatro días de vida.
+- Pediatra actual: [[PROVIDER|Dra. Patricia Nguyen]], en el [[HOSPITAL|Hospital WakeMed Cary]].
+- No hay diagnóstico genético conocido; la familia reporta que un primo paterno también tuvo retraso en el habla.
+
+INFORMACIÓN FAMILIAR
+- Madre: [[PARENT|Carmen Soto-Ramírez]], 29 años.
+- Padre: [[PARENT|Javier de la Cruz]], 31 años.
+- Hermana mayor: [[SIBLING|Sofía de la Cruz]], [[KEEP|5;2]], asiste a primaria.
+- Cuidadora principal durante el día entre semana: la abuela materna, [[FAMILY|Rosa Fernández]], quien vive con la familia.
+- Tía materna que ayuda algunas tardes y fines de semana: [[FAMILY|Lucía Soto]].
+- Mascota de la familia: el perro [[PET|Rocky]], que [[CHILD|Teo]] abraza cuando está molesto.
+- [[PARENT|Carmen]] trabaja de noche como operadora de empaque en el [[ORG|Centro de Distribución de Amazon]] en [[PLACE|Garner]], turno de [[TIME|10:00 p.m.]] a [[TIME|6:30 a.m.]], de domingo a jueves.
+- [[PARENT|Javier]] trabaja de día como supervisor de obra en [[ORG|Construcciones Robles]], saliendo de casa a las [[TIME|6:00 a.m.]].
+- Debido al horario nocturno de [[PARENT|Carmen]], [[FAMILY|Rosa Fernández]] cubre las mañanas y la mayoría de las sesiones de terapia.
+
+COORDINACIÓN DE SERVICIOS
+- Coordinadora de servicios asignada: [[PROVIDER|Yolanda Martínez]], del [[AGENCY|CDSA del Piamonte Oriental]].
+- Oficina del CDSA: [[PLACE|215 Calle Pino]], [[PLACE|Durham]].
+- Teléfono de la coordinadora: [[PHONE|(919) 555-0177]].
+- Correo electrónico de la coordinadora: [[EMAIL|ymartinez@cdsapiedmont.org]].
+- Terapeuta del habla y lenguaje que elabora este informe: [[PROVIDER|Alejandra Ríos Fernández, M.S., CCC-SLP]], contratada a través de [[EMPLOYER|Pasos Firmes Terapia Pediátrica, PLLC]].
+- Intérprete certificada presente durante la evaluación y la reunión: [[PROVIDER|Diego Alvarado]].
+- Trabajadora social de enlace para la familia: [[PROVIDER|Marisol Peña]], del [[AGENCY|Departamento de Servicios Sociales del Condado de Wake]].
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA, EN SUS PROPIAS PALABRAS
+- Según [[PARENT|Carmen Soto-Ramírez]]: "[[CHILD|Teo]] solo dice como cinco palabras y su hermana a esa edad ya hacía oraciones. Me preocupa que no me entienda cuando le hablo rápido, y que en la guardería no pueda pedir lo que necesita."
+- Según [[PARENT|Javier de la Cruz]]: "Queremos que [[CHILD|Mateo]] pueda decirle a su maestra qué necesita sin frustrarse y sin morder a los demás niños."
+- Según [[FAMILY|Rosa Fernández]]: "Yo paso más tiempo con él que nadie y a veces solo señala. Quiero que use palabras conmigo también, no solo gestos."
+- Prioridad familiar número uno: que [[CHILD|Teo]] combine dos palabras para pedir cosas en casa, en la guardería y en el programa de la biblioteca.
+- Prioridad familiar número dos: reducir las mordidas y los berrinches cuando no se le entiende.
+- Prioridad familiar número tres: que la familia aprenda estrategias en español para usar durante las comidas y el baño.
+- La familia pide que los materiales y las sesiones se mantengan en español, ya que es el idioma del hogar y el que domina [[FAMILY|Rosa Fernández]].
+
+RUTINAS DIARIAS DE LA FAMILIA
+- [[TIME|6:30 a.m.]]: [[FAMILY|Rosa Fernández]] despierta a [[CHILD|Teo]] y a [[SIBLING|Sofía de la Cruz]]; desayuno juntos en la cocina.
+- [[TIME|7:15 a.m.]]: [[FAMILY|Rosa Fernández]] lleva a [[SIBLING|Sofía]] a la [[SCHOOL|Escuela Primaria Roble Verde]], parte del [[SCHOOL|Sistema de Escuelas Públicas del Condado de Wake]]; su maestra de kínder es la [[TEACHER|Sra. Keisha Lopez]].
+- [[TIME|8:00 a.m.]]: [[FAMILY|Rosa Fernández]] deja a [[CHILD|Teo]] en el [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], en el salón de la [[TEACHER|maestra Ana Gutiérrez]].
+- En la guardería, [[CHILD|Teo]] juega sobre todo con su compañera [[PEER|Ximena]] durante el tiempo de bloques.
+- [[TIME|4:30 p.m.]]: [[FAMILY|Rosa Fernández]] recoge a los niños y prepara la merienda.
+- [[TIME|5:00 p.m.]] a [[TIME|6:00 p.m.]]: tiempo de juego libre en el patio; [[CHILD|Teo]] suele jugar con [[PET|Rocky]].
+- [[TIME|6:30 p.m.]]: cena familiar; [[PARENT|Javier de la Cruz]] llega del trabajo justo antes de la cena casi todos los días.
+- [[TIME|7:30 p.m.]]: rutina de baño, que la familia reporta como el momento de más berrinches de [[CHILD|Teo]].
+- [[TIME|8:00 p.m.]]: cuento antes de dormir, leído por [[PARENT|Javier]] o [[FAMILY|Rosa Fernández]].
+- [[TIME|8:30 p.m.]]: [[PARENT|Carmen Soto-Ramírez]] se prepara para salir a su turno nocturno.
+- Los sábados por la mañana, la familia asiste al programa de cuentos bilingüe en la [[ORG|Biblioteca Regional de Durham County]], donde [[CHILD|Teo]] participa en canciones con gestos.
+- Los domingos la familia asiste a misa en la [[ORG|Iglesia Nuestra Señora de Guadalupe]] y [[CHILD|Teo]] se queda en la guardería infantil de la iglesia durante el servicio.
+
+OTRAS AGENCIAS Y RECURSOS QUE USA LA FAMILIA
+- WIC: la familia recibe beneficios a través de la oficina del [[AGENCY|WIC del Condado de Wake]].
+- Smart Start: participan en talleres de crianza ofrecidos por [[AGENCY|Smart Start del Condado de Wake]].
+- Departamento de Servicios Sociales: contacto de enlace es [[PROVIDER|Marisol Peña]], del [[AGENCY|Departamento de Servicios Sociales del Condado de Wake]].
+- Recurso comunitario adicional: la familia asiste a clases de inglés para adultos en el [[ORG|El Centro Latino de Wake County]], donde [[PARENT|Carmen]] toma clases los martes.
+- La familia no reporta uso de servicios de salud mental en este momento, pero la coordinadora ofreció referido si se necesita.
+
+RESULTADOS DE LA EVALUACIÓN DEL HABLA Y EL LENGUAJE
+- Evaluadora: [[PROVIDER|Alejandra Ríos Fernández, M.S., CCC-SLP]]; evaluación realizada en español con apoyo de la intérprete [[PROVIDER|Diego Alvarado]].
+- Fecha de la evaluación: [[DATE|20 de septiembre de 2026]].
+- Instrumento administrado: [[KEEP|PLS-5 Spanish-English]].
+  - Subprueba de Comprensión Auditiva ([[KEEP|Auditory Comprehension]]): puntaje estándar [[KEEP|76]], intervalo de confianza [[KEEP|65-77]], percentil [[KEEP|5]].
+  - Subprueba de Comunicación Expresiva ([[KEEP|Expressive Communication]]): puntaje estándar [[KEEP|71]], percentil [[KEEP|3]], edad equivalente [[KEEP|14-16 meses]].
+- Instrumento complementario: [[KEEP|Rossetti Infant-Toddler Language Scale]], administrado por observación estructurada; desempeño global por debajo de lo esperado para la edad en las áreas de interacción-apego y comunicación pragmática.
+- Vocabulario expresivo estimado por reporte familiar: aproximadamente 18 palabras, principalmente sustantivos.
+- Combinaciones de dos palabras: observadas en [[KEEP|1 de 10]] oportunidades durante la sesión.
+- Producciones registradas durante la evaluación:
+  - Dijo "[[KEEP|tete]]" en lugar de "leche".
+  - Dijo "[[KEEP|aba]]" en lugar de "agua".
+  - Dijo "[[KEEP|ma]]" para pedir "más", de forma consistente.
+- Inteligibilidad para oyentes familiares: aproximadamente [[KEEP|50%]]; para oyentes no familiares, menos del [[KEEP|25%]].
+- Inventario fonético: produce [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/a/]] y [[KEEP|/o/]] de forma consistente; omite consonantes finales y simplifica grupos consonánticos.
+- Juego simbólico: emergente; usa objetos de forma funcional pero con apoyo [[KEEP|mod cues]] del adulto.
+- Comportamiento durante la evaluación: morder y gritar cuando no logra comunicar su necesidad, consistente con el reporte familiar.
+- Impresión diagnóstica: retraso significativo del lenguaje expresivo y receptivo, consistente con elegibilidad bajo los criterios del programa.
+- Código diagnóstico de referencia: [[KEEP|F80.2]].
+
+RESULTADOS DEL IFSP Y ESTRATEGIAS
+
+[[KEEP|Resultado 1]]: [[CHILD|Teo]] combinará dos palabras para pedir objetos y acciones deseadas durante las rutinas diarias.
+- Criterio de logro: combinaciones de dos palabras en [[KEEP|3 de 5]] oportunidades observadas, en dos entornos diferentes.
+- Estrategias para la familia: usar el enfoque [[KEEP|Hanen]] de seguir el interés del niño, expandir una palabra a dos ("agua" a "más agua"), y esperar con expectativa antes de dar el objeto.
+- Estrategia para la guardería: la [[TEACHER|maestra Ana Gutiérrez]] usará apoyo visual durante la merienda para modelar combinaciones de dos palabras.
+- Persona responsable en casa: [[FAMILY|Rosa Fernández]], ya que pasa la mayor parte del día con [[CHILD|Teo]].
+
+[[KEEP|Resultado 2]]: [[CHILD|Teo]] reducirá las conductas de morder y gritar al usar un gesto o palabra alternativa para comunicar frustración.
+- Criterio de logro: uso de un gesto o palabra funcional en lugar de morder en [[KEEP|8 de 10]] situaciones observadas en el hogar.
+- Estrategias: introducir señas básicas ("más", "ayuda", "terminado") siguiendo principios de [[KEEP|PROMPT]] para apoyo motor-verbal, y reforzar inmediatamente cualquier intento comunicativo antes de que escale la frustración.
+- La familia practicará esta estrategia principalmente durante el baño de las [[TIME|7:30 p.m.]], identificado como el momento de mayor dificultad.
+- [[PARENT|Javier de la Cruz]] y [[FAMILY|Rosa Fernández]] recibirán modelado directo durante las sesiones.
+
+[[KEEP|Resultado 3]]: la familia usará estrategias de lenguaje en español durante las comidas y el tiempo de juego para aumentar las oportunidades de comunicación de [[CHILD|Teo]].
+- Criterio de logro: la familia reporta el uso independiente de al menos dos estrategias enseñadas, verificado en revisión mensual.
+- Estrategias: narrar en voz alta durante la preparación de comidas, ofrecer opciones de dos en dos ("¿quieres pan o plátano?"), y pausas de espera estructurada.
+- Se proveerán materiales escritos en español para [[FAMILY|Rosa Fernández]] y [[PARENT|Carmen Soto-Ramírez]], considerando el horario nocturno de esta última.
+
+SERVICIOS Y FECHAS DE SERVICIO
+- Terapia de habla y lenguaje individual: dos sesiones de [[TIME|45 minutos]] por semana, en el hogar, provista por [[PROVIDER|Alejandra Ríos Fernández, M.S., CCC-SLP]] de [[EMPLOYER|Pasos Firmes Terapia Pediátrica, PLLC]].
+  - Código de facturación: [[KEEP|92523]].
+  - Fecha de inicio de este ciclo de servicio: [[DATE|10 de octubre de 2026]].
+  - Fecha de finalización prevista: [[DATE|9 de abril de 2027]].
+- Consulta de terapia ocupacional: una sesión mensual de [[TIME|30 minutos]], a partir del [[DATE|15 de octubre de 2026]], enfocada en integración sensorial durante comidas y baño.
+- Coordinación de servicios continua por [[PROVIDER|Yolanda Martínez]], con contacto mensual por teléfono o en persona.
+- Próxima visita conjunta programada para el [[DATE|12 de enero de 2027]] en el hogar de la familia.
+- La familia autoriza el intercambio de información entre [[EMPLOYER|Pasos Firmes Terapia Pediátrica, PLLC]], el [[AGENCY|CDSA del Piamonte Oriental]], el [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], y la [[HOSPITAL|Hospital WakeMed Cary]].
+
+TRANSICIÓN Y PRÓXIMOS PASOS
+- La familia fue informada sobre el proceso de transición a servicios de preescolar bajo el [[SCHOOL|Sistema de Escuelas Públicas del Condado de Wake]] cuando [[CHILD|Teo]] cumpla la edad correspondiente.
+- Se recomendó mantener contacto con la [[TEACHER|Sra. Keisha Lopez]] respecto a los recursos de lenguaje disponibles en la [[SCHOOL|Escuela Primaria Roble Verde]], dado que es probable que [[CHILD|Teo]] asista a la misma escuela que su hermana.
+- La coordinadora [[PROVIDER|Yolanda Martínez]] entregará a la familia el paquete de información sobre transición en la próxima visita.
+
+PARTICIPANTES EN ESTA REUNIÓN
+- [[PARENT|Carmen Soto-Ramírez]], madre.
+- [[PARENT|Javier de la Cruz]], padre.
+- [[FAMILY|Rosa Fernández]], abuela materna y cuidadora principal.
+- [[PROVIDER|Yolanda Martínez]], coordinadora de servicios, [[AGENCY|CDSA del Piamonte Oriental]].
+- [[PROVIDER|Alejandra Ríos Fernández, M.S., CCC-SLP]], terapeuta del habla y lenguaje, [[EMPLOYER|Pasos Firmes Terapia Pediátrica, PLLC]].
+- [[PROVIDER|Diego Alvarado]], intérprete.
+- Participación por teléfono de la [[TEACHER|maestra Ana Gutiérrez]] desde el [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]].
+
+FIRMAS
+- Padre: [[PARENT|Javier de la Cruz]] — fecha: [[DATE|3 de octubre de 2026]].
+- Madre: [[PARENT|Carmen Soto-Ramírez]] — fecha: [[DATE|3 de octubre de 2026]].
+- Coordinadora de servicios: [[PROVIDER|Yolanda Martínez]] — fecha: [[DATE|3 de octubre de 2026]].
+- Terapeuta del habla y lenguaje: [[PROVIDER|Alejandra Ríos Fernández, M.S., CCC-SLP]] — fecha: [[DATE|3 de octubre de 2026]].

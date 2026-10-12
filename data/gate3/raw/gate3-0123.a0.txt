@@ -1,0 +1,33 @@
+nota diaria / datos de sesión
+
+servicio del [[DATE|October 8, 2026]] para [[CHILD|Nicolás Arenza]] conocido como [[CHILD|Nico]] edad [[KEEP|4;2]] fecha de nacimiento [[DATE|August 8, 2022]] expediente [[ID|SLP-482731]] Medicaid [[MEDICAID_ID|683920174Q]] autorización [[ID|AUTH-604829]] clinician [[PROVIDER|Elena Maravís]] bilingual pediatric speech-language pathologist with [[EMPLOYER|Little Lantern Speech Partners]] in North Carolina billing [[KEEP|92507]] modifier [[KEEP|GN]] diagnosis [[KEEP|F80.2]] and [[KEEP|F80.0]] visit completed with caregiver present and consent already documented
+
+subjetivo / lo que cuenta la familia
+
+mamá [[PARENT|Inés Arenza]] reports “en casa habla más pero cuando llega su papá [[PARENT|Tomás Beltrán]] se queda calladito” older sister [[SIBLING|Lola Beltrán]] helps with turn taking and abuela [[FAMILY|Celia Maravís]] uses Spanish during meals family lives at [[PLACE|418 Willow Lantern Lane]] in [[PLACE|Cedar Lantern]] NC [[PLACE|27594]] and previously lived at [[PLACE|Calle del Naranjo 27]] in [[PLACE|San Lucero del Monte]] Guatemala mother works at [[ORG|Mossbell Textile Cooperative]] and requested appointments after her morning shift
+
+historia / coordinación
+
+records from [[HOSPITAL|Brisa Health System East Creek Campus]] NICU describe gestational age [[KEEP|33 weeks 2 days]] birth weight [[KEEP|1,980 g]] and Apgar scores [[KEEP|6]] and [[KEEP|8]] pediatrician Dr. [[PROVIDER|Samuel Oredán]] referred to [[HOSPITAL|Brisa Health System Pine Lantern Campus Audiology]] interpreter [[PROVIDER|Rosa Tavelín]] assisted at the evaluation on [[DATE|September 17, 2026]] coordinator [[PROVIDER|Mara Lestín]] at [[AGENCY|Cedar Lantern CDSA]] confirmed transportation today
+
+horario acordado / family copy
+
+| day | start | stop | location |
+| monday | [[TIME|9:10 am]] | [[TIME|9:55 am]] | [[DAYCARE|Little Acorn Nest]] |
+| thursday | [[TIME|1:15 pm]] | [[TIME|2:00 pm]] | [[HOSPITAL|Brisa Health System East Creek Campus]] |
+
+objetivo / observaciones
+
+prior [[KEEP|Rossetti Infant-Toddler Language Scale]] findings showed [[KEEP|Language Expression]] age equivalent [[KEEP|24–27 months]] [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]] confidence interval [[KEEP|73-83]] and [[KEEP|7th percentile]] were reviewed alongside [[KEEP|Goldman-Fristoe Test of Articulation-3]] [[KEEP|Sounds-in-Words]] standard score [[KEEP|74]] prior [[KEEP|Bayley Scales of Infant and Toddler Development]] [[KEEP|Expressive Communication]] scaled score [[KEEP|6]] and [[KEEP|Peabody Picture Vocabulary Test-5]] standard score [[KEEP|81]] provide background only these measures were not repeated today and bilingual language exposure limits interpretation of English norm comparisons
+
+práctica / respuesta
+
+used [[KEEP|Hanen]] strategies with [[KEEP|focused stimulation]] and brief [[KEEP|PROMPT]] support child produced target [[KEEP|"quiero agua"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]] then [[KEEP|"my turn"]] in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]] accuracy for initial [[KEEP|/k/]] reached [[KEEP|60%]] while [[KEEP|[w]]] replaced [[KEEP|/ɾ/]] in spontaneous speech sample included [[KEEP|"yo want más"]] coded [[KEEP|[EW]]] child also said "[[PET|Tambo]] run" while showing a photo of the family dog
+
+análisis / participación
+
+[[CHILD|Nico]] benefits from pauses and choices in both languages teacher Ms. [[TEACHER|Vera Solán]] at [[SCHOOL|Cedar Lantern Early Learning School]] reports peer [[PEER|Amalia Vezón]] waits during play but classmate [[PEER|Bruno Sarén]] sometimes answers first caregiver practiced waiting without adding extra questions no distress observed attention improved when movement breaks preceded picture tasks language switching appeared functional and did not prevent shared understanding across the activity
+
+plan / próximos pasos
+
+continue [[KEEP|Cycles]] work and IFSP outcome [[KEEP|2]] with goal [[KEEP|3]] family will practice target [[KEEP|"más jugo"]] during snack review on [[DATE|November 12, 2026]] contact [[PHONE|919-555-0146]] email [[EMAIL|elena.maravis@littlelantern.invalid]] resources [[URL|https://littlelantern.invalid/familias]] neighbor [[PERSON|Dalia Ferván]] may provide transport mother will confirm next week caregiver explained the home activity in Spanish and English and selected snack as the easiest routine today home practice should stay playful with pauses for initiation and acceptance of either language family received the written schedule before leaving

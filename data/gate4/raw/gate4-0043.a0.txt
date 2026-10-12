@@ -1,0 +1,141 @@
+SPEECH-LANGUAGE EVALUATION REPORT
+
+- This fictional report was prepared for offline de-identification testing. All people, organizations, contact details, locations, and clinical findings are invented.
+- Client: [[CHILD|María José Valdés Cordero]]; preferred name: [[CHILD|María José]]; family nickname: [[CHILD|Marijó]].
+- Date of birth: [[DATE|August 9, 2021]]. Evaluation date: [[DATE|October 21, 2025]]. Chronological age: [[KEEP|4;2]].
+- Record number: [[ID|LL-2025-04731]]. Medicaid member number: [[MEDICAID_ID|847261905R]]. Authorization number: [[ID|AUTH-58264017]].
+- Evaluator: [[PROVIDER|Elena Marisol Fuentes]], MS, CCC-SLP, bilingual pediatric speech-language pathologist.
+- Clinician employer: [[EMPLOYER|Willow Lantern Pediatric Therapy]].
+- Evaluation site: [[PLACE|318 Lantern Finch Lane]], [[PLACE|Cedarmist]], North Carolina, [[PLACE|27863]].
+- Parent telephone: [[PHONE|(919) 555-0148]]. Clinic telephone: [[PHONE|(984) 555-0176]].
+- Parent email: [[EMAIL|lucia.cordero@example.invalid]]. Clinic website: [[URL|https://willowlantern.example.invalid]].
+
+REFERRAL AND PURPOSE
+
+- Dr. [[PROVIDER|Adrián Solano]] referred [[CHILD|María José]] because unfamiliar listeners frequently request repetition. Her parents also described difficulty answering questions, explaining events, and following directions during classroom routines.
+- The evaluation examined communication across Spanish and English. Its purpose was to identify functional needs, describe strengths, and guide services without treating bilingual development as a disorder.
+- Her mother, [[PARENT|Lucía Cordero]], attended the full evaluation. Her father, [[PARENT|Rafael Valdés]], contributed information by telephone. Both parents requested practical strategies that fit family routines.
+- The family identified three priorities: clearer requests, successful participation with classmates, and fewer communication breakdowns during transitions. They want continued development of both languages and do not want Spanish use reduced.
+
+BACKGROUND AND CURRENT SERVICES
+
+- [[CHILD|Marijó]] attends [[DAYCARE|Little Learners Daycare]] in [[PLACE|Cedarmist]], within fictional [[PLACE|Briarfern County]]. She entered the current classroom on [[DATE|September 2, 2025]].
+- She receives weekly communication support through the [[KEEP|Little Learners Program]], a therapy program operated by [[EMPLOYER|Willow Lantern Pediatric Therapy]]. The daycare and therapy program are separate services despite their shared name words.
+- Service coordinator [[PROVIDER|Nadia Bellamy]] previously worked with the family through [[AGENCY|Briarfern Children’s Developmental Services Agency]]. The archived IFSP is dated [[DATE|April 18, 2024]].
+- The current referral includes consultation about transition planning with [[SCHOOL|Juniper Hollow Elementary School]]. Enrollment has not occurred. The family also receives resource information from [[AGENCY|Briarfern Family Start]].
+- No previous evaluation established performance across both languages. Earlier notes described short utterances but did not document language exposure or interpreter involvement.
+
+BIRTH AND DEVELOPMENTAL HISTORY
+
+- [[PARENT|Lucía Cordero]] reported an uncomplicated pregnancy and delivery at [[KEEP|39 weeks, 2 days]] of gestation. Birth occurred at [[HOSPITAL|Silver Wren Community Hospital]].
+- Reported birth weight was [[KEEP|7 pounds, 4 ounces]]. Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. The newborn remained with her mother and went home after routine observation.
+- Independent walking began at approximately [[KEEP|14 months]]. Consistent meaningful words emerged around [[KEEP|20 months]], and combinations became frequent around [[KEEP|30 months]].
+- The parents reported no loss of communication, movement, play, or self-care skills. They described steady gains, with spoken language progressing more slowly than other daily skills.
+- Early feeding included breastfeeding and bottle feeding. The family reported no persistent difficulty with sucking, chewing, swallowing, or growth. Current meals include varied textures, and the child usually eats with the family.
+
+MEDICAL AND HEARING HISTORY
+
+- Medical history includes occasional ear infections and seasonal nasal congestion. There is no reported history of seizures, major injury, prolonged hospitalization, or diagnosed neurological disease.
+- Pediatric follow-up with Dr. [[PROVIDER|Solano]] occurred on [[DATE|September 30, 2025]]. The referral record listed developmental communication concerns and requested comprehensive speech-language assessment.
+- Audiologist [[PROVIDER|Brenna Ives]] completed a hearing evaluation at [[HOSPITAL|Silver Wren Community Hospital]] on [[DATE|October 7, 2025]]. The fictional report documented hearing adequate for speech access during that visit.
+- The parents reported no current prescription medication. Sleep is generally consistent, although congestion sometimes interrupts rest.
+- Oral structures appeared symmetrical during observation. Functional lip closure, tongue movement, and chewing were observed. No feeding evaluation was completed, and these observations do not replace a medical examination.
+
+FAMILY AND LANGUAGE HISTORY
+
+- Spanish is the primary language used by [[PARENT|Lucía Cordero]]. [[PARENT|Rafael Valdés]] uses Spanish and English. Their child hears English mainly at daycare and during community activities.
+- Her sister, [[SIBLING|Ana Sofía Valdés Cordero]], often reads picture books with her. Her brother, [[SIBLING|Mateo Valdés Cordero]], called [[SIBLING|Teo]], joins pretend cooking games.
+- Grandmother [[FAMILY|Guadalupe Cordero]], called [[FAMILY|Lupita]], provides care twice weekly. Uncle [[FAMILY|Jesús Cordero]], called [[FAMILY|Chuy]], visits regularly.
+- Grandfather [[FAMILY|José Valdés]], called [[FAMILY|Pepe]], and cousin [[FAMILY|Juan Valdés]], called [[FAMILY|Juanito]], participate in family gatherings. Babysitter [[FAMILY|Alma Rentería]] uses Spanish during care.
+- The household dog is named [[PET|Mochi]]. Her mother works at [[ORG|Copper Fern Packaging]]. Her father works at [[ORG|Cedar Lantern Bicycle Works]].
+- Estimated language exposure is [[KEEP|65%]] Spanish and [[KEEP|35%]] English. These estimates reflect parent report, not direct measurement.
+
+CLASSROOM AND PEER INFORMATION
+
+- Lead teacher Ms. [[TEACHER|Nora Pell]] described a child who enjoys songs, puzzles, outdoor play, and helping distribute materials. Classroom assistant [[TEACHER|J. Ortiz]] reported that visual reminders improve transitions.
+- Classmates [[PEER|Camila Duarte]] and [[PEER|Owen Vela]] frequently invite her into pretend play. She sometimes watches before joining and then uses gestures or brief phrases.
+- Staff reported stronger understanding during familiar routines than during new group instructions. Noise, rapid speech, and multiple competing directions increase her need for support.
+- Community volunteer [[PERSON|M.R.]] assists with the classroom lending library but provides no clinical services. Staff did not identify persistent behavior concerns; frustration most often followed misunderstood messages.
+
+ASSESSMENT PROCEDURES AND PARTICIPATION
+
+- [[PROVIDER|Elena Marisol Fuentes]] conducted parent interviewing, play observation, structured probes, speech sampling, and administration of the [[KEEP|Preschool Language Scales–Fifth Edition]] ([[KEEP|PLS-5]]).
+- English standardized administration was completed before bilingual teaching probes. Spanish observations and mediated tasks informed interpretation but were not converted into additional standardized scores.
+- Testing occurred across two visits, on [[DATE|October 21, 2025]] and [[DATE|October 23, 2025]]. The child participated best when movement breaks and predictable choices were available.
+- Attention fluctuated during lengthy verbal tasks. She responded to encouragement and accepted correction without distress. Fatigue increased near the end of each visit.
+- Results describe this sample of performance. English scores require caution because the normative comparison does not fully represent her language history. Conclusions therefore integrate caregiver reports, classroom observations, and performance across languages.
+
+STANDARDIZED TEST RESULTS
+
+- The following results summarize English administration. Confidence intervals are reported at the [[KEEP|90%]] level. Age equivalents are descriptive and must not determine placement independently.
+
+  | Test or subtest | Standard score | Percentile | Confidence interval | Age equivalent |
+  |---|---|---|---|---|
+  | [[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-85]] | [[KEEP|3;2]] |
+  | [[KEEP|PLS-5 Expressive Communication]] | [[KEEP|74]] | [[KEEP|4th]] | [[KEEP|69-82]] | [[KEEP|2;11]] |
+  | [[KEEP|PLS-5 Total Language]] | [[KEEP|75]] | [[KEEP|5th]] | [[KEEP|70-83]] | [[KEEP|3;0]] |
+
+- Scaled scores were not generated by this measure. The examiner did not substitute raw performance counts for standard scores.
+- Differences between receptive and expressive results were interpreted descriptively. The small separation does not establish a meaningful difference by itself.
+
+RECEPTIVE AND EXPRESSIVE LANGUAGE FINDINGS
+
+- [[CHILD|María José]] identified familiar objects, actions, and basic body parts in both languages. She followed familiar one-step directions with [[KEEP|min cues]].
+- Novel two-step directions were completed in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Accuracy improved when the examiner demonstrated the sequence and reduced competing materials.
+- Understanding of location concepts was inconsistent. She benefited from contrasting examples and repeated opportunities to act out the instruction.
+- Expressive strengths included requesting, labeling, protesting, and commenting. Spontaneous phrases were usually brief, with more varied vocabulary during Spanish play.
+- She omitted grammatical elements in both languages. Difficulty explaining causes and describing completed events remained evident after familiar vocabulary was supplied.
+- During mediated learning, she applied a newly taught sentence pattern in [[KEEP|6/10]] opportunities with [[KEEP|mod cues]]. This responsiveness supports intervention using repeated models and meaningful practice.
+
+SPEECH SOUND AND INTELLIGIBILITY FINDINGS
+
+- Connected speech included reduced consonant precision and variable syllable shapes. Errors occurred in familiar Spanish words and English words, although individual patterns differed between languages.
+- English [[KEEP|/k/]] was sometimes replaced by [[KEEP|[t]]], and [[KEEP|/g/]] by [[KEEP|[d]]]. Spanish [[KEEP|/ɾ/]] was inconsistent. These findings require continued sampling in both languages.
+- Examples included [[KEEP|"tat"]] for [[KEEP|"cat"]], [[KEEP|"do"]] for [[KEEP|"go"]], and [[KEEP|"pato"]] for [[KEEP|"plato"]]. The examiner recorded the intended words after checking context.
+- Unfamiliar-listener intelligibility was estimated at [[KEEP|55%]] in a brief connected-speech sample. Familiar listeners understood approximately [[KEEP|75%]], based on caregiver report.
+- Production of [[KEEP|/k/]] improved in [[KEEP|8/10]] structured trials with [[KEEP|max cues]]. Generalization to spontaneous speech was not demonstrated during this evaluation.
+
+LANGUAGE SAMPLE AND SOCIAL COMMUNICATION
+
+- A play sample included requests, comments, questions, and attempts to repair misunderstood messages. [[CHILD|Marijó]] coordinated gaze, gestures, and speech during shared activities.
+- Recorded productions included [[KEEP|"yo quiero otro"]], [[KEEP|"baby sleeping"]], and [[KEEP|"no cabe aquí"]]. Mixed-language utterances were treated as part of bilingual communication.
+- During animal play, she said "[[PET|Mochi]] run." During family pretend play, she said "[[SIBLING|Teo]] help me." These productions contained names and were preserved as separate identifier spans.
+- The sample included the [[KEEP|SALT]] notation [[KEEP|[EW]]] for an extraneous word and [[KEEP|[EU]]] for an extraneous utterance. Codes describe transcription decisions, not independent diagnoses.
+- She sustained reciprocal play and accepted peer ideas. Communication repair often relied on pointing, repeating, or bringing an object to the listener.
+
+CLINICAL IMPRESSIONS
+
+- Findings support a mixed receptive-expressive language disorder with accompanying speech sound difficulty. Challenges affected participation across languages and settings, beyond the expected effects of learning English.
+- Strengths include social interest, symbolic play, family engagement, response to teaching, and willingness to communicate. These strengths provide useful foundations for intervention.
+- Working diagnostic codes are [[KEEP|F80.2]] and [[KEEP|F80.0]]. Final coding should remain consistent with the treating clinician’s complete record.
+- Assessment billing code: [[KEEP|CPT 92523]]. Anticipated individual treatment code: [[KEEP|CPT 92507]], with modifier [[KEEP|GN]] when required by the payer.
+- Prognosis for functional improvement is favorable with consistent attendance, bilingual support, and coordinated practice. Specific progress rates cannot be predicted from this evaluation alone.
+
+RECOMMENDED GOALS AND APPROACHES
+
+- Update IFSP outcome [[KEEP|2]] to address functional requests and message repair during home routines. Retain family priorities when transferring goals into the next service plan.
+- Goal [[KEEP|1]]: Follow related two-step directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], across play and classroom activities.
+- Goal [[KEEP|2]]: Produce expanded functional utterances in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]], using either language as appropriate.
+- Goal [[KEEP|3]]: Produce selected speech targets with [[KEEP|80%]] accuracy in structured phrases with [[KEEP|mod cues]], then monitor spontaneous use.
+- Goal [[KEEP|4]]: Repair a misunderstood message in [[KEEP|3 of 4]] opportunities with [[KEEP|min cues]].
+- Consider [[KEEP|Hanen]] caregiver strategies and selected elements of [[KEEP|Cycles]]. [[KEEP|PROMPT]] or [[KEEP|PECS]] may be considered only after individualized assessment establishes a relevant need.
+
+PROPOSED SESSION SCHEDULE
+
+- The schedule begins on [[DATE|November 3, 2025]], subject to authorization and caregiver coordination. Travel time is outside treatment time.
+
+  | Day | Start | Stop | Location |
+  |---|---|---|---|
+  | Monday | [[TIME|9:10 a.m.]] | [[TIME|9:40 a.m.]] | [[DAYCARE|Little Learners Daycare]], classroom consultation |
+  | Wednesday | [[TIME|3:20 p.m.]] | [[TIME|4:00 p.m.]] | [[EMPLOYER|Willow Lantern Pediatric Therapy]], [[PLACE|318 Lantern Finch Lane]] |
+  | Friday | [[TIME|10:00 a.m.]] | [[TIME|10:20 a.m.]] | Home coaching, [[PLACE|72 Sparrowglass Court]], [[PLACE|Cedarmist]] |
+
+HOME AND CLASSROOM RECOMMENDATIONS
+
+- Continue Spanish and English in natural routines. Adults should use the language in which they can provide clear, comfortable models.
+- Follow the child’s interests, pause for a response, and expand short messages by adding useful information. Accept gestures while supplying a spoken model.
+- Present new directions in manageable steps. Pair spoken instructions with objects, gestures, or pictures, then gradually reduce support as understanding improves.
+- Practice communication during meals, dressing, book sharing, and pretend play. Short, successful exchanges are more useful than repeated correction during every conversation.
+- Classroom staff should provide a predictable way to request help and enough time to respond. Record which supports improve participation across activities.
+- Review progress on [[DATE|January 15, 2026]]. Repeat broader assessment if progress remains limited or new concerns emerge.
+- Report prepared and signed by [[PROVIDER|Elena Marisol Fuentes]], bilingual pediatric speech-language pathologist, on [[DATE|October 27, 2025]].

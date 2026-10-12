@@ -1,0 +1,78 @@
+INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE / SPEECH-LANGUAGE EVALUATION REPORT
+
+Agency (long):  [[AGENCY|Centro de Desarrollo Infantil y Discapacidades del Piedmont]]   Agency (short):  [[AGENCY|CDSA Piedmont]]
+Service Coordination Agency (long):  [[AGENCY|Agencia de Coordinación de Servicios Infantiles del Condado de Alamance]]   Short form:  [[AGENCY|ACSICA]]
+Provider/Clinic:  [[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]]   Clinician:  [[PROVIDER|María Elena Sosa, M.S., CCC-SLP]]
+Child's Name:  [[CHILD|Mateo Alejandro Cruz Hernández]]   Nickname:  [[CHILD|Teo]]   Child ID:  [[ID|CDSA-0471839]]   Medicaid ID:  [[MEDICAID_ID|5847203619A]]
+Date of Birth:  [[DATE|June 14, 2022]]   Date of Evaluation:  [[DATE|September 29, 2026]]   Report Date:  [[DATE|October 3, 2026]]
+Address:  [[PLACE|118 Candlewood Lane]], [[PLACE|Mebane]], [[PLACE|Alamance County]], NC  [[PLACE|27302]]
+Mother/Madre:  [[PARENT|Lucía Fernanda Cruz Ramírez]]   Cell:  [[PHONE|(336) 555-7812]]
+Father/Padre:  [[PARENT|Edgar Hernández López]]   Cell:  [[PHONE|336.555.9034]]
+Interpreter:  [[PROVIDER|Juan Pablo Díaz]]   Service Coordinator:  [[PROVIDER|Yolanda Martínez]]   SC Phone:  [[PHONE|(336) 555-2201 ext. 14]]
+
+Motivo de la Remisión / Reason for Referral:  [[CHILD|Teo]] was referred by his pediatrician, [[PROVIDER|Dr. Robert Chen]] of [[HOSPITAL|Alamance Pediatric Associates]], after concerns about limited intelligibility and expressive delay were raised at his 4-year well-child visit. His mother, [[PARENT|Lucía]], contacted [[AGENCY|CDSA Piedmont]] directly on [[DATE|August 11, 2026]], stating "no le entiendo casi nada de lo que dice, y en la guardería tampoco lo entienden." The family was already receiving service coordination through [[AGENCY|ACSICA]] for an active [[KEEP|IFSP Outcome 2]] related to expressive language, and [[PROVIDER|Yolanda Martínez]] requested this update evaluation to inform the annual review.
+
+Historia del Nacimiento / Birth History:  [[CHILD|Teo]] was born at [[DATE|38 weeks]] gestation at [[HOSPITAL|Alamance Regional Medical Center]] in [[PLACE|Burlington, NC]] by vaginal delivery. Birth weight was [[KEEP|6 lbs 11 oz]] and Apgar scores were [[KEEP|8 and 9]] at one and five minutes. No NICU stay was reported. [[PARENT|Lucía]] reported an uncomplicated pregnancy with regular prenatal care through [[AGENCY|WIC]], where the family has received nutritional support since Teo's infancy. Mother denied maternal illness, substance use, or complications during pregnancy or delivery.
+
+Historia Médica / Medical History:  Current pediatrician is [[PROVIDER|Dr. Robert Chen]]. Teo passed his newborn hearing screening and a repeat audiological evaluation on [[DATE|March 2, 2026]] at [[HOSPITAL|UNC Health Audiology]] confirmed hearing within normal limits bilaterally. No history of chronic ear infections was reported, though [[PARENT|Lucía]] noted "tuvo como dos infecciones de oído cuando era bebé, pero nada grave." Teo is not currently on any medications. He was seen by occupational therapist [[PROVIDER|Dr. Amanda Lee]] for a fine motor screening in [[DATE|May 2026]]; results were within normal limits and OT services were not recommended. Medical diagnosis on file from [[PROVIDER|Dr. Chen]] includes [[KEEP|F80.2]] (mixed receptive-expressive language disorder), which supports continued CDSA eligibility.
+
+Historia Familiar y del Lenguaje / Family and Language History:  Teo lives with his mother, [[PARENT|Lucía Fernanda Cruz Ramírez]]; his father, [[PARENT|Edgar Hernández López]]; his older sister, [[SIBLING|Ximena Hernández]], age [[KEEP|7;4]]; and his baby brother, [[SIBLING|Santiago Hernández]], age [[KEEP|11 months]]. His paternal grandmother, [[FAMILY|Carmen López de Hernández]], known in the home as "Abuela Carmen," lives in the household and provides primary daytime care three days per week. A maternal aunt, [[FAMILY|Rosa Cruz]], and a family friend who babysits occasionally, [[FAMILY|Flor Ibarra]], also provide child care support. The family reports a pet dog named [[PET|Luna]] who Teo frequently talks about during sessions.
+
+The home language environment is bilingual. [[PARENT|Lucía]] reported, "en casa hablamos los dos idiomas, pero más español con los abuelos y más inglés con los maestros." [[PARENT|Edgar]] stated that he speaks primarily Spanish with the children, while [[PARENT|Lucía]] code-switches depending on context. [[SIBLING|Ximena]] is reportedly fluent and intelligible in both languages and often serves as an informal interpreter for Teo with peers, which the family and this clinician discussed as a pattern to monitor so that Teo continues developing his own expressive skills rather than relying on his sister.
+
+[[PARENT|Lucía]] works part-time at [[ORG|la tienda Dollar General]] near their home, with shifts that vary weekly. [[PARENT|Edgar]] works full-time at [[ORG|la planta empacadora de carne Smithfield]] in [[PLACE|Tar Heel, NC]], typically on the overnight shift. [[FAMILY|Abuela Carmen]] previously worked at [[ORG|el restaurante El Bajío]] in [[PLACE|Mebane]] but reduced her hours to help with childcare. [[FAMILY|Rosa Cruz]] works seasonally at [[ORG|la granja avícola Case Farms]] outside [[PLACE|Burlington]]. A paternal uncle, referenced by the family but not evaluated, works for [[ORG|la compañía de construcción Ramírez]], and a cousin works for [[ORG|el servicio de limpieza Brightway]] in [[PLACE|Graham, NC]]. In English word order, these would be described as the Dollar General store, Smithfield Packing Plant, El Bajío Restaurant, Case Farms poultry farm, Ramirez Construction Company, and Brightway Cleaning Service, respectively.
+
+Teo attends [[DAYCARE|Little Steps Early Head Start Center]] in [[PLACE|Mebane]] four days a week, enrolled through the [[AGENCY|Early Head Start]] program. His classroom teacher, [[TEACHER|Ms. Patricia Gómez]], reports that Teo is social and affectionate but "struggles to make himself understood, especially with new words or longer sentences." Ms. [[TEACHER|Gómez]] noted a classmate, [[PEER|Bryson]], often helps Teo during circle time by repeating his requests to the group. The family also receives family support services through [[AGENCY|Alamance Smart Start Partnership for Children]] and has an open case with [[AGENCY|Alamance County Department of Social Services]], abbreviated locally as [[AGENCY|DSS]], related to a prior housing assistance application; this is unrelated to any protective concerns.
+
+Observaciones Conductuales / Behavioral Observations:  The evaluation session took place on [[DATE|September 29, 2026]] from [[TIME|9:15 a.m.]] to [[TIME|10:45 a.m.]] at [[AGENCY|CDSA Piedmont]]'s office located at [[PLACE|204 Westgate Drive, Suite B]], [[PLACE|Burlington, NC]] [[PLACE|27215]]. [[PARENT|Lucía]] and [[FAMILY|Abuela Carmen]] were present for the session, along with interpreter [[PROVIDER|Juan Pablo Díaz]], who supported communication during portions of the parent interview conducted primarily in Spanish. Teo separated easily from his mother and engaged readily with toys and testing materials. He demonstrated a positive affect, frequent eye contact, and turn-taking within play, though his speech was frequently unintelligible to unfamiliar listeners, consistent with parent and teacher report.
+
+Teo used single words and occasional two-to-three-word combinations in both English and Spanish throughout the session. Code-switching was observed and appeared appropriate to context rather than reflecting confusion, for example requesting "more agua" and later independently self-correcting to "more water" when prompted by this clinician in English. He demonstrated phonological error patterns including final consonant deletion (producing "ca" for [[KEEP|"cat"]]), cluster reduction ("poon" for [[KEEP|"spoon"]]), and fronting of velars, substituting [[KEEP|/t/]] for [[KEEP|/k/]] in words such as [[KEEP|"tar"]] for [[KEEP|"car"]]. Stimulability for [[KEEP|/k/]] in isolation was present with [[KEEP|moderate cues]], and he achieved [[KEEP|6/10]] accuracy on imitated trials by the end of the session.
+
+Pruebas Administradas y Resultados / Tests Administered and Results:
+
+Test                                              Domain                          Standard Score    Percentile    Age Equivalent
+[[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]]       Auditory Comprehension          [[KEEP|72]]              [[KEEP|3rd]]          [[KEEP|2;9]]
+[[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]]       Expressive Communication         [[KEEP|65]]              [[KEEP|1st]]          [[KEEP|2;3]]
+[[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]  Sounds-in-Words           [[KEEP|68]]              [[KEEP|2nd]]          [[KEEP|2;11]]
+[[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]]  Receptive Language Index   [[KEEP|74]]       [[KEEP|4th]]          --
+[[KEEP|Bilingual English-Spanish Assessment (BESA)]]            Spanish Morphosyntax Index        [[KEEP|79]]              [[KEEP|8th]]          --
+
+On the [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest, administered in English with Spanish supports per bilingual protocol, Teo obtained a standard score of [[KEEP|72]] ([[KEEP|3rd percentile]]), falling within the moderately delayed range. On [[KEEP|Expressive Communication]], he obtained a standard score of [[KEEP|65]] ([[KEEP|1st percentile]]), in the severely delayed range, consistent with parent and teacher concerns. His combined [[KEEP|Total Language Score]] was [[KEEP|66]], falling at the [[KEEP|1st percentile]], with an age equivalent of [[KEEP|2;4]].
+
+Administration of the [[KEEP|GFTA-3]] yielded a raw score of [[KEEP|41]] errors, converting to a standard score of [[KEEP|68]] ([[KEEP|2nd percentile]]). Percentage of Consonants Correct (PCC) was calculated at [[KEEP|62%]], which is below age expectations. Stimulability testing showed that Teo could produce [[KEEP|/k/]], [[KEEP|/g/]], and final consonants in CV syllables with [[KEEP|maximal cues]], but accuracy dropped to [[KEEP|3/10]] in connected speech.
+
+The [[KEEP|BESA]] was administered to evaluate Spanish language skills given the family's reported home language use. Teo's [[KEEP|Spanish Morphosyntax]] score fell at the [[KEEP|8th percentile]], somewhat stronger than his English scores but still below expectations for bilingual peers, suggesting a true language impairment affecting both languages rather than a language difference secondary to bilingual exposure alone.
+
+Dynamic assessment of narrative retell, completed with support from interpreter [[PROVIDER|Juan Pablo Díaz]], showed Teo could sequence two of three events in a simple picture story with [[KEEP|moderate cues]], achieving [[KEEP|2/3]] (approximately [[KEEP|67%]]) accuracy, below the expected [[KEEP|80%]] benchmark for his age.
+
+Impresiones / Clinical Impressions:  Results indicate a moderate-to-severe mixed receptive-expressive language disorder affecting both English and Spanish, consistent with the medical diagnosis of [[KEEP|F80.2]] on file. Teo's phonological system shows multiple active error patterns limiting intelligibility across contexts, as reflected in his [[KEEP|GFTA-3]] results and consistent with the [[KEEP|62% PCC]] obtained during connected speech sampling. His bilingual profile shows relative strength in Spanish morphosyntax compared to English, though both languages fall below age expectations, ruling out typical bilingual second-language acquisition as the primary explanation for his difficulties. Teo continues to meet eligibility criteria for ongoing Infant-Toddler Program services through [[AGENCY|CDSA Piedmont]] under the category of established condition/developmental delay.
+
+Recomendaciones / Recommendations:
+
+1. Continue individual speech-language therapy twice weekly, 30-minute sessions, billed under [[KEEP|CPT 92507]] (individual speech-language treatment), targeting expressive vocabulary growth, phonological pattern remediation, and narrative skills in both English and Spanish.
+
+2. Add one monthly group session, billed under [[KEEP|CPT 92523]] (evaluation of speech sound production with evaluation of language comprehension and expression), to monitor progress across both languages and update goal targets as needed.
+
+3. Continue bilingual service delivery. This clinician recommends therapy be delivered by a bilingual provider or with consistent interpreter support from [[PROVIDER|Juan Pablo Díaz]] to ensure accurate progress monitoring in Spanish.
+
+4. Family education: provide [[PARENT|Lucía]] and [[PARENT|Edgar]] with home strategies for modeling target sounds and expanding utterances in whichever language is most comfortable in the moment, honoring the family's natural code-switching rather than restricting to one language.
+
+5. Coordinate with [[DAYCARE|Little Steps Early Head Start Center]] and [[TEACHER|Ms. Patricia Gómez]] regarding classroom supports, including reducing reliance on peer interpretation (for example from [[PEER|Bryson]]) in favor of structured adult prompting to encourage Teo's independent attempts.
+
+6. Recommend referral for a follow-up audiological recheck given history of early ear infections, to rule out any fluctuating hearing contribution to phonological delay; family may coordinate through [[PROVIDER|Dr. Robert Chen]] or directly with [[HOSPITAL|UNC Health Audiology]].
+
+7. This clinician will update [[PROVIDER|Yolanda Martínez]] at [[AGENCY|ACSICA]] with this report prior to the annual IFSP review meeting scheduled for [[DATE|November 18, 2026]] at [[TIME|1:00 p.m.]]
+
+8. Encourage continued connection with [[AGENCY|WIC]] and [[AGENCY|Alamance Smart Start Partnership for Children]] family support staff, who can reinforce language-rich routines during home visits.
+
+Plan of Care Review Date:  [[DATE|March 2027]]
+Reevaluation recommended in approximately [[KEEP|6 months]] or sooner if progress plateaus.
+
+This report was prepared following direct observation, parent interview, and interpreter-supported communication. All test results were interpreted considering Teo's bilingual language exposure, consistent with best practice guidelines for dual-language learners.
+
+Clinician Signature:  [[PROVIDER|María Elena Sosa, M.S., CCC-SLP]]   License #:  [[ID|NC-SLP-88213]]
+Contact:  [[PHONE|(336) 555-4470]]   Email:  [[EMAIL|m.sosa@piedmontpeds-slp.com]]
+Fax:  [[PHONE|336-555-4471]]
+Family contact for records request, maternal grandmother in [[PLACE|Villanueva, Zacatecas]]:  [[FAMILY|Ofelia Ramírez Soto]]   Phone:  [[PHONE|+52 492 123 4567]]
+
+Distribution:  [[AGENCY|CDSA Piedmont]] file, [[AGENCY|ACSICA]] service coordination file (Attn: [[PROVIDER|Yolanda Martínez]]), family copy provided in English with verbal Spanish summary via [[PROVIDER|Juan Pablo Díaz]] on [[DATE|October 3, 2026]].

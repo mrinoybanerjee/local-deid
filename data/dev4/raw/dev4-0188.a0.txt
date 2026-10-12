@@ -1,0 +1,152 @@
+INFORME DE EVALUACIÓN DEL HABLA Y EL LENGUAJE
+
+[[EMPLOYER|Piedmont Pediatric Speech-Language Services, PLLC]]
+Patóloga del habla y lenguaje: [[PROVIDER|Mariana Castillo Fuentes]], M.S., CCC-SLP (bilingüe, inglés/español)
+Teléfono de la clínica: [[PHONE|(336) 555-0148]] | Correo electrónico: [[EMAIL|mcastillo@piedmontpedsslp.com]] | Sitio web: [[URL|www.piedmontpedsslp.com]]
+
+**1. INFORMACIÓN DE IDENTIFICACIÓN**
+
+Nombre del niño: [[CHILD|Mateo Alejandro Hernández Pérez]] (conocido en casa como "[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|03/14/2021]]
+Edad cronológica en el momento de la evaluación: [[KEEP|4;2]]
+Expediente clínico número: [[ID|LD-20250211-MH]]
+Número de identificación de Medicaid: [[MEDICAID_ID|987654321A]]
+Madre: [[PARENT|Lucía Fernanda Rodríguez Gómez]]
+Padre: [[PARENT|Carlos Eduardo Hernández Martínez]]
+Dirección: [[PLACE|1427 Willowbrook Lane, Apartamento 3B]], [[PLACE|Greensboro]], NC [[PLACE|27410]]
+Teléfono de contacto de la familia: [[PHONE|(336) 555-0199]]
+Correo electrónico de la familia: [[EMAIL|lucia.rodriguez84@gmail.com]]
+Fuente de remisión: [[AGENCY|Children's Developmental Services Agency (CDSA) del Condado de Guilford]]
+Coordinadora de servicios del CDSA: [[PROVIDER|Hannah Diaz]]
+Pediatra: [[PROVIDER|Dr. Kevin Park]], [[HOSPITAL|Piedmont Valley Pediatrics]]
+Fechas de la evaluación: [[DATE|3 de febrero de 2025]] y [[DATE|10 de febrero de 2025]]
+Fecha del informe: [[DATE|3 de marzo de 2025]]
+Próxima revisión del IFSP programada para [[DATE|el martes 4 de junio de 2025]]
+
+**2. RAZÓN DE LA REMISIÓN**
+
+[[CHILD|Mateo]] fue remitido para una evaluación integral del habla y el lenguaje por preocupación de su madre, [[PARENT|Lucía Fernanda Rodríguez Gómez]], y de su maestra, [[TEACHER|Ashley Thompson]], en el centro [[DAYCARE|Little Sprouts Early Learning Center]]. La maestra [[TEACHER|Thompson]] reportó que [[CHILD|Teo]] se frustra con frecuencia al intentar comunicarse con sus compañeros, incluido su amigo [[PEER|Ethan]], y que su inteligibilidad es significativamente menor que la de otros niños de su grupo. La madre indicó que, en casa, [[CHILD|Mateo]] usa oraciones cortas y que su hermana mayor, [[SIBLING|Sofía]], a menudo "habla por él" ante extraños. El pediatra, [[PROVIDER|Dr. Kevin Park]], remitió a la familia al [[AGENCY|CDSA del Condado de Guilford]] después de una revisión de rutina en la que notó un retraso aparente en el desarrollo expresivo.
+
+Esta evaluación se realizó para determinar el nivel actual de funcionamiento del habla y el lenguaje de [[CHILD|Mateo]], establecer un diagnóstico diferencial y generar recomendaciones para el [[AGENCY|Plan Individualizado de Servicios para la Familia (IFSP)]].
+
+**3. HISTORIA DEL DESARROLLO, EL NACIMIENTO Y LA SALUD**
+
+Según refiere la madre, el embarazo fue de término, sin complicaciones significativas, con control prenatal regular en [[HOSPITAL|Piedmont Valley Medical Center]]. [[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación mediante parto vaginal, el [[DATE|14-03-2021]], con un peso al nacer de [[KEEP|3,200 gramos]] y una talla de [[KEEP|49 centímetros]]. Los puntajes de Apgar fueron de [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. No se reportaron complicaciones neonatales ni estancia prolongada en la unidad de cuidados intensivos.
+
+Los hitos motores gruesos y finos se alcanzaron dentro de los límites esperados: se sentó sin apoyo a los [[KEEP|6 meses]], caminó de forma independiente a los [[KEEP|13 meses]]. Los hitos del lenguaje, en cambio, se retrasaron: las primeras palabras aparecieron alrededor de los [[KEEP|22 meses]], y la combinación de dos palabras no se observó de manera consistente hasta cerca de los [[KEEP|36 meses]].
+
+La historia médica es notable por otitis media recurrente: [[CHILD|Mateo]] tuvo seis episodios documentados entre los [[KEEP|8 y 24 meses]] de edad, tratados con antibióticos, y se le colocaron tubos de ventilación bilaterales a los [[KEEP|2;1]] años en el [[HOSPITAL|Piedmont Valley Medical Center]]. Una audiometría reciente, realizada el [[DATE|15 de enero de 2025]], mostró audición dentro de límites normales en ambos oídos. No hay antecedentes de convulsiones, traumatismo craneal ni hospitalizaciones distintas a la colocación de tubos. La visión fue evaluada como normal en su último examen pediátrico.
+
+No se reportan antecedentes familiares de trastornos del espectro autista. La madre sí refiere que un tío paterno, [[FAMILY|Miguel Ángel Hernández]], presentó un retraso del habla en la infancia que se resolvió sin tratamiento formal.
+
+**4. HISTORIA FAMILIAR, SOCIAL Y LINGÜÍSTICA**
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Fernanda Rodríguez Gómez]]; su padre, [[PARENT|Carlos Eduardo Hernández Martínez]]; y su hermana mayor, [[SIBLING|Sofía]], de siete años. La familia también tiene una perrita llamada [[PET|Luna]], que [[CHILD|Mateo]] menciona con frecuencia durante el juego.
+
+La madre, [[PARENT|Lucía]], trabaja como cocinera en [[ORG|El Fogón Restaurant]]; el padre, [[PARENT|Carlos]], trabaja en la [[ORG|Pine Ridge Processing Plant]], una planta procesadora de aves cerca de [[PLACE|Burlington]]. Según refiere la madre, los horarios rotativos de ambos —ella entra a las [[TIME|3:00 p.m.]] y él sale a las [[TIME|6:30 a.m.]]— hacen que la abuela paterna, [[FAMILY|Rosa Elena Martínez]], cuide a los niños varias tardes por semana. [[FAMILY|Rosa Elena]] trabaja medio tiempo en la [[ORG|empresa de limpieza Sparkle Clean]] y, los fines de semana, ayuda en la [[ORG|planta Pine Ridge]] cuando necesitan personal adicional.
+
+Otros familiares cercanos incluyen a la tía materna, [[FAMILY|Carmen Rodríguez]], quien trabaja en la [[ORG|finca Sunny Acres]] cosechando tabaco durante la temporada; al tío paterno, [[FAMILY|Miguel Ángel Hernández]], empleado de la [[ORG|Carter Construction Company]]; y al primo, [[FAMILY|Diego Hernández]], de diecinueve años, quien trabaja en la [[ORG|tienda Dollar General]] del vecindario. La familia se reúne con frecuencia en casa de [[FAMILY|Rosa Elena]], quien vive a pocas cuadras de distancia.
+
+El padre, [[PARENT|Carlos]], nació y creció en la aldea de [[PLACE|San Pedro La Laguna]], [[PLACE|Sololá]], en Guatemala, y emigró a [[PLACE|Carolina del Norte]] hace trece años. La madre, [[PARENT|Lucía]], nació en [[PLACE|Greensboro]] de padres mexicanos. En casa se habla principalmente español con los abuelos y con el padre, e inglés y español mezclados entre la madre, [[SIBLING|Sofía]] y [[CHILD|Mateo]]. La madre reporta que [[CHILD|Mateo]] entiende ambos idiomas, pero que su producción verbal es limitada en los dos. [[SIBLING|Sofía]] es completamente bilingüe y suele servir de "traductora" de su hermano menor ante maestros y familiares que no hablan español.
+
+La familia reside en [[PLACE|1427 Willowbrook Lane, Apartamento 3B]], [[PLACE|Greensboro]], NC [[PLACE|27410]], en un complejo de apartamentos cercano a la [[DAYCARE|Little Sprouts Early Learning Center]]. Antes de mudarse a este domicilio, la familia vivió brevemente con la abuela [[FAMILY|Rosa Elena Martínez]] en [[PLACE|412 Maple Street]], [[PLACE|High Point]].
+
+**5. HISTORIA EDUCATIVA Y DE SERVICIOS**
+
+[[CHILD|Mateo]] asiste al centro [[DAYCARE|Little Sprouts Early Learning Center]] cinco días a la semana, de [[TIME|8:00 a.m.]] a [[TIME|4:30 p.m.]], en el salón de la maestra [[TEACHER|Ashley Thompson]], con el apoyo de la asistente [[TEACHER|Brenda Collins]]. No ha recibido previamente servicios de terapia del habla y lenguaje, aunque la familia reporta que un terapeuta privado, [[PROVIDER|Jennifer Lee]], M.S., CCC-SLP, realizó una evaluación breve de cribado en [[DATE|octubre de 2024]] que recomendó una evaluación completa.
+
+La familia recibió apoyo de la agencia [[AGENCY|Smart Start de Guilford County]] para el pago parcial de la matrícula del centro de cuidado infantil. La madre también mencionó que reciben beneficios de [[AGENCY|WIC]] desde el nacimiento de [[CHILD|Mateo]].
+
+**6. PROCEDIMIENTOS DE EVALUACIÓN**
+
+La evaluación se llevó a cabo en dos sesiones, en las instalaciones de [[EMPLOYER|Piedmont Pediatric Speech-Language Services, PLLC]], con la participación de la madre, [[PARENT|Lucía Fernanda Rodríguez Gómez]]. Se utilizaron los siguientes instrumentos y procedimientos, administrados principalmente en español con apoyo del inglés según respuesta del niño:
+
+- [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], versión en español
+- [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]]
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]
+- [[KEEP|Bilingual English Spanish Assessment (BESA)]]
+- Observación clínica y muestra de lenguaje espontáneo
+- Entrevista con la madre y revisión de registros médicos y educativos
+- Observación informal del juego simbólico y la interacción social
+
+**7. RESULTADOS DE LAS PRUEBAS ESTANDARIZADAS**
+
+| Prueba / Subprueba | Puntaje estándar | Percentil | Equivalente de edad |
+|---|---|---|---|
+| [[KEEP|PLS-5]] [[KEEP|Comprensión Auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|2;9-3;0]] |
+| [[KEEP|PLS-5]] [[KEEP|Comunicación Expresiva]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|2;6-2;9]] |
+| [[KEEP|PLS-5]] [[KEEP|Puntaje Total del Lenguaje]] | [[KEEP|72]] | [[KEEP|3]] | — |
+| [[KEEP|CELF Preschool-3]] [[KEEP|Estructura del Lenguaje]] | [[KEEP|78]] | [[KEEP|7]] | — |
+| [[KEEP|GFTA-3]] [[KEEP|Puntaje Estándar]] | [[KEEP|68]] | [[KEEP|2]] | — |
+| [[KEEP|BESA]] [[KEEP|Morfosintaxis - Español]] | [[KEEP|7]] (escalar) | [[KEEP|16]] | — |
+| [[KEEP|BESA]] [[KEEP|Morfosintaxis - Inglés]] | [[KEEP|5]] (escalar) | [[KEEP|5]] | — |
+
+Intervalo de confianza del [[KEEP|95%]] para el puntaje total del lenguaje del [[KEEP|PLS-5]]: [[KEEP|66-78]].
+
+Durante la administración, [[CHILD|Mateo]] requirió [[KEEP|mod cues]] para mantenerse en la tarea y [[KEEP|min cues]] para repetir ítems no comprendidos inicialmente. Se observó fatiga hacia el final de la segunda sesión, por lo que la subprueba de narrativa se completó con pausas adicionales.
+
+**8. OBSERVACIONES CLÍNICAS Y MUESTRA DE LENGUAJE**
+
+Durante el juego libre con figuras de animales, [[CHILD|Mateo]] produjo enunciados de dos y tres palabras, principalmente en español, con omisión frecuente de artículos y conjugaciones verbales. Entre las producciones espontáneas registradas:
+
+"[[SIBLING|Sofía]] juega con [[PET|Luna]] afuera."
+"Papá trabaja mucho."
+"[[PET|Luna]] come."
+"no quiero eso."
+
+En una ocasión, al preguntársele por su familia, [[CHILD|Mateo]] señaló una foto y dijo "ese es [[PARENT|papá]], ese [[SIBLING|Sofía]], esa [[PET|Luna]]", demostrando conocimiento conceptual de las relaciones familiares a pesar de la sintaxis limitada.
+
+En la prueba de articulación se observaron los siguientes patrones de error consistentes con un trastorno fonológico moderado:
+
+- Sustitución de /s/ por [t]: "sol" producido como [[KEEP|"tol"]]
+- Simplificación de grupos consonánticos: "flor" producido como [[KEEP|"for"]]
+- Procesos de fronting velar: /k/ producido como [t]: "casa" producido como [[KEEP|"tasa"]]
+- Dificultad con la vibrante alveolar /ɾ/, sustituida por [l]: "pero" producido como [[KEEP|"pelo"]]
+
+La inteligibilidad global se estimó en aproximadamente [[KEEP|40%]] para oyentes no familiarizados y [[KEEP|65%]] para la madre, en contexto conocido.
+
+Durante la interacción, [[CHILD|Mateo]] mostró buen contacto visual, intención comunicativa clara mediante gestos y vocalizaciones, y respuesta apropiada a su nombre. No se observaron conductas repetitivas atípicas ni dificultades significativas con cambios de rutina durante la sesión. El juego simbólico fue apropiado para la edad, incluyendo secuencias de alimentar y acostar a un muñeco.
+
+**9. RESUMEN E IMPRESIONES DIAGNÓSTICAS**
+
+Con base en los hallazgos de esta evaluación, [[CHILD|Mateo Alejandro Hernández Pérez]] presenta un retraso significativo en el desarrollo del lenguaje expresivo y receptivo, así como un trastorno fonológico de severidad moderada, en ambos idiomas, pero más marcado en inglés. Los resultados del [[KEEP|BESA]] confirman que el perfil bilingüe de [[CHILD|Mateo]] refleja un trastorno primario del lenguaje y no simplemente una exposición reducida a un idioma, dado que su desempeño en español, su idioma dominante en el hogar, también se encuentra por debajo de lo esperado para su edad.
+
+Impresión diagnóstica: Trastorno del Lenguaje ([[KEEP|ICD-10: F80.2]]) y Trastorno Fonológico ([[KEEP|ICD-10: F80.0]]), de presentación bilingüe. Se descarta trastorno del espectro autista con base en la observación clínica directa; sin embargo, se recomienda continuar monitoreando las habilidades sociales y pragmáticas dado el perfil de comunicación limitado.
+
+Los antecedentes de otitis media recurrente y la colocación de tubos de ventilación son factores de riesgo relevantes que probablemente contribuyeron al retraso temprano en la adquisición fonológica, aunque la audición actual es normal y no explica por sí sola la magnitud del retraso observado.
+
+**10. RECOMENDACIONES**
+
+1. Se recomienda que [[CHILD|Mateo]] reciba terapia del habla y lenguaje bilingüe, de manera individual, con una frecuencia de dos sesiones de [[KEEP|30 minutos]] por semana, bajo el [[AGENCY|IFSP]] coordinado a través del [[AGENCY|CDSA del Condado de Guilford]].
+
+2. Se recomienda el uso del enfoque [[KEEP|Hanen]] para fortalecer las estrategias de estimulación del lenguaje en el hogar, con entrenamiento directo a la madre, [[PARENT|Lucía Fernanda Rodríguez Gómez]], y, cuando su horario lo permita, al padre, [[PARENT|Carlos Eduardo Hernández Martínez]].
+
+3. Para los objetivos fonológicos se recomienda el enfoque [[KEEP|Cycles]] de intervención fonológica, dirigido a los procesos de fronting velar y simplificación de grupos consonánticos identificados.
+
+4. Dada la frustración comunicativa observada, se recomienda introducir apoyos visuales y, de ser necesario, estrategias del sistema [[KEEP|PECS]] como apoyo complementario mientras se desarrolla el lenguaje verbal.
+
+5. Se recomienda coordinación con el personal del centro [[DAYCARE|Little Sprouts Early Learning Center]], incluyendo a la maestra [[TEACHER|Ashley Thompson]], para generalizar las estrategias de lenguaje al entorno escolar.
+
+6. Se recomienda una nueva evaluación audiológica en [[KEEP|6 meses]] para confirmar la estabilidad de la audición normal documentada el [[DATE|15 de enero de 2025]].
+
+7. Se sugiere que la familia continúe utilizando el español como idioma principal en el hogar, dado que no existe evidencia de que el bilingüismo contribuya al retraso del lenguaje; por el contrario, mantener ambos idiomas apoyará el desarrollo comunicativo integral de [[CHILD|Mateo]].
+
+8. Se recomienda reevaluación formal en aproximadamente [[KEEP|12 meses]], o antes si el equipo del IFSP lo considera necesario.
+
+**11. PLAN DE TRATAMIENTO Y SEGUIMIENTO**
+
+Se propone el [[KEEP|Resultado 2]] del IFSP: "[[CHILD|Mateo]] usará oraciones de tres a cuatro palabras para expresar necesidades y comentarios en ambos idiomas, en al menos [[KEEP|8 de 10]] oportunidades observadas." Como [[KEEP|Meta 3]] asociada, se plantea la reducción de los procesos fonológicos de fronting velar y simplificación de grupos consonánticos a un nivel de ocurrencia menor al [[KEEP|20%]] en habla espontánea.
+
+Los servicios de terapia se facturarán bajo el código [[KEEP|CPT 92523]] (evaluación del habla y el lenguaje) para la sesión inicial y [[KEEP|CPT 92507]] con el modificador [[KEEP|GN]] para las sesiones de tratamiento continuo, conforme a la autorización del [[AGENCY|CDSA del Condado de Guilford]].
+
+La siguiente revisión del IFSP está programada para [[DATE|el martes 4 de junio de 2025]], a las [[TIME|10:00 a.m.]], en las oficinas del [[AGENCY|CDSA del Condado de Guilford]]. La coordinadora de servicios, [[PROVIDER|Hannah Diaz]], estará presente junto con la madre, [[PARENT|Lucía Fernanda Rodríguez Gómez]], y la evaluadora.
+
+Agradezco la oportunidad de evaluar a [[CHILD|Mateo]] y permanezco disponible para cualquier pregunta adicional de la familia o del equipo interdisciplinario.
+
+Atentamente,
+
+[[PROVIDER|Mariana Castillo Fuentes]], M.S., CCC-SLP
+Patóloga del Habla y Lenguaje Bilingüe
+[[EMPLOYER|Piedmont Pediatric Speech-Language Services, PLLC]]
+[[PHONE|(336) 555-0148]] | [[EMAIL|mcastillo@piedmontpedsslp.com]] | [[URL|www.piedmontpedsslp.com]]
+Fecha: [[DATE|3 de marzo de 2025]]

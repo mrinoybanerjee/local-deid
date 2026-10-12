@@ -1,0 +1,29 @@
+Evaluación breve y nota diaria de terapia del lenguaje
+
+Fecha: [[DATE|10 de junio de 2026]]. Hora: [[TIME|9:15 a. m.]]
+Paciente: [[CHILD|María José Valdés Cifuentes]]. Edad: [[KEEP|4;2]]. Nacimiento: [[DATE|10 de abril de 2022]].
+Registro: [[ID|SLP-682194]]. Medicaid: [[MEDICAID_ID|937461825K]].
+Profesional: [[PROVIDER|Elena Marisol Fuentes]], patóloga bilingüe del habla y lenguaje.
+Empleador: [[EMPLOYER|Senderos del Habla Pediátrica PLLC]], también denominado [[EMPLOYER|Senderos del Habla]] y [[EMPLOYER|SHP]].
+Lugar: [[DAYCARE|Little Learners Daycare]], [[PLACE|Arroyo Claro]], Carolina del Norte.
+Contacto: [[PHONE|919-555-0147]]. Correo: [[EMAIL|elena.fuentes@example.com]].
+Servicio: [[KEEP|92507]]; modificador [[KEEP|GN]]. Diagnóstico: [[KEEP|F80.2]].
+
+S: Su mamá, [[PARENT|Lucía Cifuentes]], informó que [[CHILD|María José]] usa frases más largas durante las comidas. Su hermana, [[SIBLING|Sol]], participa en juegos de turnos. La maestra, [[TEACHER|Nora Beltrán]], describió dificultades para seguir instrucciones grupales. Su abuela, [[FAMILY|Adela Valdés]], acompañó la transición al salón.
+
+O: Se revisaron los resultados de [[KEEP|PLS-5 Spanish]], administrado el [[DATE|3 de junio de 2026]]. La evaluación combinó tareas estructuradas, observación y entrevista familiar. Se aceptaron respuestas en ambos idiomas según las reglas del instrumento.
+
+| Subprueba | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|2;9–3;2]] |
+| [[KEEP|Comunicación expresiva]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|75–88]] | [[KEEP|3;0–3;5]] |
+
+Los intervalos corresponden al nivel de confianza del [[KEEP|95%]]. Las edades equivalentes son descriptivas; no representan una edad global de desarrollo.
+
+Durante la sesión de treinta minutos, [[CHILD|María José]] identificó acciones en [[KEEP|8/10]] oportunidades con [[KEEP|ayudas mínimas]]. Produjo el objetivo léxico [[KEEP|“sol”]] en [[KEEP|3/5]] ensayos con [[KEEP|ayudas moderadas]]. Después dijo “[[SIBLING|Sol]] viene”, al mirar la puerta. Practicó [[KEEP|/k/]] en [[KEEP|“casa”]]; produjo [[KEEP|“tasa”]] inicialmente. Compartió materiales con [[PEER|Diego Luján]] sin apoyo físico.
+
+A: El desempeño indica necesidades receptivas y expresivas. La atención mejoró con pausas y apoyos visuales. La muestra bilingüe mostró dificultades en ambos idiomas; la exposición al español no explica por sí sola los hallazgos.
+
+P: Continuar [[KEEP|Little Learners Program]] con estrategias de [[KEEP|Hanen]]. Trabajar instrucciones de dos pasos y expansión de frases. La familia practicará cinco minutos diarios. Revisar progreso el [[DATE|24 de junio de 2026]].
+
+Firma: [[PROVIDER|Elena Marisol Fuentes]].

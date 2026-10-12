@@ -1,0 +1,115 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS FAMILIARES (IFSP)
+PROGRAMA INFANTIL DE CAROLINA DEL NORTE (NC INFANT-TODDLER PROGRAM)
+REVISIÓN DE PLAN — INFORME NARRATIVO
+
+1. INFORMACIÓN DE IDENTIFICACIÓN
+
+1.1 Información del niño
+Nombre del niño: [[CHILD|Santiago Emilio Vargas Peña]] (conocido como "[[CHILD|Santi]]")
+Fecha de nacimiento: [[DATE|July 9, 2023]]
+Edad cronológica en esta revisión: 2;3
+ID del Programa Infantil de NC (NC ITP Child ID): [[ID|NCITP-2023-884127]]
+Número de Medicaid: [[MEDICAID_ID|MA7729315B]]
+Número de identificación de miembro de seguro (Blue Cross NC): [[ID|BX00441207]]
+Número de autorización de servicios: [[ID|AUTH-55218-RV2]]
+Dirección residencial: [[PLACE|412 Willow Bend Lane]], [[PLACE|Hendersonville]], [[PLACE|Henderson County]], [[PLACE|28792]]
+
+1.2 Información de los padres/tutores
+Madre: [[PARENT|Marisol Peña Castillo]]
+Teléfono celular: [[PHONE|(828) 555-0193]]
+Correo electrónico: [[EMAIL|marisol.pena83@gmail.com]]
+Padre: [[PARENT|Emilio Vargas Soto]]
+Teléfono celular: [[PHONE|(828) 555-0147]]
+Lugar de empleo del padre: [[ORG|Blue Ridge Furniture Works]]
+
+1.3 Hermanos
+Hermana mayor: [[SIBLING|Camila Vargas Peña]], 6 años
+Hermano menor: [[SIBLING|Mateo Vargas Peña]], 8 meses
+
+1.4 Otros miembros del hogar
+La abuela materna, [[FAMILY|Rosa Castillo Díaz]], vive en el hogar y ayuda con el cuidado de los niños durante el día mientras la madre trabaja. La niñera ocasional de la familia es [[FAMILY|Yolanda Ruiz]].
+
+2. COORDINACIÓN DE SERVICIOS Y OFICINA DEL CDSA
+
+Coordinadora de servicios: [[PROVIDER|Brenda Collazo Ramírez]], Coordinadora de Servicios Bilingüe
+Oficina del Centro de Desarrollo Infantil (CDSA): [[AGENCY|CDSA del Oeste de Carolina del Norte, oficina de Asheville]]
+Dirección de la oficina: [[PLACE|200 Tunnel Road]], [[PLACE|Asheville]], [[PLACE|Buncombe County]], [[PLACE|28805]]
+Teléfono de la oficina: [[PHONE|(828) 555-0220]]
+Correo electrónico de la coordinadora: [[EMAIL|bcollazo@cdsawnc.org]]
+
+3. INFORMACIÓN DE LA CLÍNICA Y LA PROFESIONAL QUE ESCRIBE ESTE INFORME
+
+Este informe fue preparado por [[PROVIDER|Laura Beatriz Fernández Morales]], M.S., CCC-SLP, patóloga del habla y lenguaje bilingüe (español-inglés), número de licencia de Carolina del Norte 44102.
+Empresa empleadora: [[EMPLOYER|Carolina Bright Beginnings Therapy Group, PLLC]]
+Sitio web de la empresa: [[URL|www.carolinabrightbeginnings.com]]
+Correo electrónico profesional: [[EMAIL|lfernandez@carolinabrightbeginnings.com]]
+Teléfono de la clínica: [[PHONE|(828) 555-0310]]
+Las sesiones de terapia del habla y lenguaje de [[CHILD|Santi]] se llevan a cabo en el hogar de la familia los martes y jueves, de [[TIME|9:30 a.m.]] a [[TIME|10:15 a.m.]].
+
+4. HISTORIA Y RAZÓN DE LA REFERENCIA
+
+[[CHILD|Santi]] fue referido al Programa Infantil de NC el [[DATE|November 14, 2024]] por su pediatra, el Dr. [[PROVIDER|Hector Manuel Ortiz]], del [[HOSPITAL|Pardee Pediatric Associates]], debido a preocupaciones sobre un retraso significativo en el desarrollo del lenguaje expresivo. La evaluación inicial se realizó el [[DATE|December 2, 2024]] y el primer IFSP se firmó el [[DATE|December 18, 2024]]. Esta es la primera revisión semestral del plan, realizada el [[DATE|June 10, 2025]].
+
+5. PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en palabras propias de la familia)
+
+La madre, [[PARENT|Marisol]], expresó: "Lo que más me preocupa es que [[CHILD|Santi]] todavía no me dice lo que quiere. Señala las cosas o llora, pero no tiene palabras. Su hermana a su edad ya hablaba mucho más." También compartió: "Quiero que pueda jugar con los otros niños en el parque sin frustrarse tanto."
+
+El padre, [[PARENT|Emilio]], añadió: "A mí me preocupa que cuando empiece la guardería no lo van a entender. Queremos que aprenda inglés también, pero primero necesita tener las palabras en español."
+
+Prioridades identificadas por la familia:
+- Que [[CHILD|Santi]] use palabras o frases cortas para pedir comida, agua y juguetes.
+- Que disminuyan las rabietas relacionadas con la frustración comunicativa.
+- Que la familia reciba estrategias para apoyar el lenguaje en ambos idiomas en el hogar.
+
+6. RUTINAS DIARIAS DE LA FAMILIA
+
+[[CHILD|Santi]] se despierta aproximadamente a las [[TIME|7:00 a.m.]] y desayuna con su familia. La abuela [[FAMILY|Rosa]] lo cuida de [[TIME|8:00 a.m.]] a [[TIME|1:00 p.m.]] mientras la madre trabaja en [[ORG|Henderson County Health Clinic]]. Durante la mañana, juega con bloques y ve programas infantiles en español. La siesta ocurre de [[TIME|1:30 p.m.]] a [[TIME|3:00 p.m.]]. Por las tardes, la familia completa suele reunirse para cenar alrededor de las [[TIME|6:30 p.m.]], seguido de tiempo de juego con su hermana [[SIBLING|Camila]] y el perro de la familia, [[PET|Canela]]. La rutina de baño y cuento comienza a las [[TIME|7:45 p.m.]], y [[CHILD|Santi]] se duerme cerca de las [[TIME|8:30 p.m.]].
+
+7. OTRAS AGENCIAS Y SERVICIOS INVOLUCRADOS
+
+La familia también recibe apoyo de las siguientes agencias:
+- [[AGENCY|WIC del Condado de Henderson]] para nutrición infantil.
+- [[AGENCY|Smart Start de las Montañas del Oeste]], que proporciona recursos de desarrollo infantil temprano.
+- La familia está en lista de espera para el programa Head Start a través de [[AGENCY|Henderson County Partnership for Children]].
+
+8. EVALUACIÓN Y NIVELES ACTUALES DE DESARROLLO
+
+La evaluación más reciente, administrada por [[PROVIDER|Laura Fernández]] el [[DATE|May 28, 2025]], utilizó el Preschool Language Scale-5 (PLS-5), versión en español. [[CHILD|Santi]] obtuvo una puntuación estándar de 68 en Lenguaje Expresivo (percentil 2) y 79 en Lenguaje Receptivo (percentil 8). En el muestreo de lenguaje espontáneo, produjo combinaciones de dos palabras en 3/10 oportunidades, con producciones como "más agua" y "no quiero". Se observó el uso del fonema /t/ en posición inicial de manera consistente, pero omisión de /s/ final en palabras como "más" → [ma]. Requirió nivel de ayuda de claves moderadas (mod cues) para imitar vocabulario objetivo.
+
+9. RESULTADOS (OUTCOMES) Y ESTRATEGIAS
+
+Resultado 1: [[CHILD|Santi]] usará de 2 a 3 palabras combinadas para expresar necesidades durante las rutinas diarias en el hogar.
+Estrategias: Modelado de lenguaje expandido durante las comidas y el juego; uso de encuadre de rutina con la abuela [[FAMILY|Rosa]] y la madre [[PARENT|Marisol]]; práctica de vocabulario funcional ("quiero", "más", "ayuda") con apoyo visual.
+
+Resultado 2: La familia identificará y usará al menos tres estrategias de comunicación aumentada (gestos naturales, espera estructurada, opciones limitadas) durante las rutinas de juego y alimentación.
+Estrategias: Entrenamiento de los padres en sesiones quincenales; práctica conjunta durante la sesión de terapia de los jueves a las [[TIME|9:30 a.m.]].
+
+Resultado 3: [[CHILD|Santi]] disminuirá los episodios de frustración comunicativa (actualmente 5 a 6 por día) a 2 o menos por día mediante el uso de comunicación funcional.
+Estrategias: Enseñanza de intercambio de imágenes simples; coordinación con la coordinadora de servicios, [[PROVIDER|Brenda Collazo Ramírez]], para considerar evaluación adicional si no hay progreso en 3 meses.
+
+10. SERVICIOS Y FRECUENCIA
+
+Terapia del habla y lenguaje bilingüe: dos veces por semana, sesiones de 45 minutos, en el hogar, proporcionada por [[PROVIDER|Laura Beatriz Fernández Morales]], M.S., CCC-SLP, de [[EMPLOYER|Carolina Bright Beginnings Therapy Group, PLLC]]. Fecha de inicio del servicio: [[DATE|December 20, 2024]]. Fecha de fin proyectada bajo este plan: [[DATE|December 18, 2025]].
+
+Entrenamiento familiar mensual con apoyo de interpretación según necesidad, proporcionado por la intérprete [[PROVIDER|Gloria Esperanza Núñez]], contratada a través de [[AGENCY|CDSA del Oeste de Carolina del Norte]].
+
+Próxima revisión de IFSP programada para: [[DATE|December 10, 2025]].
+
+11. PARTICIPANTES EN ESTA REUNIÓN DE REVISIÓN
+
+- [[PARENT|Marisol Peña Castillo]], madre
+- [[PARENT|Emilio Vargas Soto]], padre
+- [[FAMILY|Rosa Castillo Díaz]], abuela materna y cuidadora principal
+- [[PROVIDER|Brenda Collazo Ramírez]], coordinadora de servicios
+- [[PROVIDER|Laura Beatriz Fernández Morales]], patóloga del habla y lenguaje
+- [[PROVIDER|Gloria Esperanza Núñez]], intérprete
+
+12. FIRMAS Y CONSENTIMIENTO
+
+La familia ha revisado este plan en su totalidad y da su consentimiento para continuar con los servicios descritos arriba. Copia del plan entregada a la familia el [[DATE|June 10, 2025]].
+
+Preparado por: [[PROVIDER|Laura Beatriz Fernández Morales]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Bright Beginnings Therapy Group, PLLC]]
+Correo electrónico: [[EMAIL|lfernandez@carolinabrightbeginnings.com]]
+Sitio web: [[URL|www.carolinabrightbeginnings.com]]
+Fecha del informe: [[DATE|June 12, 2025]]

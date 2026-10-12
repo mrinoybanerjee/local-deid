@@ -1,0 +1,35 @@
+NOTA DIARIA / Pediatric Speech-Language Therapy
+
+Client: [[CHILD|Nicolás Aranda Vega]]; nickname: [[CHILD|Nico]]
+DOB: [[DATE|11/19/2020]]; age: [[KEEP|4;3]]
+Service: [[DATE|3 de marzo de 2025]] / [[DATE|03/03/2025]]
+Time: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+Location: [[PLACE|428 Lantern Finch Lane]], [[PLACE|Mossbridge]], NC [[PLACE|27864]]
+Clinician: [[PROVIDER|Mariela Solano]], bilingual SLP, [[EMPLOYER|Mariposa Pediatric Communication]]
+Record: [[ID|SLP-250303-482]]; Medicaid: [[MEDICAID_ID|731604928Q]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+S / Subjetivo:
+Su mamá [[PARENT|Daniela Aranda]] reported, “Ahora pide ayuda, pero cuando tiene prisa se frustra.” Dad [[PARENT|Esteban Vega]] joined briefly before work at [[ORG|Pineglass Packaging]]. Sister [[SIBLING|Inés]] brought the picture book; abuela [[FAMILY|Rosa Montalvo]] observed. Family described relatives near [[PLACE|Calle del Arrayán 27, Villa Naranjito]], Mexico. Contact: [[PHONE|919-555-0146]]; [[EMAIL|daniela.vega@example.com]]. Parent requested Spanish instructions first, then English examples. Family consented to both languages during play and reported no change in hearing concerns.
+
+[X] Caregiver present  [X] Interpreter unnecessary  [ ] Illness reported
+
+Antecedentes:
+Birth history supplied by family: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|6 lb 12 oz]], Apgar scores [[KEEP|8 and 9]]. Pediatrician Dr. [[PROVIDER|Tomás Beltrán]] at [[HOSPITAL|Willow Harbor Children's Hospital]] referred after evaluation on [[DATE|2025-02-12]]. Coordinator [[PROVIDER|Elena Pardo]] from [[AGENCY|Marrow County CDSA]] confirmed IFSP [[KEEP|outcome 2]] and [[KEEP|goal 2.1]]. Teacher Ms. [[TEACHER|Quintero]] at [[DAYCARE|Little Acorn Meadow]] described stronger participation during familiar routines.
+
+O / Objetivo:
+Prior [[KEEP|PLS-5]] results: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], confidence interval [[KEEP|73-83]], percentile [[KEEP|7]], age equivalent [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score [[KEEP|75]], percentile [[KEEP|5]]. These findings guide support; bilingual exposure alone does not explain observed difficulty. English-only repetition was not required for credit. Spanish responses counted when they matched the communicative intent.
+
+[X] Play-based  [X] Parent coaching  [X] Visual supports
+
+Used [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]]: esperar, observar, and follow the child's lead. With [[KEEP|min cues]], [[CHILD|Nicolás]] requested [[KEEP|"más agua"]] in [[KEEP|8/10]] opportunities. Used [[KEEP|PECS]] exchanges for choices, then modeled spoken combinations. [[KEEP|PROMPT]] supports addressed lip closure; [[KEEP|Kaufman]] shaping supported movement transitions. A brief [[KEEP|Cycles]] activity targeted [[KEEP|/k/]] in [[KEEP|"casa"]], with [[KEEP|mod cues]], yielding [[KEEP|60%]] accuracy. Recorded [[KEEP|[w]]] substitutions and emerging Spanish [[KEEP|/ɾ/]]. No forced repetitions; pauses and movement breaks supported engagement.
+
+Durante juego:
+[[CHILD|Nico]] said [[KEEP|"yo quiero carro"]] independently and “[[PET|Chispa]] come” while pointing toward the family dog. Pretend classmates [[PEER|Amalia]] and [[PEER|Damián]] appeared in a caregiver-created story. Targets [[KEEP|"my turn"]] and [[KEEP|"mi turno"]] occurred in [[KEEP|3 of 5]] supported exchanges. One abandoned utterance received SALT code [[KEEP|[EW]]]. Caregiver practiced expansion without correcting every sound. She used a steady pace and waited for a response before offering another choice.
+
+A / Análisis:
+Functional requesting improved within familiar play. Longer messages still required [[KEEP|mod cues]]. Both languages showed meaningful attempts. Fatigue reduced accuracy near [[TIME|9:50 a.m.]]. Caregiver demonstrated the coached routine with [[KEEP|90%]] fidelity.
+
+P / Plan:
+Continue weekly therapy. Review scheduled [[DATE|03.17.2025]]. Family calendar also lists [[DATE|el martes 4 de junio]] for a school visit at [[SCHOOL|Mossbridge Grove Academy]]. Service coordinator will prepare materials; no outside contact occurred today. Home practice: offer choices during snack, pause, then expand one word. Use family-selected vocabulary and accept Spanish or English responses. Resources: [[URL|https://mariposa.example.org/familias]]. Signed: [[PROVIDER|Mariela Solano]], SLP.

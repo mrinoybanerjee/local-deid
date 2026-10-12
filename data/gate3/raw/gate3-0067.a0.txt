@@ -1,0 +1,40 @@
+De: [[PROVIDER|Elena Valcera]] <[[EMAIL|evalcera@hablaviva.example]]>
+Para: [[PARENT|Mariela Solvenda]] <[[EMAIL|msolvenda@correo.example]]>
+Fecha: [[DATE|8 de octubre de 2026]], [[TIME|14:35]]
+Asunto: Nota diaria de [[CHILD|Nicolás Solvenda]]
+Expediente: [[ID|NC-482716]]; Medicaid: [[MEDICAID_ID|748291635Q]]
+
+Buenos días:
+
+Comparto la nota de hoy, realizada en la [[SCHOOL|Escuela Primaria Sendero Azul]], del [[SCHOOL|Distrito Escolar de Valdeloma]], Carolina del Norte, aula de la maestra [[TEACHER|Carmen]].
+
+S: Su mamá [[PARENT|Mariela Solvenda]] informó que [[CHILD|Nico]], de [[KEEP|4;2]], pidió ayuda durante el desayuno. Su hermana [[SIBLING|Alina]] modeló turnos. Su abuela, doña [[FAMILY|Lupe]], escuchó “[[PET|Bruma]] corre”. La familia trabaja en [[ORG|Textiles Alborada]] y recibe coordinación de la [[AGENCY|CDSA de Valdeloma]].
+
+Antecedentes: Nació el [[DATE|6 de agosto de 2022]] en el [[HOSPITAL|Hospital Infantil Río Claro]], con edad gestacional de [[KEEP|35 semanas y 2 días]], peso de [[KEEP|2.180 gramos]] y Apgar de [[KEEP|7 y 9]]. Permaneció en la unidad de cuidados intensivos neonatales (UCIN). La Dra. [[PROVIDER|Inés Caldora]] atendió la alimentación; el Dr. [[PROVIDER|Raúl Vesneda]] indicó seguimiento auditivo.
+
+O: Sesión individual, [[TIME|09:10]]–[[TIME|09:40]]. Datos de evaluación previa:
+
+Prueba/subprueba | Fecha | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente
+[[KEEP|PLS-5]] / [[KEEP|Comprensión auditiva]] | [[DATE|24/09/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]]
+
+Aplicamos [[KEEP|Hanen]] y [[KEEP|PROMPT]]. Produjo [[KEEP|/k/]] en [[KEEP|8/10]] intentos, con [[KEEP|apoyos moderados]]; sustituyó por [[KEEP|[w]]] en habla espontánea. Solicitó [[KEEP|"quiero agua"]] en [[KEEP|3 de 5]] oportunidades. Registramos [[KEEP|80%]] de participación y [[KEEP|[EW]]] en la muestra.
+
+A: Mejoró la petición funcional; persiste dificultad para generalizar. Con su compañero [[PEER|Tadeo]] necesitó [[KEEP|apoyos máximos]] para esperar.
+
+P: Continuar la meta [[KEEP|2]] del [[KEEP|IFSP]]. Practicar [[KEEP|"dame más"]], con [[KEEP|apoyos mínimos]], durante meriendas. Facturación: [[KEEP|92507]], modificador [[KEEP|GN]]; diagnóstico [[KEEP|F80.2]].
+
+Atentamente,
+[[PROVIDER|Elena Valcera]]
+Patóloga bilingüe del habla y lenguaje
+[[EMPLOYER|Habla Viva Pediátrica]]
+[[PLACE|418 Calle del Laurel]], [[PLACE|Valdeloma]], Carolina del Norte [[PLACE|28764]]
+[[PHONE|(828) 555-0146]]
+[[URL|https://hablaviva.example]]
+
+> De: maestra [[TEACHER|Carmen]]
+> Fecha: [[DATE|7 de octubre de 2026]], [[TIME|16:05]]
+> Gracias. [[CHILD|Nicolás]] participa mejor cuando anticipamos el turno con una tarjeta. Hoy compartió materiales sin llorar. Propongo mantener la misma señal durante la merienda escolar. El conductor, señor [[PERSON|Tomás]], entregó la carpeta.
+>
+> Saludos,
+> [[TEACHER|Carmen]]
+> [[SCHOOL|Escuela Primaria Sendero Azul]]

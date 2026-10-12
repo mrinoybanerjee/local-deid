@@ -1,0 +1,147 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE PEDIÁTRICO
+
+Documento clínico ficticio para pruebas de desidentificación. Todos los datos personales, contactos, instituciones y acontecimientos descritos son inventados.
+
+DATOS GENERALES
+
+Campo	Información
+Nombre de la niña	[[CHILD|Guadalupe Elena Navarro Soto]]
+Nombre de uso familiar	[[CHILD|Lupita]]
+Fecha de nacimiento	[[DATE|9 de agosto de 2022]]
+Edad durante la evaluación	[[KEEP|4;2]]
+Fecha de evaluación	[[DATE|9 de octubre de 2026]]
+Horario	[[TIME|9:15 a. m.]] a [[TIME|11:05 a. m.]]
+Fecha del informe	[[DATE|11 de octubre de 2026]]
+Expediente	[[ID|SL-2026-04728]]
+Identificador de Medicaid	[[MEDICAID_ID|482761935K]]
+Autorización	[[ID|AUT-91360428]]
+Domicilio	[[PLACE|1846 Calle del Olmo, apartamento 3B]]
+Ciudad y estado	[[PLACE|Puerto Encino]], North Carolina
+Condado y código postal	[[PLACE|Montebrisa]], [[PLACE|27861]]
+Profesional responsable	[[PROVIDER|Carolina Isabel Monteverde Paz]], patóloga bilingüe del habla y del lenguaje
+Empresa de la profesional	[[EMPLOYER|Voces del Sendero Terapias Pediátricas]]
+Licencia profesional	[[ID|SLP-NC-084731]]
+Lugar de evaluación	Consultorio de [[EMPLOYER|Voces del Sendero Terapias Pediátricas]]
+Idiomas de evaluación	Español e inglés; entrevista y redacción clínica en español
+
+CONTACTOS Y EQUIPO
+
+Función	Nombre	Contacto
+Madre	[[PARENT|María Celia Soto Valle]]	[[PHONE|919-555-0104]]; [[EMAIL|maria.soto@example.com]]
+Padre	[[PARENT|Jesús Adrián Navarro Ruiz]], llamado [[PARENT|Chuy]]	[[PHONE|919-555-0107]]
+Pediatra	Dra. [[PROVIDER|Irene Lucinda Valdés Pino]]	[[PHONE|252-555-0112]]
+Terapeuta ocupacional	[[PROVIDER|Natalia Beatriz Olvera Solís]]	[[PHONE|919-555-0116]]
+Fisioterapeuta	[[PROVIDER|Daniel Andrés Robledo Cano]]	[[PHONE|252-555-0121]]
+Intérprete	[[PROVIDER|Luis Fernando Salcedo Neri]]	[[PHONE|919-555-0124]]
+Coordinadora de servicios	[[PROVIDER|Elena Marisol Castañeda Lugo]]	[[EMAIL|elena.castaneda@example.com]]
+Maestra principal	Sra. [[TEACHER|Patricia Elena Ríos Vega]]	[[PHONE|252-555-0130]]
+Agencia de coordinación	[[AGENCY|CDSA de Montebrisa Oriental]]	[[URL|https://cdsa-montebrisa.example.com]]
+Contacto del consultorio	[[PROVIDER|Carolina Isabel Monteverde Paz]]	[[EMAIL|carolina.monteverde@example.com]]
+
+MOTIVO Y ANTECEDENTES DE LA CONSULTA
+
+La familia solicitó esta evaluación porque [[CHILD|Guadalupe]] usa mensajes breves y algunas personas tienen dificultad para entenderla. Su mamá [[PARENT|María Celia Soto Valle]] refiere que la niña señala, lleva al adulto hacia un objeto y repite una palabra cuando necesita ayuda. También observa frustración cuando el adulto interpreta mal el mensaje. El objetivo de la consulta fue describir sus habilidades actuales y establecer apoyos funcionales.
+
+La maestra [[TEACHER|Patricia Elena Ríos Vega]] informó dificultades para seguir instrucciones durante actividades colectivas en [[DAYCARE|Little Learners Daycare]]. La niña participa mejor cuando puede observar una demostración. En casa, comprende rutinas conocidas con menos apoyo. La familia desea que [[CHILD|Lupita]] pida ayuda, explique necesidades y converse con otros niños. Estas prioridades guiaron la selección de actividades y la interpretación de los resultados.
+
+La niña recibió apoyo temprano mediante [[KEEP|Little Learners Program]], coordinado anteriormente por [[AGENCY|CDSA de Montebrisa Oriental]]. Este programa de terapia y [[DAYCARE|Little Learners Daycare]] corresponden a servicios distintos. La coordinadora [[PROVIDER|Elena Marisol Castañeda Lugo]] proporcionó un resumen autorizado del IFSP previo, fechado [[DATE|18 de junio de 2025]]. La evaluación actual no presupone que ese plan continúe vigente.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA
+
+Según el relato materno y los documentos ficticios aportados, [[CHILD|Guadalupe Elena Navarro Soto]] nació a las [[KEEP|34 semanas y 4 días]] de gestación en [[HOSPITAL|Hospital Infantil de Valle Sereno]], en [[PLACE|Puerto Encino]]. Su peso al nacer fue de [[KEEP|2140 gramos]]. Los puntajes de Apgar fueron [[KEEP|7]] al primer minuto y [[KEEP|9]] a los cinco minutos. El nacimiento ocurrió por cesárea después de trabajo de parto prematuro.
+
+La niña permaneció doce días en la unidad de cuidados intensivos neonatales, identificada en el registro como NICU del [[HOSPITAL|Hospital Infantil de Valle Sereno]]. El neonatólogo, Dr. [[PROVIDER|Óscar Matías Peralta Ríos]], documentó apoyo respiratorio breve y dificultades iniciales para coordinar succión y deglución. La madre no informó cirugía ni alimentación por sonda después del alta. El resumen neonatal no describió lesión neurológica.
+
+La Dra. [[PROVIDER|Irene Lucinda Valdés Pino]] mantiene el seguimiento pediátrico. La familia reportó episodios de otitis y una evaluación audiológica realizada el [[DATE|14 de julio de 2026]]. La audióloga [[PROVIDER|Rebeca Inés Tovar Leal]], de [[HOSPITAL|Centro Hospitalario Las Jacarandas]], registró respuestas compatibles con audición funcional para el habla. Se revisó ese informe. No se realizó una evaluación auditiva diagnóstica durante esta visita.
+
+La terapeuta ocupacional [[PROVIDER|Natalia Beatriz Olvera Solís]] trabaja participación durante comidas y tolerancia a cambios de actividad. El fisioterapeuta [[PROVIDER|Daniel Andrés Robledo Cano]] supervisa equilibrio y coordinación. La madre describió sueño estable y alimentación oral variada, aunque la niña evita algunas texturas. Durante la evaluación no se observaron tos, cambios respiratorios ni molestias. Esta observación breve no permite establecer conclusiones sobre deglución.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+[[CHILD|Lupita]] vive con su mamá [[PARENT|María Celia Soto Valle]], su papá [[PARENT|Jesús Adrián Navarro Ruiz]] y sus hermanos [[SIBLING|José Luis Navarro Soto]], llamado [[SIBLING|Pepe]], y [[SIBLING|Mateo Daniel Navarro Soto]], llamado [[SIBLING|Teo]]. La abuela [[FAMILY|Rosa Mercedes Valle Cárdenas]] participa en las rutinas de tarde. La cuidadora [[FAMILY|Alicia Miriam Reyes Nieto]] acompaña a la niña cuando los padres trabajan.
+
+La madre trabaja en [[ORG|Panadería Brisa del Maíz]]. El padre trabaja en [[ORG|Taller Mecánico Los Cedros]]. Sus horarios cambian, por lo que solicitaron opciones de práctica breves. El vecino [[PERSON|Esteban Julián Vera Lobo]] proporciona transporte ocasional. La familia también tiene una perrita llamada [[PET|Nube]]. Hablar de la perrita suele aumentar la participación y ofrece oportunidades naturales para describir acciones.
+
+El español es el idioma principal del hogar. La madre estimó exposición al español de [[KEEP|75%]] y al inglés de [[KEEP|25%]]. Estas cifras son aproximaciones familiares. La niña escucha inglés principalmente en la guardería y en canciones. Comprende algunas expresiones rutinarias en ambos idiomas. La familia desea mantener el español y apoyar el inglés sin sustituir el idioma que permite la comunicación más cercana.
+
+El intérprete [[PROVIDER|Luis Fernando Salcedo Neri]] participó únicamente durante la llamada previa con personal que habló inglés. La evaluación directa estuvo a cargo de la profesional bilingüe [[PROVIDER|Carolina Isabel Monteverde Paz]]. No se utilizó interpretación para administrar los reactivos estandarizados en español. Las actividades informales en inglés sirvieron para explorar experiencia lingüística y respuesta a apoyos; no produjeron puntuaciones normativas.
+
+CONTEXTO EDUCATIVO Y PARTICIPACIÓN
+
+En [[DAYCARE|Little Learners Daycare]], la auxiliar [[TEACHER|Mónica Isabel Duarte Peña]] facilita transiciones mediante fotografías. La niña busca a su compañero [[PEER|Juan Ernesto Beltrán Mora]], llamado [[PEER|Juanito]], durante juegos con vehículos. También juega cerca de [[PEER|Ana Lucía Serrano Gil]] y [[PEER|Diego Tomás Fuentes Lara]]. Según las maestras, inicia interacciones con objetos y gestos, pero necesita ayuda para mantener intercambios verbales.
+
+La familia está explorando una transición a [[SCHOOL|Escuela Preescolar Senderos de Aurora]]. No se revisó un plan educativo de esa escuela. La madre desea compartir este informe con el equipo correspondiente. La información escolar disponible procede de entrevista y de una muestra escrita de observaciones. No se realizó una visita al salón, por lo que las conclusiones sobre participación escolar requieren seguimiento.
+
+PROCEDIMIENTOS Y CONDUCTA OBSERVADA
+
+Se completaron entrevista familiar, revisión de antecedentes, observación de juego, muestra de lenguaje y examen funcional de estructuras orales. Se administró [[KEEP|PLS-5 Spanish]] según los procedimientos de la edición utilizada. La niña permaneció con su madre durante la sesión. Se ofrecieron descansos entre tareas y un espacio tranquilo. Los apoyos adicionales se reservaron para actividades informales y se documentaron por separado.
+
+Al inicio, [[CHILD|Guadalupe]] observó los materiales sin hablar. Después eligió una casa de juguete y comenzó a compartir objetos. Respondió favorablemente a elecciones concretas y tiempo de espera. La atención disminuyó durante tareas largas. El uso de una secuencia visual permitió regresar a la mesa. No se interpretó su reserva inicial como falta de interés social ni como evidencia suficiente de otra condición.
+
+RESULTADOS ESTANDARIZADOS
+
+Instrumento o subprueba	Puntuación directa	Puntuación estándar	Percentil	Intervalo de confianza al [[KEEP|90%]]	Edad equivalente
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]]	[[KEEP|35]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|2;10]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]]	[[KEEP|33]]	[[KEEP|82]]	[[KEEP|12]]	[[KEEP|77–87]]	[[KEEP|3;2]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]]	[[KEEP|68]]	[[KEEP|79]]	[[KEEP|8]]	[[KEEP|74-84]]	[[KEEP|3;0]]
+
+Las puntuaciones de [[KEEP|PLS-5 Spanish]] describen el desempeño durante esta administración. Los intervalos muestran incertidumbre de medición. Las edades equivalentes no representan una edad global de desarrollo ni deben usarse solas para determinar servicios. En tareas informales, las habilidades variaron entre niveles semejantes a [[KEEP|2;6–3;0]] y [[KEEP|3;0–3;6]], según la demanda lingüística. Estos rangos descriptivos no constituyen puntuaciones adicionales.
+
+En [[KEEP|Comprensión auditiva]], la niña identificó objetos comunes y acciones familiares. Presentó dificultad con instrucciones que incluían varios elementos y con relaciones espaciales sin apoyo visual. En [[KEEP|Comunicación expresiva]], nombró objetos y combinó palabras, pero mostró menor variedad de verbos y marcas gramaticales. Los resultados deben integrarse con la exposición a cada idioma, la entrevista y las observaciones funcionales.
+
+RESULTADOS FUNCIONALES
+
+Área	Actividad	Resultado	Apoyo observado
+Comprensión	Instrucciones de un paso	[[KEEP|8/10]]	[[KEEP|min cues]]
+Comprensión	Instrucciones de dos pasos	[[KEEP|3 de 5]]	[[KEEP|mod cues]]
+Expresión	Peticiones con combinación de palabras	[[KEEP|6/10]]	[[KEEP|mod cues]]
+Interacción	Turnos recíprocos durante juego	[[KEEP|7/10]]	[[KEEP|min cues]]
+Habla	Palabras entendidas por interlocutora poco familiar	[[KEEP|62%]]	Contexto de juego
+Habla	Palabras entendidas por la madre	[[KEEP|84%]]	Contexto de juego
+Respuesta al modelo	Imitación de palabras seleccionadas	[[KEEP|8/10]]	[[KEEP|max cues]]
+
+LENGUAJE, HABLA Y COMUNICACIÓN SOCIAL
+
+La muestra espontánea incluyó peticiones, comentarios y protestas breves. Se registraron producciones como [[KEEP|"más carro"]], [[KEEP|"mamá ayuda"]], [[KEEP|"no cabe"]] y [[KEEP|"yo poner aquí"]]. La niña utilizó gestos para complementar mensajes. Cuando una palabra no resultó clara, repitió el mensaje con mayor volumen. Todavía no mostró uso constante de estrategias como señalar el referente o cambiar la palabra.
+
+Durante una actividad con animales, dijo "[[PET|Nube]] corre". Después llamó "[[SIBLING|Pepe]], mira" al mostrar un dibujo familiar. En otro momento pidió "quiero jugar con [[PEER|Juanito]]". Estas producciones demostraron interés por personas y experiencias conocidas. Los nombres aportaron información contextual importante. La interpretación se basó en la intención comunicativa y en la estructura del mensaje, sin considerar los nombres como errores.
+
+Se observaron sustituciones variables de [[KEEP|/k/]] por [[KEEP|/t/]] y de [[KEEP|/g/]] por [[KEEP|/d/]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]; para [[KEEP|"gato"]], produjo [[KEEP|"dato"]]. También se observó realización aproximada de [[KEEP|/ɾ/]] como [[KEEP|[w]]] en algunas palabras. La variabilidad aumentó en mensajes largos. Estas observaciones describen la muestra y no establecen por sí solas un diagnóstico motor.
+
+El examen oral mostró simetría visible y movimiento funcional durante imitación y habla. No se observó una alteración estructural evidente. La niña necesitó demostración para algunas tareas voluntarias. Su voz y fluidez no motivaron preocupación en esta sesión. La muestra fue breve y no incluyó todos los contextos fonéticos. Se recomienda ampliar el análisis de sonidos durante las primeras sesiones.
+
+En la transcripción de la muestra se emplearon los códigos [[KEEP|[EW]]] y [[KEEP|[EU]]] de [[KEEP|SALT]] para registrar errores de palabra y de enunciado conforme al criterio de análisis adoptado. Los códigos no sustituyen una descripción clínica. La profesional revisó cada segmento con el contexto disponible. Los fragmentos difíciles de entender no se utilizaron para inferir estructuras gramaticales que no pudieron confirmarse.
+
+La niña compartió atención, mostró objetos y buscó reacciones del adulto. Aceptó turnos con apoyo y regresó al juego después de una pausa. La dificultad principal apareció cuando debía explicar una intención mediante lenguaje. No se observaron suficientes datos para formular conclusiones sobre otras áreas del desarrollo. Los hallazgos sociales se limitan a este encuentro y a los reportes disponibles.
+
+IMPRESIONES CLÍNICAS
+
+El conjunto de resultados es compatible con dificultades de lenguaje receptivo y expresivo que afectan la participación cotidiana. La exposición bilingüe forma parte del contexto lingüístico y no se considera una causa de trastorno. Las dificultades reportadas también aparecen en español, el idioma de mayor experiencia. Se recomienda intervención bilingüe con seguimiento de la respuesta y coordinación entre familia, guardería y profesionales.
+
+Las diferencias en producción de sonidos reducen la claridad de algunos mensajes. La impresión provisional corresponde a [[KEEP|F80.2]] y [[KEEP|F80.0]], sujeta a integración con seguimiento clínico. La evaluación del lenguaje se documenta con [[KEEP|CPT 92523]]. El tratamiento propuesto corresponde a [[KEEP|CPT 92507]], con modificador [[KEEP|GN]] cuando resulte aplicable. Los códigos no confirman cobertura ni autorización de servicios.
+
+RECOMENDACIONES Y OBJETIVOS
+
+Se recomienda iniciar terapia del habla y del lenguaje con actividades centradas en juego, necesidades diarias y participación familiar. La intervención puede incorporar estrategias de [[KEEP|Hanen]] y enseñanza mediante modelos breves. Se considerará [[KEEP|Cycles]] después de ampliar el inventario fonológico. No se establece indicación inicial de [[KEEP|PROMPT]]. El equipo podrá valorar [[KEEP|PECS]] si las necesidades de apoyo comunicativo lo justifican.
+
+Objetivo	Criterio de progreso	Contexto
+Meta [[KEEP|1]]	Pedir ayuda mediante palabras, gestos o apoyo visual en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]	Juego y rutinas
+Meta [[KEEP|2]]	Seguir instrucciones de dos pasos en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]]	Actividades conocidas
+Meta [[KEEP|3]]	Combinar palabras para comentar o pedir en [[KEEP|80%]] de oportunidades con [[KEEP|mod cues]]	Juego compartido
+Meta [[KEEP|4]]	Producir [[KEEP|/k/]] en palabras seleccionadas en [[KEEP|7/10]] oportunidades con [[KEEP|mod cues]]	Práctica funcional
+
+El resultado [[KEEP|3]] del IFSP previo abordaba comunicación durante comidas. El equipo actual debe decidir cómo relacionar ese resultado histórico con las metas nuevas. Se recomienda usar vocabulario relevante, esperar una respuesta y aceptar intentos comunicativos. Los adultos pueden ampliar el mensaje sin exigir repetición constante. La práctica debe ser breve, agradable y compatible con las rutinas familiares.
+
+PROPUESTA DE SERVICIOS
+
+Servicio	Frecuencia	Duración	Horario propuesto	Responsable
+Terapia bilingüe	Dos veces por semana	Treinta minutos	Martes y jueves, [[TIME|4:00 p. m.]]	[[PROVIDER|Carolina Isabel Monteverde Paz]]
+Orientación familiar	Una vez por mes	Veinte minutos	Primer martes, [[TIME|4:35 p. m.]]	[[PROVIDER|Carolina Isabel Monteverde Paz]]
+Coordinación escolar	Una vez por mes	Quince minutos	Viernes, [[TIME|12:15 p. m.]]	[[PROVIDER|Elena Marisol Castañeda Lugo]]
+Revisión de progreso	Al finalizar el periodo inicial	Cuarenta minutos	[[DATE|8 de enero de 2027]], [[TIME|9:30 a. m.]]	Equipo y familia
+
+La propuesta depende de disponibilidad y autorización. La familia recibió los resultados en español y expresó comprensión mediante explicación de las recomendaciones con sus propias palabras. Se solicitará permiso antes de compartir el informe. La revisión comparará participación, muestras de lenguaje y necesidad de apoyos. El equipo ajustará las metas con base en el progreso observado.
+
+Firma: [[PROVIDER|Carolina Isabel Monteverde Paz]], patóloga bilingüe del habla y del lenguaje  
+Empresa: [[EMPLOYER|Voces del Sendero Terapias Pediátricas]]  
+Fecha de firma: [[DATE|11 de octubre de 2026]]

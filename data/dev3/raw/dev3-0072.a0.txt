@@ -1,0 +1,29 @@
+NOTA DE SESIÓN DIARIA - TERAPIA DEL HABLA Y LENGUAJE
+
+Niña: [[CHILD|María José Fuentes Rivas]]
+Fecha de nacimiento: [[DATE|02/14/2022]]
+ID de Medicaid: [[MEDICAID_ID|987654321A]]
+CDSA: [[AGENCY|Centro de Desarrollo y Servicios para Niños del Área del Piedmont]] ([[AGENCY|CDSA Piedmont]])
+Coordinadora de servicios: [[PROVIDER|Teresa Gómez]], de la [[AGENCY|Agencia de Coordinación de Servicios Infantiles de Carolina del Norte]] ([[AGENCY|ACSI-NC]])
+
+Ambiente de la sesión:
+[X] Hogar  [ ] Guardería  [ ] Clínica
+
+[[CHILD|María José]] fue vista en su hogar en [[PLACE|Greensboro, Carolina del Norte]] el [[DATE|08 de octubre de 2026]] a las [[TIME|3:30 p.m.]] Estuvo presente su mamá [[PARENT|Lucía Fuentes Rivas]] y su hermano mayor [[SIBLING|Diego]]. La abuela, [[FAMILY|Rosa Rivas]], quien cuida a la niña por las tardes, también participó en la sesión.
+
+S: La mamá reporta que [[CHILD|María José]] asiste a [[DAYCARE|Centro Infantil Manzanita]], en el salón de la Srta. [[TEACHER|Lopez]], y que la maestra nota buen progreso con sus compañeros durante el círculo de lectura. Su amiguita [[PEER|Valentina]] la ayuda a compartir los juguetes en clase.
+
+O: Se trabajó con el enfoque [[KEEP|Hanen]] y claves de [[KEEP|cueing mínimo]]. [[CHILD|María José]] produjo "[[KEEP|pelota]]" con sustitución de [[KEEP|/b/]] por [[KEEP|/p/]]; con modelo logró "[[KEEP|bota]]" en [[KEEP|3 de 5]] ensayos. Mientras jugaba con su perrita, dijo "[[KEEP|ven]] [[PET|Luna]]" con buena claridad.
+
+Tabla de puntajes:
+Fecha | Prueba | Puntaje
+[[DATE|03/10/2026]] | [[KEEP|PLS-5]] Comprensión Auditiva | EE [[KEEP|78]] (IC [[KEEP|70-83]]), percentil [[KEEP|7]]
+[[DATE|08/10/2026]] | [[KEEP|PLS-5]] Comunicación Expresiva | EE [[KEEP|82]] (IC [[KEEP|74-90]]), percentil [[KEEP|12]]
+
+A: Progreso leve hacia el objetivo [[KEEP|IFSP #2]]. Edad actual: [[KEEP|4;6]].
+
+P: Continuar con [[KEEP|PROMPT]] semanalmente, enfocado en /[[KEEP|p]]/ y /[[KEEP|b]]/. Contactar a [[PROVIDER|Teresa Gómez]] al [[PHONE|336-555-0198]] para coordinar la revisión del IFSP el [[DATE|15 de noviembre de 2026]]. Enviar resumen a [[TEACHER|Lopez]] antes del [[DATE|20 de octubre de 2026]].
+
+Terapeuta: [[PROVIDER|Ana Martínez, M.S., CCC-SLP]]
+Correo: [[EMAIL|ana.martinez@speechpartnersnc.com]]
+Empresa: [[EMPLOYER|Speech Partners of NC]]

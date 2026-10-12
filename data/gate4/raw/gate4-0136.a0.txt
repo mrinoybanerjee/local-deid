@@ -1,0 +1,33 @@
+DAILY SPEECH-LANGUAGE SESSION / Nota diaria
+
+Fecha: [[DATE|October 8, 2026]]   Hora: [[TIME|9:10 AM]]–[[TIME|10:00 AM]]
+Cliente: [[CHILD|Nicolás Vega Santos]]   Apodo: [[CHILD|Nico]]   Edad: [[KEEP|4;2]]
+DOB: [[DATE|August 8, 2022]]   Record: [[ID|SL-628194]]
+Medicaid: [[MEDICAID_ID|483726195Q]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+Lugar: [[PLACE|214 Willow Lantern Lane]], [[PLACE|Brindle Cove]], North Carolina [[PLACE|27863]]
+Clinician: [[PROVIDER|Elena Marín]], bilingual SLP, [[EMPLOYER|Little Lantern Speech Services]]
+CPT: [[KEEP|92507]]   Modifier: [[KEEP|GN]]   ICD-10: [[KEEP|F80.2]]
+
+S / Subjetivo
+Su mamá [[PARENT|Camila Santos]] attended with sister [[SIBLING|Luz]]. Mother reported, “Esta semana pide ayuda más, pero cuando tiene prisa se frustra.” Father [[PARENT|Julián Vega]] participated briefly by telephone. Family requested Spanish during coaching and English for the written daycare summary. Interpreter [[PROVIDER|Teresa Montalvo]] supported clarification of scheduling terms. Mother described breakfast as a useful practice routine because everyone sits together. The family’s dog, [[PET|Chispa]], stayed behind the gate. No new concerns were reported about feeding, hearing, or sleep.
+
+O / Objetivo
+[X] Play routines  [X] Parent coaching  [X] Speech practice
+Reviewed [[KEEP|IFSP outcome 2]] from [[DATE|September 16, 2026]]. Used [[KEEP|Hanen]] principles and [[KEEP|It Takes Two to Talk]] strategies: observe, wait, and respond. Mother practiced pausing during bubbles, entonces modeled a short phrase without asking repeated questions. [[CHILD|Nicolás]] requested [[KEEP|"más burbujas"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He produced [[KEEP|"help me"]] in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]].
+
+Brief [[KEEP|PROMPT]] support addressed lip closure with assent. [[KEEP|Kaufman]] practice targeted [[KEEP|"mama"]] and [[KEEP|"bye"]]. A [[KEEP|Cycles]] activity sampled /k/: [[KEEP|/k/]] occurred accurately in [[KEEP|60%]] of trials; substitution [[KEEP|[t]]] persisted in longer words. [[KEEP|PECS]] remained available for requesting breaks. He said “[[SIBLING|Luz]] ven” while offering a toy. One transcript entry carried [[KEEP|[EW]] after an extra word. Teacher Ms. [[TEACHER|Dalia Robles]] reported that peer [[PEER|Benicio Mora]] often joins the same turn-taking game at [[DAYCARE|Meadow Kite Learning House]].
+
+A / Análisis
+Participation improved when adults followed his play and reduced verbal demands. Spanish combinations appeared more spontaneous today; English combinations needed additional modeling. Prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score was [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], with age-equivalent range [[KEEP|2;6–3;0]]. These historical results support monitoring but do not measure today’s progress. Birth history lists gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. Fatigue emerged near cleanup; a movement break restored engagement.
+
+P / Plan y coordinación
+Continue weekly visits. Practice [[KEEP|"abre"]] and [[KEEP|"open"]] during snack, accepting either language. Mother demonstrated waiting before helping. Coordinate movement supports with OT [[PROVIDER|Irene Valdés]] and PT [[PROVIDER|Samuel Pineda]]. Pediatrician Dr. [[PROVIDER|Ana Beltrán]] at [[HOSPITAL|Brindle Cove Children’s Hospital]] will receive the authorized summary.
+
+Service coordinator [[PROVIDER|Marisol Duarte]] works through [[AGENCY|Agencia de Enlace Familiar del Valle Claro]] ([[AGENCY|AEFVC]]). Referral office: [[AGENCY|Oficina de la Agencia de Servicios para el Desarrollo Infantil de la Comarca del Arroyo Sereno]] ([[AGENCY|CDSA Arroyo Sereno]]). Confirm scheduling through [[AGENCY|AEFVC]] and [[AGENCY|CDSA Arroyo Sereno]].
+
+[X] Home plan reviewed  [X] Family agreed
+Next visit: [[DATE|October 15, 2026]], [[TIME|9:00 AM]].
+Contact: [[PHONE|(919) 555-0146]]; [[EMAIL|coordination@aefvc.example]].
+Mother’s workplace, [[ORG|Pine Ribbon Textiles]], allows morning appointments.
+Firma: [[PROVIDER|Elena Marín]], SLP.

@@ -1,0 +1,28 @@
+Document: Daily Speech-Language Therapy Note
+Client: [[CHILD|Nicolás de la Cruz]]
+DOB: [[DATE|August 8, 2022]]
+Service Date: [[DATE|October 6, 2026]]
+Time: [[TIME|9:10 AM]]–[[TIME|9:40 AM]]
+Location: [[DAYCARE|Willow Lantern Learning Center]], [[PLACE|Mossbridge]], North Carolina
+Clinician: [[PROVIDER|Isabel Solís-Hart]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Little Lantern Speech Services]]
+Referral Agency: [[AGENCY|Mossbridge CDSA]]
+Medicaid ID: [[MEDICAID_ID|873640251Q]]
+Insurance Member ID: [[ID|NCP482706193]]
+NC ITP Child ID: [[ID|ITP-60419382]]
+Authorization Number: [[ID|AUTH-260914-7732]]
+CPT: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.2]]
+Caregiver Phone: [[PHONE|919-555-0147]]
+
+Subjective:
+Mother [[PARENT|Elena del Río]] reported that [[CHILD|Nico]] used longer Spanish phrases during breakfast. Babysitter doña [[FAMILY|Lupe]] described improved requests during play with brother [[SIBLING|Diego]]. Miss [[TEACHER|Ana]] reported difficulty following classroom directions when several children spoke simultaneously. Family priorities remain functional requests and participation across both languages.
+
+Objective:
+At age [[KEEP|4;2]], [[CHILD|Nicolás]] participated in play-based treatment using Spanish and English. Previous [[KEEP|PLS-5]] results included an Auditory Comprehension standard score of [[KEEP|76]] and percentile rank of [[KEEP|5]]. Today, two-step directions were completed in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|60%]] of opportunities. For target [[KEEP|"car"]], initial [[KEEP|/k/]] occurred in [[KEEP|6/10]] trials; [[KEEP|[w]]] appeared during target [[KEEP|"rabbit"]]. Recorded productions included [[KEEP|"I want more"]], [[KEEP|"más agua"]], and [[KEEP|"him go"]], coded [[KEEP|[EW]]] in the English sample. Peer [[PEER|Sofía]] joined turn-taking briefly. A photograph of family dog [[PET|Chispa]] supported spontaneous commenting.
+
+Assessment:
+[[CHILD|Nicolás]] benefited from visual supports, wait time, and language-matched models. Performance improved when background conversation decreased. Spanish responses showed stronger phrase length today. English grammatical differences require continued sampling before interpretation; bilingual exposure alone does not explain the documented functional concerns. No distress occurred during the session.
+
+Plan:
+Continue weekly treatment. Coach mother [[PARENT|Elena]] to model short requests during familiar routines. Coordinate visual directions with la maestra [[TEACHER|Carmen]]. Review progress on [[DATE|October 20, 2026]]. Provide equivalent practice opportunities in both languages and document cueing separately.

@@ -1,0 +1,29 @@
+Client: [[CHILD|Mateo Alejandro Vásquez]] ("[[CHILD|Teo]]")
+Date of Birth: [[DATE|April 9, 2023]]
+Medicaid ID: [[MEDICAID_ID|MA482910736C]]
+Case ID: [[ID|CDSA-7734]]
+Date of Service: [[DATE|October 6, 2026]]
+Time: [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Location: home visit, [[PLACE|214 Willowbrook Lane]], [[PLACE|Graham]], [[PLACE|Alamance County]], [[PLACE|27253]]
+Clinician: [[PROVIDER|Marisol Fuentes]], M.S., CCC-SLP
+Employer: [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]
+Service Coordinator: [[PROVIDER|Dana Whitfield]], [[AGENCY|CDSA of the Triad]]
+Referral Source: [[AGENCY|Early Head Start]]
+Phone: [[PHONE|(336) 555-0147]]
+Email: [[EMAIL|mfuentes@carolinapedsslp.com]]
+
+Subjetivo: Mamá [[PARENT|Lucía Rodríguez]] reported [[CHILD|Teo]] has been "más platicador" this week. She works two jobs — mornings at [[ORG|La Cocina Mexicana]] and overnight shifts listed on her schedule only as "[[ORG|VA]]." She said [[CHILD|Teo]]'s abuela, [[FAMILY|Carmen Ortiz]], watches him most evenings while mamá works. His sister, [[SIBLING|Valentina]], age 7, prompts him at home, telling him "dile a mami agua, [[CHILD|Teo]]." Daycare teacher Ms. [[TEACHER|Alvarez]] at [[DAYCARE|Little Sprouts Daycare]] reports similar gains during circle time. Mamá also mentioned [[AGENCY|DSS]] recertified their case last month and [[AGENCY|WIC]] renewed benefits through [[DATE|December 2026]].
+
+Objetivo: Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]] subtests. Results below, compared to the prior evaluation:
+
+Subtest | Date | Standard Score | 95% CI | Percentile
+Auditory Comprehension | [[DATE|03/14/2026]] | [[KEEP|82]] | [[KEEP|73-83]] | [[KEEP|12th]]
+Expressive Communication | [[DATE|10/06/2026]] | [[KEEP|79]] | [[KEEP|70-88]] | [[KEEP|8th]]
+
+[[CHILD|Teo]] is currently [[KEEP|3;6]]. Birth history: gestational age [[KEEP|35 weeks]], birth weight [[KEEP|5 lb 2 oz]], [[KEEP|Apgar 8/9]]. Articulation: /p/, /m/, /b/ produced correctly; substituted [w] for /ɾ/ in "[[KEEP|carro]]" → "[[KEEP|cawo]]." Used [[KEEP|PECS]] cards with [[KEEP|mod cues]], [[KEEP|8/10]] trials correct for requesting. Imitated two-word combinations with [[KEEP|min cues]], [[KEEP|3 of 5]] trials.
+
+Evaluación: [[CHILD|Teo]] continues to show gains consistent with [[KEEP|IFSP Outcome #2]] (expressive vocabulary growth) using bilingual input per [[KEEP|Hanen]] strategies modeled for mamá. Coordination continues with Early Head Start classroom staff and [[AGENCY|Smart Start]] playgroup enrollment pending.
+
+Plan: Continue weekly visits; next session scheduled [[DATE|October 20, 2026]] at [[TIME|9:00 AM]]. Will coordinate with [[PROVIDER|Dana Whitfield]] regarding transportation support and with pediatrician Dr. [[PROVIDER|Htun]] at [[HOSPITAL|UNC Health Alamance]] regarding hearing screening referral. Discussed home carryover with abuela [[FAMILY|Carmen Ortiz]] given mamá's work schedule. Parent education provided in Spanish; written handout sent to [[EMAIL|lucia.rodriguez82@gmail.com]].
+
+Signed: [[PROVIDER|Marisol Fuentes]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]

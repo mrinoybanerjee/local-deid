@@ -1,0 +1,19 @@
+Nota de sesion diaria - Terapia del habla y lenguaje
+
+Fecha de servicio: [[DATE|15 de septiembre de 2026]]. Hora: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]. Clinica: [[HOSPITAL|Atrium Health Levine Children's - Clinica de Audiologia y Habla, Campus Mercy]], ubicada en [[PLACE|4815 Randolph Road]], [[PLACE|Charlotte]], [[PLACE|Condado de Mecklenburg]], [[PLACE|28211]]. Numero de expediente: [[ID|LC-48217]]. Numero de Medicaid: [[MEDICAID_ID|987654321A]].
+
+Paciente: [[CHILD|Mateo Fernandez]] ("[[CHILD|Teo]]"), edad [[KEEP|4;2]], fecha de nacimiento [[DATE|03/14/2021]]. Madre: [[PARENT|Lucia Rodriguez]]. Cuidadora: [[FAMILY|Teresa Gomez]], quien llevo a [[CHILD|Teo]] a la cita porque la madre trabaja en [[ORG|Compass Group]] y salio tarde del turno.
+
+Subjetivo: La madre reporta que [[CHILD|Mateo]] ha estado jugando mas con sus primos [[FAMILY|Diego]] y [[FAMILY|Sofia]] durante las visitas de fin de semana en casa de los abuelos. En la escuela, la maestra [[TEACHER|Sra. Lopez]] de [[DAYCARE|Centro Preescolar Sunshine Kids]] comento que [[CHILD|Mateo]] se comunica mejor con sus companeros [[PEER|Ethan]] y [[PEER|Mia]] durante el juego libre, aunque todavia se frustra cuando no lo entienden.
+
+Objetivo: Se administraron items del [[KEEP|PLS-5]] (subprueba de Comprension Auditiva) y se continuo con el programa [[KEEP|PROMPT]] establecido previamente por [[PROVIDER|Ana Gutierrez]], logopeda bilingue de [[EMPLOYER|Carolina Pediatric Speech Partners]]. [[CHILD|Mateo]] produjo el fonema [[KEEP|/k/]] con [[KEEP|mod cues]] en [[KEEP|8/10]] ensayos durante el juego con figuras de animales. Al mostrarle una foto de su perro, dijo "[[PET|Rocky]] corre rapido", con sustitucion de [[KEEP|[w]]] por [[KEEP|/ɾ/]] en la segunda palabra. Mas tarde, de forma espontanea, dijo "quiero jugar con [[SIBLING|Camila]] y [[PET|Rocky]] en el parque," mostrando una longitud de enunciado de seis palabras, la mas larga registrada hasta ahora.
+
+Puntaje estandar en la subprueba fue [[KEEP|82]], percentil [[KEEP|12]]. Se uso tambien el enfoque [[KEEP|Hanen]] para fomentar turnos conversacionales; [[CHILD|Mateo]] logro [[KEEP|3 of 5]] turnos sin apoyo del adulto.
+
+Evaluacion: [[CHILD|Mateo]] continua mostrando progreso lento pero consistente en articulacion y longitud de enunciado. La coordinadora de servicios [[PROVIDER|Marta Jimenez]] de la agencia [[AGENCY|CDSA del Condado de Mecklenburg]] confirmo que la revision del IFSP esta programada para [[DATE|10 de noviembre de 2026]].
+
+Plan: Continuar sesiones dos veces por semana, con enfoque en generalizacion de /k/ en casa con apoyo de [[FAMILY|Teresa Gomez]]. Se recomienda consulta con el Dr. [[PROVIDER|Rajesh Patel]], otorrinolaringologo pediatrico, por infecciones recurrentes de oido documentadas desde su estancia en la NICU del [[HOSPITAL|Atrium Health Levine Children's Hospital]] por prematuridad leve.
+
+Para preguntas, contactar a la clinica por correo [[EMAIL|clinica.habla@levinechildrens.org]] o visitar [[URL|www.levinechildrens.org/habla]]. Telefono directo: [[PHONE|(704) 555-0199]].
+
+Firma: [[PROVIDER|Ana Gutierrez]], M.S., CCC-SLP, logopeda bilingue.

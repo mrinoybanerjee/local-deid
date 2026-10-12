@@ -1,0 +1,84 @@
+PROGRAMA DE INTERVENCIÓN TEMPRANA DE CAROLINA DEL NORTE (NC INFANT-TODDLER PROGRAM)
+REVISIÓN SEMESTRAL DEL IFSP – TERAPIA DEL HABLA Y LENGUAJE
+
+Niño: [[CHILD|Mateo Alejandro Flores Vega]] ("[[CHILD|Mateo]]")
+Fecha de nacimiento: [[DATE|14 de marzo de 2024]] | Edad cronológica al momento de esta revisión: [[KEEP|2;7]]
+Expediente CDSA #: [[ID|CDSA-77214-OR]]
+Medicaid #: [[MEDICAID_ID|NC849215673B]]
+Madre/guardián: [[PARENT|Lucía Fernanda Vega Ramírez]]
+Padre: [[PARENT|Carlos Alberto Flores Nuñez]]
+Hermana mayor: [[SIBLING|Camila Flores Vega]] (5 años)
+Cuidadora principal (abuela materna): [[FAMILY|Rosa María Ramírez Ortiz]]
+Domicilio: [[PLACE|418 Calle Roble]], [[PLACE|Hillsborough]], NC [[PLACE|27278]], condado de [[PLACE|Orange]]
+Teléfono: [[PHONE|(919) 555-0148]]
+Correo electrónico: [[EMAIL|lucyvega0314@gmail.com]]
+Coordinadora de Servicios: [[PROVIDER|Jennifer Marlene Castillo]] — [[AGENCY|CDSA de la Región del Triángulo]], oficina de [[PLACE|Durham]]
+Terapeuta del habla-lenguaje (bilingüe): [[PROVIDER|Patricia Isabel Gómez Reyes]], M.S., CCC-SLP — [[EMPLOYER|Terapias Pediátricas Bilingües del Triángulo, PLLC]]
+Sitio web de la práctica: [[URL|www.terapiasbilinguestriangulo.com]]
+Fecha del IFSP inicial: [[DATE|10 de abril de 2025]]
+Fecha de esta revisión: [[DATE|2 de octubre de 2026]]
+Próxima revisión programada: [[DATE|2 de abril de 2027]]
+
+S:
+La madre, [[PARENT|Lucía]], refiere en la reunión de revisión, en sus propias palabras: "[[CHILD|Mateo]] entiende casi todo lo que le decimos en español y en inglés, pero cuando quiere pedir algo todavía señala o grita en vez de usar palabras. Antes de empezar terapia solo decía 'mamá' y 'agua', ahora ya tiene más o menos 15 palabras pero muchas salen muy distorsionadas, como 'apa' por 'agua' y 'ete' por 'leche'." El padre, [[PARENT|Carlos]], agrega: "Lo que más nos preocupa es que en la guardería no lo entienden, y él se frustra, muerde o empuja a los otros niños cuando no logra comunicarse."
+
+Prioridades de la familia para esta revisión (palabras textuales de la madre):
+1. "Que [[CHILD|Mateo]] pueda pedir lo que quiere con palabras, no con berrinches, para cuando empiece preescolar."
+2. "Que la maestra en la guardería entienda sus intentos de hablar."
+3. "Que podamos seguir recibiendo las sesiones en español en casa, porque yo no hablo inglés muy bien y mi esposo trabaja de noche."
+
+Rutina diaria reportada por la madre: [[CHILD|Mateo]] se despierta ~[[TIME|6:30 a.m.]], desayuna con su hermana [[SIBLING|Camila]] y su abuela [[FAMILY|Rosa María Ramírez Ortiz]], quien lo cuida tres días por semana mientras [[PARENT|Lucía]] trabaja medio turno en el [[ORG|Restaurante El Sabor Latino]]. El padre, [[PARENT|Carlos]], trabaja turno nocturno como operador de montacargas en [[ORG|Transportes Industriales Carolina]], por lo que casi siempre duerme por las mañanas; la familia pide no programar sesiones antes de [[TIME|3:00 p.m.]] para no interrumpir su descanso. Los otros dos días [[CHILD|Mateo]] asiste a [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] en [[PLACE|Hillsborough]], donde su maestra es la Srta. [[TEACHER|María Elena Soto]]. La madre dice que en la guardería [[CHILD|Mateo]] juega paralelamente con otro niño del salón, [[PEER|Diego]], pero rara vez inicia juego verbal con él. Por las tardes la siesta ocurre entre [[TIME|1:00 p.m.]] y [[TIME|2:30 p.m.]], seguida de merienda y baño hacia las [[TIME|6:00 p.m.]]. Algunos miércoles la familia asiste al programa de lectura para bebés "Cuentos y Cantos" en la [[ORG|Biblioteca Pública del Condado de Orange]], y los domingos a misa en la [[ORG|Iglesia Católica San José]], donde [[CHILD|Mateo]] participa en la guardería infantil durante el servicio. La familia también recibe apoyo nutricional de [[AGENCY|WIC del Condado de Orange]] y la madre está inscrita en clases de crianza de [[AGENCY|Smart Start de Orange County]]. Una amiga de la familia, [[PERSON|Alejandra Bravo]], ayuda ocasionalmente a traducir cartas del colegio y de la guardería. La familia tiene una perrita llamada [[PET|Luna]], con quien [[CHILD|Mateo]] disfruta jugar en el patio por las tardes.
+
+Historia médica relevante (reportada por la madre y confirmada por expediente): [[CHILD|Mateo]] nació a las [[KEEP|34 semanas]] de gestación, peso al nacer [[KEEP|2,100 gramos]], Apgar [[KEEP|6/9]], e ingresó a la [[HOSPITAL|Unidad de Cuidados Intensivos Neonatales del Duke Health – Campus Hillsborough]] por [[KEEP|9 días]] por dificultad respiratoria. Fue dado de alta sin oxígeno suplementario. Pediatra actual: Dra. [[PROVIDER|Melissa Chen]], en [[HOSPITAL|Pediatría UNC Health Children's – Campus Durham]]. Tuvo tubos de ventilación bilateral colocados por otitis media recurrente; seguimiento con Dr. [[PROVIDER|Robert Haines]], otorrinolaringólogo y audiólogo, en [[HOSPITAL|Carolina Ear, Nose & Throat and Audiology at Novant Health – Campus Mebane]]. Audición normal confirmada en evaluación más reciente del [[DATE|12 de agosto de 2026]].
+
+O:
+Se administró revisión del IFSP con observación directa, informe parental estructurado y pruebas estandarizadas parciales para actualizar niveles de funcionamiento presente, dado que la evaluación formal trienal no vence hasta el próximo año.
+
+Pruebas administradas en esta revisión:
+- [[KEEP|Rossetti Infant-Toddler Language Scale]]: puntuación de comunicación interactiva en el rango de [[KEEP|9-12 meses]] para un niño de [[KEEP|31 meses]] de edad cronológica; comprensión auditiva relativamente más fuerte, en el rango de [[KEEP|18-20 meses]].
+- [[KEEP|Goldman-Fristoe Test of Articulation, Tercera Edición (GFTA-3)]]: puntuación estándar de [[KEEP|62]] (percentil [[KEEP|1]]), consistente con fonología muy reducida para la edad. Inteligibilidad estimada en [[KEEP|30%]] con oyentes desconocidos y [[KEEP|65%]] con la madre.
+- Subprueba de comunicación de las [[KEEP|Bayley Scales of Infant and Toddler Development, Cuarta Edición (Bayley-4)]]: puntuación compuesta de lenguaje expresivo de [[KEEP|70]] (equivalente de edad [[KEEP|12 meses]]); lenguaje receptivo con puntuación compuesta de [[KEEP|82]] (equivalente de edad [[KEEP|19 meses]]).
+- [[KEEP|Peabody Developmental Motor Scales, Tercera Edición (PDMS-3)]], administrada por la terapeuta ocupacional del equipo para contexto motor oral: motricidad fina dentro de límites normales, puntuación estándar [[KEEP|94]].
+
+Examen oral-motor: estructuras orales dentro de límites normales; tono levemente bajo en labios; reflejo nauseoso presente y apropiado; sin signos claros de apraxia del habla infantil en esta visita, aunque se recomienda reevaluar si el progreso fonológico se estanca.
+
+Muestra de lenguaje espontáneo ([[KEEP|50]] enunciados, SALT): longitud media de enunciado de [[KEEP|1.2]] palabras; inventario fonético limitado a [[KEEP|/m, p, a, e, o/]] con uso emergente de [[KEEP|/t/]] y [[KEEP|/k/]] en posición inicial. Produjo "[[KEEP|apa]]" por /agua/, "[[KEEP|ete]]" por /leche/, "[[KEEP|edo]]" aproximado por /dedo/. Patrones observados: reducción de sílaba final ([[KEEP|[EW]]] marcado en 7 de 50 enunciados), simplificación de grupos consonánticos, y sustitución de fricativas por oclusivas. En tarea de imitación directa de palabras meta ("agua", "pan", "más", "no"), logró producción aproximada en [[KEEP|8/10]] ensayos con [[KEEP|claves táctiles-cinestéticas]] (nivel de ayuda [[KEEP|moderado]]), equivalente al [[KEEP|80%]] de precisión con apoyo. En denominación de 10 láminas familiares, identificó correctamente [[KEEP|9/10]] ([[KEEP|90%]]) de manera receptiva (señalando), pero nombró solo [[KEEP|2/10]] ([[KEEP|20%]]) de manera expresiva espontánea.
+
+Durante la sesión de observación en [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], se observó a [[CHILD|Mateo]] señalar y vocalizar para pedir un juguete; cuando la Srta. [[TEACHER|María Elena Soto]] no comprendió la vocalización, [[CHILD|Mateo]] empujó a [[PEER|Diego]] y lloró. La terapeuta, [[PROVIDER|Patricia Isabel Gómez Reyes]], modeló un sistema de comunicación aumentativa de baja tecnología (tablero de imágenes tipo [[KEEP|PECS]], Fase II) y [[CHILD|Mateo]] seleccionó la imagen correcta en [[KEEP|3 de 5]] oportunidades con claves gestuales mínimas.
+
+Servicios prestados desde la última revisión ([[DATE|10 de abril de 2025]] a [[DATE|2 de octubre de 2026]]): terapia del habla-lenguaje individual, [[KEEP|30 minutos]], dos veces por semana, en el hogar de la familia, bajo CPT [[KEEP|92507]]; consulta/evaluación de seguimiento facturada bajo CPT [[KEEP|92523]] en la visita de reevaluación del [[DATE|15 de julio de 2026]]. Total de sesiones completadas: [[KEEP|58]] de [[KEEP|62]] programadas (asistencia del [[KEEP|94%]]), con ausencias relacionadas a enfermedades respiratorias recurrentes.
+
+A:
+[[CHILD|Mateo]] presenta un trastorno del lenguaje expresivo de moderado a severo con fonología muy reducida, consistente con el código diagnóstico [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo), con receptivo relativamente preservado respecto al expresivo. El perfil es consistente con una brecha significativa entre comprensión y expresión, exacerbada por historial de otitis media recurrente ya resuelto médicamente. El progreso desde el IFSP inicial es evidente en el inventario fonético (de 3 sonidos consonánticos a 5) y en el vocabulario funcional (de 2 a aproximadamente 15 palabras aproximadas), pero el ritmo sigue por debajo de lo esperado para cerrar la brecha antes de la transición a preescolar a los 3 años.
+
+El comportamiento de empujar/morder en la guardería parece funcionalmente relacionado con frustración comunicativa, no con un trastorno conductual primario. Se descarta trastorno del espectro autista como causa primaria en este momento, dado el buen contacto visual, el juego simbólico emergente y el interés social observado durante la sesión; sin embargo, se recomienda monitoreo continuo dada la co-ocurrencia frecuente de retraso de lenguaje severo y rasgos sociales atípicos en esta edad.
+
+El uso de un sistema de comunicación aumentativa de baja tecnología como puente mientras se desarrolla el habla verbal es apropiado y bien tolerado por [[CHILD|Mateo]] en la prueba inicial de hoy. La familia está motivada, consistente y solicita explícitamente continuidad de servicios en español. El desarrollo bilingüe típico explica parte de la variabilidad léxica observada entre contextos de hogar y guardería, y no debe interpretarse como causa del retraso.
+
+Las prioridades familiares se mantienen vigentes: comunicación funcional para pedir, comprensión mutua con el personal de la guardería, y preservación del idioma español en el hogar. Se recomienda ajustar los resultados (outcomes) del IFSP para incorporar el sistema de comunicación aumentativa, aumentar la frecuencia de consulta con la guardería, y continuar monitoreo auditivo dado el historial otológico.
+
+P:
+Resultado/Meta IFSP #1 (continuado, modificado): [[CHILD|Mateo]] usará de 2 a 3 palabras aproximadas de manera espontánea para pedir objetos/acciones preferidos durante actividades de rutina en el hogar y la guardería, en 8 de 10 oportunidades observadas, medido por registro de datos de la madre y la Srta. [[TEACHER|María Elena Soto]].
+Estrategias: modelado de lenguaje aumentado (técnica de "espera expectante"), uso de rutinas de juego repetitivas, imitación provocada de palabras meta con claves táctiles-cinestéticas, reforzamiento inmediato de cualquier intento verbal aproximado.
+
+Resultado/Meta IFSP #2 (nuevo): [[CHILD|Mateo]] seleccionará la imagen correcta en un tablero de comunicación tipo [[KEEP|PECS]] Fase II para solicitar al menos 5 ítems funcionales diferentes, con claves gestuales mínimas, en el hogar y en la guardería, en 4 de 5 oportunidades.
+Estrategias: entrenamiento a la familia y a la Srta. [[TEACHER|María Elena Soto]] en el uso del tablero; coordinación entre [[PROVIDER|Patricia Isabel Gómez Reyes]] y el personal de [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] mediante visita de consulta mensual; envío de tablero plastificado duplicado para el hogar y la guardería.
+
+Resultado/Meta IFSP #3 (continuado): aumentar el inventario fonético consonántico a 7 sonidos en posición inicial de palabra, con producción aproximada en 7 de 10 ensayos de imitación directa con apoyo visual y táctil.
+Estrategias: enfoque de ciclos fonológicos ([[KEEP|Cycles Approach]]) dirigido a los procesos de reducción silábica final y simplificación de grupos consonánticos; práctica distribuida en rutinas de alimentación y juego con sonidos bilabiales y velares.
+
+Resultado/Meta IFSP #4 (nuevo): la familia mantendrá el español como idioma principal del hogar mientras se introduce vocabulario en inglés de manera natural en la guardería, sin presión para suprimir el español, documentado en registro de la madre de al menos 3 interacciones diarias en español dirigidas por el adulto.
+Estrategias: educación a la familia sobre desarrollo bilingüe típico en niños pequeños; uso del enfoque "un adulto-un idioma" en rutinas específicas; coordinación con la Srta. [[TEACHER|María Elena Soto]] para no forzar la supresión del español en el aula.
+
+Frecuencia/duración de servicios: terapia del habla-lenguaje individual continúa dos veces por semana, [[KEEP|30 minutos]] cada sesión, en el hogar familiar, modalidad en español con apoyo visual bilingüe, CPT [[KEEP|92507]]. Se añade una consulta mensual de [[KEEP|20 minutos]] con el personal de [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] para entrenamiento del sistema de comunicación aumentativa.
+
+Coordinación de servicios: la Coordinadora [[PROVIDER|Jennifer Marlene Castillo]] confirmará con [[AGENCY|WIC del Condado de Orange]] la continuidad de suplementos nutricionales y actualizará la referencia a [[AGENCY|Smart Start de Orange County]] para clases de crianza en español. Se mantiene pendiente revisión audiológica de seguimiento con Dr. [[PROVIDER|Robert Haines]] en [[HOSPITAL|Carolina Ear, Nose & Throat and Audiology at Novant Health – Campus Mebane]], programada para [[DATE|20 de enero de 2027]].
+
+Transición: dado que [[CHILD|Mateo]] cumplirá 3 años en [[DATE|marzo de 2027]], se inicia conversación de planificación de transición con la familia hacia servicios de preescolar de educación especial del distrito escolar o continuidad privada bilingüe, según elegibilidad. Se enviará paquete informativo de transición a la familia antes de la próxima revisión.
+
+Firma de familia: ______________________ Firma de Coordinadora de Servicios [[PROVIDER|Jennifer Marlene Castillo]]: ______________________
+Firma de terapeuta: [[PROVIDER|Patricia Isabel Gómez Reyes]], M.S., CCC-SLP — [[EMPLOYER|Terapias Pediátricas Bilingües del Triángulo, PLLC]]
+Contacto de la práctica: [[EMAIL|pgomez@terapiasbilinguestriangulo.com]] | [[PHONE|(919) 555-0177]] | [[URL|www.terapiasbilinguestriangulo.com]]
+
+Fecha de esta revisión: [[DATE|2 de octubre de 2026]]
+Próxima revisión del IFSP: [[DATE|2 de abril de 2027]]

@@ -1,0 +1,28 @@
+Nota Diaria de Terapia del Habla y Lenguaje
+
+Fecha: [[DATE|11 de octubre de 2026]] Hora de sesión: [[TIME|2:00 p.m.]]–[[TIME|2:45 p.m.]]
+Clínica: [[EMPLOYER|Terapias Pediátricas Sendero Claro, PLLC]]
+Terapeuta: Lic. [[PROVIDER|Patricia Gómez]], CCC-SLP bilingüe
+
+Pt: [[CHILD|José Guadalupe Martínez Flores]] (apodo "[[CHILD|Chuy]]"), [[KEEP|4;2]], DX: trastorno de sonidos del habla. Caso activo c/ [[AGENCY|Centro de Desarrollo y Servicios para Niños del Suroeste de Carolina del Norte]] ([[AGENCY|CDSA Suroeste]]). Coordinadora de servicios: [[PROVIDER|Ana Torres]] de [[AGENCY|Agencia de Coordinación de Servicios Camino Seguro]] ([[AGENCY|Camino Seguro]]), tel [[PHONE|(704) 555-0188]]. ID de caso: [[ID|NC-4471920-J]], Medicaid #: [[MEDICAID_ID|998271463B]].
+
+Historia: Pt nació [[DATE|14 de agosto de 2022]] en [[HOSPITAL|Hospital Infantil Monte Esperanza de Charlotte]], [[KEEP|34 semanas]] de gestación, peso al nacer [[KEEP|1,980 gramos]], Apgar [[KEEP|6/9]]. Estuvo [[KEEP|3 semanas]] en la unidad de cuidados intensivos neonatales (NICU), atendido por el neonatólogo Dr. [[PROVIDER|Robert Thompson]]. Pediatra actual: Dra. [[PROVIDER|Elena Ramírez]].
+
+CG presente: mamá [[PARENT|Lucía Martínez Flores]], trabaja turno de tarde en [[ORG|Planta de Empaque Carolina Fresca]]. Papá [[PARENT|Francisco "Pancho" Martínez]] no asistió b/c horario laboral. Hermano mayor [[SIBLING|Juan Martínez Flores Jr.]] ("[[SIBLING|Juanito]]"), [[KEEP|7 años]], ayuda a cuidar a Chuy después de clases. Tía materna [[FAMILY|Rosa Hernández]] cuida a pt algunas tardes cuando mamá trabaja.
+
+Pt asiste a [[DAYCARE|Las Lucecitas de Girasol]] en [[PLACE|Monroe, NC]], [[PLACE|Condado de Union]]. Maestra principal: Srta. [[TEACHER|Carmen Pérez]]. Compañero cercano en el salón: [[PEER|Pepe]]. Perro de la familia, "[[PET|Max]]", mencionado por pt durante juego.
+
+Domicilio: [[PLACE|215 Calle Girasol, Monroe, NC 28112]].
+
+S: Mamá reporta que Chuy dice "[[KEEP|tete]]" por "[[KEEP|leche]]" y "[[KEEP|fayua]]" por "[[KEEP|agua]]" en casa. Refiere mejoría leve w/ sonido [[KEEP|/k/]] esta semana; ayer dijo "[[KEEP|casa]]" con precisión [[KEEP|3 de 5]] intentos.
+
+O: Sesión individual en clínica. Pt cooperativo, buen contacto visual. Se trabajó producción de [[KEEP|/k/]] inicial y [[KEEP|/g/]] final usando tarjetas y juego c/ figuras de animales. Pt produjo [[KEEP|/k/]] correctamente [[KEEP|8/10]] ensayos w/ [[KEEP|mod cues]] (modelo + indicio táctil). Para [[KEEP|/g/]] final, logró [[KEEP|5/10]] c/ [[KEEP|max cues]]. Se usó enfoque [[KEEP|Cycles]] para fonología, enfocado en estructura de sílaba final. Pt imitó "[[KEEP|pego]]" y "[[KEEP|lago]]" aprox [[KEEP|60%]] de las veces. SALT: [[KEEP|[EW]]] notado en 2 producciones espontáneas.
+
+Se revisó con mamá estrategia [[KEEP|Hanen]] para expandir enunciados en casa; mamá practicará c/ frases cortas durante la cena.
+
+A: Pt avanza hacia Objetivo IFSP #[[KEEP|2]] (sonidos finales) c/ progreso constante. Precisión de [[KEEP|/k/]] inicial subió de línea base [[KEEP|40%]] a [[KEEP|80%]] en 6 semanas. [[KEEP|/g/]] final sigue emergente, requiere práctica adicional en casa.
+
+P: Continuar 2x/semana. Enviar video corto a mamá vía correo [[EMAIL|lucia.martinez84@example.com]] c/ ejercicios de [[KEEP|Hanen]]. Próxima revisión de IFSP programada [[DATE|9 de diciembre de 2026]] c/ [[PROVIDER|Ana Torres]]. Notificar a [[AGENCY|CDSA Suroeste]] si hay cambios en elegibilidad Medicaid.
+
+Firma: Lic. [[PROVIDER|Patricia Gómez]], CCC-SLP
+[[EMPLOYER|Terapias Pediátricas Sendero Claro, PLLC]]

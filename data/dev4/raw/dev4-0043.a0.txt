@@ -1,0 +1,35 @@
+Carolina Pediatric Speech & Language Services
+Nota de Progreso Diaria / Daily Progress Note
+
+Client: [[CHILD|Mateo Sánchez Reyes]] ("[[CHILD|Mateo]]")
+DOB: [[DATE|June 14, 2021]]  Age: [[KEEP|4;4]]
+Medicaid ID: [[MEDICAID_ID|7284910335B]]
+Date of Service: [[DATE|October 9, 2026]]  Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Location: [[SCHOOL|Pinewood Early Learning Center]], [[PLACE|Hendersonville]], NC [[PLACE|28792]]
+CPT: [[KEEP|92507]], [[KEEP|92523]]
+ICD-10: [[KEEP|F80.2]]
+Clinician: [[PROVIDER|Ana López, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Speech & Language Services]]
+Interpreter present: none needed; session conducted bilingually by clinician.
+
+S: Mamá, [[PARENT|Carla Reyes]], reports that [[CHILD|Mateo]] "habla más en casa, pero todavía mezcla sonidos," and that his big brother, [[SIBLING|Diego]], "le entiende casi todo." She says the family dog, [[PET|Canela]], gets excited when [[CHILD|Mateo]] calls her, and that his production is improving: he now says "[[KEEP|Canela]]" instead of "[[KEEP|Tanela]]." Teacher [[TEACHER|Ms. Whitfield]] at [[SCHOOL|Pinewood Early Learning Center]] reports similar gains in the classroom.
+
+O: Trabajamos en /k/ y /g/ en posición inicial using minimal pairs. [[CHILD|Mateo]] produced /k/ correctly in [[KEEP|8/10]] trials ([[KEEP|80%]]) with [[KEEP|min cues]], improved from last session's [[KEEP|3 of 5]]. Target word "[[KEEP|carro]]" was produced as "[[KEEP|[k]arro]]" with [[KEEP|mod cues]] faded to minimal by session's end. Using a [[KEEP|Cycles]] approach, we addressed syllable structure; home carryover reviewed with [[PARENT|Carla]] per [[KEEP|Hanen]] "It Takes Two to Talk" strategies.
+
+Progress on current benchmarks, compared to initial eval:
+
+| Measure | Date | Score | Confidence Interval | Age Equivalent |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Auditory Comprehension]] | [[DATE|March 3, 2026]] | [[KEEP|78]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5 Expressive Communication]] | [[DATE|March 3, 2026]] | [[KEEP|75]] | [[KEEP|70-80]] | [[KEEP|2;3–2;9]] |
+| [[KEEP|CELF-5 Core Language]] | [[DATE|September 18, 2026]] | [[KEEP|81]] | [[KEEP|76-86]] | [[KEEP|3;0–3;6]] |
+
+A: [[CHILD|Mateo]] continues to show steady gains in initial consonant accuracy, consistent with his [[KEEP|F80.2]] diagnosis. Family engagement remains strong; mamá reports practicing diez minutos cada noche en casa, y que el abuelo, [[FAMILY|Don Héctor]], también ayuda con las tarjetas de sonidos.
+
+P: Continue weekly sessions targeting /k/, /g/, /t/ in structured and spontaneous speech. Will coordinate with service coordinator [[PROVIDER|Mr. Ortiz]] at [[AGENCY|Western Carolina CDSA]] regarding [[KEEP|IFSP Outcome #2]] review scheduled for [[DATE|November 14, 2026]]. Recommend continued school-based support; cc'd to [[TEACHER|Ms. Whitfield]].
+
+Próxima cita / Next appointment: [[DATE|October 16, 2026]], [[TIME|3:30 PM]].
+
+Para preguntas, visite [[URL|www.carolinapedspeech.com/parent-portal]] o llame a la oficina al [[PHONE|(828) 555-0147]].
+
+[[PROVIDER|Ana López, M.S., CCC-SLP]]
+[[EMAIL|alopez@carolinapedspeech.com]]

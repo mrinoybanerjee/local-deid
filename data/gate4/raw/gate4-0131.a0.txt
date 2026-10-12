@@ -1,0 +1,31 @@
+Nota diaria / Daily Speech-Language Therapy
+Child: [[CHILD|Nicolás Varela Soto]]  Preferred name: [[CHILD|Nico]]  Age: [[KEEP|4;2]]  DOB: [[DATE|August 6, 2022]]
+Service date: [[DATE|October 8, 2026]]  Start: [[TIME|9:15 a.m.]]  End: [[TIME|10:00 a.m.]]  Setting: home
+Clinician: [[PROVIDER|Elena Marisol Rivas]], MS, CCC-SLP  Employer: [[EMPLOYER|Cedar Lantern Pediatric Communication]]
+Record: [[ID|SLP-482706]]  Medicaid: [[MEDICAID_ID|582740193Q]]  Authorization: [[ID|AU-760284]]
+CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Home: [[PLACE|284 Lantern Finch Lane]], [[PLACE|Brisacauce]], North Carolina [[PLACE|27968]]  County: [[PLACE|Willowmere County]]
+Parent: [[PARENT|Camila Varela Soto]]  Phone: [[PHONE|919-555-0146]]  Email: [[EMAIL|camila.varela@example.com]]
+CDSA office: [[AGENCY|Centro de Servicios de Desarrollo Infantil de Brisacauce]]  Short form: [[AGENCY|CDSA Brisacauce]]
+Coordinator: [[PROVIDER|Rosa Belén Duarte]]  Agency: [[AGENCY|Agencia Comunitaria de Coordinación Familiar Puentes del Amanecer]]  Short form: [[AGENCY|Puentes]]
+School: [[SCHOOL|Juniper Kite Preschool]]  Teacher: Ms. [[TEACHER|Alma Cifuentes]]  Classroom aide: [[TEACHER|Jonah Vale]]
+
+S / Subjetivo:
+Mother reported, “En casa quiere contar todo, pero se frustra cuando no entendemos.” Father [[PARENT|Gabriel Soto]] joined briefly and described improved requests during breakfast. Sister [[SIBLING|Inés Soto]] modeled turn taking without answering for her brother. Grandmother [[FAMILY|Teresa Varela]] participated remotely from [[PLACE|Aldea Naranjoluna]], Guatemala; her mailing address is [[PLACE|18 Calle del Colibrí, Casa 4, Aldea Naranjoluna]]. Babysitter [[FAMILY|Marta Leal]] reported that the child asked for help independently yesterday. Mother works at [[ORG|Moonbasket Textile Cooperative]] and requested activities that fit evening routines. Family denied new illness or hearing concerns. Interpreter [[PROVIDER|Diego Arce]] supported clarification of caregiver questions; clinician provided treatment directly in both languages.
+
+O / Objetivo:
+Prior assessment results were reviewed for planning, without readministration. These scores describe the earlier testing session and do not represent today's performance. Interpretation considered bilingual exposure and caregiver observations.
+
+Measure | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent
+[[KEEP|PLS-5 Spanish]] / [[KEEP|Auditory Comprehension]] | [[DATE|September 17, 2026]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|73-85]] | [[KEEP|2;10–3;2]]
+[[KEEP|PLS-5 Spanish]] / [[KEEP|Expressive Communication]] | [[DATE|September 17, 2026]] | [[KEEP|75]] | [[KEEP|5th percentile]] | [[KEEP|70–82]] | [[KEEP|2;6–3;0]]
+
+Birth history remains caregiver reported: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.12 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. No birth records were reviewed today.
+
+Treatment used [[KEEP|Hanen]] strategies, [[KEEP|focused stimulation]], and [[KEEP|recasts]] during pretend cooking. For [[KEEP|IFSP outcome 2]], [[CHILD|Nicolás]] requested [[KEEP|"más jugo"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He combined [[KEEP|"quiero blue cup"]] spontaneously and produced [[KEEP|"dame la cuchara"]] with [[KEEP|mod cues]]. Following directions containing location words reached [[KEEP|70%]] with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] emerged in [[KEEP|3 of 5]] attempts; [[KEEP|[w]]] replaced the initial sound in [[KEEP|"rabbit"]]. Spanish [[KEEP|/ɾ/]] was monitored without direct practice. During a pet picture activity, he said "[[PET|Chispa]] run" while pointing accurately. One omitted grammatical word received the transcript code [[KEEP|[EW]]].
+
+A / Análisis:
+Participation improved when adults paused and accepted either language. Performance suggests continuing support for comprehension and phrase expansion. Language choice varied with activity; code-switching alone was not treated as an error. Peer references included classmates [[PEER|Lía Mercado]] and [[PEER|Owen Reed]]. The child remained engaged during transitions with a visual schedule.
+
+P / Plan:
+Continue weekly home sessions and coach caregivers to pause before offering choices. Practice [[KEEP|"abre"]] and [[KEEP|"help me"]] during familiar routines. OT [[PROVIDER|Priya Sen]] will address utensil access; PT [[PROVIDER|Marcus Bell]] will review seating. Pediatrician Dr. [[PROVIDER|Nora Ibarra]], at [[HOSPITAL|Willow Lantern Children's Hospital]], received no communication today. Receptionist [[PERSON|Ada Quill]] confirmed scheduling internally. Next visit: [[DATE|October 15, 2026]]  Review: [[DATE|November 5, 2026]]  Resource: [[URL|https://cedarlantern.example/home]]

@@ -1,0 +1,42 @@
+Document: Bilingual pediatric speech-language therapy daily note
+Employer: [[EMPLOYER|Puente Claro Pediatric Therapies]]
+Clinician: [[PROVIDER|Elena Varela]], MS, CCC-SLP
+Client: [[CHILD|Nicolás Ledesma]]
+DOB: [[DATE|August 9, 2022]]
+Service date: [[DATE|October 9, 2026]]
+Age: [[KEEP|4;2]]
+Session: [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Record: [[ID|NC-ST-684209]]
+Medicaid: [[MEDICAID_ID|482716903Q]]
+Authorization: [[ID|AUTH-260917-B]]
+Location: [[PLACE|418 Willow Lantern Lane]], [[PLACE|Maplehaven]], North Carolina [[PLACE|27893]]
+Contact: [[PHONE|919-555-0148]]
+Email: [[EMAIL|family.ledesma@example.com]]
+Portal: [[URL|https://puenteclaro.example.com]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Subjetivo / Family update
+
+Su mamá [[PARENT|Marisol Ledesma]] attended; papá [[PARENT|Andrés Ledesma]] joined briefly by phone. Mother reported, “Cuando le doy tiempo, he tells me more.” [[CHILD|Nicolás]] slept well and requested breakfast verbally. His sister [[SIBLING|Eva Ledesma]] practiced turn-taking yesterday. Abuela [[FAMILY|Teresa Montalvo]] provides afternoon care. The family dog, [[PET|Chispa]], remains a strong conversational motivator.
+
+Employment history includes mother's store, [[ORG|Lantern Market]] (la tienda [[ORG|Lantern Market]]); restaurant, [[ORG|Copper Spoon Kitchen]] (el restaurante [[ORG|Copper Spoon Kitchen]]); and cleaning service, [[ORG|Bright Nest Cleaning]] (el servicio de limpieza [[ORG|Bright Nest Cleaning]]). Father's work includes a plant, [[ORG|Juniper Packaging]] (la planta [[ORG|Juniper Packaging]]); farm, [[ORG|Quiet Meadow Farm]] (la granja [[ORG|Quiet Meadow Farm]]); and construction company, [[ORG|Stone Finch Construction]] (la compañía de construcción [[ORG|Stone Finch Construction]]). Changing shifts affect home practice; family prefers routines during meals.
+
+Antecedentes / Birth and medical history
+
+Born at [[HOSPITAL|Silver Lantern Children's Hospital]] at [[KEEP|35 weeks 4 days]], birth weight [[KEEP|2,310 g]], Apgar scores [[KEEP|7]] and [[KEEP|9]]. NICU admission addressed feeding coordination and respiratory support. Neonatologist Dr. [[PROVIDER|Adriana Solano]] supervised discharge. Pediatrician Dr. [[PROVIDER|Marcus Bellamy]] follows development; audiologist [[PROVIDER|Inés Duarte]] reported hearing adequate for speech access. No new medical concerns were reported today.
+
+Objetivo / Session observations
+
+Prior [[KEEP|PLS-5]] results: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. These results informed task selection; bilingual language samples also guided interpretation.
+
+Used [[KEEP|Hanen]] and [[KEEP|It Takes Two to Talk]] responsive interaction strategies. Brief [[KEEP|PROMPT]] support followed consent and tolerance checks. [[KEEP|Cycles]] targets addressed /k/ production: [[KEEP|/k/]] emerged in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|[w]]] substitutions persisted during excited speech. Practiced Spanish [[KEEP|/ɾ/]] in play without requiring mastery.
+
+[[KEEP|PECS]] supported requests; [[KEEP|Kaufman]] shaping supported movement sequences. Targets included [[KEEP|"más agua"]], [[KEEP|"my turn"]], and [[KEEP|"casa"]]. Child produced [[KEEP|"ma awa"]] and [[KEEP|"my tu"]]. Spontaneous requests occurred in [[KEEP|3 of 5]] opportunities, with [[KEEP|min cues]] for expansion. Shared attention reached [[KEEP|80%]]. A sampled omission received SALT code [[KEEP|[EW]]]. He said, “[[PET|Chispa]] run,” while showing a picture.
+
+Análisis / Assessment
+
+[[CHILD|Nicolás]] benefited from wait time and predictable choices. Language switching supported participation. Teacher Ms. [[TEACHER|Rosa Mendieta]] at [[SCHOOL|Acorn Lantern Preschool]] reported successful play with classmates [[PEER|Lina Serrano]] and [[PEER|Owen Pike]]. At [[DAYCARE|Little Harbor Daycare]], classroom aide [[TEACHER|J. Ortiz]] uses the same picture choices.
+
+Plan / Próximos pasos
+
+Continue IFSP outcome [[KEEP|2]] with coordinator [[PROVIDER|Clara Benítez]] at [[AGENCY|East Lantern CDSA]]. Practice requests during meals; model once, pause, then respond. Neighbor [[PERSON|M.R.]] will deliver borrowed picture materials. Next visit: [[DATE|October 16, 2026]]. Family demonstrated the routine and agreed to record examples without correcting every sound.

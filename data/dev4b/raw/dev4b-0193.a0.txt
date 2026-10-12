@@ -1,0 +1,25 @@
+Nota de sesión diaria — Daily Session Note
+[[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]]
+
+Cliente/Client: [[CHILD|Mateo Alejandro Cruz Reyes]] ("[[CHILD|Mateíto]]")
+Fecha de nacimiento/DOB: [[DATE|April 9, 2021]]  Edad/Age: [[KEEP|4;6]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]  Case #: [[ID|LD-22-0147]]
+Fecha de sesión/Session date: [[DATE|October 9, 2026]]  Hora/Time: [[TIME|3:30 PM]]
+Clínica: [[PROVIDER|Yolanda Pérez]], M.S., CCC-SLP
+Dirección/Address: [[PLACE|123 Maple Ridge Lane]], [[PLACE|Asheboro]], NC [[PLACE|27203]]
+Tel. de contacto/Contact phone: [[PHONE|(336) 555-0148]]
+
+Lugar/Location:
+[X] Hogar/Home  [ ] [[DAYCARE|Little Learners Daycare]]  [ ] Clínica  [ ] Telehealth
+
+S (Subjetivo): La abuela que cuida a [[CHILD|Mateo]] por las tardes, [[FAMILY|doña Lupe]], estuvo presente. Dijo que durmió bien. Su mamá, [[PARENT|Lucía Reyes]], trabaja en el restaurante El Rancho (en inglés, "El Rancho Mexican Restaurant"), y los fines de semana limpia con el servicio de limpieza [[ORG|Sparkle Clean Services]]. Su papá, [[PARENT|Carlos Cruz]], trabaja en la fábrica de muebles Blue Ridge ("[[ORG|Blue Ridge Furniture Factory]]"). Reportó mamá: "[[CHILD|Mateo]] habla más en casa pero en [[DAYCARE|Little Learners Daycare]] casi no dice nada." Hermana mayor [[SIBLING|Valentina Cruz]] lo imita en juego. El perro de la familia, [[PET|Capitán]], estuvo presente y [[CHILD|Mateo]] le dijo "[[KEEP|¡Capitán, ven!]]" sin apoyo.
+
+O (Objetivo): Trabajamos [[KEEP|Hanen]] strategies durante juego libre y tarjetas [[KEEP|PECS]] para pedir turnos. [[CHILD|Mateo]] produjo /[[KEEP|k]]/ inicial en "[[KEEP|casa]]" con [[KEEP|mod cues]], 4 de 5 intentos correctos ([[KEEP|4/5]]). Intentó "gato" y dijo "[[KEEP|“dato”]]," sustituyendo /[[KEEP|g]]/ por /[[KEEP|d]]/. Usamos [[KEEP|PROMPT]] táctil para [[KEEP|/s/]] en sílabas CV. Mencionó a su amigo del salón, [[PEER|Josué]], y a su primo [[FAMILY|Ángel]], quien vino de visita el fin de semana. También habló de su maestra en [[DAYCARE|Little Learners Daycare]], [[TEACHER|Miss Ana]], y de [[PERSON|Mr. Tom]], el conductor del autobús.
+
+A (Análisis): Progreso leve en inventario fonémico. Comparado con [[KEEP|PLS-5]] previo (puntuación estándar [[KEEP|73]], percentil [[KEEP|4]]), hay mejora funcional en el hogar aunque no se observa generalización consistente en [[DAYCARE|Little Learners Daycare]], según la maestra de ahí, [[TEACHER|la maestra Carmen]]. La coordinadora de servicios, [[PROVIDER|Jenny Álvarez]] de [[AGENCY|CDSA del Piedmont]], confirmó que el [[AGENCY|Little Learners Program]] continúa como parte del Outcome [[KEEP|2]] del IFSP. Revisión de IFSP programada para [[DATE|January 15, 2027]].
+
+P (Plan): Continuar sesiones 2x/semana enfocadas en /k/, /g/, y /s/ en posición inicial, con señales [[KEEP|min-mod]]. Se coordinará con [[FAMILY|doña Lupe]] para practicar en casa durante las tardes mientras [[PARENT|Lucía Reyes]] y [[PARENT|Carlos Cruz]] están en el trabajo. Se enviará hoja de práctica con imágenes de "[[KEEP|casa]]," "[[KEEP|gato]]," y "[[KEEP|sol]]." Próxima visita: [[DATE|October 16, 2026]] a las [[TIME|3:30 PM]].
+
+Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]].
+
+Firma/Signature: [[PROVIDER|Yolanda Pérez]], CCC-SLP — [[DATE|October 9, 2026]]

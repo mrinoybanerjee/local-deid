@@ -1,0 +1,167 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN
+
+Meeting date: [[DATE|August 28, 2026]]
+Plan period: [[DATE|September 1, 2026]] through [[DATE|February 28, 2027]]
+Record number: [[ID|BG-ITP-260828-417]]
+Medicaid member number: [[MEDICAID_ID|742618395Q]]
+Service authorization: [[ID|SLP-260901-6382]]
+
+FAMILY INFORMATION
+
+Child: [[CHILD|Maria Jose Salcedo Vega]]
+Family nickname: [[CHILD|Majo]]
+Birth date: [[DATE|June 14, 2024]]
+Age at evaluation: [[KEEP|26 months]]
+Parents: [[PARENT|Adriana Salcedo Ruiz]] and [[PARENT|Tomas Vega Leon]]
+Sibling: [[SIBLING|Nicolas Vega Salcedo]], called [[SIBLING|Nico]]
+
+Home address: [[PLACE|418 Willow Lantern Lane]], [[PLACE|Briar Glen]], North Carolina [[PLACE|27983]]
+County of residence: [[PLACE|Pine Hollow County]]
+Primary telephone: [[PHONE|252-555-0146]]
+Alternate telephone: [[PHONE|252-555-0182]]
+Family email: [[EMAIL|adriana.salcedo@example.com]]
+
+The family uses Spanish and English during everyday activities. Both parents requested an English written plan and spoken explanations in either language. They want their child to continue learning both languages. They do not want relatives to stop speaking Spanish.
+
+The mother works at [[ORG|Lantern Ridge Packaging Cooperative]]. The father works at [[ORG|Blue Finch Bicycle Works]]. Their schedules overlap during the afternoon. Grandmother [[FAMILY|Rosa Elena Salcedo]] and babysitter [[FAMILY|Paloma Rivas]] help with care. The family identified these adults as people who may practice the agreed strategies.
+
+SERVICE COORDINATION AND PARTICIPATION
+
+Service coordinator: [[PROVIDER|Julian Ortiz]], documented in contact notes as [[PROVIDER|J. Ortiz]]
+CDSA office: [[AGENCY|Briar Glen Children's Developmental Services Agency]]
+Office address: [[PLACE|92 Meadow Compass Road]], [[PLACE|Briar Glen]], North Carolina [[PLACE|27983]]
+Office telephone: [[PHONE|252-555-0124]]
+Coordinator email: [[EMAIL|julian.ortiz@example.com]]
+
+Bilingual pediatric speech-language pathologist: [[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP
+Clinician employer: [[EMPLOYER|Cedar Lantern Pediatric Communication Services]]
+Clinician telephone: [[PHONE|252-555-0168]]
+Clinician email: [[EMAIL|elena.duarte@example.com]]
+
+The meeting occurred in the family home. Both parents, the service coordinator, and the speech-language pathologist attended. Grandmother joined the discussion by telephone. The family declined a separate interpreter because the clinician could discuss the plan directly in Spanish and English. Parents had time to ask questions and revise the proposed outcomes.
+
+The coordinator explained family participation, consent, record access, and available service settings. Parents selected home and daycare visits because communication problems occur in both settings. They requested advance notice before another professional observes a visit.
+
+DEVELOPMENTAL AND HEALTH SUMMARY
+
+Parents reported an uncomplicated pregnancy and birth at [[HOSPITAL|Willow Harbor Community Hospital]]. Gestational age was [[KEEP|39 weeks, 2 days]]. Reported birth weight was [[KEEP|3,280 g]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. These details came from the family intake form; the hospital record was not available for this meeting.
+
+Primary care physician [[PROVIDER|Dr. Owen Bellamy]] follows routine health needs. Parents reported no daily medication, feeding tube, surgery, or known food allergy. Hearing screening documentation dated [[DATE|August 12, 2026]] indicated responses within the screening criteria. Audiologist [[PROVIDER|Priya Nand]] recommended follow-up if listening concerns increase.
+
+The child walks independently, climbs onto a low chair, brings familiar objects to adults, and enjoys pretend feeding. Parents described communication frustration during meals, toy exchanges, and departures. They reported that unfamiliar adults often need help understanding requests.
+
+The bilingual evaluation occurred on [[DATE|August 19, 2026]]. It included caregiver interview, play observation, and structured testing. English test scores provide limited information because the child's experience includes both languages. The clinician considered communication across languages and routines when recommending services.
+
+ASSESSMENT SUMMARY
+
+| Measure | Score | Confidence interval | Percentile | Age equivalent | Assessment date |
+| --- | --- | --- | --- | --- | --- |
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | Standard score [[KEEP|78]] | [[KEEP|90%]] interval [[KEEP|73-85]] | [[KEEP|7th percentile]] | [[KEEP|1;8]] | [[DATE|August 19, 2026]] |
+| [[KEEP|PLS-5]]: [[KEEP|Expressive Communication]] | Standard score [[KEEP|74]] | [[KEEP|90%]] interval [[KEEP|69-82]] | [[KEEP|4th percentile]] | [[KEEP|1;5]] | [[DATE|August 19, 2026]] |
+| [[KEEP|PLS-5]]: [[KEEP|Total Language]] | Standard score [[KEEP|75]] | [[KEEP|90%]] interval [[KEEP|71-83]] | [[KEEP|5th percentile]] | [[KEEP|1;6]] | [[DATE|August 19, 2026]] |
+
+These age equivalents describe test performance and do not represent the child's overall developmental age. No scaled scores were generated. The clinician did not combine Spanish and English responses into an altered standard score.
+
+During supported play, [[CHILD|Maria Jose]] followed familiar directions in [[KEEP|6/10]] opportunities. With gestures, performance increased to [[KEEP|8/10]]. Independent requests occurred in [[KEEP|3 of 10]] opportunities. Requests increased to [[KEEP|7 of 10]] when adults offered choices and waited.
+
+Observed consonants included [[KEEP|/m/]], [[KEEP|/b/]], and [[KEEP|/p/]]. A familiar word beginning with [[KEEP|/r/]] was produced with [[KEEP|[w]]]. The sample was too small for a stable speech sound diagnosis. Language-sample notation included the [[KEEP|SALT]] code [[KEEP|[EW]]] for an extra word.
+
+FAMILY CONCERNS, PRIORITIES, AND RESOURCES
+
+The mother stated, "She knows what she wants, but we guess too much. I want her to ask before she gets upset."
+
+The father stated, "At dinner she points, and we bring the wrong thing. Then she cries. We want meals to feel easier."
+
+Grandmother stated, "I want to understand her without asking her brother every time. I want to keep speaking Spanish with her."
+
+Parents identified meals, daycare pickup, and shared play as their first priorities. They want practical strategies that fit ordinary activities. They prefer short demonstrations followed by their own practice. They do not want a long worksheet after each visit.
+
+The family has stable housing, transportation, and regular telephone access. Both parents can attend some visits together. Grandmother can join morning visits. The babysitter can receive a brief strategy summary with parental consent. The family has picture books, blocks, toy animals, and familiar containers that can support practice.
+
+Parents described their child as curious, affectionate, and persistent. They want adults to notice successful gestures and words. They also want adults to respect a refusal and provide help before frustration increases.
+
+DAILY ROUTINES
+
+The family usually begins the day at [[TIME|6:45 a.m.]]. Breakfast occurs near [[TIME|7:15 a.m.]]. The mother offers familiar foods while the father prepares the daycare bag. Requests are easiest when objects remain visible. Requests become harder when adults move quickly or ask several questions.
+
+Arrival at [[DAYCARE|Little Learners Daycare]] is usually at [[TIME|8:10 a.m.]]. Classroom teacher Ms. [[TEACHER|Dana Whitcomb]] greets the child with a picture schedule. Assistant teacher [[TEACHER|J. Mercer]] supports handwashing and snack. Staff report that pointing is more frequent than spoken requesting.
+
+Classmates [[PEER|Avery Moss]] and [[PEER|Lena Brook]] often play nearby. Classmate [[PEER|Theo Finch]] sometimes takes a preferred truck. Adults currently step in quickly. The family wants staff to model an easy request before resolving a manageable toy conflict.
+
+Pickup occurs near [[TIME|4:20 p.m.]]. The child often needs quiet contact before discussing the day. At home, sibling [[SIBLING|Nico]] enjoys building towers. Cousins [[FAMILY|Sofia Valdez]] and [[FAMILY|Emilio Valdez]] visit on weekends. Babysitter [[FAMILY|Paloma]] uses songs during cleanup.
+
+The family dog, [[PET|Chispa]], joins floor play. During observation, the child said "[[PET|Chispa]] ven" while pointing toward the door. Adults agreed to practice during calm play and keep the dog away from food activities.
+
+OTHER AGENCIES AND COMMUNITY CONTACTS
+
+The family receives nutrition support from [[AGENCY|Pine Hollow WIC Office]]. Contact person [[PROVIDER|Mara Keene]] helped identify a convenient appointment time. The family also uses book activities through [[AGENCY|Briar Glen Smart Start Partnership]].
+
+No current involvement with [[AGENCY|Pine Hollow Department of Social Services]] was reported. The coordinator recorded this as family report, without requesting unrelated records.
+
+The proposed therapy program is [[KEEP|Little Learners Program]], operated by the clinician's employer. It is separate from [[DAYCARE|Little Learners Daycare]]. The coordinator explained the similar names so parents could identify the service provider correctly.
+
+The family occasionally attends [[AGENCY|Meadow Lantern Public Library]]. Volunteer [[PERSON|Basil Hart]] leads its informal story circle. Parents may use books from that activity for home practice. No information will be shared with the volunteer.
+
+Parents asked about future attendance at [[SCHOOL|Willow Path Preschool]]. Transition options will be discussed later. This plan does not reserve a place or commit the family to that school.
+
+OUTCOME [[KEEP|1]]: REQUESTS DURING MEALS
+
+By [[DATE|February 28, 2027]], the child will communicate a food, drink, or help request during family meals using a gesture, picture, spoken word, or word combination. The criterion is [[KEEP|4 of 5]] natural opportunities across consecutive observed meal routines, with [[KEEP|min cues]].
+
+Baseline: Requests occurred in [[KEEP|3 of 10]] opportunities without an adult model. Adults often anticipated needs or supplied several items before the child selected one.
+
+Strategies: Place familiar choices within view. Offer a small serving, then pause when another serving is appropriate. Model [[KEEP|"more"]], [[KEEP|"mas"]], [[KEEP|"water"]], or [[KEEP|"agua"]] with a gesture. Accept either language. Respond promptly to a clear request. Do not require imitation before giving food or drink.
+
+The clinician will use [[KEEP|Enhanced Milieu Teaching]] and family coaching. Early practice may include [[KEEP|mod cues]], followed by less adult support. Parents will identify comfortable pauses and signs that the child needs immediate help.
+
+Progress will be reviewed through caregiver examples and brief observation. A request counts when the child directs a clear message toward another person. Repeated adult questions do not count as independent communication.
+
+OUTCOME [[KEEP|2]]: SHARED PLAY AND TURN TAKING
+
+By [[DATE|February 28, 2027]], the child will participate in short play exchanges with an adult, sibling, or classmate. The child will use a gesture or word to request a turn, offer an object, or continue play in [[KEEP|8/10]] opportunities with [[KEEP|min cues]].
+
+Baseline: Exchanges required [[KEEP|max cues]] when another child held a preferred object. Adult-supported exchanges were more successful with duplicate toys.
+
+Strategies: Start with enjoyable games that have clear turns. Adults will model [[KEEP|"my turn"]], [[KEEP|"mi turno"]], [[KEEP|"go"]], and [[KEEP|"va"]]. They will keep turns brief and acknowledge reaching, pointing, and appropriate words. Adults may offer duplicate objects when waiting becomes too difficult.
+
+During assessment, [[CHILD|Majo]] said "[[SIBLING|Nico]] go" while handing over a block. This phrase showed an emerging effort to direct another person's action. The clinician will build on that function through play.
+
+The clinician may introduce selected [[KEEP|Hanen]] interaction strategies, including following the child's interest and balancing turns. The family is not enrolled in a complete parent course. Staff will practice the same strategies during classroom play.
+
+OUTCOME [[KEEP|3]]: PARTICIPATION IN TRANSITIONS
+
+By [[DATE|February 28, 2027]], the child will communicate a choice, protest, or request for help during arrival, cleanup, and departure in [[KEEP|3 of 4]] opportunities with [[KEEP|min cues]].
+
+Baseline: Adults reported crying or dropping to the floor during some departures. A familiar object and advance notice often helped. The team did not observe enough transitions to estimate a reliable frequency.
+
+Strategies: Show a simple picture before changing activities. Use a short statement and allow processing time. Offer a meaningful choice when possible. Model [[KEEP|"help"]], [[KEEP|"ayuda"]], [[KEEP|"all done"]], and [[KEEP|"ya"]]. Honor an appropriate protest when the activity can wait.
+
+Parents will practice during leaving the house. Classroom staff will practice during cleanup and pickup. The clinician will coach adults to reduce rapid questions and use predictable language. Adults will record useful examples rather than count every difficult moment.
+
+Progress will include the child's participation and the family's report of easier routines. The team will adjust the strategies if the child needs more support, becomes distressed, or stops using a previously helpful message.
+
+SERVICES AND DATES
+
+Speech-language intervention will begin on [[DATE|September 1, 2026]] and continue through [[DATE|February 28, 2027]]. Visits will occur once weekly for forty-five minutes. The usual home appointment is Tuesday at [[TIME|9:00 a.m.]]. Selected visits may occur at daycare at [[TIME|10:15 a.m.]] with parental agreement.
+
+The service uses individual intervention and caregiver coaching through [[KEEP|Little Learners Program]]. Home visits will address meals and family play. Daycare visits will address peer interaction and transitions. The clinician will coordinate strategies across settings.
+
+Billing information, when applicable: [[KEEP|CPT 92507]], modifier [[KEEP|GN]], and [[KEEP|ICD-10 F80.2]]. These codes do not determine whether the family has achieved an outcome.
+
+Service coordination will continue throughout the plan period. The coordinator will contact the family monthly and when needs change. A progress discussion is scheduled for [[DATE|November 20, 2026]]. The formal review is planned for [[DATE|February 19, 2027]].
+
+Missed visits will be discussed promptly. The team will arrange another appointment when schedules permit. Parents may request changes in setting, frequency, strategies, or participants through the coordinator.
+
+REVIEW AND FAMILY AGREEMENT
+
+The team will review outcomes [[KEEP|1]], [[KEEP|2]], and [[KEEP|3]] using direct observation, caregiver report, and classroom examples. New standardized testing is not required at every review. The team will consider whether communication becomes more useful across both languages.
+
+Parents agreed that gestures, pictures, and spoken language are acceptable communication methods. They requested that adults avoid repeated demands to say a word. The clinician will provide a brief written summary after visits.
+
+The coordinator will confirm consent before sharing this plan with classroom staff or another agency. The family received a copy and identified no additional referral request during the meeting.
+
+Parent acknowledgement: [[PARENT|Adriana Salcedo Ruiz]], [[DATE|August 28, 2026]]
+Parent acknowledgement: [[PARENT|Tomas Vega Leon]], [[DATE|August 28, 2026]]
+Service coordinator: [[PROVIDER|Julian Ortiz]], [[DATE|August 28, 2026]]
+Prepared by: [[PROVIDER|Elena Marisol Duarte]], bilingual pediatric speech-language pathologist, [[DATE|August 28, 2026]]

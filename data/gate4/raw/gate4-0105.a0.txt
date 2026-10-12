@@ -1,0 +1,142 @@
+IFSP — Revisión del plan individualizado de servicios familiares
+Programa de intervención temprana de Carolina del Norte
+
+Campo	Información
+Nombre del niño	[[CHILD|Teodoro Julián Morales Soto]]
+Nombre usado en casa	[[CHILD|Teo]]
+Fecha de nacimiento	[[DATE|15 de julio de 2024]]
+Edad al revisar el plan	[[KEEP|26 meses]]
+Número del expediente	[[ID|ITP-4827619]]
+Número de Medicaid	[[MEDICAID_ID|731840926K]]
+Fecha del IFSP inicial	[[DATE|18 de marzo de 2026]]
+Fecha de esta revisión	[[DATE|15 de septiembre de 2026]]
+Período del plan revisado	[[DATE|15 de septiembre de 2026]] a [[DATE|15 de marzo de 2027]]
+Oficina responsable	[[AGENCY|CDSA Puentes del Valle]]
+Profesional que redacta	[[PROVIDER|Inés Valdés Robles]], patóloga bilingüe del habla y del lenguaje
+Empresa de la profesional	[[EMPLOYER|Comunicación Infantil Amanecer]]
+Lugar de la reunión	Domicilio familiar en [[PLACE|San Laurel]], Carolina del Norte
+Idioma del documento	Español
+Participación familiar	Ambos padres participaron y aprobaron las prioridades descritas
+
+Información familiar y contactos
+
+Persona o entidad	Relación o función	Contacto
+[[PARENT|Guadalupe Soto Méndez]], llamada [[PARENT|Lupita]]	Mamá; contacto principal	[[PHONE|919-555-0142]]; [[EMAIL|lupita.soto@example.com]]
+[[PARENT|Jesús Morales Vega]], llamado [[PARENT|Chuy]]	Papá; contacto alterno	[[PHONE|919-555-0186]]; [[EMAIL|chuy.morales@example.com]]
+[[SIBLING|Luz Morales Soto]]	Hermana; participa en juegos familiares	Sin contacto independiente
+[[FAMILY|José Morales Pineda]], llamado [[FAMILY|Pepe]]	Abuelo; cuida al niño algunos viernes	[[PHONE|919-555-0117]]
+[[PROVIDER|Elisa Cortés Luna]]	Coordinadora de servicios	[[PHONE|919-555-0128]]; [[EMAIL|elisa.cortes@example.com]]
+[[PROVIDER|Inés Valdés Robles]]	Patóloga del habla y del lenguaje	[[PHONE|984-555-0163]]; [[EMAIL|ines.valdes@example.com]]
+[[PROVIDER|Raúl Navarro Acosta]]	Pediatra de atención primaria	[[PHONE|919-555-0194]]
+[[TEACHER|Amalia Cuevas Ríos]]	Maestra del grupo infantil	[[PHONE|984-555-0108]]
+
+El domicilio familiar es [[PLACE|418 Calle del Mirador]], [[PLACE|San Laurel]], Carolina del Norte, [[PLACE|27900]], condado de [[PLACE|Brisal]]. La familia prefiere llamadas después de las [[TIME|4:30 p. m.]] y mensajes breves en español. La coordinadora confirmó los contactos durante la reunión. Los padres autorizan la coordinación entre los proveedores incluidos en este plan mediante el consentimiento archivado.
+
+La mamá trabaja en [[ORG|Panadería Trigal del Camino]]. El papá trabaja en [[ORG|Taller Mecánico Horizonte Claro]]. Sus horarios cambian cada semana. La familia pide confirmar cada visita con anticipación. El abuelo puede participar cuando los padres lo indiquen. La hermana disfruta leer libros de animales. El perro familiar, [[PET|Nube]], permanece en otra habitación durante las visitas.
+
+Preocupaciones y prioridades en palabras de la familia
+
+La mamá expresó: «[[CHILD|Teo]] entiende muchas cosas cuando hacemos lo mismo todos los días, pero todavía tenemos que adivinar qué quiere. Cuando no entendemos, se tira al piso. Queremos ayudarlo antes de que llegue a ese punto. Para nosotros vale que use una palabra, una seña o una imagen».
+
+El papá comentó: «Yo llego cuando ya está cansado. Quiero tener una manera sencilla de jugar con [[CHILD|Teodoro]] sin hacerle preguntas todo el tiempo. A veces le pido que repita y se va. Me gustaría que pudiera pedirme otro turno o decirme que terminó».
+
+La mamá añadió: «Nos preocupa que en el grupo le quiten un juguete y nadie sepa qué está tratando de decir. También queremos que pueda avisar cuando necesita ayuda. No queremos dejar de hablar español en casa. Es el idioma que usamos con sus abuelos y para contar nuestras historias».
+
+Ambos padres dieron prioridad a la comunicación durante las comidas, el juego y las transiciones. También desean que la hermana pueda acompañar al niño sin asumir una función de cuidadora. La familia considera exitoso un plan que reduzca la necesidad de adivinar y permita disfrutar las rutinas. Prefiere estrategias breves, materiales disponibles en casa y ejemplos que cada adulto pueda practicar durante una visita.
+
+Antecedentes y funcionamiento actual
+
+La familia informó nacimiento a las [[KEEP|38 semanas y 5 días]] de gestación, peso de [[KEEP|3.120 g]] y puntuaciones Apgar de [[KEEP|8]] y [[KEEP|9]]. No informó hospitalizaciones recientes. El pediatra atiende al niño en [[HOSPITAL|Centro Pediátrico Arroyo Sereno]]. La revisión auditiva registrada el [[DATE|2 de septiembre de 2026]] describió respuestas compatibles con acceso auditivo suficiente para las actividades evaluadas.
+
+[[CHILD|Teodoro Julián Morales Soto]] busca a los adultos conocidos, comparte objetos interesantes y disfruta juegos de movimiento. Usa gestos, sonidos y algunas palabras. Su comunicación disminuye cuando una actividad cambia sin aviso. La familia informa que come distintos alimentos habituales y duerme con una rutina estable. Este plan no incluye tratamiento de alimentación.
+
+El español es el idioma principal del hogar. El niño escucha inglés en el grupo infantil y en canciones comunitarias. La evaluación consideró ambos idiomas y no interpretó el uso de dos idiomas como una dificultad. Las respuestas obtenidas mediante traducción o cambios en la administración se describen cualitativamente; no generan puntuaciones normativas nuevas.
+
+Evaluación y datos clínicos
+
+La evaluación inicial se realizó el [[DATE|10 de marzo de 2026]]. La revisión actual combinó observación, entrevista familiar y muestras de comunicación. Las puntuaciones iniciales se incluyen para mantener la continuidad del expediente. No se repitió la prueba estandarizada durante esta revisión.
+
+Instrumento o subprueba	Puntuación estándar	Percentil	Intervalo de confianza	Equivalente de edad
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-85]]	[[KEEP|1;5]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]]	[[KEEP|74]]	[[KEEP|4]]	[[KEEP|69-82]]	[[KEEP|1;3]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Total Language]]	[[KEEP|75]]	[[KEEP|5]]	[[KEEP|70-83]]	[[KEEP|1;4]]
+
+Los equivalentes de edad describen resultados de la prueba; no representan la edad global del niño. El equipo interpretó las puntuaciones junto con las oportunidades de aprendizaje, los idiomas y las observaciones funcionales. El código clínico del expediente es [[KEEP|F80.2]].
+
+En una muestra reciente, el niño pidió continuidad en [[KEEP|4/10]] oportunidades sin modelo y en [[KEEP|8/10]] con [[KEEP|mod cues]]. Comprendió instrucciones familiares en [[KEEP|80%]] de las oportunidades con objetos presentes. Las producciones registradas incluyeron [[KEEP|“ma”]], [[KEEP|“agua”]], [[KEEP|“no”]] y [[KEEP|“ota”]] para [[KEEP|“pelota”]]. También dijo «[[PET|Nube]] ven» mientras señalaba la puerta.
+
+Se observaron aproximaciones con [[KEEP|[w]]] y omisiones variables de [[KEEP|/k/]]. No se estableció una meta de precisión para [[KEEP|/ɾ/]]. La prioridad actual es comunicar mensajes útiles. La muestra se anotó con convenciones de [[KEEP|SALT]], incluido [[KEEP|[EW]]] cuando correspondió. Ninguna diferencia aislada de pronunciación determinó los servicios.
+
+Rutinas diarias y oportunidades de participación
+
+Rutina	Horario habitual	Qué funciona	Qué necesita la familia
+Desayuno	[[TIME|7:15 a. m.]]	El niño señala alimentos conocidos	Ofrecer opciones visibles y esperar una respuesta
+Vestirse	[[TIME|8:00 a. m.]]	Participa al anticipar cada paso	Usar una secuencia breve y una señal para pedir ayuda
+Grupo infantil	[[TIME|9:00 a. m.]] a [[TIME|12:00 p. m.]]	Disfruta canciones y juguetes de movimiento	Avisar cambios y apoyar turnos con compañeros
+Almuerzo	[[TIME|12:30 p. m.]]	Acepta sentarse con la familia	Ayudarlo a comunicar que quiere más o que terminó
+Juego en casa	[[TIME|5:15 p. m.]]	Lleva juguetes al adulto	Seguir su interés y reducir preguntas repetidas
+Baño y descanso	[[TIME|7:00 p. m.]]	Reconoce canciones familiares	Usar elecciones sencillas sin prolongar la rutina
+
+En [[DAYCARE|Centro Infantil Semillitas del Arroyo]], [[CHILD|Teo]] observa a sus compañeros antes de acercarse. Durante la visita, compartió una rampa con [[PEER|Andrés Molina Vera]] y miró a [[PEER|Camila Torres Neri]] cuando ella ofreció un carrito. La maestra [[TEACHER|Amalia]] señaló que los apoyos visuales ayudan al grupo completo.
+
+La familia utiliza [[AGENCY|Fundación Manos del Barrio]], que ofrece cuentos y préstamo de juguetes en [[PLACE|San Laurel]]. La facilitadora [[PERSON|Nora Vilches Prado]] conoce la preferencia familiar por actividades en español. La familia desea seguir asistiendo, sin convertir cada salida en una sesión de práctica.
+
+Otras agencias y apoyos
+
+Agencia	Condado	Apoyo actual	Acción acordada
+[[AGENCY|Oficina WIC Senderos]]	[[PLACE|Brisal]]	Orientación nutricional y beneficios familiares	La mamá mantendrá las citas habituales
+[[AGENCY|Smart Start Caminos Tempranos]]	[[PLACE|Brisal]]	Préstamo de libros y materiales de juego	La coordinadora consultará disponibilidad de materiales bilingües
+[[AGENCY|DSS Enlace Familiar]]	[[PLACE|Brisal]]	Información sobre recursos y cobertura	Verificar los contactos con consentimiento vigente
+[[AGENCY|CDSA Puentes del Valle]]	[[PLACE|Brisal]]	Coordinación del IFSP	Revisar servicios y resolver barreras de acceso
+
+La familia no solicita servicios adicionales de otras agencias en esta reunión. La coordinadora evitará duplicar entrevistas ya completadas. Los padres recibirán una lista breve de contactos y podrán elegir qué recursos utilizar. El acceso a un recurso comunitario no será una condición para recibir los servicios del plan.
+
+Resultados funcionales y estrategias
+
+Resultado [[KEEP|1]]: comunicar necesidades durante las comidas.
+
+La familia desea que [[CHILD|Teodoro]] comunique una elección, pida continuidad o indique que terminó durante las comidas habituales. La línea de base es [[KEEP|3/10]] oportunidades independientes. El criterio será [[KEEP|8/10]] oportunidades con [[KEEP|min cues]], observadas en comidas distintas durante dos semanas consecutivas.
+
+El adulto colocará dos opciones visibles y hará una pausa. Aceptará una mirada dirigida, una seña, una imagen o una palabra. Después dará el alimento o responderá al mensaje. Modelará [[KEEP|“más”]], [[KEEP|“agua”]] y [[KEEP|“terminé”]] sin exigir repetición. La profesional enseñará estas estrategias mediante [[KEEP|Hanen]] y estimulación focalizada. Los padres anotarán ejemplos breves, sin contar cada bocado.
+
+Resultado [[KEEP|2]]: participar en juegos con adultos y compañeros.
+
+La familia desea sostener intercambios agradables y reducir el abandono del juego. La línea de base es [[KEEP|2/5]] oportunidades para mantener tres turnos compartidos. El criterio será [[KEEP|4/5]] oportunidades con [[KEEP|min cues]] en casa y en el grupo infantil.
+
+El adulto seguirá el interés del niño, imitará una acción y esperará. Usará comentarios cortos y modelos como [[KEEP|“mi turno”]], [[KEEP|“tu turno”]] y [[KEEP|“otra vez”]]. La maestra ofrecerá juegos con materiales duplicados antes de introducir un solo objeto compartido. La hermana [[SIBLING|Luz]] podrá participar si desea. Nadie le asignará la responsabilidad de obtener respuestas. Se terminará el juego cuando el niño comunique cansancio o rechazo.
+
+Resultado [[KEEP|3]]: pedir ayuda durante las transiciones.
+
+La familia desea que [[CHILD|Teo]] pueda pedir apoyo al guardar juguetes, vestirse o cambiar de actividad. Actualmente comunica ayuda en [[KEEP|1/5]] oportunidades antes de llorar. El criterio será [[KEEP|4/5]] oportunidades con [[KEEP|mod cues]] o menos, durante tres rutinas habituales.
+
+Los adultos avisarán el cambio con una imagen y una frase breve. Modelarán [[KEEP|“ayuda”]], [[KEEP|“abre”]] y [[KEEP|“espera”]]. Mantendrán accesible una tarjeta de comunicación. No crearán obstáculos para provocar frustración. Si aparecen señales de malestar, reducirán las demandas y ayudarán de inmediato. La profesional revisará cada estrategia con el abuelo [[FAMILY|Pepe]], según la autorización familiar. El equipo observará si la estrategia mejora la participación.
+
+Resultado [[KEEP|4]]: aumentar la confianza de los cuidadores.
+
+Los padres desean usar estrategias que encajen con sus horarios. Al inicio de esta revisión, identificaron estrategias útiles en [[KEEP|2/5]] situaciones presentadas. El criterio será seleccionar y demostrar una estrategia adecuada en [[KEEP|4/5]] situaciones, con [[KEEP|min cues]], y describir cuándo conviene detener la práctica.
+
+Cada visita incluirá una demostración, práctica del cuidador y reflexión breve. La profesional preguntará qué resultó fácil y qué requiere ajustes. Los cuidadores podrán elegir una sola rutina para practicar entre visitas. Se explicará que [[KEEP|PECS]] es un programa específico; las imágenes usadas aquí constituyen apoyos visuales generales. No se iniciará [[KEEP|PROMPT]] ni [[KEEP|Cycles]] en este período, porque los resultados actuales priorizan participación y comunicación funcional.
+
+Servicios y calendario
+
+Servicio	Responsable	Frecuencia y duración	Lugar	Inicio	Fin	Código
+Intervención del habla y del lenguaje	[[PROVIDER|Inés Valdés Robles]]	Una visita semanal de 45 minutos	Domicilio; visitas coordinadas al grupo	[[DATE|22 de septiembre de 2026]]	[[DATE|15 de marzo de 2027]]	[[KEEP|92507]]; modificador [[KEEP|GN]]
+Evaluación del habla y del lenguaje, ya completada	[[PROVIDER|Inés Valdés Robles]]	Una evaluación inicial	Oficina de la CDSA	[[DATE|10 de marzo de 2026]]	[[DATE|10 de marzo de 2026]]	[[KEEP|92523]]
+Coordinación de servicios	[[PROVIDER|Elisa Cortés Luna]]	Contacto mensual y según necesidad	Teléfono, domicilio u oficina	[[DATE|15 de septiembre de 2026]]	[[DATE|15 de marzo de 2027]]	No corresponde
+Consulta con el grupo infantil	[[PROVIDER|Inés Valdés Robles]]	Dentro de una visita mensual programada	[[DAYCARE|Centro Infantil Semillitas del Arroyo]]	[[DATE|6 de octubre de 2026]]	[[DATE|2 de marzo de 2027]]	Según el servicio realizado
+
+Las visitas domiciliarias se proponen los martes a las [[TIME|5:00 p. m.]]. La familia confirmará cada cita. Si una visita no puede realizarse, la coordinadora ayudará a acordar otra fecha. Los códigos documentan los servicios previstos; no sustituyen la descripción clínica ni garantizan cobertura.
+
+Seguimiento y revisión
+
+El equipo revisará los ejemplos familiares, las observaciones del grupo y los datos de cada resultado. Registrará el tipo de apoyo utilizado, además del éxito observado. Una respuesta con [[KEEP|max cues]] no contará como independiente. Los cuidadores podrán informar cambios sin esperar a la siguiente reunión.
+
+La próxima revisión se propone para el [[DATE|9 de diciembre de 2026]], a las [[TIME|4:00 p. m.]]. La coordinadora confirmará la disponibilidad familiar. El equipo modificará estrategias si las rutinas cambian o si los apoyos no resultan útiles.
+
+Los padres recibieron una copia en español. Expresaron acuerdo con las prioridades, los lugares y las fechas. La profesional verificó la comprensión mediante conversación y ejemplos cotidianos.
+
+Registro de aprobación	Nombre	Fecha
+Mamá	[[PARENT|Guadalupe Soto Méndez]]	[[DATE|15 de septiembre de 2026]]
+Papá	[[PARENT|Jesús Morales Vega]]	[[DATE|15 de septiembre de 2026]]
+Coordinadora	[[PROVIDER|Elisa Cortés Luna]]	[[DATE|15 de septiembre de 2026]]
+Profesional que redacta	[[PROVIDER|Inés Valdés Robles]]	[[DATE|15 de septiembre de 2026]]

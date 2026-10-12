@@ -1,0 +1,124 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Tipo de documento: caso completamente ficticio para pruebas de desidentificación  Idioma del informe: español de Estados Unidos  Estado: Carolina del Norte
+Empresa clínica: [[EMPLOYER|Senderos del Habla Infantil, PLLC]]  Sede: [[PLACE|Pinar de Bruma]]  Condado: [[PLACE|Almendro]]
+Profesional: Lic. [[PROVIDER|Elena Marisol Varela Cifuentes]]  Especialidad: patología del habla y del lenguaje pediátrica bilingüe  Registro profesional ficticio: [[ID|SLP-NC-80736]]
+Teléfono: [[PHONE|(919) 555-0147]]  Correo: [[EMAIL|elena.varela@senderos-habla.example]]  Portal: [[URL|https://senderos-habla.example/familias]]
+
+Paciente: [[CHILD|María José Rivas Monteluna]]  Nombre familiar: [[CHILD|Majo]]  Iniciales utilizadas en el expediente: [[CHILD|MJRM]]
+Nacimiento: [[DATE|14 de agosto de 2022]]  Evaluación: [[DATE|14 de octubre de 2026]]  Edad cronológica: [[KEEP|4;2]]
+Expediente: [[ID|SHI-026-1847]]  Identificador infantil: [[ID|INF-472806]]  Medicaid ficticio: [[MEDICAID_ID|900731462Q]]
+Dirección: [[PLACE|418 Calle del Laurel Azul]]  Ciudad: [[PLACE|Pinar de Bruma]]  Código postal: [[PLACE|27986]]
+Inicio: [[TIME|9:15 a. m.]]  Finalización: [[TIME|10:45 a. m.]]  Modalidad: presencial  Idiomas evaluados: español e inglés
+Procedimiento de evaluación: [[KEEP|92523]]  Procedimiento terapéutico propuesto: [[KEEP|92507]]  Código diagnóstico considerado: [[KEEP|F80.2]]
+
+Madre: [[PARENT|Guadalupe Serrano Ibarra]]  Nombre familiar: [[PARENT|Lupita]]  Teléfono principal: [[PHONE|919-555-0168]]
+Padre: [[PARENT|José Antonio Rivas Monteluna]]  Nombre familiar: [[PARENT|Pepe]]  Teléfono alternativo: [[PHONE|+1 984 555 0126]]
+Contacto autorizado: abuela [[FAMILY|Teresa Ibarra Salcedo]]  Teléfono en México: [[PHONE|+52 55 0000 1846]]
+Escuela: [[SCHOOL|Centro Preescolar Luciérnagas del Valle]]  Maestra: Sra. [[TEACHER|Adriana Beltrán Soto]]
+Agencia de referencia: [[AGENCY|CDSA Sendero del Almendro]]  Coordinadora: [[PROVIDER|Noelia Ponce Armenta]]
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicita una evaluación porque [[CHILD|María José]] tiene dificultad para explicar lo que ocurrió, comprender instrucciones largas y participar en conversaciones escolares. Su mamá [[PARENT|Guadalupe Serrano Ibarra]] refiere que entiende mejor cuando un adulto muestra el objeto o divide la instrucción. La maestra describe dificultades parecidas durante cuentos, juegos y actividades de grupo. La solicitud busca determinar necesidades de lenguaje en ambos idiomas y establecer apoyos concretos. La familia desea conservar el español, aumentar la independencia comunicativa y reducir la frustración. Este informe contiene datos inventados; no corresponde a una paciente ni a una evaluación reales.
+
+La entrevista familiar ocurrió el [[DATE|7 de octubre de 2026]], por teléfono. La referencia escrita tiene fecha del [[DATE|30 de septiembre de 2026]]. El formulario escolar llegó el [[DATE|9 de octubre de 2026]]. La familia informó que [[CHILD|Majo]] comenzó a recibir apoyo de desarrollo temprano antes de entrar al preescolar. El IFSP ficticio está fechado el [[DATE|18 de enero de 2025]] y su revisión corresponde al [[DATE|22 de julio de 2025]]. Actualmente, la niña participa en actividades habituales del salón. No se presentó un plan escolar vigente. La evaluación integra entrevista, observación, pruebas y tareas de aprendizaje.
+
+HISTORIA DEL NACIMIENTO Y DEL DESARROLLO
+
+Según el relato materno, el embarazo transcurrió sin complicaciones importantes. El nacimiento ocurrió en [[HOSPITAL|Hospital Infantil Arroyo de Cristal]], ubicado en [[PLACE|Puerto del Encino]], Carolina del Norte. La madre recuerda un parto vaginal y una estancia breve, sin cuidados intensivos. No refiere problemas de alimentación neonatal, convulsiones ni uso prolongado de oxígeno. Los primeros meses incluyeron lactancia y alimentación con biberón. La niña aceptó después alimentos blandos y diferentes texturas. Estos antecedentes se consideran información familiar reportada. No se revisaron registros obstétricos, resultados neonatales ni documentos hospitalarios durante esta sesión.
+
+La familia sitúa las primeras palabras alrededor de los [[KEEP|18 meses]] y las combinaciones espontáneas de palabras cerca de los [[KEEP|30 meses]]. No recuerda pérdida de palabras ni de otras habilidades. Actualmente, [[CHILD|María José Rivas Monteluna]] usa frases cortas para pedir, comentar y rechazar. En situaciones nuevas, puede señalar o llevar al adulto hacia el objeto. Camina, corre y participa en juegos motores. Necesita ayuda para organizar rutinas que tienen varios pasos. La familia describe avances graduales, aunque la comunicación sigue requiriendo apoyo. Las edades del desarrollo son aproximaciones familiares y no mediciones documentadas.
+
+HISTORIA MÉDICA Y SENSORIAL
+
+Pediatra: Dra. [[PROVIDER|Camila Duarte Niebla]]  Consultorio: [[HOSPITAL|Clínica Pediátrica Bosque de Nácar]]  Teléfono: [[PHONE|919.555.0194]]
+Última consulta reportada: [[DATE|19 de agosto de 2026]]  Evaluación auditiva reportada: [[DATE|2 de septiembre de 2026]]  Medicación actual reportada: ninguna
+
+La madre refiere episodios previos de otitis, sin cirugía de oído. También informa que una revisión auditiva reciente no identificó dificultades; el resultado escrito no estuvo disponible. Durante la sesión, [[CHILD|Majo]] respondió a su nombre y a estímulos conversacionales, pero estas respuestas no sustituyen una evaluación audiológica. No se reportan alergias importantes, enfermedades neurológicas ni hospitalizaciones posteriores al nacimiento. El sueño es variable cuando cambia la rutina. La familia no describe tos habitual durante las comidas, atragantamiento ni dificultad para masticar. El examen clínico limitado mostró movimientos orales funcionales para las tareas realizadas.
+
+COMPOSICIÓN FAMILIAR Y CUIDADOS
+
+En el hogar viven ambos padres, la paciente y dos hermanos. Su hermano [[SIBLING|Jesús Emiliano Rivas Serrano]], llamado [[SIBLING|Chuy]], tiene [[KEEP|7 años]]. Su hermana [[SIBLING|Ana Lucía Rivas Serrano]], llamada [[SIBLING|Anita]], tiene [[KEEP|2 años]]. La abuela [[FAMILY|Teresa Ibarra Salcedo]] participa mediante videollamadas. La tía [[FAMILY|Daniela Ibarra Castañón]] cuida a la niña algunas tardes. La niñera [[FAMILY|Rosa Elvira Medina Solís]] apoya cuando coinciden los horarios laborales. La familia tiene una perrita llamada [[PET|Canela]], que aparece con frecuencia en los relatos y juegos simbólicos.
+
+Trabajo materno: [[ORG|Panadería Trigo de Aurora]]  Trabajo paterno: [[ORG|Taller Mecánico Rueda del Sauce]]
+Guardería anterior: [[DAYCARE|Casita Infantil Nubes de Algodón]]  Cuidadora anterior: [[FAMILY|Marta Olivares Cerezo]]
+
+Los cambios laborales pueden modificar quién recoge a la niña y quién acompaña la tarea familiar. Los padres describen buena colaboración entre cuidadores. No informan antecedentes familiares confirmados de pérdida auditiva permanente. El padre recuerda haber recibido ayuda escolar para expresar ideas, sin diagnóstico conocido. La familia identifica como fortalezas la curiosidad, el afecto y el interés por canciones. También señala que las comparaciones con otros niños aumentan la frustración. Por ello, se acordó centrar los apoyos en habilidades funcionales, oportunidades de participación y avances propios.
+
+HISTORIA DE LOS IDIOMAS
+
+El español es el idioma principal del hogar. La exposición regular al inglés comenzó al entrar al preescolar, alrededor de los [[KEEP|3;1]]. La madre estima una exposición semanal de [[KEEP|65%]] al español y [[KEEP|35%]] al inglés. Estas cifras representan su percepción, no un registro directo. Los hermanos alternan idiomas durante juegos y videos. La paciente escucha distintas variedades del español en conversaciones familiares. Su abuela vive en México y utiliza expresiones propias de su comunidad. La familia desea que [[CHILD|María José]] pueda conversar con sus familiares sin depender de traducciones.
+
+La maestra [[TEACHER|Adriana Beltrán Soto]] utiliza principalmente inglés y algunas expresiones en español. La asistente [[TEACHER|Lidia Carrasco Montalvo]] ofrece apoyo bilingüe durante transiciones. En el recreo, la niña juega con [[PEER|Mateo Esteban Luján Farias]], llamado [[PEER|Teo]], y con [[PEER|Juan Ignacio Salcedo Vera]], llamado [[PEER|Juanito]]. La familia informa que combina palabras de ambos idiomas cuando le falta una expresión. Este comportamiento se interpreta dentro de su experiencia bilingüe. La evaluación no considera la mezcla de idiomas, el acento ni una diferencia cultural como evidencia suficiente de un trastorno.
+
+CONDICIONES DE LA EVALUACIÓN
+
+[[CHILD|Majo]] entró al consultorio acompañada de su madre. Exploró los juguetes y aceptó una rutina visual. Al principio respondió con gestos; después aumentó sus comentarios espontáneos. Necesitó pausas breves, opciones limitadas y tiempo adicional para responder. La presencia materna facilitó la participación, aunque algunas respuestas surgieron después de repeticiones familiares. Esas respuestas se registraron aparte de los ítems puntuados. La niña permaneció interesada en actividades con animales, alimentos y muñecos. Su participación disminuyó cuando las preguntas fueron largas o cuando el material exigió explicar acontecimientos fuera del contexto inmediato.
+
+Profesional evaluadora: Lic. [[PROVIDER|Elena Marisol Varela Cifuentes]]  Intérprete externo: no requerido  Terapeuta ocupacional consultada: [[PROVIDER|Irene Valdés Cazares]]
+
+La evaluación incluyó [[KEEP|PLS-5 Spanish]], tareas seleccionadas de [[KEEP|BESA]], una muestra conversacional analizada con convenciones de [[KEEP|SALT]] y pruebas informales del habla. La aplicación bilingüe del primer instrumento permitió considerar respuestas válidas según sus procedimientos. Las tareas seleccionadas del segundo instrumento se usaron cualitativamente; no generaron puntuaciones normativas. Se registraron por separado respuestas espontáneas, respuestas con apoyo y producciones imitadas. Los resultados representan el desempeño de esta sesión. La interpretación integra la historia de exposición, las oportunidades de aprendizaje y las observaciones en ambos idiomas.
+
+RESULTADOS CUANTITATIVOS
+
+| Instrumento o tarea | Área | Resultado | Interpretación clínica |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] | Comprensión auditiva | Puntuación estándar [[KEEP|78]]; percentil [[KEEP|7]] | Dificultad relativa para comprender relaciones y consignas |
+| [[KEEP|PLS-5 Spanish]] | Comunicación expresiva | Puntuación estándar [[KEEP|75]]; percentil [[KEEP|5]] | Dificultad relativa para formular mensajes |
+| [[KEEP|PLS-5 Spanish]] | Lenguaje total | Puntuación estándar [[KEEP|75]]; percentil [[KEEP|5]] | Resultado inferior al esperado |
+| Prueba informal | Instrucciones simples con objetos | [[KEEP|8/10]], [[KEEP|80%]] | Mejor desempeño en contexto |
+| Prueba informal | Instrucciones de varios pasos | [[KEEP|4/10]], [[KEEP|40%]] | Necesita segmentación |
+| Prueba informal | Denominación conceptual bilingüe | [[KEEP|18/25]], [[KEEP|72%]] | Se aceptó el concepto en cualquiera de los idiomas |
+| Prueba informal | Relato de imágenes | [[KEEP|3/8]], [[KEEP|37.5%]] | Dificultad para organizar acontecimientos |
+| Prueba informal | Producción de [[KEEP|/k/]] | [[KEEP|8/10]], [[KEEP|80%]] | Respuesta favorable al modelo |
+| Observación | Inteligibilidad para interlocutora nueva | [[KEEP|70%]] | Estimación durante conversación contextualizada |
+
+Los percentiles describen la posición relativa dentro de la referencia normativa utilizada. No indican el porcentaje de palabras que la niña conoce. Las medidas informales describen únicamente los materiales y oportunidades presentados. No deben compararse directamente con puntuaciones estandarizadas. La interpretación tampoco utiliza equivalentes de edad para definir el diagnóstico. La variación entre tareas muestra que el contexto visual y la familiaridad ayudan. Las dificultades observadas en español y en inglés apoyan una preocupación de lenguaje, aunque el inglés requiere interpretación cuidadosa por la exposición más reciente.
+
+LENGUAJE RECEPTIVO
+
+La paciente identificó objetos comunes, acciones familiares y partes del cuerpo. Comprendió mejor instrucciones relacionadas con una actividad visible. Al aumentar la longitud, omitió una parte de la consigna o actuó antes de escucharla completa. Mostró dificultad con relaciones espaciales, secuencias y preguntas sobre causas. En español, resolvió instrucciones simples con [[KEEP|min cues]], pero necesitó [[KEEP|mod cues]] cuando había varios elementos. En inglés, se observaron patrones semejantes con mayor necesidad de apoyo léxico. La repetición exacta fue menos útil que dividir la información y señalar el material pertinente.
+
+LENGUAJE EXPRESIVO Y MUESTRA
+
+En la muestra espontánea, [[CHILD|María José]] produjo mensajes para pedir ayuda, compartir atención y describir acciones. Se registraron [[KEEP|50]] enunciados analizables y una longitud media de [[KEEP|3.1]] palabras por enunciado. Esta medida describe la muestra; no constituye una puntuación normativa bilingüe. Aparecieron omisiones de artículos, dificultades con concordancia y uso limitado de conectores. Algunas producciones incluyeron [[KEEP|"niña comer"]], [[KEEP|"yo quiere ese"]] y [[KEEP|"se cayó porque agua"]]. Se marcaron errores de palabra mediante [[KEEP|[EW]]] cuando correspondía a las convenciones del análisis. Las alternancias entre idiomas se registraron sin clasificarlas automáticamente como errores.
+
+HABLA, VOZ Y FLUIDEZ
+
+El inventario observado incluyó [[KEEP|/p/]], [[KEEP|/b/]], [[KEEP|/m/]], [[KEEP|/t/]], [[KEEP|/d/]], [[KEEP|/n/]] y [[KEEP|/k/]]. Hubo variación en grupos consonánticos y en producciones de [[KEEP|/ɾ/]] y [[KEEP|/r/]]. Para el objetivo [[KEEP|"plato"]], se escuchó [[KEEP|"pato"]]; para [[KEEP|"carro"]], se escuchó [[KEEP|"calo"]]. En palabras inglesas apareció [[KEEP|[w]]] en algunas posiciones. Estas observaciones requieren considerar el idioma y el desarrollo. La voz no mostró alteraciones persistentes durante la sesión. No se observaron bloqueos ni tensión asociados con la fluidez. El lenguaje constituye la necesidad principal identificada.
+
+COMUNICACIÓN SOCIAL Y APRENDIZAJE
+
+La niña compartió materiales, buscó ayuda y respondió a iniciativas del adulto. Utilizó mirada, gestos y palabras de forma coordinada. Con su amiga [[PEER|Valentina Paz Cordero Leiva]], según el reporte escolar, mantiene juegos breves cuando las reglas son claras. Le cuesta explicar desacuerdos y reparar mensajes que otra persona no entiende. Durante una actividad de aprendizaje, mejoró de [[KEEP|3/10]] a [[KEEP|7/10]] respuestas después de modelos y [[KEEP|mod cues]]. Este cambio muestra capacidad de aprendizaje con apoyo. No elimina las dificultades observadas ni permite, por sí solo, determinar su causa.
+
+IMPRESIONES CLÍNICAS
+
+El perfil ficticio es compatible con un trastorno del lenguaje que afecta la comprensión y la expresión, asociado al código [[KEEP|F80.2]]. La conclusión se apoya en dificultades funcionales, antecedentes familiares reportados y desempeño limitado en ambos idiomas. El bilingüismo no explica por sí solo este patrón. La niña presenta fortalezas en intención comunicativa, juego, vínculo social y respuesta a modelos. Las dificultades del habla pueden reducir la claridad, pero requieren seguimiento antes de formular otra conclusión. La información auditiva permanece pendiente de verificación documental. No se emiten conclusiones sobre áreas que esta evaluación no examinó.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar intervención bilingüe bajo el procedimiento [[KEEP|92507]], con sesiones semanales y revisión según la respuesta. Trabajar comprensión, formulación de frases, narración y reparación de mensajes. Mantener el español familiar y coordinar apoyos en inglés.
+
+2. Solicitar el informe auditivo a la profesional [[PROVIDER|Camila Duarte Niebla]]. Si el documento no está disponible, coordinar una evaluación audiológica. Registrar la fuente y el resultado antes de considerar verificada la audición.
+
+3. Enseñar instrucciones mediante acciones cotidianas. Presentar una consigna, esperar la respuesta y aumentar la complejidad gradualmente. Usar imágenes o gestos cuando sean útiles. Reducir el apoyo conforme aumente la independencia.
+
+4. Ampliar los mensajes de la niña sin exigir repeticiones constantes. Ante [[KEEP|"perro correr"]], ofrecer [[KEEP|"El perro está corriendo"]]. Dar oportunidades para comentar, preguntar y elegir durante juegos, comidas y lectura compartida.
+
+5. Trabajar relatos breves con imágenes. Ayudar a identificar quién participa, qué ocurre y cómo termina la historia. Aceptar respuestas en cualquiera de los idiomas durante actividades conceptuales y enseñar después las formas necesarias.
+
+6. Coordinar con la escuela para adaptar consignas y comprobar comprensión. La maestra [[TEACHER|Adriana Beltrán Soto]] puede pedir una demostración práctica. Evitar depender únicamente de preguntas generales como si la niña entendió.
+
+7. Establecer objetivos medibles: seguir consignas con [[KEEP|80%]] de precisión y [[KEEP|min cues]]; formular frases funcionales en [[KEEP|8/10]] oportunidades; relatar acontecimientos con [[KEEP|mod cues]]. Registrar también la participación espontánea.
+
+8. Ofrecer capacitación a los cuidadores y revisar las estrategias en rutinas reales. Registrar qué apoyo ayuda y cuándo puede retirarse. Observar la claridad del habla sin desplazar las necesidades prioritarias de lenguaje.
+
+SEGUIMIENTO Y CIERRE
+
+Revisión propuesta: [[DATE|13 de enero de 2027]]  Horario propuesto: [[TIME|3:30 p. m.]]  Autorización ficticia: [[ID|AUT-92507-68129]]
+Contacto de coordinación: [[PROVIDER|Noelia Ponce Armenta]]  Teléfono: [[PHONE|+1 (984) 555-0173]]  Correo: [[EMAIL|coordinacion@cdsa-sendero.example]]
+
+La familia recibió una explicación oral en español y ejemplos de las estrategias propuestas. El padre [[PARENT|José Antonio Rivas Monteluna]] participó por teléfono en el cierre. Ambos cuidadores expresaron interés en comenzar el apoyo y compartir el informe con la escuela. La revisión deberá integrar muestras nuevas, información escolar y respuesta a la intervención. Todos los datos personales, contactos, instituciones y resultados de este documento son ficticios.
+
+Firma clínica ficticia: Lic. [[PROVIDER|Elena Marisol Varela Cifuentes]]  Fecha de firma: [[DATE|15 de octubre de 2026]]  Empresa: [[EMPLOYER|Senderos del Habla Infantil, PLLC]]

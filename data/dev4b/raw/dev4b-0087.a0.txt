@@ -1,0 +1,127 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+**Nombre del niño:** [[CHILD|Mateo Alejandro Fuentes Ramírez]] (conocido como "[[CHILD|Teo]]")
+**Fecha de nacimiento:** [[DATE|14 de febrero de 2024]]
+**Edad cronológica en la evaluación:** [[KEEP|2;8]] (edad corregida [[KEEP|2;6]])
+**Fecha de la evaluación:** [[DATE|30 de septiembre de 2026]]
+**Hora de la cita:** [[TIME|9:30 a.m.]]
+**Fecha del informe:** [[DATE|11 de octubre de 2026]]
+**Lugar de la evaluación:** domicilio de la familia, [[PLACE|214 Oakmist Lane, Garner, NC 27529]], Condado de [[PLACE|Wake]]
+**Número de expediente:** [[ID|CDSA-2026-04871]]
+**Número de Medicaid:** [[MEDICAID_ID|987654321B]]
+**CDSA remitente:** [[AGENCY|Centro de Desarrollo y Servicios para la Primera Infancia del Área de Piedmont]] (en adelante "[[AGENCY|el CDSA de Piedmont]]")
+**Coordinadora de servicios:** [[PROVIDER|Yolanda Pérez Martínez]], de la [[AGENCY|Agencia de Coordinación de Servicios para la Primera Infancia del Triángulo]] (en adelante "[[AGENCY|la Agencia del Triángulo]]")
+**Terapeuta evaluadora:** [[PROVIDER|Katherine A. Byrd]], M.S., CCC-SLP, de [[EMPLOYER|Terapia Pediátrica Bilingüe de Carolina, PLLC]]
+**Teléfono de la clínica:** [[PHONE|(919) 555-0148]]
+**Correo electrónico:** [[EMAIL|kbyrd@terapiapediatricabilingue.com]]
+**Sitio web:** [[URL|www.terapiapediatricabilingue.com]]
+**Pediatra:** Dr. [[PROVIDER|James Whitfield]]
+
+---
+
+**1. MOTIVO DE LA REFERENCIA**
+
+[[CHILD|Mateo]] fue remitido al [[AGENCY|CDSA de Piedmont]] para una evaluación del habla y del lenguaje después de que su madre, [[PARENT|Lucía Ramírez Torres]], expresara preocupación por el retraso en la comunicación de su hijo durante una cita de rutina en el [[AGENCY|WIC]], el Programa Especial de Nutrición Suplementaria para Mujeres, Infantes y Niños. La consejera de nutrición del programa [[AGENCY|WIC]] recomendó una derivación inmediata al CDSA al observar que [[CHILD|Mateo]] no producía palabras reconocibles a los [[KEEP|2;4]].
+
+Poco después, la maestra de la guardería de [[CHILD|Teo]], la [[TEACHER|Srta. Ana López]], del [[DAYCARE|Centro de Cuidado Infantil Pasitos Felices]], confirmó la preocupación. Informó que [[CHILD|Mateo]] se comunicaba principalmente por medio de gestos y gruñidos, mientras que su compañero de salón, [[PEER|Liam]], de edad similar, ya combinaba dos o tres palabras. Una amiga cercana de la familia, [[PERSON|Patricia Gómez]], quien había usado los servicios del [[AGENCY|Smart Start del Condado de Wake]] con su propio hijo, animó a [[PARENT|Lucía Ramírez Torres]] a comunicarse con el CDSA de Piedmont sin demora.
+
+La familia también participa en el [[AGENCY|Programa Early Head Start]] del condado, y su trabajadora social de allí coordinó el papeleo inicial junto con la coordinadora de servicios, [[PROVIDER|Yolanda Pérez Martínez]], de [[AGENCY|la Agencia del Triángulo]].
+
+**2. HISTORIA DEL NACIMIENTO Y DESARROLLO MÉDICO**
+
+[[CHILD|Mateo Alejandro Fuentes Ramírez]] nació en el [[HOSPITAL|WakeMed Cary Hospital]] el [[DATE|14 de febrero de 2024]], a las [[KEEP|34 semanas]] de gestación, con un peso al nacer de [[KEEP|2,100 gramos]] ([[KEEP|4 libras 10 onzas]]). Sus puntuaciones de Apgar fueron [[KEEP|7]] al minuto y [[KEEP|9]] a los cinco minutos. Permaneció en la unidad de cuidados intensivos neonatales durante [[KEEP|11 días]] por dificultad respiratoria leve, sin complicaciones neurológicas documentadas.
+
+Su pediatra, el Dr. [[PROVIDER|James Whitfield]], ha realizado seguimiento regular del desarrollo desde el alta hospitalaria. En una cita reciente con el Dr. [[PROVIDER|James Whitfield]], la familia utilizó los servicios de la intérprete médica [[PROVIDER|Carmen Solís]], ya que el padre, [[PARENT|Diego Fuentes Castillo]], prefiere recibir información médica complicada en español. No se reportan antecedentes de pérdida auditiva; una prueba de audición neonatal y una evaluación audiológica de seguimiento a los [[KEEP|18 meses]] resultaron dentro de límites normales en ambos oídos.
+
+[[PARENT|Lucía Ramírez Torres]] reporta que el embarazo estuvo marcado por hipertensión gestacional leve, controlada con medicación desde la [[KEEP|semana 28]]. No hubo exposición conocida a alcohol, tabaco ni sustancias durante el embarazo. Los hitos motores gruesos de [[CHILD|Mateo]] se alcanzaron dentro de rangos esperados para su edad corregida: se sentó sin apoyo a los [[KEEP|7 meses]] y caminó de forma independiente a los [[KEEP|16 meses]]. Sin embargo, los hitos de comunicación se han retrasado de forma notable: no balbuceó con consonantes variadas hasta después de los [[KEEP|14 meses]], y a la fecha de esta evaluación su vocabulario expresivo se limita a aproximadamente [[KEEP|6]] palabras aproximadas y varios gestos convencionales.
+
+El pediatra derivó previamente a [[CHILD|Mateo]] al [[AGENCY|Departamento de Servicios Sociales del Condado de Wake]] ([[AGENCY|DSS]]) para explorar apoyos adicionales de vivienda y nutrición, dado que la familia reportó inestabilidad habitacional temporal el año pasado. El [[AGENCY|DSS]] confirmó la elegibilidad continua de la familia para asistencia alimentaria y remitió el caso de vuelta al CDSA de Piedmont para los servicios de intervención temprana.
+
+**3. HISTORIA FAMILIAR Y LINGÜÍSTICA**
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Ramírez Torres]] ([[KEEP|29 años]]), quien trabaja como cajera en [[ORG|Food Lion]] en [[PLACE|Cary, NC]]; su padre, [[PARENT|Diego Fuentes Castillo]] ([[KEEP|32 años]]), empleado en la planta de [[ORG|Perdue Farms]] en [[PLACE|Garner, NC]]; su hermana mayor, [[SIBLING|Camila Fuentes Ramírez]], de [[KEEP|5 años]], quien asiste a la [[SCHOOL|Escuela Primaria Aversboro]]; y su abuela materna, [[FAMILY|Rosa Castillo Díaz]], quien vive con la familia y ayuda con el cuidado diario de los niños. Una niñera de confianza, [[FAMILY|Marisol Vega]], cuida a [[CHILD|Mateo]] tres días por semana mientras sus padres trabajan. La familia también tiene un perro llamado [[PET|Rocky]], con quien [[CHILD|Mateo]] disfruta jugar en el patio trasero.
+
+El español es el idioma principal del hogar; se habla español aproximadamente el [[KEEP|90%]] del tiempo entre todos los miembros de la familia. [[PARENT|Diego Fuentes Castillo]] comprende inglés de forma funcional por su trabajo, pero prefiere el español en el hogar. [[SIBLING|Camila Fuentes Ramírez]] es bilingüe emergente gracias a su escolarización en inglés, y a menudo traduce frases simples para [[CHILD|Mateo]] durante el juego. La abuela, [[FAMILY|Rosa Castillo Díaz]], habla únicamente español y es la cuidadora principal durante las horas de la tarde.
+
+Según [[PARENT|Lucía Ramírez Torres]], no hay antecedentes familiares conocidos de trastornos del habla o del lenguaje, aunque un tío paterno fue "tardío para hablar" según la familia. [[CHILD|Mateo]] no ha asistido a servicios de intervención temprana previamente, aunque la familia completó una evaluación de desarrollo informal hace seis meses a través del [[AGENCY|Programa Early Head Start]], la cual sugirió retraso en el área de comunicación y motivó la derivación formal actual.
+
+**4. PROCEDIMIENTOS DE EVALUACIÓN**
+
+La evaluación se llevó a cabo en el hogar de la familia durante una sesión de [[KEEP|90 minutos]], con la participación activa de [[PARENT|Lucía Ramírez Torres]] y observación parcial de [[FAMILY|Rosa Castillo Díaz]]. Se administraron los siguientes instrumentos estandarizados, complementados con observación clínica directa, muestra de lenguaje espontáneo y entrevista estructurada a los padres:
+
+- [[KEEP|Rossetti Infant-Toddler Language Scale]]
+- [[KEEP|Goldman-Fristoe Test of Articulation-3]] ([[KEEP|GFTA-3]])
+- [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] ([[KEEP|Bayley-4]])
+- [[KEEP|Peabody Picture Vocabulary Test, Fifth Edition]] ([[KEEP|PPVT-5]])
+
+Esta evaluación integral se facturó bajo el código [[KEEP|92523]] (evaluación de la producción de sonidos del habla con evaluación de la comprensión y expresión del lenguaje). Se recomendó previamente el código [[KEEP|92507]] para el tratamiento continuo una vez establecida la elegibilidad.
+
+Durante la muestra de lenguaje espontáneo, se registraron las producciones de [[CHILD|Mateo]] utilizando transcripción fonética. Produjo el sonido [[KEEP|/k/]] correctamente en [[KEEP|8/10]] ensayos ([[KEEP|80%]] de precisión) en posición inicial de palabra, pero sustituyó el sonido [[KEEP|/ɾ/]] por [[KEEP|[w]]] de forma consistente, como en su intento de decir "[[KEEP|carro]]", que produjo como "[[KEEP|cawo]]". También dijo "[[KEEP|agua]]" de forma clara al pedir de beber, y se observó que imitaba la palabra "[[KEEP|más]]" con [[KEEP|claves moderadas]] (mod cues) de la evaluadora.
+
+**5. RESULTADOS DE LAS PRUEBAS ESTANDARIZADAS**
+
+| Prueba | Área evaluada | Puntuación | Percentil / Rango | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[KEEP|Comprensión del lenguaje]] | — | — | [[KEEP|14-16 meses]] |
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[KEEP|Expresión del lenguaje]] | — | — | [[KEEP|12-14 meses]] |
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[KEEP|Interacción-Apego]] | — | — | [[KEEP|26-28 meses]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3]] | Sonidos del habla | [[KEEP|62]] | [[KEEP|1er percentil]] | — |
+| [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] | [[KEEP|Cognición]] (escala) | [[KEEP|8]] | [[KEEP|25]] | — |
+| [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] | [[KEEP|Comunicación]] (compuesto) | [[KEEP|76]] ([[KEEP|71-83]], IC del 95%) | [[KEEP|5to percentil]] | — |
+| [[KEEP|Peabody Picture Vocabulary Test, Fifth Edition]] | Vocabulario receptivo | [[KEEP|70]] | [[KEEP|2do percentil]] | — |
+
+En la [[KEEP|Rossetti Infant-Toddler Language Scale]], el área de [[KEEP|Interacción-Apego]] se ubicó dentro de límites apropiados para la edad, lo cual indica fortalezas relativas en el vínculo social y la atención conjunta con sus cuidadores. Sin embargo, las áreas de [[KEEP|Comprensión del lenguaje]] y [[KEEP|Expresión del lenguaje]] mostraron retrasos significativos, de aproximadamente [[KEEP|12-16 meses]] por debajo de su edad cronológica corregida.
+
+En el [[KEEP|Goldman-Fristoe Test of Articulation-3]], [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|62]], correspondiente al [[KEEP|1er percentil]], lo cual refleja un inventario fonético marcadamente reducido en comparación con sus pares. Sus errores incluyeron sustitución de deslizamientos por líquidas (por ejemplo, [[KEEP|/ɾ/]] por [[KEEP|[w]]]) y omisión de consonantes finales en aproximadamente [[KEEP|3 de 5]] intentos.
+
+En el [[KEEP|Bayley-4]], su desempeño cognitivo se ubicó dentro de límites bajos-promedio, con una puntuación escalar de [[KEEP|8]] ([[KEEP|25]] percentil), mientras que el compuesto de comunicación fue significativamente bajo, con una puntuación de [[KEEP|76]] ([[KEEP|71-83]]).
+
+En el [[KEEP|Peabody Picture Vocabulary Test, Fifth Edition]], obtuvo una puntuación estándar de [[KEEP|70]] ([[KEEP|2do percentil]]), lo cual confirma un retraso considerable en el vocabulario receptivo, consistente con los hallazgos de las demás pruebas.
+
+**6. OBSERVACIONES CONDUCTUALES**
+
+Durante la sesión, [[CHILD|Mateo]] se mostró activo, curioso y receptivo al juego interactivo con la evaluadora. Mantuvo contacto visual apropiado y participó en turnos de juego simbólico simple, como alimentar a un muñeco y empujar carritos por el suelo mientras decía "[[KEEP|vrum]]" repetidamente. No se observaron conductas repetitivas atípicas ni dificultades sensoriales significativas durante la evaluación.
+
+Se notó frustración leve cuando no pudo comunicar sus deseos verbalmente; en esos momentos, recurrió a tomar la mano de su madre, [[PARENT|Lucía Ramírez Torres]], y llevarla hacia el objeto deseado. Esta estrategia comunicativa no verbal, aunque funcional, confirma el retraso expresivo documentado en las pruebas estandarizadas.
+
+**7. IMPRESIONES DIAGNÓSTICAS**
+
+Con base en los hallazgos estandarizados, la historia del desarrollo y la observación clínica directa, [[CHILD|Mateo Alejandro Fuentes Ramírez]] presenta un trastorno mixto del lenguaje receptivo-expresivo, consistente con el código [[KEEP|F80.2]] del CIE-10, acompañado de un trastorno fonológico concomitante que afecta la inteligibilidad de su habla. Sus habilidades sociales y de interacción se consideran una fortaleza relativa y un punto de apoyo importante para la intervención.
+
+Dado el patrón de retraso observado en ambos idiomas del entorno (con exposición predominante al español), no se considera que el bilingüismo del hogar sea la causa del retraso; más bien, [[CHILD|Mateo]] presenta un retraso verdadero que se manifiesta en su idioma dominante.
+
+**8. RECOMENDACIONES**
+
+1. Se recomienda que [[CHILD|Mateo]] sea elegible para servicios de intervención temprana bajo la Parte C a través del CDSA de Piedmont, con terapia de habla y lenguaje individual dos veces por semana, sesiones de [[KEEP|30 minutos]], facturadas bajo el código [[KEEP|92507]].
+
+2. Se recomienda un modelo de coaching para los padres basado en el enfoque [[KEEP|Hanen]] ("It Takes Two to Talk"), para fortalecer las estrategias de estimulación del lenguaje en el hogar, dirigido principalmente a [[PARENT|Lucía Ramírez Torres]] y a la abuela, [[FAMILY|Rosa Castillo Díaz]], quienes pasan más tiempo con [[CHILD|Mateo]] durante el día.
+
+3. Para abordar los errores fonológicos, se sugiere incorporar el enfoque de [[KEEP|Cycles]] una vez que el niño demuestre mayor estabilidad en su inventario de sonidos consonánticos.
+
+4. Si no se observa un progreso verbal funcional en un plazo de [[KEEP|3 meses]], se recomienda considerar un sistema de comunicación aumentativa de respaldo, como el enfoque [[KEEP|PECS]], para apoyar la comunicación funcional mientras se desarrolla el habla.
+
+5. Para los errores motores del habla si se identifican en sesiones futuras, podría considerarse el enfoque [[KEEP|PROMPT]] como complemento.
+
+6. Se recomienda establecer el [[KEEP|Resultado 1]] del Plan Individualizado de Servicios para la Familia (PIFS) enfocado en aumentar el vocabulario expresivo funcional, y el [[KEEP|Resultado 2]] enfocado en mejorar la inteligibilidad del habla en contextos familiares y de la guardería.
+
+7. Se recomienda consulta continua con la maestra de la guardería, [[TEACHER|Srta. Ana López]], del [[DAYCARE|Centro de Cuidado Infantil Pasitos Felices]], para asegurar la generalización de las estrategias en el aula.
+
+8. Se recomienda seguimiento continuo con el pediatra, Dr. [[PROVIDER|James Whitfield]], y re-evaluación audiológica anual dado el historial de dificultad respiratoria neonatal.
+
+9. Se recomienda una revisión del PIFS en [[KEEP|6 meses]], programada para el [[DATE|15 de abril de 2027]], para medir el progreso respecto a los objetivos establecidos.
+
+10. La coordinadora de servicios, [[PROVIDER|Yolanda Pérez Martínez]], de [[AGENCY|la Agencia del Triángulo]], continuará supervisando la coordinación entre el CDSA de Piedmont, el [[AGENCY|DSS]], [[AGENCY|WIC]] y el [[AGENCY|Programa Early Head Start]] para asegurar la continuidad de los servicios familiares.
+
+**9. RESUMEN**
+
+[[CHILD|Mateo Alejandro Fuentes Ramírez]] es un niño de [[KEEP|2;8]] años, bilingüe emergente de hogar predominantemente hispanohablante, que presenta retrasos significativos en el lenguaje receptivo y expresivo, así como un trastorno fonológico concomitante, consistente con el código [[KEEP|F80.2]]. Se recomienda inicio inmediato de servicios de intervención temprana a través del CDSA de Piedmont, con participación activa de la familia y coordinación continua entre las agencias involucradas.
+
+---
+
+Respetuosamente sometido,
+
+[[PROVIDER|Katherine A. Byrd]], M.S., CCC-SLP
+Patóloga del Habla y Lenguaje Bilingüe
+[[EMPLOYER|Terapia Pediátrica Bilingüe de Carolina, PLLC]]
+Licencia de Carolina del Norte No. [[ID|SLP-04492]]
+Fecha de firma: [[DATE|11 de octubre de 2026]]

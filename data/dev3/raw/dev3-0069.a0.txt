@@ -1,0 +1,101 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN (IFSP) REVIEW
+
+1. IDENTIFYING INFORMATION
+
+Child's Name: [[CHILD|Daniel Reyes Morales]] (called "[[CHILD|Dani]]")
+Date of Birth: [[DATE|March 2, 2024]]
+Current Age: [[KEEP|19 months]]
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+CDSA Child ID: [[ID|FCDSA-20250418]]
+Primary Language of the Home: Spanish; English also spoken
+Address: [[PLACE|482 Persimmon Grove Lane]], [[PLACE|Hickory]], [[PLACE|28601]]
+Home Phone: [[PHONE|(828) 555-0147]]
+Mother: [[PARENT|Fernanda Reyes Morales]]
+Father: [[PARENT|Miguel Reyes]]
+Sister: [[SIBLING|Sol Reyes]], age [[KEEP|7]]
+Family Pet: a cat named [[PET|Churro]]
+
+This review was prepared following the annual IFSP review meeting held on [[DATE|October 9, 2026]] at the [[AGENCY|Foothills CDSA]] office in [[PLACE|Hickory]]. Present at the meeting were [[PARENT|Fernanda Reyes Morales]], Service Coordinator [[PROVIDER|Brenda Walsh]], Speech-Language Pathologist [[PROVIDER|Marisela Ortiz, M.S., CCC-SLP]] of [[EMPLOYER|Piedmont Bilingual Therapy Associates]], and Early Interventionist [[PROVIDER|Hannah Doss]]. [[PARENT|Miguel Reyes]] was unable to attend due to his work schedule and reviewed the plan by phone afterward.
+
+2. REFERRAL AND SERVICE COORDINATION
+
+[[CHILD|Dani]] was referred to [[AGENCY|Foothills CDSA]] on [[DATE|November 3, 2025]] by his pediatrician, [[PROVIDER|Dr. Priya Nair]], following concerns raised at his 15-month well visit about limited babbling and no single words. His initial IFSP was developed on [[DATE|November 18, 2025]], and this is his first annual review. Service Coordinator [[PROVIDER|Brenda Walsh]] can be reached at [[PHONE|(828) 555-0199]] or [[EMAIL|bwalsh@foothillscdsa.nc.gov]] for questions about eligibility, funding, or transitions.
+
+The family's CDSA case number is [[ID|FCDSA-20250418]]. [[CHILD|Dani]] continues to meet eligibility for the [[AGENCY|NC Infant-Toddler Program]] under the category of established developmental delay in communication.
+
+3. BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Dani]] was born at [[KEEP|34 weeks]] gestation at [[HOSPITAL|Pinecrest Valley Medical Center]] following preterm labor. Birth weight was [[KEEP|5 lbs, 2 oz]], with Apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes. He was admitted to the Neonatal Intensive Care Unit at [[HOSPITAL|Pinecrest Valley Medical Center]] for [[KEEP|18 days]] for respiratory support and feeding difficulty. His attending neonatologist was [[PROVIDER|Dr. Angela Okafor]]. He was discharged home on [[DATE|March 20, 2024]] and has followed with pediatrician [[PROVIDER|Dr. Priya Nair]] since that time.
+
+At [[KEEP|12 months]], [[CHILD|Dani]] was seen by otolaryngologist [[PROVIDER|Dr. Felicia Grant]] for recurrent ear infections; tympanostomy tubes were placed on [[DATE|June 5, 2025]], with CPT code [[KEEP|92510]] and ICD-10 code [[KEEP|H65.19]] documented in his medical record. Hearing has since screened within normal limits bilaterally. There is no reported history of seizures, significant illness, or additional hospitalizations. Family medical history is unremarkable; [[PARENT|Fernanda Reyes Morales]] reports that her older daughter, [[SIBLING|Sol Reyes]], met speech milestones on time.
+
+4. FAMILY'S CONCERNS, PRIORITIES, AND RESOURCES
+
+[[PARENT|Fernanda Reyes Morales]] shared the following in her own words during the review meeting:
+
+"Dani entiende todo lo que le decimos, pero no nos dice lo que quiere. Se frustra mucho y empieza a llorar o nos jala de la mano. Queremos que pueda decirnos 'agua' o 'más' en vez de llorar."
+
+Translated for this record: she stated that [[CHILD|Dani]] understands everything said to him but cannot tell the family what he wants, which leads to frustration, crying, and pulling on their hands. The family's top priority is for [[CHILD|Dani]] to use words such as "water" or "more" instead of crying.
+
+She also shared that Mom works nights at [[ORG|Cardinal Valley Poultry Processing]], from [[TIME|11:00 p.m.]] to [[TIME|7:00 a.m.]], and that [[FAMILY|Rosa Morales]], the maternal grandmother, cares for [[CHILD|Dani]] during the day while [[PARENT|Fernanda Reyes Morales]] sleeps. [[PARENT|Miguel Reyes]] works day shifts at a furniture plant and handles bedtime and weekend outings. The family identified transportation to therapy appointments as an ongoing stressor, since [[FAMILY|Rosa Morales]] does not drive, and asked whether more sessions could occur at [[PLACE|482 Persimmon Grove Lane]] in the evening.
+
+The family's resources include a stable two-income household, strong extended family support, and consistent attendance at the [[AGENCY|Catawba County Department of Social Services]] nutrition program and [[AGENCY|WIC]] appointments. [[PARENT|Fernanda Reyes Morales]] also attends parenting classes through [[AGENCY|Smart Start of Catawba County]] on alternating Tuesdays.
+
+5. PRESENT LEVELS OF DEVELOPMENT AND DAILY ROUTINES
+
+Communication: On formal assessment administered [[DATE|September 22, 2026]] using the [[KEEP|Rossetti Infant-Toddler Language Scale]], [[CHILD|Dani]]'s receptive language fell at an age equivalent of [[KEEP|16-18 months]], while expressive language fell at an age equivalent of [[KEEP|9-11 months]]. On the [[KEEP|Preschool Language Scales-5]] ([[KEEP|PLS-5]]), [[KEEP|Auditory Comprehension]] yielded a standard score of [[KEEP|82]] ([[KEEP|12th percentile]], CI [[KEEP|76-88]]), and [[KEEP|Expressive Communication]] yielded a standard score of [[KEEP|68]] ([[KEEP|2nd percentile]], CI [[KEEP|62-74]]). Su edad equivalente cayó en un rango de [[KEEP|9-11 meses]] en comunicación expresiva.
+
+[[CHILD|Dani]] communicates primarily through gesture, pointing, and a small set of vocalizations. He produces approximately [[KEEP|6]] consistent word approximations, including [[KEEP|[ba]]] for "bottle," [[KEEP|[ma]]] for "mom," and [[KEEP|[dada]]] for "dad." During a home-based sample, he pointed at the cat and said "[[KEEP|[tutu]]]" while reaching, and when his sister entered the room he said "[[SIBLING|Sol]] up," requesting to be picked up. Later in the same session, while playing with a felt board, he was presented with the target [[KEEP|sol]] (sun) alongside "casa" and "luna" as part of a Spanish vowel-shape imitation task; he produced "[[KEEP|[to]]]" for the target [[KEEP|sol]] with moderate verbal cues. On a separate occasion he pushed his cat away and said "[[PET|Churro]] no," demonstrating two-word combination with min cues.
+
+Oral-motor and feeding: No concerns noted. [[CHILD|Dani]] eats a full range of textures and drinks from an open cup with spillage.
+
+Daily Routines: [[CHILD|Dani]] wakes around [[TIME|7:30 a.m.]] and spends mornings at home with [[FAMILY|Rosa Morales]]. He attends [[DAYCARE|Tumbleweed Treehouse Preschool]] three afternoons a week from [[TIME|1:00 p.m.]] to [[TIME|5:30 p.m.]] while his grandmother runs errands and rests before evening handoff. His lead teacher, Ms. [[TEACHER|Carla Nunez]], reports that he plays alongside a classmate, [[PEER|Jaxon]], during sensory bin time but does not yet initiate play verbally. Bath time, dinner, and a bedtime story routine with [[PARENT|Miguel Reyes]] round out his evening before [[PARENT|Fernanda Reyes Morales]] leaves for her shift.
+
+6. OTHER AGENCIES AND COMMUNITY SUPPORTS
+
+In addition to [[AGENCY|Foothills CDSA]], the family receives ongoing support from [[AGENCY|WIC]] for nutrition supplementation and from [[AGENCY|Catawba County Department of Social Services]] for Medicaid case management. [[PARENT|Fernanda Reyes Morales]] also connected with [[AGENCY|Smart Start of Catawba County]] for the parenting class referenced above. The family was referred to [[AGENCY|Catawba County Department of Social Services]] respite care services on [[DATE|August 14, 2026]] and is currently on a waiting list. A family friend, [[PERSON|Hector Lima]], has offered to help with transportation to appointments when [[FAMILY|Rosa Morales]] is unavailable.
+
+7. OUTCOMES, STRATEGIES, AND PROGRESS
+
+Outcome 1: [[CHILD|Dani]] will use five new single words consistently across home and [[DAYCARE|Tumbleweed Treehouse Preschool]] settings to request preferred items within six months.
+Strategies: Model target words during daily routines using [[KEEP|Hanen]] "It Takes Two to Talk" strategies; pair spoken words with gesture; expand single-word attempts into two-word models (e.g., "more water"). Progress: at the time of this review, [[CHILD|Dani]] has met criterion for three of the five targeted words with min to mod cues.
+
+Outcome 2: [[CHILD|Dani]] will combine two words to request or comment during play and mealtime routines, demonstrated in [[KEEP|3 of 5]] opportunities across two consecutive sessions.
+Strategies: Use [[KEEP|PROMPT]]-informed tactile cueing for word-final consonants; caregiver coaching with [[FAMILY|Rosa Morales]] and [[PARENT|Fernanda Reyes Morales]] on expansion and wait time. Progress: emerging, as noted in the "[[SIBLING|Sol]] up" and "[[PET|Churro]] no" examples above; not yet consistent across settings.
+
+Outcome 3: [[CHILD|Dani]] will increase his consonant inventory to include word-initial stops and nasals in Spanish and English words with no more than mod cues.
+Strategies: Target words selected jointly with the family, including [[KEEP|sol]], [[KEEP|pan]], and "ball," practiced through structured imitation and naturalistic play. Progress: [[CHILD|Dani]] produces word-initial [[KEEP|/m/]] and [[KEEP|/b/]] with min cues; [[KEEP|/s/]] remains emerging, with substitution patterns such as [[KEEP|[t]]] for [[KEEP|/s/]] noted during the sample above.
+
+Outcome 4: The family will identify and access respite and transportation resources to reduce stress related to appointment attendance.
+Strategies: Service Coordinator [[PROVIDER|Brenda Walsh]] to continue the respite referral through [[AGENCY|Catawba County Department of Social Services]] and to explore evening telehealth slots. Progress: referral submitted [[DATE|August 14, 2026]]; family reports reduced stress since [[PERSON|Hector Lima]] began assisting with transportation.
+
+8. SERVICE DELIVERY
+
+| Service | Provider/Discipline | Frequency | Location | Dates |
+|---|---|---|---|---|
+| Speech-Language Therapy | [[PROVIDER|Marisela Ortiz, M.S., CCC-SLP]], [[EMPLOYER|Piedmont Bilingual Therapy Associates]] | 2x weekly, 45 minutes | Home | [[DATE|November 18, 2025]] through [[DATE|November 18, 2026]] |
+| Developmental Intervention | [[PROVIDER|Hannah Doss]] | 1x weekly, 60 minutes | Home and [[DAYCARE|Tumbleweed Treehouse Preschool]] | [[DATE|November 18, 2025]] through [[DATE|November 18, 2026]] |
+| Service Coordination | [[PROVIDER|Brenda Walsh]], [[AGENCY|Foothills CDSA]] | Monthly contact, as needed | Phone and home | Ongoing |
+
+CPT code [[KEEP|92523]] and ICD-10 code [[KEEP|F80.2]] are documented for billing purposes related to speech-language evaluation and mixed receptive-expressive language disorder. Services are authorized through Medicaid ID [[MEDICAID_ID|987654321B]].
+
+The next IFSP review is scheduled for [[DATE|April 9, 2027]], with a transition planning conference to occur no later than [[DATE|September 2, 2027]] in anticipation of [[CHILD|Dani]]'s third birthday and transition from the [[AGENCY|NC Infant-Toddler Program]] to preschool special education services, if eligible.
+
+9. TEAM SIGNATURES
+
+___________________________
+[[PARENT|Fernanda Reyes Morales]], Parent
+Date: [[DATE|October 9, 2026]]
+
+___________________________
+[[PROVIDER|Brenda Walsh]], Service Coordinator, [[AGENCY|Foothills CDSA]]
+Date: [[DATE|October 9, 2026]]
+
+___________________________
+[[PROVIDER|Marisela Ortiz, M.S., CCC-SLP]], [[EMPLOYER|Piedmont Bilingual Therapy Associates]]
+Date: [[DATE|October 9, 2026]]
+
+___________________________
+[[PROVIDER|Hannah Doss]], Early Interventionist
+Date: [[DATE|October 9, 2026]]

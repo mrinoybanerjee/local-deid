@@ -1,0 +1,179 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS FAMILIARES — REVISIÓN SEMESTRAL
+
+Documento sintético para pruebas. Todos los datos personales, entidades, contactos y acontecimientos son ficticios.
+
+Campo	Dato
+Programa	[[AGENCY|Programa de Apoyo Infantil Temprano de Carolina del Norte]]
+Tipo de reunión	Revisión semestral del plan individualizado de servicios familiares
+Fecha de reunión	[[DATE|9 de octubre de 2026]]
+Fecha del plan anterior	[[DATE|9 de abril de 2026]]
+Próxima revisión prevista	[[DATE|9 de abril de 2027]]
+Niña participante	[[CHILD|María José de la Cruz Pineda]]
+Nombre familiar	[[CHILD|Majo]]
+Iniciales usadas en registros	[[CHILD|MJ]]
+Fecha de nacimiento	[[DATE|9 de junio de 2024]]
+Edad durante esta revisión	[[KEEP|2;4]], equivalente a [[KEEP|28 meses]]
+Número de expediente	[[ID|ITP-FIC-260417]]
+Identificador de participante	[[ID|NCIT-804216]]
+Número de Medicaid	[[MEDICAID_ID|804216739Q]]
+Lugar de reunión	Domicilio familiar en [[PLACE|Ventoloma]], Carolina del Norte
+Modalidad	Presencial, con participación telefónica de la pediatra
+Idioma del documento y de la intervención	Español; apoyo bilingüe cuando la familia lo solicite
+
+INFORMACIÓN FAMILIAR Y CONTACTOS
+
+La familia vive en una casa de un piso. La niña comparte las comidas y el juego con sus padres y su hermana. La abuela materna cuida a la niña dos tardes por semana. Los padres mantienen la responsabilidad de las decisiones y autorizan la participación de la abuela en las visitas.
+
+Persona	Relación o función	Contacto	Disponibilidad
+[[PARENT|Lucía Pineda-Santos]]	Mamá y contacto principal	[[PHONE|919-555-0142]]; [[EMAIL|lucia.pineda@correo-ficticio.example]]	Después de las [[TIME|2:30 p. m.]]
+[[PARENT|Andrés de la Cruz]]	Papá y segundo contacto	[[PHONE|919-555-0178]]; [[EMAIL|andres.cruz@correo-ficticio.example]]	Antes de las [[TIME|9:00 a. m.]]
+[[SIBLING|Sol de la Cruz Pineda]]	Hermana; [[KEEP|6 años]]	Contacto mediante los padres	Participa en juegos familiares
+[[FAMILY|Beatriz Santos del Río]]	Abuela materna y cuidadora	[[PHONE|919-555-0126]]	Dos tardes por semana
+[[FAMILY|Nora Valdés-Ruiz]]	Niñera ocasional	Contacto mediante la mamá	Fines de semana acordados
+
+Campo familiar	Dato
+Dirección	[[PLACE|184 Sendero del Jacarandá]], [[PLACE|Ventoloma]], Carolina del Norte, [[PLACE|27900]]
+Condado de residencia	[[PLACE|Condado de Brisal]]
+Lugar de trabajo de la mamá	[[ORG|Costuras Nube Clara]]
+Lugar de trabajo del papá	[[ORG|Taller Mecánico Faro Verde]]
+Contacto autorizado para documentos	[[PARENT|Lucía Pineda-Santos]]
+Preferencia de comunicación	Mensaje breve en español; llamada si cambia una visita
+
+La mamá trabaja por la mañana. El papá tiene un horario variable. Ambos solicitan que las estrategias funcionen con materiales de la casa y durante actividades que ya realizan. La familia identifica como fortalezas el afecto entre las hermanas, la música y las comidas compartidas.
+
+EQUIPO Y OFICINA RESPONSABLE
+
+Profesional	Función	Entidad y contacto
+[[PROVIDER|Elena Robles-Márquez]]	Patóloga bilingüe del habla y lenguaje; autora del documento	[[EMPLOYER|Comunicación Infantil Senderos]]; [[PHONE|919-555-0163]]; [[EMAIL|elena.robles@senderos-ficticios.example]]
+[[PROVIDER|Rafael del Río]]	Coordinador de servicios	[[AGENCY|CDSA de Brisal y Valles del Este]]; [[PHONE|919-555-0119]]; [[EMAIL|rafael.rio@cdsa-ficticia.example]]
+[[PROVIDER|Camila Ortega-Luna]]	Terapeuta ocupacional	[[AGENCY|Centro de Desarrollo Pasitos del Alba]]
+[[PROVIDER|Tomás Benítez]]	Fisioterapeuta	[[AGENCY|Centro de Desarrollo Pasitos del Alba]]
+Dra. [[PROVIDER|Irene Salcedo]]	Pediatra	[[HOSPITAL|Hospital Infantil Mirador Azul]]
+[[PROVIDER|Marisol Vega del Río]]	Intérprete de español e inglés	[[AGENCY|Red de Interpretación Puente Claro]]
+
+Campo de la oficina	Dato
+Dirección de la CDSA	[[PLACE|620 Avenida del Arrayán]], [[PLACE|Ventoloma]], Carolina del Norte, [[PLACE|27900]]
+Teléfono central	[[PHONE|919-555-0108]]
+Página informativa	[[URL|https://cdsa-brisal.example/familias]]
+Número de coordinación	[[ID|COORD-26098]]
+
+La intérprete participó para facilitar la conversación con la pediatra y la lectura de un informe previo en inglés. La intervención del habla y lenguaje se ofrece directamente en español. La familia puede pedir interpretación en cualquier reunión. El coordinador confirmará contactos, autorizaciones y cambios de horario.
+
+PREOCUPACIONES Y PRIORIDADES EN LAS PALABRAS DE LA FAMILIA
+
+La mamá [[PARENT|Lucía Pineda-Santos]] expresó: “Quiero entender lo que pide sin tener que adivinar. Cuando quiere agua o ayuda, me lleva de la mano. A veces llora porque yo ofrezco otra cosa. Me gustaría que pudiera decirlo o señalar una imagen”.
+
+El papá [[PARENT|Andrés de la Cruz]] expresó: “Cuando llego del trabajo, quiero jugar con [[CHILD|María José]] y que podamos turnarnos. Si no entiendo, quiero saber cómo ayudar sin pedirle que repita muchas veces. También quiero que camine con más confianza hacia el patio”.
+
+La abuela [[FAMILY|Beatriz Santos del Río]] expresó: “En la merienda tenemos tiempo para practicar. Quiero aprender las mismas palabras y señales que usan sus padres. Necesito instrucciones cortas, porque si me dan muchas juntas se me olvidan”.
+
+La mamá añadió: “No quiero que la comida se convierta en una prueba. Si no dice una palabra, igual necesita comer. Podemos esperar un poquito y mostrarle cómo pedir, pero sin quitarle lo que necesita”.
+
+Las prioridades acordadas son comunicar necesidades básicas, participar en juegos con la hermana y moverse con seguridad entre la sala y el patio. La familia también desea que el personal de la guardería reconozca gestos, imágenes y palabras en español.
+
+La familia considera que el plan tendrá éxito cuando varias personas comprendan las peticiones sin depender de la mamá. Los padres prefieren cambios pequeños que puedan sostener cada día. Solicitan revisar las estrategias si aumentan el cansancio, el llanto o las dificultades para participar.
+
+RUTINAS DIARIAS Y OPORTUNIDADES
+
+Rutina	Horario habitual	Lo que ocurre	Oportunidad acordada
+Despertar y vestirse	[[TIME|7:00 a. m.]]	Busca a la mamá; ayuda a meter los brazos en la camiseta	Ofrecer dos prendas y aceptar mirada, señal o palabra
+Desayuno	[[TIME|7:30 a. m.]]	Pide alimentos llevando al adulto hacia la mesa	Modelar [[KEEP|"más"]], [[KEEP|"agua"]] y [[KEEP|"ayuda"]]
+Entrada a la guardería	[[TIME|8:15 a. m.]]	Se aferra al adulto cuando cambia la actividad	Usar una imagen de llegada y una despedida breve
+Juego en casa	[[TIME|3:30 p. m.]]	Prefiere bloques, animales y canciones	Practicar turnos con una señal visible
+Merienda con la abuela	[[TIME|4:00 p. m.]]	Señala alimentos conocidos	Presentar elecciones sin exigir una respuesta oral
+Salida al patio	[[TIME|5:00 p. m.]]	Busca apoyo para cruzar el umbral	Practicar el recorrido con supervisión y pausas
+Cena familiar	[[TIME|6:30 p. m.]]	Permanece sentada cuando la comida es familiar	Nombrar acciones y responder a intentos de comunicación
+Baño y cuento	[[TIME|7:15 p. m.]]	Participa mejor con una secuencia conocida	Mostrar imágenes de baño, pijama y cuento
+Preparación para dormir	[[TIME|8:00 p. m.]]	Pide una canción mediante gestos	Aceptar el gesto y añadir un modelo verbal breve
+
+La perrita [[PET|Miga]] suele acercarse durante el juego. Los adultos guardarán los materiales pequeños y supervisarán la interacción. La niña disfruta buscar una pelota para la perrita; esta actividad permite practicar una petición y un turno.
+
+La hermana [[SIBLING|Sol]] participa cuando quiere y puede retirarse del juego. Los adultos dirigirán la actividad. La hermana no tendrá la responsabilidad de corregir el habla ni de conseguir respuestas.
+
+OTRAS AGENCIAS Y ENTORNOS
+
+Entidad	Persona de contacto	Participación y acuerdo
+[[DAYCARE|Guardería Semillitas del Arroyo]]	Maestra [[TEACHER|Patricia Núñez-Campos]]	Compartirá ejemplos de peticiones durante merienda y juego
+[[SCHOOL|Escuela Primaria Loma Serena]]	Maestro [[TEACHER|Diego Aranda]]	Escuela de la hermana; sin servicios incluidos para la niña
+[[AGENCY|WIC de Brisal]]	[[PERSON|Mónica Ferrer]]	La familia recibe orientación sobre alimentos
+[[AGENCY|DSS de Brisal]]	[[PERSON|Samuel Acosta]]	Contacto previo de la familia para recursos comunitarios
+[[AGENCY|Smart Start Senderos de Brisal]]	[[PERSON|Alma Castañeda]]	Información sobre actividades familiares
+[[AGENCY|Centro de Desarrollo Pasitos del Alba]]	[[PROVIDER|Camila Ortega-Luna]]	Coordina terapia ocupacional y fisioterapia
+
+En la guardería, la niña suele observar a sus compañeros [[PEER|Lía Montes]] y [[PEER|Nicolás Prado]] antes de acercarse. Comparte bloques cuando un adulto organiza los turnos. La maestra informará sobre oportunidades de participación, sin comparar el desempeño de los niños.
+
+Los padres autorizan compartir únicamente las estrategias y los datos necesarios para coordinar este plan. El coordinador revisará los formularios de consentimiento antes de enviar información. Ningún informe completo se enviará automáticamente a otras entidades.
+
+RESUMEN DE LA EVALUACIÓN Y DEL PROGRESO
+
+La evaluación del habla y lenguaje se realizó el [[DATE|2 de octubre de 2026]]. Incluyó entrevista familiar, observación durante juego y merienda, y administración en español. Los resultados describen el desempeño de ese día y se interpretan junto con las rutinas.
+
+Instrumento	Área	Puntuación estándar	Percentil	Interpretación
+[[KEEP|PLS-5 Spanish]]	Comprensión auditiva	[[KEEP|82]]	[[KEEP|12]]	Dificultades en instrucciones sin apoyo contextual
+[[KEEP|PLS-5 Spanish]]	Comunicación expresiva	[[KEEP|74]]	[[KEEP|4]]	Uso limitado de palabras y combinaciones
+[[KEEP|PLS-5 Spanish]]	Lenguaje total	[[KEEP|77]]	[[KEEP|6]]	Necesidad de apoyo funcional
+[[KEEP|DAYC-2]]	Comunicación	[[KEEP|78]]	[[KEEP|7]]	Consistente con entrevista y observación
+[[KEEP|DAYC-2]]	Desarrollo físico	[[KEEP|86]]	[[KEEP|18]]	Necesidad de observar movilidad en rutinas
+
+Medida funcional	Plan anterior	Revisión actual
+Peticiones mediante gesto, imagen o palabra	[[KEEP|3/10]] oportunidades	[[KEEP|6/10]] oportunidades
+Peticiones con palabra espontánea	[[KEEP|1/10]] oportunidades	[[KEEP|3/10]] oportunidades
+Turnos consecutivos con un adulto	[[KEEP|2]] turnos	[[KEEP|4]] turnos
+Instrucciones familiares con apoyo visual	[[KEEP|50%]]	[[KEEP|75%]]
+
+La niña comprendió instrucciones familiares cuando el adulto señaló el objeto. Las instrucciones nuevas requirieron demostración. Usó mirada, alcance, señalamiento y vocalizaciones para iniciar interacción. Produjo espontáneamente [[KEEP|"agua"]], [[KEEP|"más"]] y [[KEEP|"no"]]. Se registró [[KEEP|"yo agua"]] como combinación emergente, sin exigir repetición.
+
+En una muestra breve apareció [[KEEP|[w]]] al intentar la palabra objetivo [[KEEP|"agua"]]. La producción de [[KEEP|/k/]] fue inconsistente. Estos datos orientan modelos naturales; no establecen por sí solos un diagnóstico fonológico. Una omisión en la muestra recibió el código [[KEEP|[EW]]] conforme al criterio de transcripción empleado.
+
+El informe de audiología del [[DATE|18 de septiembre de 2026]] describió respuestas compatibles con acceso auditivo funcional durante la prueba. La pediatra confirmó la recepción del informe. La familia comunicará cambios en la respuesta a sonidos.
+
+Los códigos clínicos registrados son [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 R62.0]]. Los códigos de servicio previstos son [[KEEP|CPT 92507]], [[KEEP|CPT 97530]] y [[KEEP|CPT 97110]]. Su inclusión no garantiza cobertura.
+
+RESULTADOS FUNCIONALES, ESTRATEGIAS Y MEDICIÓN
+
+Resultado	Participación esperada	Criterio y fecha
+Comunicar necesidades	La niña pedirá agua, más, ayuda o una elección durante comidas y juego	[[KEEP|8/10]] oportunidades en tres registros semanales, para el [[DATE|9 de enero de 2027]]
+Compartir juego	La niña mantendrá un intercambio con un adulto o su hermana	[[KEEP|5]] turnos en [[KEEP|4/5]] oportunidades, para el [[DATE|9 de abril de 2027]]
+Participar en transiciones	La niña pasará de juego a lavado de manos con una señal previsible	Participación en [[KEEP|80%]] de las oportunidades registradas, para el [[DATE|9 de abril de 2027]]
+Acceder al patio	La niña cruzará el umbral y llegará al área de juego con el apoyo acordado	Logro en [[KEEP|4/5]] recorridos observados, para el [[DATE|9 de abril de 2027]]
+
+Para comunicar necesidades, el adulto colocará dos opciones visibles y nombrará cada una. Esperará brevemente y responderá a cualquier intento claro. Después añadirá un modelo de una o dos palabras. Los alimentos, el agua y el consuelo estarán disponibles aunque no aparezca una palabra.
+
+La patóloga [[PROVIDER|Elena Robles-Márquez]] enseñará estas estrategias mediante demostración y práctica con los cuidadores. Al terminar la visita, cada cuidador elegirá una rutina. Registrará qué pidió la niña, cómo lo pidió y qué apoyo recibió. Se distinguirán respuestas espontáneas, [[KEEP|min cues]] y [[KEEP|mod cues]].
+
+Para compartir juego, el adulto empezará con una actividad breve que la niña elija. Entregará un bloque, esperará y mostrará el siguiente turno. Podrá usar [[KEEP|"mi turno"]] y [[KEEP|"tu turno"]]. La familia reducirá los modelos cuando la niña anticipe el intercambio.
+
+Una lámina del patio incluirá la palabra objetivo [[KEEP|"sol"]]. Esa palabra nombra el elemento del dibujo. La hermana [[SIBLING|Sol]] podrá participar en la actividad, pero su nombre se registrará como referencia familiar. La misma secuencia de letras tiene funciones distintas según el contexto.
+
+Para las transiciones, la terapeuta ocupacional [[PROVIDER|Camila Ortega-Luna]] ayudará a elegir dos imágenes y una señal verbal constante. Los adultos mostrarán la actividad siguiente y ofrecerán una función sencilla, como llevar la toalla. La familia observará si la señal facilita la participación o necesita cambios.
+
+Para acceder al patio, el fisioterapeuta [[PROVIDER|Tomás Benítez]] observará el recorrido real. Acordará con los padres el apoyo de la mano, las pausas y la posición del adulto. La familia practicará cuando la niña esté descansada. El objetivo mide acceso a una actividad familiar, sin exigir velocidad.
+
+El equipo revisará los registros con los padres. Si una estrategia aumenta el malestar o no cabe en la rutina, la modificará. Los criterios sirven para revisar el plan y no condicionan el acceso a actividades familiares.
+
+CALENDARIO DE SERVICIOS
+
+Servicio	Profesional	Frecuencia y duración	Entorno	Inicio	Fin previsto
+Habla y lenguaje	[[PROVIDER|Elena Robles-Márquez]]	Una visita semanal de 45 minutos	Domicilio familiar	[[DATE|12 de octubre de 2026]]	[[DATE|9 de abril de 2027]]
+Terapia ocupacional	[[PROVIDER|Camila Ortega-Luna]]	Dos visitas mensuales de 45 minutos	Domicilio o guardería	[[DATE|14 de octubre de 2026]]	[[DATE|9 de abril de 2027]]
+Fisioterapia	[[PROVIDER|Tomás Benítez]]	Dos visitas mensuales de 45 minutos	Domicilio y patio	[[DATE|16 de octubre de 2026]]	[[DATE|9 de abril de 2027]]
+Coordinación de servicios	[[PROVIDER|Rafael del Río]]	Contacto mensual y según necesidad	Teléfono o domicilio	[[DATE|9 de octubre de 2026]]	[[DATE|9 de abril de 2027]]
+
+La visita del habla y lenguaje se programó para los lunes a las [[TIME|3:00 p. m.]]. Las demás visitas se confirmarán con la familia. Si una visita se cancela, el profesional ofrecerá opciones disponibles. Cualquier cambio de frecuencia requiere revisión con los padres.
+
+SEGUIMIENTO, ACUERDOS Y CIERRE
+
+La primera revisión de estrategias será el [[DATE|6 de noviembre de 2026]]. El coordinador reunirá los comentarios familiares y de la guardería. El equipo revisará peticiones, turnos, transiciones y acceso al patio. Los padres podrán solicitar una reunión antes de la revisión semestral.
+
+La planificación de la transición comenzará con información sobre opciones cuando la niña se acerque a los [[KEEP|3 años]]. La familia todavía no ha elegido un programa. El coordinador explicará los pasos y documentará las preferencias antes de establecer contactos.
+
+Los padres participaron en la selección de resultados y servicios. Recibieron una lectura del documento en español y tiempo para expresar dudas. La mamá solicitó una copia digital. El papá pidió una hoja breve con las estrategias para colocarla junto a la mesa.
+
+Participante	Constancia	Fecha
+[[PARENT|Lucía Pineda-Santos]]	Acuerdo con los resultados y servicios descritos	[[DATE|9 de octubre de 2026]]
+[[PARENT|Andrés de la Cruz]]	Acuerdo con los resultados y servicios descritos	[[DATE|9 de octubre de 2026]]
+[[PROVIDER|Rafael del Río]]	Coordinación y seguimiento del plan	[[DATE|9 de octubre de 2026]]
+[[PROVIDER|Marisol Vega del Río]]	Participación como intérprete	[[DATE|9 de octubre de 2026]]
+[[PROVIDER|Elena Robles-Márquez]]	Redacción y revisión clínica en español	[[DATE|9 de octubre de 2026]]
+
+La autora completó el documento con información del equipo y de la familia. El próximo contacto confirmará el inicio de las visitas y la entrega de las imágenes. La familia eligió comenzar con la merienda y el juego con bloques.

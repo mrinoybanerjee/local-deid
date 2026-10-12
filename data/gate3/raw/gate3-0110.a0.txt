@@ -1,0 +1,14 @@
+Daily bilingual speech-language therapy note
+
+Fecha: [[DATE|October 8, 2026]]; session [[TIME|9:10 AM]]–[[TIME|9:40 AM]].
+Clinician: [[PROVIDER|Elena Maribel Voss]], SLP, [[EMPLOYER|Firefly Bridge Pediatric Therapy PLLC]].
+Client: [[CHILD|Tomas Elias Neri]], age [[KEEP|4;2]]; record [[ID|FB-482731]]; Medicaid [[MEDICAID_ID|583729146Q]].
+Location: [[DAYCARE|Copper Acorn Cloudhouse]], [[PLACE|418 Lantern Finch Lane]], [[PLACE|Mossbridge]], North Carolina [[PLACE|27684]].
+
+Subjetivo: Mama [[PARENT|Irene Neri]] reported, “Habla mas cuando su hermana [[SIBLING|Lola]] juega con el.” Abuela [[FAMILY|Celia Montoro]] joined by phone from [[PLACE|Los Nisperos del Viento]], Guatemala. Teacher Ms. [[TEACHER|Pella]] noted easier transitions. Family requested updates through [[EMAIL|ineri@correo.example]]; clinic resources remain at [[URL|https://fireflybridge.example/familias]]. Contact: [[PHONE|919-555-0146]]. Parent confirmed that Spanish remains the preferred language for home practice, aunque classroom routines usually occur in English.
+
+Objetivo: Prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]] informed task selection. Using [[KEEP|Hanen]] strategies and [[KEEP|Cycles]], [[CHILD|Tomas]] requested [[KEEP|"mas agua"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]]; [[KEEP|[w]]] substitutions persisted. During play with [[PEER|Nico Vale]], he said "[[PET|Pipo]] run". He produced [[KEEP|"quiero carro"]] independently in [[KEEP|3 of 5]] trials. One sample received [[KEEP|[EW]]]. Visual choices supported participation; alternating languages did not disrupt engagement. Se beneficio de extra wait time before adult repetition.
+
+Analisis: Functional requesting improved with predictable routines. Shared attention lasted longer during pretend cooking. Performance varied across activities, especially when materials changed without warning.
+
+Plan: Continue [[KEEP|IFSP outcome 2]] with [[KEEP|min cues]] as tolerated. Send practice sheet through [[EMPLOYER|Firefly Bridge]] portal. Next visit: [[DATE|October 15, 2026]]. Billing through [[EMPLOYER|FBPT]]: [[KEEP|CPT 92507]], modifier [[KEEP|GN]], diagnosis [[KEEP|ICD-10 F80.2]]. Family practiced waiting and modeling before departure.

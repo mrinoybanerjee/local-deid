@@ -1,0 +1,23 @@
+Client: [[CHILD|Mateo Fuentes]]
+DOB: [[DATE|04/12/2023]]
+Session Date: [[DATE|October 9, 2026]]
+Session Time: [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Medicaid ID: [[MEDICAID_ID|784512093B]]
+Case ID: [[ID|SLP-22871]]
+School: [[SCHOOL|Hickory Grove Elementary]], [[AGENCY|Charlotte-Mecklenburg Schools]]
+Classroom/Teacher: Ms. [[TEACHER|Dana Whitfield]], Pre-K Room 4
+Service Coordinator: [[PROVIDER|Carla Jimenez]], [[AGENCY|Mecklenburg CDSA]]
+Parent: [[PARENT|Rosa Fuentes]]
+Interpreter: [[PROVIDER|Yesenia Ortiz]] (Spanish/English)
+Clinician: [[PROVIDER|Hannah Reyes]], CCC-SLP
+Clinic: [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Contact: [[EMAIL|hreyes@carolinapedsspeech.com]] | [[URL|www.carolinapedsspeech.com]]
+Phone: [[PHONE|(704) 555-0147]]
+
+S: Mother, [[PARENT|Rosa Fuentes]], reports [[CHILD|Mateo]] has been more vocal at home with his sister, [[SIBLING|Camila]], and the family dog, [[PET|Bongo]]. [[PARENT|Rosa]] noted [[CHILD|Mateo]] called his babysitter, [[FAMILY|Yolanda]], "[[KEEP|Yaya]]" this week. Family continues receiving support through [[AGENCY|WIC]] and [[AGENCY|Early Head Start]], and recently connected with [[AGENCY|Smart Start of Mecklenburg County]] for additional playgroup referrals.
+
+O: Session conducted in [[SCHOOL|Hickory Grove Elementary]]'s Pre-K room with Ms. [[TEACHER|Whitfield]] observing. Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest; standard score [[KEEP|78]] ([[KEEP|73-83]]), age equivalent [[KEEP|2;6–3;0]]. Expressive Communication standard score [[KEEP|82]], [[KEEP|13th percentile]]. [[CHILD|Mateo]] imitated /k/ in [[KEEP|8/10]] trials with [[KEEP|min cues]], producing "[[KEEP|cat]]" clearly. Peer [[PEER|Liam]] joined for a parallel-play activity; [[CHILD|Mateo]] requested "[[KEEP|mas]]" using [[KEEP|PECS]] [[KEEP|3 of 5]] opportunities independently.
+
+A: Continued delay in receptive/expressive language per [[KEEP|ICD-10 F80.1]]. Responds well to [[KEEP|Hanen]]-based modeling.
+
+P: Continue weekly sessions; coordinate with [[AGENCY|DSS]] regarding transportation support. Next IFSP review scheduled [[DATE|November 18, 2026]] at [[TIME|2:00 PM]] with [[PROVIDER|Carla Jimenez]].

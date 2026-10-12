@@ -1,0 +1,113 @@
+Clínica de Lenguaje y Habla [[EMPLOYER|Piedmont]]
+[[PLACE|2210 Kildaire Farm Road]], [[PLACE|Cary]], NC [[PLACE|27518]]
+Teléfono: [[PHONE|(919) 555-0199]] · Correo electrónico: [[EMAIL|pnunez@piedmontspeech.com]]
+
+Fecha del informe: [[DATE|11 de octubre de 2026]]
+
+Nombre del niño: [[CHILD|Mateo Fernández Ramírez]] ("[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|14 de marzo de 2022]]
+Edad en el momento de la evaluación: 4;7
+Padres/tutores: [[PARENT|Lucía Ramírez]] y [[PARENT|Carlos Fernández]]
+Dirección: [[PLACE|1420 Maple Hollow Drive]], [[PLACE|Cary]], NC [[PLACE|27511]]
+Teléfono de contacto: [[PHONE|(919) 555-0148]]
+Número de Medicaid: [[MEDICAID_ID|584912037A]]
+Número de expediente: [[ID|4471-SP]]
+Fuente de referencia: pediatra [[PROVIDER|Dra. Ana María Castillo]], a través de [[AGENCY|Piedmont CDSA]]
+Coordinadora de servicios: [[PROVIDER|Mónica Díaz]]
+Intérprete: [[PROVIDER|Rosa Elena Pérez]] (español/inglés)
+Evaluadora: [[PROVIDER|Patricia Núñez]], MS, CCC-SLP, bilingüe español-inglés
+
+Estimados Sr. [[PARENT|Fernández]] y Sra. [[PARENT|Ramírez]]:
+
+Gracias por confiarnos la evaluación de [[CHILD|Teo]]. Fue un placer conocerlo a él y conocerlos a ustedes el [[DATE|3 de octubre de 2026]] en nuestra clínica. Con la ayuda de nuestra intérprete, [[PROVIDER|Rosa Elena Pérez]], pudimos conversar con ustedes en español y explicar cada parte de la evaluación mientras la hacíamos. Este informe explica, en lenguaje sencillo, lo que encontramos y lo que recomendamos.
+
+**Motivo de la evaluación**
+
+[[CHILD|Teo]] fue referido para una evaluación completa de habla y lenguaje después de que su maestra en [[DAYCARE|Little Learners Daycare]], la Sra. [[TEACHER|Karen Phillips]], notara que a [[CHILD|Teo]] le costaba que sus compañeros lo entendieran durante el juego libre. Según la Sra. [[TEACHER|Phillips]], compañeros como [[PEER|Ava]] y [[PEER|Noah]] con frecuencia le pedían que repitiera lo que decía, y [[CHILD|Teo]] a veces dejaba de intentar comunicarse. La Sra. [[TEACHER|Phillips]] también observó que [[CHILD|Teo]] usa oraciones más cortas que sus compañeros de la misma edad.
+
+[[CHILD|Teo]] recibió servicios de intervención temprana a través del [[ORG|Little Learners Program]] desde los 2;6 hasta los 3;6, con sesiones grupales de lenguaje dos veces por semana, de 30 minutos cada una. Esos servicios terminaron cuando cumplió tres años, y la familia no había buscado terapia adicional hasta ahora.
+
+**Historia de nacimiento y médica**
+
+[[CHILD|Teo]] nació el [[DATE|14 de marzo de 2022]] a las 36 semanas de gestación, con un peso de 2,450 gramos. Sus puntajes de Apgar fueron 8 y 9. Pasó cuatro días en la unidad de cuidados especiales para recién nacidos por dificultad leve para respirar, y no tuvo otras complicaciones médicas en ese momento.
+
+Según sus padres, [[CHILD|Teo]] ha tenido seis episodios de infección de oído desde el año de edad, el más reciente en [[DATE|enero de 2026]]. Fue evaluado por un especialista de oído, nariz y garganta, el [[PROVIDER|Dr. Steven Kim]], quien colocó tubos de ventilación en ambos oídos en [[DATE|febrero de 2026]]. Desde entonces, la familia reporta menos infecciones y la impresión de que [[CHILD|Teo]] escucha mejor. Su pediatra, la [[PROVIDER|Dra. Ana María Castillo]], confirmó que su audición actual es normal según una prueba de audiometría reciente.
+
+No hay otros diagnósticos médicos. [[CHILD|Teo]] no toma medicamentos de forma regular y no tiene alergias conocidas.
+
+**Historia familiar y del lenguaje**
+
+En casa, la familia habla principalmente español, con algo de inglés cuando están presentes los hermanos mayores de [[CHILD|Teo]]. Su hermana, [[SIBLING|Sol Fernández]], tiene 7 años y es bilingüe; su hermano, [[SIBLING|Diego Fernández]], tiene 10 años. Durante las tardes, su abuela, [[FAMILY|Rosa Fernández]], cuida a los tres niños mientras los padres trabajan. La Sra. [[PARENT|Ramírez]] trabaja en [[ORG|Carolina Distribution Co.]] y el Sr. [[PARENT|Fernández]] trabaja en una sucursal de [[ORG|Capital Bank]] en [[PLACE|Raleigh]].
+
+Los padres reportan que entienden la mayoría de lo que dice [[CHILD|Teo]], pero que personas fuera de la familia a menudo le piden que repita las palabras. No hay historia familiar de trastornos del habla, lenguaje o aprendizaje que los padres conozcan.
+
+**Procedimientos de evaluación**
+
+La evaluación incluyó pruebas estandarizadas, observación de juego, una muestra de lenguaje espontáneo, y una entrevista con los padres. Debido a que [[CHILD|Teo]] se comunica en ambos idiomas, administramos partes de la evaluación en español y partes en inglés, según el idioma en el que [[CHILD|Teo]] se sentía más cómodo respondiendo. Usamos también observaciones informales en su ambiente de juego y revisamos un video corto grabado en [[DAYCARE|Little Learners Daycare]].
+
+**Resultados de las pruebas**
+
+A continuación se presentan los resultados de las pruebas estandarizadas. Los puntajes estándar típicos van de 85 a 115.
+
+Prueba | Área | Puntaje estándar | Percentil | Intervalo de confianza
+[[KEEP|Escala de Lenguaje Preescolar, Quinta Edición (PLS-5)]] | [[KEEP|Comprensión auditiva]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|68-78]]
+[[KEEP|PLS-5]] | [[KEEP|Comunicación expresiva]] | [[KEEP|70]] | [[KEEP|2]] | [[KEEP|65-75]]
+[[KEEP|PLS-5]] | [[KEEP|Puntaje total de lenguaje]] | [[KEEP|68]] | [[KEEP|2]] | [[KEEP|63-73]]
+[[KEEP|Evaluación Clínica de Fundamentos del Lenguaje, Preescolar-3 (CELF Preescolar-3)]] | [[KEEP|Núcleo del lenguaje]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|73-83]]
+[[KEEP|Prueba de Articulación Goldman-Fristoe, Tercera Edición (GFTA-3)]] | [[KEEP|Articulación]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-80]]
+
+El equivalente de edad de [[CHILD|Teo]] en comprensión auditiva en [[KEEP|PLS-5]] cayó en el rango de [[KEEP|2;6–3;0]], aproximadamente dos años por debajo de su edad real. Su equivalente de edad en comunicación expresiva fue similar, en el rango de [[KEEP|2;9–3;3]].
+
+En la muestra de lenguaje espontáneo, [[CHILD|Teo]] combinó principalmente dos y tres palabras, con pocas oraciones de cuatro palabras. Omitió con frecuencia los artículos y las conjugaciones verbales correctas, tanto en español como en inglés, por ejemplo diciendo "yo quiere agua" en vez de "yo quiero agua".
+
+**Análisis del habla**
+
+En la prueba [[KEEP|GFTA-3]], [[CHILD|Teo]] mostró varios patrones de simplificación fonológica típicos de niños menores. Usó anteriorización, reemplazando sonidos posteriores como [[KEEP|/k/]] y [[KEEP|/g/]] con sonidos anteriores como [[KEEP|/t/]] y [[KEEP|/d/]]. También mostró reducción de grupos consonánticos, por ejemplo produciendo "pato" en vez de "plato".
+
+Durante la prueba de nombrar imágenes, uno de las palabras meta fue "[[KEEP|sol]]" (la imagen del sol en el cielo). [[CHILD|Teo]] produjo [[KEEP|[tol]]], sustituyendo el sonido [[KEEP|/s/]] inicial con [[KEEP|/t/]], un ejemplo claro de anteriorización. En otra palabra meta, "casa", produjo [[KEEP|[tata]]].
+
+Calculamos un porcentaje de consonantes correctas de [[KEEP|80%]] en habla espontánea, y [[CHILD|Teo]] produjo correctamente [[KEEP|8/10]] palabras de una lista de palabras de alta frecuencia cuando se le dieron claves de articulación con nivel de apoyo moderado ([[KEEP|mod cues]]). Sin apoyo, su precisión bajó a [[KEEP|3 de 10]].
+
+Su inteligibilidad para oyentes familiares fue calificada como moderadamente reducida; para oyentes que no lo conocen, como severamente reducida.
+
+**Observaciones conductuales**
+
+[[CHILD|Teo]] se mostró sociable y curioso durante toda la sesión. Buscó la aprobación de sus padres con frecuencia y miró a su madre antes de intentar palabras difíciles. En un momento, mientras veía una foto familiar en la sala de espera, señaló la foto y dijo "[[SIBLING|Sol]] no está aquí", refiriéndose a que su hermana no estaba presente ese día. [[CHILD|Teo]] se frustró brevemente cuando no pudimos entender una palabra, pero se calmó rápidamente cuando le ofrecimos opciones visuales.
+
+No observamos conductas que sugirieran dificultades de atención, interacción social o juego más allá de lo esperado para su edad. Su juego simbólico y su contacto visual fueron apropiados para su edad.
+
+**Impresiones clínicas**
+
+Según los resultados de las pruebas estandarizadas, la observación clínica, y la información de los padres y de la maestra, [[CHILD|Teo]] cumple con los criterios para un trastorno mixto del lenguaje receptivo-expresivo (CIE-10 [[KEEP|F80.2]]), con un trastorno fonológico concurrente. Sus dificultades están presentes en ambos idiomas, lo cual indica un trastorno del lenguaje real y no simplemente una diferencia esperada por el bilingüismo.
+
+Las dificultades de [[CHILD|Teo]] con el habla y el lenguaje probablemente contribuyen a sus dificultades para comunicarse con compañeros como [[PEER|Ava]] y [[PEER|Noah]] en [[DAYCARE|Little Learners Daycare]], y pueden afectar su participación en el salón de clases si no se atienden ahora.
+
+**Recomendaciones**
+
+1. Recomendamos terapia de habla y lenguaje individual, dos veces por semana, de 30 minutos cada sesión, facturada bajo el código [[KEEP|CPT 92507]]. Esta evaluación se facturó bajo el código [[KEEP|CPT 92523]].
+
+2. Recomendamos que la terapia use un enfoque de [[KEEP|Cycles]] para los patrones fonológicos identificados, junto con elementos de [[KEEP|PROMPT]] para apoyar la producción motora del habla.
+
+3. Recomendamos continuar trabajando hacia el [[KEEP|Resultado 2 del IFSP]] de comunicación funcional, y añadir un nuevo [[KEEP|Objetivo 3]] enfocado en la claridad del habla en ambos idiomas.
+
+4. Recomendamos coordinación continua con la terapeuta ocupacional, [[PROVIDER|Diana López]], OTR/L, y con el fisioterapeuta, [[PROVIDER|Jorge Martínez]], PT, quienes también atienden a [[CHILD|Teo]], para asegurar que las metas de todos los proveedores estén alineadas.
+
+5. Recomendamos que el equipo de [[DAYCARE|Little Learners Daycare]], incluyendo a la Sra. [[TEACHER|Karen Phillips]], reciba estrategias simples de apoyo de lenguaje para usar durante el juego y las actividades en grupo.
+
+6. Recomendamos una reevaluación en seis meses para medir el progreso y ajustar las metas según sea necesario.
+
+**Cierre**
+
+Entendemos que recibir esta información puede ser difícil. Queremos que sepan que [[CHILD|Teo]] es un niño alegre, curioso y cariñoso, y que con el apoyo correcto puede progresar mucho. Estamos disponibles para responder cualquier pregunta que tengan sobre este informe o sobre los próximos pasos.
+
+Pueden comunicarse con nuestra oficina al [[PHONE|(919) 555-0199]] o por correo electrónico a [[EMAIL|pnunez@piedmontspeech.com]]. También pueden comunicarse con la coordinadora de servicios, [[PROVIDER|Mónica Díaz]], en [[AGENCY|Piedmont CDSA]], si tienen preguntas sobre el IFSP o los servicios de intervención temprana.
+
+Gracias nuevamente por su confianza. Esperamos trabajar junto a ustedes y a [[CHILD|Teo]] en este próximo paso.
+
+Atentamente,
+
+[[PROVIDER|Patricia Núñez]], MS, CCC-SLP
+Patóloga del habla y el lenguaje, bilingüe español-inglés
+Clínica de Lenguaje y Habla [[EMPLOYER|Piedmont]]
+[[PHONE|(919) 555-0199]]
+[[EMAIL|pnunez@piedmontspeech.com]]

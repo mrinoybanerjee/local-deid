@@ -1,0 +1,38 @@
+Patient Name: [[CHILD|Mateo Alejandro Ruiz]]
+DOB: [[DATE|04/18/2021]]
+Medicaid ID: [[MEDICAID_ID|8827461039B]]
+Record ID: [[ID|LDR-55210]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|10:15 AM]]–[[TIME|11:00 AM]]
+Location: [[HOSPITAL|Carolina Pines Health System]], [[HOSPITAL|Fayette Campus Pediatric ENT & Audiology]]
+Clinician: [[PROVIDER|Elena Suárez, M.S., CCC-SLP]]
+Interpreter: not needed, clinician bilingual
+Referring Physician: [[PROVIDER|Dr. Howard Keitel]]
+CPT Code: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.1]]
+
+SUBJECTIVE:
+[[CHILD|Mateo]] arrived with his babysitter, [[FAMILY|Priscilla Dunn]], who reported he slept poorly the night before after visiting his cousin [[FAMILY|Joaquín Vega]]. His mother, [[PARENT|Carolina Ruiz]], called ahead to note [[CHILD|Mateo]]'s dog, [[PET|Canela]], had been barking all night, which [[PERSON|she]] believes affected his sleep. [[PARENT|Carolina]] also mentioned that [[CHILD|Mateo]]'s older sister, [[SIBLING|Valentina]], has been practicing Spanish songs with him at home, which may be supporting his bilingual input.
+
+OBJECTIVE:
+[[CHILD|Mateo]] (age [[KEEP|4;6]]) was seen for individual speech-language therapy targeting articulation and expressive language in English and Spanish. Session began at [[TIME|10:15]] with a brief check-in. [[CHILD|Mateo]] was cooperative, required [[KEEP|mod cues]] for task initiation, and demonstrated improved joint attention compared to last visit.
+
+Articulation: Using a picture-based protocol adapted from the [[KEEP|Goldman-Fristoe]] 2, [[CHILD|Mateo]] produced /k/ correctly in [[KEEP|7/10]] trials, improved from baseline. He substituted [w] for /ɾ/ in Spanish words, producing "ca[[[[r]]]]o" as [[KEEP|"caso"]] with [[KEEP|min cues]]. Target word "[[KEEP|perro]]" elicited [[KEEP|[w]]] substitution; clinician modeled correct placement using [[KEEP|PROMPT]] touch cues.
+
+Language: Administered select subtests from the [[KEEP|Rossetti Infant-Toddler Language Scale]] and portions of the [[KEEP|Peabody Picture Vocabulary Test]]. [[KEEP|Auditory Comprehension]] standard score [[KEEP|85]] (range [[KEEP|73-83]] prior administration, improved), age equivalent [[KEEP|2;6–3;0]]. Expressive scores fell within [[KEEP|78-88]], percentile [[KEEP|16th]]. Confidence interval [[KEEP|90% CI: 80-96]].
+
+Developmental history reviewed: gestational age [[KEEP|36 weeks]], birth weight [[KEEP|5 lbs 4 oz]], Apgar scores [[KEEP|7 and 9]]. [[CHILD|Mateo]] was followed in the [[HOSPITAL|Carolina Pines NICU]] for two weeks post-birth per prior records from [[PROVIDER|Dr. Keitel]].
+
+[[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Bilingual Daycare]] in [[PLACE|Fuquay-Varina]], where his teacher, [[TEACHER|Ms. Donna Pruitt]], reports he plays well with classmates [[PEER|Ezekiel Moss]] and [[PEER|Ximena Castillo]] but avoids group singing time.
+
+ASSESSMENT:
+[[CHILD|Mateo]] continues to demonstrate mild-moderate speech sound disorder with cross-linguistic transfer patterns consistent with typical bilingual development, per findings also referenced from an earlier [[KEEP|Bayley-4]] administration showing cognitive scores within [[KEEP|90-100]]. Progress noted toward IFSP Outcome [[KEEP|2]] (functional communication) and Outcome [[KEEP|3]] (speech intelligibility).
+
+PLAN:
+Continue weekly therapy using [[KEEP|Cycles]] approach alternating English/Spanish targets. Recommend home practice using [[KEEP|Hanen]]-based strategies; [[PARENT|Carolina]] and babysitter [[FAMILY|Priscilla Dunn]] both to receive handout. Service coordinator [[PROVIDER|Brenda Alcaraz]] from [[AGENCY|Harnett County CDSA]] will schedule the next IFSP review for [[DATE|January 14, 2027]]. Family may also contact [[AGENCY|Smart Start of Harnett County]] regarding additional playgroup referrals.
+
+Next session scheduled [[DATE|October 16, 2026]] at [[TIME|10:00 AM]].
+
+Clinician signature: [[PROVIDER|Elena Suárez, M.S., CCC-SLP]]
+Contact: [[PHONE|(910) 555-2187]] | [[EMAIL|esuarez@carolinapineshs.org]]
+Employer: [[EMPLOYER|Carolina Pines Speech & Audiology Associates]]

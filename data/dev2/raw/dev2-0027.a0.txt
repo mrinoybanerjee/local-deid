@@ -1,0 +1,52 @@
+NOTA DE SESIÓN – TERAPIA DE HABLA Y LENGUAJE
+
+DATOS GENERALES
+- Cliente: [[CHILD|Mateo Fuentes]]
+- Fecha de sesión: [[DATE|6 de octubre de 2026]]
+- Hora: [[TIME|3:30 p.m.]]
+- Lugar: [[SCHOOL|Escuela Primaria Pinecrest]], [[PLACE|Distrito Escolar de las Escuelas Públicas del Condado de Cumberland]]
+- Maestra: Sra. [[TEACHER|Marisol Peña]], salón de [[TEACHER|la Sra. Peña]]
+- Terapeuta: [[PROVIDER|Laura Jiménez]], CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+- Intérprete: [[PROVIDER|Diana Osorio]]
+- ID de caso: [[ID|NC-4471928-B]]
+- Medicaid: [[MEDICAID_ID|887456321A]]
+
+ANTECEDENTES
+- [[CHILD|Mateo]] tiene [[KEEP|4;2]] años; nació con peso de [[KEEP|2,850 gramos]] y Apgar de [[KEEP|8/9]].
+- Vive con su mamá [[PARENT|Rosa Fuentes]] y su papá [[PARENT|Will Fuentes]].
+- Hermana: [[SIBLING|Luz Fuentes]], de 6 años.
+- Abuela materna (cuidadora): [[FAMILY|Paz Hernández]].
+- Mamá trabaja en la [[ORG|Tienda Dollar General]]; papá trabaja en la [[ORG|Planta Smithfield Foods]].
+- La abuela trabaja en el [[ORG|Restaurante El Compadre]].
+
+PRUEBAS Y RESULTADOS PREVIOS
+- Evaluación [[KEEP|Rossetti Infant-Toddler Language Scale]]: edad equivalente de [[KEEP|26 meses]].
+- [[KEEP|Goldman-Fristoe Test of Articulation-3]]: puntaje estándar [[KEEP|78]], percentil [[KEEP|7]].
+- [[KEEP|Peabody Picture Vocabulary Test-5]]: puntaje estándar [[KEEP|82]], IC [[KEEP|76-88]].
+- [[KEEP|Bayley Scales of Infant Development-4]], subescala de comunicación: equivalente de edad [[KEEP|22 meses]].
+
+S (SUBJETIVO)
+- [[PARENT|Rosa]] reporta que [[CHILD|Mateo]] dice "[[KEEP|agua]]" como "[[KEEP|[awa]]]" en casa.
+- La hermana [[SIBLING|Luz]] ayuda a practicar palabras con él después de la escuela.
+- Compañero de clase [[PEER|Jayden]] fue mencionado como amigo con quien juega en el recreo.
+
+O (OBJETIVO)
+- Meta IFSP [[KEEP|#3]]: producir /[[KEEP|k]]/ inicial con [[KEEP|mod cues]], logrado en [[KEEP|7/10]] ensayos.
+- Producción objetivo: "[[KEEP|casa]]" → [[KEEP|[tasa]]]; mejoró a "[[KEEP|[kasa]]]" con [[KEEP|min cues]].
+- Uso de [[KEEP|PECS]] para solicitar objetos: [[KEEP|3 de 5]] intentos independientes.
+- Fonema /[[KEEP|ɾ]]/ en posición medial: ausente; sustituido por [[KEEP|/d/]].
+- CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.1]].
+
+A (ANÁLISIS)
+- Progreso leve en inteligibilidad ([[KEEP|65%]] con contexto conocido).
+- Se recomienda continuar con enfoque [[KEEP|PROMPT]] y ciclos fonológicos ([[KEEP|Cycles]]).
+
+P (PLAN)
+- Próxima cita: [[DATE|13 de octubre de 2026]], [[TIME|3:30 p.m.]].
+- Coordinadora de servicios: [[PROVIDER|Yolanda Marín]], [[AGENCY|CDSA del Área de Cumberland]].
+- Contacto: [[PHONE|(910) 555-2847]], [[EMAIL|ljimenez@carolinapediatricspeech.org]].
+- Se enviará referido a pediatra [[PROVIDER|Dr. Esteban Rivas]], [[HOSPITAL|Cape Fear Valley Health]].
+- Dirección de la familia: [[PLACE|214 Maple Ridge Court]], [[PLACE|Fayetteville]], [[PLACE|NC]] [[PLACE|28303]].
+- Papá menciona que la [[ORG|Compañía de Construcción Reyes]] le ofreció más horas; posible cambio de horario.
+- Mamá también trabaja medio tiempo con [[ORG|Servicio de Limpieza Estrella]].
+- Granja de la familia extendida: [[ORG|Granja Avícola Carolina del Este]], donde trabaja el tío.

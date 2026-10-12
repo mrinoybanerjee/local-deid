@@ -1,0 +1,42 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE / Nota diaria
+
+Client: [[CHILD|Emilio Navarro Cruz]]; nickname: [[CHILD|Milo]]
+DOB: [[DATE|11/18/2022]]; age: [[KEEP|2;3]]
+Service: [[DATE|03/03/2025]], [[DATE|3 de marzo de 2025]]
+Start: [[TIME|9:05 a.m.]] Stop: [[TIME|9:50 a.m.]]
+[X] Home  [ ] Daycare  [X] Individual  [X] Bilingual
+Location: [[PLACE|417 Lantern Finch Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|27904]]
+Record: [[ID|SLP-250303-6842]]; Medicaid: [[MEDICAID_ID|683947251R]]
+Clinician: [[PROVIDER|Camila Serrano Vega]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Cedarleaf Pediatric Communication Services]]
+
+SUBJETIVO / Family report
+
+Su mamá [[PARENT|Elena Navarro]] attended; papá [[PARENT|Julián Cruz]] joined by telephone. Mother stated, “Ahora pide ayuda cuando la caja no abre, pero todavía se frustra.” Father reported better participation during breakfast at [[TIME|7:30 a.m.]]. Sister [[SIBLING|Inés Cruz]] modeled turn-taking; abuela [[FAMILY|Marisol Vega]] observed briefly. The family dog, [[PET|Chispa]], remained outside.
+
+Mother described a referral from Dr. [[PROVIDER|Adrián Montes]] at [[HOSPITAL|Willowcrest Health Pediatric Clinic—Juniper Campus]], following discharge from [[HOSPITAL|Willowcrest Health NICU—Juniper Campus]]. Reported birth history: gestational age [[KEEP|35 weeks]], birth weight [[KEEP|2,180 g]], Apgar scores [[KEEP|7]] and [[KEEP|9]]. These details were reported, not independently verified today.
+
+OBJETIVO / Lo que trabajamos
+
+[X] Play routines  [X] Parent coaching  [X] Speech sampling
+[ ] Feeding  [ ] Interpreter required
+
+Reviewed evaluation dated [[DATE|2025-02-14]]: [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|81]], percentile [[KEEP|10]], confidence interval [[KEEP|75–88]], age equivalent [[KEEP|1;10–2;2]]. [[KEEP|Expressive Communication]] standard score [[KEEP|78]], percentile [[KEEP|7]]. Results require cautious interpretation across languages.
+
+During blocks and snack play, [[CHILD|Emilio]] requested [[KEEP|"más"]], [[KEEP|"open"]], and [[KEEP|"ayuda"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|40%]] of opportunities. Following one-step directions improved to [[KEEP|3 of 5]] with gestures and [[KEEP|min cues]]. Clinician used [[KEEP|Hanen]] strategies: wait, observe, and expand. Mother practiced waiting through several quiet moments; el silencio helped him initiate instead of reaching immediately.
+
+Speech targets included [[KEEP|/k/]], [[KEEP|/ɾ/]], and [[KEEP|"casa"]]. Productions included [[KEEP|"tasa"]] and [[KEEP|[w]]]. One sample received [[KEEP|[EW]]] coding. He said “[[PET|Chispa]] run” while pointing toward the door. No forced repetition; se aceptaron ambas lenguas.
+
+ASSESSMENT / Impresión clínica
+
+[[CHILD|Milo]] benefited from predictable routines and visual choices. Engagement decreased when materials changed quickly. Parent coaching supported successful repair attempts without increasing frustration. Progress addresses IFSP goal [[KEEP|2]]; generalization remains emerging. Classroom report from Ms. [[TEACHER|Rosa Beltrán]] at [[DAYCARE|Little Lantern Learning House]] described parallel play with [[PEER|Nora Salcedo]]. Cousin [[FAMILY|Tomás Vega]] will practice the same pause routine. Family priorities remain requesting help and participating comfortably in shared play.
+
+PLAN / Próximos pasos
+
+[X] Continue weekly  [X] Home practice reviewed
+Practice [[KEEP|"help"]] and [[KEEP|"abre"]] during familiar activities with [[KEEP|min cues]]. Coordinator [[PROVIDER|Nadia Ríos]] will review supports from the [[AGENCY|Briarhaven County WIC Family Office]] in [[PLACE|Briarhaven County]]. Mother referenced an earlier intake on [[DATE|el martes 4 de junio de 2024]]. Next visit: [[DATE|03-10-2025]] at [[TIME|9:00 a.m.]].
+
+Contact: [[PHONE|(252) 555-0148]]; [[EMAIL|camila.serrano@cedarleaf.example]]
+Portal: [[URL|https://portal.cedarleaf.example]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]], ICD-10 [[KEEP|F80.2]]
+Signed: [[PROVIDER|Camila Serrano Vega]], [[DATE|3/3/2025]] at [[TIME|11:15 a.m.]]

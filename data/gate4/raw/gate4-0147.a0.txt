@@ -1,0 +1,150 @@
++ Name: [[CHILD|Emilio Rafael Varela]]
++ Nickname: [[CHILD|Milo]]
++ CA: [[KEEP|4;2]]
++ DOB: [[DATE|August 6, 2022]]
++ Evaluation date: [[DATE|October 8, 2026]]
++ Context: Bilingual pediatric speech-language assessment; clinic play, caregiver interview, school observation, and structured tasks.
++ Languages: Spanish and English.
++ Examiner: [[PROVIDER|Marisol Vega]], MS, CCC-SLP, bilingual pediatric speech-language pathologist.
++ Employer: [[EMPLOYER|Juniper Lantern Pediatric Communication]]
++ Clinic: [[PLACE|1847 Lantern Finch Lane]], [[PLACE|Larkhaven]], North Carolina [[PLACE|27864]]
++ Telephone: [[PHONE|(919) 555-0142]]
++ Email: [[EMAIL|mvega@juniperlantern.example.invalid]]
++ Website: [[URL|https://juniperlantern.example.invalid]]
++ Record: [[ID|JLPC-26-0418]]
++ Medicaid member: [[MEDICAID_ID|582640193K]]
++ Authorization: [[ID|AUTH-NC-604218]]
++ Referral: Dr. [[PROVIDER|Nadia Cordero]], [[HOSPITAL|Willow Lantern Children’s Hospital]]
++ School district: [[SCHOOL|Larkhaven Meadow School District]]
++ School: [[SCHOOL|Copperleaf Early Learning School]]
++ Classroom: [[TEACHER|Elena Pardo]]’s bilingual preschool classroom.
+
+Resumen / Summary
+
+[[CHILD|Emilio]] presents with reduced speech intelligibility and difficulty organizing longer messages across Spanish and English. He communicates readily through gestures, short sentences, facial expression, and shared play. His participation improves when the listener allows extra response time and offers visual support. His family identifies being understood during meals, school transitions, and sibling play as the main priorities.
+
+Findings support a speech sound disorder and concern for an expressive language disorder. His skills vary across languages and activities. English scores describe performance under the stated conditions; they do not independently establish a disorder. The clinical conclusion also considers Spanish sampling, caregiver history, classroom participation, and response to teaching. Continued bilingual assessment will clarify his language profile.
+
+Antecedentes / Background and referral
+
+Su mamá, [[PARENT|Lucía Varela]], requested evaluation because familiar listeners sometimes need repeated attempts to understand daily requests. She explained, “Él tiene mucho que decir, pero la palabra sale cortita.” His father, [[PARENT|Daniel Varela]], reported that communication breakdowns occur most often when the topic is unexpected.
+
+The family previously received early intervention through [[AGENCY|Piedra Clara Children’s Developmental Services Agency]]. Service coordinator [[PROVIDER|Inés Mercado]] supplied a discharge summary dated [[DATE|September 2, 2025]]. The prior plan listed [[KEEP|IFSP outcome 2]], requesting help during routines, and [[KEEP|IFSP outcome 4]], combining words during shared play.
+
+Current concerns increased after preschool entry. Ms. [[TEACHER|Pardo]] observes that [[CHILD|Milo]] joins activities willingly but sometimes leaves a conversation when peers request clarification. The referral asks whether this pattern reflects language exposure, a communication disorder, or both. This report addresses communication access and treatment needs without treating bilingual development as a deficit.
+
+Historia de nacimiento y salud / Birth and medical history
+
+Caregivers reported delivery at [[KEEP|39 weeks, 1 day]] at [[HOSPITAL|Willow Lantern Children’s Hospital]] in [[PLACE|Larkhaven]], North Carolina. Birth weight was [[KEEP|3,280 g]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. The family reported no neonatal respiratory support, feeding tube, or prolonged admission.
+
+Early feeding included breast and bottle feeding. Caregivers recalled comfortable swallowing and gradual acceptance of varied textures. Current concerns involve limited food preferences, without reported coughing, choking, or recurrent chest illness. Feeding was discussed but was not formally assessed.
+
+Two episodes of middle-ear infection were reported during toddlerhood. Audiologist [[PROVIDER|Teresa Neri]] documented hearing adequate for speech access on [[DATE|September 18, 2026]]. Caregivers reported no current medications or known allergies.
+
+A developmental record from [[DATE|November 15, 2024]] included the [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]]. An early communication note used the [[KEEP|Rossetti Infant-Toddler Language Scale]]. These historical measures were reviewed for developmental context. Neither was administered today, and their earlier findings were not substituted for current results.
+
+Historia familiar y de idiomas / Family and language history
+
+[[CHILD|Emilio]] lives with both parents and his sister, [[SIBLING|Sol]], who is [[KEEP|7 years]] old. His grandmother, [[FAMILY|Beatriz Salcedo]], provides care after school. A regular babysitter, [[FAMILY|Rosa Téllez]], supports occasional evening routines. The family’s dog is named [[PET|Chispa]].
+
+Spanish predominates during meals, family calls, and bedtime. English increases during preschool activities and neighborhood play. Caregivers estimate exposure at approximately [[KEEP|60%]] Spanish and [[KEEP|40%]] English, with substantial variation by day. These estimates describe opportunities for interaction, not language proficiency.
+
+His mother works at [[ORG|Meadowglass Textile Cooperative]]. His father works at [[ORG|Cedar Finch Repair Works]]. Their schedules influence which caregiver attends appointments. The family prefers spoken explanations in Spanish and written summaries in both languages.
+
+The family reported first meaningful words around [[KEEP|18 months]] and spontaneous combinations around [[KEEP|30 months]]. His grandmother noted, “Entiende lo de la casa; contar lo que pasó le cuesta.” Caregivers describe similar difficulty explaining events in either language. No family member was instructed to reduce Spanish use. Maintaining comfortable, responsive conversation in both languages remains a treatment priority.
+
+Horario de sesiones / Session schedule
+
+The following recurring schedule is proposed, subject to school and caregiver coordination.
+
+| Day | Start | Stop | Location | Focus |
+|---|---|---|---|---|
+| Monday | [[TIME|8:15 a.m.]] | [[TIME|8:45 a.m.]] | [[EMPLOYER|Juniper Lantern Pediatric Communication]], [[PLACE|Larkhaven]] | Individual bilingual treatment |
+| Wednesday | [[TIME|10:10 a.m.]] | [[TIME|10:40 a.m.]] | [[SCHOOL|Copperleaf Early Learning School]], Ms. [[TEACHER|Pardo]]’s classroom | Classroom participation |
+| Friday | [[TIME|3:30 p.m.]] | [[TIME|4:00 p.m.]] | [[EMPLOYER|Juniper Lantern Pediatric Communication]], [[PLACE|Larkhaven]] | Caregiver coaching and play |
+
+The evaluation began at [[TIME|9:05 a.m.]] and ended at [[TIME|10:25 a.m.]]. A movement break occurred at [[TIME|9:45 a.m.]]. School observation occurred on [[DATE|October 7, 2026]], from [[TIME|10:00 a.m.]] to [[TIME|10:30 a.m.]]. Caregivers described communication during breakfast at [[TIME|7:10 a.m.]] and bedtime reading at [[TIME|7:45 p.m.]].
+
+Procedimientos / Assessment conditions
+
+Assessment included caregiver interview, oral mechanism screening, play observation, speech sampling, dynamic teaching, and selected standardized measures. Spanish and English were sampled in separate activities and in natural code-switching. The clinician accepted responses in either language during informal tasks.
+
+The [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] was administered in English under standard conditions. Its English normative comparisons have limited applicability to this bilingual child. Spanish explanations were offered after scored items, during separate teaching activities, and were excluded from standardized scoring.
+
+The [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]] provided an English single-word sample. The [[KEEP|Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)]] sampled English receptive vocabulary. These measures do not capture his full conceptual vocabulary across languages.
+
+[[CHILD|Milo]] initially watched quietly, then engaged with animals, blocks, and pretend cooking. He needed [[KEEP|min cues]] to return after the break. Attention was sufficient for selected tasks, although fatigue increased near the end. The oral mechanism screening showed functional movement for sampled speech tasks; it was not an instrumental examination.
+
+Resultados / Score table
+
+Confidence intervals below use the [[KEEP|90%]] level. Age equivalents are descriptive estimates and should not guide placement or diagnosis alone.
+
+| Measure | Test or subtest | Score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] | [[KEEP|Auditory Comprehension]] | Standard score [[KEEP|84]] | [[KEEP|14th percentile]] | [[KEEP|79–90]] | [[KEEP|3;7]] |
+| [[KEEP|PLS-5]] | [[KEEP|Expressive Communication]] | Standard score [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|71–83]] | [[KEEP|3;0]] |
+| [[KEEP|PLS-5]] | [[KEEP|Total Language]] | Standard score [[KEEP|79]] | [[KEEP|8th percentile]] | [[KEEP|74–85]] | [[KEEP|3;3]] |
+| [[KEEP|GFTA-3]] | [[KEEP|Sounds-in-Words]] | Standard score [[KEEP|71]] | [[KEEP|3rd percentile]] | [[KEEP|67–78]] | Not interpreted |
+| [[KEEP|PPVT-5]] | Receptive vocabulary measure | Standard score [[KEEP|85]] | [[KEEP|16th percentile]] | [[KEEP|80–91]] | [[KEEP|3;6]] |
+
+Comprensión y expresión / Language findings
+
+During familiar Spanish routines, [[CHILD|Emilio]] followed related directions in [[KEEP|8/10]] opportunities without repetition. Performance decreased to [[KEEP|3 of 5]] when directions included an unfamiliar location term. Visual demonstration improved performance to [[KEEP|5 of 5]]. This suggests benefit from contextual support, rather than a uniform difficulty understanding spoken language.
+
+English responses included labeling, requesting, and simple location information. Spanish responses showed broader vocabulary for household routines. He sometimes selected a word from the other language: [[KEEP|"quiero more agua"]]. This code-switching was accepted as meaningful communication.
+
+Longer messages contained omissions and unclear references. During pretend cooking, he said [[KEEP|"yo pon aquí"]], then pointed to a bowl. With [[KEEP|mod cues]], he expanded to [[KEEP|"yo pongo sopa aquí"]]. After a model, he produced [[KEEP|"the dog is sleeping"]], but did not consistently generate similar sentence structures independently.
+
+In a picture sequence, he identified the main event but needed [[KEEP|max cues]] to explain the cause. He improved after demonstration and guided practice. The improvement shows learning potential, while continued support needs indicate that a single successful imitation should not be treated as mastery.
+
+Habla y muestra SALT / Speech and language sample
+
+Speech included inconsistent omissions of final consonants and reduced production of velar consonants. Substitutions of [[KEEP|/t/]] for [[KEEP|/k/]] occurred in both language samples. English [[KEEP|/ɹ/]] and Spanish [[KEEP|/ɾ/]] were observed separately; they were not treated as interchangeable targets.
+
+Caregiver-estimated intelligibility was [[KEEP|75%]] for familiar listeners. The clinician understood approximately [[KEEP|55%]] of connected speech with contextual support. These estimates were informal and should not be compared directly with standardized scores.
+
+A phonetic transcription documented [[KEEP|[w]]] during an English liquid production. With [[KEEP|mod cues]], correct initial [[KEEP|/k/]] occurred in [[KEEP|6/10]] attempts. Accuracy decreased during spontaneous phrases.
+
+A sample entry recorded [[KEEP|"him go home"]] with [[KEEP|[EW]]]. Another recorded [[KEEP|"yo quiero carro"]]. The target word [[KEEP|"sol"]] referred to the sun in a picture. His sister’s name, [[SIBLING|Sol]], was discussed separately because the shared word form could affect interpretation.
+
+During pet play, he said “[[PET|Chispa]] corre.” During family play, he said “[[SIBLING|Sol]] come.” These productions demonstrated meaningful references to familiar individuals.
+
+Participación / Classroom and social communication
+
+Ms. [[TEACHER|Pardo]] reported that [[CHILD|Milo]] responds to greetings, notices peers’ activities, and seeks shared materials. Classroom aide [[TEACHER|Joel Ledesma]] observed stronger participation when an adult previews the activity.
+
+During observation, classmate [[PEER|Alma Ríos]] offered a pretend cup. [[CHILD|Emilio]] accepted it and continued the play sequence. Classmate [[PEER|Nico Beltrán]] requested a block, and the child responded through pointing and a short verbal message. These exchanges showed social interest and reciprocal participation.
+
+Communication breakdowns increased during rapid group discussion. A visual choice board helped him clarify his message with [[KEEP|min cues]]. No diagnosis concerning social communication was established from this observation.
+
+Impresiones clínicas / Clinical impressions
+
+The combined evidence supports reduced speech clarity across languages, with errors that affect daily participation. Differences between Spanish and English sound systems were considered before selecting targets. Bilingual exposure alone does not explain the observed shared speech difficulties.
+
+Expressive language concerns also appear across caregiver reports, language samples, and classroom activities. Receptive skills are stronger in familiar contexts. Additional Spanish assessment and repeated natural samples will help separate limited task familiarity from persistent language difficulty.
+
+Working diagnostic codes are [[KEEP|F80.0]] for phonological disorder and provisional [[KEEP|F80.1]] for expressive language disorder. The second code remains subject to further bilingual evidence. Strengths include social engagement, gesture use, family participation, and improvement with supported teaching.
+
+Recomendaciones / Recommendations
+
+1. Begin bilingual treatment using the proposed schedule. Address functional speech clarity and sentence formulation through familiar play and routines. Use [[KEEP|Cycles]] principles selectively for recurring sound patterns, with targets appropriate to each language.
+
+2. Teach initial [[KEEP|/k/]] in meaningful words and short phrases. Establish baseline accuracy before setting the next criterion. A preliminary objective is [[KEEP|8/10]] accurate productions with [[KEEP|min cues]], across repeated sessions.
+
+3. Support descriptions of actions and recent events. Aim for complete messages in [[KEEP|4 of 5]] structured opportunities with [[KEEP|mod cues]], then reduce assistance as independence improves.
+
+4. Provide caregiver coaching informed by [[KEEP|Hanen]] strategies. Follow the child’s interest, pause for a response, and expand the message naturally. Families may respond in the language that feels most comfortable.
+
+5. Use classroom visuals, advance previews, and extra response time. Invite clarification without requiring repeated public correction. Practice repair phrases such as [[KEEP|"otra vez"]], [[KEEP|"quiero decir"]], and [[KEEP|"let me show you"]].
+
+6. Review progress on [[DATE|January 14, 2027]]. Compare spontaneous communication, caregiver priorities, and classroom access. Repeat formal testing only when clinically justified.
+
+Documentación y cierre / Documentation and follow-up
+
+Evaluation billing: [[KEEP|CPT 92523]] with modifier [[KEEP|GN]]. Proposed treatment billing: [[KEEP|CPT 92507]] with modifier [[KEEP|GN]]. Attendance and authorization limits require separate administrative verification.
+
+The clinician reviewed findings with both parents in Spanish and English. The family requested examples they can use during meals and reading. They agreed that clearer everyday messages matter more than practicing isolated words alone.
+
+Signed: [[PROVIDER|Marisol Vega]], MS, CCC-SLP  
+[[EMPLOYER|Juniper Lantern Pediatric Communication]]  
+Report completed: [[DATE|October 9, 2026]]

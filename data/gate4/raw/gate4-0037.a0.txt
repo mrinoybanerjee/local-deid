@@ -1,0 +1,159 @@
+SPEECH-LANGUAGE EVALUATION REPORT
+
+Document status: Fictional clinical record created for de-identification testing
+
+Client: [[CHILD|Mateo Julian Rivas Salcedo]]
+Preferred name: [[CHILD|Teo]]
+Date of birth: [[DATE|August 8, 2022]]
+Age at evaluation: [[KEEP|4;2]]
+Evaluation date: [[DATE|October 8, 2026]]
+Report date: [[DATE|October 11, 2026]]
+Session time: [[TIME|9:15 AM]] to [[TIME|11:00 AM]]
+Record number: [[ID|LLBT-2601087]]
+Medicaid member number: [[MEDICAID_ID|946281735Q]]
+Authorization number: [[ID|NCST-68274109]]
+Parent contacts: [[PARENT|Guadalupe Elena Salcedo]] and [[PARENT|Jesus Adrian Rivas]]
+Home address: [[PLACE|418 Lantern Finch Lane]], [[PLACE|Maple Quay]], North Carolina [[PLACE|27900]]
+Telephone: [[PHONE|(919) 555-0136]]
+Email: [[EMAIL|rivas.salcedo@example.com]]
+School: [[SCHOOL|Lantern Marsh Preschool]]
+Previous daycare: [[DAYCARE|Little Acorn Cove Daycare]]
+Evaluating clinician: [[PROVIDER|Nadia Solano Bell]], MS, CCC-SLP, bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Silver Finch Pediatric Language Therapy]]
+Office: [[PLACE|62 Meadow Glass Court]], [[PLACE|Maple Quay]], North Carolina [[PLACE|27900]]
+Office telephone: [[PHONE|(984) 555-0142]]
+Website: [[URL|https://silverfinchtherapy.example.com]]
+Billing references: CPT [[KEEP|92523]]; modifier [[KEEP|GN]]
+Diagnostic considerations: ICD-10 [[KEEP|F80.2]] and [[KEEP|F80.0]]
+
+BACKGROUND AND REFERRAL
+
+[[CHILD|Mateo]] was referred because his family and preschool staff reported difficulty understanding directions, explaining needs, and producing clear speech. His mother, [[PARENT|Guadalupe Elena Salcedo]], uses the nickname [[PARENT|Lupita]]. His father, [[PARENT|Jesus Adrian Rivas]], uses [[PARENT|Chuy]]. Both parents attended the interview. His mother remained during testing, while his father joined the closing discussion by telephone.
+
+The family wants [[CHILD|Teo]] to ask for help, describe events, and participate comfortably with other children. They reported frustration when listeners request repeated explanations. He sometimes points, leads an adult toward an object, or stops speaking after an unsuccessful repair. These responses occur in both home languages.
+
+Preschool teacher Ms. [[TEACHER|Elena Duarte]] reported that the child follows familiar classroom routines more easily than new spoken directions. Classroom assistant Mr. [[TEACHER|Lorenzo Neri]], identified as [[TEACHER|L.N.]] on the referral, noted strong interest in construction toys and pretend cooking.
+
+The referral came through [[AGENCY|Marshlight County Child Development Services Agency]]. Service coordinator [[PROVIDER|Celia Moreno Webb]] supplied the prior transition summary. The family previously received support from [[AGENCY|Marshlight Family WIC Center]] and [[AGENCY|Maple Quay Smart Start Partnership]]. Those records provided background only; the current findings reflect this evaluation.
+
+BIRTH AND MEDICAL HISTORY
+
+[[PARENT|Lupita]] reported an uncomplicated pregnancy until monitoring increased near delivery because of maternal blood pressure concerns. [[CHILD|Mateo]] was born at [[KEEP|38 weeks, 2 days]] gestation at [[HOSPITAL|Willow Shoal Community Hospital]]. His reported birth weight was [[KEEP|6 pounds, 11 ounces]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. He did not require respiratory support or a prolonged nursery stay.
+
+Early feeding included breast milk and formula. His mother recalled slow bottle feeding but no persistent coughing, choking, or growth concerns. He currently eats varied family foods. The parents denied swallowing difficulty, recurrent pneumonia, seizures, major injuries, or developmental regression.
+
+The child reportedly sat independently at [[KEEP|7 months]] and walked at [[KEEP|14 months]]. Meaningful single words emerged around [[KEEP|20 months]], with consistent word combinations around [[KEEP|32 months]]. These milestones came from parent recall and were not independently verified.
+
+Pediatrician Dr. [[PROVIDER|Amalia Velez Hart]] follows the child at [[ORG|River Lantern Pediatric Clinic]]. The family reported several ear infections during toddlerhood. An audiology report dated [[DATE|September 17, 2026]] documented hearing adequate for speech access under the conditions tested. Audiologist [[PROVIDER|Jonah Ortiz]], listed as [[PROVIDER|J. Ortiz]], recommended follow-up if new concerns arise.
+
+No daily medication was reported. Sleep and vision concerns were denied. Medical records available for review contained no identified neurologic condition.
+
+FAMILY, EMPLOYMENT, AND LANGUAGE HISTORY
+
+[[CHILD|Mateo]] lives with both parents and his brother, [[SIBLING|Jose Andres Rivas Salcedo]], called [[SIBLING|Pepe]]. His maternal grandmother, [[FAMILY|Rosa Emilia Salcedo]], provides regular care. A family friend and babysitter, [[FAMILY|Maribel Rosas]], signs scheduling messages as [[FAMILY|M.R.]]. The household also includes a dog named [[PET|Rocky]].
+
+The mother works two jobs. Her primary workplace is [[ORG|Willow Basket Store]], which she calls [[ORG|Store Willow Basket]] when arranging English words in Spanish order. Her second employer is identified only as [[ORG|RCS]], a cleaning service. The acronym was not expanded during the interview.
+
+The father currently works at [[ORG|Stone Heron Packaging Plant]], also described as [[ORG|Plant Stone Heron Packaging]]. His recent employment history includes [[ORG|Copper Nest Restaurant]], recorded in Spanish word order as [[ORG|Restaurant Copper Nest]]; [[ORG|Cedar Lantern Farm]], recorded as [[ORG|Farm Cedar Lantern]]; and [[ORG|Hollow Reed Construction Company]], recorded as [[ORG|Construction Company Hollow Reed]]. These workplace names describe family scheduling and language exposure. They do not indicate clinical risk.
+
+Spanish is the main language between the parents and children. English occurs during school activities, television programs, community errands, and some sibling play. The grandmother uses Spanish almost exclusively. The babysitter uses both languages, depending on the activity.
+
+The parents reported that [[SIBLING|Pepe]] sometimes answers his brother in English even when the child starts in Spanish. Neither parent described a sudden language preference change. They want continued development in both languages and do not want therapy to replace Spanish with English.
+
+At preschool, [[CHILD|Teo]] often plays with [[PEER|Juan Esteban Mena]], called [[PEER|Juanito]], and [[PEER|Sofia Lane Cruz]]. Bus driver Mr. [[PERSON|Ramon Silva]] reported that greetings become easier when the same words occur in a familiar routine. This report was considered contextual information rather than a formal assessment.
+
+ASSESSMENT PROCEDURES AND CONDITIONS
+
+[[PROVIDER|Nadia Solano Bell]] completed the evaluation in English and Spanish. Procedures included parent interview, record review, play observation, oral mechanism screening, connected speech sampling, and dynamic teaching activities. English standardized tasks were administered separately from Spanish probes. Interpreter support was unnecessary because the clinician directly evaluated both languages.
+
+The [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]) assessed English receptive and expressive language. The [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]]) sampled English consonant production. Standardized tasks followed administration rules. Spanish responses and teaching trials were documented outside scored items.
+
+The published comparison groups do not fully represent this child's language history. Therefore, the English reference scores describe performance under the test conditions and cannot independently establish a disorder. Conclusions also considered communication in Spanish, exposure history, family observations, and response to teaching.
+
+[[CHILD|Mateo]] entered the room willingly and explored toys. He accepted transitions with a visual schedule. During unfamiliar tasks, he benefited from movement breaks and clear demonstrations. He did not show sustained distress, and participation was adequate for the reported observations.
+
+TEST RESULTS
+
+| Measure | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|73-86]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5]]: [[KEEP|Expressive Communication]] | [[KEEP|80]] | [[KEEP|9th percentile]] | [[KEEP|75-88]] | [[KEEP|3;0]] |
+| [[KEEP|PLS-5]]: [[KEEP|Total Language]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|74-85]] | [[KEEP|3;0]] |
+| [[KEEP|GFTA-3]]: [[KEEP|Sounds-in-Words]] | [[KEEP|74]] | [[KEEP|4th percentile]] | [[KEEP|69-82]] | [[KEEP|2;8–3;0]] |
+
+Confidence intervals are reported at the [[KEEP|90%]] level. Age equivalents summarize performance on particular test tasks. They do not describe the child's overall developmental age and should not determine placement or service intensity.
+
+On informal Spanish probes, familiar object identification was [[KEEP|8/10]]. Understanding simple action sentences was [[KEEP|7/10]]. Following unfamiliar directions with spatial concepts was [[KEEP|3/8]] independently and [[KEEP|6/8]] with [[KEEP|mod cues]]. These probes have no standardized comparison scores.
+
+RECEPTIVE AND EXPRESSIVE LANGUAGE
+
+[[CHILD|Mateo]] understood familiar nouns, common actions, and routine requests in both languages. He located preferred materials and followed familiar cleanup directions. Performance decreased when directions combined an unfamiliar verb, a location term, and an additional action. Repetition alone helped less than a demonstration.
+
+During English testing, he sometimes selected an object associated with the activity rather than the requested object. During Spanish play, he showed similar difficulty when the direction required attention to a changing relationship between objects. This cross-language pattern supports concern beyond limited English exposure.
+
+Expressive communication included gestures, single words, and short combinations. The child requested, protested, greeted, and commented. He named familiar objects more readily than he explained how something happened. Verbs and descriptive words appeared less consistently than nouns.
+
+Examples included [[KEEP|"me want big truck"]], [[KEEP|"no cabe"]], and [[KEEP|"put aqui"]]. The clinician treated language mixing as an expected bilingual behavior. Mixing alone did not indicate impairment. More relevant concerns included limited sentence flexibility and difficulty giving enough information for an unfamiliar listener.
+
+When the dog appeared in a family photograph, he said "[[PET|Rocky]] run." During a pretend telephone activity, he said "[[PARENT|Lupita]] help me." These productions showed meaningful use of familiar names and a clear communicative purpose.
+
+A brief narrative task used pictures depicting a spilled drink. The child identified the main objects but needed [[KEEP|max cues]] to explain the cause and sequence. With a model and picture supports, he produced [[KEEP|"boy spill juice"]]. He later recalled the action with [[KEEP|min cues]].
+
+Dynamic teaching targeted a new action word and a simple sentence frame. Independent performance increased from [[KEEP|2/6]] to [[KEEP|5/6]] after modeling, repetition, and supported practice. This improvement indicates useful learning potential, while the need for structured support remains clinically relevant.
+
+SPEECH SOUND PRODUCTION AND ORAL MECHANISM
+
+The oral mechanism screening showed facial symmetry, functional lip closure, and tongue movement adequate for observed speech tasks. The child managed saliva and presented no obvious structural concern during the screening. This brief observation does not replace a medical examination.
+
+Speech patterns included fronting of velar consonants, cluster reduction, and inconsistent omission of final consonants in English. The target [[KEEP|"cookie"]] was produced as [[KEEP|"tootie"]], with [[KEEP|/k/]] replaced by [[KEEP|[t]]]. The target [[KEEP|"spoon"]] was produced as [[KEEP|"poon"]]. The target [[KEEP|"rabbit"]] included [[KEEP|[w]]] for English [[KEEP|/r/]].
+
+Spanish samples also showed substitutions affecting [[KEEP|/k/]] and [[KEEP|/g/]]. The clinician considered differences between the languages before interpreting individual productions. English final consonant performance was reviewed separately because Spanish offers different opportunities to practice these patterns.
+
+The child produced [[KEEP|/k/]] in isolation during [[KEEP|4/6]] trials with [[KEEP|mod cues]]. Accuracy decreased when the sound entered a word. Unfamiliar listeners understood approximately [[KEEP|60%]] of the connected English sample and [[KEEP|65%]] of the connected Spanish sample. These estimates reflect brief samples and are not standardized scores.
+
+Voice quality and speaking rate were unremarkable during this visit. No consistent stuttering behaviors were observed. The available speech sample did not support a confident conclusion about a motor speech disorder.
+
+PLAY, SOCIAL COMMUNICATION, AND FUNCTIONAL PARTICIPATION
+
+[[CHILD|Teo]] showed shared enjoyment, coordinated eye gaze with gestures, and invited the clinician into pretend play. He used toy food, assigned simple roles, and accepted an adult's new play idea. Communication difficulties increased when the activity required negotiation or explanation.
+
+His teacher described a classroom incident in which [[PEER|Juanito]] moved a bridge from a block structure. The child repeated a short protest but could not explain where the bridge belonged. Ms. [[TEACHER|Duarte]] helped by offering a visual choice and modeling a repair statement.
+
+The mother reported that [[SIBLING|Jose Andres Rivas Salcedo]] often interprets unclear messages for family members. This support reduces immediate frustration, but it can also limit opportunities for the child to repair his own message. The family agreed that adults can pause before asking the brother to interpret.
+
+A prior IFSP, dated [[DATE|May 14, 2025]], included Outcome [[KEEP|2]], concerning functional requests during daily routines. The transition summary dated [[DATE|August 21, 2025]] reported progress with familiar adults. The current evaluation suggests that requesting is stronger than describing, explaining, and communicating with unfamiliar partners.
+
+IMPRESSIONS
+
+The findings support a mixed receptive-expressive language disorder and a speech sound disorder. These conclusions rest on converging observations across languages and settings, rather than English reference scores alone. Difficulty understanding unfamiliar language, building flexible sentences, and explaining events affected participation in both English and Spanish.
+
+Bilingual development explains some differences in vocabulary distribution, language mixing, and sound production. It does not fully explain the reported communication limitations across familiar Spanish routines and English classroom activities. Continued monitoring should consider changes in exposure and opportunities to communicate.
+
+Strengths include social interest, pretend play, family engagement, willingness to imitate, and improvement after teaching. The child used communication for several purposes and responded well to visual support. These strengths provide practical starting points for intervention.
+
+The evaluation does not establish an intellectual disability, autism diagnosis, or motor speech diagnosis. No direct assessment of those conditions occurred. Additional referral should follow specific concerns, rather than assumptions based on language scores.
+
+RECOMMENDATIONS AND INITIAL GOALS
+
+Begin bilingual speech-language therapy twice weekly, with sessions lasting approximately thirty minutes. Reassess frequency after observing attendance, response, and carryover. Coordinate treatment with preschool staff and caregivers so the child practices useful communication throughout the week.
+
+Goal [[KEEP|1]]: During play and daily routines, the child will follow directions containing an action and a spatial relationship with [[KEEP|80%]] accuracy across [[KEEP|3 of 4]] sampled activities, using [[KEEP|min cues]].
+
+Goal [[KEEP|2]]: The child will produce flexible sentences to request, describe, or explain during [[KEEP|8/10]] opportunities, using [[KEEP|min cues]]. Accept appropriate responses in either language and record the language used.
+
+Goal [[KEEP|3]]: The child will produce [[KEEP|/k/]] and [[KEEP|/g/]] in selected functional words with [[KEEP|80%]] accuracy across repeated probes, using [[KEEP|mod cues]] initially and reducing support as accuracy improves.
+
+Use parent coaching informed by [[KEEP|Hanen]] principles to increase responsive interaction and balanced conversational turns. Consider a focused [[KEEP|Cycles]] approach for recurring speech patterns when treatment data support that structure. Select targets that matter to the family and can be practiced across languages.
+
+Caregivers should describe ongoing activities, expand short messages, and allow time for a response. For example, expand [[KEEP|"big truck"]] to [[KEEP|"the big truck goes"]]. Avoid requiring repeated imitation during every exchange. Meaningful communication should remain the main purpose.
+
+Provide classroom visuals for directions and event sequences. Teach repair options such as [[KEEP|"show me"]], [[KEEP|"say again"]], and [[KEEP|"I need help"]]. Adults should acknowledge the message before asking for clearer speech.
+
+Maintain Spanish at home. Shared reading, songs, cooking, and pretend play can support vocabulary and sentence growth without requiring English-only interaction. Offer brief practice activities that fit the parents' work schedules.
+
+Schedule progress review for [[DATE|January 8, 2027]]. Seek audiology follow-up if hearing concerns return. Share this report with the family and authorized school team through established consent procedures.
+
+Signed: [[PROVIDER|Nadia Solano Bell]], MS, CCC-SLP  
+Bilingual Pediatric Speech-Language Pathologist  
+[[EMPLOYER|Silver Finch Pediatric Language Therapy]]  
+[[DATE|October 11, 2026]]

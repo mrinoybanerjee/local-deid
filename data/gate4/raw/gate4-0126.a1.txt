@@ -1,0 +1,44 @@
+**Evaluación breve / Daily SOAP Note**
+
+Service date: [[DATE|October 6, 2026]]  
+Client: [[CHILD|Elías Monteverde]], age [[KEEP|4;2]]  
+Clinician: [[PROVIDER|Nora Valcera]], bilingual pediatric SLP, [[EMPLOYER|Two Lanterns Speech Services]], North Carolina  
+Record: [[ID|SL-006284]]; Medicaid: [[MEDICAID_ID|000427619Q]]  
+Location: [[SCHOOL|Willow Lantern Preschool]], [[PLACE|Brindle Creek]], [[PLACE|28693]]
+
+**S — Informe familiar**
+
+Su mamá [[PARENT|Inés Monteverde]] reported, “En casa habla más, pero cuando tiene prisa, se frustra.” Father [[PARENT|Tomás Monteverde]] requested afternoon scheduling. Family work history includes Cedar Shelf store / la tienda [[ORG|Cedar Shelf]], Copper Finch plant / la planta [[ORG|Copper Finch]], and Moon Ladle restaurant / el restaurante [[ORG|Moon Ladle]] for father; Juniper Basket farm / la granja [[ORG|Juniper Basket]], Stone Ribbon construction company / la compañía de construcción [[ORG|Stone Ribbon]], and Bright Fern cleaning service / el servicio de limpieza [[ORG|Bright Fern]] for mother. Work shifts affect transportation.
+
+Sister [[SIBLING|Mariela Monteverde]] practices turn-taking. Abuela [[FAMILY|Ofelia Cardenal]] provides pickup; babysitter [[FAMILY|Lena Zorales]] supports carryover. Contact: [[PHONE|(919) 555-0147]]; [[EMAIL|ines.monteverde@example.com]].
+
+**Antecedentes de nacimiento y salud**
+
+Born [[DATE|August 6, 2022]], at [[KEEP|35 weeks]], birth weight [[KEEP|2,180 g]], at [[HOSPITAL|Cedarwing Children's Hospital]]. Apgar scores: [[KEEP|7]] and [[KEEP|9]]. NICU care addressed feeding coordination. Neonatologist Dr. [[PROVIDER|Marta Virela]] supervised discharge; pediatrician Dr. [[PROVIDER|Samuel Orvén]] follows development. No current feeding concerns were reported.
+
+**O — Observación y evaluación**
+
+Interpreter [[PROVIDER|Celia Novera]] clarified family terminology. Teacher Ms. [[TEACHER|Rosa Beltrán]] described improved participation. Peer [[PEER|Adrián Solvera]] joined reciprocal play. Today’s structured probes supplemented prior bilingual testing; scores below are historical, not newly administered.
+
+| Test/subtest | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73–85]] | [[KEEP|2;10–3;2]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]] | [[KEEP|75]] | [[KEEP|5th]] | [[KEEP|70–83]] | [[KEEP|2;6–3;0]] |
+
+During play, [[CHILD|Elías]] requested [[KEEP|"más agua"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Initial [[KEEP|/k/]] reached [[KEEP|60%]] with [[KEEP|mod cues]]; [[KEEP|[w]]] substitutions persisted. He said “[[PET|Tilo]] run” while viewing his dog’s photograph. A separate sample contained [[KEEP|"yo quiere"]], coded [[KEEP|[EW]]]. Spanish [[KEEP|/ɾ/]] was observed, without a treatment demand.
+
+**A — Impresión clínica**
+
+Communication improved with shared attention and predictable routines. Language differences were considered across both languages. Working diagnosis: [[KEEP|F80.2]]. Skilled intervention remains appropriate; findings require interpretation alongside functional reports.
+
+**P — Plan y horario**
+
+Continue [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] activities under [[KEEP|IFSP Outcome 2]]. Coordinate with OT [[PROVIDER|Dalia Feronte]], PT [[PROVIDER|Iván Luredo]], and coordinator [[PROVIDER|Mina Corvel]] at [[AGENCY|Brindle Creek CDSA]].
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Tuesday | [[TIME|2:15 p.m.]] | [[TIME|3:00 p.m.]] | [[SCHOOL|Willow Lantern Preschool]] |
+| Thursday | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Little Acorn Harbor]] |
+| Friday | [[TIME|1:00 p.m.]] | [[TIME|1:45 p.m.]] | [[EMPLOYER|Two Lanterns Speech Services]] |
+
+Reviewed home practice: model [[KEEP|"quiero ayuda"]], pause, and accept either language. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]. Review scheduled [[DATE|November 3, 2026]].

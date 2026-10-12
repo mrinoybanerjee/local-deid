@@ -1,0 +1,26 @@
+Document: Daily speech-language therapy note
+Client: [[CHILD|Nico Beltrán]]
+DOB: [[DATE|August 1, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Record: [[ID|SLP-260109-047]]
+Medicaid: [[MEDICAID_ID|938471602Q]]
+Clinician: [[PROVIDER|Elena Solano]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Firefly Speech Partners]]
+Location: [[SCHOOL|Meadowglass Preschool]], [[PLACE|Willowmere]], North Carolina
+Contact: [[PHONE|919-555-0147]]
+Session start: [[TIME|9:00 AM]]
+Session stop: [[TIME|9:30 AM]]
+Billing: CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]]
+
+Subjective:
+Mother [[PARENT|Marisol Beltrán]] reported working mornings at [[ORG|BXR]] and evenings at [[ORG|Lantern Market]]. Her shifts begin at [[TIME|6:00 AM]] and [[TIME|5:00 PM]]. Babysitter [[FAMILY|Tessa Wynn]] practices picture requests after pickup. Brother [[SIBLING|Emilio]] and cousins [[FAMILY|Alba]] and [[FAMILY|Rafael]] joined weekend play. The child reportedly said, “[[PET|Miso]] run,” while watching the family cat. Mother requested strategies that fit both jobs and Spanish-speaking family routines.
+
+Objective:
+Teacher Ms. [[TEACHER|Anika Vale]] provided classroom observations. Classmates [[PEER|Lena Cho]] and [[PEER|Owen Pike]] participated briefly in turn-taking. [[CHILD|Nico]] requested preferred toys in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. He produced target [[KEEP|“key”]] with initial [[KEEP|/k/]] in [[KEEP|3 of 5]] trials; substitutions included [[KEEP|[w]]]. A language sample included [[KEEP|“me want car”]] and SALT code [[KEEP|[EW]]]. Prior [[KEEP|PLS-5]] results included [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]].
+
+Assessment:
+Functional requesting improved during predictable play. Spanish and English responses informed interpretation; language difference alone did not indicate impairment. Attention improved with movement breaks. Today’s performance supported continued work on IFSP goal [[KEEP|2]].
+
+Plan:
+Continue [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]]. Use [[KEEP|PECS]] for supported requests and [[KEEP|Cycles]] for phonological patterns. Discuss [[KEEP|PROMPT]] and [[KEEP|Kaufman]] options after further motor-speech assessment. Mother demonstrated wait time and expansion during coached play. Provide picture cards for the babysitter and review carryover next session. Home practice will pair one request with a daily snack routine.

@@ -1,0 +1,16 @@
+Fecha de servicio: [[DATE|October 8, 2026]]  Hora: [[TIME|9:15 a.m.]]  Duración: 45 minutes
+Cliente: [[CHILD|Emilio Solvera]]  Apodo: [[CHILD|Milo]]  Edad: [[KEEP|4;2]]  DOB: [[DATE|08/08/2022]]
+Clinician: [[PROVIDER|Nadia Beltrán]], MS, CCC-SLP  Employer: [[EMPLOYER|Willow Lantern Speech Services]]
+Record: [[ID|SL-604829]]  Medicaid: [[MEDICAID_ID|918604372Q]]  CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Dirección: [[PLACE|418 Lantern Finch Lane]]  Ciudad: [[PLACE|Cedarwake]], North Carolina  ZIP: [[PLACE|27900]]
+Teléfono: [[PHONE|919-555-0146]]  Email: [[EMAIL|nsolvera@example.com]]  Portal: [[URL|https://willowlantern.example]]
+
+S / Subjetivo: Mamá [[PARENT|Elena Solvera]] reported, “En casa quiere hablar más, pero cuando está cansado señala.” Papá [[PARENT|Rubén Solvera]] described changing work schedules. Mother listed current shifts at the store [[ORG|Fernbasket Market]], occasional restaurant work at [[ORG|Restaurante Luna de Papel]], and prior employment with the cleaning service [[ORG|Servicio de Limpieza Brisa Clara]]. Father reported employment at the factory [[ORG|Copper Finch Packaging Plant]], seasonal work at [[ORG|Granja Los Faroles]], and previous work with the construction company [[ORG|Constructora Puente de Roble]]. Transportation remains available.
+
+Antecedentes: Born at [[HOSPITAL|Silver Meadow Children's Hospital]] at [[KEEP|35 weeks]]; birth weight [[KEEP|2.41 kg]]. Apgar scores were [[KEEP|7]] and [[KEEP|9]]. NICU stay involved feeding support. Dr. [[PROVIDER|Isaac Morlan]] managed neonatal care; Dr. [[PROVIDER|Teresa Valcera]] follows hearing concerns. No new medical changes reported.
+
+O / Objetivo: Prior evaluation dated [[DATE|September 17, 2026]] documented [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. Today, followed directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Produced initial [[KEEP|/k/]] with [[KEEP|mod cues]] in [[KEEP|3 of 5]] trials, or [[KEEP|60%]]. Used [[KEEP|[w]]] substitution during connected speech. Target words included [[KEEP|"casa"]] and [[KEEP|"car"]]. Spontaneously said [[KEEP|"yo quiero más"]]; one omitted word received SALT code [[KEEP|[EW]]]. During pet play, he said “[[PET|Chispa]] run.”
+
+A / Análisis: Participation improved with bilingual models and movement breaks. Used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice. Sister [[SIBLING|Inés Solvera]] modeled turn-taking. Cousins [[FAMILY|Pablo Ruedal]] and [[FAMILY|Alma Ruedal]] joined briefly with babysitter [[FAMILY|Marisol Tavera]]. Teacher Ms. [[TEACHER|Vera Lomel]] reported classmates [[PEER|Julián Norbel]] and [[PEER|Ada Virel]] encourage requesting at [[SCHOOL|Firefly Orchard Preschool]].
+
+P / Plan: Continue IFSP outcome [[KEEP|2]]; practice requests during meals. Coordinator [[PROVIDER|Celia Dornel]] at [[AGENCY|Cedarwake CDSA]] will review family scheduling. Próxima sesión: [[DATE|October 15, 2026]] at [[TIME|9:15 a.m.]]. Mother demonstrated the home activity and agreed to keep practice brief.

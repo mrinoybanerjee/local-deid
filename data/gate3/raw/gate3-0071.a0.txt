@@ -1,0 +1,23 @@
+Documento: Nota diaria de terapia del habla y lenguaje  Fecha: [[DATE|8 de octubre de 2026]]  Horario: [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]]  Modalidad: Presencial, individual
+
+Paciente: [[CHILD|Elías Monteluz]]  Edad: [[KEEP|4;2]]  Nacimiento: [[DATE|8 de agosto de 2022]]  Expediente: [[ID|SLP-684207]]  Medicaid: [[MEDICAID_ID|583016924Q]]
+
+Profesional: Lic. [[PROVIDER|Marina Solcedo]]  Especialidad: Patóloga bilingüe del habla y lenguaje pediátrico  Empresa: [[EMPLOYER|Senderos del Habla Infantil]]  Estado: North Carolina
+
+Contacto familiar: mamá [[PARENT|Adriana Valcera]]  Teléfono: [[PHONE|919-555-0148]]  Correo: [[EMAIL|adriana.valcera@example.com]]  Domicilio: [[PLACE|428 Sendero del Olmo, Villa Cedral, 27598]]
+
+Entornos: [[DAYCARE|Little Learners Daycare]]  Programa terapéutico: [[KEEP|Little Learners Program]]  Recurso comunitario: [[AGENCY|Centro Comunitario Puentes de Brisa]]  Sitio: [[URL|https://puentesdebrisa.example.org]]
+
+Antecedentes: La familia refiere vínculos con la aldea [[PLACE|El Pinar de las Luciérnagas]], Guatemala. La abuela [[FAMILY|Rosa Valcera]] cuida al paciente después de clases. Su hermano [[SIBLING|Bruno Monteluz]] participa en juegos compartidos. La madre trabaja en [[ORG|Taller Textil Loma Serena]]. Según entrevista, nacimiento a [[KEEP|39 semanas]], peso de [[KEEP|3,180 g]] y Apgar de [[KEEP|8/9]]. Las primeras combinaciones aparecieron a los [[KEEP|26 meses]].
+
+S: La madre informó que [[CHILD|Elías]] pidió ayuda durante la merienda y toleró mejor los cambios de actividad. La maestra [[TEACHER|Nora Beltrana]] describió mayor participación junto a [[PEER|Lina Corvel]] y [[PEER|Gael Terván]]. En casa dijo “[[PET|Miga]] corre” mientras señalaba al perro. Llegó tranquilo, eligió bloques y aceptó guardar su mochila. La familia usa español principalmente y desea apoyar también la comunicación cotidiana en inglés.
+
+O: Se trabajaron peticiones, turnos y comprensión de instrucciones mediante [[KEEP|Hanen]] y estrategias de [[KEEP|PROMPT]]. Produjo [[KEEP|"quiero más"]], [[KEEP|"abre la caja"]] y [[KEEP|"mi turno"]] en [[KEEP|8/10]] oportunidades con [[KEEP|apoyos moderados]]. Siguió instrucciones espaciales en [[KEEP|3 de 5]] ensayos con [[KEEP|apoyos mínimos]]. Para [[KEEP|/k/]], logró [[KEEP|60%]] de precisión; mantuvo [[KEEP|[w]]] como sustitución en palabras practicadas. La muestra incluyó [[KEEP|[EW]]] al ampliar enunciados. Respondió mejor cuando pudo observar el objeto antes de escuchar la instrucción. Se ofrecieron pausas breves y opciones visuales entre actividades.
+
+Referencia evaluativa: En evaluación del [[DATE|24 de septiembre de 2026]], [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], mostró puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|2;6–3;0]]. Estos resultados se interpretan junto con la entrevista bilingüe y la observación funcional.
+
+A: [[CHILD|Elías]] mostró avances en peticiones espontáneas y atención compartida. Continúa necesitando tiempo adicional para procesar instrucciones nuevas. Las diferencias entre idiomas requieren seguimiento contextual. No se atribuyen dificultades únicamente al bilingüismo. El desempeño mejoró con materiales familiares, modelado breve y espera suficiente. La madre demostró la estrategia durante el cierre y describió cómo adaptarla a la cena.
+
+P: Continuar el objetivo [[KEEP|2]] del [[KEEP|IFSP]] mediante práctica durante meriendas y juego. Compartir ejemplos con la madre y revisar generalización en la próxima sesión, prevista para [[DATE|15 de octubre de 2026]]. Registrar respuestas espontáneas y ajustar apoyos según participación.
+
+Facturación: CPT [[KEEP|92507]]  Modificador: [[KEEP|GP]]  ICD-10: [[KEEP|F80.2]]  Firma: [[PROVIDER|Marina Solcedo]]

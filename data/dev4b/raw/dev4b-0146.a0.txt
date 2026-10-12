@@ -1,0 +1,29 @@
+SESSION NOTE – Speech-Language Therapy
+
+Client: [[CHILD|Mateo Hernández-Ruiz]] DOB: [[DATE|04/12/2022]] Age: [[KEEP|4;2]]
+Medicaid ID: [[MEDICAID_ID|987654321A]] Case ID: [[ID|CDSA-00482]]
+Date of Service: [[DATE|October 9, 2026]] Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+CPT: [[KEEP|92507]] ICD-10: [[KEEP|F80.1]]
+
+Setting: [X] Home [ ] [[DAYCARE|Little Sprouts Daycare]] [ ] [[SCHOOL|Brightwood Elementary]]
+Caregiver present: [X] [[PARENT|Lucía Rodríguez]] (mamá) [ ] [[PARENT|Esteban Hernández]] (papá)
+Language: [X] English [X] Spanish (code-switching session)
+
+S: Su mamá [[PARENT|Lucía Rodríguez]] reports [[CHILD|Mateo]] has been "talking more" since starting at [[DAYCARE|Little Sprouts Daycare]]. His babysitter, [[FAMILY|Yesenia Flores]], mentioned he said "quiero agua" clearly three times yesterday. [[CHILD|Mateo]]'s older sister, [[SIBLING|Valentina]], continues to interpret for him with his cousins, [[FAMILY|Diego]] and [[FAMILY|Camila]], during family visits. [[PARENT|Lucía Rodríguez]] works at [[ORG|Cone Health]] and reports fatigue affecting carryover practice at home. Her husband, [[PARENT|Esteban Hernández]], works for [[ORG|PACCAR]] and was unable to attend today's session.
+
+O: [[CHILD|Mateo]] was alert and cooperative for [[KEEP|26 minutes]] of structured play. Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest: raw score yielded standard score [[KEEP|78]] ([[KEEP|73-83]]), [[KEEP|9th percentile]]. Expressive Communication age equivalent [[KEEP|2;6–3;0]]. Also administered [[KEEP|CELF-5]] [[KEEP|Recalling Sentences]] subtest; scaled score [[KEEP|6]], [[KEEP|25th percentile]]. Targeted final consonant deletion using [[KEEP|PROMPT]] cueing; produced "[[KEEP|dog]]" and "[[KEEP|cup]]" correctly with [[KEEP|mod cues]] in [[KEEP|8/10]] trials. [[KEEP|/k/]] remains in error for word-final position; attempted "duck," heard as [[KEEP|[w]]]. His dog, [[PET|Bolt]], was used as a motivator during the barrier game.
+
+Classmates [[PEER|Ava Thompson]] and [[PEER|Noah Griffin]] were referenced by [[CHILD|Mateo]] when describing circle time with his teacher, [[TEACHER|Ms. Lopez]], at [[DAYCARE|Little Sprouts Daycare]].
+
+A: Continued delay in expressive phonology consistent with prior [[KEEP|IFSP Outcome 2]]. Family engaged; carryover limited by caregiver fatigue.
+
+P: Continue [[KEEP|Cycles]] approach weekly. Service coordinator [[PROVIDER|Carlos Ibarra]] of the [[AGENCY|Centro de Coordinación de Servicios para Niños con Necesidades Especiales de Carolina del Norte]] ([[AGENCY|CCSN]]) will schedule the [[DATE|January 15, 2027]] IFSP review. Referral sent to [[AGENCY|Guilford County DSS]] for WIC renewal; family also connected with [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Piedmont]] ([[AGENCY|CDSA Piedmont]]) for ongoing case management.
+
+Home Program: Practice "no more" and "all done" phrases during snack time using [[PET|Bolt]] as a natural reinforcer. Encourage play dates with cousins [[FAMILY|Diego]] and [[FAMILY|Camila]] to prompt spontaneous requesting. [[FAMILY|Yesenia Flores]] was coached on modeling expanded utterances during afternoon care.
+
+Next visit: [[DATE|10/16/2026]], [[TIME|2:30 PM]], at [[PLACE|118 Larkspur Lane, Greensboro, NC 27405]].
+
+Questions? Email me at [[EMAIL|kjohnson@piedmontpeds.com]] or visit [[URL|www.piedmontpeds.com]].
+
+[[PROVIDER|Keisha Johnson]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Therapy, PLLC]]

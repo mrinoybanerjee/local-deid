@@ -1,0 +1,30 @@
+CAROLINA PEDIATRIC SPEECH & LANGUAGE THERAPY, PLLC
+d/b/a [[EMPLOYER|Carolina Pediatric Speech]] ([[EMPLOYER|CPSLT]])
+Clinic: [[PLACE|412 Chestnut Ridge Road, Suite C, Hendersonville]], [[PLACE|Henderson County]], [[PLACE|28792]]
+Phone: [[PHONE|(828) 555-0147]] | Fax: [[PHONE|(828) 555-0148]]
+
+DAILY TREATMENT NOTE
+
+Client: [[CHILD|Mateo Diaz Fernandez]] ("[[CHILD|Teo]]")
+Date of Service: [[DATE|September 14, 2026]]  Time: [[TIME|9:30 AM]]–[[TIME|10:15 AM]]
+Location: [[DAYCARE|Little Acorns Learning Cottage]], [[PLACE|Hendersonville]]
+Record #: [[ID|LD-0042187]]  Medicaid ID: [[MEDICAID_ID|7284591036B]]
+CPT: [[KEEP|92507]], [[KEEP|92523]]  ICD-10: [[KEEP|F80.2]]
+
+S: [[CHILD|Teo]]'s mother, [[PARENT|Lucia Diaz Fernandez]], reported continued two-word combinations at home and said he directed the family dog, telling him "[[PET|Rocky]] run" while pointing at the back door. She also reported that [[CHILD|Teo]] imitated his older brother, [[SIBLING|Santiago]], saying "up please" during snack. Mom shared that the pediatrician, Dr. [[PROVIDER|Hannah Okafor]], wants a follow-up hearing screen before the next IFSP review on [[DATE|November 3, 2026]].
+
+Birth/medical history reviewed with mother: [[CHILD|Teo]] was born [[DATE|January 9, 2024]] at [[KEEP|34 weeks]] gestation, birth weight [[KEEP|4 lbs 2 oz]], Apgar [[KEEP|7 and 8]]. He spent 12 days in the NICU at [[HOSPITAL|Mission Hospital]] under neonatologist Dr. [[PROVIDER|Raj Patel]], then transferred to the care of Dr. [[PROVIDER|Hannah Okafor]] for outpatient follow-up.
+
+O: Session conducted in the classroom of [[TEACHER|Ms. Alvarez]] at [[DAYCARE|Little Acorns Learning Cottage]], with brief participation from classmate [[PEER|Isabella]] during a turn-taking activity. Targets: CV and CVC word shapes, two-word combinations ("more juice," "go car"), and the phoneme /k/ in word-initial position.
+
+[[CHILD|Teo]] produced /k/ correctly in [[KEEP|8/10]] ([[KEEP|80%]]) trials with [[KEEP|min cues]], improved from last session's [[KEEP|60%]]. He combined two words spontaneously in [[KEEP|3 of 5]] opportunities. Using [[KEEP|PECS]] for requesting, he exchanged a picture card and said "[[KEEP|more]]" independently. One target production: clinician modeled "car go," [[CHILD|Teo]] imitated "[[KEEP|ca go]]" with [[KEEP|mod cues]] for the final consonant.
+
+A: [[CHILD|Teo]] continues to demonstrate steady gains in phonology and early expressive syntax consistent with [[KEEP|F80.2]]. Accuracy on /k/ has improved across the last three sessions ([[KEEP|60-80%]]). Two-word combinations remain emerging and inconsistent across settings per report from [[TEACHER|Ms. Alvarez]] and mother.
+
+P: Continue weekly direct therapy, [[KEEP|92507]] and [[KEEP|92523]] as authorized, focusing on /k/ generalization and expansion of two-word utterances using [[KEEP|Hanen]] strategies with caregiver coaching. Service coordinator [[PROVIDER|Monica Reyes]] with [[AGENCY|Western Highlands CDSA]] to be contacted regarding the upcoming IFSP review. Recommend audiology referral per Dr. [[PROVIDER|Hannah Okafor]]'s request prior to [[DATE|November 3, 2026]].
+
+Next session: [[DATE|September 21, 2026]], [[TIME|9:30 AM]].
+
+Submitted by: [[PROVIDER|Carla Jimenez, M.S., CCC-SLP]]
+[[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]]
+Email: [[EMAIL|cjimenez@carolinapedspeech.com]]

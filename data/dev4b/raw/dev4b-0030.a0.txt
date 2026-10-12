@@ -1,0 +1,44 @@
+NOTA DE SESIÓN DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+1. INFORMACIÓN DE IDENTIFICACIÓN
+
+Cliente: [[CHILD|Mateo Fernández]]
+Fecha de nacimiento: [[DATE|04/12/2021]]
+Edad cronológica: [[KEEP|4;6]]
+Número de caso: [[ID|WCD-88213-F]]
+Número de Medicaid: [[MEDICAID_ID|998712345A]]
+Fecha de la sesión: [[DATE|October 9, 2026]]
+Hora de la sesión: [[TIME|2:15 p.m.]]
+Clínica: [[PROVIDER|María Elena Vásquez]], M.S., CCC-SLP, de [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]]
+
+2. ANTECEDENTES
+
+[[CHILD|Mateo]] recibe servicios de terapia del habla a través del [[AGENCY|Agencia Comunitaria para el Desarrollo Infantil y Servicios Familiares (ACDISF)]], coordinados por su coordinadora de servicios, [[PROVIDER|Yolanda Reyes]]. Es estudiante de prekínder en la [[SCHOOL|Escuela Primaria Forest Pines]], dentro del [[SCHOOL|Sistema de Escuelas Públicas del Condado de Wake]], en el salón de la maestra [[TEACHER|Patricia Hidalgo]]. Vive con su madre, [[PARENT|Lucía Rodríguez]], su padre, [[PARENT|Carlos Fernández]], y su hermana mayor, [[SIBLING|Camila Fernández]], en [[PLACE|412 Hollow Creek Lane, Raleigh, Carolina del Norte]]. Su niñera, [[FAMILY|Rosa Martínez]], lo recoge de la escuela tres días por semana. La familia tiene un perro llamado [[PET|Rocky]], al que [[CHILD|Mateo]] menciona con frecuencia durante las sesiones.
+
+3. ASISTENCIA Y PARTICIPACIÓN
+
+La sesión se realizó en el hogar con la presencia de la madre y, por teléfono, el intérprete [[PROVIDER|Esteban Núñez]]. [[CHILD|Mateo]] estuvo alegre y cooperador durante los [[KEEP|30 minutos]] de intervención directa.
+
+4. OBSERVACIÓN CONDUCTUAL
+
+[[CHILD|Mateo]] jugó con figuras de animales y relató que fue al parque con sus primos [[FAMILY|Diego]] y [[FAMILY|Valentina]] el fin de semana. También describió un juego con su compañero de clase [[PEER|Ethan]] y su amiga [[PEER|Sofía]] durante el recreo.
+
+5. OBJETIVOS TRABAJADOS Y RESULTADOS
+
+Se trabajó el objetivo 2 del IFSP: producción del fonema [[KEEP|/r/]] en posición inicial de palabra. [[CHILD|Mateo]] produjo la palabra objetivo correctamente en [[KEEP|8/10]] ensayos con [[KEEP|mod cues]], mejorando desde [[KEEP|5/10]] en la sesión previa. Durante el juego con el perro de juguete, dijo "[[PET|Rocky]] corre", aproximando el sonido meta. Se usó el enfoque [[KEEP|PROMPT]] junto con estrategias de [[KEEP|Hanen]] para modelar el lenguaje en el contexto del juego. Se registró el código [[KEEP|[EW]]] en la transcripción SALT para marcar un intento fallido de palabra.
+
+6. EVALUACIÓN Y PROGRESO
+
+En la evaluación administrada el mes pasado, [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|82]] en el [[KEEP|PLS-5]], subprueba de [[KEEP|Comprensión Auditiva]], correspondiente al percentil [[KEEP|12]]. En el [[KEEP|CELF-5]] obtuvo un intervalo de confianza de [[KEEP|73-83]]. Su edad equivalente de lenguaje expresivo fue [[KEEP|2;6–3;0]]. El pediatra, [[PROVIDER|Dr. Juan Pablo Ortiz]], documentó el código [[KEEP|F80.1]] en el expediente médico, facturado bajo el código [[KEEP|92507]].
+
+7. COMENTARIOS DE LA FAMILIA Y DEL ENTORNO ESCOLAR
+
+La madre, [[PARENT|Lucía Rodríguez]], reportó que [[CHILD|Mateo]] practica en casa con su hermana [[SIBLING|Camila Fernández]] y que la niñera [[FAMILY|Rosa Martínez]] refuerza las palabras meta durante las tardes. La maestra [[TEACHER|Patricia Hidalgo]] indicó que [[CHILD|Mateo]] participa más en círculo con sus compañeros desde que inició las sesiones.
+
+8. PLAN
+
+Se continuará con sesiones semanales de [[KEEP|30 minutos]]. Próxima cita: [[DATE|October 16, 2026]] a las [[TIME|2:00 p.m.]]. Contactar a la familia al [[PHONE|(919) 555-0148]] o por correo a [[EMAIL|lucia.rodriguez88@example.com]] para reprogramar si fuera necesario.
+
+Firmado,
+[[PROVIDER|María Elena Vásquez]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]]

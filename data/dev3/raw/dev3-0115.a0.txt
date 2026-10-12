@@ -1,0 +1,90 @@
+CAROLINA PEDIATRIC THERAPY, PLLC — [[EMPLOYER|Carolina Pediatric Therapy, PLLC]]
+Bilingual Speech-Language Evaluation / Evaluación del Habla y Lenguaje
+
+Client/Paciente: [[CHILD|María José Hernández Lopez]] ("[[CHILD|Majo]]")
+Fecha de nacimiento/DOB: [[DATE|June 14, 2021]]
+CA at eval: [[KEEP|4;4]]
+Medicaid ID: [[MEDICAID_ID|920583471B]]
+Case/Record ID: [[ID|LD-24601]]
+Prior Auth #: [[ID|PA-77302C]]
+Fecha de evaluación/Date of Evaluation: [[DATE|October 2, 2026]]
+Report Date: [[DATE|October 9, 2026]]
+Padres/Parents: [[PARENT|Lucía Lopez Ramírez]] (madre), [[PARENT|Carlos Hernández Reyes]] (padre)
+Dirección/Address: [[PLACE|142 Persimmon Lane]], [[PLACE|Durham]], NC [[PLACE|27703]] ([[PLACE|Durham County]])
+Home phone: [[PHONE|(919) 555-0148]]
+Mom cell: [[PHONE|919.555.0192]]
+Dad cell: [[PHONE|(919) 555-0177]]
+Abuela paterna (Honduras): [[PHONE|+504 2234-5678]]
+Clinic phone: [[PHONE|(919) 555-0100]]
+Clinic email: [[EMAIL|intake@carolinapedstherapy.com]]
+Clinic portal: [[URL|www.carolinapedstherapy.com/portal]]
+Evaluador/Evaluator: [[PROVIDER|Jennifer Davis]], M.S., CCC-SLP, bilingüe inglés/español
+Referral: [[PROVIDER|Dr. Anjali Patel]] (pediatra); [[PROVIDER|Monica Reyes]], service coordinator, [[AGENCY|CDSA of the Triangle]]
+CPT: [[KEEP|92523]], [[KEEP|92522]] | ICD-10: [[KEEP|F80.2]], [[KEEP|F80.4]]
+
+S:
+
+Razón de la derivación. [[CHILD|Majo]] is a bilingual (Spanish-dominant home, English-exposed) girl referred by [[PROVIDER|Monica Reyes]], service coordinator at [[AGENCY|CDSA of the Triangle]], after [[AGENCY|CDSA of the Triangle]]'s developmental screening flagged delayed expressive language at the [[KEEP|4;4]] well-child visit with [[PROVIDER|Dr. Anjali Patel]]. Concerns were corroborated by [[CHILD|Majo]]'s daycare teacher, [[TEACHER|Ms. Thompson]], at [[DAYCARE|Little Sprouts Bilingual Daycare]], who reported [[CHILD|Majo]] uses mostly single words and gesture to request, and is frequently misunderstood by peers, including her friend [[PEER|Ethan]], with whom she plays most days.
+
+Mamá [[PARENT|Lucía Lopez Ramírez]] reports, "A mí no me preocupaba al principio porque su hermano también tardó en hablar, pero ya veo que [[CHILD|Majo]] se frustra mucho cuando no la entendemos." (Translation: "At first I wasn't worried because her brother was also late to talk, but now I see that [[CHILD|Majo]] gets very frustrated when we don't understand her.") Papá [[PARENT|Carlos Hernández Reyes]] added, "Ella señala y hace sonidos, pero pocas palabras claras salen." Both parents report [[CHILD|Majo]] understands more than she says — "entiende todo lo que le decimos, en español y en inglés" — and that comprehension is not a concern at home.
+
+Historia de nacimiento y desarrollo. [[CHILD|Majo]] was born at [[KEEP|38]] weeks gestation at [[HOSPITAL|Duke Regional Hospital]] via scheduled cesarean section after a pregnancy complicated by gestational hypertension. Birth weight was [[KEEP|6 lb 4 oz]]; Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. Mom reports no NICU stay, no feeding tube, and no reported hearing concerns in the newborn period. [[CHILD|Majo]] passed a newborn hearing screen and was cleared again on [[DATE|September 18, 2026]] by audiologist [[PROVIDER|Dr. Wesley Okafor]], who found hearing within normal limits bilaterally. Developmental milestones per parent report: sat independently around [[KEEP|7 months]], walked around [[KEEP|14 months]], first words ("mamá," "agua") emerged around [[KEEP|18 months]] with slow vocabulary growth thereafter. No history of chronic ear infections, no tubes, no seizures, no significant illness or hospitalization since birth. Vision screening was within normal limits per [[PROVIDER|Dr. Anjali Patel]]'s records.
+
+Historia familiar y de lenguaje. [[CHILD|Majo]] is the second of three children. Her older brother, [[SIBLING|Diego Hernández Lopez]], is [[KEEP|8]] and attends [[SCHOOL|Riverside Elementary School]]; parents report he also had a speech delay as a toddler and received services through [[AGENCY|CDSA of the Triangle]] around age [[KEEP|2;6]] before being discharged at age [[KEEP|4]]. Younger sister [[SIBLING|Camila Hernández Lopez]] is [[KEEP|11 months]] old and developing typically so far per parent report. Family dog [[PET|Luna]] is a frequent play partner; [[CHILD|Majo]] often points at [[PET|Luna]] and says, [[KEEP|"agua"]], when the dog's water bowl is empty, and during the session pointed at the dog and said "[[PET|Luna]] papi," reportedly meaning she wants her father to let the dog out.
+
+The home language environment is primarily Spanish. [[PARENT|Lucía Lopez Ramírez]] and [[PARENT|Carlos Hernández Reyes]] speak Spanish to all three children; [[SIBLING|Diego Hernández Lopez]] code-switches frequently since starting school and sometimes speaks English to [[CHILD|Majo]], who responds in Spanish or with gesture. Maternal grandmother, [[FAMILY|Elena Ramírez]], lives nearby and cares for [[CHILD|Majo]] and [[SIBLING|Camila Hernández Lopez]] on weekday afternoons while [[PARENT|Lucía Lopez Ramírez]] sleeps before her shift; [[FAMILY|Elena Ramírez]] speaks only Spanish with the children and reports [[CHILD|Majo]] "se le entiende poco, pero se hace entender con las manos." Paternal grandmother, [[FAMILY|Rosa Reyes]], remains in Honduras and speaks with the family weekly by video call; she has told [[PARENT|Carlos Hernández Reyes]] that [[CHILD|Majo]]'s cousins at her age "ya hablaban oraciones completas," which has increased the family's worry.
+
+Mom works nights at [[ORG|Carolina Poultry Processing]] on the packing line, typically [[TIME|10:00 PM]] to [[TIME|6:30 AM]], and sleeps during parts of the day; dad works days at [[ORG|Bright Lawn Landscaping]] as a crew lead, generally [[TIME|7:00 AM]] to [[TIME|4:00 PM]]. This schedule means [[CHILD|Majo]] spends mornings with [[PARENT|Carlos Hernández Reyes]] before daycare drop-off and afternoons with [[FAMILY|Elena Ramírez]] until [[PARENT|Lucía Lopez Ramírez]] wakes. The family attends [[AGENCY|Iglesia Bautista Nueva Vida]] on Sundays, where [[CHILD|Majo]] attends a toddler Sunday school class; the pastor, [[PERSON|Hermano Tomás]], recently commented to [[PARENT|Lucía Lopez Ramírez]] that [[CHILD|Majo]] seemed quieter than the other children in her class. The family also participates in a bilingual story time, "Cuentos Bilingües," at [[AGENCY|Southwest Regional Library]] most Saturdays, and receives [[AGENCY|WIC]] nutrition benefits. [[PARENT|Lucía Lopez Ramírez]] enrolled [[CHILD|Majo]] in a parent-child playgroup through [[AGENCY|Durham Smart Start]] over the summer but stopped attending after [[KEEP|3]] sessions due to her work schedule.
+
+Mom reports no concerns with feeding, swallowing, or oral motor function, and [[CHILD|Majo]] eats a wide variety of textures without difficulty. No prior speech-language therapy. No known family history of autism; mild family history of "slow talkers" per both parents.
+
+O:
+
+Behavioral observations. [[CHILD|Majo]] separated easily from her father, [[PARENT|Carlos Hernández Reyes]], and engaged readily with the examiner, [[PROVIDER|Jennifer Davis]], using toys and picture books. Eye contact, joint attention, and social reciprocity were age-appropriate; she initiated bids for interaction frequently (showing, giving, pointing) and responded consistently to her name in both Spanish and English. Attention to task was adequate with frequent redirection and preferred, high-interest materials; testing was completed across two sessions ([[DATE|October 2, 2026]] and [[DATE|October 6, 2026]]) to manage fatigue.
+
+Hearing/oral mech. Gross oral-peripheral exam within normal limits: symmetrical facial structures, adequate lip/tongue range of motion and strength for age, no overt structural concerns. No drooling, no feeding difficulties observed. Hearing status WNL per audiology report above.
+
+Standardized and criterion-referenced measures. Testing was conducted in both English and Spanish given [[CHILD|Majo]]'s bilingual exposure, with parent report supplementing direct assessment per bilingual best practice. Scores below reflect administration in the language condition noted.
+
+Test / Subtest — Standard Score — Percentile — 95% CI — Age Equivalent
+[[KEEP|PLS-5]] (English), [[KEEP|Auditory Comprehension]] — [[KEEP|70]] — [[KEEP|2nd]] — [[KEEP|64-76]] — [[KEEP|2;6-2;9]]
+[[KEEP|PLS-5]] (English), [[KEEP|Expressive Communication]] — [[KEEP|68]] — [[KEEP|2nd]] — [[KEEP|61-75]] — [[KEEP|2;3-2;6]]
+[[KEEP|PLS-5]] (English), [[KEEP|Total Language Score]] — [[KEEP|67]] — [[KEEP|1st]] — [[KEEP|60-74]] — --
+[[KEEP|PLS-5 Spanish]], [[KEEP|Auditory Comprehension]] — [[KEEP|82]] — [[KEEP|12th]] — [[KEEP|75-89]] — [[KEEP|3;6-3;9]]
+[[KEEP|PLS-5 Spanish]], [[KEEP|Expressive Communication]] — [[KEEP|79]] — [[KEEP|8th]] — [[KEEP|72-86]] — [[KEEP|3;3-3;6]]
+[[KEEP|GFTA-3]], [[KEEP|Sounds-in-Words]] — [[KEEP|73]] — [[KEEP|4th]] — [[KEEP|66-80]] — --
+[[KEEP|PPVT-5]] — [[KEEP|85]] — [[KEEP|16th]] — [[KEEP|78-92]] — [[KEEP|3;9]]
+
+Across both languages, [[CHILD|Majo]]'s receptive skills ([[KEEP|PLS-5 Spanish]] [[KEEP|Auditory Comprehension]] [[KEEP|82]]) are considerably stronger than her expressive skills ([[KEEP|PLS-5 Spanish]] [[KEEP|Expressive Communication]] [[KEEP|79]]), consistent with parent report, and her composite scores across languages show a conceptual-level profile closer to the [[KEEP|30th]]-[[KEEP|35th]] percentile when scored per bilingual conceptual scoring guidelines (ASHA, 2024) rather than monolingual English norms alone, suggesting that single-language English norms understate her true ability.
+
+Speech sound production. On the [[KEEP|GFTA-3]] [[KEEP|Sounds-in-Words]] subtest, [[CHILD|Majo]] produced [[KEEP|16 of 24]] target sounds correctly in word-initial, medial, and final position. Error patterns consistent across English and Spanish samples included final consonant deletion (e.g., [[KEEP|"gato"]] produced as [[KEEP|"ga"]]), cluster reduction (e.g., target [[KEEP|/fr/]] in "fresa" produced as [[KEEP|[f]]]), and gliding of [[KEEP|/r/]] and [[KEEP|[ɾ]]] (e.g., "ratón" produced as [[KEEP|"watón"]]). She produced [[KEEP|/k/]] and [[KEEP|/g/]] inconsistently, sometimes fronting to [[KEEP|[t]]] and [[KEEP|[d]]]. Intelligibility to an unfamiliar listener was estimated at [[KEEP|40%]] in connected speech without context, improving to approximately [[KEEP|70%]] with context and gesture. Stimulability was good; [[CHILD|Majo]] achieved correct [[KEEP|/k/]] with [[KEEP|mod cues]] in isolation and in [[KEEP|3 of 5]] trials at the syllable level with [[KEEP|min cues]].
+
+Spontaneous language sample. A 20-minute play-based sample was collected and transcribed bilingually. Mean length of utterance was [[KEEP|1.4 morphemes]] in English and [[KEEP|1.6 morphemes]] in Spanish, with the majority of utterances single words or two-word combinations ([[KEEP|"más agua"]], [[KEEP|"papi arriba"]]). Transcript excerpt noted [[KEEP|[EW]]] codes at several points where [[CHILD|Majo]]'s utterance could not be fully glossed. She combined vocabulary across languages within single utterances (e.g., [[KEEP|"more agua"]]), consistent with typical bilingual code-mixing at this proficiency level rather than a disorder marker in itself, though her overall MLU is below expectation for age in both languages. During the sample, [[CHILD|Majo]] pointed to the dog and said, "[[PET|Luna]] papi," reportedly requesting that her father let the dog outside.
+
+Pragmatics/social communication. [[CHILD|Majo]] demonstrated a full range of communicative functions (requesting, protesting, commenting, labeling) through a combination of gesture, vocalization, and single words. No red flags for autism spectrum disorder were observed; eye contact, shared enjoyment, and symbolic play (feeding and putting a doll to bed, saying [[KEEP|"beba dormir"]]) were all age-appropriate.
+
+A:
+
+[[CHILD|Majo]] presents with a Mixed Receptive-Expressive Language Disorder ([[KEEP|F80.2]]) with a disproportionately expressive profile, co-occurring with a Speech Sound Disorder ([[KEEP|F80.4]]) characterized by final consonant deletion, cluster reduction, gliding, and fronting, affecting intelligibility in both of her languages. Testing in both English and Spanish, combined with consistent parent and teacher report of comprehension outpacing production in both languages, supports a true language disorder rather than typical second-language acquisition or sequential bilingual "lag." Her pattern of errors is shared across English and Spanish, which further supports a disorder affecting the underlying language system rather than an artifact of bilingual exposure. Oral mechanism, hearing, and social communication skills are not of concern and do not suggest a primary motor speech disorder or autism spectrum disorder at this time, though continued monitoring of pragmatics is reasonable given mild reported quietness in group settings per [[PERSON|Hermano Tomás]] and [[TEACHER|Ms. Thompson]].
+
+[[CHILD|Majo]] qualifies for early intervention services under North Carolina's Infant-Toddler/Preschool eligibility criteria based on standard scores more than 1.5 SD below the mean in expressive language in at least one language of assessment, corroborated by parent and teacher report, functional impact on daily communication, and consistency of findings across both evaluation sessions.
+
+P:
+
+1. Recommend speech-language therapy [[KEEP|2x/week]], [[KEEP|30 minutes]] individual sessions, bilingual service delivery (Spanish primary, English secondary), through [[AGENCY|CDSA of the Triangle]] under CPT [[KEEP|92523]]/[[KEEP|92522]], pending IFSP team review.
+
+2. Therapy approach recommendations: given [[CHILD|Majo]]'s strong receptive skills, joint attention, and family's high engagement, recommend a parent-coaching model such as [[KEEP|Hanen]]'s [[KEEP|It Takes Two to Talk]] program for [[PARENT|Lucía Lopez Ramírez]] and [[PARENT|Carlos Hernández Reyes]] to build responsive language strategies at home in Spanish. For speech sound errors, recommend a [[KEEP|Cycles]] approach targeting final consonants and clusters given the phonological (rather than articulatory) nature of her errors, with [[KEEP|PROMPT]] tactile-kinesthetic cueing as an adjunct for [[KEEP|/k/]], [[KEEP|/g/]], and [[KEEP|/r/]] given her good stimulability with [[KEEP|mod cues]]. [[KEEP|PECS]] is not recommended at this time given intact and emerging verbal communication; if expressive gains stall, a core-vocabulary AAC supplement could be revisited. [[KEEP|Kaufman]] speech praxis materials may be useful as a supplemental home-practice tool for word-level approximations given her good stimulability profile.
+
+3. Refer to [[PROVIDER|Monica Reyes]] at [[AGENCY|CDSA of the Triangle]] to initiate IFSP Outcome [[KEEP|#2]] (expressive communication) and Outcome [[KEEP|#3]] (speech intelligibility) at the next IFSP review, tentatively scheduled for [[DATE|January 15, 2027]].
+
+4. Encourage continued attendance at [[AGENCY|Southwest Regional Library]]'s bilingual story time and continued enrollment in [[AGENCY|Durham Smart Start]]'s playgroup as a low-cost language-rich environment; discussed strategies with [[PARENT|Lucía Lopez Ramírez]] for incorporating expansion and modeling during these activities given her work schedule limits availability for additional formal programs.
+
+5. Coordinate with [[DAYCARE|Little Sprouts Bilingual Daycare]] and [[TEACHER|Ms. Thompson]] to share home-practice target words and cueing hierarchy (mod/min cues) so strategies are consistent across settings; daycare agreed to a monthly communication log.
+
+6. Re-screen hearing if any recurrent ear infections develop; no further audiology follow-up needed at this time per [[PROVIDER|Dr. Wesley Okafor]]'s clearance on [[DATE|September 18, 2026]].
+
+7. Reassess with full battery in [[KEEP|6 months]] (approximately [[DATE|April 2027]]) to monitor progress toward expressive language and intelligibility goals and to reassess eligibility status ahead of transition planning near her third birthday equivalent benchmark for early intervention services.
+
+8. Provided family with written and verbal summary in Spanish; [[PARENT|Lucía Lopez Ramírez]] and [[PARENT|Carlos Hernández Reyes]] verbalized understanding and agreement with recommendations and signed consent for services. Follow-up call scheduled with [[PROVIDER|Jennifer Davis]] on [[DATE|October 16, 2026]] at [[TIME|4:00 PM]] to review the IFSP draft before the team meeting.
+
+Report prepared and signed by [[PROVIDER|Jennifer Davis]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy, PLLC]], [[DATE|October 9, 2026]].

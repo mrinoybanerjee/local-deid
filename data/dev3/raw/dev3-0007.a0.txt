@@ -1,0 +1,62 @@
+IFSP – REVISIÓN SEMESTRAL
+NC Infant-Toddler Program
+
+Fecha de la revisión: [[DATE|9 de octubre de 2026]]
+Niño/a: [[CHILD|Mateo Andrés Fernández Cruz]] ("[[CHILD|Mateín]]")
+Fecha de nacimiento: [[DATE|14 de junio de 2024]] Edad cronológica: [[KEEP|2;4]]
+ID NC ITP: [[ID|NCITP-884720]]
+Medicaid #: [[MEDICAID_ID|745219863B]]
+ID de miembro (seguro Blue Cross NC, por empleo de papá): [[ID|BX00481927]]
+# de registro/autorización (CPT [[KEEP|92507]]/[[KEEP|92523]]): [[ID|AUTH-2026-03315]]
+Coordinadora de servicios: [[PROVIDER|Yesenia Ortiz]], CDSA de [[AGENCY|la Región del Piedmont]], oficina de [[PLACE|Greensboro]]
+Intérprete de español: [[PROVIDER|Rosa Elena Vidal]]
+Patóloga del habla-lenguaje bilingüe: [[PROVIDER|Carla M. Benítez]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]
+Participan: madre [[PARENT|Lucía Fernández]], padre [[PARENT|Diego Cruz]], hermana [[SIBLING|Valentina Cruz]] (5 a.), abuela materna [[FAMILY|Rosario Cruz]]
+
+S:
+Entrevista con mamá, [[PARENT|Lucía]], con apoyo de la intérprete [[PROVIDER|Rosa Elena Vidal]], ya que mamá prefiere hablar español en reuniones formales aunque entiende algo de inglés. Mamá reporta en sus palabras: "[[CHILD|Mateo]] entiende todo lo que le decimos pero casi no habla. Dice como diez palabras y se frustra mucho, grita y nos jala de la mano." Papá, [[PARENT|Diego]], añade por teléfono desde el trabajo: "En la guardería dicen que se queda solo, no juega con los demás niños. A veces en la casa se enoja porque su hermana no le entiende y le quita el juguete." Preocupación principal de la familia: lenguaje expresivo muy limitado para la edad; conductas de frustración (gritar, jalar) cuando no se le entiende; aislamiento social frente a otros niños.
+
+Rutina diaria: [[CHILD|Mateo]] se levanta ~[[TIME|7:00 a.m.]], desayuna con [[PARENT|Lucía]] y [[SIBLING|Valentina]] antes de que ella salga para [[SCHOOL|Escuela Primaria Oak Hill]]. Asiste a [[DAYCARE|Centro Infantil Pequeños Soñadores]] de [[TIME|8:30 a.m.]] a [[TIME|4:30 p.m.]], lunes a viernes, mientras [[PARENT|Lucía]] trabaja en [[ORG|Empacadora Reidsville Foods]] y [[PARENT|Diego]] trabaja turnos rotativos en [[ORG|Transportes Alamance]]. Abuela [[FAMILY|Rosario]], que vive a dos cuadras, lo recoge los miércoles y lo lleva a la hora del cuento en [[AGENCY|la Biblioteca Regional del Condado de Guilford, programa Mother Goose]], donde según mamá "le gusta mucho, pero no repite las canciones como los otros niños, se queda mirando." Los fines de semana la familia asiste a misa en [[AGENCY|la Iglesia Católica San José]], donde hay grupo de juego para niños pequeños antes del servicio; mamá dice que [[CHILD|Mateo]] se aísla también en ese grupo y prefiere jugar solo con bloques. Por las noches, [[PARENT|Diego]] hace rutina de baño y cuento con ambos niños cuando su turno lo permite.
+
+Familia recibe apoyo nutricional de [[AGENCY|WIC]] y está inscrita en clases de crianza de [[AGENCY|Smart Start de Guilford]]; mamá menciona interés en [[AGENCY|Early Head Start]] para el próximo año si no logra plaza en preescolar público. Pediatra: [[PROVIDER|Dr. Andrés Palacios]], [[HOSPITAL|Clínica Pediátrica Lindley]], refirió a ITP tras notar retraso de lenguaje en el chequeo de los [[KEEP|24 meses]]. Niño recibe OT con [[PROVIDER|Hannah Griggs]], OTR/L, por sensibilidad táctil, y PT con [[PROVIDER|Marcus Dell]], DPT, por hipotonía leve de tronco; ambos del mismo contrato CDSA, visitas quincenales.
+
+Prioridades de la familia, en orden: (1) que [[CHILD|Mateo]] use más palabras o señas para pedir lo que quiere; (2) reducir las conductas de frustración en casa y guardería; (3) que juegue con otros niños en la guardería, la biblioteca y la iglesia; (4) entender qué esperar de cara a la transición al preescolar cuando cumpla 3 años.
+
+O:
+Sesión de reevaluación realizada [[DATE|2 de octubre de 2026]] en el hogar, [[PLACE|4821 Winding Creek Lane, Greensboro, NC 27410]], [[TIME|10:00 a.m.]]–[[TIME|11:15 a.m.]]. Códigos facturados: [[KEEP|92523]] (evaluación de habla/lenguaje) y [[KEEP|92507]] (tratamiento individual, 30 min posteriores). Presentes: [[CHILD|Mateo]], [[PARENT|Lucía Fernández]], intérprete [[PROVIDER|Rosa Elena Vidal]].
+
+Administrado Preschool Language Scale, 5.ª ed., versión en español ([[KEEP|PLS-5 Spanish]]): Auditory Comprehension puntaje estándar [[KEEP|68]] (percentil [[KEEP|2]]), Expressive Communication puntaje estándar [[KEEP|62]] (percentil [[KEEP|1]]), Total Language puntaje estándar [[KEEP|64]], intervalo de confianza [[KEEP|58-70]]. Edad equivalente expresiva: [[KEEP|1;2–1;6]]; edad equivalente receptiva: [[KEEP|1;8–2;0]]. Subtest de vocabulario receptivo: [[KEEP|11 de 20]] ítems ([[KEEP|55%]]), identificó correctamente objetos familiares pero no acciones ni atributos.
+
+Muestra de lenguaje espontáneo (15 min, codificada con convenciones SALT): [[KEEP|12]] enunciados espontáneos en [[KEEP|15]] minutos; vocabulario expresivo observado ~[[KEEP|11]] palabras aproximantes, principalmente sustantivos ("[[KEEP|agua]]", "[[KEEP|mamá]]", "[[KEEP|más]]"). Longitud media de enunciado [[KEEP|1.1]] morfemas. Un enunciado codificado [[KEEP|[EW]]] (error de palabra) al intentar "pelota" → produjo [[KEEP|[pe]]].
+
+Inventario fonético limitado a [[KEEP|/m, p, b, a, e, o/]]; ausencia de [[KEEP|/t, d, k, g, s, l/]]. Praxias orales dentro de lo esperado; no hay hallazgos consistentes con apraxia infantil del habla en este momento.
+
+Imitación de señas/gestos funcionales: [[KEEP|8/10]] ensayos correctos ([[KEEP|80%]]) para "más" y "terminado" con modelo + [[KEEP|mod cues]]. Comprensión de instrucciones de un paso: [[KEEP|7 de 10]] ([[KEEP|70%]]); de dos pasos: [[KEEP|3 de 10]] ([[KEEP|30%]]). Juego simbólico: nivel emergente, secuencias de dos pasos con apoyo mod-máx. Lista informal de hitos pragmáticos (adaptada de Rossetti): [[KEEP|9 de 18]] ítems presentes ([[KEEP|50%]]), con déficits en atención conjunta sostenida y turnos de juego.
+
+Observación en guardería ([[DATE|25 de septiembre de 2026]], [[TIME|9:15 a.m.]]) en [[DAYCARE|Centro Infantil Pequeños Soñadores]]: [[CHILD|Mateo]] juega paralelo, no inicia interacción con compañeros; se observó breve intercambio con compañera [[PEER|Camila]] al compartir bloques, pero sin contacto visual sostenido. Maestra [[TEACHER|Srta. Johana Reyes]] reporta conductas similares a las de casa y confirma que usa mayormente gestos y señalar.
+
+Informe de OT ([[PROVIDER|Hannah Griggs]], [[DATE|28 de septiembre de 2026]]): hiporesponsividad táctil moderada, sin cambios significativos desde la última revisión. Informe de PT ([[PROVIDER|Marcus Dell]], [[DATE|30 de septiembre de 2026]]): tono de tronco mejorando, ahora dentro de límites funcionales para la edad; PT recomienda alta en próxima revisión.
+
+Antecedentes médicos: parto a término ([[KEEP|39 semanas]]), peso al nacer [[KEEP|3,210 g]], Apgar [[KEEP|9/9]]. Sin hospitalizaciones. Audición: pasó cribado neonatal; audiometría conductual de [[DATE|15 de agosto de 2026]] dentro de límites normales bilateral. Sin antecedentes familiares reportados de retraso de lenguaje ni trastorno del espectro autista.
+
+A:
+[[CHILD|Mateo]] presenta trastorno mixto receptivo-expresivo del lenguaje, de moderado a severo, consistente con [[KEEP|F80.2]] (CIE-10), con mayor afectación en el dominio expresivo que en el receptivo. Brecha entre edad cronológica ([[KEEP|2;4]]) y edades equivalentes de lenguaje ([[KEEP|1;2–2;0]]) de aproximadamente [[KEEP|10–14 meses]], cumple criterios de elegibilidad para NC ITP bajo retraso significativo en el dominio de comunicación. Inventario fonético reducido es consistente con el perfil de lenguaje limitado más que con un trastorno motor del habla primario; se continuará monitoreando conforme aumente el vocabulario expresivo.
+
+Conductas de frustración (gritar, jalar) se interpretan como comunicación no convencional secundaria a vocabulario expresivo insuficiente, no como conducta primaria desregulada; responden bien a la introducción de señas funcionales ([[KEEP|80%]] de precisión), lo cual es indicador positivo para el pronóstico con enseñanza temprana de comunicación aumentativa. Déficits pragmáticos (atención conjunta, turnos) y juego social por debajo de lo esperado se consideran secundarios al retraso de lenguaje en este momento; audición normal y ausencia de otros marcadores reducen la probabilidad de un trastorno del espectro autista, aunque se recomienda seguir monitoreando atención conjunta en próximas visitas dado que no se puede descartar por completo a esta edad.
+
+Uso de dos idiomas en el hogar (español predominante, inglés en la guardería) no se considera causa del retraso de lenguaje; el perfil de retraso es evidente en ambos contextos lingüísticos según reportes de mamá y de la maestra [[TEACHER|Srta. Johana Reyes]], y la evaluación en español confirma retraso real más que diferencia típica de desarrollo bilingüe. Familia motivada, consistente con asistencia a sesiones y seguimiento de estrategias en casa, biblioteca e iglesia.
+
+P:
+Continuar servicios de patología del habla-lenguaje, individual, [[KEEP|2x/semana]] × [[KEEP|30 minutos]], miércoles [[TIME|3:00 p.m.]] y viernes [[TIME|4:00 p.m.]], en el hogar y por teleterapia según disponibilidad, codificado bajo [[KEEP|92507]]. Autorización vigente hasta [[DATE|31 de marzo de 2027]] bajo # [[ID|AUTH-2026-03315]].
+
+Resultado 1 (comunicación funcional): [[CHILD|Mateo]] usará [[KEEP|15–20]] palabras o aproximaciones y [[KEEP|5]] señas funcionales de manera espontánea para pedir y protestar, en [[KEEP|80%]] de las oportunidades observadas, en 6 meses. Estrategias: modelo de lenguaje aumentado ([[KEEP|Hanen]], técnica "seguir la iniciativa del niño"), introducción sistemática de señas con apoyo de video-modelado, práctica de vocabulario funcional en rutinas de comida y juego. [[PARENT|Lucía]] y [[PARENT|Diego]] recibirán coaching en cada visita; abuela [[FAMILY|Rosario]] incluida en una sesión mensual dado su rol activo de cuidado los miércoles.
+
+Resultado 2 (regulación/reducción de frustración): disminuir episodios de gritar/jalar a [[KEEP|1 o menos]] por hora de observación directa, mediante introducción de tablero de comunicación con [[KEEP|12]] símbolos (fases I–II de [[KEEP|PECS]]) en casa y guardería, con apoyo de la maestra [[TEACHER|Srta. Johana Reyes]].
+
+Resultado 3 (interacción social): [[CHILD|Mateo]] iniciará interacción con un compañero (p. ej. ofrecer juguete, imitar acción) en [[KEEP|3 de 5]] oportunidades estructuradas en la guardería y en el grupo de juego de [[AGENCY|la Biblioteca Regional del Condado de Guilford]], en 6 meses. Se acuerda invitar también a compañera [[PEER|Camila]] a actividades diádicas guiadas.
+
+Resultado 4 (entrenamiento familiar): [[PARENT|Lucía]] y [[PARENT|Diego]] demostrarán el uso independiente de al menos tres estrategias de [[KEEP|Hanen]] en video grabado en casa, revisado en la próxima visita, para apoyar generalización fuera de sesión.
+
+Coordinación y transición: coordinadora de servicios [[PROVIDER|Yesenia Ortiz]] dará seguimiento trimestral y verificará continuidad de Medicaid # [[MEDICAID_ID|745219863B]] y cobertura secundaria (seguro de [[PARENT|Diego Cruz]] por [[ORG|Transportes Alamance]], ID de miembro [[ID|BX00481927]]). Dado que [[CHILD|Mateo]] cumple 3 años en [[DATE|junio de 2027]], se iniciará planificación de transición de Parte C a Parte B en la próxima revisión; se recomienda alta de PT con [[PROVIDER|Marcus Dell]] en esa misma revisión y continuar OT 1x/semana con [[PROVIDER|Hannah Griggs]]. Pediatra [[PROVIDER|Dr. Andrés Palacios]] recibirá copia de este informe y de los resultados de PLS-5.
+
+Próxima revisión del IFSP: [[DATE|8 de abril de 2027]]. Contacto de la familia: [[PHONE|(336) 555-0147]], correo [[EMAIL|lucia.fernandezcruz@email.com]]. Documento preparado por [[PROVIDER|Carla M. Benítez]], M.S., CCC-SLP, con apoyo de intérprete [[PROVIDER|Rosa Elena Vidal]], firmado [[DATE|9 de octubre de 2026]].

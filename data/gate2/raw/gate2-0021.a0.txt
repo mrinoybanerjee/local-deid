@@ -1,0 +1,37 @@
+1. DATOS GENERALES
+1.1. Identificación y servicio
+
+Documento ficticio de sesión pediátrica en North Carolina. Paciente: [[CHILD|Elías Monteverde]], edad [[KEEP|4;4]]. Fecha: [[DATE|08/10/2026]]; horario: [[TIME|09:15]]–[[TIME|10:00]]. Expediente: [[ID|EXP-726419]]. Medicaid: [[MEDICAID_ID|583027164K]]. Profesional bilingüe: licenciada [[PROVIDER|Daniela Valcorta]], de [[EMPLOYER|Senderos del Habla Pediátrica]].
+
+2. ANTECEDENTES
+2.1. Nacimiento y salud
+
+Nacimiento: [[DATE|08/06/2022]], en [[HOSPITAL|Hospital Infantil Brisaclara]], [[PLACE|Lomaverde]]. Edad gestacional: [[KEEP|35 semanas]]; peso: [[KEEP|2400 g]]; Apgar: [[KEEP|7/9]]. Permaneció en la unidad de cuidados intensivos neonatales (NICU). La neonatóloga, doctora [[PROVIDER|Irene Salcedal]], supervisó alimentación y respiración. El pediatra, doctor [[PROVIDER|Tomás Norvella]], refiere estabilidad médica.
+
+2.2. Contexto familiar
+
+Su mamá, [[PARENT|Mariela Monteverde]], informó empleo actual en la tienda [[ORG|Amber Willow Store]] y empleo previo en la planta [[ORG|Copper Finch Plant]] y el restaurante [[ORG|Blue Acorn Restaurant]]. Su papá, [[PARENT|Rubén Ardel]], trabaja en la granja [[ORG|Quiet Meadow Farm]]; anteriormente trabajó en la constructora [[ORG|Cedar Lantern Construction]] y el servicio de limpieza [[ORG|Morning Pebble Cleaning]].
+
+3. INFORMACIÓN SUBJETIVA
+3.1. Participación cotidiana
+
+La abuela [[FAMILY|Olga Ardel]] describió juegos con su hermana [[SIBLING|Nuria Ardel]] y el perro [[PET|Bongo]]. La maestra [[TEACHER|Beatriz Solmira]], de [[SCHOOL|Escuela Preescolar Nube Azul]], observó intercambios con su compañero [[PEER|Darío Lentera]]. La familia recibe apoyo de [[AGENCY|Smart Start]] del condado de [[PLACE|Pinarclaro]].
+
+4. RESULTADOS OBJETIVOS
+4.1. Evaluación y tratamiento
+
+Evaluación previa: [[DATE|24/09/2026]]. [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73–85]].
+
+Hoy siguió instrucciones en [[KEEP|8/10]] oportunidades, con [[KEEP|80%]] de precisión y [[KEEP|claves moderadas]]. Produjo [[KEEP|«quiero agua»]] mediante [[KEEP|Hanen]]. Para [[KEEP|/k/]], dijo [[KEEP|«tato»]] ante el objetivo [[KEEP|«gato»]]. Se documentó [[KEEP|[EW]]] durante la muestra.
+
+5. VALORACIÓN
+5.1. Impresión clínica
+
+Diagnóstico registrado: [[KEEP|F80.2]]. Presentó avances funcionales, aunque necesita apoyo para generalizar combinaciones espontáneas. La participación familiar favorece la continuidad.
+
+6. PLAN
+6.1. Seguimiento y contacto
+
+Continuar el objetivo [[KEEP|2]] del IFSP y practicar turnos durante comidas. Registrar tratamiento [[KEEP|92507]], modificador [[KEEP|GN]]; evaluación previa [[KEEP|92523]]. Próxima sesión: [[DATE|15/10/2026]].
+
+Contacto: [[PHONE|919-555-0147]]; [[EMAIL|dvalcorta@senderos.example]]. Sede: [[PLACE|418 Calle del Junco]], [[PLACE|Lomaverde]], North Carolina, [[PLACE|27000]]. Portal: [[URL|https://senderos.example]]. Se entregaron pautas escritas y se confirmó comprensión familiar.

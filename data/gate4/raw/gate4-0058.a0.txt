@@ -1,0 +1,15 @@
++ Name: [[CHILD|Elías Navarro Cedeño]]
++ CA: [[KEEP|4;2]]
++ Context: Sesión individual en [[DAYCARE|Centro Infantil Rayito de Cedro]], [[PLACE|Valle Claro]], Carolina del Norte.
+
+Fecha: [[DATE|8 de octubre de 2026]], de [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]]
+Profesional: [[PROVIDER|Marina Solís]], patóloga bilingüe del habla y lenguaje, de [[EMPLOYER|Habla y Juego del Pinar]].
+Expediente: [[ID|NC-48271]]. Medicaid: [[MEDICAID_ID|000731492Q]].
+
+Subjetivo: Su mamá [[PARENT|Nadia Cedeño]] informó que [[CHILD|Elías]] pidió agua espontáneamente. Su hermana [[SIBLING|Lina]] y su abuela [[FAMILY|Teresa Cedeño]] practicaron turnos. El vecino [[PERSON|J. Ortiz]] observó cuando dijo “[[PET|Chispa]] corre”. La maestra [[TEACHER|Rosa Beltrán]] señaló mejor participación con su compañero [[PEER|Bruno]]. La familia considera ingresar a [[SCHOOL|Escuela Primaria Sendero Azul]]. La madre trabaja en [[ORG|Panadería Trigal Sereno]].
+
+Objetivo: Se realizó tratamiento individual, CPT [[KEEP|92507]], modificador [[KEEP|GN]], para diagnóstico ICD-10 [[KEEP|F80.2]]. Con [[KEEP|claves moderadas]], identificó acciones en [[KEEP|8/10]] oportunidades, equivalente al [[KEEP|80%]]. Produjo [[KEEP|/k/]] inicialmente en [[KEEP|3/5]] ensayos. Se observó sustitución por [[KEEP|[w]]] durante imitación. Dijo [[KEEP|"yo quielo agua"]], registrado con [[KEEP|[EW]]]. Practicó las palabras [[KEEP|"casa"]] y [[KEEP|"quiero"]]. Se aplicaron estrategias de [[KEEP|Hanen]] y apoyos de [[KEEP|PROMPT]]. Aceptó pausas breves y retomó la actividad sin frustración.
+
+Análisis: La evaluación del [[DATE|22 de septiembre de 2026]], CPT [[KEEP|92523]], incluyó [[KEEP|PLS-5 Spanish]], subprueba [[KEEP|Comprensión auditiva]]: puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|2;6–3;0]]. Los antecedentes del [[HOSPITAL|Hospital Infantil del Robledal]] indicaron nacimiento a [[KEEP|39 semanas]], peso de [[KEEP|3,2 kg]] y Apgar [[KEEP|8/9]]. Hoy necesitó menos repeticiones para comprender instrucciones. La participación mejoró con materiales familiares; todavía requiere apoyo para combinar palabras.
+
+Plan: Continuar el objetivo [[KEEP|2]] del [[KEEP|IFSP]]. La coordinadora [[PROVIDER|M.R.]] pertenece a [[AGENCY|Red de Coordinación Familiar del Pinar]] ([[AGENCY|RCFP]]) y colaborará con [[AGENCY|Oficina de Servicios de Desarrollo Infantil de Valle Claro]] ([[AGENCY|CDSA-VC]]). Revisar apoyos el [[DATE|15 de octubre de 2026]]. Contacto: [[PHONE|919-555-0146]], [[EMAIL|marina.solis@example.com]], [[URL|https://example.com/pinar]]. La familia practicará peticiones durante la merienda y registrará ejemplos para comentar en la próxima sesión.

@@ -1,0 +1,39 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Niño: [[CHILD|Mateo Fernández]]
+Fecha de sesión: [[DATE|9 de octubre de 2026]]
+Hora: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+Proveedora: [[PROVIDER|Karina Solís]], CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+ID de expediente: [[ID|NC-48217-M]]
+Medicaid #: [[MEDICAID_ID|9034771882K]]
+
+S (Subjetivo): La mamá de [[CHILD|Mateo]], [[PARENT|Rosa Fernández]], reporta que él durmió bien. Ella trabaja en la fábrica de empacado, "the packing plant", y el papá, [[PARENT|Hugo Fernández]], trabaja en una obra de construcción, "a construction company". La abuela, [[FAMILY|doña Lupe]], cuidó a [[CHILD|Mateo]] en la tarde mientras los papás trabajaban. [[CHILD|Mateo]] fue a la escuela hoy; su maestra, [[TEACHER|la maestra Carmen]], dijo que estuvo tranquilo.
+
+O (Objetivo): Trabajamos en producción de /k/ en posición inicial usando [[KEEP|PROMPT]] con [[KEEP|mod cues]]. [[CHILD|Mateo]] produjo [[KEEP|"casa"]] correctamente [[KEEP|8/10]] intentos y [[KEEP|"cuchara"]] en [[KEEP|6/10]]. Comparó con la sesión anterior usando tabla:
+
+Fecha	Prueba	Puntaje estándar	Percentil	IC 95%
+[[DATE|03/14/2026]]	[[KEEP|CELF-5 Expresivo]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]
+[[DATE|09/10/2026]]	[[KEEP|PLS-5 Auditory Comprehension]]	[[KEEP|85]]	[[KEEP|16]]	[[KEEP|80-90]]
+
+También practicamos secuencias narrativas con su compañero de grupo, [[PEER|Diego]], usando tarjetas de [[KEEP|PECS]]. [[CHILD|Mateo]] imitó el modelo [[KEEP|[EW]]] en dos ensayos.
+
+A (Análisis): Progreso adecuado hacia el objetivo IFSP #[[KEEP|2]]. Edad actual: [[KEEP|3;9]]. Rango esperado de edad equivalente: [[KEEP|2;6–3;0]] para comprensión auditiva. Continúa con [[KEEP|Hanen]] en casa.
+
+P (Plan): Continuar sesiones semanales. La coordinadora de servicios, [[PROVIDER|Yolanda Reyes]] de la agencia [[AGENCY|CDSA del Piedmont]], programará revisión IFSP el [[DATE|15 de enero de 2027]].
+
+Horario de servicios (tabla pegada):
+
+Día	Hora	Servicio	Proveedor
+Lunes	[[TIME|3:30 p.m.]]	Habla/lenguaje	[[PROVIDER|Karina Solís]]
+Miércoles	[[TIME|10:00 a.m.]]	Terapia ocupacional	[[PROVIDER|Mr. Tom]]
+
+Contactos (tabla pegada):
+
+Nombre	Relación	Teléfono
+[[PARENT|Rosa Fernández]]	Madre	[[PHONE|(919) 555-2287]]
+[[PARENT|Hugo Fernández]]	Padre	[[PHONE|919.555.0194]]
+[[FAMILY|doña Lupe]]	Abuela	[[PHONE|+52 1 55 1234 5678]]
+
+Nota adicional: La familia vive en [[PLACE|412 Maple Hollow Lane, Durham, NC 27703]]. La mamá mencionó que su supervisora en la tienda donde antes trabajaba, "[[PERSON|Miss Ana]]", le había recomendado esta clínica. El perro de la familia, [[PET|Rocky]], estuvo presente en la sesión pasada pero no hoy.
+
+Firma: [[PROVIDER|Karina Solís]], [[PROVIDER|SLP]] — [[EMAIL|ksolis@carolinapedspeech.com]]

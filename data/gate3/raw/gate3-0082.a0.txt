@@ -1,0 +1,37 @@
+De: [[PROVIDER|Elena Valcera]] <[[EMAIL|elena@vocesdelalba.example.invalid]]>
+Para: [[PARENT|Lucía Monteluz]] <[[EMAIL|lucia@correo.example.invalid]]>
+Fecha: [[DATE|11 de octubre de 2026]], [[TIME|14:35]]
+Asunto: Nota diaria de [[CHILD|Nicolás Monteluz]]
+Registro: [[ID|SLP-26041]]; Medicaid: [[MEDICAID_ID|000000000Q]]
+
+Buenos días, señora [[PARENT|Monteluz]]:
+
+Comparto la nota de nuestra sesión domiciliaria de hoy, realizada en español.
+
+S — Subjetivo: Su mamá [[PARENT|Lucía]] informó que trabaja en [[ORG|TLM]] y en [[ORG|Café Nube Clara]]. Los horarios dificultan practicar diariamente. Su hermana [[SIBLING|Inés]] y su abuela [[FAMILY|Rosa Monteluz]] ayudan durante la merienda. La familia describió mayor iniciativa para pedir juguetes. [[CHILD|Nico]] tiene [[KEEP|26 meses]]. Según el expediente ficticio, nació a las [[KEEP|38 semanas]], pesó [[KEEP|3.100 kg]] y presentó Apgar de [[KEEP|8]] y [[KEEP|9]].
+
+O — Objetivo: Sesión individual de [[TIME|13:00]] a [[TIME|13:40]]. Servicio CPT [[KEEP|92507]], modificador [[KEEP|GN]]; diagnóstico ICD-10 [[KEEP|F80.2]]. Trabajamos el objetivo [[KEEP|2.1]] del resultado [[KEEP|2]] del IFSP mediante [[KEEP|Hanen]] y modelado durante juego. Identificó objetos en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|claves mínimas]]. Produjo [[KEEP|«más agua»]] en [[KEEP|3 de 5]] oportunidades con [[KEEP|claves moderadas]]. Para [[KEEP|«casa»]], sustituyó [[KEEP|/k/]] por [[KEEP|[t]]]. Practicamos [[KEEP|/ɾ/]] sin exigir repetición. Registré una producción con el código SALT [[KEEP|[EW]]]. También dijo «[[PET|Tobi]] corre» al mirar al perro.
+
+A — Análisis: Aumentaron las peticiones espontáneas; persisten dificultades para comprender instrucciones nuevas. La evaluación del [[DATE|28 de septiembre de 2026]], CPT [[KEEP|92523]], incluyó [[KEEP|PLS-5]] y [[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|1;8–2;0]]. Estos resultados aportan contexto; hoy no administré pruebas estandarizadas.
+
+P — Plan: Mantener sesiones semanales. Practicar [[KEEP|«quiero pelota»]] durante rutinas breves, con [[KEEP|claves mínimas]]. Coordinar con la terapeuta ocupacional [[PROVIDER|Mara Cedral]], el fisioterapeuta [[PROVIDER|Iván Solera]] y la pediatra Dra. [[PROVIDER|Paula Brisamar]], del [[HOSPITAL|Hospital Infantil Brisaclara]]. La intérprete [[PROVIDER|Teresa Lunaval]] apoyará la próxima llamada familiar. La maestra [[TEACHER|Julia Prado]] observará intercambios con [[PEER|Leo Castañal]] en [[DAYCARE|Centro Infantil Rayito Azul]]. Revisaremos avances el [[DATE|18 de octubre de 2026]].
+
+Atentamente,
+[[PROVIDER|Elena Valcera]]
+Patóloga bilingüe del habla y lenguaje pediátrico
+[[EMPLOYER|Voces del Alba Terapias]]
+[[PHONE|919-555-0147]]
+[[URL|https://vocesdelalba.example.invalid]]
+
+> De: [[PROVIDER|Daniela Robles]]
+> Fecha: [[DATE|10 de octubre de 2026]], [[TIME|09:15]]
+> Confirmo seguimiento desde la [[AGENCY|Agencia de Servicios para el Desarrollo Infantil del Condado de Lomaluz]] ([[AGENCY|CDSA de Lomaluz]]). Como coordinadora de servicios de la [[AGENCY|Red de Acompañamiento Familiar e Intervención Infantil]] ([[AGENCY|RAFI]]), contactaré a la familia. La [[AGENCY|CDSA de Lomaluz]] conserva el IFSP; [[AGENCY|RAFI]] organizará los apoyos.
+>
+> [[PROVIDER|Daniela Robles]]
+> Coordinadora de servicios
+>
+>> De: [[PARENT|Lucía Monteluz]]
+>> Fecha: [[DATE|9 de octubre de 2026]], [[TIME|20:10]]
+>> Gracias. Mi vecino [[PERSON|Óscar Vental]] puede acercarnos a la oficina en [[PLACE|184 Calle Sauce, Lomaluz, 27500]]. Prefiero recibir instrucciones en español. Podemos practicar después de cenar, cuando ambos turnos me lo permitan.
+>>
+>> [[PARENT|Lucía]]

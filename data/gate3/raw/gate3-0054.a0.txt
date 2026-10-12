@@ -1,0 +1,117 @@
+[[AGENCY|NC Infant-Toddler Program]]
+Individualized Family Service Plan Review
+Fictional training record
+
+Review date: [[DATE|October 8, 2026]]
+Initial IFSP date: [[DATE|April 9, 2026]]
+Current service period: [[DATE|October 12, 2026]] through [[DATE|April 8, 2027]]
+Next review: [[DATE|January 14, 2027]]
+Record number: [[ID|CL-IFSP-2604187]]
+Medicaid member number: [[MEDICAID_ID|000731482Q]]
+
+Family information
+
+Child: [[CHILD|Maria Jose Alvarez Cardenas]], called [[CHILD|Majo]] at home.
+Date of birth: [[DATE|May 8, 2024]]
+Age at review: [[KEEP|29 months]]
+
+Parents: [[PARENT|Elena Cardenas Vega]] and [[PARENT|Diego Alvarez Torres]].
+Sibling: [[SIBLING|Sol Alvarez Cardenas]], age [[KEEP|6 years]].
+Maternal grandmother: [[FAMILY|Luz Cardenas Rios]].
+Regular babysitter: [[FAMILY|Hope Bennett]].
+
+The family lives at [[PLACE|417 Paper Finch Lane]], [[PLACE|Mallow Creek]], North Carolina [[PLACE|27843]], in [[PLACE|Cedar Lantern County]]. The primary telephone number is [[PHONE|919-555-0142]]. The alternate telephone number is [[PHONE|984-555-0167]]. The family email is [[EMAIL|elena.cardenas@example.com]]. The parents prefer telephone calls after [[TIME|4:30 p.m.]] and written appointment reminders in English.
+
+Spanish is the main home language. Both parents also use English. The child hears English at daycare and Spanish during meals, play, and family visits. The family wants communication support in both languages. The parents agreed that this review would be written in English. The clinician reviewed the main decisions orally in Spanish and checked the parents' understanding.
+
+Service coordination and participants
+
+Service coordinator [[PROVIDER|Nora Ellis]] works through [[AGENCY|Cedar Lantern Children's Developmental Services Agency]], also called [[AGENCY|Cedar Lantern CDSA]]. The office is at [[PLACE|82 Meadow Spool Drive]], [[PLACE|Mallow Creek]], North Carolina [[PLACE|27843]]. Contact information is [[PHONE|919-555-0128]] and [[EMAIL|nora.ellis@example.com]].
+
+The reviewing bilingual pediatric speech-language pathologist is [[PROVIDER|Marisol Vega Benton]], employed by [[EMPLOYER|Carolina Little Voices Pediatric Therapy, PLLC]]. The company also uses [[EMPLOYER|Carolina Little Voices]] and [[EMPLOYER|CLV]] on scheduling forms. Its fictional website is [[URL|https://carolinalittlevoices.example.com]].
+
+Participants included both parents, the service coordinator, the clinician, and daycare teacher Ms. [[TEACHER|Lopez]]. Occupational therapist [[PROVIDER|Simon Hart]] submitted a routine summary. Pediatrician Dr. [[PROVIDER|Avery Chen]] supplied the most recent health update. No interpreter was needed because the clinician and family communicated directly in Spanish and English.
+
+Family concerns and priorities
+
+Mother [[PARENT|Elena Cardenas Vega]] said, “I understand her pointing, but other people do not. I want her to tell us when something hurts or when she needs help. I want Spanish to stay part of our home. I do not want every meal to feel like a lesson.”
+
+Father [[PARENT|Diego Alvarez Torres]] said, “When I get home, she pulls me toward the toys. I want us to play together without guessing so much. If she uses a picture, a sign, or a word, that counts. I want to know what to do when she gets upset.”
+
+Grandmother [[FAMILY|Luz Cardenas Rios]] said, “She tells me many things with her face. Please show me how to wait and how to answer. I want her to enjoy talking with me.”
+
+The family's first priority is clearer communication during meals and play. The second priority is easier daycare transitions. The third priority is helping familiar adults recognize requests for help, discomfort, and a break. The family values shared meals, outdoor time, and visits with relatives. They want strategies that fit these activities without adding separate homework periods.
+
+Daily routines and participation
+
+The child usually wakes at [[TIME|6:45 a.m.]]. Breakfast begins around [[TIME|7:15 a.m.]]. Mother offers two familiar foods and places a picture choice beside the plate. [[CHILD|Maria Jose]] points reliably but sometimes reaches across the table when the adult does not respond quickly. The parents report that a short pause and an open hand help her give a picture or attempt a word.
+
+Dressing follows breakfast. The child likes choosing socks and dislikes having sleeves pulled over her hands. Father names the clothing item, waits, and helps when she signals. The family will practice requesting help during one dressing step. They will stop the practice if distress rises and finish dressing with calm assistance.
+
+The child attends [[DAYCARE|Little Lantern Learning House]] on weekdays. She arrives near [[TIME|8:00 a.m.]] and leaves around [[TIME|3:30 p.m.]]. She is assigned to Ms. [[TEACHER|Lopez]]'s room, named [[DAYCARE|Sunflower Room]]. Classroom assistant [[TEACHER|Janelle Price]] supports arrival, snack, and outdoor transitions. Staff report that the child joins familiar songs and watches peers before entering play.
+
+During free play, classmates [[PEER|Tomas Rivera]] and [[PEER|Ana Flores]] often use the toy kitchen nearby. [[CHILD|Majo]] brings cups to them but needs adult support to sustain the exchange. The teacher will model a short invitation, allow processing time, and accept a gesture or picture as a response. Adults will avoid asking her to repeat words before joining play.
+
+Lunch occurs at [[TIME|11:30 a.m.]]. The child eats familiar textures and drinks from an open cup with supervision. No coughing or choking was reported during the reviewed meals. She sometimes pushes food away without indicating whether she is finished. The team will offer a consistent finished signal and honor it after checking that the message is clear.
+
+At home, sibling [[SIBLING|Sol]] enjoys blocks and pretend cooking. The family dog, [[PET|Rocky]], often stays beside the play area. During a recent visit, the child said, “[[PET|Rocky]] run.” Later, she called, “[[SIBLING|Sol]] come.” These productions occurred during meaningful play and were recorded without requiring repetition.
+
+Bath begins near [[TIME|6:30 p.m.]], followed by books and bedtime around [[TIME|7:30 p.m.]]. Grandmother uses familiar Spanish songs. The child chooses a book by bringing it to an adult. The family will add one predictable pause during reading and respond to any communication attempt.
+
+Other agencies and community supports
+
+[[AGENCY|Paper Finch WIC Office]] provides nutrition appointments. [[AGENCY|Creekside Family Resource Partnership]] offers a family playgroup and transportation information. [[AGENCY|Cedar Lantern Family Services Department]] maintains a separate childcare assistance record, [[ID|CC-604219]]. The service coordinator will confirm which documents each agency needs before sharing information.
+
+Father works at [[ORG|Willow Cart Packaging Cooperative]]. His schedule changes weekly, so visits will use a consistent afternoon window when possible. The sibling attends [[SCHOOL|Pine Thread Primary School]]. School pickup sometimes limits the mother's availability. Babysitter [[FAMILY|Hope Bennett]] may attend a coaching visit with parental consent. Community transportation driver [[PERSON|Will Mercer]] is listed only as a pickup contact.
+
+Health and communication review
+
+The birth summary from [[HOSPITAL|Mallow Creek Children's Hospital]] lists gestational age [[KEEP|39 weeks, 2 days]], birth weight [[KEEP|7 pounds, 4 ounces]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. The pediatrician reported no new medical restrictions. Hearing follow-up remains scheduled for [[DATE|November 3, 2026]]. The team will review the result before interpreting persistent listening concerns.
+
+The communication evaluation dated [[DATE|September 24, 2026]] included [[KEEP|PLS-5]]. Recorded results were [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], and confidence interval [[KEEP|73-83]]; [[KEEP|Expressive Communication]] standard score [[KEEP|74]], percentile [[KEEP|4]], and confidence interval [[KEEP|69-81]]; and [[KEEP|Total Language]] standard score [[KEEP|75]], percentile [[KEEP|5]]. Recorded age-equivalent ranges were [[KEEP|1;11-2;1]] for comprehension and [[KEEP|1;8-1;10]] for expression.
+
+These English assessment results provide limited descriptive information because the child uses two languages. Spanish observations, caregiver reports, play samples, and participation across routines informed the plan. The team did not use English scores alone to describe overall language ability.
+
+A play sample included spontaneous requests in [[KEEP|6/10]] opportunities and successful shared attention in [[KEEP|8/10]] opportunities. Familiar adults understood approximately [[KEEP|60%]] of spoken attempts in context. An unfamiliar listener understood approximately [[KEEP|35%]]. The child used “[ [EW] ]” in the draft transcription key; the corrected sample code is [[KEEP|[EW]]].
+
+Observed productions included “[[KEEP|mas]],” “[[KEEP|agua]],” “[[KEEP|more]],” and “[[KEEP|help]].” The child sometimes used [[KEEP|[w]]] where an adult model contained [[KEEP|/r/]]. Production of [[KEEP|/k/]] varied across play samples. These observations guide further assessment and do not establish a motor speech diagnosis.
+
+Outcomes and strategies
+
+Outcome [[KEEP|1]]: Communicate choices and requests during meals.
+
+By [[DATE|January 14, 2027]], the child will communicate a food, drink, or finished message in [[KEEP|8/10]] natural opportunities across three meals, with [[KEEP|min cues]]. Baseline performance is [[KEEP|4/10]] opportunities with [[KEEP|mod cues]]. Adults will offer two visible choices, pause, and accept a gesture, picture, sign, or spoken attempt. Target words include “[[KEEP|agua]],” “[[KEEP|mas]],” “[[KEEP|milk]],” and “[[KEEP|all done]].” The clinician will coach responsive interaction using [[KEEP|Hanen]] principles and selected [[KEEP|It Takes Two to Talk]] strategies. The family will record brief examples rather than drill repetitions.
+
+Outcome [[KEEP|2]]: Request help or a break during difficult routines.
+
+By [[DATE|January 14, 2027]], the child will communicate help or a break in [[KEEP|3 of 5]] opportunities during dressing, cleanup, or transitions, with [[KEEP|min cues]]. The current baseline is [[KEEP|1 of 5]] opportunities with [[KEEP|max cues]]. Adults will model “[[KEEP|help]],” “[[KEEP|ayuda]],” or “[[KEEP|break]]” while showing the matching picture. They will provide help immediately after a clear request. If the child becomes distressed, the adult will reduce demands and support regulation. The team will count successful communication separately from compliance with the routine.
+
+Outcome [[KEEP|3]]: Participate in short exchanges with another child.
+
+By [[DATE|April 8, 2027]], the child will complete three reciprocal play turns in [[KEEP|4 of 5]] observed play opportunities, with [[KEEP|mod cues]] or less. Baseline is one reciprocal turn in [[KEEP|2 of 5]] opportunities with [[KEEP|max cues]]. Daycare staff will arrange familiar materials, model giving and receiving, and allow sufficient wait time. Targets include “[[KEEP|my turn]],” “[[KEEP|your turn]],” and “[[KEEP|take it]].” Peers may decline participation. Adults will support comfortable play and will not require eye contact or spoken language to count a turn.
+
+Outcome [[KEEP|4]]: Expand useful communication during shared play.
+
+By [[DATE|April 8, 2027]], the child will use a two-part message in [[KEEP|6/10]] meaningful opportunities across home and daycare, with [[KEEP|min cues]]. Baseline is [[KEEP|2/10]] opportunities with [[KEEP|mod cues]]. Adults will expand the child's message once, then continue the activity. Examples include “[[KEEP|more bubbles]],” “[[KEEP|mas agua]],” and “[[KEEP|baby sleep]].” Two-part messages may combine speech, signs, and pictures. The clinician will help adults identify messages that serve the child's current purpose. Success will not depend on exact imitation of an adult sentence.
+
+Outcome [[KEEP|5]]: Improve clarity of selected functional words.
+
+By [[DATE|April 8, 2027]], familiar listeners will recognize selected functional words in [[KEEP|7/10]] context-supported opportunities, with [[KEEP|mod cues]] or less. The initial baseline is [[KEEP|3/10]]. The clinician will select a small set of useful words after additional bilingual speech sampling. [[KEEP|Cycles]] and [[KEEP|Kaufman]] methods may inform later treatment if assessment supports their use. [[KEEP|PROMPT]] was discussed as a possible approach requiring further assessment and specific caregiver consent for touch. It was not administered during this review. Adults will preserve the child's message while offering a clear model.
+
+Outcome [[KEEP|6]]: Use an accessible communication system across routines.
+
+By [[DATE|January 14, 2027]], caregivers will make the child's communication pictures available during [[KEEP|4 of 5]] selected routines and respond consistently to exchanges. Baseline availability is [[KEEP|2 of 5]] routines. The clinician will review picture placement, access, and partner responses. [[KEEP|PECS]] was discussed as a formal program option; the current plan uses informal picture choices and does not claim formal program implementation. The team will compare participation with different supports and retain those that help the child communicate. Spoken attempts remain welcome without becoming a condition for access.
+
+Services, dates, and review arrangements
+
+Speech-language services through [[EMPLOYER|Carolina Little Voices Pediatric Therapy, PLLC]] begin [[DATE|October 12, 2026]] and continue through [[DATE|April 8, 2027]]. The planned frequency is one 45-minute individual visit each week, primarily at home. One visit each month may occur at daycare to support agreed routines. The clinician will use caregiver coaching, direct observation, and brief supported play.
+
+The proposed billing entry is [[KEEP|CPT 92507]] with modifier [[KEEP|GO]]. The recorded diagnosis code is [[KEEP|ICD-10 F80.2]]. Authorization number [[ID|AUTH-CLV-261012]] covers the listed period. Service coordinator [[PROVIDER|Nora Ellis]] will verify administrative approval before the first billed visit. The authorization entry itself does not confirm payment.
+
+Occupational therapy will continue twice monthly for 45 minutes through [[AGENCY|Cedar Lantern CDSA]], beginning [[DATE|October 15, 2026]]. Service coordination will occur monthly and as needed. The parents selected natural routine settings. Travel, missed visits, and schedule changes will be discussed directly with the family.
+
+The team will review caregiver examples, daycare observations, and brief opportunity counts. A successful response must serve a clear communication purpose. Adults will note the support provided and the child's comfort. The clinician will compare performance across languages and settings before changing targets.
+
+Both parents approved these outcomes during the meeting. The clinician explained how to request a review sooner if priorities change. The family received the plan by secure delivery at [[EMAIL|elena.cardenas@example.com]]. The next review remains scheduled for [[DATE|January 14, 2027]], at [[TIME|4:45 p.m.]].
+
+Prepared and electronically signed by [[PROVIDER|Marisol Vega Benton]], bilingual pediatric speech-language pathologist, [[EMPLOYER|CLV]], on [[DATE|October 8, 2026]].

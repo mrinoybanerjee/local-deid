@@ -1,0 +1,214 @@
+INFORME FORMAL DE REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+
+Programa de intervención temprana para bebés y niños pequeños de Carolina del Norte  
+Carácter del documento: expediente sintético; todos los datos personales, institucionales y de contacto son ficticios.
+
+**1. Identificación del expediente**
+
+**1.1. Datos del niño**
+
+Nombre: [[CHILD|Nicolás Varela Cifuentes]]. Nombre usado en casa: [[CHILD|Nico]]. Fecha de nacimiento: [[DATE|12 de junio de 2024]]. Edad cronológica durante esta revisión: [[KEEP|27 meses]]. Domicilio: [[PLACE|184 Sendero del Lirio, apartamento 3B]], [[PLACE|Vallebrisa]], Carolina del Norte, [[PLACE|27000]], condado de [[PLACE|Pinarclaro]].
+
+Número del expediente: [[ID|ITP-PC-2609147]]. Identificador infantil: [[ID|NV-042681]]. Número de Medicaid: [[MEDICAID_ID|938461205Q]]. Autorización vigente: [[ID|AUT-SLP-260901-074]].
+
+**1.2. Datos de la revisión**
+
+Fecha de reunión: [[DATE|9 de septiembre de 2026]]. Horario: [[TIME|9:00 a. m.]] a [[TIME|10:15 a. m.]]. Lugar: domicilio familiar. La reunión se realizó en español, idioma elegido por la familia. Este informe integra observación clínica, entrevista familiar, resultados de evaluación y acuerdos sobre participación cotidiana.
+
+**2. Información familiar y contactos**
+
+**2.1. Integrantes del hogar**
+
+La madre, [[PARENT|Mariela Cifuentes Robledo]], y el padre, [[PARENT|Óscar Varela Benítez]], comparten las decisiones sobre servicios. La hermana, [[SIBLING|Sol Varela Cifuentes]], tiene [[KEEP|6 años]]. La abuela materna, [[FAMILY|Elvira Robledo Sáenz]], cuida al niño durante algunas tardes. La familia tiene un perro llamado [[PET|Nube]].
+
+Teléfono principal de la madre: [[PHONE|919-555-0146]]. Teléfono del padre: [[PHONE|984-555-0172]]. Correo familiar: [[EMAIL|mariela.cifuentes@example.com]].
+
+**2.2. Contexto lingüístico y laboral**
+
+La familia usa español durante comidas, juegos y cuidados. El padre escucha inglés en su trabajo, [[ORG|Talleres Bruma Clara]], y ocasionalmente introduce palabras inglesas durante juegos. La madre trabaja parcialmente en [[ORG|Costuras Prado Azul]]. Los adultos desean mantener el español como idioma principal del hogar. Solicitan explicaciones claras y materiales breves que puedan compartir con la abuela.
+
+**3. Coordinación y responsables**
+
+**3.1. Coordinadora de servicios**
+
+La coordinadora, [[PROVIDER|Adriana Ledesma Ferrer]], pertenece a [[AGENCY|CDSA de Pinarclaro y Vallebrisa]]. Su teléfono es [[PHONE|919-555-0128]] y su correo es [[EMAIL|adriana.ledesma@example.org]]. La oficina se encuentra en [[PLACE|620 Avenida del Arrayán]], [[PLACE|Vallebrisa]], Carolina del Norte, [[PLACE|27000]].
+
+La coordinadora organizará revisiones, confirmará autorizaciones y ayudará a la familia a comunicarse con los servicios comunitarios. También verificará que los horarios permitan la participación de ambos padres.
+
+**3.2. Profesional que redacta el informe**
+
+La autora es [[PROVIDER|Camila Perdomo Salcedo]], MS, CCC-SLP, patóloga bilingüe del habla y del lenguaje pediátrico. Su empleador es [[EMPLOYER|Habla y Juego del Piedemonte, PLLC]]. Teléfono profesional: [[PHONE|336-555-0164]]. Correo: [[EMAIL|camila.perdomo@example.com]]. La profesional realizó la entrevista y redactó todo el documento en español.
+
+**4. Antecedentes de nacimiento y salud**
+
+**4.1. Historia perinatal**
+
+Según el resumen médico presentado por la familia, [[CHILD|Nicolás Varela Cifuentes]] nació en [[HOSPITAL|Hospital Maternoinfantil de Las Jarillas]] con edad gestacional de [[KEEP|35 semanas y 4 días]] y peso de [[KEEP|2.180 gramos]]. Los valores de Apgar fueron [[KEEP|7]] al primer minuto y [[KEEP|9]] a los cinco minutos.
+
+El niño ingresó en la [[HOSPITAL|Unidad de Cuidados Intensivos Neonatales Las Jarillas]] por dificultad inicial para coordinar respiración y alimentación. La neonatóloga, Dra. [[PROVIDER|Inés Valcárcel Mena]], supervisó su atención. El alta ocurrió el [[DATE|25 de junio de 2024]].
+
+**4.2. Seguimiento médico**
+
+La pediatra, Dra. [[PROVIDER|Rebeca Montes Aranda]], atiende al niño en [[HOSPITAL|Centro Pediátrico Río de Ámbar]]. El otorrinolaringólogo, Dr. [[PROVIDER|Tomás Beltrán Uceda]], evaluó episodios de otitis. La audióloga, [[PROVIDER|Luciana Paredes Olmo]], documentó respuestas auditivas funcionales para las tareas realizadas el [[DATE|18 de agosto de 2026]].
+
+La madre informa que no hay medicamentos diarios ni hospitalizaciones posteriores. Se recomienda mantener comunicación con pediatría si aparecen cambios de audición, alimentación o respiración.
+
+**5. Preocupaciones y prioridades expresadas por la familia**
+
+**5.1. Palabras de la madre**
+
+La madre, [[PARENT|Mariela Cifuentes Robledo]], expresó: “Quiero entender qué necesita antes de que llore. Cuando señala la cocina, no sé si quiere agua, comida o que lo cargue”.
+
+También dijo: “No quiero que deje de hablar español para aprender otras palabras. Quiero poder jugar con él sin sentir que todo es una tarea”.
+
+**5.2. Palabras del padre y de la abuela**
+
+El padre, [[PARENT|Óscar Varela Benítez]], explicó: “Mi prioridad es que pueda pedir ayuda y avisar cuando terminó. Quiero practicar mientras nos ponemos los zapatos”.
+
+La abuela, [[FAMILY|Elvira Robledo Sáenz]], añadió: “Necesito ejemplos cortitos. Si me enseñan cómo esperar y cómo responder, puedo hacerlo durante la merienda”.
+
+**5.3. Orden acordado**
+
+La familia prioriza comunicación de necesidades, participación en juegos compartidos y comprensión de instrucciones cotidianas. Los adultos desean disminuir los momentos de frustración mediante opciones accesibles, gestos y palabras. No consideran necesario exigir repeticiones cuando el niño ya comunica su intención claramente.
+
+**6. Rutinas diarias y participación**
+
+**6.1. Mañana y comidas**
+
+El niño despierta aproximadamente a las [[TIME|7:00 a. m.]]. Durante el desayuno, a las [[TIME|7:30 a. m.]], elige alimentos mediante mirada, alcance y vocalizaciones. La familia suele anticipar sus necesidades. Esto facilita la rutina, pero reduce oportunidades para que inicie una petición.
+
+Vestirse resulta más sencillo cuando el adulto muestra una prenda y nombra la acción. Los cambios inesperados generan protesta. La familia desea usar una secuencia visual sencilla para anticipar desayuno, vestido y salida.
+
+**6.2. Juego, descanso y cuidado personal**
+
+La siesta empieza cerca de las [[TIME|1:00 p. m.]]. La merienda ocurre a las [[TIME|3:30 p. m.]]. El baño comienza a las [[TIME|6:45 p. m.]].
+
+Durante el juego, [[CHILD|Nico]] disfruta carros, recipientes y canciones con movimientos. Busca a su hermana, [[SIBLING|Sol]], para perseguirse. Tolera mejor la espera cuando el adulto permanece cerca, reconoce su mensaje y ofrece una alternativa concreta.
+
+**7. Recursos comunitarios y otras agencias**
+
+**7.1. Apoyos actuales**
+
+La familia recibe orientación alimentaria de [[AGENCY|WIC de Pinarclaro]]. La trabajadora, [[PERSON|Mónica Sequeira Lozano]], coordina citas y materiales en español. [[AGENCY|Smart Start de Vallebrisa]] proporciona información sobre juego temprano y recursos familiares.
+
+Los sábados, la familia participa en actividades de [[AGENCY|Centro Comunitario Manantial de Papel]]. La responsable, [[PERSON|Teresa Aldana Ríos]], organiza encuentros para familias. La familia también usa el programa [[AGENCY|Cuentos con Manos Pequeñas]] de [[AGENCY|Biblioteca Pública Sauce de Luna]].
+
+**7.2. Participación con otros niños**
+
+En la actividad bibliotecaria, el niño observa a [[PEER|Mila Serrano]] y a [[PEER|Damián Correa]]. Se acerca a sus materiales, aunque necesita apoyo para compartirlos.
+
+La familia autoriza que la coordinadora solicite información general sobre horarios y acceso. Cualquier intercambio de información clínica individual requiere la autorización familiar correspondiente. Los recursos comunitarios complementan las rutinas y no sustituyen los servicios acordados.
+
+**8. Evaluación de comunicación**
+
+**8.1. Procedimientos y resultados**
+
+La evaluación del [[DATE|2 de septiembre de 2026]] incluyó [[KEEP|PLS-5 Spanish]], entrevista, muestra de lenguaje y observación de juego. En [[KEEP|Comprensión auditiva]], obtuvo puntuación estándar de [[KEEP|78]], percentil [[KEEP|7]] e intervalo de confianza de [[KEEP|73–85]]. En [[KEEP|Comunicación expresiva]], obtuvo puntuación estándar de [[KEEP|74]], percentil [[KEEP|4]] e intervalo de confianza de [[KEEP|69–82]].
+
+En [[KEEP|Lenguaje total]], obtuvo puntuación estándar de [[KEEP|75]], percentil [[KEEP|5]] e intervalo de confianza de [[KEEP|70–83]]. Los equivalentes de edad se situaron entre [[KEEP|1;10–2;0]]. Estos valores se interpretan junto con la participación funcional y la exposición lingüística.
+
+**8.2. Muestra clínica**
+
+El niño produjo [[KEEP|«agua»]], [[KEEP|«más»]] y [[KEEP|«no»]]. Usó [ [w] ] como aproximación variable durante una vocalización; la transcripción clínica correspondiente fue [[KEEP|[w]]]. Se observaron aproximaciones de [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|/k/]]. La muestra se anotó con convenciones [[KEEP|SALT]], incluido [[KEEP|[EW]]] cuando correspondía. La inteligibilidad varió según el contexto.
+
+**9. Fortalezas, necesidades y línea inicial**
+
+**9.1. Fortalezas funcionales**
+
+[[CHILD|Nicolás]] busca interacción, comparte algunas expresiones de alegría y reconoce objetos familiares. Responde mejor cuando las palabras acompañan acciones visibles. La familia identifica señales tempranas de cansancio y ajusta las actividades.
+
+Durante la observación, siguió instrucciones familiares en [[KEEP|6 de 10]] oportunidades con [[KEEP|min cues]]. Solicitó objetos mediante gesto o vocalización en [[KEEP|4/10]] oportunidades con [[KEEP|mod cues]]. Combinó gesto y palabra en [[KEEP|2/10]] oportunidades.
+
+**9.2. Necesidades prioritarias**
+
+La comunicación espontánea disminuye cuando el objeto deseado no está visible. Las preguntas repetidas aumentan su frustración. El niño necesita tiempo para responder, modelos breves y opciones que pueda reconocer.
+
+La familia y la profesional acordaron medir cambios durante rutinas reales. Cada registro incluirá oportunidades, respuestas independientes y apoyo utilizado. No se contará como respuesta independiente una producción que aparezca únicamente después de una instrucción directa para repetir.
+
+**10. Resultado funcional [[KEEP|1]]: comunicar necesidades**
+
+**10.1. Resultado y criterio**
+
+Durante comidas, vestido y juego, el niño comunicará una petición, rechazo o necesidad de ayuda mediante palabra, gesto convencional o combinación. El criterio será [[KEEP|8/10]] oportunidades con [[KEEP|min cues]], durante dos semanas consecutivas y con dos adultos diferentes.
+
+**10.2. Estrategias acordadas**
+
+Los adultos colocarán dos opciones visibles, nombrarán cada una y esperarán una respuesta. Aceptarán mirada acompañada de gesto cuando la intención sea clara. Después ofrecerán un modelo verbal breve, sin exigir repetición.
+
+La intervención utilizará estrategias de [[KEEP|Hanen]] y [[KEEP|estimulación focalizada]]. Las palabras objetivo serán [[KEEP|«agua»]], [[KEEP|«más»]], [[KEEP|«abre»]] y [[KEEP|«ayuda»]]. La madre practicará durante desayuno; el padre practicará durante vestido.
+
+**10.3. Seguimiento**
+
+La familia registrará una rutina diaria. La profesional revisará si las oportunidades resultan naturales y ajustará los apoyos. El resultado se evaluará formalmente el [[DATE|9 de diciembre de 2026]].
+
+**11. Resultado funcional [[KEEP|2]]: participar en juego compartido**
+
+**11.1. Resultado y criterio**
+
+Durante juegos con familiares o niños conocidos, el niño mantendrá tres turnos de participación en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]]. Podrá participar entregando un objeto, realizando una acción, mirando al compañero o usando una palabra.
+
+**11.2. Estrategias y distinción de nombres**
+
+Se usarán carros, pelotas y canciones cortas. La profesional enseñará [[KEEP|modelado lingüístico]] y [[KEEP|expansiones]]. Los adultos describirán la acción y dejarán espacio para otro turno.
+
+Una palabra objetivo será [[KEEP|«sol»]], referida al dibujo del astro. La hermana se llama [[SIBLING|Sol Varela Cifuentes]]. La familia distinguirá el significado mediante contexto y señalamiento. Durante la muestra, el niño dijo: “[[SIBLING|Sol]] ven”. Esa producción se refiere a su hermana.
+
+La abuela incorporará turnos durante merienda. En actividades comunitarias se podrán organizar juegos breves con [[PEER|Mila]] cuando ambas familias participen voluntariamente.
+
+**12. Resultado funcional [[KEEP|3]]: comprender secuencias cotidianas**
+
+**12.1. Resultado y criterio**
+
+El niño completará dos acciones relacionadas dentro de una rutina conocida en [[KEEP|7/10]] oportunidades con [[KEEP|min cues]]. El criterio deberá observarse en vestido y recogida de juguetes, durante dos semanas consecutivas.
+
+**12.2. Estrategias**
+
+El adulto mostrará los objetos necesarios y dará una instrucción breve. Luego esperará antes de añadir un gesto. Si el niño necesita [[KEEP|max cues]], el adulto reducirá la demanda a una acción y modelará la secuencia completa.
+
+Se utilizará [[KEEP|apoyo visual de rutinas]] y [[KEEP|enseñanza en el entorno natural]]. Las imágenes representarán actividades reales del hogar. No se usarán series largas de preguntas.
+
+La familia anotará si el niño responde a palabras, gestos o imágenes. La profesional comprobará que el progreso no dependa exclusivamente de memorizar una disposición fija. La revisión prevista será el [[DATE|9 de diciembre de 2026]].
+
+**13. Servicios, frecuencia y fechas**
+
+**13.1. Servicio de habla y lenguaje**
+
+Fecha de inicio: [[DATE|16 de septiembre de 2026]]. Fecha final del período autorizado: [[DATE|9 de marzo de 2027]]. Frecuencia: una visita semanal de cuarenta y cinco minutos en el hogar. Horario previsto: miércoles a las [[TIME|9:00 a. m.]].
+
+Profesional responsable: [[PROVIDER|Camila Perdomo Salcedo]], de [[EMPLOYER|Habla y Juego del Piedemonte, PLLC]]. Modalidad: intervención individual con participación familiar. Código de tratamiento: [[KEEP|CPT 92507]]. Diagnóstico documentado para facturación: [[KEEP|ICD-10 F80.2]]. Modificador previsto: [[KEEP|GN]], sujeto a los requisitos de la autorización.
+
+**13.2. Coordinación y revisión**
+
+La coordinación continuará desde [[DATE|9 de septiembre de 2026]] hasta [[DATE|9 de marzo de 2027]]. La coordinadora realizará contacto mensual y contactos adicionales cuando la familia lo solicite.
+
+La revisión semestral se programó para el [[DATE|9 de marzo de 2027]]. Si cambian las prioridades, el equipo revisará el plan antes de esa fecha. Las ausencias se comunicarán por teléfono; cada reprogramación se acordará con la familia.
+
+**14. Transición y relación con el sistema escolar**
+
+**14.1. Preparación inicial**
+
+La familia recibió información sobre la transición al cumplir [[KEEP|3 años]]. El distrito previsto es [[SCHOOL|Distrito Escolar de Pinarclaro]]. La escuela de referencia es [[SCHOOL|Escuela Primaria Sendero de Ámbar]].
+
+La docente, Sra. [[TEACHER|Daniela Treviño Casas]], dirige el aula preescolar. La asistente, [[TEACHER|Rosa Mireles Pardo]], apoya las rutinas de llegada y juego. La hermana, [[SIBLING|Sol]], ya asiste a esa escuela, en la clase de la maestra [[TEACHER|Verónica Salas Canto]].
+
+**14.2. Próximos pasos**
+
+La conferencia de transición propuesta será el [[DATE|12 de febrero de 2027]]. La coordinadora explicará las opciones y documentará las decisiones familiares. La escuela determinará sus propios procedimientos de evaluación y elegibilidad.
+
+La familia desea conocer el aula antes de una posible incorporación. También solicita materiales en español y ejemplos de cómo el personal apoyaría peticiones, turnos y comprensión durante actividades grupales.
+
+**15. Acuerdos finales y validación**
+
+**15.1. Responsabilidades compartidas**
+
+La familia elegirá una rutina por semana para practicar. La profesional demostrará estrategias, observará su uso y solicitará comentarios. La coordinadora verificará acceso a los servicios y resolverá dificultades de programación.
+
+El equipo revisará avances hacia los resultados [[KEEP|1]], [[KEEP|2]] y [[KEEP|3]]. La meta general es aumentar la participación familiar. Los registros combinarán respuestas observadas y comentarios de los cuidadores.
+
+**15.2. Aceptación y firma**
+
+La madre, [[PARENT|Mariela Cifuentes Robledo]], y el padre, [[PARENT|Óscar Varela Benítez]], expresaron acuerdo con las prioridades y el calendario. Solicitaron conservar una copia en español.
+
+Informe redactado y firmado por [[PROVIDER|Camila Perdomo Salcedo]], MS, CCC-SLP, patóloga bilingüe del habla y del lenguaje pediátrico, [[EMPLOYER|Habla y Juego del Piedemonte, PLLC]].
+
+Fecha de firma: [[DATE|10 de septiembre de 2026]]. Próximo contacto de coordinación: [[DATE|7 de octubre de 2026]], a las [[TIME|10:00 a. m.]].

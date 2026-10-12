@@ -1,0 +1,100 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+- Documento clínico completamente ficticio, preparado para probar una herramienta de desidentificación. Los datos personales, las organizaciones, los antecedentes y los resultados son inventados.
+- Nombre del paciente: [[CHILD|Mateo de la Cruz-Méndez]].
+- Nombre de uso familiar: [[CHILD|Teo]].
+- Fecha de nacimiento: [[DATE|14 de agosto de 2021]].
+- Fecha de evaluación: [[DATE|14 de octubre de 2025]].
+- Edad cronológica: [[KEEP|4;2]], equivalente a [[KEEP|4 años y 2 meses]].
+- Horario de evaluación: de [[TIME|9:15 a. m.]] a [[TIME|10:45 a. m.]].
+- Domicilio: [[PLACE|184 Calle del Mirador, apartamento 7]], [[PLACE|Villa Alondra]], Carolina del Norte, código postal [[PLACE|27906]].
+- Condado de residencia: [[PLACE|Loma Serena]].
+- Madre: [[PARENT|Lucía Méndez]]. Padre: [[PARENT|Rafael de la Cruz]].
+- Teléfono familiar: [[PHONE|919-555-0146]]. Correo autorizado: [[EMAIL|lucia.mendez@example.com]].
+- Centro educativo: [[SCHOOL|Preescolar Bosque de Luciérnagas]].
+- Profesional responsable: [[PROVIDER|Elena del Río-Santos]], patóloga bilingüe del habla y del lenguaje, empleada de [[EMPLOYER|Servicios Pediátricos Puente de Nubes]].
+- Portal de la empresa: [[URL|https://puentedenubes.example.com]].
+- Número de expediente: [[ID|PN-2025-04187]]. Número de Medicaid: [[MEDICAID_ID|847261935M]]. Autorización: [[ID|AUT-5820416]].
+- Servicio documentado: evaluación del habla y del lenguaje, [[KEEP|CPT 92523]], con modificador [[KEEP|GN]].
+
+MOTIVO DE CONSULTA Y ANTECEDENTES
+
+- La familia solicita una evaluación porque [[CHILD|Mateo]] comprende las rutinas habituales, pero tiene dificultad para explicar acontecimientos y hacerse entender. La madre refiere que otras personas suelen pedirle que repita. Cuando esto ocurre, el niño puede señalar, abandonar el mensaje o buscar a un adulto conocido.
+- La maestra [[TEACHER|Carmen]] describe participación adecuada en canciones, juegos motores y actividades con objetos. Durante conversaciones grupales, [[CHILD|Mateo]] responde con frases breves y observa a sus compañeros antes de actuar. La docente desea distinguir las necesidades comunicativas de las diferencias relacionadas con el aprendizaje de dos idiomas.
+- La derivación provino de la pediatra [[PROVIDER|Julia Arce-Valdés]], de [[HOSPITAL|Hospital Infantil Valle de Campanas]]. La solicitud, fechada el [[DATE|22 de septiembre de 2025]], menciona dificultad para comprender preguntas abiertas y producción poco clara de palabras. No contiene un diagnóstico previo de trastorno del lenguaje.
+- Se revisaron cuestionarios familiares, observaciones escolares y un informe de transición de la [[AGENCY|CDSA de Loma Serena]]. La coordinadora [[PROVIDER|Marina Soler]] autorizó compartir ese informe mediante el consentimiento [[ID|CONS-73192]]. Los antecedentes se consideran información aportada; esta evaluación verifica únicamente las habilidades observadas durante la sesión.
+- La entrevista se realizó en español. La madre expresó que este idioma permite describir con mayor precisión las necesidades familiares. La profesional presentó instrucciones y actividades en ambos idiomas, según la respuesta del niño. No se necesitó intérprete.
+- La familia identifica como prioridades que [[CHILD|Mateo]] pueda pedir ayuda, contar algo ocurrido en el preescolar y explicar por qué está molesto. También desea que los adultos comprendan sus mensajes sin depender siempre de la madre.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA
+
+- Según la madre, el embarazo tuvo controles regulares y terminó a las [[KEEP|38 semanas y 2 días]] de gestación. El nacimiento ocurrió en [[HOSPITAL|Hospital Materno Brisa del Cedro]]. El peso al nacer fue de [[KEEP|3,120 gramos]]. Las puntuaciones de Apgar fueron [[KEEP|8]] y [[KEEP|9]].
+- No se informó ingreso a cuidados intensivos, necesidad de ventilación ni dificultad persistente de alimentación. La madre recuerda lactancia y biberón sin episodios frecuentes de tos. Estos antecedentes proceden de su relato; no se dispuso del expediente obstétrico para confirmarlos.
+- Las primeras palabras aparecieron aproximadamente a los [[KEEP|18 meses]]. La combinación espontánea de palabras se observó cerca de los [[KEEP|30 meses]]. La familia describe progreso continuo, aunque lento. No refiere pérdida de palabras, cambios bruscos de conducta ni disminución de habilidades previamente adquiridas.
+- Se reportaron episodios de otitis durante la primera infancia. Una evaluación audiológica del [[DATE|8 de septiembre de 2025]], firmada por la audióloga [[PROVIDER|Nora Beltrán]], documentó audición suficiente para acceder al habla en las condiciones examinadas. La familia recibió instrucciones para solicitar seguimiento si aparecen nuevas molestias.
+- El niño no toma medicamentos diarios y no tiene alergias conocidas según el cuestionario. Come alimentos de distintas texturas y bebe en vaso abierto. La evaluación actual no incluyó un estudio de deglución, porque no se identificó ese motivo de consulta.
+- La observación oral mostró simetría facial y movilidad funcional para las tareas realizadas. No se apreciaron alteraciones evidentes de voz o fluidez. La familia informó sueño variable cuando cambia el horario laboral de la madre, pero no describió ronquidos persistentes ni pausas respiratorias.
+- [[CHILD|Mateo]] recibió intervención temprana antes de ingresar al preescolar. El último plan disponible, fechado el [[DATE|19 de julio de 2024]], incluía el [[KEEP|objetivo 2 del IFSP]] sobre peticiones funcionales. La documentación señala avances, pero no permite comparar directamente sus medidas con los resultados actuales.
+
+HISTORIA FAMILIAR, SOCIAL Y LINGÜÍSTICA
+
+- [[CHILD|Mateo]] vive con su madre [[PARENT|Lucía Méndez]], su padre [[PARENT|Rafael de la Cruz]] y su hermana [[SIBLING|Inés de la Cruz-Méndez]], de [[KEEP|7 años]]. Los padres participan en las decisiones escolares. La hermana suele interpretar mensajes, aunque la familia intenta darle al niño tiempo para expresarse.
+- La madre trabaja en [[ORG|Panadería Molino de Estrellas]] y también en [[ORG|EBN]]. Los turnos cambian semanalmente. El padre trabaja en [[ORG|Taller Mecánico Roble Claro]]. La familia solicita actividades breves que puedan integrarse a comidas, traslados y juegos, sin depender de un horario fijo.
+- La abuela, doña [[FAMILY|Lupe]], ayuda durante algunas tardes. La niñera [[FAMILY|Sara Pineda]] recoge al niño cuando ambos padres trabajan. Ambas usan principalmente español. La familia pidió que las recomendaciones incluyan ejemplos fáciles de compartir con estas cuidadoras.
+- Los primos [[FAMILY|Bruno del Río]] y [[FAMILY|Alma del Río]] visitan los fines de semana. Durante sus juegos, [[CHILD|Mateo]] suele seguir sus propuestas y usar gestos para negociar materiales. En casa también convive con el perro [[PET|Nube]], que motiva comentarios y peticiones espontáneas.
+- La familia utiliza el programa de cuentos de [[ORG|Biblioteca Comunitaria Sendero de Papel]]. La voluntaria, doña [[PERSON|Elvira]], saluda al niño y le ofrece libros con ilustraciones. La madre considera esta actividad una oportunidad tranquila para practicar conversaciones fuera del hogar.
+- El español es el idioma principal de la casa. El inglés aparece en el preescolar, algunos videos y juegos con compañeros. La familia estima una exposición semanal aproximada de [[KEEP|65 %]] al español y [[KEEP|35 %]] al inglés. Estas proporciones son estimaciones, no mediciones directas.
+- No se informó preocupación por mantener ambos idiomas. La madre desea conservar el español para la comunicación familiar y apoyar el inglés escolar. La evaluación considera la experiencia bilingüe y evita atribuir una dificultad clínica únicamente a diferencias de vocabulario entre idiomas.
+
+PROCEDIMIENTOS Y OBSERVACIÓN CONDUCTUAL
+
+- Se emplearon [[KEEP|PLS-5 Spanish]], una muestra de conversación, juego estructurado, observación del habla y evaluación dinámica. Los resultados estandarizados se integraron con información familiar y escolar. Ninguna puntuación aislada se utilizó como criterio único para formular las impresiones.
+- [[CHILD|Mateo]] entró acompañado de su madre, exploró los juguetes y aceptó trabajar con la profesional. Necesitó una breve anticipación visual para cambiar de actividad. Tras familiarizarse con la sala, inició peticiones y compartió objetos de interés.
+- La atención fue más estable durante el juego que durante preguntas sin apoyo visual. Se ofrecieron descansos breves y oportunidades de movimiento. La profesional documentó cuándo una respuesta surgió espontáneamente y cuándo dependió de [[KEEP|min cues]], [[KEEP|mod cues]] o [[KEEP|max cues]].
+- La maestra [[TEACHER|Carmen]] informó que los compañeros [[PEER|Lía Montes]] y [[PEER|Damián Vega]] suelen invitarlo a construir torres. En una observación escolar aportada, [[CHILD|Mateo]] mantuvo el juego compartido, pero necesitó apoyo adulto para explicar un desacuerdo.
+- Las respuestas mejoraron cuando se permitió señalar, manipular objetos y escuchar nuevamente una instrucción. Estas ayudas describen su potencial de aprendizaje. Las respuestas obtenidas con apoyo adicional no sustituyeron las reglas de puntuación de la prueba estandarizada.
+- La cooperación permitió completar los procedimientos previstos. Sin embargo, el cansancio al final de la sesión pudo reducir la extensión de algunas respuestas. La interpretación también considera que una evaluación breve no representa todas las habilidades disponibles en contextos familiares.
+
+RESULTADOS Y TABLA DE PUNTUACIONES
+
+- La tabla presenta resultados ficticios de [[KEEP|PLS-5 Spanish]]. Los intervalos corresponden a un nivel de confianza de [[KEEP|90 %]]. Las edades equivalentes se incluyen como referencia descriptiva y no representan una edad global de desarrollo ni una meta automática de tratamiento.
+
+  | Prueba o subprueba | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+  |---|---|---|---|---|
+  | [[KEEP|PLS-5 Spanish: Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|3;2]] |
+  | [[KEEP|PLS-5 Spanish: Comunicación expresiva]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69-82]] | [[KEEP|2;11]] |
+  | [[KEEP|PLS-5 Spanish: Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-83]] | [[KEEP|3;0]] |
+
+- En [[KEEP|Comprensión auditiva]], identificó objetos familiares, acciones representadas y relaciones espaciales básicas. Tuvo mayor dificultad con instrucciones que combinaban varios elementos, negación y preguntas sobre situaciones hipotéticas. El contexto visual facilitó respuestas que no aparecieron ante instrucciones exclusivamente verbales.
+- En [[KEEP|Comunicación expresiva]], nombró objetos frecuentes y combinó palabras para pedir o comentar. Mostró menor variedad de estructuras gramaticales y dificultad para describir relaciones causales. Algunas respuestas correctas aparecieron en inglés; otras aparecieron en español, conforme a los criterios aplicables del instrumento.
+- En la tarea complementaria, siguió instrucciones sencillas en [[KEEP|8/10]] oportunidades sin repetición. Para instrucciones con acciones sucesivas, respondió correctamente en [[KEEP|3/8]] oportunidades de manera independiente y en [[KEEP|6/8]] con [[KEEP|mod cues]]. Estas medidas describen la sesión y no constituyen puntuaciones normativas.
+- Durante la evaluación dinámica de relatos, organizó elementos básicos en [[KEEP|2 de 5]] oportunidades iniciales. Después del modelado, lo hizo en [[KEEP|4 de 5]] con [[KEEP|min cues]]. La mejora indica respuesta al apoyo, aunque todavía necesitó ayuda para explicar motivos y consecuencias.
+- La diferencia entre resultados independientes y resultados apoyados sugiere que la enseñanza explícita puede facilitar el aprendizaje. Las puntuaciones estandarizadas deben interpretarse junto con su exposición lingüística, desempeño cotidiano y respuesta a intervención, especialmente al determinar servicios educativos.
+
+MUESTRA DE LENGUAJE Y PRODUCCIÓN DEL HABLA
+
+- La muestra incluyó juego con animales, conversación sobre la escuela y descripción de imágenes. Se revisaron emisiones en español e inglés sin considerar automáticamente el cambio de idioma como error. Se observaron omisiones gramaticales también en el idioma de mayor uso familiar.
+- Entre las producciones espontáneas aparecieron "[[KEEP|yo quiere ese]]", "[[KEEP|bebé cayó piso]]" y "[[KEEP|no puede abrir]]". Los objetivos correspondientes fueron "[[KEEP|yo quiero ese]]", "[[KEEP|el bebé se cayó al piso]]" y "[[KEEP|no puedo abrir]]", según el contexto observado.
+- Al mirar una fotografía familiar, dijo "[[FAMILY|Bruno del Río]] tiene carro". Durante el juego comentó "[[PET|Nube]] corre aquí". Estas emisiones muestran intención de compartir información y uso funcional de nombres conocidos, aunque no bastan para valorar por sí solas la complejidad gramatical.
+- Se observaron sustituciones de [[KEEP|/k/]] por [[KEEP|/t/]] y de [[KEEP|/g/]] por [[KEEP|/d/]] en varias palabras. Por ejemplo, produjo "[[KEEP|tasa]]" para "[[KEEP|casa]]" y "[[KEEP|dato]]" para "[[KEEP|gato]]". La producción de [[KEEP|/ɾ/]] fue variable y requiere seguimiento según contexto.
+- La precisión de consonantes en la muestra estructurada fue de [[KEEP|68 %]]. La inteligibilidad estimada para la profesional fue de [[KEEP|62 %]] sin contexto compartido y de [[KEEP|81 %]] con imágenes. Estas estimaciones corresponden a esta muestra y pueden cambiar según el interlocutor.
+- Produjo [[KEEP|/k/]] correctamente en [[KEEP|6/10]] intentos con [[KEEP|mod cues]]. El apoyo incluyó modelado y claves visuales. No se observó una respuesta uniforme en todas las palabras. La información disponible no permite concluir un trastorno motor del habla.
+
+IMPRESIONES CLÍNICAS
+
+- El perfil muestra dificultades receptivas y expresivas que afectan instrucciones, relatos y resolución verbal de problemas. La información familiar indica dificultades también en español. La experiencia bilingüe contribuye a variaciones entre idiomas, pero no explica por sí sola todo el desempeño observado.
+- Las dificultades de producción reducen la claridad de mensajes fuera de contextos conocidos. Se considera compatible el diagnóstico clínico provisional de trastorno fonológico, [[KEEP|ICD-10 F80.0]], junto con trastorno mixto del lenguaje receptivo y expresivo, [[KEEP|ICD-10 F80.2]].
+- Las fortalezas incluyen interés social, juego compartido, intención comunicativa y respuesta al modelado. [[CHILD|Mateo]] busca ayuda y participa cuando recibe tiempo suficiente. Estas habilidades ofrecen una base útil para intervención funcional y colaboración con la familia.
+- La elegibilidad escolar corresponde al equipo educativo. Este informe aporta evidencia clínica, pero no sustituye sus procedimientos. Se recomienda revisar el progreso con medidas repetidas y muestras obtenidas en ambos idiomas.
+
+RECOMENDACIONES Y SEGUIMIENTO
+
+- Iniciar intervención bilingüe con objetivos funcionales de comprensión, formulación de mensajes y claridad del habla. Coordinar horarios con los turnos familiares. La práctica debe permitir que distintas personas acompañen al niño sin exigir materiales especiales ni sesiones domésticas extensas.
+- Usar estrategias de [[KEEP|Hanen]] para seguir el interés del niño, esperar respuestas y ampliar sus mensajes. Considerar componentes de [[KEEP|Cycles]] para los patrones fonológicos observados. Ajustar el enfoque según las muestras de progreso y la respuesta individual.
+- Establecer como meta seguir instrucciones con acciones sucesivas en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Trabajar primero con objetos presentes y reducir gradualmente el apoyo visual. Registrar por separado las respuestas independientes y las obtenidas con ayuda.
+- Practicar relatos breves sobre experiencias reales. Buscar que incluya participantes, acción y resultado en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]]. Los adultos pueden modelar una frase adicional sin exigir que repita cada mensaje.
+- Trabajar [[KEEP|/k/]] y [[KEEP|/g/]] en palabras útiles, como "[[KEEP|casa]]", "[[KEEP|cama]]" y "[[KEEP|gato]]". Seleccionar vocabulario compartido por la familia y el preescolar. Revisar si la precisión lograda durante ejercicios aparece después en conversación.
+- Mantener el español familiar y ofrecer oportunidades naturales de inglés. La maestra [[TEACHER|Carmen]] puede anticipar instrucciones, acompañarlas con imágenes y comprobar comprensión mediante acciones. Evitar interpretar el silencio como falta de conocimiento sin ofrecer tiempo y apoyo.
+- Compartir una hoja de práctica con doña [[FAMILY|Lupe]] y [[FAMILY|Sara Pineda]], mediante autorización familiar. Incluir ejemplos para comidas, lectura y cuidado de [[PET|Nube]]. Pedir que los adultos respondan primero al significado del mensaje.
+- Programar revisión clínica el [[DATE|13 de enero de 2026]] a las [[TIME|3:30 p. m.]]. Comparar muestras, precisión del habla y participación cotidiana. La familia puede contactar a [[PROVIDER|Elena del Río-Santos]] en [[PHONE|984-555-0128]] o [[EMAIL|elena.riosantos@example.com]].
+- Informe elaborado y firmado electrónicamente por [[PROVIDER|Elena del Río-Santos]] el [[DATE|16 de octubre de 2025]]. La madre [[PARENT|Lucía Méndez]] recibió una explicación en español y expresó acuerdo con las prioridades propuestas.

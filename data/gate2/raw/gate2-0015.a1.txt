@@ -1,0 +1,209 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN REVIEW
+Fictional training document
+
+1. DOCUMENT INFORMATION AND PARTICIPATION
+
+1.1 Review identification
+
+This IFSP review concerns [[CHILD|María José Cárdenas Vélez]]. The review occurred on [[DATE|October 8, 2026]], following the initial IFSP dated [[DATE|April 9, 2026]]. The current service period extends from [[DATE|October 12, 2026]] through [[DATE|April 8, 2027]]. The next scheduled review is [[DATE|January 14, 2027]].
+
+The child’s record number is [[ID|ITP-BW-2604187]]. The Medicaid member number recorded for this fictional case is [[MEDICAID_ID|583741926Q]]. The speech-language service authorization is [[ID|SLP-261012-0846]].
+
+1.2 Participants and language access
+
+Participants included mother [[PARENT|Lucía Vélez Duarte]], father [[PARENT|Andrés Cárdenas Molina]], service coordinator [[PROVIDER|Danielle Hartwell]], and bilingual pediatric speech-language pathologist [[PROVIDER|Elisa Moreno Bell]]. Interpreter [[PROVIDER|Rosa Vega Cruz]] supported administrative discussion and interpretation of written consent information.
+
+The family requested discussion in Spanish and an English report. The clinician provided clinical explanations directly in Spanish. The interpreter clarified administrative terms without answering assessment questions for the family. Participants confirmed that the written outcomes reflected their priorities.
+
+2. CHILD AND FAMILY INFORMATION
+
+2.1 Household and contact information
+
+[[CHILD|María José Cárdenas Vélez]] was born on [[DATE|August 8, 2024]] and is currently [[KEEP|26 months]] old. The household includes both parents and brother [[SIBLING|Tomás Cárdenas Vélez]], age [[KEEP|6 years]]. Maternal grandmother [[FAMILY|Inés Duarte Salcedo]] provides care during overlapping work shifts.
+
+The family lives at [[PLACE|1846 Lantern Finch Lane]], [[PLACE|Alder Creek]], North Carolina [[PLACE|27900]], in [[PLACE|Bellwether County]]. The primary telephone number is [[PHONE|919-555-0143]]. The alternate number is [[PHONE|252-555-0186]]. The preferred email address is [[EMAIL|l.velez.family@example.test]].
+
+The mother grew up in [[PLACE|Santa Lucerita del Río]], Mexico. Her family’s former mailing address was [[PLACE|Calle del Colibrí 27, Barrio Las Jacarandas]], [[PLACE|Santa Lucerita del Río]], Mexico. These details describe family history; they do not indicate another current service location.
+
+2.2 Family strengths and practical needs
+
+The parents share care responsibilities and consistently explain which activities work at home. The father works for [[ORG|Lantern Coast Packaging]]. His rotating schedule affects meeting availability. The grandmother can join selected home visits with parental permission.
+
+The family has stable housing and reliable telephone access. Transportation requires advance planning. The household dog, [[PET|Chispa]], often participates in play routines and provides a useful reason to request, comment, and take turns.
+
+3. SERVICE COORDINATION AND PARTICIPATING AGENCIES
+
+3.1 Lead office
+
+The lead office is [[AGENCY|Alder Creek Children’s Developmental Services Agency]], located at [[PLACE|620 Meadowglass Avenue, Suite 104]], [[PLACE|Alder Creek]], North Carolina [[PLACE|27900]]. Its telephone number is [[PHONE|919-555-0128]].
+
+Service coordinator [[PROVIDER|Danielle Hartwell]] will maintain the plan, arrange reviews, confirm provider availability, and help the family obtain accessible notices. The coordinator’s email is [[EMAIL|dhartwell@aldercdsa.example.test]]. The office information page is [[URL|https://aldercdsa.example.test/families]].
+
+3.2 Other supports
+
+The family receives nutrition support through [[AGENCY|River Lantern WIC]] in [[PLACE|Bellwether County]]. The parents also identified [[AGENCY|Meadowbridge DSS]] in [[PLACE|Bellwether County]] as their contact for transportation questions.
+
+With written consent, the coordinator will contact [[AGENCY|Bright Harbor Partnership for Children]] in [[PLACE|Bellwether County]] about inclusive community playgroups. These contacts will support access and continuity. They will not replace the services listed in this IFSP.
+
+The family requested one combined contact summary because separate calls during work hours are difficult.
+
+4. DEVELOPMENTAL AND MEDICAL BACKGROUND
+
+4.1 Birth and health history
+
+The parents reported delivery at [[KEEP|38 weeks, 2 days]] and a birth weight of [[KEEP|6 lb 9 oz]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. A brief feeding observation occurred in the NICU at [[HOSPITAL|Soundhaven Health Willowbank Campus Hospital]]. The reviewed discharge summary did not describe continuing respiratory support.
+
+Pediatrician Dr. [[PROVIDER|Nadia Serrano Pike]] follows the child at [[HOSPITAL|Soundhaven Health Willowbank Campus Pediatric Clinic]]. The most recent documented well-child visit occurred on [[DATE|September 16, 2026]]. The parents reported no current daily medication.
+
+4.2 Hearing and related services
+
+Audiologist [[PROVIDER|Owen Bellamy]] completed a hearing assessment at [[HOSPITAL|Soundhaven Health Willowbank Campus Audiology Center]] on [[DATE|September 23, 2026]]. The report described responses adequate for access to conversational speech during the assessment.
+
+Occupational therapist [[PROVIDER|Priya Desai Rowan]] addresses participation in dressing and meals. Physical therapist [[PROVIDER|Marcus Ellison Reed]] evaluated mobility on [[DATE|September 30, 2026]]. The team will share functional observations with these providers after confirming the relevant consent.
+
+5. FAMILY CONCERNS AND PRIORITIES
+
+5.1 Family statements
+
+Mother [[PARENT|Lucía Vélez Duarte]] stated: “I understand many things from her face, but other people do not. I want her to tell us what she needs before she cries.”
+
+Father [[PARENT|Andrés Cárdenas Molina]] stated: “At dinner, I want us to know whether she wants more food, a drink, or a break. I also want her to enjoy talking in Spanish with our family.”
+
+Grandmother [[FAMILY|Inés Duarte Salcedo]] stated: “When we get ready to leave, she becomes upset. Pictures might help me explain what comes next.”
+
+5.2 Agreed priorities
+
+The family selected functional communication during meals, predictable transitions, and participation with other children. They want strategies that fit existing activities and do not require lengthy practice periods.
+
+The parents value continued Spanish use. They requested support for communication across both languages without pressure to replace Spanish with English. They also want the daycare staff to recognize gestures and emerging words.
+
+The family identified successful communication as being understood through a word, gesture, picture, or combination. Spoken imitation alone is not their main measure of progress.
+
+6. DAILY ROUTINES AND NATURAL ENVIRONMENTS
+
+6.1 Home routines
+
+Breakfast usually begins at [[TIME|7:15 a.m.]]. The child chooses between familiar foods by reaching or pointing. Communication becomes harder when several items remain visible but unavailable.
+
+Dressing occurs near [[TIME|8:00 a.m.]]. The child participates more readily when an adult offers one garment at a time. The grandmother reported that unexpected changes increase distress.
+
+Dinner begins around [[TIME|6:30 p.m.]]. Family members sit together when work schedules permit. Bathing and books follow. The bedtime routine starts at [[TIME|8:15 p.m.]]. The parents prefer short shared reading with repeated phrases and opportunities to point.
+
+6.2 Daycare and community routines
+
+The child attends [[DAYCARE|Little Willow Lantern Child Development Center]]. Teacher Ms. [[TEACHER|Renata Solís]] and classroom assistant [[TEACHER|Bethany Cole]] support arrival, snack, and outdoor play.
+
+During observation, peer [[PEER|Emilia Navarro]] offered a toy cup. Peer [[PEER|Noah Bennett]] joined a rolling-ball activity. The child watched both children and remained nearby. Adults can use these familiar activities to support communication without requiring group performance.
+
+7. ASSESSMENT AND CURRENT FUNCTION
+
+7.1 Sources and interpretation
+
+Speech-language pathologist [[PROVIDER|Elisa Moreno Bell]], employed by [[EMPLOYER|Juniper Bridge Pediatric Communication Services]], completed the review through family interview, routine observation, language sampling, and selected assessment activities.
+
+The earlier [[KEEP|PLS-5]] administration included [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]]. Recorded standard scores were [[KEEP|79]] and [[KEEP|74]], respectively. The recorded [[KEEP|Total Language]] standard score was [[KEEP|75]], with a [[KEEP|90%]] confidence interval of [[KEEP|71–82]] and a percentile rank of [[KEEP|5th percentile]].
+
+These English-language scores have limited interpretive value for this bilingual child. The team did not use them alone to determine functional needs. Recorded age equivalents of [[KEEP|20 months]] and [[KEEP|18 months]] describe test performance and do not represent the child’s overall developmental age.
+
+7.2 Functional communication
+
+During familiar routines, [[CHILD|María José]] followed contextual directions in [[KEEP|8/10]] opportunities. Without contextual gestures, responses occurred in [[KEEP|4/10]] opportunities. The child independently communicated a request in [[KEEP|3 of 5]] snack opportunities.
+
+Observed productions included [[KEEP|"agua"]], [[KEEP|"más"]], and [[KEEP|"mama"]]. One sample included [[KEEP|"más agua"]]. The clinician recorded an incomplete word using the [[KEEP|SALT]] code [[KEEP|[EW]]]. These observations support functional language intervention and continued assessment across both languages.
+
+8. SPEECH, PLAY, AND PARTICIPATION
+
+8.1 Speech observations
+
+The sample included emerging /m/, /p/, and /b/ productions, documented as [[KEEP|/m/]], [[KEEP|/p/]], and [[KEEP|/b/]]. A glide resembling [[KEEP|[w]]] occurred in an attempted word. Productions involving [[KEEP|/k/]] and [[KEEP|/ɾ/]] were inconsistent and insufficient for separate treatment targets.
+
+The team will monitor speech development within meaningful communication. It will not require accurate production of every sound before accepting a message.
+
+8.2 Play and regulation
+
+The child enjoys feeding a doll, opening containers, and moving toy animals. Shared play lasts longer when an adult follows the child’s interest and adds a brief model.
+
+Transitions improve when the next activity is visible. During the daycare observation, the child moved from blocks to snack with [[KEEP|min cues]] after seeing a picture. An unexpected move indoors required [[KEEP|max cues]] and direct adult support.
+
+The team will coordinate regulation strategies with occupational therapist [[PROVIDER|Priya Desai Rowan]]. Communication opportunities will remain brief and responsive to the child’s comfort.
+
+9. IFSP OUTCOME [[KEEP|1]]: COMMUNICATION DURING MEALS
+
+9.1 Functional outcome and criteria
+
+During meals and snacks, [[CHILD|María José Cárdenas Vélez]] will communicate a choice, request, refusal, or request for help through words, gestures, or pictures. The criterion is [[KEEP|4 of 5]] opportunities across three familiar routines, with [[KEEP|min cues]], documented through family examples and provider observation.
+
+The baseline is independent communication in [[KEEP|3 of 5]] snack opportunities, with less consistent communication during dinner.
+
+9.2 Strategies
+
+Adults will place two available items within view, name each item, and allow [[KEEP|wait time]]. They will acknowledge gestures immediately and add a short spoken model.
+
+The clinician will use [[KEEP|Enhanced Milieu Teaching]], [[KEEP|focused stimulation]], and [[KEEP|recasts]] during actual meals. Suggested target words include [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"ayuda"]], and [[KEEP|"all done"]]. The family may select equivalent words that fit its language use.
+
+Adults will not withhold necessary food or drink to obtain a response. The father will describe successful dinner examples during visits. The teacher will share brief snack observations with parental consent.
+
+10. IFSP OUTCOME [[KEEP|2]]: PARTICIPATION IN TRANSITIONS
+
+10.1 Functional outcome and criteria
+
+During dressing, daycare arrival, and movement between activities, the child will participate in a predictable transition and communicate acceptance, a request for help, or a request for a brief pause.
+
+Success will occur in [[KEEP|80%]] of observed transitions across home and daycare, with [[KEEP|min cues]]. The current baseline is [[KEEP|40%]] with [[KEEP|mod cues]] or greater assistance.
+
+10.2 Strategies
+
+Adults will use [[KEEP|visual supports]] that show the present activity and the next activity. They will offer a short explanation, allow processing time, and acknowledge the child’s message.
+
+Suggested models include [[KEEP|"help"]], [[KEEP|"wait"]], [[KEEP|"vamos"]], and [[KEEP|"terminé"]]. Adults will pair spoken language with familiar gestures.
+
+Grandmother [[FAMILY|Inés Duarte Salcedo]] will select pictures that match the home routine. Teacher [[TEACHER|Renata Solís]] will identify matching classroom pictures. Occupational therapist [[PROVIDER|Priya Desai Rowan]] will advise on physical comfort and clothing choices when these affect participation.
+
+11. IFSP OUTCOME [[KEEP|3]]: SHARED PLAY WITH OTHER CHILDREN
+
+11.1 Functional outcome and criteria
+
+During familiar play, the child will initiate or respond to another child through a gesture, sound, word, or shared action. The criterion is [[KEEP|3 of 5]] opportunities across two activities with [[KEEP|min cues]].
+
+The baseline is a response in [[KEEP|1 of 5]] opportunities with [[KEEP|mod cues]]. The family wants comfortable participation rather than forced greetings.
+
+11.2 Strategies and review
+
+Adults will arrange simple, repeatable activities such as rolling a ball, feeding dolls, or exchanging toy animals. They will model [[KEEP|"my turn"]], [[KEEP|"tu turno"]], and [[KEEP|"mira"]], then pause.
+
+Brother [[SIBLING|Tomás Cárdenas Vélez]] may join when he wishes. His role will remain that of a sibling. At daycare, familiar peers may participate through ordinary classroom play.
+
+The clinician will use [[KEEP|caregiver coaching]] to help adults notice and respond to communication. The team will review progress for outcome [[KEEP|3]] through examples from home and daycare, including spontaneous messages and the support required.
+
+12. SERVICES, DATES, AND PROVIDER RESPONSIBILITIES
+
+12.1 Speech-language and related services
+
+Speech-language services will occur once weekly for forty-five minutes in the home, with periodic daycare visits when the family agrees. Services begin on [[DATE|October 12, 2026]] and continue through [[DATE|April 8, 2027]].
+
+Provider [[PROVIDER|Elisa Moreno Bell]] will deliver bilingual assessment, intervention, and family instruction. The listed billing code is [[KEEP|CPT 92507]], with modifier [[KEEP|GN]]. The current diagnostic code is [[KEEP|ICD-10 F80.2]].
+
+Occupational therapy will occur twice monthly for forty-five minutes through [[DATE|April 8, 2027]]. Provider [[PROVIDER|Priya Desai Rowan]] will coordinate dressing and mealtime strategies. Physical therapist [[PROVIDER|Marcus Ellison Reed]] will provide consultation if mobility concerns affect participation.
+
+12.2 Coordination and scheduling
+
+Service coordinator [[PROVIDER|Danielle Hartwell]] will contact the family monthly and after any significant service change. The first follow-up contact is scheduled for [[DATE|October 20, 2026]] at [[TIME|4:30 p.m.]].
+
+Interpreter [[PROVIDER|Rosa Vega Cruz]] will support administrative meetings when requested. The coordinator will confirm transportation needs before appointments and give the family a clear contact for missed visits.
+
+13. MONITORING, FAMILY AGREEMENT, AND FOLLOW-UP
+
+13.1 Progress review
+
+Providers will record the routine, communication function, level of support, and family interpretation of each example. Brief notes will distinguish independent messages from imitation. Progress will include communication in Spanish and English, gestures, and pictures.
+
+The team will review outcome [[KEEP|1]], outcome [[KEEP|2]], and outcome [[KEEP|3]] at the scheduled meeting. If progress differs across settings, the team will first examine opportunities, language access, comfort, and adult support.
+
+13.2 Agreement and report completion
+
+Mother [[PARENT|Lucía Vélez Duarte]] and father [[PARENT|Andrés Cárdenas Molina]] confirmed that the plan reflects their stated priorities. They requested telephone scheduling and emailed summaries.
+
+The coordinator will distribute the authorized plan and confirm receipt with the family and participating providers. The report was completed on [[DATE|October 9, 2026]] by bilingual pediatric speech-language pathologist [[PROVIDER|Elisa Moreno Bell]].
+
+The next action is to begin the scheduled home visit, confirm useful meal vocabulary, and select transition pictures with the family.

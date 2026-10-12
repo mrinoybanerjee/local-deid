@@ -1,0 +1,93 @@
+CAROLINA PEDIATRIC THERAPY ASSOCIATES ([[EMPLOYER|Carolina Pediatric Therapy Associates]])
+[[PLACE|4520 Garrett Road, Suite 210, Durham, NC 27707]]
+Phone: [[PHONE|(919) 555-0148]] | Secure portal: [[URL|portal.carolinapedstherapy.com]]
+
+SPEECH-LANGUAGE EVALUATION — CONFIDENTIAL / CONFIDENCIAL
+
+Client / Cliente: [[CHILD|María José Fernández Castillo]] (goes by "[[CHILD|MJ]]")
+Date of Birth: [[DATE|15 de abril de 2021]] (numeric: [[DATE|04/15/2021]])
+Chronological Age at Eval: [[KEEP|4;6]]
+Record #: [[ID|4471082]]
+NC Medicaid ID: [[MEDICAID_ID|820394721B]]
+Parents/Guardians: [[PARENT|Lucía Castillo Ramos]] (madre), [[PARENT|Javier Fernández Soto]] (padre)
+Home Address: [[PLACE|142 Birchwood Lane, Durham, NC 27705]]
+Contact Phone: [[PHONE|(919) 555-0177]]
+Evaluation Dates: [[DATE|3 de marzo de 2025]] and [[DATE|el martes 4 de junio de 2025]]
+Report Date: [[DATE|06/09/2025]]
+Referral Source: [[PROVIDER|Dr. Samuel Osei]], pediatrician, and [[PROVIDER|Keisha Brown]], service coordinator, [[AGENCY|Piedmont CDSA]]
+Examiner: [[PROVIDER|Ana Lima]], M.S., CCC-SLP, bilingual (español/inglés)
+
+S: (Subjective)
+
+Reason for referral: [[CHILD|MJ]] is a [[KEEP|4;6]]-year-old niña referred by [[PROVIDER|Dr. Samuel Osei]] after a well-check flagged intelligibility and expressive-language concerns in both Spanish and English. [[PARENT|Lucía Castillo Ramos]] and [[PARENT|Javier Fernández Soto]] c/o [[CHILD|MJ]] "no se le entiende bien" (not well understood) by family and unfamiliar listeners, and that she mixes idiomas constantly. [[PROVIDER|Keisha Brown]] at [[AGENCY|Piedmont CDSA]] coordinated this bilingual eval d/t concern re: eligibility for Part C services prior to [[CHILD|MJ]]'s 5th birthday transition.
+
+Birth and medical hx: [[CHILD|MJ]] born at [[HOSPITAL|Duke Regional Hospital]], [[KEEP|39 weeks]] gestation, [[KEEP|NSVD]] (normal spontaneous vaginal delivery), [[KEEP|Apgar 8/9]], [[KEEP|birth weight 3.2 kg]] (7 lb 1 oz). No NICU admit, no feeding tube, no reported hypoxia. Hx [[KEEP|3 episodes]] otitis media between [[KEEP|8 months]] and [[KEEP|18 months]] of age, tx'd with antibiotics; no PE tubes placed; no current ear complaints. Hearing screening [[DATE|09/12/2024]] WNL bilaterally per audiology, pass on OAE both ears. No hx seizure, no hx head injury. Vision screened WFL at well-check. [[PARENT|Lucía Castillo Ramos]] denies maternal substance use or complications during pregnancy; reports mild gestational hypertension, managed, no hospitalization beyond delivery.
+
+Developmental hx: gross/fine motor milestones per parent report WNL — sat [[KEEP|6 months]], walked [[KEEP|13 months]]. First words (Spanish) ~[[KEEP|14 months]] ("mamá," "agua"); 2-word combos ~[[KEEP|28 months]]. Parents deny regression. [[PARENT|Lucía Castillo Ramos]] states, "Antes decía más palabras que ahora siento que se quedó atrás comparada con su hermana [[SIBLING|Sol]] a esa edad."
+
+Family composition and language hx: [[CHILD|MJ]] lives with both parents, older sister [[SIBLING|Sol Fernández Castillo]] (edad [[KEEP|5;8]]), and younger brother [[SIBLING|Mateo Fernández Castillo]] (edad [[KEEP|2;3]]), at [[PLACE|142 Birchwood Lane, Durham, NC 27705]]. Home language is Spanish; [[PARENT|Lucía Castillo Ramos]] and [[PARENT|Javier Fernández Soto]] both report Spanish as L1, raised in Honduras and Michoacán respectively, now residing in [[PLACE|Durham County]]. Maternal grandmother, [[FAMILY|Rosa Castillo Ramos]] ("abuela"), provides childcare [[KEEP|2 days]]/week and speaks only Spanish with [[CHILD|MJ]]; she resides at [[PLACE|88 Cedar Grove Court, Durham, NC 27703]]. [[PARENT|Lucía Castillo Ramos]] works as a nurse at [[ORG|Duke University Health System]]; [[PARENT|Javier Fernández Soto]] works construction for [[ORG|Blue Ridge Construction Co.]] The family is enrolled with [[AGENCY|WIC]]. A family friend, [[PERSON|Carmen Ruiz]], recommended this practice to [[PARENT|Lucía Castillo Ramos]] after her own son was seen here.
+
+[[PARENT|Lucía Castillo Ramos]] reports: "En casa habla puro español, pero en la guardería casi no habla. Allá dice que está 'muy callada.' Y cuando habla, mezcla todo: dice 'quiero water' en vez de 'quiero agua,' o 'el dog corre' en vez de 'el perro corre.'" She adds that intelligibility is worse in English: "en inglés casi no le entiendo nada, mod cues no ayudan si no sabe la palabra."
+
+[[CHILD|MJ]] attends [[DAYCARE|Little Sprouts Daycare]] M–F, [[TIME|8:00 AM]]–[[TIME|5:00 PM]]. Lead teacher [[TEACHER|Ms. Patterson]] and assistant [[TEACHER|Miss Ortiz]] report [[CHILD|MJ]] follows 2-step directions in English with mod cues, prefers parallel over interactive play, and sits with classmates [[PEER|Emma]] and [[PEER|Diego]] during circle time but rarely initiates. [[TEACHER|Ms. Patterson]] wrote in a classroom note, "[[CHILD|MJ]] watches [[PEER|Emma]] and copies her actions but doesn't use words to join in." No prior speech/language or OT/PT services. Family dog [[PET|Rocky]] (labrador) is frequently mentioned by [[CHILD|MJ]] at home and was used as a reinforcer during testing ("[[PET|Rocky]] quiere jugar").
+
+Prior supports: an interpreter, [[PROVIDER|Rosa Elena Vásquez]], supported a brief OT screening on [[DATE|01/14/2025]] (no services recommended at that time; fine motor WFL). This is [[CHILD|MJ]]'s first comprehensive speech-language eval.
+
+O: (Objective)
+
+Behavioral observations: [[CHILD|MJ]] separated easily from [[PARENT|Lucía Castillo Ramos]] in the waiting area, cooperative across both sessions, intermittently shy with unfamiliar adults, warmed with play-based rapport-building. Attention WFL for structured tasks ~[[KEEP|15 min]] blocks; required [[KEEP|mod cues]] (visual + verbal) to re-engage after breaks. Articulation testing conducted bilingually by examiner, a bilingual SLP.
+
+Standardized and criterion-referenced measures administered across two visits at [[EMPLOYER|Carolina Pediatric Therapy Associates]]:
+
+| Date | Measure | Standard Score | Percentile | 95% CI |
+|---|---|---|---|---|
+| [[DATE|3 de marzo de 2025]] | [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | [[KEEP|73]] | [[KEEP|4th]] | [[KEEP|68-78]] |
+| [[DATE|3 de marzo de 2025]] | [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|65-75]] |
+| [[DATE|3 de marzo de 2025]] | [[KEEP|PLS-5]] [[KEEP|Total Language Score]] | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|66-74]] |
+| [[DATE|03/14/2025]] | [[KEEP|CELF Preschool-3]] [[KEEP|Core Language Score]] | [[KEEP|72]] | [[KEEP|3rd]] | [[KEEP|67-77]] |
+| [[DATE|3 de marzo de 2025]] | [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] Standard Score | [[KEEP|65]] | [[KEEP|1st]] | [[KEEP|60-70]] |
+| [[DATE|el martes 4 de junio de 2025]] | [[KEEP|PLS-5]] [[KEEP|Total Language Score]] (re-admin) | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|72-80]] |
+
+Informal Spanish Articulation Measures (SAM, informal) and phonological process analysis supplemented standardized English norms due to limited norming for bilingual Spanish speakers in this age range; results interpreted alongside [[KEEP|GFTA-3]] for cross-linguistic pattern comparison.
+
+Phonology: Conversational and single-word sampling in both languages revealed consistent patterns of [[KEEP|final consonant deletion]], [[KEEP|cluster reduction]], and [[KEEP|stopping of fricatives]] across Spanish and English, suggesting a true phonological disorder rather than typical bilingual transfer. Percentage Consonants Correct (PCC): [[KEEP|62%]] English, [[KEEP|68%]] Spanish.
+
+During a /l/ final-position probe using single-word targets ([[KEEP|"sol"]], [[KEEP|"mal"]], [[KEEP|"col"]]), [[CHILD|MJ]] was shown a picture of the sun and asked to label it. She paused, looked up at the examiner, and said, "como mi hermana," referencing her sister [[SIBLING|Sol]], then produced [[KEEP|[so]]] without the final [[KEEP|/l/]], consistent with [[KEEP|final consonant deletion]] (observed [[KEEP|7 of 10]] trials, [[KEEP|70%]]). With [[KEEP|max cues]] (tactile + visual), she improved to [[KEEP|[sol]]] on [[KEEP|3 of 10]] trials. Examiner noted the overlap between the target word and the sibling's name produced visible hesitation each trial, requiring redirection ("sol, como el sol en el cielo") before [[CHILD|MJ]] would attempt production again.
+
+Additional single-word probes: /k/ initial — [[KEEP|"casa"]] → [[KEEP|[tasa]]] ([[KEEP|fronting]]); /s/ clusters — [[KEEP|"estrella"]] → [[KEEP|[etreja]]] ([[KEEP|cluster reduction]]); English /θ/ — [[KEEP|"three"]] → [[KEEP|[fri]]] ([[KEEP|stopping]], age-appropriate at [[KEEP|4;6]]). Stimulability: improved to [[KEEP|min cues]] on [[KEEP|/k/]] and [[KEEP|/s/]]-cluster targets; [[KEEP|/l/]] final remained resistant to [[KEEP|mod cues]], required [[KEEP|max cues]].
+
+Oral mechanism exam: structure and function WFL, no overt dysarthria/apraxia signs, diadochokinetic rates age-appropriate. Hearing: screened WNL bilaterally [[DATE|03/03/2025]] (tympanometry type A bilaterally).
+
+Language sample (MLU analysis, 50-utterance sample, SALT-coded): MLU in Spanish [[KEEP|3.1 morphemes]], MLU in English [[KEEP|2.4 morphemes]], both below expected range for [[KEEP|4;6]]. Omission of grammatical morphemes noted in both languages, e.g., [[KEEP|[EW]]] coded for word-finding pauses occurring [[KEEP|9 times]] across sample. Pragmatics: joint attention intact, turn-taking WFL, initiates requests primarily via gesture + single words rather than phrases.
+
+Session schedule proposed for ongoing bilingual intervention (see Plan below for rationale):
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Mondays | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[DAYCARE|Little Sprouts Daycare]] (Room 2) |
+| Wednesdays | [[TIME|2:30 PM]] | [[TIME|3:15 PM]] | [[EMPLOYER|Carolina Pediatric Therapy Associates]], Durham office |
+| Fridays | [[TIME|10:15 AM]] | [[TIME|11:00 AM]] | home visit, [[PLACE|142 Birchwood Lane, Durham, NC 27705]] |
+
+A: (Assessment)
+
+[[CHILD|MJ]] presents with a [[KEEP|mixed receptive-expressive language disorder]] ([[KEEP|ICD-10 F80.2]]) evident across both Spanish and English, with a concomitant [[KEEP|phonological disorder]] marked by [[KEEP|final consonant deletion]], [[KEEP|cluster reduction]], and [[KEEP|stopping]]. Standard scores cluster in the below-average to significantly-below-average range across measures ([[KEEP|65]]–[[KEEP|76]]), and the consistency of deficit across both languages and both testing dates ([[DATE|3 de marzo de 2025]], [[DATE|el martes 4 de junio de 2025]]) supports a true language/phonological impairment rather than typical second-language acquisition or test unfamiliarity. The modest gain on re-administered [[KEEP|PLS-5]] [[KEEP|Total Language Score]] ([[KEEP|70]] → [[KEEP|76]]) is within expected test-retest variability (overlapping [[KEEP|95% CI]]) and does not indicate resolution.
+
+Relative strengths: social pragmatics WFL, joint attention intact, play skills age-appropriate, good stimulability on several error sounds with cueing. Rapport-building with the family dog [[PET|Rocky]] as reinforcer, and the brief disruption during the "[[KEEP|sol]]" probe tied to her sister [[SIBLING|Sol]]'s name, both suggest [[CHILD|MJ]] is emotionally engaged and relationally aware, a positive prognostic sign for therapy motivation.
+
+[[CHILD|MJ]] meets eligibility for [[AGENCY|Piedmont CDSA]] Part C services under [[KEEP|NC Infant-Toddler Program]] criteria based on standard scores ≥1.5 SD below mean in two or more domains. Recommend IFSP Outcome #2 (communication) be updated to reflect bilingual service delivery.
+
+P: (Plan)
+
+1. Recommend individual bilingual speech-language therapy 2x/week, 30–45 min sessions, per the schedule above, targeting phonology (final consonants, clusters) and expressive morphosyntax in both Spanish and English concurrently (not English-only).
+2. Home program: coach [[PARENT|Lucía Castillo Ramos]] and [[PARENT|Javier Fernández Soto]] (and abuela [[FAMILY|Rosa Castillo Ramos]], who provides regular childcare) using [[KEEP|Hanen]] "It Takes Two to Talk" strategies, delivered in Spanish, with brief handouts translated for [[TEACHER|Ms. Patterson]]/[[TEACHER|Miss Ortiz]] at [[DAYCARE|Little Sprouts Daycare]] for carryover.
+3. Target word lists for /l/-final probes should avoid "[[KEEP|sol]]" given its overlap with sibling [[SIBLING|Sol]]'s name; substitute [[KEEP|"mal"]], [[KEEP|"col"]], and [[KEEP|"animal"]] as primary targets to reduce confound and emotional interference during drill.
+4. Re-screen hearing in [[KEEP|6 months]] given otitis media hx; f/u with [[PROVIDER|Dr. Samuel Osei]] if recurrent ear infections.
+5. Coordinate with [[PROVIDER|Keisha Brown]] at [[AGENCY|Piedmont CDSA]] to update IFSP prior to transition planning; family's next CDSA review is [[DATE|12/10/2025]].
+6. No referral to OT indicated at this time; prior screening by [[PROVIDER|Rosa Elena Vásquez]]-supported team ([[DATE|01/14/2025]]) found fine motor WFL.
+7. Re-evaluate formally in approximately [[KEEP|6 months]], with informal progress monitoring at each session using SALT-coded sampling.
+8. Provide family with bilingual home strategies handout; encourage continued Spanish use at home per current practice, as this supports rather than hinders English development.
+
+Examiner: [[PROVIDER|Ana Lima]], M.S., CCC-SLP, NC License #[[ID|SLP-04821]]
+Date signed: [[DATE|06/09/2025]]
+
+cc: [[PROVIDER|Dr. Samuel Osei]]; [[PROVIDER|Keisha Brown]], [[AGENCY|Piedmont CDSA]]; [[PARENT|Lucía Castillo Ramos]] and [[PARENT|Javier Fernández Soto]] (parents/guardians)

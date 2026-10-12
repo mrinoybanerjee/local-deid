@@ -1,0 +1,26 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DE LENGUAJE
+
+Paciente: [[CHILD|Mateo Alférez]] Fecha de nacimiento: [[DATE|04/12/2021]] Edad: [[KEEP|4;6]]
+ID de caso: [[ID|NC-7739215B]] Medicaid: [[MEDICAID_ID|889214763T]]
+Fecha de sesión: [[DATE|October 9, 2026]] Hora: [[TIME|3:45 p.m.]]
+Clínica: [[AGENCY|Piedmont CDSA]], oficina de [[PLACE|Hillsborough, NC 27278]]
+Terapeuta: [[PROVIDER|Diana Castellanos]], MS, CCC-SLP, [[EMPLOYER|Carolina Bilingual Speech Partners]]
+Intérprete: [[PROVIDER|J. Ortiz]]
+
+S: La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Alférez]], reporta que su hermano, [[SIBLING|Tomás]], lo ayudó a practicar palabras en casa. [[CHILD|Mateo]] dijo durante el fin de semana: "[[SIBLING|Tomás]] corre con [[PET|Rocky]]" imitando a su perro y a su hermano jugando en el patio. También jugó con su prima [[FAMILY|Valentina]] y con la niñera, [[FAMILY|Marisol Peña]], quien reportó mejor atención compartida.
+
+O: Sesión de [[KEEP|30 minutos]] usando [[KEEP|PROMPT]] y elementos de [[KEEP|Cycles]] para fonología. Se trabajó el sonido /k/ en posición inicial. [[CHILD|Mateo]] produjo "casa" con [[KEEP|mod cues]] táctiles, logrando [[KEEP|7/10]] ensayos correctos ([[KEEP|70%]]). En producción espontánea dijo "[[PET|Rocky]] no [[SIBLING|Tomás]]" al describir una foto, demostrando combinación de dos palabras.
+
+Se administró el subtest [[KEEP|Articulation]] del [[KEEP|CELF-5]]: puntuación estándar [[KEEP|78]], IC [[KEEP|95%]] [[KEEP|73–83]], percentil [[KEEP|7]]. Edad equivalente [[KEEP|2;6–3;0]]. Comprensión auditiva en el [[KEEP|PLS-5]]: puntuación estándar [[KEEP|85]], percentil [[KEEP|16]].
+
+Se usaron tarjetas de [[KEEP|PECS]] para solicitar turnos durante juego con compañeros de la guardería, [[PEER|Santiago]] y [[PEER|Ximena]], en [[DAYCARE|Little Learners Daycare]]. [[CHILD|Mateo]] inició intercambio de tarjeta [[KEEP|3 de 5]] intentos sin ayuda.
+
+Se revisó con la familia estrategias de [[KEEP|Hanen]] e [[KEEP|It Takes Two to Talk]] para expansión de lenguaje en el hogar. La maestra, Sra. [[TEACHER|Lopez]], reportó en nota escrita que [[CHILD|Mateo]] participa mejor en círculo con apoyo visual tipo [[KEEP|Kaufman]].
+
+El pediatra, Dr. [[PROVIDER|R. Nazario]], de [[HOSPITAL|UNC Children's Clinic]], confirmó continuidad del plan IFSP, objetivo [[KEEP|#3]], sin cambios médicos.
+
+A: [[CHILD|Mateo]] muestra progreso leve en combinación de dos palabras y precisión de /k/. Persisten errores de omisión final consistentes con diagnóstico previo ([[KEEP|F80.1]]). Participación con pares y familia favorece generalización.
+
+P: Continuar terapia [[KEEP|2x/semana]], [[KEEP|30 minutos]], usando [[KEEP|PROMPT]] y [[KEEP|Cycles]]. Reevaluación formal programada para [[DATE|January 15, 2027]]. Contactar a la coordinadora de servicios, [[PROVIDER|M.R.]], en [[AGENCY|Orange County CDSA]], teléfono [[PHONE|(919) 555-0147]], correo [[EMAIL|coordinacion@orangecdsa.nc.gov]] para actualizar autorización, código [[KEEP|92507]].
+
+Firma: [[PROVIDER|Diana Castellanos]], CCC-SLP

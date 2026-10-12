@@ -1,0 +1,27 @@
+De: [[PROVIDER|Elena Márquez-Soto]] <[[EMAIL|elena.marquez@example.com]]>
+Para: [[PARENT|Marisol de la Cruz]] <[[EMAIL|marisol.cruz@example.com]]>
+Fecha: [[DATE|8 de mayo de 2027]], [[TIME|16:35]]
+Asunto: Sesión diaria de [[CHILD|Nicolás de la Cruz-Ramos]]
+
+S: Su mamá [[PARENT|Marisol de la Cruz]] informó que trabaja en [[ORG|LNR]] y en [[ORG|Cafetería Brisa Violeta]]. Los dos empleos dificultan practicar diariamente. Su hermano [[SIBLING|Gabriel]] participa durante la cena. La niñera [[FAMILY|Teresa del Río]] observó más solicitudes espontáneas.
+
+O: Sesión presencial de treinta minutos, iniciada a las [[TIME|15:40]], en [[EMPLOYER|Habla Semilla Bilingüe]], [[PLACE|Villa Niebla]], Carolina del Norte. Edad: [[KEEP|4;2]]. Expediente: [[ID|SL-274619]]. Medicaid: [[MEDICAID_ID|583027416M]]. Facturación: [[KEEP|92507]], modificador [[KEEP|GN]]; diagnóstico: [[KEEP|F80.0]].
+
+Se emplearon [[KEEP|Hanen]], [[KEEP|It Takes Two to Talk]], [[KEEP|PROMPT]], [[KEEP|Cycles]], [[KEEP|PECS]] y [[KEEP|Kaufman]] en actividades breves. Produjo [[KEEP|/k/]] en [[KEEP|8/10]] intentos con [[KEEP|apoyos moderados]]; logró [[KEEP|60%]] de solicitudes independientes. Dijo “[[KEEP|tasa]]” para “[[KEEP|casa]]” y “[[PET|Chispa]] corre”. Apareció [[KEEP|[w]]] como sustitución; se registró [[KEEP|[EW]]] en la muestra.
+
+La evaluación previa con [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], mostró puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|2;6–3;0]].
+
+A: [[CHILD|Nicolás]] mantuvo atención durante turnos cortos. Generalizó solicitudes al juego, pero todavía necesita modelos para consonantes posteriores.
+
+P: Continuar el objetivo [[KEEP|2]] del IFSP. Practicar cinco minutos con materiales domésticos. Su maestra [[TEACHER|Inés Valverde]], de [[SCHOOL|Centro Preescolar Nube Clara]], recibirá sugerencias cuando la familia autorice el envío. Revisaremos la tolerancia a las claves táctiles antes de repetirlas.
+
+[[PROVIDER|Elena Márquez-Soto]]
+Patóloga bilingüe del habla y lenguaje
+[[EMPLOYER|Habla Semilla Bilingüe]]
+[[PHONE|(919) 555-0148]]
+
+> De: [[PARENT|Marisol de la Cruz]]
+> Fecha: [[DATE|8 de mayo de 2027]], [[TIME|12:10]]
+> Sus compañeros [[PEER|Alma]] y [[PEER|Bruno]] esperan sus turnos. Sus primos [[FAMILY|Lía]] y [[FAMILY|Tomás]] jugarán mañana. Podemos practicar después de cenar.
+>
+> [[PARENT|Marisol de la Cruz]]

@@ -1,0 +1,22 @@
+Patient: [[CHILD|María José Fernández Ortiz]]
+DOB: [[DATE|April 12, 2021]]
+Age: 5;6
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Insurance Member ID: [[ID|W884521037]]
+NC ITP Child ID: [[ID|ITP-0047732]]
+Authorization Number: [[ID|AUTH-2026-00981]]
+Date of Service: [[DATE|October 8, 2026]]
+Time In: [[TIME|2:30 PM]] / Time Out: [[TIME|3:15 PM]]
+Clinician: [[PROVIDER|Rosa Delgado]], MS, CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Setting: Home, [[PLACE|412 Willow Creek Lane, Durham, NC 27703]]
+Interpreter: [[PROVIDER|Marta Gómez]] (Spanish-English, in person)
+Service Coordinator: [[AGENCY|Central Regional CDSA]]
+Contact: [[PHONE|(919) 555-0148]] / [[EMAIL|rdelgado@carolinapedslp.com]]
+
+S: Session held at the family home. [[CHILD|María José]]'s father, [[PARENT|Mr. Tom]], stated she slept poorly after a cold and was "cranky" at drop-off this morning. Her brother [[SIBLING|Diego]] was present during the first ten minutes and distracted her from tabletop tasks. Grandmother [[FAMILY|doña Lupe]], who watches the children on Wednesdays while [[PARENT|Lucía Reyes Ortiz]] works at [[ORG|Bright Horizon Manufacturing]], reported [[CHILD|María José]] has been imitating more words at home, including "pelota" and "más."
+
+O: Worked on CVC blending and the target /k/ in word-initial position. [[CHILD|María José]] produced "casa" correctly 7/10 trials with mod cues and self-corrected "[k]apa" to "[kapa]" once. GFTA-3 informal recheck of /s/ clusters showed stimulability at 60%. She briefly mentioned her dog [[PET|Rex]] and her classmate [[PEER|Noah]] from [[DAYCARE|Sunny Days Daycare]], where [[TEACHER|Miss Ana]] assists and [[TEACHER|la maestra Carmen]] leads the room.
+
+A: [[CHILD|María José]] continues to make steady progress on initial consonant targets bilingually; attention was reduced today, likely related to illness and sibling presence. Family engagement remains strong.
+
+P: Continue twice-weekly home sessions per current authorization. Will coordinate with [[AGENCY|Central Regional CDSA]] regarding IFSP review scheduled for [[DATE|November 3, 2026]]. Recommend [[PARENT|Mr. Tom]] and [[PARENT|Lucía Reyes Ortiz]] practice /k/ words during bath time nightly. Next visit: [[DATE|October 15, 2026]] at [[TIME|2:30 PM]].

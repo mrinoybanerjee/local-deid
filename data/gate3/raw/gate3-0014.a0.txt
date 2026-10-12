@@ -1,0 +1,19 @@
+Daily pediatric speech-language therapy note — fictional test record
+DOS: [[DATE|October 8, 2026]]; [[TIME|9:15 AM]]–[[TIME|10:00 AM]].
+Pt: [[CHILD|Elian Varela]], age [[KEEP|4;2]]; DOB [[DATE|August 8, 2022]].
+SLP: [[PROVIDER|Nadia Belmonte]], bilingual English/Spanish clinician, [[EMPLOYER|Sprigstone Speech Services]].
+Site: [[DAYCARE|Little Learners Daycare]], [[PLACE|418 Thistlebend Lane]], [[PLACE|Wrenfield]], NC [[PLACE|27500]].
+Record: [[ID|SSS-260108-042]]; Medicaid: [[MEDICAID_ID|583104729Q]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S: Mom [[PARENT|Marisol Varela]] attended w/ pt; dad [[PARENT|Tomas Varela]] joined by phone. CG reported increased requests at home but frustration b/c sister [[SIBLING|Sol]] sometimes answers first. Babysitter [[FAMILY|Pia Moreno]] practiced waiting during snack. Cousins [[FAMILY|Inez Calder]] and [[FAMILY|Beto Calder]] visited yesterday; pet dog [[PET|Mochi]] interrupted practice. CG requested home examples in both languages. Teacher Ms. [[TEACHER|Avery Pell]] reported easier transitions w/ picture choices. No new illness reported. Preferred contact: [[PHONE|919-555-0147]], [[EMAIL|marisol.varela@example.com]]. CG described quieter speech when unfamiliar adults enter, with improved participation after familiar songs and predictable turn order.
+
+O: Reviewed fictional eval dated [[DATE|September 24, 2026]]: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], [[KEEP|90%]] confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score [[KEEP|75]]. Historical CG report: born at [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], Apgar scores [[KEEP|8 and 9]]. These historical values were reviewed, not reassessed today. Hearing follow-up remains pending per CG; no hearing results available in session record.
+
+O: Within [[KEEP|Little Learners Program]], used [[KEEP|Hanen]] and [[KEEP|It Takes Two to Talk]] interaction strategies during blocks/snack. CG followed pt's lead and paused before offering choices. Pt requested [[KEEP|"more juice"]] in [[KEEP|8/10]] opportunities w/ [[KEEP|min cues]]; expanded to [[KEEP|"want more juice"]] in [[KEEP|3 of 5]] trials w/ [[KEEP|mod cues]]. [[KEEP|PECS]] supported requesting during cleanup. Used [[KEEP|PROMPT]] tactile support and [[KEEP|Kaufman]] shaping for simple syllable transitions. [[KEEP|Cycles]] activities addressed initial [[KEEP|/k/]]; accuracy [[KEEP|60%]] w/ [[KEEP|max cues]]. Observed [[KEEP|[w]]] substitution during connected speech.
+
+Spanish target [[KEEP|"sol"]] elicited in [[KEEP|4/6]] trials w/ [[KEEP|mod cues]]. Sister [[SIBLING|Sol]] was discussed separately from the vocabulary target. Pt said "[[SIBLING|Sol]] help" during pretend play. Classmates [[PEER|Mila Doren]] and [[PEER|Owen Kesley]] joined briefly; pt offered each a block after adult modeling. Pt also said "[[PET|Mochi]] run" while viewing a home photo. SALT sample included [[KEEP|[EW]]] on an abandoned utterance.
+
+A: [[CHILD|Elian]] showed improved initiation after wait time; longer utterances remained cue dependent. Performance varied w/ noise and peer movement. Spanish vocabulary supported participation. CG demonstrated strategies accurately after modeling; carryover needs review across routines.
+
+P: Continue weekly visits under IFSP [[KEEP|Outcome 2]], [[KEEP|Goal 2.1]]. Practice requests during snack for approx five minutes daily. CG will offer choices, pause, then model one additional word. Avoid repeated demands when pt disengages. Coordinate w/ service coordinator [[PROVIDER|Lena Corven]] at [[AGENCY|Brindle County Early Steps Office]]. Next visit: [[DATE|October 15, 2026]], [[TIME|9:15 AM]]. Home handout: [[URL|https://sprigstone.example/home-practice]]. Review carryover next session.

@@ -1,0 +1,38 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|10/09/2026]]. Horario: [[TIME|09:15]] a [[TIME|09:45]].
+Paciente: [[CHILD|Nicolas Paredes Soto]]. Edad: [[KEEP|4;2]]. Nacimiento: [[DATE|08/09/2022]].
+Expediente: [[ID|SLP-2609147]]. Medicaid: [[MEDICAID_ID|583206419K]].
+Diagnostico: [[KEEP|F80.2]]. Servicio: [[KEEP|92507]], modificador [[KEEP|GN]].
+Clinica: [[EMPLOYER|Servicios Infantiles Puente de Voz]].
+Profesional: [[PROVIDER|Elena Valverde]], patologa bilingue del habla y lenguaje, Carolina del Norte.
+
+S: INFORMACION SUBJETIVA
+
+La madre, [[PARENT|Marina Soto]], acompanio a [[CHILD|Nicolas]] y explico que pide ayuda con mayor frecuencia en casa. El padre, [[PARENT|Andres Paredes]], informo por telefono que las dificultades aumentan cuando cambia la rutina. La hermana, [[SIBLING|Sol]], suele responder antes que el paciente. La abuela, [[FAMILY|Dalia Soto]], cuida al paciente despues de clases y desea usar las mismas estrategias.
+
+La familia confirmo domicilio en [[PLACE|184 Calle Sauce Claro]], [[PLACE|Vallecedro]], Carolina del Norte, [[PLACE|27500]], condado de [[PLACE|Brisamar]]. Contacto: [[PHONE|919-555-0146]]; [[EMAIL|marina.soto@example.com]]. La madre refirio que el perro, [[PET|Nube]], facilita juegos de turnos. No informo dolor, enfermedad reciente ni cambios de medicamentos. El paciente entro tranquilo y eligio materiales sin dificultad.
+
+O: OBSERVACIONES Y DATOS
+
+La sesion individual se realizo en [[SCHOOL|Escuela Primaria Sendero Azul]], perteneciente al [[SCHOOL|Distrito Escolar de Brisamar]], en el salon de la maestra [[TEACHER|Clara Montalvo]]. La asistente, [[TEACHER|Ines Robles]], observo el cierre. Los companeros [[PEER|Leo Funes]] y [[PEER|Alma Cordero]] participaron brevemente durante una actividad de saludo.
+
+Se emplearon [[KEEP|Hanen]] y [[KEEP|PECS]], con elecciones visuales, espera y expansion verbal. [[CHILD|Nicolas]] siguio instrucciones con dos elementos en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|apoyo moderado]]. Identifico acciones en [[KEEP|3 de 5]] oportunidades con [[KEEP|apoyo minimo]]. Produjo solicitudes espontaneas en [[KEEP|60%]] de las oportunidades y dijo [[KEEP|"quiero agua"]], [[KEEP|"dame carro"]] y [[KEEP|"mas burbujas"]].
+
+Para el objetivo [[KEEP|/k/]], se practicaron las palabras [[KEEP|"casa"]] y [[KEEP|"copa"]]. La precision fue [[KEEP|6/10]] con [[KEEP|apoyo maximo]]. Se observo [ [KEEP] ] como anotacion pendiente; la transcripcion confirmada fue [[KEEP|[w]]] durante una imitacion aislada. La muestra de lenguaje incluyo el codigo [[KEEP|[EW]]].
+
+La evaluacion previa, fechada [[DATE|09/18/2026]], correspondio a [[KEEP|92523]]. En [[KEEP|PLS-5 Spanish]], [[KEEP|Comprension auditiva]] obtuvo puntuacion estandar [[KEEP|77]], percentil [[KEEP|6]], intervalo de confianza [[KEEP|72-84]] y edad equivalente [[KEEP|3;0]]. [[KEEP|Comunicacion expresiva]] obtuvo puntuacion estandar [[KEEP|79]]. Estos resultados se revisaron con la madre.
+
+A: ANALISIS CLINICO
+
+[[CHILD|Nicolas]] mostro mejor participacion cuando el adulto presento una instruccion y espero su respuesta. Las ayudas visuales facilitaron la comprension; las preguntas consecutivas redujeron las respuestas espontaneas. La precision articulatoria aumento despues del modelo, pero todavia depende de ayudas directas.
+
+El rendimiento respalda continuar la intervencion para lenguaje receptivo y expresivo. Los datos actuales describen esta sesion y no sustituyen una nueva evaluacion. La madre practico una expansion y pudo repetir la estrategia sin ayuda. Se recomienda que [[SIBLING|Sol]] espere antes de contestar por el paciente.
+
+P: PLAN Y COORDINACION
+
+Continuar el objetivo del IFSP [[KEEP|2.1]], establecido el [[DATE|09/25/2026]], mediante solicitudes funcionales durante juego y merienda. Practicar diariamente con materiales familiares y registrar respuestas independientes.
+
+Se reviso el plan con [[PROVIDER|Paula Neri]], coordinadora de servicios de [[AGENCY|Agencia Comunitaria de Coordinacion Familiar del Valle]], abreviada [[AGENCY|ACCFV]]. La oficina de referencia es [[AGENCY|Oficina de la Agencia de Servicios de Desarrollo Infantil de Vallecedro]], denominada [[AGENCY|CDSA Vallecedro]]. La familia dispone del portal [[URL|https://cdsa-vallecedro.example/seguimiento]].
+
+Proxima sesion: [[DATE|10/16/2026]], a las [[TIME|09:15]]. Firma: [[PROVIDER|Elena Valverde]].

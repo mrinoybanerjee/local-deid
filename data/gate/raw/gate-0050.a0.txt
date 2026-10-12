@@ -1,0 +1,116 @@
+Document type: NC Infant-Toddler Program IFSP Review — FICTIONAL TEST RECORD
+Child: [[CHILD|Tadeo Marín Cevallos]]
+Preferred name: [[CHILD|Teo]]
+Date of birth: [[DATE|03/03/2023]]
+Age at review: [[KEEP|2;3]]
+Review date: [[DATE|16 de junio de 2025]]
+Initial IFSP date: [[DATE|3 de marzo de 2025]]
+Record number: [[ID|ITP-5831047]]
+Medicaid member ID: [[MEDICAID_ID|583104792Q]]
+Authorization number: [[ID|SLP-250617-0846]]
+Parents: [[PARENT|Inés Cevallos]] and [[PARENT|Darío Marín]]
+Home address: [[PLACE|4187 Juniper Lantern Lane]], [[PLACE|Lunavale]], North Carolina [[PLACE|27997]]
+Family telephone: [[PHONE|919-555-0147]]
+Parent email: [[EMAIL|ines.cevallos@example.com]]
+Service coordinator: [[PROVIDER|Mariela Voss]], BS
+CDSA office: [[AGENCY|Lunavale Riverbend CDSA]]
+CDSA telephone: [[PHONE|919-555-0183]]
+Document author: [[PROVIDER|Celina Arvelo]], MA, CCC-SLP
+Author’s employer: [[EMPLOYER|Firefly Bridge Pediatric Therapy, PLLC]]
+Author email: [[EMAIL|celina.arvelo@example.com]]
+Agency resource URL: [[URL|https://riverbend-cdsa.example.com/familias]]
+Encounter time: [[TIME|9:15 a.m.]]–[[TIME|10:25 a.m.]]
+Location: Family home
+Participants: Both parents, child, service coordinator, and bilingual speech-language pathologist
+
+Información familiar / Family information
+
+I completed this review in Spanish and English according to each participant’s preference. Mother preferred Spanish for planning and English for written appointment reminders. Father used both languages. The family requested one combined document so both parents can share the same strategies.
+
+[[CHILD|Tadeo]] lives with his parents and sister, [[SIBLING|Luz Marín Cevallos]], age [[KEEP|5;1]]. His maternal grandmother, [[FAMILY|Belisa Cevallos]], provides care during overlapping work shifts. The family’s dog, [[PET|Miga]], often stays beside the play mat. Mother works at [[ORG|Lantern Loom Packaging Cooperative]]. Father works at [[ORG|Cedarwheel Equipment Repair]]. Their schedules change weekly.
+
+The family maintains contact with relatives in [[PLACE|Aldea Las Campanillas]], Guatemala. Grandmother’s former address was [[PLACE|Casa 18, Calle del Naranjito]], in that village. These details are fictional family context for this test record.
+
+Preocupaciones y prioridades / Family’s own words
+
+Mother said, “Quiero que [[CHILD|Teo]] me diga qué necesita, aunque sea con sus manos primero. When he cries, yo adivino, and sometimes I get it wrong.”
+
+Father said, “He understands our routines, pero cuando cambiamos algo se frustra. I want him to ask for help before he throws the cup.”
+
+Grandmother said, “En español platica más conmigo. No quiero que pierda eso cuando empiece más inglés.” I explained that intervention will support communication across both languages. The family does not need to stop speaking Spanish at home.
+
+The parents ranked priorities as requesting help, joining meals without prolonged distress, and communicating with familiar children. Mother added, “No necesitamos palabras perfectas; necesitamos entendernos.”
+
+The family identified shared meals, music, and bedtime stories as strengths. They prefer strategies that fit existing routines. They declined an additional separate practice period because both parents already manage changing shifts and transportation.
+
+Rutinas diarias / What the day looks like
+
+Breakfast usually begins at [[TIME|7:30 a.m.]]. [[CHILD|Tadeo]] reaches toward food and sometimes leads an adult to the refrigerator. Adults can offer two visible choices before opening packages. The family wants fewer rapid questions during meals.
+
+On childcare mornings, departure occurs around [[TIME|8:20 a.m.]]. [[CHILD|Teo]] attends [[DAYCARE|Little Lantern Bilingual Playhouse]] three mornings weekly. Ms. [[TEACHER|Nadia Peralta]] reports that he joins songs and watches peers before approaching them. Classmate [[PEER|Amaro Vélez]] offers toy vehicles. Another child, [[PEER|Mina Corbel]], participates in the same snack group.
+
+After pickup, grandmother offers lunch and quiet play. Sister [[SIBLING|Luz]] attends [[SCHOOL|Juniper Kite Primary School]] and joins afternoon play when she returns.
+
+Bath time starts near [[TIME|6:40 p.m.]]. Bedtime books begin around [[TIME|7:45 p.m.]]. Mother reported, “La luz bajita helps him settle.” Here, luz describes the room lighting.
+
+Agencias y apoyos / Other services
+
+[[AGENCY|Lunavale Riverbend CDSA]] coordinates the IFSP and monitors access. [[AGENCY|Copper Finch County WIC Office]] provides nutrition appointments. [[AGENCY|Copper Finch Family Connections]] assists with transportation requests. Dispatcher [[PERSON|Oren Bellwick]] is the family’s listed transportation contact.
+
+Pediatrician Dr. [[PROVIDER|Tessa Quintero]] practices at [[HOSPITAL|Juniper Harbor Children’s Hospital]]. The family reported a hearing appointment on [[DATE|05-22-2025]]; the written result was unavailable today. The coordinator will request it with the existing release.
+
+No additional therapy was reported. Mother recalled the first developmental concern “el [[DATE|martes 4 de junio de 2024]], cuando dejó de intentar algunas palabras.” That statement is family history, not a verified finding. The pediatrician’s referral is dated [[DATE|2025-02-18]].
+
+Resumen clínico bilingüe / Review findings
+
+During the home observation, [[CHILD|Tadeo]] communicated through pointing, reaching, vocalizations, and several spoken forms. He followed familiar directions more consistently when adults included gestures. Communication varied with the activity, listener, and available visual support.
+
+The evaluation dated [[DATE|06/03/2025]] included [[KEEP|Preschool Language Scales, Fifth Edition, Spanish (PLS-5 Spanish)]]. The record lists Auditory Comprehension [[KEEP|standard score 79]], [[KEEP|8th percentile]]; Expressive Communication [[KEEP|standard score 75]], [[KEEP|5th percentile]]; and Total Language [[KEEP|standard score 76]], [[KEEP|5th percentile]]. These findings support the functional observations but do not describe every bilingual skill.
+
+A brief language sample included [[KEEP|"ma agua"]], [[KEEP|"no"]], and [[KEEP|"go"]]. One modeled utterance carried the [[KEEP|SALT]] code [[KEEP|[EW]]]. Speech included [[KEEP|/m/]], [[KEEP|/p/]], and [[KEEP|[w]]]. Intelligibility was approximately [[KEEP|40%]] to an unfamiliar listener in this sample.
+
+The working diagnosis remains [[KEEP|F80.2]]. Treatment planning emphasizes participation, caregiver coaching, and communication across languages.
+
+Resultados y estrategias / Functional outcomes
+
+Outcome 1: Request help during meals and play.
+
+By [[DATE|12/16/2025]], [[CHILD|Teo]] will request an item or help using a gesture, picture, sign, or spoken form in [[KEEP|8/10]] opportunities across meals and play, with [[KEEP|min cues]], during three consecutive caregiver checks.
+
+Adults will place desired items within view, pause, and acknowledge any clear communication attempt. They may model [[KEEP|"ayuda"]], [[KEEP|"help"]], [[KEEP|"más"]], or [[KEEP|"more"]] once, then wait. Adults will honor the request without requiring repetition.
+
+Current performance was [[KEEP|3/10]] opportunities with [[KEEP|mod cues]]. Mother will record a small sample twice weekly. Father will use the same approach during weekend breakfast.
+
+Outcome 2: Participate in a predictable meal routine.
+
+By [[DATE|12/16/2025]], [[CHILD|Tadeo]] will use a communication signal to choose food, request a pause, or indicate completion during [[KEEP|80%]] of observed meals across two weeks, with [[KEEP|min verbal cues]].
+
+The family will use a simple first-then picture sequence and offer two choices. Adults will model [[KEEP|"terminé"]], [[KEEP|"all done"]], and [[KEEP|"descanso"]] without turning the meal into a drill. Distress will prompt a pause and support.
+
+Baseline participation was [[KEEP|2/5]] sampled meals, based on caregiver notes. Grandmother said, “Podemos esperar un poquito; no tenemos que preguntar todo seguido.” The clinician will coach pacing during an actual meal.
+
+Outcome 3: Join a short exchange with another child.
+
+By [[DATE|12/16/2025]], [[CHILD|Teo]] will complete three turns in a shared activity with a sibling or peer in [[KEEP|4/5]] opportunities, using actions, gestures, or words, with [[KEEP|mod cues]] or less.
+
+Adults will start with rolling a ball, parking cars, or passing puzzle pieces. Ms. [[TEACHER|Peralta]] will offer a familiar partner and model [[KEEP|"mi turno"]] or [[KEEP|"your turn"]]. Sister [[SIBLING|Luz]] can join when she chooses; she is not responsible for therapy.
+
+Current performance was [[KEEP|1/5]] opportunities. The family and childcare staff will share brief observations about successful activities and supports.
+
+Servicios / Service plan and dates
+
+Speech-language services will begin [[DATE|06/17/2025]] and continue through [[DATE|12/16/2025]], once weekly for 45 minutes. Service code: [[KEEP|CPT 92507]]. The primary setting is the home. One monthly visit may occur at childcare when the family and classroom agree.
+
+[[PROVIDER|Celina Arvelo]] will provide bilingual caregiver coaching through [[EMPLOYER|Firefly Bridge Pediatric Therapy, PLLC]]. Sessions will include observation, joint practice, reflection, and one manageable strategy for the coming week.
+
+[[PROVIDER|Mariela Voss]] will provide monthly coordination and contact the family sooner if access changes. The next coordination call is scheduled for [[DATE|07/02/2025]] at [[TIME|12:15 p.m.]]. The next formal review is planned for [[DATE|12/09/2025]].
+
+The coordinator will begin transition planning before the child’s third birthday. The family prefers a joint call with both parents.
+
+Acuerdos / Family participation and follow-up
+
+Both parents agreed that these outcomes reflect their priorities. Mother said, “Sí, así funciona para nosotros. Spanish at home, English cuando hace falta, and everybody can help.”
+
+The family received an explanation of voluntary participation, consent, and how to request changes. Electronic consent was recorded on [[DATE|06/16/2025]]. The clinician will provide picture choices at the next visit. The coordinator will obtain the hearing report and confirm transportation access.
+
+Authored and electronically signed by [[PROVIDER|Celina Arvelo]], MA, CCC-SLP, on [[DATE|2025/06/16]] at [[TIME|11:40 a.m.]].

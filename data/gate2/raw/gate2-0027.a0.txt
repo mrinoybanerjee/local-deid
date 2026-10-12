@@ -1,0 +1,224 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Documento sintético para pruebas. Todos los datos personales, institucionales y clínicos son ficticios.
+
+DATOS DE IDENTIFICACIÓN
+
+Nombre: [[CHILD|Lucía Isabel Valcárcel]]
+Nombre usado en casa: [[CHILD|Luli]]
+Iniciales del expediente: [[CHILD|L.I.V.]]
+Fecha de nacimiento: [[DATE|8 de agosto de 2022]]
+Fecha de evaluación: [[DATE|10 de octubre de 2026]]
+Edad cronológica: [[KEEP|4;2]], equivalente a [[KEEP|50 meses]]
+Expediente: [[ID|SL-2026-04718]]
+Medicaid: [[MEDICAID_ID|728450193Q]]
+Autorización: [[ID|NC-ST-604827]]
+Servicio: [[KEEP|CPT 92523]]
+Modalidad: [X] Presencial  [ ] Telepráctica
+Lugar: [X] Consultorio  [ ] Hogar  [ ] Escuela
+Idiomas de evaluación: [X] Español  [X] Inglés
+Hora de inicio: [[TIME|9:15 a. m.]]
+Hora de finalización: [[TIME|11:05 a. m.]]
+
+Madre: [[PARENT|Mariela Soto Valcárcel]]
+Padre: [[PARENT|Esteban Valcárcel]]
+Teléfono principal: [[PHONE|(919) 555-0146]]
+Correo familiar: [[EMAIL|mariela.valcarcel@example.com]]
+Domicilio: [[PLACE|1846 Sendero del Fresno]], [[PLACE|Villa Sauzal]], Carolina del Norte, [[PLACE|27586]]
+Condado: [[PLACE|Condado de Pinar Claro]]
+
+Evaluadora: [[PROVIDER|Natalia Sofía Castañeda]], patóloga del habla y del lenguaje pediátrica bilingüe.
+Empresa: [[EMPLOYER|Senderos de Comunicación Pediátrica, PLLC]]
+Nombre comercial: [[EMPLOYER|Senderos Pediátricos]]
+Abreviatura administrativa: [[EMPLOYER|SCP]]
+Dirección profesional: [[PLACE|620 Avenida del Robledal]], consultorio 208, [[PLACE|Villa Sauzal]], Carolina del Norte.
+Teléfono: [[PHONE|(984) 555-0182]]
+Correo: [[EMAIL|evaluaciones.scp@example.com]]
+Portal: [[URL|https://senderos-pediatricos.example.com]]
+
+MOTIVO Y FUENTES DE INFORMACIÓN
+
+[X] Dificultad para comprender instrucciones
+[X] Dificultad para expresar ideas
+[X] Habla difícil de entender
+[ ] Dificultad principal de alimentación
+[ ] Uso exclusivo de comunicación gestual
+
+La madre solicitó la evaluación porque [[CHILD|Lucía]] combina palabras, pero omite información necesaria para explicar lo que quiere. La familia también observa frustración cuando una persona no entiende su mensaje. El padre refiere que la niña conversa más durante el juego familiar que frente a adultos nuevos.
+
+La pediatra, Dra. [[PROVIDER|Elena Marín]], de [[HOSPITAL|Sistema de Salud Monteazul, Clínica Pediátrica Campus Sauce]], emitió la referencia el [[DATE|18 de septiembre de 2026]]. La referencia solicita valorar comprensión, expresión y claridad del habla en ambos idiomas.
+
+Las fuentes incluyeron entrevista familiar, observación directa, muestras de lenguaje, cuestionario escolar y documentos médicos aportados por la madre. La maestra [[TEACHER|Carmen]] completó el cuestionario de [[SCHOOL|Escuela Preescolar Sendero de Nubes]] el [[DATE|2 de octubre de 2026]]. Sus comentarios describen el funcionamiento escolar y no sustituyen la observación clínica.
+
+ANTECEDENTES DEL DESARROLLO
+
+[X] Información proporcionada por la familia
+[X] Documentos médicos disponibles
+[ ] Expediente hospitalario completo disponible
+
+La familia describe a [[CHILD|Luli]] como curiosa, afectuosa y persistente. Le gustan los animales de juguete, los libros con ventanas y las actividades de cocina imaginaria. Busca participar con otros niños, aunque suele retirarse cuando el grupo cambia rápidamente de actividad.
+
+La madre recuerda primeras palabras alrededor de los [[KEEP|18 meses]] y combinaciones espontáneas hacia los [[KEEP|32 meses]]. Estas edades proceden del recuerdo familiar. No se informó pérdida de palabras, gestos ni habilidades sociales previamente adquiridas. La niña caminó sin apoyo a los [[KEEP|15 meses]].
+
+Actualmente pide objetos, rechaza actividades y busca ayuda mediante palabras, gestos y contacto visual. Le cuesta describir un problema que ocurrió fuera del momento presente. Cuando no encuentra una palabra, señala o repite una expresión general. La familia suele completar el mensaje antes de que termine.
+
+HISTORIA DEL NACIMIENTO
+
+Nacimiento: [X] Hospitalario  [ ] Domiciliario
+Parto: [ ] Vaginal  [X] Cesárea
+Ingreso neonatal: [X] Sí  [ ] No
+Exposición prenatal relevante informada: [ ] Sí  [X] No
+
+[[CHILD|Lucía Isabel Valcárcel]] nació en [[HOSPITAL|Sistema de Salud Monteazul, Hospital Maternoinfantil Campus Laurel]]. La edad gestacional documentada fue de [[KEEP|35 semanas y 6 días]]. El peso al nacer fue de [[KEEP|2,410 gramos]]. Los puntajes de Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos.
+
+La niña permaneció seis días en [[HOSPITAL|Sistema de Salud Monteazul, Unidad de Cuidados Intensivos Neonatales Campus Laurel]] por dificultades iniciales para mantener la temperatura y coordinar la alimentación. El resumen disponible registra apoyo breve con oxígeno y alimentación complementaria por sonda. No registra convulsiones ni cirugía neonatal.
+
+La madre indicó que la niña pasó el tamiz auditivo neonatal. El documento aportado confirma un resultado bilateral satisfactorio. La familia recibió instrucciones para seguimiento pediátrico después del alta.
+
+HISTORIA MÉDICA Y AUDITIVA
+
+[X] Infecciones de oído previas
+[ ] Cirugía de oído
+[ ] Medicación diaria
+[ ] Alergias conocidas informadas
+[X] Evaluación auditiva reciente
+
+La madre informó tres episodios de otitis durante el último año. No indicó hospitalizaciones posteriores al período neonatal. El sueño suele ser continuo, aunque la niña pide compañía al acostarse. No se informaron dificultades actuales para masticar o tragar alimentos habituales.
+
+El otorrinolaringólogo, Dr. [[PROVIDER|Raúl Benítez]], atendió a [[CHILD|Lucía]] en [[HOSPITAL|Sistema de Salud Monteazul, Otorrinolaringología y Audiología Campus Cedro]] el [[DATE|24 de septiembre de 2026]]. La audióloga [[PROVIDER|Irene Paredes]] registró respuestas compatibles con acceso auditivo adecuado para el habla durante esa visita. Recomendó repetir el seguimiento si aparecen nuevas infecciones o cambios funcionales.
+
+La evaluación actual no incluyó diagnóstico médico ni una exploración auditiva completa. La niña respondió a voces conversacionales y sonidos ambientales. Estas observaciones apoyan la participación en las tareas, pero no reemplazan las pruebas audiológicas.
+
+FAMILIA, CUIDADORES Y RUTINAS
+
+Vive con: [X] Madre  [X] Padre  [X] Hermano  [ ] Otros familiares
+Cuidado habitual: [X] Hogar  [X] Preescolar  [ ] Guardería de tiempo completo
+
+El hermano [[SIBLING|Tomás Valcárcel]], de [[KEEP|7 años]], participa en juegos de construcción con la niña. La abuela, doña [[FAMILY|Lupe]], ofrece cuidado dos tardes por semana. La tía [[FAMILY|Beatriz Soto]] ayuda con el transporte cuando los horarios laborales coinciden.
+
+La mamá [[PARENT|Mariela]] trabaja de noche como supervisora de empaque en [[ORG|Empaques Brisa del Pinar]]. Su turno empieza a las [[TIME|10:00 p. m.]] y termina a las [[TIME|6:00 a. m.]]. El papá [[PARENT|Esteban]] trabaja como técnico de mantenimiento en [[ORG|Servicios Mecánicos Arroyo Verde]].
+
+La vecina, señora [[PERSON|Nora Beltrán]], es contacto de emergencia, pero no ofrece cuidado regular. La familia tiene un perro llamado [[PET|Canela]]. La niña suele dirigirle comentarios durante el juego y usa esas interacciones para practicar órdenes sencillas.
+
+HISTORIA LINGÜÍSTICA Y EDUCATIVA
+
+Idioma familiar principal: [X] Español  [ ] Inglés
+Exposición adicional: [X] Inglés  [ ] Otro
+Necesidad de intérprete: [ ] Sí  [X] No
+
+La familia estima que la exposición diaria es aproximadamente [[KEEP|65%]] en español y [[KEEP|35%]] en inglés. Esta distribución varía según el horario escolar y el cuidador. Ambos padres hablan principalmente español con la niña. El hermano alterna idiomas durante juegos y programas infantiles.
+
+[[CHILD|Luli]] asiste a [[SCHOOL|Escuela Preescolar Sendero de Nubes]] desde el [[DATE|12 de enero de 2026]]. Antes recibió cuidado parcial en [[DAYCARE|Guardería Casita del Colibrí]]. La auxiliar [[TEACHER|Ana]] utiliza saludos y apoyos visuales en español. La instrucción grupal ocurre principalmente en inglés.
+
+Según la maestra [[TEACHER|Carmen]], la niña busca jugar con [[PEER|Mara Beltrán]] y [[PEER|Diego Navas]]. Comprende mejor las rutinas conocidas que las explicaciones nuevas. La familia no informó preocupaciones equivalentes sobre otros niños bilingües de su entorno. Las dificultades descritas aparecen también en español.
+
+SERVICIOS PREVIOS Y COORDINACIÓN
+
+[X] Servicios tempranos previos
+[ ] Terapia actual en otra empresa
+[X] Apoyos informales del preescolar
+
+La familia recibió orientación de [[AGENCY|CDSA de Pinar Claro]]. La coordinadora [[PROVIDER|Mónica Rivas]], identificada como [[PROVIDER|M.R.]] en notas anteriores, organizó visitas familiares. El plan individualizado de servicios familiares, IFSP, tuvo fecha de revisión del [[DATE|6 de junio de 2025]].
+
+El [[KEEP|resultado IFSP 2]] buscaba aumentar las peticiones durante comidas y juegos. El [[KEEP|objetivo IFSP 2.1]] incluía combinar un gesto con una palabra. La madre refiere progreso en esa etapa, seguido de dificultades al aumentar las demandas de conversación.
+
+[[AGENCY|Programa Crecer Juntos de Pinar Claro]] aportó libros bilingües. La trabajadora [[PROVIDER|Julia Ortiz]], quien firma como [[PROVIDER|J. Ortiz]], explicó recursos comunitarios. La familia también recibe apoyo nutricional de [[AGENCY|WIC de Pinar Claro]].
+
+CONDUCTA Y CONDICIONES DE EVALUACIÓN
+
+Participación: [X] Adecuada con descansos  [ ] Limitada
+Regulación: [X] Apoyo visual  [X] Pausas de movimiento
+Acompañante: [X] Madre  [ ] Padre  [ ] Otro
+
+[[CHILD|Lucía]] necesitó tiempo para explorar el consultorio. Después aceptó actividades de mesa y juego compartido. Buscó a su madre cuando una tarea resultó difícil, pero regresó con anticipación visual y opciones sencillas.
+
+La evaluadora [[PROVIDER|Natalia Castañeda]] presentó tareas en ambos idiomas según los procedimientos aplicables. Registró por separado las respuestas obtenidas durante la administración estandarizada y las respuestas posteriores con enseñanza. Las ayudas adicionales no se usaron para aumentar los puntajes estandarizados.
+
+La atención fue suficiente para completar las actividades principales. Hubo dos descansos breves. El cansancio aumentó al final, por lo que se priorizó la muestra espontánea antes de las últimas tareas. Los resultados representan el desempeño observado y deben interpretarse junto con la historia lingüística.
+
+PRUEBAS Y RESULTADOS
+
+Se administró [[KEEP|PLS-5 Spanish]] para examinar habilidades receptivas y expresivas. Se incorporó [[KEEP|BESA]] para ampliar la descripción del funcionamiento bilingüe. Los resultados no se interpretaron mediante una comparación directa entre puntajes de pruebas diferentes.
+
+| Prueba | Subprueba o índice | Puntaje estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|IC del 90%: 73–85]] | [[KEEP|3;3]] |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Comunicación expresiva]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|IC del 90%: 69–82]] | [[KEEP|2;11]] |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|IC del 90%: 70–83]] | [[KEEP|3;1]] |
+| [[KEEP|BESA]] | [[KEEP|Semántica en español]] | [[KEEP|82]] | [[KEEP|12]] | No calculado para este informe | No informada |
+| [[KEEP|BESA]] | [[KEEP|Morfosintaxis en español]] | [[KEEP|76]] | [[KEEP|5]] | No calculado para este informe | No informada |
+
+Las edades equivalentes describen referencias del instrumento. No representan una edad global del desarrollo ni determinan por sí solas la necesidad de tratamiento. No se obtuvieron puntajes escalares. Las tareas informales descritas a continuación carecen de normas y sirven para identificar necesidades funcionales.
+
+COMPRENSIÓN DEL LENGUAJE
+
+La niña identificó objetos familiares y comprendió acciones frecuentes. Siguió instrucciones de un paso en [[KEEP|8/10]] oportunidades sin apoyo adicional. Con instrucciones de dos pasos relacionadas, respondió correctamente en [[KEEP|4/10]] oportunidades. Alcanzó [[KEEP|7/10]] después de repetición y [[KEEP|claves moderadas]].
+
+Comprendió relaciones espaciales básicas durante el juego. Presentó mayor dificultad con [[KEEP|“detrás”]], [[KEEP|“entre”]] y preguntas que exigían explicar una causa. Respondió preguntas concretas sobre imágenes con mayor facilidad que preguntas sobre experiencias pasadas.
+
+La comprensión mejoró cuando la persona mostró el material y redujo la longitud de la instrucción. Este patrón apareció en español y en inglés. La niña no siempre pidió aclaración. En ocasiones comenzó una acción antes de escuchar toda la consigna, por lo que conviene comprobar la comprensión mediante una respuesta observable.
+
+EXPRESIÓN, NARRACIÓN Y COMUNICACIÓN SOCIAL
+
+En la muestra espontánea, [[CHILD|Luli]] produjo mensajes breves con sustantivos y verbos frecuentes. Usó [[KEEP|“mamá abre caja”]] para pedir ayuda y [[KEEP|“yo no sabe”]] al responder una pregunta. Estas producciones se registraron sin corregir su forma.
+
+Durante una secuencia de imágenes, mencionó personajes y acciones, pero omitió conexiones temporales. Para el objetivo [[KEEP|“la niña perdió su zapato”]], produjo [[KEEP|“niña zapato no”]]. Con [[KEEP|claves máximas]], repitió una oración ampliada, aunque no la generalizó inmediatamente.
+
+La codificación descriptiva incluyó [[KEEP|[EW]]] cuando apareció una palabra adicional que no aportaba al mensaje. También se registró [[KEEP|[EU]]] en emisiones abandonadas. Estos códigos de [[KEEP|SALT]] describen la muestra y no constituyen un diagnóstico.
+
+La niña mantuvo turnos breves, compartió interés y respondió al nombre. Inició comentarios sobre juguetes. Necesitó ayuda para reparar mensajes cuando el interlocutor mostró confusión.
+
+HABLA Y EXPLORACIÓN OROFACIAL
+
+La estructura orofacial visible permitió movimientos funcionales para las tareas realizadas. No se observaron diferencias evidentes de simetría en reposo. La exploración fue limitada a observación clínica y movimientos voluntarios sencillos.
+
+Se observaron sustituciones de [[KEEP|/k/]] por [[KEEP|/t/]] en palabras españolas familiares. Para [[KEEP|“casa”]], produjo [[KEEP|“tasa”]]. También redujo grupos consonánticos: ante [[KEEP|“plato”]], dijo [[KEEP|“pato”]]. La producción de [[KEEP|/ɾ/]] fue variable y se interpretó considerando el desarrollo y el idioma.
+
+En una palabra inglesa, la realización de [[KEEP|/l/]] se aproximó a [[KEEP|[w]]]. Ese ejemplo se analizó dentro del sistema del inglés. No se clasificó como error español.
+
+La inteligibilidad estimada fue [[KEEP|62%]] para la evaluadora en conversación sin contexto y [[KEEP|81%]] durante juego con contexto visible. La niña imitó [[KEEP|/k/]] en [[KEEP|3 de 5]] intentos con [[KEEP|claves máximas]].
+
+IMPRESIONES CLÍNICAS
+
+Los datos apoyan dificultades funcionales en comprensión, expresión y organización del habla. Las dificultades aparecen en ambos idiomas y afectan la participación cotidiana. La exposición bilingüe explica algunas diferencias de vocabulario, pero no explica por sí sola el patrón completo observado.
+
+La impresión de trabajo incluye trastorno mixto del lenguaje receptivo y expresivo, [[KEEP|ICD-10 F80.2]], y trastorno de los sonidos del habla, [[KEEP|ICD-10 F80.0]]. Estas impresiones integran entrevista, observación, resultados y respuesta a apoyos. No se basan únicamente en un puntaje.
+
+[[CHILD|Lucía]] muestra fortalezas en intención comunicativa, juego simbólico y aprendizaje con modelos. La respuesta a enseñanza breve sugiere oportunidades para desarrollar habilidades. El pronóstico funcional depende de la participación familiar, la práctica accesible y la continuidad del seguimiento. Se recomienda revisar las impresiones según el progreso y nueva información.
+
+RECOMENDACIONES Y PLAN INICIAL
+
+Frecuencia propuesta: [X] Dos sesiones semanales  [ ] Una sesión semanal
+Duración propuesta: [X] Treinta minutos  [ ] Otra
+Participación familiar: [X] Orientación durante cada sesión
+Idioma de intervención: [X] Español  [X] Inglés según la actividad
+
+1. Iniciar intervención con [[EMPLOYER|Senderos Pediátricos]]. El servicio previsto corresponde a [[KEEP|CPT 92507]], con [[KEEP|modificador GN]] cuando sea aplicable. Confirmar cobertura antes de comenzar.
+
+2. Trabajar comprensión dentro de rutinas significativas. El [[KEEP|objetivo 1]] propone seguir instrucciones relacionadas de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|claves mínimas]].
+
+3. Ampliar mensajes para pedir, comentar y explicar. El [[KEEP|objetivo 2]] propone producir oraciones funcionales en [[KEEP|80%]] de oportunidades durante tres muestras consecutivas, con [[KEEP|claves mínimas]].
+
+4. Mejorar la claridad de palabras útiles. El [[KEEP|objetivo 3]] propone producir [[KEEP|/k/]] en palabras seleccionadas en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Las palabras deben tener valor para la niña.
+
+5. Aplicar principios de [[KEEP|Cycles]] si la evaluación continua confirma patrones adecuados para ese enfoque. Considerar estrategias de orientación familiar de [[KEEP|Hanen]], ajustadas a rutinas y disponibilidad.
+
+6. Mantener ambos idiomas. Cada cuidador puede usar el idioma que domina mejor. Ofrecer un modelo breve, esperar la respuesta y ampliar el mensaje sin exigir repetición constante.
+
+7. Coordinar apoyos con [[SCHOOL|Escuela Preescolar Sendero de Nubes]], previa autorización familiar. Usar imágenes, instrucciones breves y oportunidades de reparación. Registrar cambios en participación durante actividades reales.
+
+CIERRE Y SEGUIMIENTO
+
+Resultados explicados a: [X] Madre  [ ] Padre
+Comprensión comprobada mediante: [X] Resumen verbal  [X] Ejemplos prácticos
+Copia solicitada: [X] Familia  [X] Pediatra con autorización
+
+La mamá [[PARENT|Mariela Soto Valcárcel]] explicó con sus palabras las prioridades: comprender instrucciones, expresar necesidades y mejorar la claridad. Recibió ejemplos de actividades breves para comidas, baño y lectura compartida. La práctica debe integrarse en rutinas que la familia ya realiza.
+
+La revisión inicial se propone para el [[DATE|18 de diciembre de 2026]]. [[EMPLOYER|SCP]] comparará muestras funcionales y ajustará los apoyos. La familia comunicará cambios auditivos o médicos a la pediatra.
+
+Firma clínica: [[PROVIDER|Natalia Sofía Castañeda]]
+Cargo: Patóloga del habla y del lenguaje pediátrica bilingüe
+Entidad legal: [[EMPLOYER|Senderos de Comunicación Pediátrica, PLLC]]
+Licencia de Carolina del Norte: [[ID|SLP-48261]]
+Fecha de firma: [[DATE|10 de octubre de 2026]]

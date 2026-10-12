@@ -1,0 +1,22 @@
++ Name: [[CHILD|Elian Maro Solven]]
++ CA: [[KEEP|3;1]]
++ Context: Individual bilingual speech-language session at [[DAYCARE|The Copper Kite Nest]], [[PLACE|Bellfern]], North Carolina.
++ Clinician: [[PROVIDER|Maribel Tessa Orven]], MS, CCC-SLP; [[EMPLOYER|River Lantern Pediatric Communication PLLC]]
++ Fecha: [[DATE|October 8, 2026]]; [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]
++ Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Resumen administrativo: Services provided through [[EMPLOYER|River Lantern Therapy]], also documented as [[EMPLOYER|RLPC]]. Medicaid ID: [[MEDICAID_ID|583019247Q]]; insurance member ID: [[ID|NCP-740628519]]; NC ITP child ID: [[ID|ITP-26048371]]; authorization: [[ID|AUTH-26-718045]]. Home address: [[PLACE|4276 Thistle Lantern Lane]], [[PLACE|Bellfern]], North Carolina [[PLACE|27843]]. Parent contact: [[PHONE|919-555-0146]], [[EMAIL|narela.solven@example.com]]. Scheduling portal: [[URL|https://riverlantern.example.com]].
+
+S / Subjetivo: Mamá [[PARENT|Narela Solven]] reported, “En casa habla más cuando su hermana espera. Si le preguntamos demasiado, se queda callado.” Sister [[SIBLING|Iria Solven]] now pauses during play. Abuela [[FAMILY|Vesmina Corral]] joins video calls from [[PLACE|Aldea Nube de Cobre]], Guatemala; her mailing address is [[PLACE|Casa 18, Calle del Guayabo, Sector Las Nubes]], [[PLACE|Aldea Nube de Cobre]]. The family uses Spanish at home and English during school routines. Father [[PARENT|Tavio Solven]] works at [[ORG|Juniper Spool Packaging]] and requested a brief home practice sheet. No new hearing concerns were reported.
+
+Maestra Ms. [[TEACHER|Selda Venn]] described easier transitions when pictures accompany directions. Classmate [[PEER|Oren Pell]] offered a toy bus before treatment. The child smiled, pointed, and said “[[KEEP|my bus]]” with spontaneous eye contact. Later, he said “[[PET|Pinto]] corre,” referring to the family dog.
+
+O / Objetivo: Treatment used [[KEEP|Hanen]] strategies, focused stimulation, and [[KEEP|PROMPT]] supports for selected speech movements. These supports were brief and accepted without distress. For [[KEEP|IFSP outcome 2]], the child requested preferred materials in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], compared with [[KEEP|5/10]] previously. Two-word combinations occurred in [[KEEP|3 of 5]] play routines with [[KEEP|mod cues]]. Productions included “[[KEEP|más agua]],” “[[KEEP|open it]],” and “[[KEEP|yo quiero]].” Target words were [[KEEP|agua]], [[KEEP|open]], and [[KEEP|help]].
+
+For [[KEEP|IFSP goal 2.1]], initial [[KEEP|/k/]] emerged in [[KEEP|60%]] of supported trials with [[KEEP|max cues]]. Substitution [[KEEP|[t]]] persisted during faster speech. Clinician modeled [[KEEP|/ɾ/]] within familiar Spanish words without requiring repetition. A language sample included “[[KEEP|him go]]” [[KEEP|[EW]]]; this English form was interpreted alongside Spanish language patterns.
+
+Review of the fictional evaluation dated [[DATE|September 12, 2026]] showed [[KEEP|PLS-5 Spanish]] results: [[KEEP|Auditory Comprehension]] standard score [[KEEP|79]], percentile [[KEEP|8]], confidence interval [[KEEP|73-85]], age equivalent [[KEEP|2;6–2;10]]; [[KEEP|Expressive Communication]] standard score [[KEEP|76]], percentile [[KEEP|5]]. Birth history listed gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8 and 9]].
+
+A / Análisis: Functional requests increased with wait time and meaningful choices. Performance supports continued intervention for receptive and expressive language needs. Bilingual differences alone do not explain the observed difficulty following familiar directions in either language. Pediatrician Dr. [[PROVIDER|Lenora Quist]] at [[HOSPITAL|Willow Meridian Children's Hospital]] previously recommended continued monitoring. Coordinator [[PROVIDER|Dalen Voss]] at [[AGENCY|Bellfern Children's Developmental Services Agency]] will receive the approved progress summary.
+
+P / Plan: Continue weekly sessions with shared Spanish and English routines. Practice [[KEEP|help]] and [[KEEP|ayuda]] during naturally occurring needs, using [[KEEP|min cues]] before adding support. Coach adults to wait, respond, and expand without demanding imitation. Receptionist [[PERSON|Cressa Vale]] confirmed the next visit for [[DATE|October 15, 2026]] at [[TIME|9:10 a.m.]]. Family understood: “Poquito a poquito, pero todos los días.” Home practice will fit snack and cleanup routines, with pictures available for both languages.

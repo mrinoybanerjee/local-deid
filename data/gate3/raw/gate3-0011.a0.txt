@@ -1,0 +1,27 @@
+Daily Therapy Note: Evaluation Review
+
+Client: [[CHILD|María José Valdés Cifuentes]], age [[KEEP|4;2]]  
+Service: [[DATE|October 8, 2026]], [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]  
+Location: [[EMPLOYER|Willow Lantern Pediatric Therapy]], [[PLACE|Briarhaven]], North Carolina  
+Record: [[ID|WL-260184]]; Medicaid: [[MEDICAID_ID|583194627Q]]  
+Clinician: [[PROVIDER|Elena Marisol Duarte]], MA, CCC-SLP, bilingual pediatric speech-language pathologist  
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GP]]; ICD-10 [[KEEP|F80.2]]
+
+S: Mother [[PARENT|Inés Cifuentes]] attended and reported longer requests during meals. She works two jobs, at [[ORG|MVR]] and [[ORG|Copper Finch Market]], so grandmother [[FAMILY|Rosa Valdés]] practices evening routines. Brother [[SIBLING|Tomás Valdés Cifuentes]] sometimes answers before the client finishes. Mother requested activities that fit changing shifts. Teacher Ms. [[TEACHER|Nora Beltrán]] reported increased participation at [[SCHOOL|Juniper Kite Preschool]], especially beside classmate [[PEER|Amaya Torres]]. No pain or new hearing concerns were reported.
+
+O: Today's session combined treatment with review of the recent English evaluation. Spanish conversation and caregiver examples supplemented testing. Scores describe English performance and require caution because bilingual experience can affect interpretation.
+
+| Test/subtest | Standard score | Evaluation date | Confidence interval ([[KEEP|90%]]) | Age equivalent |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[DATE|October 1, 2026]] | [[KEEP|73–85]] | [[KEEP|3;0–3;5]] |
+| [[KEEP|PLS-5]] / [[KEEP|Expressive Communication]] | [[KEEP|75]] | [[DATE|October 1, 2026]] | [[KEEP|70–83]] | [[KEEP|2;10–3;3]] |
+
+Age-equivalent bands summarize descriptive estimates and are not diagnostic cutoffs.
+
+Using [[KEEP|focused stimulation]], the client requested [[KEEP|"more bubbles"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Picture directions containing [[KEEP|"under"]] were followed in [[KEEP|3 of 5]] trials with [[KEEP|min cues]]. Initial [[KEEP|/k/]] occurred with [[KEEP|60%]] accuracy during play. A spontaneous production was [[KEEP|"I want blue car"]]. During pretend pet play, she said "[[PET|Chispa]] run"; this named phrase was recorded separately. The language sample included [[KEEP|[EW]]] annotations for extra words.
+
+A: [[CHILD|María José]] showed stronger engagement when allowed to choose materials and respond in either language. Performance improved with visual support and additional response time. English scores alone do not establish disorder severity. Functional observations across languages support continued work on comprehension, sentence expansion, and speech clarity. Mother accurately demonstrated the modeled pause-and-expand routine. The client tolerated transitions with a picture schedule and returned to the table after movement breaks. Fatigue appeared near the end, so the final activity used familiar toys.
+
+P: Continue weekly sessions. Practice [[KEEP|"help me"]] and [[KEEP|"my turn"]] during snack and play with [[KEEP|min cues]]. Caregivers will pause before supplying words and accept responses in either language. Review classroom examples and reassess support needs at the next visit, [[DATE|October 15, 2026]].
+
+Signed: [[PROVIDER|Elena Marisol Duarte]], MA, CCC-SLP, [[EMPLOYER|Willow Lantern Pediatric Therapy]].

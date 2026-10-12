@@ -1,0 +1,36 @@
+Carolina Pines Pediatric Therapy, PLLC
+Daily Speech-Language Therapy Session Note
+
+Client: [[CHILD|Mateo Alejandro Reyes]] ("[[CHILD|Teo]]")
+DOB: [[DATE|March 14, 2021]] (age [[KEEP|5;6]])
+Session Date: [[DATE|October 8, 2026]]
+Medicaid ID: [[MEDICAID_ID|847203915B]]
+CDSA Case #: [[ID|CDSA-2024-00457]]
+
+Location: [X] Home  [ ] Daycare  [ ] Clinic  [ ] Telehealth
+Session Time: [[TIME|3:30 PM]] – [[TIME|4:15 PM]] (45 minutes)
+
+Present: [X] Mother  [ ] Father  [X] Sibling  [ ] Other caregiver
+
+S (Subjective):
+[[CHILD|Teo]]'s mother, [[PARENT|Lucía Rodríguez]], reported that [[CHILD|Teo]] had a good week overall. He attended his usual Tuesday morning playgroup at [[ORG|First Baptist Church of Hickory]] and "did great sitting in circle time," per [[PARENT|Lucía]]. She also mentioned that his older sister, [[SIBLING|Valentina Reyes]], has been modeling two-word phrases for him at home, which [[PARENT|Lucía]] feels is helping. [[PARENT|Lucía]] noted [[CHILD|Teo]]'s abuela, [[FAMILY|Marisol Reyes]], watched him Thursday afternoon while [[PARENT|Lucía]] took [[SIBLING|Valentina]] to a dentist appointment, and that during that time [[CHILD|Teo]] asked for "más" juice twice without prompting.
+
+[[PARENT|Lucía]] also shared that her service coordinator, [[PROVIDER|Ana Martínez]] of the Agencia de Coordinación de Servicios Familiares del Piedmont ([[AGENCY|ACSF]]), called this morning at [[TIME|10:15 AM]] to confirm the upcoming IFSP review is scheduled for [[DATE|January 15, 2027]], at the [[AGENCY|Foothills Children's Developmental Services Agency]] ([[AGENCY|CDSA]]) office on [[PLACE|Fairgrove Church Road]] in [[PLACE|Hickory]]. [[PARENT|Lucía]] asked this clinician to attend by phone; her service coordinator's direct line is [[PHONE|828-555-0147]].
+
+O (Objective):
+Session took place in the family's living room beginning at [[TIME|3:30 PM]]. This clinician, [[PROVIDER|Sarah Whitfield]], M.S., CCC-SLP, of [[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]], targeted expressive vocabulary and two-word combinations using [[KEEP|PECS]] and [[KEEP|Hanen]]-based strategies.
+
+[[CHILD|Teo]] produced [[KEEP|8/10]] two-word combinations ("[[KEEP|want more]]," "[[KEEP|go car]]") with [[KEEP|min cues]] across structured play. Articulation probe for [[KEEP|/k/]] in word-initial position: [[CHILD|Teo]] achieved [[KEEP|/k/]] correctly in [[KEEP|3 of 5]] trials, substituting [[KEEP|[t]]] for the remainder (e.g., "[[KEEP|tar]]" for "[[KEEP|car]]"). [[CHILD|Teo]] imitated the target word "[[KEEP|cookie]]" with [[KEEP|mod cues]]. He engaged well with his dog, [[PET|Rex]], during a labeling task, spontaneously saying "[[KEEP|dog]]" and "[[KEEP|ball]]" unprompted.
+
+At [[TIME|3:50 PM]], [[CHILD|Teo]]'s sister [[SIBLING|Valentina]] briefly joined and modeled "[[KEEP|I want juice]]," which [[CHILD|Teo]] partially imitated as "[[KEEP|want juice]]." Around [[TIME|4:00 PM]], [[CHILD|Teo]]'s father, [[PARENT|Carlos Reyes]], arrived home from his shift at [[ORG|Catawba Valley Manufacturing]] and greeted [[CHILD|Teo]], who said "[[KEEP|hi dada]]" spontaneously.
+
+A (Assessment):
+[[CHILD|Teo]] continues to make steady gains toward IFSP [[KEEP|Outcome 2]] (expressive communication) with [[KEEP|mod-to-min cues]] across contexts. Caregiver carryover remains strong, supported by both his mother and extended family.
+
+P (Plan):
+Continue weekly sessions targeting two-word utterances and [[KEEP|/k/]] production. This clinician will contact [[PROVIDER|Ana Martínez]] prior to the [[DATE|January 15, 2027]] IFSP review to discuss progress. Recommend [[PARENT|Lucía]] continue the library's weekly "Toddler Time" program at [[ORG|Hickory Public Library]] for peer language modeling, as [[CHILD|Teo]] enjoys interacting with his friend [[PEER|Jaxon]] there.
+
+Next session: [[DATE|October 15, 2026]], [[TIME|3:30 PM]].
+
+Signature: [[PROVIDER|Sarah Whitfield]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]]

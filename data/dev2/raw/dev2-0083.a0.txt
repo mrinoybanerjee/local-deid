@@ -1,0 +1,15 @@
+Client/Child: [[CHILD|Jose Luis Hernandez Garcia]] ("[[CHILD|Chuy]]")  DOB: [[DATE|04/18/2021]]  Age: [[KEEP|4;5]]  Session Date: [[DATE|October 9, 2026]]  Time: [[TIME|2:15 PM]]–[[TIME|3:00 PM]]
+
+Medicaid ID: [[MEDICAID_ID|998234561A]]  Insurance Member ID: [[ID|BCBS-NC-7742091]]  NC ITP Child ID: [[ID|ITP-0045821]]  Auth #: [[ID|AUTH-2026-3390]]  Record #: [[ID|REC-118845]]
+
+Provider: [[PROVIDER|Marisol Ortega, M.S., CCC-SLP]], bilingual SLP, [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] ("[[EMPLOYER|Carolina Pediatric]]," "[[EMPLOYER|CPSLT]]")
+Service Coordinator: [[PROVIDER|Denise Walker]], [[AGENCY|Cumberland County CDSA]]
+Interpreter: not needed; session conducted bilingually by provider.
+
+S: Mamá [[PARENT|Rosa Hernandez Garcia]] reports [[CHILD|Chuy]] has been attending the toddler story-time program at [[ORG|Fayetteville Public Library]] and enjoys it, though he still defers to peers like [[PEER|Ethan]] during turn-taking games. Grandmother [[FAMILY|Lupe Garcia]], who babysits on [[PLACE|Tuesdays]], notes increased vocalizations at home. Family also attends services at [[ORG|Iglesia Bautista Monte de Sion]] on [[PLACE|Murchison Road]] in [[PLACE|Fayetteville]], [[PLACE|28301]].
+
+O: [[CHILD|Chuy]] produced [[KEEP|CVC]] words with [[KEEP|/k/]] substituted as [[KEEP|[t]]] (e.g., "[[KEEP|tat]]" for "[[KEEP|cat]]"), improved from last visit. On [[KEEP|GFTA-3]], he scored [[KEEP|SS 72]], [[KEEP|9th percentile]]. Imitated target "[[KEEP|go]]" [[KEEP|7/10]] trials with [[KEEP|mod cues]]. Used [[KEEP|PECS]] cards to request "[[KEEP|more]]" and "[[KEEP|juice]]" independently [[KEEP|3 of 5]] opportunities.
+
+A: Consistent with [[KEEP|ICD-10 F80.1]], expressive language delay. Session billed [[KEEP|CPT 92507]]. Progress toward IFSP [[KEEP|Outcome #2]] noted; stimulability improving for [[KEEP|/k/]] in initial position.
+
+P: Continue [[KEEP|Hanen]]-based coaching with [[PARENT|Rosa]]. Next session [[DATE|10/16/2026]] at [[TIME|2:00 PM]]. Discussed Smart Start playgroup referral through [[AGENCY|Smart Start of Cumberland County]]. Contact clinic at [[PHONE|(910) 555-0147]] or [[EMAIL|mortega@carolinapediatricslp.com]] with questions. Sibling [[SIBLING|Juanito]] present for part of session, engaged [[CHILD|Chuy]] in brief pretend play with family dog "[[PET|Rex]]."

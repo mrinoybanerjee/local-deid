@@ -1,0 +1,128 @@
+Fecha del informe: [[DATE|19 de mayo de 2026]]
+Tipo de informe: Evaluación de habla y lenguaje – Inicial
+Nombre del niño: [[CHILD|Mateo Alejandro Vázquez Reyes]] (le dicen "[[CHILD|Teo]]" en casa)
+Fecha de nacimiento: [[DATE|14 de marzo de 2022]]
+Edad cronológica en la evaluación: [[KEEP|4;2]]
+Sexo: Masculino
+Idioma(s) del hogar: español (dominante), inglés (emergente)
+Número de expediente del CDSA: [[ID|CDSA-48213]]
+Número de Medicaid: [[MEDICAID_ID|987654321A]]
+Fecha(s) de evaluación: [[DATE|12 de mayo de 2026]] y [[DATE|14 de mayo de 2026]]
+Dirección del hogar: [[PLACE|4417 Sendero Verde Lane, Charlotte, NC 28213]]
+Teléfono de contacto: [[PHONE|(704) 555-0148]]
+Correo electrónico de la familia: [[EMAIL|lucia.vazquezr@mailcorreo.com]]
+Agencia remitente (CDSA): [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Mecklenburg]] ([[AGENCY|CDSA de Mecklenburg]])
+Agencia de coordinación de servicios: [[AGENCY|Coordinación de Servicios Tempranos del Piedmont, Incorporada]] ([[AGENCY|CSTP]])
+Coordinadora de servicios: [[PROVIDER|Yesenia Morales]]
+Patóloga del habla-lenguaje evaluadora: [[PROVIDER|Alondra Castillo Reyes]], M.S., CCC-SLP
+Empresa de la evaluadora: [[EMPLOYER|Terapias Integrales Piedmont, PLLC]]
+Intérprete certificada: [[PROVIDER|Noelia Fuentes]]
+Médico que refiere: [[PROVIDER|Dr. Ramón Gutiérrez]], pediatra
+Padres/tutores: [[PARENT|Lucía Fernanda Vázquez Reyes]] (madre), [[PARENT|Carlos Andrés Reyes Molina]] (padre)
+Código CPT facturado: [[KEEP|92523]]
+Diagnóstico (ICD-10): [[KEEP|F80.2]], [[KEEP|F80.9]]
+Número de autorización: [[ID|AUTH-20260512-77]]
+
+MOTIVO DE LA REFERENCIA
+
+[[CHILD|Mateo]], conocido por su familia como "[[CHILD|Teo]]", fue remitido para una evaluación inicial de habla y lenguaje por su pediatra, el [[PROVIDER|Dr. Ramón Gutiérrez]], de la clínica [[ORG|Pediatría del Lago Norman]], debido a preocupaciones persistentes sobre el retraso en el desarrollo del lenguaje expresivo y la ininteligibilidad del habla. La familia fue conectada con el programa de intervención temprana a través de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Mecklenburg]], comúnmente llamada [[AGENCY|CDSA de Mecklenburg]], después de que su mamá [[PARENT|Lucía Vázquez Reyes]] llamó directamente a la línea de admisión en [[DATE|marzo de 2026]]. El caso fue asignado a la coordinadora de servicios [[PROVIDER|Yesenia Morales]], de la agencia contratada [[AGENCY|Coordinación de Servicios Tempranos del Piedmont, Incorporada]] ([[AGENCY|CSTP]]), quien organizó esta evaluación bilingüe de habla y lenguaje como parte del proceso de elegibilidad para un Plan Individualizado de Servicios para la Familia (IFSP).
+
+Según reporta la madre, [[CHILD|Teo]] usa principalmente gestos, señas improvisadas y aproximaciones de palabras para comunicarse, y su habla es difícil de entender incluso para los miembros cercanos de la familia. La maestra de su guardería, [[TEACHER|Brenda Collins]], del [[DAYCARE|Centro de Cuidado Infantil Pasitos Felices]], también expresó preocupación en una nota enviada a casa, indicando que [[CHILD|Mateo]] rara vez inicia interacciones verbales con sus compañeros de clase durante el juego libre.
+
+HISTORIA DEL DESARROLLO Y ANTECEDENTES MÉDICOS
+
+[[CHILD|Mateo]] nació el [[DATE|14 de marzo de 2022]] en el [[HOSPITAL|Hospital Memorial Trinity de Charlotte]], producto de un embarazo complicado por preeclampsia materna, con un parto por cesárea de emergencia a las [[KEEP|34 semanas de gestación]]. Su peso al nacer fue de [[KEEP|2,100 gramos]], y sus puntajes de Apgar fueron [[KEEP|Apgar 7 al minuto y 9 a los cinco minutos]]. Debido a la prematuridad y a dificultades respiratorias leves, [[CHILD|Teo]] fue ingresado a la Unidad de Cuidados Intensivos Neonatales (NICU) del mismo hospital, donde permaneció durante [[KEEP|18 días]] bajo el cuidado de la neonatóloga [[PROVIDER|Dra. Isabel Noriega]] y el obstetra que atendió el parto, [[PROVIDER|Dr. Esteban Paredes]]. Durante su estancia en la NICU recibió oxígeno suplementario de bajo flujo y fue monitoreado por posible ictericia neonatal, la cual se resolvió sin complicaciones.
+
+La madre reporta que, tras el alta hospitalaria, [[CHILD|Mateo]] tuvo un seguimiento regular con el [[PROVIDER|Dr. Gutiérrez]] y con un especialista en desarrollo infantil, el [[PROVIDER|Dr. Felipe Ordóñez]], en el [[HOSPITAL|Hospital Memorial Trinity de Charlotte]], por retrasos leves en los hitos motores gruesos, los cuales según la familia se resolvieron antes de los [[KEEP|18 meses]]. No se reportan convulsiones, hospitalizaciones adicionales, cirugías, ni pérdida auditiva documentada. Una evaluación auditiva realizada a los [[KEEP|6 meses]] de edad mediante otoemisiones acústicas resultó normal en ambos oídos. No hay antecedentes de infecciones crónicas de oído, aunque la madre menciona dos episodios de otitis media tratados con antibióticos alrededor de los [[KEEP|2 años]] de edad.
+
+La historia prenatal es significativa por el uso de ácido fólico desde el primer trimestre y la ausencia de uso de alcohol, tabaco o sustancias. La madre no reporta ninguna exposición ambiental de riesgo. El desarrollo motor grueso (sentarse, gatear, caminar) se alcanzó dentro de rangos levemente retrasados pero funcionales; caminó de forma independiente a los [[KEEP|16 meses]]. El desarrollo motor fino también se describe como ligeramente por debajo de lo esperado para su edad, aunque sin un diagnóstico formal de retraso motor.
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+
+[[CHILD|Mateo]] vive con sus padres, [[PARENT|Lucía Fernanda Vázquez Reyes]] y [[PARENT|Carlos Andrés Reyes Molina]], y su hermana mayor, [[SIBLING|Valentina Reyes Vázquez]], a quien todos llaman "[[SIBLING|Vale]]", de siete años. La familia reside en una casa alquilada en [[PLACE|Charlotte, Carolina del Norte]], en el vecindario de [[PLACE|Sendero Verde]], cerca de la [[PLACE|avenida North Tryon]]. El padre trabaja como supervisor de almacén en [[ORG|Distribuidora Logística Carolina del Sur, LLC]], y la madre trabaja medio tiempo como auxiliar de cocina en un restaurante local, además de ser la cuidadora principal de los niños.
+
+El idioma dominante en el hogar es el español; los padres hablan español entre sí y con los niños casi exclusivamente, aunque [[SIBLING|Vale]] ha comenzado a traer frases en inglés de la escuela y a usarlas en casa. Según el reporte de la madre, [[CHILD|Teo]] escucha español aproximadamente el [[KEEP|90%]] del tiempo y escucha inglés el resto del tiempo, principalmente a través de la guardería y la televisión educativa. No se reporta exposición significativa a un tercer idioma.
+
+La familia recibe apoyo frecuente de la abuela materna, quien vive cerca y cuida a los niños algunas tardes, y de una niñera de confianza, [[FAMILY|Rosa Elena Pacheco]], quien ha cuidado a [[CHILD|Mateo]] desde que tenía un año y habla con la familia principalmente en español. Los primos de [[CHILD|Teo]], [[FAMILY|Joaquín]] y [[FAMILY|Camila]], hijos de una tía materna, visitan la casa casi cada fin de semana, y según la madre, [[CHILD|Mateo]] disfruta mucho jugar con ellos a pesar de las dificultades de comunicación. La familia también tiene un perro llamado [[PET|Canela]], que la madre describe como "parte de la familia" y motivador frecuente para que [[CHILD|Teo]] intente nombrar cosas o pedir sacarlo a pasear.
+
+La familia participa activamente en la vida comunitaria. Asisten semanalmente a la [[ORG|Iglesia Bautista Nueva Vida]], donde [[CHILD|Mateo]] participa en la clase de niños pequeños junto con otros compañeros de su edad, incluyendo a [[PEER|Isaac]] y [[PEER|Mía]]. Además, la madre lleva a los niños los sábados al programa de lectura bilingüe de la [[ORG|Biblioteca Comunitaria Sendero Verde]], donde [[CHILD|Teo]] disfruta de los cuentos ilustrados aunque participa poco verbalmente durante las actividades grupales.
+
+No se reporta historia familiar de trastornos del habla o del lenguaje en la línea materna. El padre menciona que él mismo "hablaba tarde" de niño y que un tío paterno recibió terapia de habla en su infancia en México, aunque no se cuenta con documentación formal de ese historial.
+
+ANTECEDENTES EDUCATIVOS
+
+[[CHILD|Mateo]] asiste al [[DAYCARE|Centro de Cuidado Infantil Pasitos Felices]] cinco días a la semana, de [[TIME|8:00 a.m.]] a [[TIME|3:30 p.m.]], desde los dos años de edad. Su maestra principal, [[TEACHER|Brenda Collins]], y la asistente del salón, [[TEACHER|Patricia Núñez]], reportan que [[CHILD|Teo]] es un niño cariñoso y sociable que busca la compañía de otros niños, pero que su habla es frecuentemente ininteligible incluso para adultos familiarizados con él. Sus compañeros de clase, entre ellos [[PEER|Ethan]], [[PEER|Sofía]] y [[PEER|Diego]], suelen jugar con él en actividades motoras como construir torres o jugar a la pelota, pero rara vez se involucran en juego verbal recíproco con él, según observación directa de las maestras.
+
+La [[TEACHER|Sra. Collins]] completó un cuestionario de comunicación previo a esta evaluación, en el cual indicó que [[CHILD|Mateo]] sigue instrucciones simples de un paso en inglés dentro del salón, participa en rutinas de grupo, pero produce principalmente palabras sueltas o combinaciones de dos palabras cuando se comunica verbalmente, y que la mayoría de estas producciones son difíciles de entender para alguien fuera de la familia inmediata.
+
+PROCEDIMIENTOS DE EVALUACIÓN
+
+La evaluación se llevó a cabo en dos sesiones, los días [[DATE|12 de mayo de 2026]] y [[DATE|14 de mayo de 2026]], en la oficina satélite de la [[AGENCY|CDSA de Mecklenburg]] ubicada en [[PLACE|4820 Independence Boulevard, Charlotte, NC 28205]]. La evaluación fue administrada de manera bilingüe por la patóloga del habla-lenguaje [[PROVIDER|Alondra Castillo Reyes]], con el apoyo de la intérprete certificada [[PROVIDER|Noelia Fuentes]] para garantizar la comprensión completa de las instrucciones dadas a la familia en español. La madre, [[PARENT|Lucía Vázquez Reyes]], estuvo presente durante ambas sesiones y proporcionó información histórica detallada mediante entrevista estructurada.
+
+Se administraron los siguientes instrumentos estandarizados y procedimientos informales:
+
+1. [[KEEP|Bilingual English Spanish Assessment (BESA)]] – subpruebas de Morfosintaxis y Semántica.
+2. [[KEEP|Preschool Language Scales, Fifth Edition: Spanish (PLS-5 Spanish)]] – Comunicación Auditiva y Comunicación Expresiva.
+3. [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]], con análisis fonológico adicional en español.
+4. Muestra de lenguaje espontáneo mediante juego dirigido, analizada en [[KEEP|SALT]], incluyendo codificación de [[KEEP|[EW]]] para sustituciones de palabras.
+5. Observación clínica del habla, el juego simbólico, la pragmática y la interacción social.
+6. Evaluación informal de la estructura y función oral motora.
+
+RESULTADOS DE LA EVALUACIÓN
+
+Observaciones conductuales: [[CHILD|Teo]] se mostró inicialmente tímido al llegar a la sala de evaluación, aferrándose a la pierna de su madre durante los primeros minutos. Con calidez y modelado de juego por parte de la evaluadora, se relajó rápidamente y participó de manera entusiasta en actividades de juego estructurado con figuras de animales y bloques de construcción. Mantuvo contacto visual apropiado, respondió a su nombre de manera consistente, y demostró atención conjunta funcional durante tareas de juego compartido. Se observaron gestos comunicativos frecuentes, como señalar y jalar la mano del adulto, usados de manera compensatoria ante la dificultad para producir palabras claras.
+
+Lenguaje receptivo: En la subprueba de Comunicación Auditiva del [[KEEP|PLS-5 Spanish]], [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|76]] (percentil [[KEEP|5]]), que corresponde a una edad equivalente de [[KEEP|2;9]]. Siguió instrucciones de dos pasos relacionadas de manera inconsistente y mostró dificultad para identificar conceptos de ubicación (arriba/abajo) y cantidad (más/menos) de manera confiable. En la subprueba de Semántica del [[KEEP|BESA]], obtuvo una puntuación escalada de [[KEEP|4]], ubicándose por debajo del rango promedio esperado para su edad y su perfil de exposición bilingüe.
+
+Lenguaje expresivo: En la subprueba de Comunicación Expresiva del [[KEEP|PLS-5 Spanish]], [[CHILD|Teo]] obtuvo un puntaje estándar de [[KEEP|72]] (percentil [[KEEP|3]]), con una edad equivalente de [[KEEP|2;6]]. Su vocabulario expresivo espontáneo durante la muestra de lenguaje consistió principalmente en sustantivos de uso frecuente ("mamá", "perro", "agua") y algunas combinaciones de dos palabras ("más agua", "no quiero"), con una longitud media de enunciado de [[KEEP|1.8 morfemas]]. En la subprueba de Morfosintaxis del [[KEEP|BESA]], obtuvo una puntuación escalada de [[KEEP|3]], consistente con un retraso significativo en la combinación gramatical de palabras para su edad.
+
+Articulación y fonología: En el [[KEEP|GFTA-3]], [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|65]] (percentil [[KEEP|1]]), reflejando una ininteligibilidad marcada. Se observaron los siguientes patrones fonológicos: sustitución de [[KEEP|/k/]] por [[KEEP|[t]]] en posición inicial (produjo "tasa" por "casa"), omisión de consonantes finales, y simplificación de grupos consonánticos, como en su producción de "pan" para "[[KEEP|"plan"]]". En tareas de imitación directa, logró producir el sonido [[KEEP|/s/]] correctamente en [[KEEP|3 de 10]] intentos con [[KEEP|claves moderadas]] (mod cues), y produjo la palabra blanco "[[KEEP|"sol"]]" como "[[KEEP|[tol]]]" de manera consistente. Su inteligibilidad general fue estimada en aproximadamente [[KEEP|40%]] para oyentes familiares y menos del [[KEEP|20%]] para oyentes no familiarizados con el niño.
+
+Pragmática y comunicación social: [[CHILD|Teo]] demostró intención comunicativa clara y buscó activamente la atención de los adultos y de la intérprete durante el juego. Usó gestos convencionales como señalar y mostrar objetos, pero su rango de actos comunicativos verbales fue limitado principalmente a solicitar y protestar, con poca evidencia de comentar o hacer preguntas de manera espontánea.
+
+Estructura oral motora: El examen oral motor no reveló anormalidades estructurales significativas. Se observó un tono muscular orofacial dentro de límites normales, con movimientos linguales y labiales adecuados para la alimentación, aunque con cierta imprecisión en movimientos secuenciales rápidos durante tareas de imitación motora oral.
+
+Tabla resumen de puntajes estandarizados:
+
+| Prueba / Subprueba | Puntaje estándar / escalado | Percentil | Edad equivalente |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish – Comunicación Auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5 Spanish – Comunicación Expresiva]] | [[KEEP|72]] | [[KEEP|3]] | [[KEEP|2;6]] |
+| [[KEEP|BESA – Semántica]] | [[KEEP|4]] | — | — |
+| [[KEEP|BESA – Morfosintaxis]] | [[KEEP|3]] | — | — |
+| [[KEEP|GFTA-3]] | [[KEEP|65]] | [[KEEP|1]] | — |
+
+IMPRESIONES CLÍNICAS
+
+Con base en los resultados estandarizados, la historia del desarrollo, y la observación clínica directa, [[CHILD|Mateo Alejandro Vázquez Reyes]] presenta un retraso significativo en el lenguaje receptivo y expresivo en ambos idiomas de exposición, junto con un trastorno fonológico de moderado a severo que afecta considerablemente su inteligibilidad. Sus puntajes consistentemente por debajo de [[KEEP|1.5 desviaciones estándar]] del promedio en pruebas bilingües diseñadas específicamente para distinguir diferencia de desarrollo bilingüe normal de trastorno verdadero (el [[KEEP|BESA]]) apoyan la conclusión de que el perfil de [[CHILD|Teo]] refleja un trastorno primario del lenguaje y no simplemente una variación esperada asociada con el bilingüismo. Los patrones fonológicos observados (sustitución de consonantes, omisión de finales, simplificación de grupos consonánticos) son consistentes con un retraso fonológico que probablemente afectará la inteligibilidad en ambos idiomas si no se aborda de manera temprana.
+
+El perfil pragmático y social de [[CHILD|Mateo]] es una fortaleza relativa: demuestra intención comunicativa fuerte, atención conjunta, y motivación social, lo cual es un indicador positivo para la respuesta al tratamiento. No se observaron banderas rojas de un trastorno del espectro autista durante esta evaluación, aunque se recomienda monitoreo continuo dado el perfil combinado de retraso de lenguaje y dificultades pragmáticas leves observadas durante transiciones.
+
+[[CHILD|Mateo]] cumple los criterios de elegibilidad para servicios de intervención temprana bajo la Parte C, con base en un retraso de al menos [[KEEP|25%]] en el dominio de comunicación según los criterios estatales de Carolina del Norte, documentado tanto por puntajes estandarizados como por juicio clínico informado.
+
+RECOMENDACIONES
+
+1. Se recomienda que [[CHILD|Mateo]] reciba terapia de habla y lenguaje individual dos veces por semana, con sesiones de [[KEEP|30 minutos]], enfocadas en el desarrollo de vocabulario funcional, estructuras gramaticales básicas (combinaciones de dos y tres palabras), y claridad articulatoria, utilizando un enfoque bilingüe que apoye el español como idioma dominante del hogar mientras se fortalece la generalización al inglés en el entorno de la guardería.
+
+2. Se sugiere el uso del enfoque de [[KEEP|Ciclos Fonológicos]] para abordar los patrones de simplificación de grupos consonánticos y omisión de finales identificados, con metas específicas dirigidas a los fonemas [[KEEP|/s/]], [[KEEP|/k/]], y combinaciones consonánticas iniciales.
+
+3. Se recomienda la incorporación de estrategias del enfoque [[KEEP|Hanen]] para que los padres, [[PARENT|Lucía Vázquez Reyes]] y [[PARENT|Carlos Reyes Molina]], puedan apoyar el desarrollo del lenguaje durante las rutinas diarias en el hogar, incluyendo momentos de juego con [[SIBLING|Valentina]] y con la niñera, [[FAMILY|Rosa Elena Pacheco]].
+
+4. Se recomienda coordinación con el personal del [[DAYCARE|Centro de Cuidado Infantil Pasitos Felices]], particularmente con la maestra [[TEACHER|Brenda Collins]], para implementar estrategias de apoyo al lenguaje durante actividades grupales con sus compañeros, incluyendo tiempo estructurado de juego verbal con [[PEER|Ethan]], [[PEER|Sofía]] y [[PEER|Diego]].
+
+5. Debido al patrón de inteligibilidad reducida, se recomienda una reevaluación audiológica de seguimiento para descartar cualquier componente auditivo fluctuante no detectado previamente, dada la historia de otitis media reportada por la familia.
+
+6. Se recomienda el desarrollo de un IFSP con una meta de comunicación (Meta/Resultado [[KEEP|#1]]) enfocada en el aumento del vocabulario expresivo funcional, y una segunda meta (Resultado [[KEEP|#2]]) enfocada en la mejora de la inteligibilidad del habla en contextos familiares y escolares, con revisión programada en [[DATE|noviembre de 2026]].
+
+7. Se recomienda continuar fomentando la participación familiar en actividades comunitarias de lenguaje, como el programa de lectura bilingüe en la [[ORG|Biblioteca Comunitaria Sendero Verde]] y las actividades infantiles en la [[ORG|Iglesia Bautista Nueva Vida]], ya que estas ofrecen oportunidades naturales de exposición al lenguaje en ambos idiomas dentro de un entorno motivador para [[CHILD|Teo]].
+
+8. Se recomienda que la coordinadora de servicios, [[PROVIDER|Yesenia Morales]], de [[AGENCY|CSTP]], facilite la comunicación continua entre la familia, la guardería, y el equipo de intervención temprana para asegurar la consistencia de las estrategias entre entornos.
+
+Esta evaluadora agradece la apertura y colaboración de la familia [[PARENT|Vázquez Reyes]] durante el proceso de evaluación y queda disponible para discutir estos hallazgos con el equipo del IFSP según sea necesario.
+
+Respetuosamente,
+
+[[PROVIDER|Alondra Castillo Reyes]], M.S., CCC-SLP
+Patóloga del Habla-Lenguaje Licenciada
+[[EMPLOYER|Terapias Integrales Piedmont, PLLC]]
+Fecha de firma: [[DATE|19 de mayo de 2026]]

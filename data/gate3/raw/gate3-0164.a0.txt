@@ -1,0 +1,134 @@
+IFSP REVIEW — NC INFANT-TODDLER SERVICES
+
+- This fictional training document describes an individualized family service plan review. All people, organizations, locations, contacts, and records are invented.
+- Review date: [[DATE|October 14, 2026]]. Initial IFSP date: [[DATE|July 16, 2026]]. Next review: [[DATE|January 14, 2027]].
+- Child: [[CHILD|Emilio Rafael Solano]]. Preferred name: [[CHILD|Milo]]. Birth date: [[DATE|August 14, 2024]]. Current age: [[KEEP|26 months]].
+- Meeting format: home visit with telephone participation from classroom staff. The family chose English and Spanish throughout discussion, documentation, and coaching.
+
+INFORMACIÓN DE LA FAMILIA
+
+- Mother: [[PARENT|Marisol Vega Solano]]. Father: [[PARENT|Andrés Solano Cruz]]. Both parents share caregiving decisions and request copies of this plan.
+- Home address: [[PLACE|418 Willowglass Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|27963]], in [[PLACE|Brindle County]]. The family prefers visits in the living room.
+- Older sister: [[SIBLING|Inés Solano]], age [[KEEP|6 years]]. She enjoys singing with her brother and sometimes answers before he can respond.
+- Maternal grandmother: [[FAMILY|Teresa Vega]]. Cousins [[FAMILY|Paloma Vega]] and [[FAMILY|Nico Vega]] visit during weekend meals. Babysitter [[FAMILY|Elena Ríos]] covers occasional evening shifts.
+- Mother works at [[ORG|Juniper Kite Packing Cooperative]]. Father works at [[ORG|Copper Acorn Bicycle Works]]. Their changing schedules affect who attends sessions.
+
+CONTACTOS Y COORDINACIÓN
+
+- Service coordinator: [[PROVIDER|Naomi Bell Treviño]], assigned through [[AGENCY|Brindle County CDSA Office]]. Telephone: [[PHONE|919-555-0146]]. Email: [[EMAIL|naomi.trevino@example.invalid]].
+- Bilingual pediatric speech-language pathologist: [[PROVIDER|Julia Ortiz Mendoza]], also identified in scheduling notes as [[PROVIDER|J. Ortiz]]. Employer: [[EMPLOYER|Riverglass Pediatric Communication, PLLC]].
+- Clinician telephone: [[PHONE|984-555-0128]]. Clinician email: [[EMAIL|j.ortiz@example.invalid]]. Fictional service information page: [[URL|https://riverglass.example.invalid/infant-services]].
+- Primary family telephone: [[PHONE|252-555-0164]]. Secondary telephone: [[PHONE|252-555-0181]]. Family email: [[EMAIL|solano.family@example.invalid]]. Text messages may address scheduling only.
+- CDSA child record: [[ID|BC-ITP-260814-073]]. Medicaid member number: [[MEDICAID_ID|684207193Q]]. Speech service authorization: [[ID|SLP-261019-4482]].
+
+HISTORIA Y PARTICIPACIÓN
+
+- Family reports birth at [[HOSPITAL|Willowglass Women and Children’s Hospital]], with gestational age [[KEEP|39 weeks, 2 days]] and birth weight [[KEEP|3.21 kg]].
+- Reported Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. These details come from a fictional intake summary.
+- Pediatrician Dr. [[PROVIDER|Avery Chen]] at [[HOSPITAL|Briarhaven Children’s Medical Center]] follows growth and routine health needs. No new family concerns about feeding safety were reported.
+- Audiologist [[PROVIDER|Priya Nolen]] completed a hearing visit on [[DATE|September 9, 2026]]. The supplied fictional report documented responses adequate for the assessment activities.
+- Eligibility remains documented under [[KEEP|ICD-10 F80.2]]. Intervention addresses functional communication across both languages and the routines the family selected.
+
+PREOCUPACIONES Y PRIORIDADES — EN SUS PALABRAS
+
+- Mother said, “Quiero entender lo que necesita antes de que llore. Sometimes I guess, pero no siempre adivino bien.”
+- Father said, “At dinner he brings my hand to the refrigerator. Quiero que pueda pedir ayuda sin frustrarse tanto.”
+- Grandmother said, “Él entiende nuestras canciones. Necesitamos saber cómo darle tiempo para contestar, sin hablar por él.”
+- The parents prioritize asking for food, requesting help, joining familiar play, and understanding simple directions. They want useful communication, aunque todavía no sea una frase completa.
+- Mother added, “Please keep Spanish in the plan. Es el idioma de nuestra casa, y no queremos perderlo.”
+- The family prefers strategies that fit ordinary routines. They requested short practice opportunities and shared examples that caregivers can use without buying materials.
+
+RUTINAS DIARIAS — ASÍ ES NUESTRO DÍA
+
+- Wake-up usually begins at [[TIME|6:45 a.m.]]. Dressing works best when an adult offers two items and waits. Rushing increases pulling, crying, and leaving the activity.
+- Breakfast occurs around [[TIME|7:20 a.m.]]. Familiar foods create communication opportunities. The family will place choices within view and accept pointing, gestures, or words.
+- Arrival at the classroom is near [[TIME|8:10 a.m.]]. A picture sequence supports the transition from the doorway to putting belongings away and choosing play.
+- Pickup is usually at [[TIME|4:35 p.m.]]. Adults will share one successful communication example. Long explanations during pickup are difficult because several families arrive together.
+- Dinner begins around [[TIME|6:15 p.m.]]. Bath follows at [[TIME|7:05 p.m.]], with bedtime reading near [[TIME|7:40 p.m.]]. These routines offer predictable turns.
+
+ENTORNO EDUCATIVO Y PERSONAS PRESENTES
+
+- [[CHILD|Emilio]] attends [[DAYCARE|The Lantern-Pear Orchard]], located at [[PLACE|62 Moonbasket Court]], [[PLACE|Briarhaven]]. The unusual program name refers to its pretend garden classroom.
+- Lead teacher Ms. [[TEACHER|Celia Morrow]] and assistant Mr. [[TEACHER|Benito Hale]] agreed to use the same waiting and choice strategies during snack and play.
+- Classmates [[PEER|Tavi Brooks]] and [[PEER|Luma Reed]] often play nearby. Adults will support brief exchanges while respecting each child’s interest and space.
+- The family dog, [[PET|Pipoca]], often joins floor play. Neighbor [[PERSON|M.R.]] sometimes greets the family outside but has no service responsibilities.
+- Cousin [[FAMILY|Nico Vega]] enjoys rolling cars together. Babysitter [[FAMILY|Elena Ríos]] requested examples in Spanish because she usually provides care in that language.
+
+EVALUACIÓN Y OBSERVACIONES CLÍNICAS
+
+- Assessment date: [[DATE|September 24, 2026]], at age [[KEEP|25 months]]. Sources included caregiver interview, play observation, language sampling, and selected standardized assessment activities.
+- [[KEEP|PLS-5]] results in the fictional report included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], and confidence interval [[KEEP|73-85]].
+- [[KEEP|Expressive Communication]] standard score was [[KEEP|75]], percentile [[KEEP|5]], with confidence interval [[KEEP|70-83]]. [[KEEP|Total Language]] standard score was [[KEEP|75]], percentile [[KEEP|5]].
+- Reported age-equivalent ranges were [[KEEP|1;6–1;9]] for receptive items and [[KEEP|1;3–1;6]] for expressive items. These estimates do not define the child’s overall developmental age.
+- English test results were considered alongside Spanish observations. Scores alone did not represent communication across both languages, cultural experience, or everyday participation.
+- Observed strengths included shared enjoyment, imitation of actions, familiar song anticipation, and repair through gestures. Spontaneous productions included [[KEEP|"agua"]], [[KEEP|"más"]], and [[KEEP|"go"]].
+- One spontaneous production was “[[PET|Pipoca]] ven.” The language sample included [[KEEP|[EW]]] where an extra word occurred. Speech examples included [[KEEP|[w]]] and emerging [[KEEP|/m/]].
+
+OTRAS AGENCIAS Y APOYOS
+
+- [[AGENCY|Brindle County WIC]] supports nutrition appointments and food access. The family will contact that office directly about appointment changes and approved food substitutions.
+- [[AGENCY|Brindle County DSS]] provides benefit coordination. Case contact Ms. [[PERSON|Dalia Finch]] may receive scheduling information only within the family’s written release.
+- [[AGENCY|Brindle County Smart Start Partnership for Children]] supplied a fictional lending-library referral. The parents requested board books and simple picture materials for home routines.
+- [[AGENCY|Brindle County Early Head Start]] is reviewing an application. Family contact [[PERSON|Owen Mercado]] will explain availability; enrollment is pending and is not an IFSP service commitment.
+- [[PROVIDER|Naomi Bell Treviño]] will coordinate approved communication among agencies. Each release must identify the recipient, purpose, information, and expiration date before records are shared.
+
+OUTCOME [[KEEP|1]] — PEDIR DURANTE LAS COMIDAS
+
+- Family outcome: During meals, [[CHILD|Milo]] will communicate a choice or request so adults can respond with less guessing and the meal can continue comfortably.
+- Criteria: Use a gesture, picture, sign, or spoken word in [[KEEP|4 of 5]] opportunities across three meals, with [[KEEP|min cues]], documented by caregiver notes.
+- Strategies: Offer two visible choices, pause, follow the child’s attention, and model [[KEEP|"agua"]], [[KEEP|"más"]], or [[KEEP|"more"]]. Accept either language without requiring repetition.
+- Adults will respond promptly to meaningful attempts. They will avoid holding needed food beyond a brief opportunity and will stop practice when frustration increases.
+- Baseline: Requests occurred in [[KEEP|2 of 5]] opportunities with [[KEEP|mod cues]]. Review evidence will include home examples and a snack observation.
+
+OUTCOME [[KEEP|2]] — PEDIR AYUDA
+
+- Family outcome: During play and dressing, [[CHILD|Emilio]] will ask for assistance before leaving the activity or pulling an adult toward the problem.
+- Criteria: Communicate help in [[KEEP|3 of 5]] naturally occurring opportunities across two routines, with [[KEEP|min cues]], for two consecutive weeks.
+- Strategies: Model [[KEEP|"help"]], [[KEEP|"ayuda"]], or [[KEEP|"abre"]]. Pair words with an open-hand gesture. Provide help immediately after a clear attempt.
+- Begin with familiar containers and clothing tasks. Adults may provide [[KEEP|mod cues]] initially, then reduce support as the child anticipates the exchange.
+- Baseline: Help requests occurred in [[KEEP|1 of 5]] opportunities with [[KEEP|max cues]]. The family will record one example when an opportunity occurs.
+
+OUTCOME [[KEEP|3]] — JUGAR CON OTROS
+
+- Family outcome: During classroom and family play, [[CHILD|Milo]] will join a short shared activity with another child while communicating a turn, choice, or protest.
+- Criteria: Participate in three reciprocal turns in [[KEEP|4 of 5]] observed play episodes, with [[KEEP|mod cues]], across home and classroom settings.
+- Strategies: Use rolling cars, bubbles, songs, and turn-taking games. Model [[KEEP|"mi turno"]], [[KEEP|"your turn"]], and [[KEEP|"stop"]], while honoring gestures and refusal.
+- Sister [[SIBLING|Inés Solano]] can model one turn and wait. Classmate [[PEER|Luma Reed]] may participate when interested; adults will not assign another child a treatment role.
+- Baseline: Two reciprocal turns occurred in [[KEEP|2 of 5]] episodes. Adults will count successful exchanges rather than time spent sitting beside another child.
+
+OUTCOME [[KEEP|4]] — COMPRENDER EN LAS RUTINAS
+
+- Family outcome: During familiar transitions, [[CHILD|Emilio]] will understand a simple direction well enough to participate with less repeated adult prompting.
+- Criteria: Follow familiar directions in [[KEEP|8/10]] opportunities, with [[KEEP|min cues]], across two routines. Adults may present the direction in either language.
+- Strategies: Pair one short direction with the relevant object or picture. Model [[KEEP|"shoes on"]], [[KEEP|"pon zapatos"]], or [[KEEP|"give me"]], then wait.
+- Baseline was [[KEEP|40%]] with [[KEEP|mod cues]]. Adults will reduce verbal repetition and track whether the picture, gesture, or spoken direction supported participation.
+
+SERVICIOS, FECHAS Y LUGARES
+
+- Speech-language intervention: one 45-minute session weekly, from [[DATE|October 19, 2026]] through [[DATE|January 18, 2027]]. Visits will alternate between home and classroom according to family priorities.
+- Responsible clinician: [[PROVIDER|Julia Ortiz Mendoza]]. Sessions include direct interaction and caregiver coaching. Fictional billing reference: [[KEEP|CPT 92507]], with [[KEEP|modifier GN]] when applicable.
+- Service coordination: one planned monthly contact plus contacts needed for referrals, scheduling, and review preparation, from [[DATE|October 14, 2026]] through [[DATE|January 14, 2027]].
+- Classroom consultation: one 20-minute discussion monthly with Ms. [[TEACHER|Celia Morrow]], included within the speech service arrangement. No separate therapy session is assigned to classmates.
+- Missed visits will be rescheduled when feasible. The coordinator will document the reason, family preference, and new date. Changes require an updated service agreement.
+
+ESTRATEGIAS COMPARTIDAS — PRÁCTICA EN CASA
+
+- Coaching uses [[KEEP|Hanen]]-informed interaction strategies, including following the child’s lead and waiting. The family is not enrolled in a separate branded course.
+- Picture supports may borrow simple principles from [[KEEP|PECS]], but this plan does not document delivery of the complete protocol. Pictures supplement gestures and spoken language.
+- Caregivers will practice during one chosen routine each day. No worksheets are required. Spanish remains available throughout play, meals, dressing, and comfort.
+- The clinician will demonstrate, invite caregiver practice, and ask what worked. Cada intento cuenta; the adult responds to meaning before considering sound accuracy.
+- No speech sound drill is assigned for [[KEEP|/k/]] or [[KEEP|/ɾ/]]. Functional communication and participation remain the priorities described in this review.
+
+SEGUIMIENTO, DERECHOS Y TRANSICIÓN
+
+- The family may accept, decline, or request changes to individual services. The coordinator explained consent, record access, complaint options, and communication in the preferred language.
+- Progress review will compare routine examples with each outcome’s criteria. Counts describe opportunities observed and will not be presented as general ability across all settings.
+- A transition discussion is planned for [[DATE|May 14, 2027]], when the child will be [[KEEP|33 months]]. Possible preschool supports will be discussed without assuming eligibility.
+- The coordinator will confirm timelines, obtain any required releases, and arrange discussion with the appropriate education contact. The family requested continued Spanish access during transition planning.
+- Parents agreed that the written priorities reflect their concerns. Mother said, “Sí, esto se parece a nuestra vida.” Father requested that strategies remain practical during workdays.
+
+ACUERDOS Y RESPONSABILIDADES
+
+- [[PARENT|Marisol Vega Solano]] will share meal examples. [[PARENT|Andrés Solano Cruz]] will share play examples. Either parent may revise the selected routine.
+- [[PROVIDER|J. Ortiz]] will bring picture choices and demonstrate strategies at the first visit. [[PROVIDER|Naomi Bell Treviño]] will confirm scheduling and current releases.
+- Electronic acknowledgment date: [[DATE|October 14, 2026]]. Family participation, provider responsibilities, and service dates are documented for this fictional IFSP review.

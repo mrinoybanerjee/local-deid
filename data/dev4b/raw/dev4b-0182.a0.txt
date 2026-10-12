@@ -1,0 +1,90 @@
+evaluación de habla y lenguaje / speech-language evaluation report
+
+name/nombre: [[CHILD|Mateo Hernández Cruz]], called [[CHILD|Teo]] by la familia
+date of birth/fecha de nacimiento: [[DATE|June 4, 2022]] (nació [[DATE|el 4 de junio de 2022]])
+age at evaluation/edad: [[KEEP|3;4]]
+date of evaluation/fecha: [[DATE|October 8, 2025]], session held from [[TIME|9:15 am]] to [[TIME|11:40 am]]
+place of service: home visit, [[PLACE|412 Willow Creek Lane]], [[PLACE|Durham]], [[PLACE|Durham County]], [[PLACE|NC 27707]]
+primary language of the home: spanish, with some english from los hermanos mayores y la tele
+medicaid id: [[MEDICAID_ID|784215963B]]
+cdsa case id: [[ID|CDSA-NC-2024-07713]]
+referral source: pediatrician [[PROVIDER|Dr. Anjali Patel]] of [[HOSPITAL|Triangle Pediatric Associates]], y service coordinator [[PROVIDER|Mrs. Hang Nguyen]] at [[AGENCY|Piedmont Regional CDSA]]
+examiner/evaluadora: [[PROVIDER|Gabriela Soto Reyes]], m.s., ccc-slp, bilingual spanish-english service provider, with [[EMPLOYER|Carolina Bilingual Speech & Language Partners, PLLC]]
+also present: mamá [[PARENT|Lucía Hernández Cruz]], y por un rato papá [[PARENT|Carlos Hernández Reyes]] who joined on lunch break from [[ORG|Piedmont Poultry Processing]]
+cpt codes billed: [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression) and [[KEEP|92507]] (treatment, parent training portion)
+icd-10: [[KEEP|F80.2]] mixed receptive-expressive language disorder, rule out [[KEEP|F80.1]]
+
+reason for referral / razón de la referencia
+
+mamá [[PARENT|Lucía]] reports that [[CHILD|Teo]] was referred by [[PROVIDER|Dr. Patel]] at his [[KEEP|3-year]] well check because he was not combining words the way his big sister did at this age and the family was worried he wasn't understanding things either so he got connected through [[AGENCY|Piedmont Regional CDSA]] for an ifsp and this eval is part of his annual review for ifsp outcome [[KEEP|2]] which is about functional communication in daily routines mamá says en la llamada inicial "[[CHILD|teo]] no me entiende cuando le digo que se lave las manos, tengo que enseñarle" and dad agrees he mostly points and grunts and gets frustrated fast especially cuando quiere algo de su hermana [[SIBLING|Valentina]]
+
+birth and medical history / historia médica
+
+[[CHILD|teo]] was born at [[HOSPITAL|Duke Regional Hospital]] on [[DATE|June 4, 2022]] at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|6 lbs 11 oz]], apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes mamá says the pregnancy was normal pero tuvo que hacer reposo las últimas dos semanas por presión alta no sostenida there was a brief nicu stay of [[KEEP|2 days]] for monitoring but no feeding issues no ear infections of note although he did have one round of otitis media around [[KEEP|18 months]] treated with antibiotics by [[PROVIDER|dr. patel]] no hospitalizations since no seizures no significant falls hearing was screened as pass at birth and again at the health department in [[DATE|March 2024]] no concerns raised vision not formally tested family denies any concerns with vision he wears no glasses eats a wide variety of foods no feeding or swallowing concerns reported sleeps through the night mostly except some nights when hermanito [[SIBLING|Diego]] wakes up crying and everyone gets up
+
+family and language history / historia familiar y de lenguaje
+
+the home is primarily spanish speaking mamá [[PARENT|Lucía]] and papá [[PARENT|Carlos]] both grew up in oaxaca and speak spanish to all the kids aunque a veces se les sale el inglés porque llevan [[KEEP|9 años]] aquí en durham [[CHILD|teo]] is the youngest of three big sister [[SIBLING|Valentina Hernández Cruz]] is [[KEEP|7]] and in second grade she's described as "súper habladora, para nada como su hermanito" and she translates for [[CHILD|teo]] constantly which the family was told to cut back on so he has to communicate for himself middle sibling is baby brother [[SIBLING|Diego]] who is [[KEEP|14 months]] and just starting to pull to stand abuela [[FAMILY|Rosa Cruz Martínez]] lives two streets over and watches the kids tuesdays and thursdays while mamá works a half shift at [[ORG|Sunrise Linen Services]] abuela speaks only spanish to the kids and reports [[CHILD|teo]] "se enoja y me jala la mano cuando quiere algo, no me dice nada" there's also a part time babysitter named [[FAMILY|Yesenia Portillo]] who helps on fridays she notes similar frustration behaviors
+
+the family attends [[ORG|Iglesia Bautista Monte Horeb]] on calle angier most sundays and [[CHILD|teo]] goes to the nursery room there run by volunteers mamá says he mostly sits by himself during group time and doesn't join in cuando cantan las canciones the family also used to go to the toddler story time at the library but stopped when [[FAMILY|abuela rosa]] had knee surgery and couldn't drive them there's no pets currently aside from the family dog [[PET|Canela]] who [[CHILD|teo]] adores during the session he ran to the window and said "[[PET|canela]] afuera" pointing, which was noted as a two word spanish combination spontaneous and appropriate
+
+educational history / historia educativa
+
+[[CHILD|teo]] attends a small home-based program called [[DAYCARE|Casa de los Angelitos]] three days a week tuesday wednesday and friday from [[TIME|8:00 am]] to [[TIME|1:00 pm]] his main teacher there is [[TEACHER|Miss Flor Jiménez]] who reports he follows the group routine okay with visual cues like the picture schedule but rarely initiates talking to peers during free play two classmates mentioned by name were [[PEER|Sofía]] and [[PEER|Liam]] who [[TEACHER|miss flor]] says often try to include him but he just hands them a toy instead of using words miss flor also said on [[DATE|el martes 4 de junio]] during a parent pickup conversation "yo creo que entiende más de lo que habla, pero se frustra rápido" which aligns with what mamá reports at home an occupational therapist [[PROVIDER|Jenny Kim, OTR/L]] also from [[EMPLOYER|Carolina Bilingual Speech & Language Partners, PLLC]] sees [[CHILD|teo]] weekly for fine motor goals and was consulted briefly during this visit regarding sensory considerations for seating during testing
+
+procedures administered / procedimientos
+
+administered in a mixed spanish and english format following standard bilingual assessment protocol with spanish as the dominant input language given the home language
+
+- parent interview and case history review
+- clinical observation of play based language sample approximately [[KEEP|20 minutes]], transcribed with salt coding
+- preschool language scale fifth edition [[KEEP|PLS-5]] spanish-english bilingual edition, scored using the higher of the two language scores per subtest
+- goldman fristoe test of articulation third edition [[KEEP|GFTA-3]], administered in english and cross-checked informally against spanish phoneme inventory
+- oral mechanism exam
+- hearing screening results reviewed, not re-administered today
+
+test results / resultados de las pruebas
+
+prueba / test | puntaje estándar / standard score | percentil / percentile | intervalo de confianza / confidence interval
+[[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|71-81]]
+[[KEEP|PLS-5 Expressive Communication]] | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|63-73]]
+[[KEEP|PLS-5 Total Language Score]] | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|65-75]]
+[[KEEP|GFTA-3 Sounds-in-Words]] | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|77-87]]
+age equivalent for expressive language fell around [[KEEP|2;3–2;6]] which is notably below his chronological age of [[KEEP|3;4]]
+
+during the language sample [[CHILD|teo]] produced mostly one word utterances in spanish with a few two word combinations like "[[KEEP|más agua]]" and "[[KEEP|canela afuera]]" mean length of utterance was calculated at [[KEEP|1.4]] morphemes which is low for age he used pointing and pulling an adult's hand as his primary request strategy for about [[KEEP|80%]] of observed requests imitation was stronger than spontaneous production he imitated [[KEEP|8 of 10]] target words when modeled directly getting [[KEEP|8/10]] correct on direct imitation trials but dropped to [[KEEP|3 of 10]] spontaneously without a model articulation was judged mildly delayed with final consonant deletion noted for example target "[[KEEP|pan]]" produced as "[[KEEP|pa]]" and target "[[KEEP|sol]]" produced as "[[KEEP|so]]" these patterns were consistent across both languages suggesting a true phonological pattern rather than a dialectal feature
+
+during one activity he was shown a picture of a boy running and asked to label it he said "[[KEEP|[k]orre]]" for "corre" substituting an unaspirated stop which was coded [[KEEP|[EW]]] in the transcript for word level substitution he required [[KEEP|mod cues]] meaning a verbal model plus a visual gesture to approximate several two syllable words and needed [[KEEP|max cues]] for three syllable words receptively he followed one step directions in spanish [[KEEP|9/10]] trials or [[KEEP|90%]] but two step directions dropped to [[KEEP|4/10]] or [[KEEP|40%]] accuracy
+
+impressions / impresiones clínicas
+
+[[CHILD|teo]] presents with a mixed receptive-expressive language disorder affecting both spanish and english though spanish being the dominant input language shows the clearer picture of his underlying language level his scores fall in the low range across both receptive and expressive domains on a standardized bilingual measure with expressive skills notably weaker than receptive this is not accounted for by bilingual exposure alone since the pattern is consistent across both languages which supports a true language disorder rather than typical second language acquisition or normal bilingual development his articulation shows mild delay with consonant final deletion patterns that would be expected to resolve with intervention but are presently impacting intelligibility especially to unfamiliar listeners mamá reports strangers often can't understand him, only familia entiende lo que dice
+
+socially he is engaged with familiar adults and shows affection and joint attention appropriately he initiated eye contact and gave several shared smiles during play based activities with mamá and with this examiner he showed some frustration behaviors when unable to communicate wants which is consistent with an expressive communication gap rather than a primary behavioral or social concern no red flags for autism spectrum were observed today though if frustration behaviors escalate a referral for further evaluation could be considered down the line this is not a current recommendation just something to keep on the radar per discussion with [[PROVIDER|dr. patel]]'s office
+
+diagnostic impression / impresión diagnóstica
+
+[[KEEP|F80.2]] mixed receptive-expressive language disorder, moderate severity based on standard scores in the low range across both domains with functional impact on daily communication secondary diagnosis to consider and monitor [[KEEP|F80.0]] phonological disorder given consistent sound pattern errors affecting intelligibility both diagnoses support continued eligibility for early intervention services under part c and will be reflected on the updated ifsp
+
+recommendations / recomendaciones
+
+1. continued individual speech-language therapy twice weekly, billed under [[KEEP|92507]] for treatment sessions, [[KEEP|30]] minutes each, delivered primarily in spanish with english exposure embedded naturally per family preference
+2. parent coaching sessions once monthly using a [[KEEP|Hanen]] informed coaching model so mamá and papá can carry strategies into daily routines like bath time and mealtime where lots of natural language opportunities happen anyway
+3. continue occupational therapy co-treatment as needed with [[PROVIDER|jenny kim]] particularly around seated attention during tabletop tasks
+4. recommend a phonological approach such as the [[KEEP|Cycles]] phonological remediation approach to target the final consonant deletion pattern across both languages simultaneously rather than picking one language only
+5. encourage continued participation at [[DAYCARE|casa de los angelitos]] with [[TEACHER|miss flor]] using the same picture schedule and visual supports already in place there, and encourage peers like [[PEER|sofía]] and [[PEER|liam]] to be given extra wait time when playing with [[CHILD|teo]] so he has a chance to respond
+6. encourage continued involvement at [[ORG|iglesia bautista monte horeb]] nursery with simple song and gesture pairing which is already a good built in opportunity for expressive language practice in a low pressure group setting
+7. re-evaluate in [[KEEP|6 months]] or sooner if minimal progress toward ifsp outcome [[KEEP|2]] goals, next annual review currently scheduled around [[DATE|April 2026]]
+8. family may contact this office with any questions
+
+contact information / información de contacto
+
+[[PROVIDER|gabriela soto reyes]], m.s., ccc-slp
+[[EMPLOYER|carolina bilingual speech & language partners, pllc]]
+office phone [[PHONE|(919) 555-0148]]
+direct email [[EMAIL|gsotoreyes@carolinabilingualslp.com]]
+office address [[PLACE|2210 Garrett Rd, Suite B]], [[PLACE|Durham]], [[PLACE|NC 27707]]
+
+report completed and signed electronically on [[DATE|October 10, 2025]], copy sent to [[AGENCY|piedmont regional cdsa]] service coordinator [[PROVIDER|mrs. hang nguyen]] for inclusion in the ifsp packet and a spanish language summary was also provided to the family per their request el resumen en español fue entregado a mamá [[PARENT|lucía]] en mano durante la sesión del día [[DATE|8 de octubre de 2025]]
+
+end of report / fin del informe

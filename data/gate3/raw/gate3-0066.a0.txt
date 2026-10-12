@@ -1,0 +1,60 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Campo	Dato
+Fecha del servicio	[[DATE|8 de octubre de 2026]]
+Niño	[[CHILD|Nicolás Varela Montes]]
+Edad	[[KEEP|4;2]]
+Profesional bilingüe	[[PROVIDER|M.R.]]
+Empresa	[[EMPLOYER|Voces del Sendero]]
+Expediente	[[ID|VS-2608-417]]
+Medicaid	[[MEDICAID_ID|731604982Q]]
+Diagnóstico	[[KEEP|F80.2]]
+Procedimiento y modificador	[[KEEP|92507]]	[[KEEP|GN]]
+Lugar	[[DAYCARE|Little Learners Daycare]], [[PLACE|Pinarclaro]], Carolina del Norte
+Programa	[[AGENCY|Little Learners Program]]
+
+CONTACTOS Y COORDINACIÓN
+
+Función	Nombre	Contacto
+Madre	[[PARENT|Elena Montes Varela]]	[[PHONE|919-555-0148]]
+Maestra	[[TEACHER|J. Ortiz]]	[[EMAIL|j.ortiz@example.invalid]]
+Coordinadora	[[PROVIDER|Inés Prado]]	[[PHONE|984-555-0126]]
+Oficina comunitaria	[[AGENCY|Smart Start del condado de Brisavela]]	Condado de [[PLACE|Brisavela]]
+
+HORARIO DE SERVICIOS
+
+Servicio	Día	Horario
+Sesión individual	[[DATE|8 de octubre de 2026]]	[[TIME|9:10 a. m.]]–[[TIME|9:40 a. m.]]
+Consulta familiar	[[DATE|15 de octubre de 2026]]	[[TIME|4:15 p. m.]]
+Revisión del IFSP	[[DATE|22 de octubre de 2026]]	[[TIME|10:00 a. m.]]
+
+S — INFORMACIÓN SUBJETIVA
+
+La madre [[PARENT|Elena]] informó que [[CHILD|Nicolás]] pidió ayuda durante el desayuno sin llorar. Su hermana [[SIBLING|Sol]] participó en el juego de cocina. La familia usa español en casa y acepta materiales en ambos idiomas. La maestra [[TEACHER|J. Ortiz]] observó mayor participación durante las canciones. No se informaron cambios de salud ni dificultades para dormir. El niño llegó tranquilo, eligió los animales y aceptó la transición desde el aula.
+
+O — OBSERVACIONES Y RESULTADOS
+
+Se trabajó el objetivo [[KEEP|2]] del IFSP mediante juego compartido, lectura y elecciones visuales. Se usaron estrategias de [[KEEP|Hanen]] para esperar, seguir la iniciativa y ampliar mensajes. Se registraron respuestas en español; las palabras inglesas espontáneas se aceptaron como comunicación funcional.
+
+Medida	Resultado	Apoyo
+Peticiones de dos palabras	[[KEEP|8/10]]	[[KEEP|apoyo mínimo]]
+Comprensión de instrucciones relacionadas	[[KEEP|3 de 5]]	[[KEEP|apoyo moderado]]
+Producción inicial de [[KEEP|/k/]]	[[KEEP|60%]]	[[KEEP|apoyo máximo]]
+
+Referencia de evaluación previa: [[DATE|17 de septiembre de 2026]].
+
+Prueba y subprueba	Puntuación estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5]], [[KEEP|Expressive Communication]]	[[KEEP|81]]	[[KEEP|10]]	[[KEEP|76-86]]	[[KEEP|3;0]]
+
+Durante el juego, [[CHILD|Nicolás]] dijo [[KEEP|"quiero vaca"]] y [[KEEP|"más agua"]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Al mirar una fotografía familiar dijo “[[SIBLING|Sol]] mira”; esta emisión surgió sin modelo. Su compañero [[PEER|Bruno Leal]] entró brevemente para intercambiar materiales. El niño mantuvo turnos con ayuda gestual y volvió a la actividad individual sin dificultad. Se registró una omisión mediante el código SALT [[KEEP|[EW]]].
+
+A — ANÁLISIS
+
+[[CHILD|Nicolás]] mostró mayor iniciativa para pedir objetos que para comentar. Las elecciones visuales facilitaron mensajes más largos. El apoyo verbal inmediato redujo la espontaneidad; esperar antes de ofrecer el modelo permitió más intentos. La sustitución observada necesita seguimiento en distintas palabras. Los resultados corresponden a esta sesión y no representan una nueva evaluación estandarizada. La información familiar coincide con la participación observada, aunque todavía faltan muestras durante rutinas menos estructuradas.
+
+P — PLAN
+
+Continuar el objetivo [[KEEP|2]] del IFSP durante juego y merienda. Practicar [[KEEP|"quiero más"]] y [[KEEP|"ayuda"]], con [[KEEP|apoyo mínimo]] cuando sea necesario. Compartir una tarjeta visual con la madre [[PARENT|Elena Montes Varela]]. Solicitar ejemplos de comunicación espontánea a la maestra [[TEACHER|J. Ortiz]]. Revisar la generalización antes de modificar el objetivo. La familia eligió practicar durante la preparación de la merienda y traer ejemplos escritos a la próxima sesión.
+
+Firma: [[PROVIDER|M.R.]], patóloga bilingüe del habla y lenguaje.

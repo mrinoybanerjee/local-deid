@@ -1,0 +1,169 @@
+Document type: NC Infant-Toddler Program IFSP review
+Record status: Fictional training document; all personal and organizational details are invented
+Child: [[CHILD|Mateo Andrés Varela]]
+Preferred name: [[CHILD|Teo]]
+Date of birth: [[DATE|June 6, 2024]]
+Chronological age: [[KEEP|28 months]]
+Child record number: [[ID|NCITP-684209]]
+Medicaid member number: [[MEDICAID_ID|742806193Q]]
+IFSP review date: [[DATE|October 6, 2026]]
+Original IFSP date: [[DATE|April 8, 2026]]
+Evaluation date: [[DATE|March 24, 2026]]
+Review location: Family home
+Home address: [[PLACE|418 Willow Lantern Lane]], [[PLACE|Fernwick]], North Carolina [[PLACE|27993]]
+County of residence: [[PLACE|Mossvale County]]
+Mother: [[PARENT|Lucía Varela]]
+Father: [[PARENT|Daniel Varela]]
+Sibling: [[SIBLING|Sol Varela]], age [[KEEP|5 years]]
+Primary telephone: [[PHONE|919-555-0146]]
+Secondary telephone: [[PHONE|252-555-0183]]
+Parent email: [[EMAIL|lucia.varela@example.invalid]]
+Service coordinator: [[PROVIDER|Nora Bellamy]]
+CDSA office: [[AGENCY|Mossvale Children's Developmental Services Agency]]
+Coordinator telephone: [[PHONE|919-555-0128]]
+Coordinator email: [[EMAIL|nora.bellamy@example.invalid]]
+Reporting clinician: [[PROVIDER|Elena Marisol Cordero]], MS, CCC-SLP, bilingual pediatric speech-language pathologist
+Clinician employer: [[EMPLOYER|Little Lantern Pediatric Communication]]
+Clinician telephone: [[PHONE|252-555-0167]]
+Program information: [[URL|https://mossvale-cdsa.example.invalid/infant-toddler]]
+Diagnosis: Mixed receptive-expressive language disorder, [[KEEP|F80.2]]
+Service code: [[KEEP|92507]]
+Billing modifier: [[KEEP|GN]]
+Authorization number: [[ID|ST-260412-731]]
+Proposed service period: [[DATE|October 12, 2026]] through [[DATE|April 5, 2027]]
+
+Review participation and purpose
+
+This review addressed communication during meals, play, dressing, and group care. The parents participated throughout the home meeting. The service coordinator joined by telephone. The reporting clinician conducted the visit in English and Spanish according to each participant's preference. This export is written in English. Family statements below preserve the family's wording.
+
+The team reviewed progress, current barriers, and supports that fit existing routines. The parents confirmed that Spanish remains the main home language. English occurs during group care and community activities. The family wants services to support both languages. The team explained that exposure to two languages does not require the family to stop using Spanish.
+
+The child remained nearby during discussion and joined several familiar activities. Participation varied with fatigue and interest. The family could pause the meeting, request clarification, or disagree with recommendations. Both parents helped select the revised outcomes.
+
+Family information and natural supports
+
+[[CHILD|Mateo]] lives with both parents and his sister, [[SIBLING|Sol]]. His maternal grandmother, doña [[FAMILY|Lupe]], provides care on some afternoons. A family babysitter, Mr. [[FAMILY|Tom]], occasionally helps when work schedules overlap. The household includes a small dog named [[PET|Miga]]. The parents describe the home as active, affectionate, and predictable when adults share the same routine.
+
+[[PARENT|Lucía]] works at [[ORG|Fernwick Orchard Packaging]]. [[PARENT|Daniel]] works at [[ORG|Copper Finch Cabinet Works]]. Their rotating schedules make short practice opportunities more useful than separate homework sessions. The family has access to a telephone and can receive printed materials. They prefer brief messages about scheduling and written examples in both languages.
+
+The parents report no current concern about housing or food access. Transportation can be difficult when both adults work. They want advance notice of appointments and permission to include familiar caregivers in coaching. The family identifies shared meals, music, and outdoor play as strengths that can support communication.
+
+Family concerns and priorities in the family's own words
+
+Mother stated, “I know what [[CHILD|Teo]] wants because I watch his hands. Other people do not always understand. I want him to ask before he cries.”
+
+Father stated, “When we get dressed, he runs away if I talk too much. Show me how to give one clear step and wait.”
+
+Mother added, “We want Spanish at home. I do not want my mother to feel that she has to speak English with him.”
+
+Father stated, “At pickup, I hear that he had a hard morning, but I need one example. Was he hungry, waiting, or trying to get a toy?”
+
+The parents' first priority is a reliable way to request help or a preferred item. Their second priority is smoother participation in dressing and cleanup. They also want staff to recognize communication attempts before frustration increases.
+
+The family does not require spoken words for every request. They accept pointing, gestures, pictures, signs, and speech when these methods help the child participate. Mother stated, “If he can show me first, we can build the word later.”
+
+The team agreed to measure progress across ordinary activities. Adults will describe what happened before a communication attempt, what the child did, and how the partner responded.
+
+Daily routines and participation
+
+Morning activities usually begin around [[TIME|6:45 a.m.]]. During breakfast, [[CHILD|Mateo]] points toward familiar foods and moves an adult's hand toward containers. He sometimes leaves the table when an item is unavailable. The family will place two choices within view, provide a brief model, and allow time for a response. Adults will acknowledge clear gestures immediately.
+
+Dressing begins around [[TIME|7:15 a.m.]]. The child helps push his arms through sleeves when the adult holds the garment open. He has more difficulty when several directions occur together. The family will prepare clothing first and give one direction at a time. A familiar object or gesture will support understanding.
+
+Attendance at [[DAYCARE|The Upside-Down Acorn]] begins around [[TIME|8:00 a.m.]]. The child attends Ms. [[TEACHER|Lopez]]'s room. Miss [[TEACHER|Ana]] assists during meals and outdoor play. Staff report that visual choices and predictable transitions help him remain with the group. Classmates [[PEER|Ivo]] and [[PEER|Nell]] often approach him during block play. He watches them, imitates an action, and sometimes takes a desired block without signaling.
+
+Lunch occurs near [[TIME|11:30 a.m.]]. Staff will offer an accessible request method before serving additional portions. They will avoid requiring repeated speech attempts when the child's message is already clear.
+
+Evening play often begins around [[TIME|5:30 p.m.]]. The sister enjoys drawing suns and naming colors. The Spanish target word [[KEEP|"sol"]] refers to the picture of the sun. The same spoken form is also the sister's name, [[SIBLING|Sol]]. Adults will record the context so a picture label is not mistaken for calling a family member.
+
+Developmental and clinical information
+
+The parents report birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|6 lb 11 oz]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. Delivery occurred at [[HOSPITAL|Fernwick River Children's Hospital]]. These details come from family report and were not independently checked during this review.
+
+The primary physician is Dr. [[PROVIDER|Maren Holt]]. The family reports no new hospitalization or major medical change. Hearing screening documentation dated [[DATE|March 18, 2026]] indicated a pass. The team will request further hearing assessment if new concerns arise.
+
+At the earlier evaluation, the [[KEEP|PLS-5]] supported a structured description of language performance. The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|78]], with percentile rank [[KEEP|7]] and confidence interval [[KEEP|73–85]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|75]], with percentile rank [[KEEP|5]] and confidence interval [[KEEP|70–83]]. The [[KEEP|Total Language]] standard score was [[KEEP|75]], with percentile rank [[KEEP|5]].
+
+These scores require caution because the child's language experience spans two languages. The team did not use them alone to describe ability or determine priorities. Family interview, observation, and communication across routines provided additional evidence.
+
+During this review, spontaneous productions included [[KEEP|"agua"]], [[KEEP|"ma"]], and [[KEEP|"no"]]. A glide resembling [[KEEP|[w]]] occurred in one word attempt. Stable production of [[KEEP|/k/]] was not observed. Speech sounds are monitored within meaningful communication rather than treated as the main family priority.
+
+Other agencies and community coordination
+
+The family receives nutrition support through [[AGENCY|Mossvale County WIC]]. The parents also have an assigned contact at [[AGENCY|Mossvale County DSS]] for benefit questions. The team did not review financial records during this meeting.
+
+[[AGENCY|Mossvale County Partnership for Children]] provided information about play groups and lending materials. [[AGENCY|Mossvale County Early Head Start]] has an application on file. Application status was reported by the mother; enrollment has not been confirmed.
+
+The family identified transportation contact [[PERSON|Della Rowan]] as someone who may help explain available ride arrangements. The coordinator will first clarify the family's need and follow the family's signed information-sharing choices.
+
+With current parent consent, the coordinator may exchange functional communication information with classroom staff. Shared information will describe helpful supports, progress, and barriers. Staff do not need the full clinical record to carry out routine strategies.
+
+The clinician will offer one shared communication page for home and group care. The page will include preferred activities, accepted communication methods, and examples of adult responses. The parents can revise that page whenever routines change.
+
+Outcome [[KEEP|1]]: Communicate a useful message during meals and play
+
+The family wants [[CHILD|Mateo]] to request an item, more of an activity, or help before distress interrupts participation. Success means a clear gesture, picture selection, sign, or spoken attempt during [[KEEP|4/5]] observed opportunities across two familiar routines for two consecutive weeks.
+
+Baseline observation showed clear independent messages in [[KEEP|3/10]] opportunities. Most additional requests involved taking an adult's hand or crying. The child responded to brief models with [[KEEP|mod cues]].
+
+Adults will arrange one natural opportunity at a time. They will keep the desired item visible, pause, and accept an effective response. They will model the target words [[KEEP|"más"]], [[KEEP|"agua"]], and [[KEEP|"help"]] when relevant. Adults will give the item or assistance promptly after the message.
+
+The clinician will use [[KEEP|enhanced milieu teaching]] during family-selected activities and explain each strategy as it occurs. Practice will remain brief. Food, comfort, and necessary care will not depend on producing a word.
+
+The parents and staff will record one example per day when feasible. The clinician will compare independent attempts with attempts that required support and adjust the plan if frustration increases.
+
+Outcome [[KEEP|2]]: Participate in dressing and cleanup
+
+The family wants the child to complete familiar single-step actions with less repeated talking. Success means participation in [[KEEP|4/5]] opportunities with [[KEEP|min cues]] during dressing and cleanup for two consecutive weeks.
+
+Current performance was [[KEEP|2/5]] with spoken directions alone and [[KEEP|4/5]] when adults added a gesture and familiar materials. This suggests that context and visual support improve access to the instruction.
+
+Adults will use the same short direction for a repeated action. They will wait before repeating it. During dressing, the adult can hold open a sleeve and model the target phrase [[KEEP|"arm in"]]. During cleanup, the adult can point to the basket and model [[KEEP|"put in"]].
+
+The family will begin with actions the child already understands. They will add a new action only after the routine becomes easier. Adults will acknowledge participation without requiring eye contact.
+
+The clinician will coach caregivers during the actual routine when possible. Progress notes will state the action, available support, and response. The team will distinguish difficulty understanding a direction from fatigue, discomfort, or refusal.
+
+Outcome [[KEEP|3]]: Join shared play with another child
+
+The parents want [[CHILD|Teo]] to stay in a simple shared activity and communicate a turn. Success means completing three back-and-forth exchanges in [[KEEP|3/4]] opportunities with [[KEEP|mod cues]] or less during familiar play.
+
+Baseline observation included one exchange before the child moved away. Preferred materials included blocks, rolling balls, and animal figures. Adults will begin with a cooperative activity that does not require sharing a highly valued object.
+
+Ms. [[TEACHER|Lopez]] will pair him with a willing classmate for a brief activity. The adult will describe whose turn comes next and model the target words [[KEEP|"go"]] or [[KEEP|"my turn"]]. Pointing, offering an object, or pushing a ball toward a partner will count as a turn signal.
+
+At home, the sister can participate when she wants to. She will not be responsible for therapy or for preventing distress. Adults will help both children end the activity comfortably.
+
+The clinician will review whether support promotes participation. If the activity repeatedly leads to distress, the team will change the materials, partner, or duration.
+
+Outcome [[KEEP|4]]: Help communication partners understand emerging words
+
+The family wants familiar adults to recognize speech attempts while continuing to accept other communication methods. Success means partners understand the intended message in [[KEEP|8/10]] routine opportunities using the available context and no more than [[KEEP|min cues]].
+
+The clinician will use [[KEEP|focused stimulation]] with useful words selected by the family. Adults will model a word naturally during an activity without asking for repeated imitation. They will confirm meaning through the object, action, or gesture.
+
+During drawing, the target word [[KEEP|"sol"]] will be documented as a picture label when the child points to a sun. Calling [[SIBLING|Sol]] will be documented separately. This distinction matters because the spoken forms match.
+
+A brief language sample will preserve productions such as [[KEEP|"a"]], [[KEEP|"tá"]], and [[KEEP|"mo"]]. If analysis uses [[KEEP|SALT]], an error notation such as [[KEEP|[EW]]] will describe the sample only. It will not replace the family's account of successful communication.
+
+The team will review functional clarity before selecting speech sound targets. Familiar partners will avoid correcting every attempt.
+
+Service plan and dates
+
+Speech-language services will occur once weekly for 45 minutes in the home or group care setting. Services begin [[DATE|October 12, 2026]] and continue through [[DATE|April 5, 2027]], subject to the IFSP review process.
+
+The usual home appointment is [[TIME|4:15 p.m.]] on Mondays. The clinician and family may change the location when another routine offers a better practice opportunity. The clinician will confirm changes directly with the parent.
+
+Each visit will include observation, caregiver practice, feedback, and a brief plan for the week. The family may choose one strategy to practice between visits. Written material will use clear examples rather than technical terms.
+
+The service coordinator will contact the family monthly and help address scheduling, access, and agency questions. Classroom consultation will occur within the authorized service arrangement and existing consent.
+
+Progress will be reviewed on [[DATE|January 5, 2027]]. The next full IFSP review is planned for [[DATE|April 5, 2027]]. Earlier review may occur if family priorities, participation, or service needs change.
+
+Agreement and follow-up
+
+The parents agreed that the revised outcomes reflect current priorities. They requested practical examples and brief records of progress. The team will use observations across routines to judge whether support helps the child participate.
+
+The clinician will prepare the shared communication page. The coordinator will confirm transportation options and application status. The family will select the first meal and dressing routine for practice.
+
+This review records family report, direct observation, and team agreement separately. The next visit will establish a comparable baseline for the revised outcomes. No new assessment scores were generated during this review.

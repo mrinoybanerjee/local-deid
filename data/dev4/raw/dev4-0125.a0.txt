@@ -1,0 +1,30 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha de servicio: [[DATE|9 de octubre de 2026]] Hora: [[TIME|3:30 p.m.]]–[[TIME|4:15 p.m.]]
+Clínica: [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Terapeuta: [[PROVIDER|Ana Martínez]], CCC-SLP
+Niño: [[CHILD|Mateo Fernández]], edad [[KEEP|4;2]]
+ID de caso: [[ID|MC-48213X]] Medicaid #: [[MEDICAID_ID|NC928371445A]]
+
+S: La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Fernández]], reporta que en casa él dijo "[[PET|Rocky]] [[KEEP|[wole]]]" al ver correr al perro, sustituyendo /r/ por [w] en el objetivo "[[KEEP|corre]]". También imitó a su hermano mayor diciendo "[[SIBLING|Diego]] [[KEEP|[tole]]]" para "[[KEEP|corre]]" con sustitución /k/→[w]. [[PARENT|Lucía]] trabaja de noche en [[ORG|Mills Fiber Logistics]] como supervisora de turno y llega cansada; el papá, [[PARENT|Carlos Fernández]], hace el traslado al colegio por las mañanas. La familia vive en [[PLACE|214 Maple Street]], [[PLACE|Hickory]], y es originaria de la aldea de [[PLACE|El Jícaro]], Honduras, donde vive la abuela paterna. Reportan que [[CHILD|Mateo]] sigue pidiendo galletas diciendo "[[KEEP|[dadeta]]]" por "[[KEEP|galleta]]" y que su hermanita, [[SIBLING|Valentina]], ya habla más claro a sus [[KEEP|2 años]].
+
+O: [[CHILD|Mateo]] llegó alerta, cooperó con [[KEEP|mod cues]] visuales. Se administró porción del [[KEEP|GFTA-3]] y el [[KEEP|CELF-5]], subprueba [[KEEP|Conceptos y Siguiendo Instrucciones]].
+
+Tabla de puntajes:
+| Prueba | Fecha | Puntaje estándar | IC 95% |
+|---|---|---|---|
+| [[KEEP|GFTA-3]] | [[DATE|12/03/2025]] | [[KEEP|78]] | [[KEEP|71-85]] |
+| [[KEEP|GFTA-3]] | [[DATE|09/10/2026]] | [[KEEP|85]] | [[KEEP|78-92]] |
+| [[KEEP|CELF-5]] (Conceptos) | [[DATE|09/10/2026]] | [[KEEP|90]] | [[KEEP|83-97]] |
+
+Producción de fonemas: /k/ emergente en posición inicial, [[KEEP|3 de 5]] intentos correctos con [[KEEP|min cues]]; /r/ aún distorsionado, [[KEEP|1/10]] independiente. Praxia oral dentro de límites normales. Longitud media de enunciado estimada en [[KEEP|3.2]] palabras, codificado [[KEEP|[EW]]] en SALT para enunciados incompletos.
+
+Se usó [[KEEP|PROMPT]] táctil-cinestésico para facilitar cierre labial en /p/ y /b/; también se incorporó [[KEEP|Hanen]] "It Takes Two to Talk" con la mamá presente parte de la sesión vía telesalud, coordinado por [[PROVIDER|Rosa Jiménez]], intérprete de la agencia.
+
+A: [[CHILD|Mateo]] presenta trastorno fonológico-articulatorio, [[KEEP|ICD-10 F80.0]], consistente con retraso leve-moderado; progreso notable desde [[DATE|diciembre de 2025]] (ver tabla). Comprensión auditiva mejoró a rango [[KEEP|promedio bajo]], percentil [[KEEP|25]]. Continúa calificando para servicios bajo el [[KEEP|Resultado 2]] del IFSP, revisado el [[DATE|15 de enero de 2026]]. Edad gestacional al nacer: [[KEEP|38 semanas]]; peso al nacer: [[KEEP|3100 g]]; Apgar [[KEEP|8/9]].
+
+P: Continuar tx [[KEEP|2x/semana]], [[KEEP|30 min]] por sesión, enfoque en /r/ y /k/ con [[KEEP|Cycles]]. Introducir tablero de [[KEEP|PECS]] nivel 1 para apoyo en transiciones. Coordinar con maestra [[TEACHER|Sra. López]] en [[DAYCARE|Little Steps Daycare]] para generalización en el aula. Enviar resumen a [[PROVIDER|Dra. Patel]], pediatra, en [[HOSPITAL|Foothills Pediatric Clinic]], y notificar a [[AGENCY|CDSA de Catawba County]] sobre el progreso para la revisión del IFSP programada el [[DATE|20 de enero de 2027]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]].
+
+Próxima cita: [[DATE|16 de octubre de 2026]] a las [[TIME|3:30 p.m.]]. Contacto familiar: [[PHONE|(828) 555-0194]].
+
+[[PROVIDER|Ana Martínez]], M.S., CCC-SLP

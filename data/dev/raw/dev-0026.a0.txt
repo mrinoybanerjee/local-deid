@@ -1,0 +1,106 @@
+Local Infant-Toddler Program (ITP) IFSP Review — EMR export. Generating one synthetic, fully fictional bilingual document for the de-identification test corpus.
+
+---
+
+Record Type: IFSP Annual Review
+Program: NC Infant-Toddler Program (ITP)
+CDSA Office: [[AGENCY|Foothills Children's Developmental Services Agency]]
+Child Name: [[CHILD|María José Fuentes Reyes]]
+Preferred Name: [[CHILD|Majo]]
+Date of Birth: [[DATE|4 de junio de 2022]]
+Child ID: [[ID|ITP-884217]]
+Medicaid ID: [[MEDICAID_ID|NC9204471385J]]
+Primary Home Language: Spanish/English
+Parent/Guardian 1: [[PARENT|Lucía Fuentes Hernández]]
+Parent/Guardian 2: [[PARENT|Carlos Reyes Torres]]
+Home Address: [[PLACE|142 Hollyhock Lane, Hickory, NC 28601]]
+County: [[PLACE|Catawba County]]
+Home Phone: [[PHONE|(828) 555-0142]]
+Parent Email: [[EMAIL|lucia.fuentes.h@mailbox.com]]
+Service Coordinator: [[PROVIDER|Jennifer Álvarez]]
+SC Phone: [[PHONE|(828) 555-0199]]
+IFSP Meeting Date: [[DATE|3 de marzo de 2025]]
+IFSP Review Date: [[DATE|09/15/2025]]
+Annual IFSP Due Date: [[DATE|03/03/2026]]
+Report Author: [[PROVIDER|Patricia Gómez-Wilson, M.S., CCC-SLP]]
+Author Employer: [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]
+Primary Diagnosis (ICD-10): F80.2 — Mixed Receptive-Expressive Language Disorder
+CPT Codes (Current Services): 92507, 92523
+
+RAZÓN DE LA REUNIÓN / REASON FOR MEETING
+
+This six-month IFSP review was held on [[DATE|el martes 9 de septiembre de 2025]] at the [[AGENCY|Foothills Children's Developmental Services Agency]] office in [[PLACE|Morganton, NC]], with a follow-up phone check-in on [[DATE|09/15/2025]]. The purpose of the meeting was to review progress on [[CHILD|Majo]]'s current outcomes, update la información de la familia, and confirm services and frequency going into the next IFSP period. Present at the meeting were [[PARENT|Lucía Fuentes Hernández]] (madre), [[PARENT|Carlos Reyes Torres]] (padre, by phone from his job site), [[PROVIDER|Jennifer Álvarez]] (Service Coordinator), and this writer, [[PROVIDER|Patricia Gómez-Wilson, M.S., CCC-SLP]], bilingual speech-language pathologist with [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]. [[PROVIDER|Dr. Michael Ortiz]], pediatrician, sent a written update in lieu of attending in person.
+
+ANTECEDENTES / BACKGROUND
+
+[[CHILD|María José]], a quien la familia llama [[CHILD|Majo]] en casa, nació el [[DATE|4 de junio de 2022]] at [[HOSPITAL|Catawba Valley Medical Center]]. Según mamá, el embarazo y el parto fueron sin complicaciones, "nació a término, sin problemas, todo normal." [[CHILD|Majo]] was referred to the [[AGENCY|Foothills CDSA]] on [[DATE|January 10, 2024]] by her pediatrician, [[PROVIDER|Dr. Michael Ortiz]], después de que mamá reportó que [[CHILD|Majo]] no decía ninguna palabra a los 18 meses. The initial eligibility evaluation, completed [[DATE|02/02/2024]], confirmed eligibility under the category of established developmental delay in the area of communication, consistent with ICD-10 code F80.2.
+
+[[CHILD|Majo]] vive en casa con su mamá, [[PARENT|Lucía]]; su papá, [[PARENT|Carlos]], quien trabaja largas horas en [[ORG|Blue Ridge Freight Lines]] como conductor; su hermano mayor [[SIBLING|Diego Fuentes Reyes]], de 5 años; y su abuela materna, [[FAMILY|Rosa Hernández]], who moved in with the family last year and cares for [[CHILD|Majo]] several afternoons a week while mamá works at [[ORG|Hickory Furniture Mart]]. The family also has a small dog, [[PET|Max]], who [[CHILD|Majo]] loves to chase around the backyard. [[SIBLING|Diego]] attends kindergarten and, per mamá, "le ayuda mucho a su hermanita, le repite las palabras y juega con ella."
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA / FAMILY CONCERNS AND PRIORITIES
+
+During the meeting, [[PARENT|Lucía]] shared her ongoing concerns en sus propias palabras: "Todavía me preocupa que no hable tanto como los otros niños de su edad. Ella entiende todo, pero no me dice las cosas." She added, "en la guardería dicen que se frustra cuando quiere algo y no puede decirlo, y empieza a llorar o a jalar a la maestra." [[PARENT|Carlos]], joining by phone, agreed: "Yo quiero que ella pueda decir lo que necesita sin tanto drama, that's my main priority para que no se frustre tanto."
+
+Both parents identified three priorities for the coming IFSP period:
+1. Que [[CHILD|Majo]] use more two- and three-word combinations in Spanish and English at home and at daycare.
+2. Que pueda pedir lo que quiere ("quiero agua," "más galleta") instead of crying or pulling an adult's hand.
+3. Continued support for bilingual language development so that [[CHILD|Majo]] "no pierda el español" while also building English skills for preschool.
+
+[[FAMILY|Rosa]] added during the visit, "yo le hablo solo en español, y a veces no sé si eso la confunde o la ayuda," which this writer addressed directly, reassuring the family that dual language exposure does not cause or worsen language delay.
+
+RUTINAS DIARIAS DE LA FAMILIA / DAILY ROUTINES
+
+[[CHILD|Majo]]'s typical day begins around [[TIME|7:00 a.m.]] when she wakes up and has breakfast with [[SIBLING|Diego]] before mamá drops both children off — [[SIBLING|Diego]] at school and [[CHILD|Majo]] at [[DAYCARE|Little Steps Early Learning Center]] on [[PLACE|Startown Road in Hickory]] — around [[TIME|7:45 a.m.]]. Her classroom teacher, [[TEACHER|Ms. Hannah Price]], reports that [[CHILD|Majo]] enjoys circle time and music but becomes frustrated during free play when she wants a toy that a classmate, [[PEER|Emma]], is using. [[TEACHER|Ms. Price]] noted, "she'll point and grunt, or just grab, instead of using any words, even 'mine' or 'help.'"
+
+In the afternoons, [[FAMILY|Rosa]] or mamá pick up [[CHILD|Majo]] around [[TIME|4:30 p.m.]]. Snack time and bath time are described as favorite routines; mamá reports that [[CHILD|Majo]] is most verbal during bath time, "cuando está en la tina feliz, dice más sonidos, como 'agua' o trata de decir 'pato' por el juguete." Dinner is typically around [[TIME|6:00 p.m.]], and bedtime routine includes a favorite book read in Spanish by [[FAMILY|Rosa]] and in English by mamá on alternating nights, "para que escuche los dos idiomas."
+
+Weekends often include a visit to [[FAMILY|tía Marisol]], mamá's sister, who lives nearby and has two older children [[CHILD|Majo]] enjoys watching but does not yet initiate play with directly.
+
+OTRAS AGENCIAS INVOLUCRADAS / OTHER AGENCIES INVOLVED
+
+The family currently receives support from [[AGENCY|WIC]] for nutrition services, and mamá reported a recent appointment on [[DATE|08/22/2025]] where staff noted [[CHILD|Majo]]'s growth is on track. The family was also connected to [[AGENCY|Smart Start of Catawba County]] earlier this year for a home-visiting parent coaching program; the home visitor, [[PROVIDER|Monica Reyes]] (no relation to the family), visits monthly and reinforces language strategies introduced in speech therapy. The family is not currently open with [[AGENCY|Catawba County DSS]], though [[PROVIDER|Jennifer Álvarez]] noted this as a resource should additional support be needed.
+
+RESULTADOS DE EVALUACIÓN / SPEECH-LANGUAGE EVALUATION RESULTS
+
+This writer administered portions of the Preschool Language Scale-5 (Spanish and English editions) and conducted dynamic bilingual assessment during the review period, with results summarized below in the context of ongoing treatment (CPT 92523, bilingual evaluation of speech sound production with evaluation of language comprehension and expression; CPT 92507, individual treatment of speech/language disorder).
+
+Receptive language in both Spanish and English remains a relative strength: [[CHILD|Majo]] followed two-step directions in Spanish ("dame la pelota y ponla en la caja") with 8/10 trials correct (80% accuracy) and followed comparable English directions with 7/10 accuracy (70%). Expressive language continues to show significant delay relative to same-age peers. Spontaneous utterances remain largely single-word or gestural; during a 20-minute structured play sample, [[CHILD|Majo]] produced 14 intelligible single words (mix of Spanish and English, e.g., "agua," "más," "ball," "no") and only 2 two-word combinations ("más agua," "no quiero"). Age-equivalent expressive language skills are estimated at approximately 1;6, against a chronological age of 3;3.
+
+Phonological skills were assessed informally; [[CHILD|Majo]] substitutes /t/ for /k/ in word-initial position (e.g., "taza" produced as "tasa" is accurate, but "casa" is produced as "tasa"), and frequently deletes final consonants, consistent with expected patterns at this developmental stage rather than a primary articulation disorder. No oral-motor structural concerns were noted on examination.
+
+Pragmatic/functional communication remains an area of concern consistent with family report: [[CHILD|Majo]] uses pulling, grabbing, and crying as her primary strategies for requesting and protesting in approximately 60% of observed opportunities, with verbal or gestural communication (pointing plus a word attempt) used in the remaining 40%. With moderate verbal cueing and modeling, [[CHILD|Majo]] was able to imitate two-word phrases with 8/10 accuracy (80%) during structured drill, suggesting good stimulability for continued direct intervention.
+
+RESULTADOS Y ESTRATEGIAS / OUTCOMES AND STRATEGIES
+
+Outcome 1: [[CHILD|Majo]] will use two-word combinations (noun + verb, or noun + noun) to request preferred items and activities in both Spanish and English, across home, daycare, and therapy settings, with 80% accuracy across three consecutive sessions.
+
+Strategies: Continue weekly individual speech-language therapy (CPT 92507) focused on expansion of single words into two-word combinations using a bilingual carrier-phrase approach ("quiero ___," "más ___," "I want ___"). This writer will model target phrases in both languages during structured play and coach [[PARENT|Lucía]], [[PARENT|Carlos]], and [[FAMILY|Rosa]] on using the same expansion strategy during daily routines (snack, bath, play). [[TEACHER|Ms. Price]] at [[DAYCARE|Little Steps Early Learning Center]] will be given a simple visual cue card to prompt [[CHILD|Majo]] to use words instead of grabbing during free play, and will track frequency of word use versus grabbing/crying weekly.
+
+Outcome 2: [[CHILD|Majo]] will reduce use of grabbing, pulling, and crying as a primary communication strategy, replacing these behaviors with a word, approximation, or clear gesture paired with eye contact in at least 70% of observed communication opportunities at home and at daycare.
+
+Strategies: Direct coaching for [[FAMILY|Rosa]] and both parents on consistent "wait time" and modeling (count to five silently, then model the target word) before meeting [[CHILD|Majo]]'s request, so she has the opportunity to attempt communication first. [[PROVIDER|Monica Reyes]] from Smart Start will reinforce this same strategy during monthly home visits so that the approach is consistent across providers. Data will be collected informally by family and daycare staff using a simple frequency tally shared with this writer monthly.
+
+Outcome 3: The family will continue to receive services and information in both Spanish and English to support bilingual language development, so that [[CHILD|Majo]] continues to build skills in both languages without being pressured to use only one.
+
+Strategies: All therapy materials, home programs, and written reports will be provided in Spanish and English. This writer, who is bilingual, will continue to deliver direct services bilingually, following [[CHILD|Majo]]'s lead on which language she initiates in during a given activity rather than requiring a single language. The team reaffirmed to the family, in response to [[FAMILY|Rosa]]'s question above, that continued Spanish exposure at home will not delay or confuse [[CHILD|Majo]]'s English development, and in fact supports stronger overall language outcomes long term.
+
+FRECUENCIA Y DURACIÓN DE SERVICIOS / SERVICE FREQUENCY AND DURATION
+
+Speech-language therapy (CPT 92507) will continue at a frequency of one 45-minute individual session per week, delivered in the home setting, through the end of the current IFSP period and into the next annual IFSP, with re-evaluation (CPT 92523) scheduled prior to the annual review. Developmental therapy consultation at [[DAYCARE|Little Steps Early Learning Center]] will continue monthly to support classroom carryover. Service coordination through [[AGENCY|Foothills CDSA]] will continue at the standard IFSP review interval, with the next formal six-month review scheduled for [[DATE|March 9, 2026]] and the annual IFSP due no later than [[DATE|03/03/2026]].
+
+The family was given this writer's direct contact information for questions between visits: [[PROVIDER|Patricia Gómez-Wilson]] may be reached at [[PHONE|(828) 555-0177]] or [[EMAIL|p.gomezwilson@carolinabilingualtherapy.com]]. Additional program information is also available through [[AGENCY|Foothills CDSA]]'s family resource line.
+
+SEGUIMIENTO / NEXT STEPS
+
+[[PROVIDER|Jennifer Álvarez]] will send the family an updated written copy of the IFSP in both Spanish and English within ten business days of this meeting. [[TEACHER|Ms. Price]] will begin the weekly tracking log at [[DAYCARE|Little Steps Early Learning Center]] starting [[DATE|el lunes 15 de septiembre de 2025]]. [[PROVIDER|Monica Reyes]] will be contacted by this writer to coordinate shared strategies prior to her next scheduled home visit. The family's next individual therapy session is scheduled for [[DATE|09/22/2025]] at [[TIME|10:30 a.m.]] at the family home.
+
+Mamá expressed appreciation for the bilingual approach: "me gusta que todo esto está en los dos idiomas, así yo entiendo bien y puedo ayudar a Majo en casa." Both parents verbally agreed to the outcomes and strategies outlined above and consented to continued services as described.
+
+FIRMAS / SIGNATURES
+
+Parent/Guardian: [[PARENT|Lucía Fuentes Hernández]] — Date: [[DATE|09/09/2025]]
+Parent/Guardian: [[PARENT|Carlos Reyes Torres]] — Date: [[DATE|09/09/2025]] (verbal consent via phone, confirmed by Service Coordinator)
+Service Coordinator: [[PROVIDER|Jennifer Álvarez]] — Date: [[DATE|09/09/2025]]
+Speech-Language Pathologist: [[PROVIDER|Patricia Gómez-Wilson, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]] — Date: [[DATE|09/09/2025]]
+
+End of IFSP Review Report.

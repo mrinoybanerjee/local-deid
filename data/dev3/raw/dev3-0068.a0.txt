@@ -1,0 +1,25 @@
++ Nombre: [[CHILD|Mateo Fernández]]
++ EC: [[KEEP|4;2]]
++ ID de Medicaid: [[MEDICAID_ID|NC4487213K]]
++ Fecha de nacimiento: [[DATE|15 de agosto de 2021]]
++ Contexto: Visita domiciliaria de terapia del habla y lenguaje en [[PLACE|214 Primrose Lane, Kernersville]], NC [[PLACE|27284]]. Sesión de [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]] el [[DATE|7 de octubre de 2026]].
+
+Resumen:
+
+[[CHILD|Mateo]] nació prematuro a las [[KEEP|32 semanas]] de gestación, con peso al nacer de [[KEEP|1,580 gramos]], y pasó varios días en la UCIN del [[HOSPITAL|Novant Health Presbyterian Medical Center – Campus Mint Hill]]. Actualmente recibe terapia del habla y lenguaje a través del [[AGENCY|CDSA]], bajo un plan IFSP firmado el [[DATE|3 de marzo de 2026]], con revisión anual programada para el [[DATE|3 de marzo de 2027]].
+
+Su mamá, [[PARENT|Lucía Rodríguez]], trabaja dos empleos para sostener a la familia: turno diurno como auxiliar de limpieza en el hospital, y turno nocturno de empaque en [[ORG|FTS]]. Su papá, [[PARENT|Hugo Fernández]], trabaja como soldador y no pudo asistir a la sesión de hoy. Para contactar a la familia: casa [[PHONE|(336) 555-0148]], celular de [[PARENT|Lucía]] [[PHONE|919-555-0173]]. Cuando ambos padres trabajan, [[CHILD|Mateo]] queda al cuidado de doña [[FAMILY|Lupe]], vecina que lo recoge de la [[DAYCARE|Guardería Little Sprouts]] y lo cuida hasta la noche. A doña [[FAMILY|Lupe]] se le puede localizar al [[PHONE|704.555.0199]]. La familia también llama cada semana a la abuela paterna, que vive en Honduras, al número [[PHONE|+504 2255-0148]], y mantiene contacto con un tío en México al [[PHONE|+52 55 5555 0135]].
+
+En la escuela, la maestra [[TEACHER|Carmen]] reporta que [[CHILD|Mateo]] juega bien con su compañero [[PEER|Diego]], pero se frustra cuando [[PEER|Diego]] no entiende sus palabras y se aleja del grupo.
+
+Hoy trabajamos los fonemas [[KEEP|/k/]] y [[KEEP|/g/]] en posición inicial. [[CHILD|Mateo]] produjo "[[KEEP|casa]]" con 80% de precisión usando claves moderadas ([[KEEP|mod cues]]). En la prueba [[KEEP|Goldman-Fristoe Test of Articulation-3]] obtuvo una puntuación estándar de [[KEEP|73]], percentil [[KEEP|4]], con un intervalo de confianza de [[KEEP|68-78]], lo cual corresponde a una edad equivalente de [[KEEP|2;6–3;0]].
+
+Durante el juego libre, [[CHILD|Mateo]] señaló a su perro de peluche y dijo "[[PET|Rocky]] corre", imitando a su perro real.
+
+La audióloga, [[PROVIDER|Dra. Patricia Núñez]], del [[HOSPITAL|Departamento de Audiología de Novant Health ENT & Audiology – Campus Kernersville]], recomendó una evaluación auditiva de seguimiento por posible fluido en oído medio. Se le puede contactar al [[PHONE|336-555-0122]] o por correo [[EMAIL|pnunez@novanthealth-example.org]].
+
+La coordinadora de servicios del [[AGENCY|CDSA]], Miss [[PROVIDER|Ana]], confirmó por teléfono que la revisión del IFSP se mantiene para el [[DATE|3 de marzo de 2027]]. Su número directo es [[PHONE|919-555-0188]].
+
+Plan: continuar terapia de articulación una vez por semana, con enfoque en [[KEEP|/k/]], [[KEEP|/g/]] y [[KEEP|/t/]] en posiciones inicial y medial, usando el enfoque de [[KEEP|Cycles]]. Se orienta a la familia practicar 10 minutos diarios con las tarjetas de sonidos provistas, e involucrar a doña [[FAMILY|Lupe]] en la práctica cuando los padres trabajan. Próxima sesión programada para el [[DATE|14 de octubre de 2026]] a las [[TIME|3:30 p.m.]], en el mismo domicilio.
+
+Código de sesión: [[ID|S-48217]]. CPT [[KEEP|92507]]. ICD-10 [[KEEP|F80.0]].

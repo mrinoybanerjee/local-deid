@@ -1,0 +1,21 @@
++ Name: [[CHILD|Emiliano Prado Luján]]
++ CA: [[KEEP|2;8]]
++ Context: Sesión individual en el preescolar [[DAYCARE|El Nido del Cometa Violeta]], [[PLACE|Valle del Junco]], Carolina del Norte; servicio del [[DATE|8 de octubre de 2026]], de [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]].
+
+Nota diaria de la licenciada [[PROVIDER|Nora Beltrán Salcedo]], patóloga bilingüe del habla y lenguaje de [[EMPLOYER|Puentes de Voz Infantil]]. Documento completamente ficticio para pruebas.
+
+**Subjetivo:** La mamá, [[PARENT|Mariela Luján Soto]], informó que [[CHILD|Emiliano]] empezó a pedir ayuda durante las comidas. El papá, [[PARENT|Gabriel Prado Vega]], describió menos frustración al recoger juguetes. La hermana [[SIBLING|Inés Prado Luján]] practica turnos; la abuela [[FAMILY|Teresa Soto Olmeda]] cuida al niño los viernes. La familia mencionó al perro [[PET|Chispa]]. No se comunicaron cambios médicos ni dificultades auditivas recientes.
+
+Para explicar cambios de horario, la mamá señaló trabajos actuales en [[ORG|Store Silver Acorn]] y [[ORG|Cleaning Service Moon Basket]], además de turnos anteriores en [[ORG|Restaurant Amber Spoon]]. El papá trabaja en [[ORG|Factory Copper Kite]] y acepta jornadas ocasionales en [[ORG|Farm Hidden Clover]] y [[ORG|Construction Company Quiet Harbor]]. La familia pidió mantener las visitas por la mañana.
+
+**Objetivo:** [[CHILD|Emiliano]] participó en juego con animales, merienda simulada y lectura compartida. Se aplicaron [[KEEP|estimulación focalizada]] y estrategias del programa [[KEEP|Hanen]]. Produjo peticiones de dos palabras en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]], frente a [[KEEP|5/10]] con [[KEEP|claves mínimas]]. Identificó acciones en [[KEEP|75%]] de los ensayos. Imitó [[KEEP|/k/]] en [[KEEP|3 de 5]] intentos; persistió la sustitución por [[KEEP|[t]]]. Dijo [[KEEP|"más agua"]], [[KEEP|"yo quielo"]][[KEEP|[EW]]] y [[KEEP|"ayuda, por favor"]]. Las palabras objetivo fueron [[KEEP|"casa"]] y [[KEEP|"coche"]].
+
+La maestra [[TEACHER|Elvira Paz Molina]] observó el último segmento. Los compañeros [[PEER|Luna Ferral]] y [[PEER|Bruno Cedrón]] participaron brevemente en turnos. El niño esperó sin llorar y retomó la actividad después de una pausa.
+
+**Análisis:** La evaluación del [[DATE|24 de septiembre de 2026]] con [[KEEP|PLS-5]] documentó [[KEEP|Auditory Comprehension]], puntuación estándar [[KEEP|83]], percentil [[KEEP|13]], e intervalo de confianza [[KEEP|77–91]]. En [[KEEP|Expressive Communication]], obtuvo puntuación estándar [[KEEP|79]] y percentil [[KEEP|8]]. Los resultados concuerdan con dificultades expresivas observadas hoy. El avance hacia la meta [[KEEP|2]] del IFSP es gradual. Se mantuvo buena respuesta a apoyos visuales y repetición. La participación aumentó cuando la terapeuta ofreció elecciones y esperó antes de repetir el modelo. No se observaron señales de malestar durante la sesión.
+
+**Plan:** Continuar sesiones semanales y practicar peticiones durante rutinas familiares. La coordinadora [[PROVIDER|Alma Reyes Tovar]], de [[AGENCY|CDSA del Río Ámbar]], recibirá el resumen mediante el sistema autorizado. Diagnóstico registrado: [[KEEP|F80.2]]; procedimiento [[KEEP|92507]], modificador [[KEEP|GN]].
+
+Datos administrativos ficticios: Medicaid [[MEDICAID_ID|987654321Q]]; miembro del seguro [[ID|MBR-64021875]]; identificación infantil NC ITP [[ID|ITP-26048319]]; expediente [[ID|EXP-731904]]; autorización [[ID|AUT-582610]].
+
+Contacto materno: [[PHONE|(919) 555-0148]]; paterno: [[PHONE|984-555-0163]]; abuela en México: [[PHONE|+52 55 0000 0146]]. Oficina: [[PHONE|919.555.0187]], [[EMAIL|citas@puentesvoz.example]], [[URL|https://puentesvoz.example]]. Domicilio registrado: [[PLACE|418 Calle del Farol]], [[PLACE|Valle del Junco]], [[PLACE|27991]]. La recepción confirmó estos datos con los padres.

@@ -1,0 +1,56 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN (IFSP) — SIX-MONTH REVIEW
+
+Child: [[CHILD|Mateo de la Cruz]]
+Date of birth: [[DATE|March 3, 2024]] (born at [[KEEP|32 weeks gestation]], birth weight [[KEEP|3 lbs 14 oz]], [[KEEP|Apgar scores of 4 and 7]])
+Current age: [[KEEP|2;7]]
+Child ID: [[ID|NC-ITP 4471928]]
+Medicaid ID: [[MEDICAID_ID|228419663B]]
+IFSP review date: [[DATE|October 2, 2026]]
+Initial IFSP date: [[DATE|April 11, 2025]]
+CDSA office: [[AGENCY|Foothills Children's Developmental Services Agency, Hickory Office]]
+Service coordinator: [[PROVIDER|Monica Fields]], (828) [[PHONE|555-0147]], [[EMAIL|mfields@foothillscdsa.org]]
+Evaluating/treating SLP: [[PROVIDER|Sarah Jennings]], M.S., CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+
+FAMILY INFORMATION
+Mother: [[PARENT|Lucía Rodríguez-Vega]], works at [[ORG|Garner Foods Distribution Center]]
+Father: Mr. [[PARENT|Tom]]
+Sibling: [[SIBLING|Valentina de la Cruz]], age 5
+Home address: [[PLACE|482 Laurel Creek Lane]], [[PLACE|Hickory]], NC [[PLACE|28601]], [[PLACE|Catawba County]]
+Home phone: (828) [[PHONE|555-0398]]
+
+[[CHILD|Mateo]] was born at [[HOSPITAL|Carolina Pines Health – Mercy Campus Neonatal Intensive Care Unit]] and spent eleven days in the NICU for respiratory support and feeding difficulty. Following a failed newborn hearing screen, he was referred to [[HOSPITAL|Piedmont Health Partners Ear, Nose & Throat and Audiology, Chapel Hill Campus]], where [[PROVIDER|Dr. Nguyen]] diagnosed mild conductive hearing loss secondary to recurrent otitis media. [[PROVIDER|Dr. Patel]], his ENT physician at the same practice, placed bilateral tympanostomy tubes ([[KEEP|CPT 69436]], [[KEEP|ICD-10 H65.193]]) on [[DATE|January 14, 2026]]. [[CHILD|Mateo]]'s pediatrician at [[HOSPITAL|Blue Ridge Pediatric Partners]] continues to monitor his growth and ear health.
+
+FAMILY CONCERNS AND PRIORITIES
+During the review meeting, [[PARENT|Lucía]] shared, "I just want him to be able to tell me what he needs instead of screaming. His cousin [[FAMILY|Diego]] is the same age and he already talks in sentences, and I worry [[CHILD|Mateo]] is falling behind." Mr. [[PARENT|Tom]] added, "We want him ready for kindergarten with the other kids, not stuck behind." The family's priorities remain: (1) increase functional communication at home, (2) improve speech sound clarity so unfamiliar listeners understand him, and (3) support social play with his cousins and daycare friends.
+
+DAILY ROUTINES
+[[CHILD|Mateo]] wakes around [[TIME|7:00 a.m.]] and eats breakfast with his sister [[SIBLING|Valentina]] before his mother drops him at [[DAYCARE|Little Sprouts Early Learning Center]] by [[TIME|8:15 a.m.]]. His teacher, la maestra [[TEACHER|Carmen]], reports he plays alongside classmates [[PEER|Ethan]] and [[PEER|Sofia]] during centers but rarely initiates with words. Three afternoons a week, his grandmother doña [[FAMILY|Lupe]] picks him up; on the other two days, the family's babysitter, Miss [[FAMILY|Ana]], watches him until [[TIME|5:30 p.m.]]. Evenings include bath time, where [[CHILD|Mateo]] enjoys splashing with his dog, [[PET|Rocky]], watching from the hallway, and a bedtime routine of two books read in Spanish and English.
+
+OTHER AGENCIES INVOLVED
+The family also receives nutrition support through [[AGENCY|WIC]] and parenting resources through [[AGENCY|Smart Start of Catawba County]]. [[AGENCY|Catawba County Department of Social Services]] assisted with transportation vouchers for audiology follow-up appointments.
+
+ASSESSMENT RESULTS (administered at six-month review)
+[[KEEP|PLS-5]] Auditory Comprehension: standard score [[KEEP|73]] ([[KEEP|CI 68-83]]), [[DATE|September 15, 2026]]
+[[KEEP|PLS-5]] Expressive Communication: standard score [[KEEP|70]] ([[KEEP|CI 65-78]]), [[DATE|September 15, 2026]]
+[[KEEP|Goldman-Fristoe Test of Articulation-3]]: percentile rank [[KEEP|9th]], age equivalent [[KEEP|1;10–2;1]], [[DATE|September 22, 2026]]
+Spontaneous speech sample: intelligibility to unfamiliar listeners estimated at [[KEEP|40%]], consistent with prior rating of [[KEEP|35%]] at the initial IFSP on [[DATE|April 11, 2025]].
+
+Stimulability testing showed [[CHILD|Mateo]] could produce [[KEEP|/k/]] and [[KEEP|/g/]] in isolation with [[KEEP|mod cues]], though he continues to front velars in words, substituting [[KEEP|/t/]] for [[KEEP|/k/]] (e.g., "[[KEEP|tar]]" for target "[[KEEP|car]]"). During the session he pointed at the window and said "[[KEEP|mas tuto]]" (target "[[KEEP|mas jugo]]," more juice), showing emerging two-word combinations. He also attempted "[[KEEP|Toty go]]" when his dog walked past, approximating the name "[[PET|Rocky]]" with [[KEEP|min cues]].
+
+SERVICES AND APPROACHES
+Therapy has used [[KEEP|Hanen]] strategies to coach [[PARENT|Lucía]] and Mr. [[PARENT|Tom]] in expanding [[CHILD|Mateo]]'s utterances at home, along with [[KEEP|PROMPT]] for tactile cueing of oral-motor placement during speech sound work. A [[KEEP|Cycles]] phonological approach targets velar fronting in alternating two-week blocks. A core-vocabulary [[KEEP|PECS]] board was introduced in September to support requesting during moments of frustration, reducing tantrum behavior reported by both parents and la maestra [[TEACHER|Carmen]].
+
+IFSP REVIEW TABLE
+
+Outcome	Strategies	Progress	Date
+Outcome 1: [[CHILD|Mateo]] will use 2-word combinations to request preferred items during play and mealtime routines.	Parent coaching using [[KEEP|Hanen]] strategies; modeling and expansion at home and daycare; visual supports paired with verbal models.	Increased from [[KEEP|1 of 10]] opportunities at initial IFSP to [[KEEP|6 of 10]] opportunities independently; emerging combinations such as "[[KEEP|mas tuto]]" noted during session.	[[DATE|September 15, 2026]]
+Outcome 2: [[CHILD|Mateo]] will produce velar sounds [[KEEP|/k/]] and [[KEEP|/g/]] in single words with no more than [[KEEP|mod cues]].	[[KEEP|Cycles]] phonological approach with weekly target alternation; [[KEEP|PROMPT]] tactile cueing during individual sessions; home practice sheets reviewed with doña [[FAMILY|Lupe]] and Miss [[FAMILY|Ana]] on caregiving days.	Stimulable in isolation with [[KEEP|mod cues]]; continues fronting in connected speech; accuracy improved from [[KEEP|10%]] to [[KEEP|30%]] in structured tasks.	[[DATE|September 22, 2026]]
+Outcome 3: [[CHILD|Mateo]] will initiate greetings and requests with peers during daycare free play at least [[KEEP|3 of 5]] observed opportunities.	[[KEEP|PECS]] core-vocabulary board introduced at daycare and home; classroom staff trained to prompt peer-directed communication; coordination with la maestra [[TEACHER|Carmen]] for generalization with classmates [[PEER|Ethan]] and [[PEER|Sofia]].	Currently initiating in [[KEEP|2 of 5]] observed opportunities, up from [[KEEP|0 of 5]] at prior review; still reliant on adult prompting to approach peers.	[[DATE|August 28, 2026]]
+
+SERVICE DATES
+Individual speech-language therapy: 45-minute sessions, twice weekly, continuing through next annual IFSP review scheduled for [[DATE|April 11, 2027]].
+Audiology recheck: [[DATE|November 18, 2026]] at [[HOSPITAL|Piedmont Health Partners Ear, Nose & Throat and Audiology, Chapel Hill Campus]].
+Service coordination contact: [[PROVIDER|Monica Fields]] will follow up with the family by [[DATE|October 16, 2026]] regarding transportation support through [[AGENCY|Catawba County Department of Social Services]].
+
+Signatures on file: [[PARENT|Lucía Rodríguez-Vega]], Mr. [[PARENT|Tom]], [[PROVIDER|Monica Fields]], and [[PROVIDER|Sarah Jennings]], [[DATE|October 2, 2026]].

@@ -1,0 +1,31 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Paciente: [[CHILD|Mateo Fernández]]
+Fecha de nacimiento: [[DATE|04/12/2020]]
+Edad: [[KEEP|5;6]]
+ID de caso: [[ID|NC-48217-SP]]
+Medicaid: [[MEDICAID_ID|920583471B]]
+Fecha de sesión: [[DATE|11 de octubre de 2026]]
+Hora: [[TIME|3:30 p.m.]] – [[TIME|4:15 p.m.]]
+Clínica: [[PROVIDER|Patricia Gómez]], SLP bilingüe, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+
+S (Subjetivo): La madre, [[PARENT|Rosa Fernández]], reporta que [[CHILD|Mateo]] asistió esta semana al programa de tutoría bilingüe en la [[ORG|Biblioteca Pública del Condado de Wake]] y que participó activamente cantando canciones del catecismo con el grupo de niños de la [[AGENCY|Iglesia San José]], donde la familia asiste los domingos. También menciona que su hermana, [[SIBLING|Luz Fernández]], de ocho años, ayuda a [[CHILD|Mateo]] con las tareas de lectura en casa. La familia sigue recibiendo apoyo de la [[AGENCY|CDSA del Área de Raleigh]] y de la coordinadora de servicios, [[PROVIDER|Diana Castillo]].
+
+O (Objetivo): Se administró el subtest de [[KEEP|Comprensión Auditiva]] del [[KEEP|PLS-5]] en español, obteniendo una puntuación estándar de [[KEEP|82]] (percentil [[KEEP|12]], intervalo de confianza [[KEEP|76-88]]). En producción de fonemas, [[CHILD|Mateo]] logró el sonido [[KEEP|/ɾ/]] en posición inicial con [[KEEP|mod cues]] en [[KEEP|7/10]] ensayos, produciendo correctamente la palabra meta "[[KEEP|ratón]]". En una actividad de PECS adaptado, usó tarjetas para solicitar objetos en [[KEEP|8/10]] oportunidades. Edad equivalente de lenguaje expresivo: [[KEEP|4;2–4;6]].
+
+Tabla de revisión del IFSP:
+
+Resultado	Estrategias	Progreso	Fecha
+[[KEEP|Outcome 1]]: Comunicación expresiva	[[KEEP|Hanen]], modelado de lenguaje, [[KEEP|mod cues]]	Puntuación estándar [[KEEP|82]] (IC [[KEEP|76-88]])	[[DATE|03/14/2026]]
+[[KEEP|Outcome 2]]: Articulación de /ɾ/ y /s/	[[KEEP|PROMPT]], práctica de palabras meta	[[KEEP|7/10]] ensayos correctos	[[DATE|06/20/2026]]
+[[KEEP|Outcome 3]]: Interacción social con pares	Grupo de juego en programa comunitario	[[KEEP|3 of 5]] turnos de conversación iniciados	[[DATE|10/11/2026]]
+
+A (Análisis): [[CHILD|Mateo]] muestra progreso constante en comprensión auditiva y articulación, comparado con la evaluación del [[DATE|14 de marzo de 2026]], cuando su puntuación estándar fue [[KEEP|68]] (IC [[KEEP|61-75]]). Su participación en el grupo de juego de la [[ORG|Biblioteca Pública del Condado de Wake]] ha mejorado su iniciación social, según observación directa y reporte de la bibliotecaria del programa, [[PERSON|Carmen Osorio]].
+
+P (Plan): Continuar sesiones dos veces por semana enfocadas en [[KEEP|Hanen]] y [[KEEP|PROMPT]]. Se recomienda que la familia siga asistiendo al grupo de la [[AGENCY|Iglesia San José]] para practicar interacción social en español. Se coordinará con la maestra de pre-kínder, Sra. [[TEACHER|Beatriz Núñez]], en la [[SCHOOL|Escuela Primaria Oak Grove]], para reforzar vocabulario funcional. La familia también mencionó que su perrita, [[PET|Hope]], ayuda a motivar a [[CHILD|Mateo]] durante las prácticas de artículación en casa, ya que él le pide "quieta, [[PET|Hope]]" como ejercicio de dos palabras.
+
+Contacto de la clínica para dudas administrativas: [[EMAIL|patricia.gomez@carolinapediatricspeech.org]]. Portal de citas y facturación: [[URL|www.carolinapediatricspeech.org/portal]]. Teléfono directo: [[PHONE|(919) 555-0148]].
+
+Próxima cita: [[DATE|18 de octubre de 2026]], [[TIME|3:30 p.m.]], en la oficina principal ubicada en [[PLACE|2140 Hillsborough Street, Raleigh, NC 27603]].
+
+Firma: [[PROVIDER|Patricia Gómez, M.S., CCC-SLP]]

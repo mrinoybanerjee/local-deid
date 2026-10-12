@@ -1,0 +1,200 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+Documento clínico completamente ficticio para pruebas de desidentificación
+
+DATOS DE IDENTIFICACIÓN
+
+Campo	Información
+Nombre del niño	[[CHILD|Nicolás Tomás Valverde]]
+Nombre familiar	[[CHILD|Nico]]
+Fecha de nacimiento	[[DATE|14 de febrero de 2024]]
+Edad durante la evaluación	[[KEEP|2;8]]
+Fecha de evaluación	[[DATE|22 de octubre de 2026]]
+Fecha del informe	[[DATE|26 de octubre de 2026]]
+Horario de evaluación	[[TIME|9:15 a. m.]] a [[TIME|10:45 a. m.]]
+Número de expediente	[[ID|SVI-026-4817]]
+Número de caso	[[ID|BC-IT-604281]]
+Identificador de Medicaid	[[MEDICAID_ID|482761935Q]]
+Autorización de servicios	[[ID|AUT-92523-68412]]
+Procedimiento de evaluación	[[KEEP|92523]]
+Diagnóstico del lenguaje	[[KEEP|F80.2]]
+Profesional responsable	[[PROVIDER|Valeria Luna Márquez]], M.S., CCC-SLP, patóloga bilingüe del habla y del lenguaje
+Empresa	[[EMPLOYER|Senderos de Voz Infantil, PLLC]]
+Lugar de evaluación	[[DAYCARE|Jardín de las Luciérnagas de Cobre]]
+Domicilio familiar	[[PLACE|1847 Calle del Sauce Azul]], apartamento 3B, [[PLACE|Bosque Claro]], North Carolina, [[PLACE|27584]]
+Condado de residencia	[[PLACE|Arroyo de Ámbar]]
+
+CONTACTOS Y PARTICIPANTES
+
+Relación o función	Nombre	Entidad	Teléfono o correo
+Madre	[[PARENT|Elisa Marisol Valverde]]	Contacto familiar	[[PHONE|919-555-0142]]
+Padre	[[PARENT|Bruno Esteban Cárdenas]]	Contacto familiar	[[EMAIL|bruno.cardenas@example.com]]
+Maestra principal	[[TEACHER|Inés Paloma Ríos]]	[[DAYCARE|Jardín de las Luciérnagas de Cobre]]	[[PHONE|919-555-0168]]
+Asistente del aula	[[TEACHER|Darío Ledesma]]	Personal del aula	[[EMAIL|dario.ledesma@example.com]]
+Coordinadora de servicios	[[PROVIDER|Camila Solís Duarte]]	[[AGENCY|Red de Coordinación Familiar y Desarrollo Temprano del Condado de Arroyo de Ámbar]]	[[PHONE|919-555-0119]]
+Intérprete de español e inglés	[[PROVIDER|Rosa Elvira Montes]]	Servicio independiente	[[PHONE|919-555-0183]]
+Pediatra	[[PROVIDER|Helena Ibarra Vélez]], M.D.	[[HOSPITAL|Centro Pediátrico Río de Cristal]]	[[PHONE|919-555-0127]]
+Terapeuta ocupacional	[[PROVIDER|Adriana Beltrán Soto]], OTR/L	[[AGENCY|Programa Puentes de Desarrollo Temprano]]	[[EMAIL|adriana.beltran@example.com]]
+Fisioterapeuta	[[PROVIDER|Samuel Ortega Vidal]], PT, DPT	[[AGENCY|Programa Puentes de Desarrollo Temprano]]	[[PHONE|919-555-0156]]
+Patóloga del habla y del lenguaje	[[PROVIDER|Valeria Luna Márquez]], M.S., CCC-SLP	[[EMPLOYER|Senderos de Voz Infantil, PLLC]]	[[EMAIL|valeria.luna@example.com]]
+
+MOTIVO DE REFERENCIA Y PREGUNTAS DE LA FAMILIA
+
+La familia solicitó esta evaluación porque [[CHILD|Nicolás]] usa pocas palabras para pedir ayuda y comunicar necesidades durante las rutinas. Su mamá [[PARENT|Elisa]] observa que él comprende actividades conocidas, pero tiene dificultad cuando una instrucción cambia. Su papá [[PARENT|Bruno]] desea entender cómo apoyar el uso de ambos idiomas sin aumentar la frustración. Ambos describen avances recientes en gestos, atención compartida y participación en canciones.
+
+La referencia llegó de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil de la Región de Bosque Claro]], identificada también como [[AGENCY|CDSA-BC]]. La coordinadora trabaja para la [[AGENCY|Red de Coordinación Familiar y Desarrollo Temprano del Condado de Arroyo de Ámbar]], cuya forma corta es [[AGENCY|RCFDT-AA]]. La pregunta principal fue si las dificultades reflejan diferencias por exposición bilingüe, una necesidad de intervención o ambas circunstancias.
+
+FUENTES DE INFORMACIÓN Y PROCEDIMIENTO
+
+La evaluación incluyó entrevista familiar, revisión de antecedentes, observación del aula, juego semiestructurado y tareas individuales. La mamá estuvo presente durante la entrevista y parte del juego. La maestra aportó ejemplos de las rutinas de llegada, comida y actividades grupales. La información médica provino de documentos ficticios incluidos en el expediente. No se consultó ningún sistema clínico real.
+
+La profesional administró tareas en español y exploró habilidades equivalentes en inglés mediante actividades informales. La intérprete [[PROVIDER|Rosa Montes]] apoyó la entrevista cuando el padre prefirió responder en inglés. La patóloga realizó directamente las tareas clínicas en ambos idiomas. La intérprete no administró pruebas ni asignó puntuaciones.
+
+Se ofrecieron pausas y materiales familiares para reducir la demanda. Las respuestas obtenidas después de enseñanza, traducción adicional o demostración se registraron por separado. Estas respuestas ayudaron a describir el aprendizaje, pero no se incorporaron automáticamente a las puntuaciones estandarizadas.
+
+ANTECEDENTES DEL DESARROLLO
+
+Según la entrevista, [[CHILD|Nico]] comenzó a sentarse sin apoyo a los [[KEEP|7 meses]], caminó a los [[KEEP|15 meses]] y produjo palabras reconocibles a los [[KEEP|18 meses]]. La familia no refiere pérdida de palabras ni de habilidades sociales. El niño suele aprender rutinas mediante repetición y observación. Busca a los adultos cuando necesita abrir un recipiente o alcanzar un juguete.
+
+La primera preocupación apareció cerca de los [[KEEP|22 meses]], cuando otros niños del entorno comenzaron a combinar palabras con mayor frecuencia. La familia inició servicios de intervención temprana después de una reunión celebrada el [[DATE|8 de abril de 2026]]. El plan familiar vigente se firmó el [[DATE|19 de mayo de 2026]].
+
+Los adultos informan que las protestas aumentan cuando no comprenden su intención. En ocasiones, él entrega un objeto, señala y vocaliza. Si el adulto interpreta mal el mensaje, puede alejarse o llorar. Acepta ayuda cuando el adulto reconoce primero su petición.
+
+HISTORIA DEL NACIMIENTO
+
+El embarazo fue descrito como estable, con seguimiento prenatal regular. El nacimiento ocurrió en el [[HOSPITAL|Hospital Maternoinfantil Loma de Nácar]], ubicado en [[PLACE|Villa del Junco]], North Carolina. La edad gestacional fue de [[KEEP|39 semanas y 2 días]]. El peso al nacer fue de [[KEEP|3.240 gramos]]. Las puntuaciones de Apgar fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos.
+
+La familia refiere parto vaginal y estancia breve en la unidad posparto. No se informó ingreso a cuidados intensivos, ventilación asistida ni dificultad persistente para alimentarse. La madre recuerda que el niño necesitó ayuda inicial para establecer una rutina de alimentación, pero después aumentó de peso según el seguimiento pediátrico.
+
+Estos antecedentes se presentan como datos del caso ficticio. La evaluación del lenguaje no permite establecer relaciones causales entre el nacimiento y las habilidades actuales. Tampoco se observaron señales que exigieran interrumpir la sesión por una preocupación médica inmediata.
+
+HISTORIA MÉDICA, AUDITIVA Y DE SERVICIOS
+
+La pediatra [[PROVIDER|Helena Ibarra Vélez]] documentó episodios de otitis durante la primera infancia. El último episodio referido ocurrió el [[DATE|17 de agosto de 2026]]. La familia no informó cirugía, convulsiones, hospitalizaciones posteriores ni uso diario de medicamentos. El niño duerme con una rutina estable, aunque algunas noches necesita que un adulto permanezca cerca.
+
+Un informe audiológico fechado el [[DATE|9 de septiembre de 2026]] describió respuestas conductuales suficientes para el acceso al habla durante esa visita. No se realizó una evaluación audiológica dentro de esta sesión. La respuesta a sonidos cotidianos fue consistente durante el juego, pero esta observación no sustituye una valoración auditiva.
+
+La terapeuta ocupacional [[PROVIDER|Adriana Beltrán Soto]] trabaja en participación durante comidas y tolerancia a cambios de actividad. El fisioterapeuta [[PROVIDER|Samuel Ortega Vidal]] observa equilibrio y coordinación durante juegos motores. La familia autorizó la coordinación entre estos profesionales mediante el formulario [[ID|CONS-2026-3918]].
+
+HISTORIA FAMILIAR Y DEL ENTORNO
+
+[[CHILD|Nicolás Valverde]] vive con ambos padres y su hermana [[SIBLING|Alma Cárdenas]], de [[KEEP|6 años]]. La hermana participa en juegos de cocina y suele ofrecer modelos verbales espontáneos. Su hermano [[SIBLING|Leo Cárdenas]], de [[KEEP|10 años]], reside con la familia durante algunos fines de semana. Los padres describen relaciones afectuosas entre los hermanos.
+
+La abuela materna [[FAMILY|Teresa Valverde]] cuida al niño dos tardes por semana. Su tía [[FAMILY|Julia Cárdenas]] lo acompaña ocasionalmente a actividades comunitarias. La cuidadora [[FAMILY|Mónica Salcedo]] sigue las mismas rutinas de comida y descanso cuando los padres trabajan.
+
+La madre trabaja en [[ORG|Cooperativa Textil Brisa de Papel]]. El padre trabaja en [[ORG|Taller de Bicicletas Rueda de Cedro]]. La familia tiene un perro llamado [[PET|Bambú]]. Durante la entrevista, el niño señaló una fotografía y dijo “[[PET|Bambú]] ven”. Esta producción se registró como una combinación espontánea vinculada a una experiencia familiar.
+
+HISTORIA LINGÜÍSTICA
+
+El español es el idioma más frecuente en casa. El padre usa español e inglés, según la actividad y el interlocutor. La hermana usa ambos idiomas durante el juego. La abuela utiliza principalmente español. En el centro educativo, las instrucciones grupales suelen presentarse en inglés, con apoyos breves en español cuando están disponibles.
+
+La familia estima una exposición aproximada de [[KEEP|70%]] al español y [[KEEP|30%]] al inglés fuera del aula. Estas cifras representan una estimación familiar, no una medición directa. La cantidad de exposición varía durante los fines de semana y las vacaciones.
+
+El vocabulario aparece distribuido entre los dos idiomas. Algunas palabras se usan solo en casa y otras durante las rutinas escolares. Se consideró el conocimiento conceptual compartido al interpretar las respuestas. No se recomendó retirar el español. Mantener conversaciones naturales en el idioma que cada adulto domina facilita modelos claros y oportunidades de participación.
+
+PARTICIPACIÓN EN EL AULA
+
+En [[DAYCARE|Jardín de las Luciérnagas de Cobre]], [[CHILD|Nico]] participa en un grupo pequeño con rutinas predecibles. La maestra [[TEACHER|Inés Ríos]] informa que disfruta bloques, burbujas y canciones con movimientos. La asistente [[TEACHER|Beatriz Navas]] observa que necesita tiempo adicional para responder durante transiciones.
+
+El niño se acerca a su compañero [[PEER|Gael Molina]] para jugar con vehículos. También imita acciones de [[PEER|Eva Robles]] durante juegos de cocina. Cuando [[PEER|Gael]] toma un objeto deseado, suele señalar o buscar a un adulto. Durante una actividad, dijo “[[PEER|Eva]] mira” mientras levantaba una taza.
+
+La familia considera una futura transición a [[SCHOOL|Escuela Preescolar Nubes de Canela]]. Todavía no existe una decisión de inscripción. La información de esta evaluación puede apoyar la planificación, junto con las observaciones de la familia y del equipo educativo.
+
+OBSERVACIÓN CLÍNICA Y CONDUCTA
+
+[[CHILD|Nicolás]] entró al espacio de evaluación junto a su madre y exploró los materiales. Mostró interés por objetos que producían efectos visibles. Compartió sonrisas, alternó la mirada entre el objeto y el adulto, y entregó juguetes para continuar una actividad.
+
+La atención fue mayor cuando la tarea tenía un propósito claro. Las actividades de mesa exigieron pausas frecuentes. La participación mejoró después de una demostración breve y cuando pudo elegir entre materiales. No se interpretó una respuesta ausente como evidencia suficiente de desconocimiento.
+
+El niño toleró la mayoría de las transiciones con anticipación visual. Al finalizar una actividad preferida, protestó y buscó el recipiente. Después aceptó otra opción. La evaluación refleja su desempeño en este contexto y debe complementarse con observaciones durante rutinas habituales.
+
+RESULTADOS ESTANDARIZADOS
+
+Se utilizó [[KEEP|PLS-5 Spanish]] como una fuente de información sobre comprensión y expresión. La interpretación consideró la exposición a ambos idiomas, la atención y las diferencias entre respuestas espontáneas y respuestas enseñadas. Las equivalencias de edad describen resultados de la prueba; no representan una edad global del desarrollo.
+
+Prueba o subprueba	Puntuación directa	Puntuación estándar	Percentil	Intervalo de confianza	Equivalencia de edad
+[[KEEP|PLS-5 Spanish: Comprensión auditiva]]	[[KEEP|28]]	[[KEEP|76]]	[[KEEP|5]]	[[KEEP|71-83]]	[[KEEP|2;1]]
+[[KEEP|PLS-5 Spanish: Comunicación expresiva]]	[[KEEP|25]]	[[KEEP|73]]	[[KEEP|4]]	[[KEEP|68-81]]	[[KEEP|1;11]]
+[[KEEP|PLS-5 Spanish: Lenguaje total]]	[[KEEP|53]]	[[KEEP|72]]	[[KEEP|3]]	[[KEEP|67-80]]	[[KEEP|2;0]]
+
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las puntuaciones de [[KEEP|Comprensión auditiva]] y [[KEEP|Comunicación expresiva]] sugieren dificultades que merecen seguimiento e intervención. La diferencia entre ambas áreas es pequeña y no establece, por sí sola, una separación clínica significativa.
+
+La puntuación de [[KEEP|Lenguaje total]] se interpretó junto con ejemplos funcionales. El resultado no explica toda la capacidad comunicativa del niño. En particular, los gestos, el aprendizaje durante el juego y el vocabulario distribuido entre idiomas aportan información adicional.
+
+SONDEOS FUNCIONALES Y APRENDIZAJE
+
+Actividad	Resultado	Condición
+Identificar objetos familiares	[[KEEP|8/10]], [[KEEP|80%]]	[[KEEP|sin apoyos]]
+Seguir instrucciones nuevas de un paso	[[KEEP|4/10]], [[KEEP|40%]]	[[KEEP|sin apoyos]]
+Seguir instrucciones con gesto	[[KEEP|8/10]], [[KEEP|80%]]	[[KEEP|apoyos moderados (mod cues)]]
+Elegir entre dos opciones	[[KEEP|7/10]], [[KEEP|70%]]	[[KEEP|apoyos mínimos (min cues)]]
+Combinar dos palabras espontáneamente	[[KEEP|3/10]], [[KEEP|30%]]	[[KEEP|sin apoyos]]
+Combinar palabras después de un modelo	[[KEEP|6/10]], [[KEEP|60%]]	[[KEEP|apoyos máximos (max cues)]]
+
+Las oportunidades incluyeron juguetes, alimentos simulados y acciones familiares. El desempeño aumentó cuando el adulto redujo la longitud de la instrucción y acompañó el mensaje con un gesto. Esta respuesta indica que los apoyos pueden facilitar el acceso a la tarea.
+
+El aprendizaje fue variable entre actividades. Una respuesta correcta después de un modelo no se consideró equivalente a uso independiente. Se recomienda registrar ambas condiciones para observar si el niño empieza a usar una habilidad sin esperar la demostración del adulto.
+
+LENGUAJE RECEPTIVO Y EXPRESIVO
+
+[[CHILD|Nico]] reconoció objetos cotidianos y varias acciones dentro de rutinas conocidas. Tuvo más dificultad con instrucciones nuevas, conceptos espaciales y preguntas que exigían inferir una intención. La comprensión mejoró cuando el mensaje se relacionó con una acción inmediata.
+
+Durante el juego produjo “[[KEEP|más agua]]”, “[[KEEP|abre caja]]”, “[[KEEP|no quiero]]” y “[[KEEP|mi carro]]”. También usó “[[KEEP|help]]” para pedir asistencia. Algunas combinaciones aparecieron espontáneamente; otras siguieron un modelo cercano. Los gestos continuaron siendo una parte importante del mensaje.
+
+La muestra breve se describió con criterios de [[KEEP|SALT]]. Una repetición incompleta recibió el código [[KEEP|[EW]]]. No se calcularon comparaciones normativas de longitud de enunciado porque la muestra fue breve y combinó idiomas. Se documentaron las funciones comunicativas y la variedad de formas utilizadas.
+
+HABLA, VOZ Y FLUIDEZ
+
+La inteligibilidad estimada para una oyente poco familiar fue de [[KEEP|55%]] en producciones aisladas y [[KEEP|40%]] en enunciados. Estas cifras son estimaciones clínicas de la muestra, no resultados de una prueba estandarizada.
+
+Se observaron sustituciones variables, entre ellas [[KEEP|[t]]] por [[KEEP|/k/]] y [[KEEP|[w]]] en algunos intentos de [[KEEP|/ɾ/]]. La producción “[[KEEP|tasa]]” correspondió al objetivo “[[KEEP|casa]]”. La producción “[[KEEP|ato]]” correspondió al objetivo “[[KEEP|gato]]”. La muestra no permitió establecer un patrón consistente para todos los contextos.
+
+La voz tuvo intensidad funcional durante la sesión. No se observaron interrupciones de fluidez que limitaran la participación. La evaluación motora oral fue observacional. El niño imitó movimientos simples, pero no completó todas las solicitudes. No se estableció un diagnóstico motor del habla.
+
+IMPRESIONES CLÍNICAS
+
+El perfil muestra dificultades receptivas y expresivas que afectan la participación cotidiana. La impresión clínica del caso ficticio corresponde a [[KEEP|F80.2]]. Esta conclusión integra antecedentes, desempeño funcional y resultados de prueba. La exposición bilingüe forma parte del contexto y no se considera, por sí sola, la causa de las dificultades.
+
+Las fortalezas incluyen interés social, atención compartida, uso de gestos, búsqueda de ayuda y respuesta favorable a modelos breves. Las necesidades principales incluyen comprender mensajes nuevos, ampliar funciones comunicativas y usar combinaciones espontáneas durante distintas rutinas.
+
+Se recomienda intervención centrada en la familia y coordinación con el aula. El equipo debe revisar el progreso mediante muestras comparables y observaciones funcionales. Los resultados actuales no permiten determinar cuánto apoyo necesitará durante la futura transición educativa.
+
+OBJETIVOS PROPUESTOS PARA EL PLAN FAMILIAR
+
+Objetivo del IFSP	Conducta funcional	Criterio propuesto
+[[KEEP|Objetivo 1]]	Comprender instrucciones de un paso durante juego y comida	[[KEEP|8/10]] oportunidades con [[KEEP|apoyos mínimos (min cues)]]
+[[KEEP|Objetivo 2]]	Pedir ayuda mediante palabras, gestos o combinaciones	[[KEEP|4 de 5]] oportunidades con [[KEEP|apoyos mínimos (min cues)]]
+[[KEEP|Objetivo 3]]	Combinar palabras para pedir, comentar o rechazar	[[KEEP|80%]] de oportunidades con [[KEEP|apoyos mínimos (min cues)]]
+[[KEEP|Objetivo 4]]	Participar en intercambios breves con un adulto o compañero	[[KEEP|3 de 5]] oportunidades con [[KEEP|apoyos moderados (mod cues)]]
+
+Los objetivos deben ajustarse con la familia antes de incorporarlos al plan. Las oportunidades se distribuirán entre varias rutinas. El equipo registrará el idioma usado, la función del mensaje y el nivel de apoyo. También anotará las respuestas espontáneas que aparezcan fuera de las actividades planificadas.
+
+RECOMENDACIONES Y CALENDARIO PROPUESTO
+
+Servicio	Frecuencia y duración	Lugar	Horario	Código
+Terapia individual del lenguaje	Dos sesiones semanales de treinta minutos	[[DAYCARE|Jardín de las Luciérnagas de Cobre]]	Martes, [[TIME|10:00 a. m.]]	[[KEEP|92507]]
+Terapia con participación familiar	Una sesión semanal de treinta minutos	Hogar familiar	Jueves, [[TIME|4:30 p. m.]]	[[KEEP|92507]]
+Consulta con el equipo	Una reunión mensual de veinte minutos	Modalidad remota	Viernes, [[TIME|1:00 p. m.]]	Según autorización
+
+El calendario constituye una propuesta y depende del acuerdo familiar y de la autorización. El modificador [[KEEP|GN]] identifica el servicio de lenguaje cuando corresponde. El modificador [[KEEP|95]] se consideraría únicamente para una modalidad remota autorizada. No se registró una reclamación de facturación.
+
+1. Usar [[KEEP|estimulación focalizada]] y [[KEEP|enseñanza incidental]] durante actividades que interesan al niño.
+2. Aplicar estrategias de [[KEEP|Hanen]] para seguir su iniciativa, esperar una respuesta y ampliar el mensaje.
+3. Ofrecer modelos como “[[KEEP|abre puerta]]” y “[[KEEP|quiero más]]” dentro de acciones reales.
+4. Aceptar gestos y palabras como formas válidas de comunicación.
+5. Evitar exigir repeticiones antes de entregar un objeto solicitado.
+6. Compartir ejemplos entre la familia, la maestra y los profesionales.
+
+No se propone iniciar [[KEEP|PECS]], [[KEEP|PROMPT]] ni [[KEEP|Cycles]] de forma automática. La selección de estos programas requeriría una necesidad específica y una valoración adicional. Para este perfil, se priorizan oportunidades naturales de comunicación y seguimiento de la respuesta.
+
+SEGUIMIENTO Y CIERRE
+
+La coordinadora [[PROVIDER|Camila Solís Duarte]], de [[AGENCY|RCFDT-AA]], organizará una revisión propuesta para el [[DATE|21 de enero de 2027]]. La oficina [[AGENCY|CDSA-BC]] participará en la planificación de transición antes de los [[KEEP|3;0]]. El equipo revisará asistencia, participación familiar, muestras de lenguaje y uso independiente de las habilidades.
+
+La familia puede contactar a [[EMPLOYER|Senderos de Voz Infantil, PLLC]] mediante [[PHONE|919-555-0194]] o [[URL|https://senderosvoz.example.com]]. La dirección administrativa ficticia es [[PLACE|620 Avenida del Laurel Violeta]], [[PLACE|Bosque Claro]], North Carolina, [[PLACE|27584]].
+
+La información fue explicada en español con ejemplos de las rutinas observadas. Los padres expresaron interés en practicar estrategias durante comida y juego. Este informe contiene únicamente datos inventados y no describe a un paciente real.
+
+Firma: [[PROVIDER|Valeria Luna Márquez]], M.S., CCC-SLP
+Patóloga bilingüe pediátrica del habla y del lenguaje
+[[EMPLOYER|Senderos de Voz Infantil, PLLC]]
+Fecha de firma: [[DATE|26 de octubre de 2026]]

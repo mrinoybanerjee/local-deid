@@ -1,0 +1,15 @@
+Revisión del IFSP — Daily bilingual speech-language session
+Clinician: [[PROVIDER|Elena Valdés]], pediatric SLP, [[EMPLOYER|Mariposa Bridge Therapy]], North Carolina.
+Client: [[CHILD|Nicolás Vega]], age [[KEEP|26 months]]; Medicaid [[MEDICAID_ID|583920147Q]].
+Session: [[TIME|9:15 AM]], [[PLACE|Brindle Creek]].
+Su mamá [[PARENT|Rosa Vega]] works two jobs, at [[ORG|QVN]] and [[ORG|Juniper Basket Market]]: “Salgo tarde, pero practicamos durante la cena.” She requested short routines that both caregivers could repeat.
+
+Baseline: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|1;8–2;0]].
+Contact: [[EMAIL|rosa.vega@example.com]]; resources: [[URL|https://mariposa-bridge.example/rutinas]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+Outcome / Resultado	Estrategias / Strategies	Progreso / Progress	Fecha
+[[KEEP|1]]: Request during snack	Used [[KEEP|Hanen]] coaching, wait time, and choices targeting [[KEEP|"agua"]] and [[KEEP|"más"]]. Mamá practiced following his lead without repeated questions.	[[CHILD|Nicolás]] said [[KEEP|"más agua"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Requests increased when the cup remained visible; spontaneous use outside snack needs follow-up.	[[DATE|October 8, 2026]]
+[[KEEP|2]]: Join classroom play	Visited [[SCHOOL|Willow Lantern School]], [[SCHOOL|Brindle Creek School District]], with Ms. [[TEACHER|Alma Ríos]]. Modeled turn-taking beside classmates [[PEER|Tessa]] and [[PEER|Omar]].	Participated in [[KEEP|3 of 5]] exchanges with [[KEEP|mod cues]]. Se quedó cerca del grupo and offered blocks after an adult modeled sharing. Teacher will repeat this routine tomorrow.	[[DATE|October 8, 2026]]
+[[KEEP|3]]: Improve speech clarity	Practiced [[KEEP|/k/]] through [[KEEP|Cycles]], targeting [[KEEP|"casa"]] during pretend play. Used brief practice followed by a preferred activity.	Produced [[KEEP|/k/]] with [[KEEP|60%]] accuracy and [[KEEP|max cues]]. Said [[KEEP|"tasa"]] once. Engagement improved after movement breaks; continue brief practice without correcting every attempt.	[[DATE|October 8, 2026]]
+[[KEEP|4]]: Generalize at home	Coached babysitter [[FAMILY|Inés Duarte]], brother [[SIBLING|Leo]], and cousins [[FAMILY|Maribel]] and [[FAMILY|Tomás]] using familiar play routines.	He said “[[PET|Pipo]] run” while watching the dog. La familia will model short phrases during play and record successful requests before the next review.	[[DATE|October 8, 2026]]

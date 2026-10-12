@@ -1,0 +1,44 @@
+DATOS DE LA SESIÓN
+
+- Documento sintético; todos los datos personales y las entidades son ficticios.
+- Paciente: [[CHILD|Nicolás Varela Soto]], llamado [[CHILD|Nico]]; edad: [[KEEP|4;2]]. Nacimiento: [[DATE|18 de mayo de 2022]].
+- Servicio: [[DATE|18 de julio de 2026]], de [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]], en [[DAYCARE|El Paraguas de las Luciérnagas]].
+- Profesional bilingüe: [[PROVIDER|J. Ortiz]], patóloga del habla y lenguaje de [[EMPLOYER|Voces del Pinar]], North Carolina.
+- Expediente: [[ID|SLP-260718-047]]; Medicaid: [[MEDICAID_ID|731604928K]]. Facturación: [[KEEP|92507]], modificador [[KEEP|GN]]; diagnóstico: [[KEEP|F80.2]].
+- Domicilio registrado: [[PLACE|418 Sendero del Mirlo]], [[PLACE|Loma Serena]], North Carolina, [[PLACE|27984]].
+
+SUBJETIVO
+
+- Su mamá, [[PARENT|Elena Soto Márquez]], informó que trabaja en [[ORG|LUM]] y [[ORG|Panadería Brisa de Maíz]]. Los dos empleos dificultan practicar entre semana.
+- Su papá, [[PARENT|Tomás Varela]], describió más intentos de pedir ayuda durante las comidas.
+- Su hermana, [[SIBLING|Alma Varela Soto]], modela turnos. Su abuela, [[FAMILY|Rosa Márquez]], cuida al niño por las tardes.
+- La maestra [[TEACHER|Celia Robles]] observó frustración cuando los compañeros [[PEER|Bruno Leal]] y [[PEER|Eva Solís]] no comprendieron una petición.
+- La madre citó: “[[PET|Pipo]] ven”. También informó la producción [[KEEP|"yo quiere agua"]]. No refirió cambios de audición, sueño ni medicamentos.
+
+ANTECEDENTES Y MEDIDAS
+
+- El informe de [[HOSPITAL|Hospital Infantil Robledal]] registra edad gestacional de [[KEEP|38 semanas]], peso al nacer de [[KEEP|3,120 g]] y Apgar de [[KEEP|8/9]].
+- La evaluación de [[DATE|12 de junio de 2026]] incluyó [[KEEP|PLS-5]]: [[KEEP|Comprensión auditiva]], puntuación estándar [[KEEP|74]], percentil [[KEEP|4]], intervalo de confianza [[KEEP|68–82]]; [[KEEP|Comunicación expresiva]], puntuación estándar [[KEEP|78]], percentil [[KEEP|7]].
+- En [[KEEP|Goldman-Fristoe-3]], subprueba [[KEEP|Sonidos en palabras]], obtuvo puntuación estándar [[KEEP|65]]. Se interpretó junto con muestras bilingües; las diferencias entre idiomas limitaron la comparación normativa.
+- Los registros previos mencionan [[KEEP|Rossetti]], equivalente de edad [[KEEP|2;6–3;0]]; [[KEEP|Bayley]], puntuación escalada [[KEEP|6]]; y [[KEEP|Peabody]], percentil [[KEEP|9]]. Estos resultados aportan antecedentes; no representan el desempeño actual.
+
+OBJETIVO
+
+- Se utilizaron juego compartido, [[KEEP|Hanen]] y apoyos de [[KEEP|PECS]] para ampliar peticiones funcionales en ambos idiomas.
+- Produjo frases espontáneas en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|claves mínimas]]. Dijo [[KEEP|"quiero más"]], [[KEEP|"ayuda aquí"]] y [[KEEP|"my turn"]].
+- Practicó [[KEEP|/k/]] en [[KEEP|"casa"]] y [[KEEP|"cola"]], con precisión de [[KEEP|6/10]] y [[KEEP|claves moderadas]]. Persistió sustitución por [[KEEP|[t]]].
+- Para [[KEEP|/ɾ/]], necesitó [[KEEP|claves máximas]]. La producción [[KEEP|"pedo"]] correspondió al objetivo [[KEEP|"pero"]].
+- La muestra incluyó [[KEEP|[EW]]] en [[KEEP|3 de 5]] emisiones analizadas. Se registró el contexto comunicativo antes de interpretar cada error.
+- Completó transiciones con apoyo visual; necesitó pausas breves para recuperar la atención. No se observaron signos de dolor.
+
+ANÁLISIS
+
+- [[CHILD|Nicolás]] mostró mayor iniciativa comunicativa durante actividades familiares. Las dificultades expresivas siguen afectando la participación grupal.
+- Las respuestas mejoraron con modelos breves y tiempo de espera. La variación lingüística requiere seguimiento mediante muestras de ambos idiomas.
+
+PLAN Y COORDINACIÓN
+
+- Continuar sesiones semanales. Revisar la meta [[KEEP|2]] del [[KEEP|IFSP]] mediante peticiones durante la merienda.
+- La coordinadora [[PROVIDER|Marina Cueto]], de [[AGENCY|CDSA de Loma Serena]], recibirá el resumen tras confirmar autorización familiar.
+- Contacto: [[PHONE|919-555-0147]]; [[EMAIL|elena.soto@example.invalid]]. Portal: [[URL|https://vocesdelpinar.example.invalid]].
+- Próxima sesión: [[DATE|25 de julio de 2026]], a las [[TIME|9:10 a. m.]]. Firma: [[PROVIDER|J. Ortiz]].

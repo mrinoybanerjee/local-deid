@@ -1,0 +1,140 @@
+Bilingual Pediatric Speech-Language Evaluation  
+Evaluación del habla y del lenguaje  
+Fictional training record
+
+Child: [[CHILD|Mateo Andrés Solvera]]  
+Preferred name: [[CHILD|Teo]]  
+Date of birth: [[DATE|August 9, 2022]]  
+Age at evaluation: [[KEEP|4;2]]  
+Evaluation date: [[DATE|October 9, 2026]]  
+Report date: [[DATE|October 11, 2026]]  
+Session start: [[TIME|9:10 a.m.]]  
+Session stop: [[TIME|10:25 a.m.]]  
+Parents: [[PARENT|Lucía Solvera]] and [[PARENT|Daniel Solvera]]  
+Home address: [[PLACE|418 Willow Finch Lane]], [[PLACE|Briarvale]], North Carolina [[PLACE|27863]]  
+Telephone: [[PHONE|(919) 555-0146]]  
+Email: [[EMAIL|lucia.solvera@example.com]]  
+Record number: [[ID|SLP-26-10482]]  
+Medicaid number: [[MEDICAID_ID|583021746Q]]  
+Authorization number: [[ID|AUTH-7041938]]  
+Clinician: [[PROVIDER|Elena Maribel Varela]], MS, CCC-SLP  
+Practice: [[EMPLOYER|Willow Bridge Pediatric Communication]]  
+Practice website: [[URL|https://willowbridge.example.org]]  
+Referral source: Dr. [[PROVIDER|Rafael Montivero]]  
+School district: [[SCHOOL|Briarvale Meadow School District]]  
+School: [[SCHOOL|Juniper Nest Elementary School]]  
+Classroom teacher: Ms. [[TEACHER|Iris Bellara]]
+
+Dear [[PARENT|Lucía Solvera]] and [[PARENT|Daniel Solvera]],
+
+Thank you for sharing your family’s story and joining this visit. [[CHILD|Mateo]] brought curiosity, humor, and a strong wish to connect. This letter explains what we observed, what the results mean, and how adults can help. I used Spanish and English throughout the visit because both languages belong in his assessment.
+
+Your main question was whether his difficulty expressing ideas reflects learning two languages or a need for extra support. You also wanted practical ways to help when he gets frustrated. The findings suggest that he needs support for language development and speech clarity across both languages. Using Spanish at home remains a valuable part of that support.
+
+**Motivo de consulta — Why we met**
+
+[[PARENT|Lucía]] reported that [[CHILD|Mateo]] often knows what he wants but cannot explain it clearly. She said, “En casa nos busca, nos lleva de la mano, pero cuando tiene mucho que decir, se queda atorado.” She described more frustration when adults ask several questions quickly or cannot see the object he wants.
+
+[[PARENT|Daniel]] reported that familiar routines are easier than unexpected changes. During breakfast, [[CHILD|Mateo]] can request food and follow simple directions. When a toy breaks or a game changes, he may repeat a short phrase, raise his voice, or leave. The family wants him to ask for help without having to become upset first.
+
+Ms. [[TEACHER|Bellara]] described similar concerns at [[SCHOOL|Juniper Nest Elementary School]]. He joins songs and building activities but needs extra time to answer questions. Classroom assistant Mr. [[TEACHER|Tomas Eldren]] reported that showing an object helps more than repeating a direction louder. Staff also want clearer ways for him to enter play with classmates.
+
+Before preschool, [[CHILD|Mateo]] attended [[DAYCARE|Little Learners Daycare]]. The family later contacted the [[KEEP|Little Learners Program]] for communication support. These are separate services with similar names. Service coordinator [[PROVIDER|Nora Estival]] at [[AGENCY|Briarvale Children’s Developmental Services Agency]] helped the family organize earlier records and understand the transition to school services.
+
+**Nacimiento y salud — Birth and medical history**
+
+According to the parent interview, [[CHILD|Mateo]] was born at [[HOSPITAL|Pinewater Children’s Medical Center]] after a pregnancy lasting [[KEEP|38 weeks, 2 days]]. His birth weight was [[KEEP|6 pounds, 11 ounces]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. He stayed with his mother after delivery and went home without feeding equipment or oxygen.
+
+[[PARENT|Lucía]] recalled early breastfeeding difficulty that improved with positioning support. He later accepted bottles, soft foods, and family meals. Current concerns involve expressing preferences, rather than chewing or swallowing. No coughing with meals, repeated choking, or unexplained weight loss was reported. Today, he drank water comfortably and ate a small snack without visible difficulty.
+
+The family reported several ear infections during toddlerhood. Dr. [[PROVIDER|Montivero]] reviewed his ears on [[DATE|September 18, 2026]]. Audiologist [[PROVIDER|Camila Renswick]] completed a hearing visit on [[DATE|September 25, 2026]] at [[HOSPITAL|Pinewater Children’s Medical Center]]. The supplied summary described hearing responses adequate for speech access. Changes in hearing should still be discussed with his medical team.
+
+First words reportedly appeared around [[KEEP|19 months]], and regular word combinations appeared around [[KEEP|32 months]]. These ages come from family recall. No loss of previously used words was reported. His mother described steady progress, aunque despacito. He currently sleeps well on most nights and takes no daily medication, according to the interview.
+
+**Familia e idiomas — Family and language history**
+
+[[CHILD|Mateo]] lives with both parents and his sister, [[SIBLING|Lina Solvera]], age [[KEEP|7 years]]. His grandmother, [[FAMILY|Rosa Celinda Mavero]], provides care after school. A regular babysitter, [[FAMILY|Alma Quintera]], sometimes helps during work shifts. The family dog, [[PET|Canelo]], is a favorite play partner and a frequent topic during conversation.
+
+Mom works nights at [[ORG|Silver Lantern Packaging]] as a quality inspector. Her usual shift runs from [[TIME|10:00 p.m.]] to [[TIME|6:00 a.m.]]. [[PARENT|Daniel]] handles bedtime on those nights. The family’s busiest communication time is often around [[TIME|7:30 p.m.]], when dinner, homework, and preparations for work happen together.
+
+The family maintains close contact with relatives in Guatemala. His grandmother’s hometown is the fictional village of [[PLACE|Las Brisas del Cedral]]. A family mailing address there is [[PLACE|Casa 12, Calle del Níspero]], [[PLACE|Las Brisas del Cedral]], Guatemala. Video calls offer meaningful Spanish practice through family stories, jokes, and familiar routines.
+
+Spanish is the main home language. English is common at school and during some sibling play. [[PARENT|Lucía]] said, “No queremos perder el español; queremos que pueda hablar con todos.” I agree with that goal. Adults can use the language in which they feel most comfortable and responsive. Mixing languages does not, by itself, show a disorder.
+
+During the visit, [[CHILD|Mateo]] moved naturally between languages. He sometimes understood a direction in Spanish and answered in English. At other times, he used a Spanish verb with an English noun. We considered his combined skills, family reports, classroom observations, and learning during supported tasks. No single English-only result determined the impressions below.
+
+**Cómo evaluamos — What we did**
+
+The evaluation included an interview, record review, play observation, a speech sample, and structured language activities. [[PARENT|Lucía]] remained present. I provided the assessment directly in both languages; no interpreter was needed. We used blocks, animals, pictures, and a pretend kitchen to create chances for requesting, explaining, and following directions.
+
+[[CHILD|Mateo]] settled after a brief period of watching. He preferred standing for some activities and accepted movement breaks. His attention improved when he could handle the materials. He responded well to a predictable sequence: first an activity, then a choice. He showed fatigue near the end, so speech findings include both structured responses and earlier play.
+
+I administered [[KEEP|PLS-5 Spanish]] using the instrument’s bilingual procedures. The table presents fictional results for this training record. Scores describe performance under assessment conditions. They do not capture every skill used at home or school. Age equivalents are especially limited and should not be treated as his overall developmental age.
+
+| Test or subtest | Raw score | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---:|---:|---:|---:|---:|
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Auditory Comprehension]] | [[KEEP|34]] | [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|70–84]] | [[KEEP|2;10]] |
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Expressive Communication]] | [[KEEP|31]] | [[KEEP|71]] | [[KEEP|3rd percentile]] | [[KEEP|66–80]] | [[KEEP|2;6]] |
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Total Language]] | [[KEEP|65]] | [[KEEP|72]] | [[KEEP|3rd percentile]] | [[KEEP|67–81]] | [[KEEP|2;8]] |
+
+The intervals above use a [[KEEP|90%]] confidence level. They show that a score is an estimate, rather than an exact measure. The pattern across activities matters more than a small difference between scores. Understanding familiar language was a relative strength. Explaining ideas and building flexible sentences required more support.
+
+**Lo que observamos — Understanding and expression**
+
+[[CHILD|Mateo]] identified familiar objects, understood routine action words, and followed directions involving objects in view. He completed [[KEEP|8/10]] familiar directions with [[KEEP|min cues]]. Directions containing two related actions were harder. He completed [[KEEP|3 of 5]] after repetition and a gesture, with [[KEEP|mod cues]].
+
+Questions about what an object does were easier than questions about why something happened. Picture choices helped him show knowledge that was difficult to express aloud. When I reduced the amount of language and paused, he often responded successfully. This suggests that adults should allow processing time before adding more words or another question.
+
+In play, he requested, protested, commented, and called for attention. Examples included “[[KEEP|yo want más]],” “[[KEEP|no cabe aquí]],” and “[[KEEP|help me abrir]]”. These productions show useful communication and flexible use of both languages. He also pointed, looked toward adults, and brought objects over to share a problem.
+
+The language sample contained [[KEEP|42]] usable utterances. Mean length of utterance was [[KEEP|2.4]] words in this descriptive sample. This measure included both languages and was not compared with a monolingual cutoff. He expanded a message after an adult model in [[KEEP|6/10]] opportunities with [[KEEP|mod cues]], especially when the message concerned something he wanted.
+
+He had more difficulty explaining a short event without pictures. He might name the object but leave out who acted or what changed. Sentence models helped: an adult could describe the action, pause, and accept his response. Repeated demands to say a sentence exactly increased frustration and reduced his willingness to communicate.
+
+**Habla y sonidos — Speech findings**
+
+Familiar listeners understood more than unfamiliar listeners. During connected speech, estimated intelligibility was [[KEEP|62%]] for an unfamiliar listener in the room. This estimate reflects the sample and listening conditions, rather than a standardized score. Speech became less clear when sentences grew longer or when he spoke quickly during an exciting activity.
+
+Observed patterns included fronting of [[KEEP|/k/]] and [[KEEP|/g/]], occasional final consonant omissions in English, and variable production of Spanish [[KEEP|/ɾ/]]. He produced [[KEEP|[w]]] in some English words containing [[KEEP|/r/]]. These findings need interpretation within each language because sound expectations and word structures differ between Spanish and English.
+
+For the target “[[KEEP|car]],” he said “[[KEEP|tar]]”. For “[[KEEP|gato]],” he said “[[KEEP|dato]]”. He produced [[KEEP|/k/]] accurately in [[KEEP|4/8]] practice attempts with [[KEEP|max cues]]. Accuracy improved when we slowed the task and used a visual model. There was no consistent visible struggle to begin a sound during this visit.
+
+During animal play, he said, “[[PET|Canelo]] run aquí.” Later, he called, “[[SIBLING|Lina]] mira esto.” These utterances combined a person or pet name with useful language. Oral structures appeared adequate for the observed speech tasks. A brief observation cannot rule out every motor speech concern, but the current pattern supports further phonological assessment and treatment.
+
+**Juego y participación — Everyday communication**
+
+[[CHILD|Mateo]] shared materials and enjoyed pretend feeding. He waited for short turns with support. His mother reported that classmates [[PEER|Nico Fernal]] and [[PEER|Ada Mirel]] often invite him into block play. He sometimes follows their actions without telling them his own plan, which can lead to disagreements over materials.
+
+During a supported repair task, he tried another way to communicate in [[KEEP|3/5]] opportunities with [[KEEP|mod cues]]. Pointing, showing, and using a shorter phrase all helped. We should count these strategies as progress. The goal is successful communication, con palabras y también con apoyos, while spoken language continues to develop.
+
+**Impresiones — What the findings mean**
+
+The combined findings support a mixed receptive-expressive language disorder and a speech sound disorder in this fictional case. Proposed diagnostic codes are [[KEEP|F80.2]] and [[KEEP|F80.0]]. Concerns appeared across languages and settings, including familiar Spanish routines. Bilingual exposure alone does not explain the full pattern of difficulty.
+
+Strengths include social interest, meaningful gestures, pretend play, family involvement, and a positive response to models. These strengths provide a good starting point for therapy. The assessment does not establish a reading diagnosis or a broader developmental diagnosis. School and family observations should continue to guide decisions as demands change.
+
+**Recomendaciones — Our next steps**
+
+1. Begin speech-language therapy twice weekly, with each visit lasting about thirty minutes. Use both languages according to the activity and communication partner. Initial work should focus on useful messages, understanding directions, and clearer speech. Reconsider frequency after the first treatment block based on participation and progress.
+
+2. Coordinate with Ms. [[TEACHER|Bellara]] and the school team. Helpful classroom supports include short directions, visual choices, demonstration, and time to respond. Adults can check understanding by asking him to show the next action. They should avoid treating silence as proof that he did not understand.
+
+3. Use family coaching informed by [[KEEP|Hanen]]. Follow his interest, describe what he is doing, and expand one step beyond his message. If he says “[[KEEP|más jugo]],” an adult can model “[[KEEP|quiero más jugo]]” without requiring an exact repetition.
+
+4. Start speech practice with functional words selected by the family. A [[KEEP|Cycles]] approach may help organize work on sound patterns. [[KEEP|PROMPT]] is not proposed at this time. Picture supports can supplement speech; a formal [[KEEP|PECS]] program is not currently planned. Review these choices as new evidence appears.
+
+5. Use brief practice during enjoyable routines. Dinner preparation, bath play, and feeding the dog provide natural opportunities. Ask fewer testing questions and make more comments. When he struggles, offer “[[KEEP|ayuda]]” or “[[KEEP|help me]]” as a model, then respond to his attempt.
+
+6. Carry forward the communication priority from the earlier IFSP, Outcome [[KEEP|2]], into current school planning. Proposed Goal [[KEEP|1]] is to request or comment using flexible phrases in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Goal [[KEEP|2]] is to follow related directions in [[KEEP|4/5]] opportunities with [[KEEP|min cues]].
+
+Billing references for this evaluation are CPT [[KEEP|92523]] with modifier [[KEEP|GN]]. Planned individual treatment uses CPT [[KEEP|92507]] with modifier [[KEEP|GN]], subject to authorization. Scheduler [[PERSON|Vera Bellmont]] will help arrange visits. Proposed review date: [[DATE|January 15, 2027]].
+
+Thank you for helping us understand [[CHILD|Mateo]] across the places and languages that matter to him. Please share new examples of successful communication and difficult moments. Those examples will help us adjust the plan. Queremos que pueda participar, pedir ayuda, y compartir sus ideas con confianza.
+
+Warmly,
+
+[[PROVIDER|Elena Maribel Varela]], MS, CCC-SLP  
+Bilingual Pediatric Speech-Language Pathologist  
+[[EMPLOYER|Willow Bridge Pediatric Communication]]  
+[[PHONE|(919) 555-0182]]  
+[[EMAIL|elena.varela@willowbridge.example.org]]

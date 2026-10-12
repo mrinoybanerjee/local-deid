@@ -1,0 +1,83 @@
+Carolina del Norte: revision del IFSP
+Programa para infantes y ninos pequenos
+Documento ficticio para pruebas
+
+INFORMACION DEL NINO Y LA FAMILIA
+
+Nino: [[CHILD|Mateo Andres Nolasco Ruiz]], llamado [[CHILD|Teo]].
+Nacimiento: [[DATE|12 de mayo de 2024]]. Edad: [[KEEP|29 meses]].
+Revision: [[DATE|12 de octubre de 2026]].
+Expediente: [[ID|IFSP-26041782]]. Medicaid: [[MEDICAID_ID|843729156Q]].
+Domicilio: [[PLACE|1847 Sendero del Laurel]], [[PLACE|Brisalia]], Carolina del Norte, [[PLACE|27500]], condado de [[PLACE|Valleverde]].
+Madre: [[PARENT|Guadalupe Elena Ruiz]], llamada [[PARENT|Lupita]].
+Padre: [[PARENT|Jesus Manuel Nolasco]], llamado [[PARENT|Chuy]].
+Telefono familiar: [[PHONE|919-555-0146]].
+Correo: [[EMAIL|familia.nolasco@correo.example]].
+
+La familia prefiere llamadas despues de las [[TIME|4:30 p. m.]] y documentos en espanol. Ambos padres participan en las decisiones. La madre trabaja en [[ORG|Panaderia Sendero Dorado]]. El padre trabaja en [[ORG|Taller Mecanico Rueda Serena]]. Su hermana [[SIBLING|Rosa Isabel Nolasco Ruiz]] asiste a [[SCHOOL|Escuela Primaria Arroyo de Papel]]. La abuela [[FAMILY|Paz Elena Ruiz]] ayuda durante las tardes. La tia [[FAMILY|Luz Marina Ruiz]] recoge al nino cuando cambian los turnos laborales. El tio [[FAMILY|Jose Ruben Ruiz]], llamado [[FAMILY|Pepe]], participa ocasionalmente en las comidas familiares.
+
+EQUIPO Y COORDINACION
+
+Soy [[PROVIDER|Elena Marisol Varela]], MS, CCC-SLP, patologa bilingue del habla y lenguaje. Trabajo para [[EMPLOYER|Voces del Sendero Terapia Pediatrica, PLLC]]. Mi licencia es [[ID|SLP-482716]]. Mi telefono es [[PHONE|984-555-0128]] y mi correo es [[EMAIL|elena.varela@vocesdelsendero.example]].
+
+La coordinadora de servicios es [[PROVIDER|Camila Beatriz Olvera]], de [[AGENCY|CDSA Puente del Alba]]. La oficina esta en [[PLACE|620 Avenida de los Olmos]], [[PLACE|Brisalia]], Carolina del Norte, [[PLACE|27500]]. Su telefono es [[PHONE|919-555-0172]]. La pediatra [[PROVIDER|Irene Catalina Montalvo]] atiende al nino en [[HOSPITAL|Centro Pediatrico Brisa Nueva]]. La familia autorizo compartir esta revision con el equipo nombrado.
+
+ANTECEDENTES Y EVALUACION
+
+El nacimiento ocurrio en [[HOSPITAL|Hospital Comunitario Loma Serena]], a las [[KEEP|39 semanas y 2 dias]] de gestacion. El peso fue [[KEEP|3,180 gramos]]. Los puntajes Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] al quinto minuto. La madre no reporta problemas actuales de alimentacion, audicion ni movimiento. El expediente contiene una evaluacion auditiva fechada [[DATE|3 de septiembre de 2026]], sin recomendaciones adicionales.
+
+Realice la evaluacion del lenguaje el [[DATE|22 de septiembre de 2026]]. Use [[KEEP|PLS-5 Spanish]], observacion durante el juego y una entrevista familiar. En [[KEEP|Auditory Comprehension]], la puntuacion estandar fue [[KEEP|82]], percentil [[KEEP|12]], con intervalo de confianza [[KEEP|76-90]]. En [[KEEP|Expressive Communication]], la puntuacion estandar fue [[KEEP|75]], percentil [[KEEP|5]], con intervalo de confianza [[KEEP|69-84]]. Estos resultados apoyan las necesidades observadas, pero no describen por si solos la participacion diaria.
+
+Durante el juego, [[CHILD|Mateo]] siguio instrucciones familiares en [[KEEP|7/10]] oportunidades. Uso gestos para pedir en [[KEEP|8/10]] oportunidades y palabras espontaneas en [[KEEP|3/10]]. Produjo "[[KEEP|ma]]" y "[[KEEP|agua]]". Se observaron /[[KEEP|p]]/ y /[[KEEP|m]]/ en palabras familiares. El diagnostico documentado es [[KEEP|F80.2]].
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA
+
+La madre explico: "Quiero entender lo que necesita [[CHILD|Teo]] antes de que llore. A veces trae el vaso y yo adivino. Si no entiendo, se tira al piso. No quiero que cada comida termine asi. Quiero ayudarlo sin estar preguntando todo el tiempo".
+
+El padre dijo: "Me importa poder jugar con [[CHILD|Mateo]] cuando llego. Me trae los carros, pero luego se enoja si hago algo diferente. Quiero que pueda decirme que hacer y que disfrutemos ese rato".
+
+La hermana [[SIBLING|Rosa]] agrego: "Quiero que me pida las cosas cuando jugamos. Yo puedo esperar, pero necesito saber que quiere". La abuela [[FAMILY|Paz]] dijo: "Me preocupa que en la guarderia no puedan entenderlo. En casa sabemos sus senas".
+
+Los padres eligieron tres prioridades: pedir durante las comidas, compartir el juego y participar en las transiciones. Prefieren practicar dentro de actividades habituales. No desean tareas largas ni materiales costosos. Quieren conservar el espanol del hogar y apoyar la comprension del ingles que escucha en la guarderia.
+
+RUTINAS Y PARTICIPACION
+
+La familia desayuna a las [[TIME|7:15 a. m.]]. [[CHILD|Teo]] elige entre fruta y pan mediante gestos. La madre coloca el vaso cerca y espera una senal. Las dificultades aumentan cuando todos necesitan salir. El equipo propone preparar las opciones antes de sentarse y reducir las preguntas repetidas.
+
+La llegada a [[DAYCARE|Guarderia Semillas del Viento]] ocurre a las [[TIME|8:10 a. m.]]. La maestra [[TEACHER|Diana Celeste Barrera]] recibe al nino. La asistente [[TEACHER|Nora Isabel Ledesma]] ayuda con la mochila. Su companero [[PEER|Julian Tomas Arce]] suele acercarle bloques. Su amiga [[PEER|Eva Maribel Soria]] participa en canciones. El personal reporta que las imagenes facilitan las transiciones.
+
+Despues de la guarderia, [[CHILD|Mateo]] juega con su hermana y con el perro [[PET|Nube]]. Durante la observacion dijo "[[PET|Nube]] ven". La familia considera ese momento una buena oportunidad para practicar peticiones. El bano empieza a las [[TIME|7:00 p. m.]]. La lectura ocurre antes de dormir. El nino disfruta libros con ventanas y canciones repetidas.
+
+OTRAS AGENCIAS Y APOYOS
+
+La familia recibe apoyo de [[AGENCY|Oficina WIC Puente Claro]] del condado de [[PLACE|Valleverde]]. La trabajadora [[PERSON|Marta Elena Belmonte]] ayuda con las citas. La familia tambien tiene contacto con [[AGENCY|Partnership for Children Senderos Unidos]] del condado de [[PLACE|Valleverde]], para recursos de crianza y transporte.
+
+Los sabados visitan [[AGENCY|Centro Comunitario Manos del Rio]], donde participan en juego familiar y prestamos de juguetes. El programa de lectura [[AGENCY|Cuentos Bajo el Roble]] ofrece libros en espanol. Estos apoyos son voluntarios. La coordinadora verificara horarios con la familia antes de proponer actividades adicionales. El directorio ficticio esta en [[URL|https://senderosunidos.example/recursos]].
+
+RESULTADO [[KEEP|1]]: PEDIR DURANTE LAS COMIDAS
+
+Para [[DATE|19 de enero de 2027]], [[CHILD|Mateo]] pedira alimentos, bebidas o ayuda mediante una palabra, una combinacion de palabras o un gesto claro acompanado de voz. Participara con exito en [[KEEP|8/10]] oportunidades durante dos comidas habituales, con [[KEEP|min cues]].
+
+Los adultos ofreceran dos opciones visibles, esperaran y responderan a cualquier intento claro. Modelare "[[KEEP|mas agua]]", "[[KEEP|quiero pan]]" y "[[KEEP|ayuda]]" sin exigir repeticiones. Usaremos estrategias de [[KEEP|Hanen]] adaptadas al idioma familiar. La madre registrara ejemplos breves en una hoja sencilla. Revisaremos si la espera ayuda o aumenta la frustracion. Nunca se retrasara una necesidad basica para provocar una respuesta.
+
+RESULTADO [[KEEP|2]]: COMPARTIR EL JUEGO
+
+Para [[DATE|19 de abril de 2027]], [[CHILD|Teo]] compartira turnos y comunicara una accion durante juegos con carros, bloques o libros. Lo hara en [[KEEP|4/5]] oportunidades, con [[KEEP|min cues]], en casa y en la guarderia.
+
+El padre seguira el interes del nino, imitara una accion y ofrecera un turno breve. Modelaremos "[[KEEP|mi turno]]", "[[KEEP|va carro]]" y "[[KEEP|abre]]". La hermana podra participar si desea hacerlo. La maestra [[TEACHER|Diana Barrera]] incorporara estas estrategias durante el juego libre. Registraremos gestos, palabras y combinaciones por separado para reconocer avances. Las oportunidades con otros ninos seran naturales y no requeriran que ellos actuen como terapeutas.
+
+RESULTADO [[KEEP|3]]: TRANSICIONES CON PARTICIPACION
+
+Para [[DATE|19 de abril de 2027]], [[CHILD|Mateo]] participara en guardar juguetes, lavarse las manos y pasar a otra actividad. Comunicara aceptacion, rechazo o necesidad de ayuda en [[KEEP|3 de 5]] oportunidades, con [[KEEP|mod cues]] o menos.
+
+La familia y el personal usaran una secuencia visual corta y una advertencia sencilla. Modelaremos "[[KEEP|terminado]]", "[[KEEP|otro]]" y "[[KEEP|ayuda]]". Aceptaremos una pausa cuando el nino la necesite. La tia [[FAMILY|Luz]] practicara la misma secuencia durante la recogida. Observaremos si las imagenes y el tiempo de espera reducen las dificultades. Ajustaremos el ambiente antes de aumentar las indicaciones verbales.
+
+SERVICIOS, FECHAS Y REVISION
+
+La intervencion del habla y lenguaje comenzara el [[DATE|19 de octubre de 2026]] y terminara el [[DATE|19 de abril de 2027]]. Se ofrecera una visita semanal de cuarenta y cinco minutos, principalmente en el hogar. Una visita mensual podra realizarse en la guarderia, segun la rutina familiar. El codigo previsto es [[KEEP|92507]], con modificador [[KEEP|GN]], sujeto a la autorizacion [[ID|AUT-26098314]].
+
+La coordinacion de servicios tendra contacto mensual y contactos adicionales cuando cambien las necesidades. La revision intermedia sera el [[DATE|18 de enero de 2027]]. Cada visita incluira observacion, practica del cuidador y acuerdo sobre una estrategia cotidiana. La familia elegira la rutina. Registrare la participacion y el nivel de apoyo.
+
+ACUERDOS Y CIERRE
+
+Los padres revisaron los resultados en espanol y expresaron acuerdo. Solicitaron avisos por telefono cuando cambie una cita. La coordinadora organizara la comunicacion entre el hogar y la guarderia. El equipo revisara avances sin comparar al nino con su hermana. Esta revision mantiene las prioridades familiares y los servicios acordados. La familia recibira una copia completa. Si una estrategia no funciona, revisaremos juntos el contexto y elegiremos un ajuste concreto.

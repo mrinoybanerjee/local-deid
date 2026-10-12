@@ -1,0 +1,157 @@
+PIEDMONT PEDIATRIC THERAPY SERVICES, PLLC
+Informe de Evaluación del Habla y Lenguaje / Speech-Language Evaluation Report
+
+CHILD'S NAME: [[CHILD|Mateo Alejandro Cruz Ramírez]]
+DATE OF BIRTH: [[DATE|August 9, 2022]]
+CHRONOLOGICAL AGE AT EVALUATION: 3;2
+DATES OF EVALUATION: [[DATE|October 6, 2025]] and [[DATE|el martes 14 de octubre de 2025]]
+REPORT DATE: [[DATE|3 de noviembre de 2025]]
+EVALUATOR: [[PROVIDER|Patricia Álvarez, M.S., CCC-SLP]]
+INTERPRETER (Spanish): [[PROVIDER|J. Ortiz]], certified medical interpreter
+REFERRING PHYSICIAN: [[PROVIDER|Dr. Samuel Whitfield]], Developmental Pediatrics, [[HOSPITAL|Frye Regional Medical Center]]
+SERVICE COORDINATOR: [[PROVIDER|Keisha Monroe]], [[AGENCY|Western Piedmont CDSA]]
+PARENT/GUARDIAN: [[PARENT|Lucía Ramírez Torres]] (mother)
+FATHER: [[PARENT|Diego Cruz Fernández]]
+ADDRESS: [[PLACE|412 Willow Bend Court]], [[PLACE|Hickory]], [[PLACE|Catawba County]], NC [[PLACE|28601]]
+HOME PHONE: [[PHONE|(828) 555-0147]]
+EMAIL: [[EMAIL|lucia.ramirez82@gmail.com]]
+MEDICAID ID: [[MEDICAID_ID|920745831M]]
+INSURANCE MEMBER ID (BCBS NC): [[ID|BCNC884271056]]
+NC ITP CHILD ID: [[ID|ITP-2025-06734]]
+RECORD/AUTHORIZATION NUMBER: [[ID|AUTH-7719234-NC]]
+CPT CODES BILLED THIS VISIT: 92523, 92507
+ICD-10 DIAGNOSIS: F80.2 (Mixed receptive-expressive language disorder)
+
+REASON FOR REFERRAL / RAZÓN DE LA REMISIÓN
+- [[CHILD|Mateo]] was referred by [[PROVIDER|Dr. Samuel Whitfield]] on [[DATE|9/22/2025]] for a comprehensive speech-language evaluation due to limited expressive vocabulary and unintelligible speech noted at his 36-month well-child visit.
+- His mother, [[PARENT|Lucía]], reports that "no me entiende bien ni la familia ni la maestra" ("neither the family nor the teacher understands him well").
+- This evaluation was requested to determine eligibility for ongoing Early Intervention services through [[AGENCY|Western Piedmont CDSA]] and to inform the upcoming IFSP review.
+
+BACKGROUND INFORMATION / INFORMACIÓN DE ANTECEDENTES
+- [[CHILD|Mateo]] is a 3-year-old bilingual (Spanish-English) male who resides with his mother [[PARENT|Lucía Ramírez Torres]], his father [[PARENT|Diego Cruz Fernández]], his older sister [[SIBLING|Valentina Cruz Ramírez]] (age 7), and the family dog, [[PET|Canela]].
+- The family also receives occasional childcare support from [[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Rosa Torres Vega]], who speaks only Spanish with him.
+- [[CHILD|Mateo]] attends [[DAYCARE|Sunny Days Early Learning Center]] in [[PLACE|Hickory, NC]] four days per week, where his lead teacher, [[TEACHER|Ms. Caroline Patterson]], reports concerns consistent with those of the family.
+- [[PARENT|Lucía]] works as a licensed nurse at [[ORG|Catawba Valley Medical Center]]; [[PARENT|Diego]] works in furniture manufacturing locally.
+- [[CHILD|Mateo]] was last seen for a developmental screening on [[DATE|04/02/2025]] and is due for an IFSP review on [[DATE|el 18 de diciembre de 2025]].
+
+BIRTH AND MEDICAL HISTORY / HISTORIA DEL NACIMIENTO Y MÉDICA
+- [[CHILD|Mateo]] was born at 38 weeks gestation via uncomplicated vaginal delivery at [[HOSPITAL|Frye Regional Medical Center]] on [[DATE|August 9, 2022]]. Birth weight was 7 lbs, 2 oz; APGAR scores were 8 and 9.
+- Pregnancy was reportedly unremarkable; mother denies substance use, gestational diabetes, or preeclampsia.
+- [[PARENT|Lucía]] reports three documented episodes of bilateral otitis media between 14 and 24 months, treated with amoxicillin each time; no tubes were placed.
+- A hearing screening performed on [[DATE|June 10, 2024]] at [[HOSPITAL|Frye Regional Medical Center]] audiology clinic showed results within normal limits bilaterally (pass, both ears, via OAE).
+- [[CHILD|Mateo]] has no diagnosed syndromes, seizure history, or significant illnesses. He is up to date on immunizations per [[PROVIDER|Dr. Whitfield]]'s records.
+- Developmental milestones: sat independently at 6 months, walked at 13 months, first words reported around 15 months ("mamá," "agua"), but vocabulary growth has been markedly slower since age 2.
+
+FAMILY AND LANGUAGE HISTORY / HISTORIA FAMILIAR Y DE LENGUAJE
+- The home language environment is predominantly Spanish. [[PARENT|Lucía]] estimates the ratio as "como 80% español, 20% inglés en la casa" (about 80% Spanish, 20% English at home).
+- [[PARENT|Diego]] speaks Spanish with occasional English phrases mixed in, particularly work-related vocabulary. [[FAMILY|Rosa Torres Vega]] speaks exclusively Spanish.
+- [[SIBLING|Valentina]], who is in second grade, is fully bilingual and often serves as an informal interpreter for [[CHILD|Mateo]] with English-speaking peers, saying things like, "yo le digo lo que quiere decir" (I tell them what he means to say).
+- At [[DAYCARE|Sunny Days Early Learning Center]], instruction is delivered primarily in English, with [[CHILD|Mateo]]'s exposure to English averaging approximately 25 hours per week.
+- No other family members report a history of speech, language, or learning disorders, though [[PARENT|Lucía]] mentioned that her brother, [[FAMILY|Marco Ramírez]], "hablaba tarde también" (also talked late) as a child.
+- Family history is otherwise non-contributory for hearing loss, autism, or genetic syndromes.
+
+CASE HISTORY INTERVIEW / ENTREVISTA
+- During the interview, conducted with interpreter support from [[PROVIDER|J. Ortiz]], [[PARENT|Lucía]] reported that [[CHILD|Mateo]] combines two to three words occasionally but is "muy difícil de entender, incluso para nosotros" (very difficult to understand, even for us).
+- [[PARENT|Lucía]] noted frustration behaviors when [[CHILD|Mateo]] is not understood, including pointing, grunting, and occasional tantrums, stating "se enoja porque no sabemos qué quiere" (he gets angry because we don't know what he wants).
+- [[PARENT|Diego]] added that [[CHILD|Mateo]] understands simple directions in both languages but rarely initiates conversation with unfamiliar adults.
+- Per report, [[CHILD|Mateo]]'s cousin [[FAMILY|Emiliano Torres]], age 4, is also noted by the family to have "algo de retraso en hablar" (some speech delay), though he has not been formally evaluated.
+- [[TEACHER|Ms. Patterson]] shared via phone on [[DATE|10/01/2025]] that [[CHILD|Mateo]] plays well alongside peers such as [[PEER|Aiden Brooks]] and [[PEER|Sofía Delgado]] but rarely uses verbal language to request items, preferring to gesture or lead adults by the hand.
+
+ORAL-MOTOR AND SPEECH MECHANISM EXAMINATION
+- Oral structures were within normal limits for symmetry, strength, and range of motion.
+- Dentition: slight anterior open bite noted; no impact on articulation observed.
+- Diadochokinetic rates were judged age-appropriate for gross oral movement sequences.
+- No signs of dysarthria, apraxia, or significant oral-motor weakness were observed during structured and spontaneous tasks.
+
+ASSESSMENT TOOLS AND PROCEDURES
+- Preschool Language Scales, Fifth Edition: Spanish-English Bilingual Edition (PLS-5 Bilingual)
+- Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3), administered in English with Spanish phoneme inventory supplement
+- Spanish Articulation Measures (SAM), informal probe
+- Clinical observation of spontaneous bilingual play with [[PROVIDER|J. Ortiz]] providing Spanish-language modeling and interpretation
+- Parent report measures: MacArthur-Bates Communicative Development Inventories (CDI), Spanish and English short forms
+- Oral mechanism examination
+- Hearing screening (pure tone, 20 dB, 1000-4000 Hz): passed bilaterally on [[DATE|10/06/2025]]
+
+TEST RESULTS / RESULTADOS DE LAS PRUEBAS
+
+PLS-5 BILINGUAL EDITION
+| Domain | Raw Score | Standard Score | Percentile Rank |
+|---|---|---|---|
+| Auditory Comprehension | 38 | 76 | 5th |
+| Expressive Communication | 29 | 68 | 2nd |
+| Total Language Score | — | 70 | 2nd |
+
+- Both Auditory Comprehension and Expressive Communication fell more than 1.5 standard deviations below the mean, indicating significant delay across both receptive and expressive domains in [[CHILD|Mateo]]'s combined linguistic system.
+- Testing was conducted with [[CHILD|Mateo]] alternating between Spanish and English responses; scoring followed bilingual conceptual scoring guidelines to account for cross-linguistic vocabulary.
+
+GFTA-3 (ENGLISH) WITH SPANISH PHONEME SUPPLEMENT
+- Standard Score: 72 (2nd percentile)
+- Sounds-in-Words subtest revealed consistent deletion of final consonants and cluster reduction.
+- Error patterns included: final consonant deletion (e.g., "ca" for "cat"), cluster reduction (e.g., "poon" for "spoon"), and fronting of /k/ and /g/ to [t] and [d].
+- Spanish phoneme probe revealed similar patterns, with difficulty producing /r/ and consonant clusters such as /tr/ and /pl/; [[CHILD|Mateo]] produced "pato" as "pado" and "tren" as "ten."
+- Stimulability testing showed [[CHILD|Mateo]] could approximate target sounds with mod cues (moderate verbal and visual cueing) in both languages.
+
+SPEECH INTELLIGIBILITY
+- Intelligibility in known context (with family): approximately 50%
+- Intelligibility in unknown context (with unfamiliar listener): approximately 25%
+- Across both languages, [[CHILD|Mateo]] demonstrated an average phonetic inventory consistent with a child approximately 12-18 months younger than his chronological age.
+
+ARTICULATION ACCURACY PROBES (INFORMAL)
+- Bilabial sounds /m, p, b/: 9/10 correct in both languages (90%)
+- Velar sounds /k, g/: 4/10 correct across languages (40%)
+- Liquids /l, r/: 3/10 correct across languages (30%)
+- Final consonants (English probe): 8/10 correct in word-initial position, 2/10 in word-final position
+
+LANGUAGE SAMPLE ANALYSIS
+- A 15-minute spontaneous language sample was collected during bilingual play with [[PROVIDER|J. Ortiz]] and [[PARENT|Lucía]] present.
+- Mean length of utterance (MLU) in morphemes: 2.1 in Spanish, 1.8 in English, both below age expectations.
+- SALT coding identified frequent [EW] (errored word) tags for both omitted grammatical morphemes and substituted phonemes.
+- [[CHILD|Mateo]] used primarily single words and occasional two-word combinations ("mas agua," "no quiero," "ball go") across both languages, with minimal use of grammatical morphemes (plurals, verb tense markers) in either language.
+- Code-switching within utterances was observed but judged developmentally appropriate given the home language environment, consistent with typical bilingual development rather than confusion between languages.
+
+PARENT REPORT MEASURES (CDI)
+- Spanish CDI vocabulary checklist: 62 words reported, below the 10th percentile for age
+- English CDI vocabulary checklist: 41 words reported, below the 10th percentile for age
+- Combined conceptual vocabulary (unique concepts across both languages, accounting for translation equivalents): estimated 78 words, still below expected range for 36-month bilingual norms
+
+HEARING SCREENING
+- Pure tone screening at 20 dB HL across 1000, 2000, and 4000 Hz: passed bilaterally.
+- Tympanometry: Type A bilaterally, consistent with normal middle ear function on the day of testing.
+
+BEHAVIORAL OBSERVATIONS
+- [[CHILD|Mateo]] was cooperative throughout testing, transitioning well between tasks with brief breaks.
+- He demonstrated strong nonverbal communication skills, including pointing, eye contact, and turn-taking in play.
+- Attention and engagement were age-appropriate; no concerns regarding social communication, joint attention, or play skills were noted.
+- [[CHILD|Mateo]] separated easily from his mother for portions of testing and engaged readily with [[PROVIDER|Patricia Álvarez]] and interpreter [[PROVIDER|J. Ortiz]].
+
+CLINICAL IMPRESSIONS / IMPRESIONES CLÍNICAS
+- Results indicate a significant delay in both receptive and expressive language skills across [[CHILD|Mateo]]'s combined linguistic system (Spanish and English), consistent with a diagnosis of Mixed Receptive-Expressive Language Disorder (ICD-10: F80.2).
+- Concurrent speech sound production delays are present in both languages, characterized by phonological process patterns (final consonant deletion, cluster reduction, velar fronting, liquid simplification) that are atypical for his age in either language, ruling out typical second-language acquisition patterns as the sole explanation.
+- Intelligibility deficits, particularly with unfamiliar listeners, are functionally significant and are impacting [[CHILD|Mateo]]'s ability to communicate needs at home and at [[DAYCARE|Sunny Days Early Learning Center]].
+- No evidence was found to suggest hearing loss, oral-motor dysfunction, or social communication disorder as primary contributing factors.
+- [[CHILD|Mateo]]'s delays are evident across both languages, which supports a true language disorder rather than a language difference attributable to bilingual exposure alone.
+- Family engagement is strong, and the home language environment, while predominantly Spanish, provides rich communicative opportunities that should be leveraged in intervention planning.
+
+SUMMARY
+- [[CHILD|Mateo Alejandro Cruz Ramírez]], a 3;2-year-old bilingual (Spanish-English) male, presents with a mixed receptive-expressive language disorder with concomitant speech sound disorder affecting both languages.
+- These findings are consistent with the concerns raised by his mother [[PARENT|Lucía Ramírez Torres]], father [[PARENT|Diego Cruz Fernández]], and teacher [[TEACHER|Ms. Caroline Patterson]], and support continued eligibility for Early Intervention services.
+- As [[PARENT|Lucía]] stated at the close of the evaluation, "sabíamos que algo pasaba, pero no sabíamos qué hacer" (we knew something was going on, but we didn't know what to do).
+
+RECOMMENDATIONS / RECOMENDACIONES
+- [[CHILD|Mateo]] qualifies for continued speech-language therapy services under Part C Early Intervention through [[AGENCY|Western Piedmont CDSA]], with service coordination continuing with [[PROVIDER|Keisha Monroe]].
+- Recommend individual speech-language therapy twice weekly, 30 minutes per session, billed under CPT 92507 (individual treatment) with ongoing periodic re-evaluation billed under CPT 92523 (evaluation of speech sound production with evaluation of language comprehension and expression).
+- Therapy should be conducted bilingually, incorporating both Spanish and English, with coordination between the treating clinician and family to reinforce target vocabulary and sound patterns in both languages at home.
+- Recommend continued use of interpreter services (such as [[PROVIDER|J. Ortiz]]) for all family conferences and IFSP meetings to ensure full participation by [[PARENT|Lucía]] and [[PARENT|Diego]].
+- Recommend classroom consultation with [[TEACHER|Ms. Patterson]] at [[DAYCARE|Sunny Days Early Learning Center]] to introduce low-tech augmentative strategies (visual supports, modeling expansions) to support [[CHILD|Mateo]]'s communication during daycare hours.
+- Recommend a follow-up hearing re-screen at the next IFSP review on [[DATE|el 18 de diciembre de 2025]], given the history of recurrent otitis media.
+- Family is encouraged to continue rich language exposure in Spanish at home, including through [[FAMILY|Rosa Torres Vega]]'s caregiving time, and to narrate daily routines in both languages.
+- Recommend re-evaluation in approximately 6 months, or sooner if significant changes in communication skills are observed, to reassess progress and update goals for the IFSP dated [[DATE|12/18/2025]].
+- A copy of this report will be forwarded to [[PROVIDER|Dr. Samuel Whitfield]] and to [[AGENCY|Western Piedmont CDSA]] per the signed release of information on file, record number [[ID|AUTH-7719234-NC]].
+
+This evaluation was completed and interpreted in accordance with current standards of bilingual speech-language assessment practice, using conceptual scoring and clinical judgment appropriate for a Spanish-English dual language learner.
+
+Report prepared by:
+[[PROVIDER|Patricia Álvarez, M.S., CCC-SLP]]
+Licensed Speech-Language Pathologist
+[[EMPLOYER|Piedmont Pediatric Therapy Services, PLLC]]
+Date signed: [[DATE|November 3, 2025]]

@@ -1,0 +1,33 @@
+1. Motivo y destinataria
+Resumen para la familia
+
+Estimada señora [[PARENT|Elena Valdés Molina]]:
+
+Presento los resultados de la evaluación de su hija [[CHILD|María Guadalupe Serrano Valdés]], conocida como [[CHILD|Lupita]], realizada el [[DATE|8 de octubre de 2026]] a las [[TIME|9:15 a. m.]]. Su edad es [[KEEP|4;2]].
+
+2. Contexto educativo
+Participación y apoyos
+
+La niña asiste a [[SCHOOL|Escuela Infantil Sendero Azul]], en [[PLACE|Villa Brisa]], Carolina del Norte. La maestra [[TEACHER|Rosa Nájera]] describe buena participación con su compañero [[PEER|Teodoro Reyes]], llamado [[PEER|Teo]]. Su hermano [[SIBLING|José Serrano Valdés]], conocido como [[SIBLING|Pepe]], participa en actividades familiares.
+
+3. Resultados
+Lenguaje y habla
+
+En [[KEEP|PLS-5 Spanish]], obtuvo una puntuación estándar de [[KEEP|78]] y un percentil de [[KEEP|7]]. Produjo [[KEEP|/k/]] correctamente en [[KEEP|8/10]] oportunidades, equivalentes al [[KEEP|80%]], con [[KEEP|apoyo moderado]]. Durante una muestra espontánea dijo [[KEEP|"yo quielo"]]; la palabra objetivo fue [[KEEP|"quiero"]]. Se registró el código [[KEEP|[EW]]] en la transcripción.
+
+4. Plan
+Coordinación familiar
+
+Recomiendo practicar turnos conversacionales durante cinco minutos diarios. Su abuela [[FAMILY|Amalia Valdés]] puede modelar frases completas sin exigir repeticiones. El pediatra, Dr. [[PROVIDER|J. Ortiz]], recibirá el resumen cuando la familia autorice su envío.
+
+5. Información administrativa
+Registro y contacto
+
+Expediente: [[ID|SLP-260108-047]]. Medicaid: [[MEDICAID_ID|483726195K]]. Contacto: [[PHONE|(919) 555-0146]]; [[EMAIL|consulta@hablaficticia.example]]. La próxima revisión será el [[DATE|12 de noviembre de 2026]].
+
+6. Firma profesional
+Responsable del documento
+
+Atentamente,
+
+[[PROVIDER|Inés Robles Cárdenas]], patóloga bilingüe del habla y lenguaje, [[EMPLOYER|Servicios Pediátricos Voz Serena]].

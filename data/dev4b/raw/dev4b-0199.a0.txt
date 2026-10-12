@@ -1,0 +1,89 @@
++ Nombre: [[CHILD|Mateo Alejandro Fuentes Castillo]]
++ Apodo: [[CHILD|Mateo]]
++ CA: [[KEEP|4;2]]
++ Fecha de nacimiento: [[DATE|3 de marzo de 2022]]
++ Fecha de evaluación: [[DATE|2 de octubre de 2026]]
++ Fecha del informe: [[DATE|9 de octubre de 2026]]
++ Expediente #: [[ID|TPT-2026-0458]]
++ ID de Medicaid: [[MEDICAID_ID|9847162305B]]
++ Contexto: Evaluación integral de lenguaje y habla en la clínica ambulatoria, sesión individual con la madre presente, con juego estructurado y pruebas estandarizadas administradas en español e inglés.
++ Examinadora: [[PROVIDER|María Elena Vásquez]], MS, CCC-SLP, patóloga del habla y lenguaje bilingüe pediátrica, [[EMPLOYER|Triangle Pediatric Therapy Services, PLLC]] ([[EMPLOYER|Triangle Pediatric Therapy]], [[EMPLOYER|TPTS]])
++ Agencia remitente: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Alamance]]
+
+RESUMEN
+
+[[CHILD|Mateo]] es un niño de [[KEEP|4;2]] años, bilingüe español-inglés, remitido por la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Alamance]] para una evaluación integral de lenguaje y habla debido a preocupaciones persistentes sobre su desarrollo expresivo y su inteligibilidad. Su mamá, [[PARENT|Lucía Fuentes Rodríguez]], reporta que [[CHILD|Mateo]] usa pocas palabras combinadas, que se frustra cuando no lo entienden, y que su maestra en la guardería, la [[TEACHER|Sra. Keisha Johnson]], ha notado lo mismo en el salón. La evaluación incluyó el [[KEEP|Preschool Language Scale-5]] ([[KEEP|PLS-5]]), el [[KEEP|Goldman-Fristoe Test of Articulation-3]] ([[KEEP|GFTA-3]]), una muestra de lenguaje espontáneo, y observación clínica directa. Los resultados confirman un trastorno mixto de lenguaje receptivo-expresivo con un componente significativo de habla, consistente con [[KEEP|F80.2]]. Se recomienda terapia de habla y lenguaje dos veces por semana.
+
+ANTECEDENTES
+
+[[CHILD|Mateo Alejandro Fuentes Castillo]] fue remitido a [[EMPLOYER|Triangle Pediatric Therapy Services, PLLC]] por la coordinadora de servicios [[PROVIDER|Brenda Alston]] de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Alamance]], tras una evaluación inicial realizada en [[DATE|julio de 2026]] que identificó retrasos en el área de comunicación. [[CHILD|Mateo]] vive en [[PLACE|Mebane]], en el [[PLACE|Condado de Alamance]], con su mamá, su papá, y dos hermanos. Asiste de lunes a viernes al [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], ubicado en [[PLACE|Mebane]], donde está en el salón de la [[TEACHER|Sra. Keisha Johnson]]. La familia recibe apoyo nutricional de [[AGENCY|WIC del Condado de Alamance]] y participó anteriormente en el programa [[AGENCY|Early Head Start del Condado de Alamance]] cuando [[CHILD|Mateo]] tenía un año. La familia también fue conectada con [[AGENCY|Smart Start del Condado de Alamance]] para recursos de desarrollo infantil temprano.
+
+Según [[PARENT|Lucía]], las primeras palabras de [[CHILD|Mateo]] aparecieron alrededor de los [[KEEP|18 meses]], y la combinación de dos palabras no apareció hasta cerca de los [[KEEP|3;0]] años. Actualmente produce frases de tres a cuatro palabras, pero con errores de articulación marcados que afectan la inteligibilidad, especialmente con personas fuera de la familia inmediata. [[PARENT|Lucía]] describe que [[CHILD|Mateo]] "se enoja y grita" cuando los adultos no entienden lo que quiere decir, y que a veces señala en lugar de hablar.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+[[CHILD|Mateo]] nació el [[DATE|3 de marzo de 2022]] en el [[HOSPITAL|Hospital Regional Piedmont Valley]] en [[PLACE|Burlington]], a las [[KEEP|39 semanas]] de gestación, mediante parto vaginal sin complicaciones. El peso al nacer fue de [[KEEP|3,200 gramos]] y el puntaje de Apgar fue [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. No hubo estancia en la unidad neonatal. [[PARENT|Lucía]] reporta un embarazo sin complicaciones mayores, aunque tuvo una infección urinaria tratada con antibióticos en el segundo trimestre.
+
+El pediatra de [[CHILD|Mateo]], el [[PROVIDER|Dr. James Patel]], de [[HOSPITAL|Pediatría Piedmont]] en [[PLACE|Mebane]], ha seguido su desarrollo desde el nacimiento. [[CHILD|Mateo]] tuvo múltiples episodios de otitis media entre los [[KEEP|12]] y los [[KEEP|24 meses]], con colocación de tubos de ventilación a los [[KEEP|20 meses]] por el otorrinolaringólogo, el [[PROVIDER|Dr. Samuel Nwosu]]. Desde la colocación de los tubos, los episodios de otitis han disminuido notablemente. No hay historial de convulsiones, hospitalizaciones mayores, ni lesiones craneales. [[CHILD|Mateo]] fue evaluado por audición en [[DATE|enero de 2026]] con resultados dentro de límites normales bilateralmente, según el informe de la audióloga [[PROVIDER|Rachel Kim]]. No toma medicamentos de manera regular. No tiene alergias conocidas.
+
+El examen físico más reciente, realizado por el [[PROVIDER|Dr. Patel]] el [[DATE|15 de septiembre de 2026]], no reveló hallazgos dismórficos ni preocupaciones motoras gruesas. El desarrollo motor grueso y fino se describe como típico para la edad: caminó a los [[KEEP|13 meses]] y corre, salta, y sube escaleras sin dificultad. No hay preocupaciones sensoriales reportadas por la familia ni por la terapeuta ocupacional que lo vio brevemente en [[DATE|marzo de 2026]], la [[PROVIDER|Sra. Sarah Kim]], quien no recomendó terapia ocupacional continua en ese momento.
+
+HISTORIA FAMILIAR Y DE IDIOMA
+
+[[CHILD|Mateo]] vive con su mamá, [[PARENT|Lucía Fuentes Rodríguez]]; su papá, [[PARENT|Carlos Fuentes Castillo]]; su hermano mayor, [[SIBLING|Diego]], de [[KEEP|6 años]]; y su hermana menor, [[SIBLING|Camila]], de [[KEEP|2 años]]. Su abuela, [[FAMILY|Rosa Castillo]], vive cerca y cuida a los niños algunas tardes mientras los padres trabajan. [[PARENT|Lucía]] trabaja de noche en el turno de [[TIME|10:00 p.m.]] a [[TIME|6:00 a.m.]] como operadora de montacargas en el [[ORG|Centro de Distribución Piedmont Foods]] en [[PLACE|Graham]]. [[PARENT|Carlos]] trabaja durante el día como instalador de pisos para una empresa de construcción local. Debido al horario nocturno de [[PARENT|Lucía]], la abuela [[FAMILY|Rosa]] frecuentemente lleva y recoge a [[CHILD|Mateo]] de la guardería y supervisa las tardes.
+
+El idioma predominante en el hogar es el español; [[PARENT|Lucía]] y [[PARENT|Carlos]] hablan español entre ellos y con los niños la mayoría del tiempo, aunque [[PARENT|Lucía]] reporta que incorpora algunas palabras en inglés, especialmente relacionadas con la rutina escolar. [[SIBLING|Diego]] es bilingüe y habla inglés con fluidez en la escuela, pero español en casa. [[CHILD|Mateo]] escucha ambos idiomas: español en casa con la familia y la abuela, e inglés en la guardería con la [[TEACHER|Sra. Johnson]] y sus compañeros, entre ellos [[PEER|Jayden]] y [[PEER|Sofía]]. Según [[PARENT|Lucía]], [[CHILD|Mateo]] entiende instrucciones simples en ambos idiomas, pero su producción verbal es más limitada en inglés que en español.
+
+No hay antecedentes familiares reportados de trastornos de lenguaje, aunque [[PARENT|Carlos]] menciona que él mismo "hablaba tarde" de niño y tuvo terapia de habla brevemente en la escuela primaria. [[SIBLING|Diego]] no tiene historial de retrasos de desarrollo. La familia no tiene mascotas en casa actualmente; mencionan que tuvieron un perro llamado [[PET|Max]] que falleció el año pasado, y [[CHILD|Mateo]] todavía lo menciona ocasionalmente.
+
+CONDUCTA DURANTE LA EVALUACIÓN
+
+[[CHILD|Mateo]] se presentó a la evaluación acompañado por su mamá. Al inicio mostró timidez, pero se familiarizó rápidamente con el ambiente y la examinadora, [[PROVIDER|María Elena Vásquez]]. Mantuvo atención conjunta de manera consistente, siguió instrucciones simples de un paso con apoyo visual, y participó activamente en el juego estructurado. Se observó que [[CHILD|Mateo]] usaba gestos y señalaba frecuentemente para complementar su comunicación verbal, especialmente cuando percibía que no lo entendían. En un momento, al jugar con figuras de animales, dijo "el [[KEEP|pego]] come" en lugar de "el perro come," ilustrando patrones de simplificación fonológica consistentes con los hallazgos de la evaluación formal. Su mamá comentó entre risas que en casa él le dice a su hermana [[SIBLING|Camila]] "no oyes" cuando ella no entiende lo que él quiere decir, reflejando la frustración que experimenta con su propia inteligibilidad.
+
+RESULTADOS DE LAS PRUEBAS
+
+Se administró el [[KEEP|Preschool Language Scale-5]] ([[KEEP|PLS-5]]), edición en español, para evaluar el lenguaje receptivo y expresivo. Se administró el [[KEEP|Goldman-Fristoe Test of Articulation-3]] ([[KEEP|GFTA-3]]) para evaluar la producción de sonidos del habla. Se obtuvo además una muestra de lenguaje espontáneo de [[KEEP|50 enunciados]] durante el juego libre, y se completó un inventario de sonidos del habla en ambos idiomas.
+
+Tabla de puntajes:
+
+Prueba / Subprueba | Puntaje estándar | Percentil | Intervalo de confianza
+[[KEEP|PLS-5 Comprensión Auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|70-82]]
+[[KEEP|PLS-5 Comunicación Expresiva]] | [[KEEP|68]] | [[KEEP|2]] | [[KEEP|62-74]]
+[[KEEP|PLS-5 Puntaje Total del Lenguaje]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|65-77]]
+[[KEEP|GFTA-3 Puntaje Estándar]] | [[KEEP|65]] | [[KEEP|1]] | [[KEEP|59-71]]
+
+Los puntajes estándar de [[CHILD|Mateo]] en el [[KEEP|PLS-5]] cayeron en el rango de "muy por debajo del promedio" tanto en comprensión auditiva como en comunicación expresiva, con una brecha notable que favorece la comprensión sobre la expresión. En la muestra de lenguaje espontáneo, su enunciado promedio tuvo una longitud de [[KEEP|2.8 palabras]], por debajo de lo esperado para su edad. Produjo principalmente enunciados de sujeto-verbo-objeto simples, con omisión frecuente de artículos y conjugaciones verbales incorrectas en español, por ejemplo, "yo come" en lugar de "yo como."
+
+En el análisis fonológico, [[CHILD|Mateo]] mostró los siguientes patrones de error: sustitución de /s/ por [θ] en posición inicial, simplificación de grupos consonánticos (por ejemplo, "pato" por "plato"), y reducción de sílabas finales. Produjo el fonema /ɾ/ de manera inconsistente, con precisión de [[KEEP|8/10]] en palabras aisladas pero solo [[KEEP|4/10]] en conversación espontánea. Su inteligibilidad general fue estimada en [[KEEP|60%]] con oyentes familiares y [[KEEP|40%]] con oyentes no familiares, según la escala de inteligibilidad utilizada durante la observación clínica.
+
+Se evaluó también la precisión de producción de sonidos específicos mediante repetición de palabras objetivo. [[CHILD|Mateo]] logró producir correctamente el sonido /k/ en posición inicial con [[KEEP|8/10]] intentos ([[KEEP|80%]]) con apoyo de modelado, pero solo [[KEEP|5/10]] intentos ([[KEEP|50%]]) sin apoyo. Para el sonido /g/, logró [[KEEP|7/10]] ([[KEEP|70%]]) con claves [[KEEP|mínimas]]. Para secuencias consonánticas como /pl/ y /tr/, requirió claves [[KEEP|máximas]] y logró precisión de solo [[KEEP|3 de 10]] intentos.
+
+En cuanto al vocabulario receptivo, [[CHILD|Mateo]] identificó correctamente [[KEEP|18 de 20]] objetos familiares cuando se le nombraron en español, pero solo [[KEEP|11 de 20]] en inglés, consistente con el reporte de la familia sobre su exposición lingüística desigual. Su edad equivalente de comprensión auditiva se estimó en [[KEEP|2;6–3;0]], aproximadamente entre doce y dieciocho meses por debajo de su edad cronológica.
+
+IMPRESIONES
+
+Con base en los resultados de las pruebas estandarizadas, la observación clínica, y el reporte de los padres, [[CHILD|Mateo]] presenta un trastorno mixto de lenguaje receptivo-expresivo de moderado a severo, con un componente significativo de trastorno fonológico que afecta considerablemente su inteligibilidad. Este perfil es consistente con el código diagnóstico [[KEEP|F80.2]] (trastorno del lenguaje receptivo-expresivo mixto). Dado que [[CHILD|Mateo]] está expuesto a dos idiomas en el hogar y en la guardería, se descartó un diagnóstico basado únicamente en diferencia de idioma; los patrones de error observados están presentes en ambos idiomas y son consistentes con un trastorno primario de lenguaje, no simplemente con adquisición bilingüe típica.
+
+La discrepancia entre comprensión y expresión sugiere que [[CHILD|Mateo]] tiene mejor acceso al lenguaje receptivo que a su producción expresiva, lo cual es un hallazgo favorable para el pronóstico con intervención temprana e intensiva. Su frustración conductual, descrita tanto por [[PARENT|Lucía]] como por la [[TEACHER|Sra. Johnson]], parece estar directamente relacionada con su dificultad para comunicarse de manera efectiva, más que con un trastorno conductual primario.
+
+Se recomienda encarecidamente iniciar terapia de habla y lenguaje de manera continua. El perfil bilingüe de [[CHILD|Mateo]] debe ser considerado un recurso, no una barrera, y la intervención debe realizarse en ambos idiomas cuando sea posible, priorizando el español como idioma dominante del hogar.
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de habla y lenguaje individual dos veces por semana, sesiones de [[KEEP|30 minutos]], utilizando los códigos [[KEEP|92523]] (evaluación de producción de habla, lenguaje, voz y comunicación) y [[KEEP|92507]] (tratamiento de trastornos de habla, lenguaje, voz o auditivos) para la facturación correspondiente ante Medicaid.
+
+2. Se recomienda un enfoque terapéutico que combine el programa [[KEEP|Hanen]] para la facilitación del lenguaje en el hogar con técnicas de [[KEEP|PROMPT]] para abordar los patrones fonológicos, dado que ambos enfoques han mostrado eficacia en poblaciones bilingües pediátricas.
+
+3. Se recomienda continuar monitoreando la audición de [[CHILD|Mateo]] con el [[PROVIDER|Dr. Nwosu]] dado el historial de otitis media recurrente, y confirmar que los tubos de ventilación permanecen funcionales en su próxima cita, programada para [[DATE|20 de noviembre de 2026]].
+
+4. Se recomienda que la familia continúe utilizando los recursos de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Alamance]] para coordinar servicios adicionales, y que se mantenga en contacto con la coordinadora de servicios, [[PROVIDER|Brenda Alston]], para la actualización del Plan Individualizado de Servicios Familiares (IFSP), específicamente los resultados [[KEEP|1]] y [[KEEP|3]] relacionados con comunicación funcional.
+
+5. Se sugiere que la familia considere recursos adicionales a través del [[AGENCY|Departamento de Servicios Sociales del Condado de Alamance]] y la [[AGENCY|Alianza para los Niños del Condado de Alamance]], especialmente en lo relacionado con apoyo de transporte para las sesiones de terapia, dado el horario laboral nocturno de [[PARENT|Lucía]].
+
+6. Se recomienda colaboración continua con la guardería [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] y la maestra [[TEACHER|Sra. Keisha Johnson]], incluyendo el intercambio de estrategias de comunicación visual y modelado de lenguaje que se pueden reforzar tanto en el salón como en el hogar.
+
+7. Se recomienda una reevaluación formal en aproximadamente [[KEEP|6 meses]] para medir el progreso y ajustar el plan de tratamiento según sea necesario.
+
+Este informe fue preparado por [[PROVIDER|María Elena Vásquez]], MS, CCC-SLP, de [[EMPLOYER|Triangle Pediatric Therapy Services, PLLC]]. Para preguntas sobre este informe o para coordinar servicios, por favor comuníquese al [[PHONE|(336) 555-0147]] o al correo electrónico [[EMAIL|mvasquez@trianglepediatrictherapy.com]]. La oficina de [[EMPLOYER|TPTS]] está ubicada en [[PLACE|412 Piedmont Commons Drive, Suite 200, Mebane, NC 27302]].
+
+Copia de este informe será enviada a la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Alamance]], a la coordinadora [[PROVIDER|Brenda Alston]], y al pediatra, el [[PROVIDER|Dr. James Patel]], con el consentimiento firmado de [[PARENT|Lucía Fuentes Rodríguez]] el [[DATE|2 de octubre de 2026]].

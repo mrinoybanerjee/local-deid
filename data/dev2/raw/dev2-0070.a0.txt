@@ -1,0 +1,22 @@
+Client: [[CHILD|Mateo Alejandro Flores]]
+DOB: [[DATE|March 3, 2022]]
+Medicaid ID: [[MEDICAID_ID|503928417B]]
+Record #: [[ID|88213]]
+Date of Service: [[DATE|October 6, 2026]]
+Time: [[TIME|10:30 AM]]
+Clinician: [[PROVIDER|Dana Whitfield, MS, CCC-SLP]]
+Agency: [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Interpreter: [[PROVIDER|Sofía Marín]]
+Setting: [[DAYCARE|Tiny Acorns Learning Cottage]], [[PLACE|Fayetteville]], [[PLACE|Cumberland County]]
+
+Subjetivo/Subjective:
+Mamá [[PARENT|Lucía Rodríguez]] reports that [[CHILD|Mateo]] ha estado "hablando más en casa" since starting afternoons with abuela [[FAMILY|Rosa Hernández]] three days a week while mamá works at [[ORG|Vidant Processing Plant]]. Papá, [[PARENT|Javier Flores]], joined por teléfono with Spanish-English interpreter [[PROVIDER|Sofía Marín]] assisting. Hermana [[SIBLING|Camila]], age [[KEEP|4;2]], continues to model language at home, y su perrito [[PET|Max]] motivates practice with animal sounds. The family receives support from [[AGENCY|Cumberland County Partnership for Children]] and recently reapplied for [[AGENCY|WIC]]; mamá also asked about respite options through [[AGENCY|Cumberland County DSS]]. [[CHILD|Mateo]] attends [[DAYCARE|Tiny Acorns Learning Cottage]], in Ms. [[TEACHER|Lopez]]'s room, where classmate [[PEER|Ethan]] is noted as a strong peer language model.
+
+Objetivo/Objective:
+Seen individually for 30 minutes targeting [[KEEP|/k/]] and [[KEEP|/g/]] in word-initial position per [[KEEP|CPT 92507]]. Probe items from the [[KEEP|Goldman-Fristoe Test of Articulation-3]] were administered; [[CHILD|Mateo]] produced [[KEEP|/k/]] correctly in [[KEEP|7 of 10]] trials with [[KEEP|minimal cues]], up from [[KEEP|4 of 10]] last session. He imitated "[[KEEP|casa]]" as "[[KEEP|tasa]]," then self-corrected to "[[KEEP|casa]]" after [[KEEP|moderate cues]]. [[KEEP|PROMPT]] tactile cues supported jaw stability throughout. On the [[KEEP|CELF-5]] Receptive Language subtest, re-administered [[DATE|March 3, 2026]], standard score was [[KEEP|82]] ([[KEEP|12th percentile]]), within the [[KEEP|95% CI]] of [[KEEP|76-88]].
+
+Asesoramiento/Assessment:
+[[CHILD|Mateo]] continues steady progress toward IFSP [[KEEP|Outcome 2]], consistent with diagnosis [[KEEP|ICD-10 F80.0]]. Progress is coordinated with pediatrician [[PROVIDER|Dr. Angela Ruiz]], occupational therapist [[PROVIDER|Rachel Kim]], and physical therapist [[PROVIDER|Carlos Benitez]], all seen at [[HOSPITAL|Cape Fear Valley Children's Clinic]]. Mamá reports mejoría notable en la comunicación espontánea at home and at daycare.
+
+Plan:
+Continue twice-weekly sessions targeting word-initial velars and expanding MLU. Recommended a referral through [[AGENCY|Early Head Start]] for continued developmental screening given family's eligibility. Next IFSP review scheduled [[DATE|December 15, 2026]] at [[TIME|9:00 AM]]. Follow-up call to family at [[PHONE|(910) 555-2847]] or email [[EMAIL|lrodriguez82@example.com]]. Session note filed under case [[ID|CPTP-4471]].

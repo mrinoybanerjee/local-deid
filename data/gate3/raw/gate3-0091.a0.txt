@@ -1,0 +1,115 @@
+**Informe ficticio de evaluación del habla y del lenguaje**
+
+Paciente: [[CHILD|Emilio Darío Castañeda Vela]]  
+Nombre usado en casa: [[CHILD|Milo]]  
+Fecha de nacimiento: [[DATE|9 de mayo de 2023]]  
+Edad durante la evaluación: [[KEEP|2;10]]  
+Fechas de evaluación: [[DATE|9 de marzo de 2026]] y [[DATE|11 de marzo de 2026]]  
+Fecha del informe: [[DATE|13 de marzo de 2026]]  
+Expediente: [[ID|EXP-ECV-260309]]  
+Número de Medicaid: [[MEDICAID_ID|684209173Q]]  
+Autorización: [[ID|AUT-57280416]]  
+Domicilio: [[PLACE|418 Calle del Fresno, apartamento 6, Santa Bruma, Carolina del Norte, 27986]]  
+Condado: [[PLACE|Vallebruma]]  
+Teléfono familiar: [[PHONE|919-555-0148]]  
+Correo familiar: [[EMAIL|castaneda.vela@example.com]]  
+Centro infantil: [[DAYCARE|Centro Infantil Semillas del Arroyo]]  
+Profesional responsable: [[PROVIDER|Mariana Elvira Soria]], MS, CCC-SLP, patóloga bilingüe del habla y del lenguaje  
+Empleador: [[EMPLOYER|Terapias Infantiles Puente de Luceros, PLLC]]  
+Dirección profesional: [[PLACE|72 Avenida del Robledal, oficina 204, Santa Bruma, Carolina del Norte, 27986]]  
+Teléfono profesional: [[PHONE|919-555-0163]]  
+Correo profesional: [[EMAIL|mariana.soria@puentedeluceros.example]]  
+Sitio institucional: [[URL|https://puentedeluceros.example]]
+
+Este documento contiene información completamente ficticia para pruebas de desidentificación. Los datos personales, las organizaciones, los resultados y las observaciones corresponden a un caso inventado. El informe representa una evaluación pediátrica bilingüe realizada en Carolina del Norte. La familia solicitó el documento en español. Las entrevistas, las explicaciones y la devolución de resultados se realizaron directamente en español, sin intérprete. Las actividades incluyeron oportunidades de comunicación en español y en inglés para describir el funcionamiento del niño en sus entornos habituales.
+
+La remisión llegó de la [[AGENCY|Oficina de la Agencia de Servicios de Desarrollo Infantil de Vallebruma]], denominada [[AGENCY|CDSA-VB]] en este informe. La coordinadora de servicios, [[PROVIDER|Elena Marisol Vives]], pertenece a la [[AGENCY|Agencia Comunitaria de Coordinación de Servicios para la Primera Infancia de Vallebruma]], identificada también como [[AGENCY|ACCSPI-VB]]. El número de caso es [[ID|CDSA-260184]] y el teléfono de coordinación es [[PHONE|252-555-0126]]. La familia autorizó el intercambio del informe mediante el consentimiento [[ID|CONS-80317]].
+
+**Antecedentes e historia**
+
+La mamá, [[PARENT|Lucía Fernanda Vela]], expresó preocupación porque [[CHILD|Emilio]] usa pocas combinaciones de palabras y se frustra cuando otras personas no entienden sus pedidos. El papá, [[PARENT|Tomás Andrés Castañeda]], indicó que el niño suele tomar la mano de un adulto para llevarlo hacia un objeto. Ambos describieron avances recientes en gestos, imitación y participación durante canciones. Solicitaron orientación para apoyar la comunicación sin convertir cada interacción familiar en una tarea de repetición.
+
+Según el relato familiar, el embarazo transcurrió con controles regulares y sin exposición conocida a sustancias. El nacimiento ocurrió a las [[KEEP|38 semanas y 4 días]] de gestación en el [[HOSPITAL|Hospital Maternoinfantil Ladera Clara]]. El peso al nacer fue de [[KEEP|3.120 g]]. Las puntuaciones de Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] al quinto minuto. La familia informó que el niño permaneció con su madre y no necesitó atención intensiva neonatal.
+
+La familia recordó que [[CHILD|Emilio]] recibió alimentación combinada durante los primeros meses. No describió dificultades persistentes de succión, crecimiento o aceptación de alimentos. Actualmente come preparaciones familiares con distintas texturas y bebe de un vaso abierto con supervisión. La mamá informó que mastica alimentos sólidos y no presenta tos habitual durante las comidas. Estas afirmaciones provienen de la entrevista. La evaluación actual no incluyó un examen instrumental de deglución ni una observación completa de alimentación.
+
+El pediatra, doctor [[PROVIDER|Raúl Esteban Mena]], atiende al niño en el [[HOSPITAL|Hospital Comunitario Monte de Niebla]]. La familia refirió antecedentes de otitis y congestión estacional, sin hospitalizaciones posteriores al nacimiento. También informó que no recibe medicamentos diarios y no tiene alergias conocidas. El expediente entregado contenía una nota pediátrica fechada el [[DATE|20 de febrero de 2026]]. Esa nota recomendaba evaluar el lenguaje y revisar la audición por las preocupaciones familiares sobre la respuesta a instrucciones.
+
+La audióloga, [[PROVIDER|Carolina Inés Valdés]], realizó una evaluación en el [[HOSPITAL|Hospital Comunitario Monte de Niebla]] el [[DATE|27 de febrero de 2026]]. El resumen disponible describía respuestas auditivas compatibles con acceso suficiente al habla durante esa consulta. La familia no aportó el registro completo de mediciones. Por ello, este informe no interpreta umbrales específicos ni sustituye el seguimiento auditivo. Se recomienda mantener la vigilancia indicada por el equipo médico, especialmente si reaparecen molestias de oído.
+
+Los hitos motores se describieron como funcionales para la participación cotidiana. La familia indicó que el niño empezó a caminar a los [[KEEP|14 meses]] y dijo sus primeras palabras reconocibles cerca de los [[KEEP|19 meses]]. A los [[KEEP|26 meses]], combinaba ocasionalmente una palabra con un gesto para solicitar ayuda. No se informó pérdida de habilidades adquiridas. El sueño puede interrumpirse cuando presenta congestión, aunque los cuidadores no identificaron una relación constante entre el descanso y sus dificultades de comunicación.
+
+En el hogar viven los padres, la hermana [[SIBLING|Sol Castañeda Vela]], de [[KEEP|6;4]], y el hermano [[SIBLING|Nicolás Castañeda Vela]], de [[KEEP|9;1]]. La abuela materna, [[FAMILY|Irene Beatriz Vela]], cuida al niño algunas tardes. La niñera, [[FAMILY|Paula Noemí Rivas]], participa en el cuidado cuando cambian los turnos laborales. La familia tiene un perro llamado [[PET|Tilo]], que suele aparecer en los juegos de petición y en las conversaciones sobre las rutinas de casa.
+
+La mamá trabaja en [[ORG|Empaques del Sendero Azul]] y el papá trabaja en [[ORG|Mantenimiento Ribera de Cedros]]. Sus horarios influyen en quién acompaña las sesiones. La familia señaló que puede practicar estrategias durante el desayuno, el baño y la preparación para dormir. No solicitó actividades escritas extensas. Prefiere ejemplos breves que todos los cuidadores puedan aplicar de la misma manera y que respeten el ritmo del niño cuando está cansado o necesita una pausa.
+
+El español es la lengua principal del hogar. Los padres y la abuela hablan español con [[CHILD|Emilio]], mientras que sus hermanos alternan español e inglés durante algunos juegos. La familia estima una exposición aproximada de [[KEEP|75%]] al español y [[KEEP|25%]] al inglés. Estas proporciones son estimaciones familiares y no provienen de un registro diario. El niño escucha inglés principalmente en el centro infantil, en canciones y en interacciones con otros niños.
+
+La maestra, [[TEACHER|Adriana Celeste Pardo]], y la auxiliar, [[TEACHER|Verónica Luz Treviño]], describieron que el niño participa mejor cuando ve una demostración. En el [[DAYCARE|Centro Infantil Semillas del Arroyo]], suele jugar junto a [[PEER|Leo Matías Ferrer]] y [[PEER|Inés Abril Duarte]]. Las docentes informaron que observa sus acciones e imita algunas palabras durante actividades conocidas. Cuando necesita un objeto, a veces señala y vocaliza antes de buscar ayuda de una persona adulta.
+
+La familia recibe apoyo de la [[AGENCY|Oficina de Nutrición Maternoinfantil de Vallebruma]], conocida como [[AGENCY|WIC-VB]]. También consultó a la [[AGENCY|Red de Preparación Escolar del Valle de Bruma]], abreviada [[AGENCY|RPE-VB]], sobre opciones educativas futuras. La tía, [[FAMILY|Celia Mar Vela]], puede ofrecer transporte desde [[PLACE|Loma del Junco]]. La vecina, [[PERSON|Estela Paz Arce]], figura como contacto alternativo en [[PHONE|252-555-0184]], pero no participó en la evaluación ni aportó información clínica.
+
+La evaluación se distribuyó entre el hogar y el centro infantil. La primera visita comenzó a las [[TIME|09:00]] y terminó a las [[TIME|10:15]]. La segunda comenzó a las [[TIME|10:30]] y terminó a las [[TIME|11:30]]. Se ofrecieron descansos y cambios de actividad según la atención del niño. La mamá permaneció durante la visita domiciliaria. La maestra participó en la observación escolar y ayudó a identificar rutinas que resultaban familiares.
+
+La siguiente tabla registra las visitas completadas y la propuesta inicial de intervención. Las horas corresponden al horario local de Carolina del Norte. La coordinadora confirmará la disponibilidad familiar antes de incorporar las sesiones propuestas al plan de servicios.
+
+| Día y fecha | Actividad | Inicio | Finalización | Lugar | Estado |
+|---|---|---|---|---|---|
+| Lunes, [[DATE|9 de marzo de 2026]] | Evaluación inicial | [[TIME|09:00]] | [[TIME|10:15]] | Hogar en [[PLACE|Santa Bruma]] | Completada |
+| Miércoles, [[DATE|11 de marzo de 2026]] | Observación y evaluación complementaria | [[TIME|10:30]] | [[TIME|11:30]] | [[DAYCARE|Centro Infantil Semillas del Arroyo]] | Completada |
+| Martes, [[DATE|17 de marzo de 2026]] | Intervención con cuidador | [[TIME|09:15]] | [[TIME|10:00]] | Hogar en [[PLACE|Santa Bruma]] | Propuesta |
+| Jueves, [[DATE|19 de marzo de 2026]] | Intervención en rutina grupal | [[TIME|10:00]] | [[TIME|10:45]] | [[DAYCARE|Centro Infantil Semillas del Arroyo]] | Propuesta |
+| Viernes, [[DATE|20 de marzo de 2026]] | Revisión con coordinación | [[TIME|13:00]] | [[TIME|13:30]] | [[AGENCY|CDSA-VB]], en [[PLACE|Santa Bruma]] | Propuesta |
+
+**Procedimientos y resultados**
+
+La evaluación incluyó entrevista, revisión de documentos, observación de juego, muestra de lenguaje y tareas estructuradas. Se utilizó [[KEEP|PLS-5 Spanish]] para explorar habilidades receptivas y expresivas. También se realizó análisis descriptivo con [[KEEP|SALT]] y una observación clínica del habla. Ningún resultado aislado se consideró suficiente para explicar el funcionamiento bilingüe. Se compararon las respuestas con la información familiar, la participación escolar y el desempeño del niño cuando recibió apoyos adecuados.
+
+Durante el juego, [[CHILD|Milo]] exploró vehículos, animales y una cocina de juguete. Mostró interés por las acciones de alimentar, esconder y encontrar objetos. Compartió la mirada con la evaluadora para continuar actividades agradables y aceptó turnos breves. Cuando una tarea perdió su interés, apartó el material o buscó a su mamá. Estas conductas permitieron reconocer sus preferencias y ajustar la presentación, sin interpretar cada rechazo como falta de comprensión.
+
+La aplicación de [[KEEP|PLS-5 Spanish]] comenzó con los procedimientos previstos para las tareas seleccionadas. Después se añadieron modelos y oportunidades de enseñanza para examinar la respuesta al apoyo. Las ayudas posteriores no se incorporaron como respuestas independientes en la puntuación estandarizada. Las puntuaciones siguientes son datos sintéticos del caso. Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]] y se presentan como rangos completos.
+
+| Instrumento y área | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|2;2]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69–82]] | [[KEEP|1;11]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–82]] | [[KEEP|2;0]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]], referencia descriptiva adicional | No corresponde | No corresponde | No corresponde | [[KEEP|2;0–2;4]] |
+
+El rango adicional refleja habilidades observadas durante actividades complementarias y no constituye una puntuación normativa nueva. Las edades equivalentes describen tareas del instrumento; no representan una edad global del niño. La interpretación también considera que la exposición a cada lengua varía según la persona y el entorno. Las necesidades identificadas aparecieron en ambos contextos lingüísticos, aunque el repertorio de palabras y la familiaridad con las instrucciones no fueron iguales.
+
+En comprensión, siguió instrucciones familiares de una acción en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], cuando el objeto estaba visible. Identificó objetos nombrados en [[KEEP|7/10]] oportunidades, equivalente a [[KEEP|70%]]. La ejecución disminuyó cuando debía recordar una instrucción sin apoyo visual o cambiar de una actividad preferida. Las respuestas mejoraron con [[KEEP|claves mínimas]] y una pausa suficiente. No se exigió repetir verbalmente la instrucción para demostrar comprensión.
+
+Las instrucciones de acciones relacionadas se completaron en [[KEEP|3/5]] oportunidades, equivalente a [[KEEP|60%]], con [[KEEP|claves moderadas]]. La selección de imágenes según una acción alcanzó [[KEEP|6/10]], equivalente a [[KEEP|60%]]. Las preguntas sobre ubicación resultaron más difíciles cuando el contexto no ofrecía una pista clara. Se observó mejor desempeño con objetos reales que con láminas. Esta diferencia orienta la intervención hacia rutinas concretas antes de introducir tareas menos contextualizadas.
+
+En expresión, el niño comunicó pedidos, rechazo, comentarios y búsqueda de atención mediante palabras, gestos y vocalizaciones. Produjo [[KEEP|«más agua»]], [[KEEP|«otro carro»]] y [[KEEP|«no mío»]] durante el juego. Para solicitar ayuda dijo [[KEEP|«abre»]] después de un modelo. Las combinaciones espontáneas fueron menos frecuentes que las palabras aisladas. La dificultad principal fue ampliar el mensaje cuando el interlocutor necesitaba información adicional para comprender qué objeto o acción quería.
+
+La muestra incluyó [[KEEP|50]] enunciados analizables y una longitud media de [[KEEP|1,6 palabras por enunciado]]. Se registraron omisiones gramaticales mediante [[KEEP|[EW]]] cuando correspondía al sistema de análisis utilizado. Los cambios entre español e inglés se describieron por separado y no se contaron automáticamente como errores. Se conservaron producciones como [[KEEP|«car go»]] y [[KEEP|«más juice»]] para documentar los recursos disponibles. La muestra fue breve y dependió de las actividades ofrecidas.
+
+La inteligibilidad se estimó en [[KEEP|55%]] para la evaluadora durante enunciados espontáneos sin contexto inmediato. Con contexto compartido aumentó a [[KEEP|75%]]. La familia describió una comprensión mayor durante rutinas conocidas. Estas cifras son estimaciones clínicas, no resultados de una prueba articulatoria estandarizada. Se escucharon consonantes como [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/b/]], [[KEEP|/t/]], [[KEEP|/d/]] y [[KEEP|/n/]], con variación entre palabras y situaciones.
+
+En algunas palabras se observó sustitución de [[KEEP|/k/]] por [[KEEP|[t]]] y reducción de secuencias complejas. La producción de [[KEEP|/ɾ/]] fue variable. Apareció [[KEEP|[w]]] en una aproximación aislada durante imitación. Estos hallazgos requieren seguimiento y una muestra más amplia antes de formular conclusiones específicas sobre los sonidos del habla. La observación orofacial no mostró una limitación evidente para las tareas realizadas, aunque no permitió valorar todas las funciones con cooperación constante.
+
+Una actividad utilizó una imagen del sol y la palabra objetivo [[KEEP|«sol»]]. Esa palabra coincide, salvo la mayúscula, con el nombre de la hermana [[SIBLING|Sol]]. Cuando la tarea se refería a llamar a su hermana, el objetivo fue «[[SIBLING|Sol]]». En ese contexto, el niño dijo «[[SIBLING|Sol]] ven». Las producciones con nombres propios se registraron como referencias personales. La actividad permitió distinguir el vocabulario de una imagen y el uso comunicativo de un nombre familiar.
+
+Durante el juego con animales, el niño dijo «[[PET|Tilo]] come» y miró hacia la puerta. Más tarde llamó a su compañero con «[[PEER|Leo]] mira». La maestra señaló que esa combinación aparece cuando quiere compartir un juguete. Estos ejemplos muestran que puede combinar un nombre con una acción en situaciones motivadoras. No demuestran por sí solos que use la misma estructura con distintos interlocutores, verbos o propósitos.
+
+La evaluación dinámica exploró el aprendizaje mediante modelos breves, espera y expansión. La imitación de combinaciones aumentó de [[KEEP|2/10]] a [[KEEP|7/10]] oportunidades después de enseñanza, equivalente a un cambio de [[KEEP|20%]] a [[KEEP|70%]]. El niño necesitó [[KEEP|claves moderadas]] al inicio y [[KEEP|claves mínimas]] en algunas repeticiones posteriores. La mejoría indica respuesta al apoyo dentro de la sesión. Todavía se debe comprobar la conservación y generalización de esas habilidades.
+
+En comunicación social, inició intercambios para obtener ayuda y compartió interés durante juegos sencillos. Respondió mejor cuando el adulto siguió su actividad y redujo las preguntas consecutivas. No se observó una muestra suficiente de interacción con pares para describir todas sus habilidades sociales. La familia y las docentes aportaron ejemplos funcionales, pero esos relatos no sustituyen una observación prolongada. Se recomienda revisar la participación en distintos momentos del día y con diferentes compañeros.
+
+**Impresiones y recomendaciones**
+
+El perfil sintético es compatible con dificultades mixtas del lenguaje receptivo y expresivo. Se consigna [[KEEP|F80.2]] como código diagnóstico del caso. Las necesidades afectan la comprensión de mensajes menos apoyados y la elaboración de combinaciones funcionales. La exposición bilingüe forma parte de la historia del niño y debe orientar la evaluación. La impresión integra las limitaciones de la muestra, las puntuaciones disponibles y las preocupaciones coincidentes entre hogar y centro infantil.
+
+Se recomienda iniciar intervención del lenguaje con participación de los cuidadores y coordinación entre entornos. La propuesta contempla sesiones distribuidas según la tabla y una revisión inicial del progreso. El procedimiento de evaluación se identifica con [[KEEP|92523]]. La intervención individual se identifica con [[KEEP|92507]]. Los modificadores previstos en esta simulación son [[KEEP|GN]] y [[KEEP|EP]], sujetos a la configuración del registro ficticio. Los códigos documentan servicios; no indican por sí mismos frecuencia ni necesidad clínica.
+
+1. Incorporar estrategias de [[KEEP|Hanen]] durante rutinas elegidas por la familia. Seguir el interés del niño, esperar una respuesta y ampliar su mensaje sin exigir repetición constante. Considerar [[KEEP|PECS]] solo si la evaluación funcional posterior identifica una necesidad de comunicación apoyada que justifique ese programa.
+
+2. Redactar el resultado del IFSP [[KEEP|1]] para aumentar pedidos y comentarios mediante combinaciones funcionales. Proponer [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|claves mínimas]]. Revisar el criterio en actividades reales antes de fijarlo como meta definitiva.
+
+3. Redactar el resultado del IFSP [[KEEP|2]] para comprender instrucciones relacionadas con las rutinas. Usar objetos, gestos y demostraciones, y retirar el apoyo de forma gradual. Registrar el desempeño independiente y el desempeño con [[KEEP|claves moderadas]] por separado.
+
+4. Mantener el español en las interacciones familiares y ofrecer inglés en contextos naturales. Compartir ejemplos entre cuidadores y docentes. Revisar el progreso el [[DATE|24 de abril de 2026]] y preparar la transición con la [[SCHOOL|Escuela Preescolar Mirador de las Garzas]].
+
+La familia expresó acuerdo con iniciar apoyos centrados en actividades cotidianas. La coordinación revisará los horarios y el plan con los cuidadores. La evaluadora entregará un resumen de estrategias en español y documentará los cambios observados. La firma corresponde a [[PROVIDER|Mariana Elvira Soria]], MS, CCC-SLP, de [[EMPLOYER|Terapias Infantiles Puente de Luceros, PLLC]], con fecha [[DATE|13 de marzo de 2026]].

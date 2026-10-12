@@ -1,0 +1,58 @@
+Document Type: Daily Speech-Language Therapy Note
+Client: [[CHILD|Elian Varela Soto]]
+Preferred Name: [[CHILD|Eli]]
+DOB: [[DATE|August 9, 2022]]
+Age: [[KEEP|4;2]]
+Service Date: [[DATE|October 13, 2026]]
+Session Time: [[TIME|9:05 AM]]–[[TIME|9:50 AM]]
+Location: [[DAYCARE|Willow Lantern Learning House]], [[PLACE|Fernhaven]], North Carolina
+Home Address: [[PLACE|418 Mossbell Lane]], [[PLACE|Fernhaven]], North Carolina [[PLACE|27864]]
+Record ID: [[ID|SL-604821]]
+Medicaid ID: [[MEDICAID_ID|847261935Q]]
+Authorization: [[ID|AUTH-773604]]
+Clinician: [[PROVIDER|Marisol Arenas]], MS, CCC-SLP, bilingual English/Spanish
+Employer: [[EMPLOYER|Bright Acorn Pediatric Communication]]
+Phone: [[PHONE|919-555-0146]]
+Email: [[EMAIL|marenas@brightacorn.example]]
+Portal: [[URL|https://brightacorn.example/session]]
+CDSA Office: [[AGENCY|Oficina de la Agencia de Servicios del Desarrollo Infantil de la Región del Arroyo Claro]]; [[AGENCY|CDSA Arroyo Claro]]
+Service Coordinator: [[PROVIDER|Nadia Beltrán]]
+Coordinator Agency: [[AGENCY|Agencia Comunitaria de Coordinación de Servicios para Familias y Niños del Condado de Brisacampo]]; [[AGENCY|ACCS Brisacampo]]
+Treatment CPT: [[KEEP|92507]]
+Evaluation CPT on File: [[KEEP|92523]]
+Discipline Modifier: [[KEEP|GN]]
+Diagnosis: [[KEEP|F80.2]]
+
+Session Schedule
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Tuesday | [[TIME|9:05 AM]] | [[TIME|9:50 AM]] | [[DAYCARE|Willow Lantern Learning House]] |
+| Thursday | [[TIME|2:10 PM]] | [[TIME|2:55 PM]] | Home, [[PLACE|418 Mossbell Lane]] |
+| Friday | [[TIME|10:00 AM]] | [[TIME|10:30 AM]] | [[AGENCY|CDSA Arroyo Claro]] |
+
+Subjective
+
+Mother [[PARENT|Renata Soto]] attended with interpreter [[PROVIDER|Irene Castañeda]]. Father [[PARENT|Dario Varela]] supplied a written home update. Sister [[SIBLING|Alma Varela Soto]] and grandmother [[FAMILY|Celia Soto]] practiced turn-taking during breakfast. The child reportedly said “[[PET|Pipo]] run” while watching the family dog. Mother reported fewer frustrated gestures and more spontaneous requests.
+
+Ms. [[TEACHER|Tessa Quill]] described successful play with classmates [[PEER|Mila Corven]] and [[PEER|Jonah Pell]]. Neighbor [[PERSON|Ansel Reed]] delivered the communication notebook. Mother requested appointments compatible with her shifts at [[ORG|Cedar Finch Packaging]]. No new health concerns were reported.
+
+Objective
+
+The clinician used English and Spanish during play, following the child’s language choices. Under IFSP outcome [[KEEP|2]], [[CHILD|Elian]] followed related directions in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. Requests containing an action and object occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. Modeled targets included [[KEEP|"open box"]], [[KEEP|"more bubbles"]], and [[KEEP|"quiero agua"]]. A spontaneous production, [[KEEP|"me want ball"]], was recorded with the SALT code [[KEEP|[EW]]].
+
+The clinician used [[KEEP|Hanen]] strategies and a [[KEEP|PECS]] choice board. During brief speech sampling, [[KEEP|/k/]] appeared in [[KEEP|4/10]] trials with [[KEEP|max cues]]. Substitution of [[KEEP|[w]]] for [[KEEP|/ɾ/]] occurred in Spanish words. These observations informed modeling; articulation was not the primary treatment focus.
+
+The evaluation dated [[DATE|September 22, 2026]] documented [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|76]]. Birth history listed gestational age [[KEEP|38 weeks]], birth weight [[KEEP|6 lb 9 oz]], and Apgar scores [[KEEP|8]] and [[KEEP|9]].
+
+Assessment
+
+Participation improved when the clinician paused, offered choices, and repeated language within familiar routines. Understanding exceeded spontaneous sentence length today. Performance reflects supported learning within this session and should not be generalized to independent classroom performance. The interpreter clarified caregiver comments without answering tasks for the child.
+
+OT [[PROVIDER|Keira Nolasco]] recommended stable seating. PT [[PROVIDER|Owen Talven]] confirmed that the current floor position supported access to materials. Pediatrician Dr. [[PROVIDER|Lena Mirett]] at [[HOSPITAL|Moonbrook Children’s Hospital]] requested the next progress summary. No summary was sent today.
+
+Plan
+
+Continue the listed schedule and IFSP goal [[KEEP|2]]. Practice choices during snack and dressing. Fade verbal models before adding new vocabulary. Coordinate attendance with [[PROVIDER|Nadia Beltrán]] through [[AGENCY|ACCS Brisacampo]]. Review progress on [[DATE|November 10, 2026]]. Mother demonstrated the pause-and-model routine and agreed to record examples in both languages.
+
+Caregiver education emphasized responding to meaning before correcting form. The clinician modeled one expansion after each request and allowed additional processing time. Classroom staff will offer the same materials during free play. Next session will compare familiar and unfamiliar directions, document spontaneous requests, and assess whether visual supports can be reduced. The family will report which routines support participation.

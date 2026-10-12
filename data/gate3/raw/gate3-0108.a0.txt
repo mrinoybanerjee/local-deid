@@ -1,0 +1,230 @@
+PROGRAMA DE CAROLINA DEL NORTE PARA BEBÉS Y NIÑOS PEQUEÑOS  
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA — IFSP
+
+[X] Revisión semestral  [ ] Plan inicial  [ ] Revisión extraordinaria  
+[X] Documento completamente ficticio para pruebas de desidentificación  
+[X] Visita en el hogar  [ ] Visita en guardería  [ ] Videollamada
+
+Fecha de reunión: [[DATE|14 de octubre de 2026]]  
+Fecha del IFSP inicial: [[DATE|14 de abril de 2026]]  
+Próxima revisión prevista: [[DATE|14 de abril de 2027]]  
+Expediente: [[ID|NC-ITP-026-41873]]  
+Identificador infantil: [[ID|INF-604829]]  
+Medicaid: [[MEDICAID_ID|731904628Q]]
+
+Todos los datos personales, lugares, organizaciones y resultados de este documento son inventados. Los nombres de instrumentos clínicos se incluyen para probar su conservación.
+
+INFORMACIÓN DEL NIÑO Y DE LA FAMILIA
+
+Nombre completo: [[CHILD|Mateo del Río-Salcedo]]  
+Nombre que usa la familia: [[CHILD|Teo]]  
+Iniciales usadas en registros anteriores: [[CHILD|M. R.-S.]]  
+Fecha de nacimiento: [[DATE|9 de julio de 2024]]  
+Edad actual: [[KEEP|27 meses]]  
+Idioma del hogar: español; exposición ocasional al inglés.
+
+Madre: [[PARENT|Guadalupe de la Cruz Mendoza]], conocida como [[PARENT|Lupita]].  
+Padre: [[PARENT|Jesús del Río-Salcedo]], conocido como [[PARENT|Chuy]].  
+Hermana: [[SIBLING|Elena del Río-Salcedo]], llamada [[SIBLING|Elenita]], de [[KEEP|6 años]].  
+Abuela materna: [[FAMILY|Rosa de la Cruz Aguilar]].  
+Tío materno: [[FAMILY|José de la Cruz Mendoza]], llamado [[FAMILY|Pepe]].  
+Cuidadora ocasional: [[FAMILY|Maribel Soto-Vargas]].  
+Mascota del hogar: un perro llamado [[PET|Nube]].
+
+Domicilio: [[PLACE|1846 Calle del Laurel, apartamento 3B]], [[PLACE|Villa Lucerna]], Carolina del Norte, [[PLACE|27594]].  
+Condado: [[PLACE|Condado de Brisaverde]].  
+Teléfono principal: [[PHONE|919-555-0146]].  
+Teléfono alternativo: [[PHONE|984-555-0172]].  
+Correo familiar: [[EMAIL|familia.delrio@example.com]].
+
+[X] Ambos padres participan en las decisiones.  
+[X] La familia solicita documentos y explicaciones en español.  
+[ ] La familia solicita interpretación adicional.
+
+La abuela y la cuidadora pueden recibir instrucciones sobre las rutinas con autorización de los padres. La familia prefiere mensajes breves antes de una llamada. No desea que se comenten resultados clínicos durante los cambios de turno laboral.
+
+COORDINACIÓN Y PARTICIPANTES
+
+Coordinadora de servicios: [[PROVIDER|Verónica Pardo-Lemus]].  
+Oficina CDSA: [[AGENCY|CDSA de Villa Lucerna y Brisaverde]].  
+Dirección de la oficina: [[PLACE|620 Avenida de los Olmos, oficina 210]], [[PLACE|Villa Lucerna]], Carolina del Norte, [[PLACE|27594]].  
+Teléfono: [[PHONE|919-555-0128]].  
+Correo: [[EMAIL|vpardo@cdsa-lucerna.example.com]].
+
+Profesional que redacta el documento: [[PROVIDER|Andrea Cifuentes-Robles]], patóloga bilingüe del habla y del lenguaje, especializada en pediatría.  
+Empresa de la profesional: [[EMPLOYER|Habla y Juego Pediátrico de Carolina]].  
+Número profesional ficticio: [[ID|SLP-NC-084621]].  
+Correo: [[EMAIL|acifuentes@hablayjuego.example.com]].  
+Página de información: [[URL|https://hablayjuego.example.com/familias]].
+
+[X] Madre  [X] Padre  [X] Coordinadora  [X] Patóloga del habla y del lenguaje  
+[X] Abuela, durante parte de la reunión  [ ] Intérprete externo
+
+Pediatra: doctora [[PROVIDER|Nadia Solís-Peña]], de [[HOSPITAL|Centro Pediátrico Hospitalario Los Cedros]].  
+Terapeuta ocupacional consultora: [[PROVIDER|Samuel Ortega-Vidal]].  
+La familia autorizó compartir este resumen con el pediatra y la coordinadora.
+
+CONTEXTO LABORAL Y APOYOS
+
+La madre trabaja algunos días en la tienda [[ORG|Silver Acorn Store]], que identifica en español como [[ORG|Tienda Bellota Plateada]]. También cubre turnos en el restaurante [[ORG|Blue Apron Restaurant]], llamado [[ORG|Restaurante Delantal Azul]] por la familia. Los fines de semana acepta trabajos del servicio de limpieza [[ORG|Bright Nest Cleaning Service]], registrado en sus notas como [[ORG|Servicio de Limpieza Nido Brillante]].
+
+El padre trabaja principalmente en la planta [[ORG|River Finch Packaging Plant]], denominada [[ORG|Planta de Empaque Pinzón del Río]]. Durante temporadas específicas ayuda en la granja [[ORG|Amber Field Farm]], llamada [[ORG|Granja Campo Ámbar]]. También recibe trabajo ocasional de la compañía de construcción [[ORG|Cedar Lantern Construction Company]], que la familia llama [[ORG|Compañía de Construcción Farol de Cedro]].
+
+Estos nombres bilingües representan los mismos seis lugares de trabajo. Los turnos cambian cada semana. La coordinadora confirmará la visita con dos días de anticipación. La familia puede practicar durante actividades habituales, pero no puede reservar un periodo largo todos los días.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La madre [[PARENT|Guadalupe de la Cruz Mendoza]] expresó: “Quiero entender lo que necesita antes de que se enoje. Muchas veces me lleva de la mano, pero no sé si quiere comer, salir o buscar un juguete. Me gustaría que pudiera pedir ayuda conmigo y con su abuela”.
+
+El padre [[PARENT|Jesús del Río-Salcedo]] comentó: “Cuando llego del trabajo quiero jugar y conversar un poquito. No necesito que diga todo perfecto. Quiero que me mire, me muestre lo que encontró y tenga una manera de decir que no”.
+
+La abuela [[FAMILY|Rosa de la Cruz Aguilar]] agregó: “Yo puedo esperar y darle opciones. Necesito ejemplos sencillos para saber cuándo ayudar y cuándo dejar que intente”.
+
+Prioridades acordadas:
+
+[X] Pedir objetos, ayuda y descanso.  
+[X] Participar en comidas y juegos familiares.  
+[X] Reducir la frustración durante cambios de actividad.  
+[X] Compartir libros y canciones en español.  
+[ ] Practicar pronunciación mediante repetición obligatoria.
+
+La familia desea mantener el español. La profesional explicó que las estrategias pueden incorporarse al idioma que cada adulto usa con mayor comodidad.
+
+ANTECEDENTES Y EVALUACIÓN
+
+Según el relato familiar ficticio, el embarazo terminó a las [[KEEP|39 semanas y 1 día]]. El peso al nacer fue de [[KEEP|3.180 g]]. Los puntajes Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. El nacimiento ocurrió en [[HOSPITAL|Hospital Maternoinfantil Valle de los Sauces]].
+
+Evaluación inicial: [[DATE|8 de abril de 2026]].  
+Observación para esta revisión: [[DATE|7 de octubre de 2026]].  
+Control auditivo informado: [[DATE|19 de agosto de 2026]].
+
+La familia informó que el control auditivo no identificó dificultades. Este resumen no contiene el informe original. La coordinadora solicitará una copia con la autorización registrada.
+
+Se emplearon entrevista, observación de rutinas, muestra de comunicación y [[KEEP|PLS-5 Spanish]]. En [[KEEP|Auditory Comprehension]], la puntuación estándar fue [[KEEP|80]], con percentil [[KEEP|9]] e intervalo de confianza [[KEEP|74-88]]. En [[KEEP|Expressive Communication]], la puntuación estándar fue [[KEEP|78]], con percentil [[KEEP|7]] e intervalo de confianza [[KEEP|72-86]]. En [[KEEP|Total Language]], la puntuación estándar fue [[KEEP|79]], con percentil [[KEEP|8]] e intervalo de confianza [[KEEP|73-87]].
+
+La [[KEEP|Rossetti]] apoyó la descripción funcional. En [[KEEP|Language Comprehension]], las habilidades observadas se distribuyeron entre equivalentes de edad de [[KEEP|21–24 meses]]. En [[KEEP|Language Expression]], se distribuyeron entre [[KEEP|18–21 meses]]. Estos rangos no representan una edad global ni describen todas las capacidades del niño.
+
+Un informe ficticio anterior de [[KEEP|Bayley]] consignó una puntuación escalar de [[KEEP|8]] en [[KEEP|Cognitive]] y una puntuación compuesta de [[KEEP|90]]. Se revisaron los nombres [[KEEP|Goldman-Fristoe]] y [[KEEP|Peabody]] como posibles instrumentos posteriores. No se administraron y no se les atribuyen resultados.
+
+La muestra funcional registró solicitudes independientes en [[KEEP|4/10]] oportunidades. Hubo respuestas a instrucciones familiares en [[KEEP|7/10]] oportunidades. La profesional interpretó los resultados junto con el contexto lingüístico y las observaciones familiares.
+
+RUTINAS DIARIAS
+
+Despertar, aproximadamente a las [[TIME|7:00 a. m.]]: [[CHILD|Mateo]] busca a un adulto y lleva su vaso hacia la cocina. Se comunica mediante gestos y algunas palabras. La familia puede ofrecer dos opciones visibles y esperar antes de responder.
+
+Desayuno, alrededor de las [[TIME|7:30 a. m.]]: acepta alimentos habituales y señala cuando desea más. Producciones observadas: «[[KEEP|agua]]», «[[KEEP|más]]» y «[[KEEP|pan]]». Cuando un recipiente está cerrado, puede empujarlo hacia el adulto. Esa acción se aprovechará para modelar «[[KEEP|ayuda]]».
+
+Juego en casa, hacia las [[TIME|9:00 a. m.]]: prefiere vehículos, bloques y recipientes. Su hermana [[SIBLING|Elenita]] suele construir caminos. El adulto puede comentar acciones, ofrecer turnos y evitar preguntas continuas.
+
+Comida, cerca de las [[TIME|12:15 p. m.]]: la abuela organiza una secuencia breve de lavado de manos, asiento y alimentos. El objetivo consiste en anticipar la rutina con objetos y gestos. No se exige una palabra para recibir comida.
+
+Descanso, alrededor de la [[TIME|1:00 p. m.]]: la familia utiliza un libro y una canción. Si no quiere dormir, puede elegir una actividad tranquila. La palabra objetivo será «[[KEEP|descanso]]».
+
+Baño y preparación para dormir, desde las [[TIME|7:15 p. m.]]: disfruta verter agua. El adulto puede modelar «[[KEEP|dentro]]», «[[KEEP|fuera]]» y «[[KEEP|terminé]]». Se harán pausas breves para permitir una respuesta voluntaria.
+
+ESCUELA, GUARDERÍA Y OTRAS AGENCIAS
+
+La hermana [[SIBLING|Elena del Río-Salcedo]] asiste al [[SCHOOL|Distrito Escolar de Brisaverde]], en la [[SCHOOL|Escuela Primaria Arroyo de Cristal]]. Su maestra es la señora [[TEACHER|Patricia León-Campos]]. La familia solicita que las visitas no coincidan con la salida escolar.
+
+[[CHILD|Teo]] asiste dos mañanas por semana a [[DAYCARE|Guardería Pasitos de Niebla]]. Su maestra, [[TEACHER|Diana Moya-Ríos]], describe interés por las canciones y los juegos de movimiento. La auxiliar [[TEACHER|Carmen Vela-Santos]] apoyará las mismas señales para pedir ayuda.
+
+Compañeros habituales: [[PEER|Juan Nicolás Perea]], llamado [[PEER|Juanito]]; [[PEER|Lucía Funes-Lago]]; y [[PEER|Tomás Vera del Monte]]. Durante una observación, [[CHILD|Mateo]] dijo: “[[PEER|Juanito]] ven”. Esta producción se registró como una invitación espontánea.
+
+Agencias vinculadas:
+
+[X] [[AGENCY|WIC de Brisaverde]]: apoyo nutricional familiar.  
+[X] [[AGENCY|Smart Start de Villa Lucerna]]: préstamo de libros y juguetes.  
+[X] [[AGENCY|Departamento de Servicios Sociales de Brisaverde]]: orientación sobre transporte.  
+[ ] Otra agencia pendiente de identificar.
+
+La persona de contacto para transporte es [[PERSON|Adela Torres-Nava]]. La coordinadora verificará las opciones disponibles antes de programar una evaluación fuera del hogar.
+
+RESULTADO [[KEEP|1]]: COMUNICACIÓN PARA PEDIR Y RECHAZAR
+
+Prioridad familiar: comprender las necesidades durante comidas y juego.
+
+Para [[DATE|14 de enero de 2027]], [[CHILD|Mateo del Río-Salcedo]] comunicará una petición o un rechazo mediante palabra, gesto o combinación, en [[KEEP|8/10]] oportunidades naturales, durante tres rutinas, con [[KEEP|ayuda mínima (min cues)]].
+
+Situación inicial: solicitudes independientes en [[KEEP|4/10]] oportunidades y necesidad frecuente de [[KEEP|ayuda moderada (mod cues)]].
+
+Estrategias: colocar opciones al alcance visual; comentar lo que ocurre; esperar; aceptar gestos; ampliar una respuesta con una palabra adicional. Se incorporarán estrategias de [[KEEP|Hanen]]. No se condicionará el acceso a comida, consuelo o necesidades básicas a una producción verbal.
+
+Palabras modelo: «[[KEEP|más]]», «[[KEEP|no]]», «[[KEEP|ayuda]]», «[[KEEP|abre]]» y «[[KEEP|agua]]». La madre practicará durante el desayuno. El padre practicará durante el juego. La abuela registrará ejemplos breves.
+
+Medición: muestra semanal de oportunidades, respuesta y apoyo necesario. La familia puede describir ejemplos oralmente sin completar una hoja diaria.
+
+RESULTADO [[KEEP|2]]: PARTICIPACIÓN EN TURNOS DE JUEGO
+
+Para [[DATE|14 de febrero de 2027]], [[CHILD|Teo]] mantendrá tres intercambios con otra persona en [[KEEP|3 de 5]] oportunidades, con [[KEEP|ayuda mínima (min cues)]].
+
+Situación inicial: completa un intercambio y se aleja cuando el adulto dirige demasiado la actividad. Con [[KEEP|ayuda moderada (mod cues)]], acepta turnos breves en juegos de vehículos.
+
+Estrategias: seguir su interés, imitar una acción, ofrecer un objeto similar y hacer una pausa. La hermana puede participar si desea hacerlo. El adulto modelará «[[KEEP|mi turno]]», «[[KEEP|tu turno]]» y «[[KEEP|va]]».
+
+En la guardería se usarán canciones conocidas y juegos de rodar una pelota. La maestra [[TEACHER|Diana Moya-Ríos]] registrará una observación semanal. Los compañeros podrán participar voluntariamente.
+
+Medición: número de intercambios y nivel de apoyo. El equipo buscará participación en el hogar y en la guardería.
+
+RESULTADO [[KEEP|3]]: COMPRENSIÓN DURANTE TRANSICIONES
+
+Para [[DATE|14 de marzo de 2027]], [[CHILD|Mateo]] seguirá instrucciones familiares de un paso en [[KEEP|80 %]] de las oportunidades, con [[KEEP|ayuda mínima (min cues)]], durante recogida, lavado de manos y preparación para salir.
+
+Situación inicial: responde en [[KEEP|7/10]] oportunidades cuando el objeto está visible. La respuesta disminuye cuando hay ruido o varias instrucciones consecutivas.
+
+Estrategias: decir una instrucción breve, mostrar el objeto pertinente y esperar. Se anticipará el cambio con una fotografía o un objeto. Las frases modelo serán «[[KEEP|guarda el carro]]», «[[KEEP|trae los zapatos]]» y «[[KEEP|vamos al baño]]».
+
+La familia evitará aumentar el volumen como primera respuesta. Si necesita más apoyo, el adulto reducirá la cantidad de palabras y ofrecerá [[KEEP|ayuda moderada (mod cues)]].
+
+Medición: observación de diez oportunidades distribuidas en actividades habituales. La coordinadora revisará barreras relacionadas con horarios y transporte.
+
+OBSERVACIONES DEL HABLA Y REGISTRO CLÍNICO
+
+Se observaron producciones con /m/, /p/ y /k/, registradas como [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|/k/]]. Una realización aproximada se transcribió como [[KEEP|[w]]]. No se estableció un objetivo específico para [[KEEP|/ɾ/]].
+
+La muestra incluyó «[[KEEP|ato]]» para el objetivo «[[KEEP|gato]]». En el análisis se conservaron los códigos [[KEEP|[EW]]] y [[KEEP|[EU]]]. Estos datos describen la muestra; no justifican por sí solos un tratamiento motor.
+
+No se seleccionaron [[KEEP|PROMPT]], [[KEEP|Cycles]] ni [[KEEP|PECS]] como programas actuales. El equipo revisará los apoyos si las estrategias acordadas no facilitan la participación.
+
+PLAN DE SERVICIOS Y FECHAS
+
+[X] Intervención del habla y del lenguaje  
+Frecuencia: una visita semanal de 45 minutos.  
+Lugar: hogar; coordinación mensual con guardería.  
+Inicio del periodo revisado: [[DATE|21 de octubre de 2026]].  
+Fin previsto: [[DATE|14 de abril de 2027]].  
+Profesional responsable: [[PROVIDER|Andrea Cifuentes-Robles]].  
+Código previsto: [[KEEP|CPT 92507]].  
+Diagnóstico consignado: [[KEEP|ICD-10 F80.2]].  
+Modificador previsto: [[KEEP|GN]].  
+Autorización ficticia: [[ID|AUT-SLP-261021-084]].
+
+[X] Coordinación de servicios  
+Frecuencia: contacto mensual y apoyo según necesidad.  
+Responsable: [[PROVIDER|Verónica Pardo-Lemus]].  
+Inicio: [[DATE|14 de octubre de 2026]].  
+Fin previsto: [[DATE|14 de abril de 2027]].
+
+[X] Consulta de terapia ocupacional  
+Una visita de 60 minutos para observar participación en comidas.  
+Fecha propuesta: [[DATE|4 de noviembre de 2026]].  
+Responsable: [[PROVIDER|Samuel Ortega-Vidal]].  
+Código previsto: [[KEEP|CPT 97165]].
+
+La familia prefiere visitas los miércoles a las [[TIME|10:00 a. m.]]. Si cambia un turno, acordará otro horario con la coordinadora.
+
+ACUERDOS, TRANSICIÓN Y FIRMAS
+
+[X] La familia recibió una explicación del plan en español.  
+[X] La familia participó en la elección de los resultados.  
+[X] El equipo revisará el progreso con ejemplos de las rutinas.  
+[ ] Se requiere una revisión extraordinaria inmediata.
+
+La coordinadora iniciará conversaciones sobre transición antes del tercer cumpleaños. La familia desea conocer las opciones del [[SCHOOL|Distrito Escolar de Brisaverde]]. Todavía no se decidió una ubicación escolar futura.
+
+La revisión del resultado [[KEEP|1]] se centrará en peticiones y rechazos. La revisión del resultado [[KEEP|2]] incluirá turnos compartidos. La revisión del resultado [[KEEP|3]] incluirá instrucciones durante cambios de actividad.
+
+Firma ficticia de la madre: [[PARENT|Guadalupe de la Cruz Mendoza]].  
+Firma ficticia del padre: [[PARENT|Jesús del Río-Salcedo]].  
+Firma ficticia de la coordinadora: [[PROVIDER|Verónica Pardo-Lemus]].  
+Firma ficticia de la profesional: [[PROVIDER|Andrea Cifuentes-Robles]].  
+Fecha de firmas: [[DATE|14 de octubre de 2026]].

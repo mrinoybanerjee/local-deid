@@ -1,0 +1,113 @@
+Patient Name: [[CHILD|Mateo Alejandro Flores]]  Date of Birth: [[DATE|January 14, 2022]]  Chronological Age: [[KEEP|3;9]]
+Evaluation Dates: [[DATE|September 15, 2025]], [[DATE|September 22, 2025]]  Report Date: [[DATE|September 29, 2025]]
+Medicaid ID: [[MEDICAID_ID|912847563A]]  Case/Record Number: [[ID|LD-20394]]
+Primary Home Language: Spanish  Secondary Language: English  Interpreter Needed: No (clinician bilingual)
+Referring Provider: [[PROVIDER|Dr. Kevin Patel]]  Service Coordinator: [[PROVIDER|Maria Santos]], [[AGENCY|Piedmont CDSA]]
+Evaluating Clinician: [[PROVIDER|Jennifer M. Hawthorne]], M.S., CCC-SLP  Employer: [[EMPLOYER|Carolina Pediatric Speech & Language Partners, PLLC]]
+Clinic Address: [[PLACE|4521 Battleground Avenue, Suite 210]], [[PLACE|Greensboro]], NC [[PLACE|27410]]  Clinic Phone: [[PHONE|(336) 555-0148]]
+Clinician Email: [[EMAIL|jhawthorne@carolinapedspeech.com]]  County: [[PLACE|Guilford County]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a comprehensive speech-language evaluation by [[PROVIDER|Dr. Kevin Patel]], his pediatrician, following concerns raised at his three-year well-child visit about delayed expressive language and unclear speech. [[PROVIDER|Maria Santos]], the service coordinator at [[AGENCY|Piedmont CDSA]], contacted this clinician's office to request the evaluation as part of an open referral for early intervention services. [[CHILD|Mateo]]'s mother, [[PARENT|Lucía Rodríguez Flores]], reported that she and [[CHILD|Mateo]]'s father, [[PARENT|Jorge Flores Medina]], have been worried since his second birthday that he was not combining words the way his older sister did at the same age. Staff at [[DAYCARE|Little Learners Daycare]], where [[CHILD|Mateo]] attends five days a week, echoed these concerns in a written note sent home with him in [[DATE|May 2025]].
+
+BACKGROUND INFORMATION
+
+[[CHILD|Mateo Alejandro Flores]] is a [[KEEP|3;9]]-year-old boy who lives with his mother, [[PARENT|Lucía Rodríguez Flores]]; his father, [[PARENT|Jorge Flores Medina]]; his older sister, [[SIBLING|Camila Flores]] (age 6); and his younger brother, [[SIBLING|Diego Flores]] (age 1), in [[PLACE|Greensboro]]. His maternal grandmother, [[FAMILY|Rosa Medina]], lives nearby and provides after-daycare childcare three afternoons a week while [[PARENT|Lucía]] works. The family also has a dog named [[PET|Max]], whom [[CHILD|Mateo]] reportedly talks to often, according to his mother.
+
+[[CHILD|Mateo]] has attended [[DAYCARE|Little Learners Daycare]] since [[DATE|August 2023]], currently in the three-year-old classroom with lead teacher [[TEACHER|Ms. Angela Lopez]]. [[TEACHER|Ms. Lopez]] reports that [[CHILD|Mateo]] is social and affectionate with peers but is often difficult to understand, and that he sometimes becomes frustrated and gives up trying to communicate a need. He has one particular classroom friend, [[PEER|Liam]], with whom he plays most days, and [[TEACHER|Ms. Lopez]] notes that [[PEER|Liam]] often "translates" [[CHILD|Mateo]]'s requests to other adults in the room.
+
+The family receives case management through [[AGENCY|Piedmont CDSA]] and has an open Individualized Family Service Plan, with [[PROVIDER|Maria Santos]] serving as service coordinator. [[PARENT|Lucía Rodríguez Flores]] also reported that the family receives nutrition support through [[AGENCY|WIC]] and that [[SIBLING|Diego]] was recently enrolled in a playgroup through [[AGENCY|Triad Early Head Start]]. The family was connected to [[AGENCY|Guilford County Smart Start]] last year for a kindergarten-readiness screening for [[SIBLING|Camila]], and [[PARENT|Lucía]] mentioned that the family has an open file with [[AGENCY|Guilford County Department of Social Services]] related to a prior housing-assistance application, which she said is unrelated to today's evaluation but wanted documented for continuity of records.
+
+In addition to his time at [[DAYCARE|Little Learners Daycare]], [[CHILD|Mateo]] has been attending a weekly caregiver-and-child communication group called [[ORG|Little Learners Program]], which meets at a community center near the family's home and is facilitated by a graduate speech-language pathology student under supervision. [[PARENT|Lucía Rodríguez Flores]] reported that she was initially confused when she received paperwork from both [[DAYCARE|Little Learners Daycare]] and the [[ORG|Little Learners Program]] in the same week, since the names are so similar, and asked that this evaluator clarify in writing which program is being referenced in any recommendations.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[KEEP|39]] weeks gestation at [[HOSPITAL|Cone Health Women's Hospital]] in [[PLACE|Greensboro]] via uncomplicated vaginal delivery. Birth weight was [[KEEP|7 lbs 2 oz]] and Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. [[PARENT|Lucía Rodríguez Flores]] reported no complications during pregnancy, labor, or delivery, and no NICU stay was required. [[CHILD|Mateo]] met early gross motor milestones within typical limits, per parent report: he sat independently at [[KEEP|6 months]] and walked at [[KEEP|13 months]].
+
+Medical history is notable for recurrent otitis media, with [[CHILD|Mateo]] experiencing approximately six documented ear infections between [[KEEP|18 months]] and [[KEEP|30 months]] of age. He underwent bilateral myringotomy with tube placement on [[DATE|March 10, 2024]], performed by his ENT. Since that time, [[PARENT|Lucía]] reports fewer infections, though [[CHILD|Mateo]] had one episode of fluid behind the right tube noted at a follow-up visit on [[DATE|January 22, 2025]]. A pediatric audiological evaluation completed on [[DATE|February 3, 2025]] indicated hearing within normal limits bilaterally at that time. [[CHILD|Mateo]] has no diagnosed vision concerns, no history of seizure activity, and no significant hospitalizations beyond the tube placement. He is not currently on any daily medications. [[PROVIDER|Dr. Kevin Patel]]'s referral note listed a working diagnosis of [[KEEP|F80.2]] (mixed receptive-expressive language disorder), pending this evaluation's findings.
+
+FAMILY AND LANGUAGE HISTORY
+
+The home language environment is bilingual. [[PARENT|Lucía Rodríguez Flores]] reported that Spanish is the primary language spoken in the home, used by her, [[PARENT|Jorge Flores Medina]], and [[FAMILY|Rosa Medina]] with the children approximately 80% of the time, with English used the remaining 20%, largely by [[SIBLING|Camila Flores]], who is in first grade and increasingly prefers English at home. [[CHILD|Mateo]] hears both languages daily and is exposed to English primarily at [[DAYCARE|Little Learners Daycare]] and through [[SIBLING|Camila]].
+
+[[PARENT|Lucía Rodríguez Flores]] reported that [[CHILD|Mateo]]'s early language milestones were delayed in both languages. He said his first words, "mamá" and "[[KEEP|agua]]," around [[KEEP|18 months]], which is later than his sister, who was reportedly combining two words by [[KEEP|16 months]]. By his second birthday, [[CHILD|Mateo]] had an estimated vocabulary of fewer than [[KEEP|20]] words across both languages combined, per parent report using a modified vocabulary checklist. He began combining two words inconsistently around [[KEEP|30 months]]. There is a reported family history of late talking: [[PARENT|Jorge Flores Medina]] stated that he himself did not begin speaking in sentences until close to age four, and that his younger brother, [[FAMILY|Mateo's uncle]], [[FAMILY|Andrés Flores Medina]], received speech therapy as a child in Mexico.
+
+No other developmental concerns were reported. [[CHILD|Mateo]] plays appropriately with toys, engages in simple pretend play, makes eye contact, and shows typical social reciprocity with family members and peers such as [[PEER|Liam]]. [[PARENT|Lucía]] denied any regression in skills, repetitive behaviors, or sensory concerns.
+
+ASSESSMENT PROCEDURES
+
+This evaluation was conducted across two sessions at the office of [[EMPLOYER|Carolina Pediatric Speech & Language Partners, PLLC]] in [[PLACE|Greensboro]]. Session one, on [[DATE|September 15, 2025]], was conducted primarily in Spanish with transition to English during structured subtests, consistent with [[CHILD|Mateo]]'s dominant home language; session two, on [[DATE|September 22, 2025]], focused on English-language measures and speech sound sampling. [[PARENT|Lucía Rodríguez Flores]] was present for both sessions and provided case history information and informal observations. This evaluator, [[PROVIDER|Jennifer M. Hawthorne]], M.S., CCC-SLP, is bilingual in English and Spanish and administered all formal and informal measures directly without need for an interpreter.
+
+Procedures included standardized norm-referenced testing, dynamic assessment, language sampling in both languages, an oral-motor examination, a hearing screening pass/fail check (deferred to recent audiological results given tube history), and parent interview using a structured bilingual developmental questionnaire. [[CHILD|Mateo]] was cooperative throughout both sessions, though he required frequent breaks and preferred tasks be framed as games. Behavioral observations were considered consistent with a valid estimate of current functioning, though scores in the lower range should be interpreted with some caution given his limited exposure to structured testing formats prior to this evaluation.
+
+STANDARDIZED TEST RESULTS
+
+Test / Subtest                                  Date          Standard Score   Percentile Rank   95% CI
+[[KEEP|Preschool Language Scales-5 (PLS-5)]]
+  [[KEEP|Auditory Comprehension]]                [[DATE|09/15/2025]]   [[KEEP|73]]              [[KEEP|4th]]            [[KEEP|68-78]]
+  [[KEEP|Expressive Communication]]               [[DATE|09/15/2025]]   [[KEEP|70]]              [[KEEP|2nd]]            [[KEEP|65-75]]
+  [[KEEP|Total Language Score]]                   [[DATE|09/15/2025]]   [[KEEP|69]]              [[KEEP|2nd]]            [[KEEP|64-74]]
+
+[[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]], Spanish-language administration
+  [[KEEP|Sentence Structure]]                     [[DATE|09/15/2025]]   [[KEEP|71]]              [[KEEP|3rd]]            [[KEEP|65-77]]
+  [[KEEP|Word Structure]]                         [[DATE|09/15/2025]]   [[KEEP|68]]              [[KEEP|2nd]]            [[KEEP|61-75]]
+  [[KEEP|Expressive Vocabulary]]                  [[DATE|09/15/2025]]   [[KEEP|74]]              [[KEEP|4th]]            [[KEEP|68-80]]
+
+[[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]
+  [[KEEP|Sounds-in-Words]]                        [[DATE|09/22/2025]]   [[KEEP|65]]              [[KEEP|1st]]            [[KEEP|58-72]]
+
+[[KEEP|Receptive-Expressive Emergent Language Test-4 (REEL-4)]]
+  [[KEEP|Receptive Language Age Equivalent]]       [[DATE|09/22/2025]]   [[KEEP|26 months]]      —                 [[KEEP|24-30 months]]
+  [[KEEP|Expressive Language Age Equivalent]]      [[DATE|09/22/2025]]   [[KEEP|22 months]]      —                 [[KEEP|19-25 months]]
+
+Note: [[CHILD|Mateo]]'s chronological age at time of testing was [[KEEP|3;9]]. The CELF Preschool-3 was administered in Spanish given reported home language dominance; the PLS-5 and GFTA-3 were administered in English with Spanish supports provided as needed for task comprehension, per standardized bilingual administration guidelines.
+
+LANGUAGE SAMPLE AND SPEECH SOUND ANALYSIS
+
+A 100-utterance connected speech sample was collected across both languages during play-based interaction. In Spanish, [[CHILD|Mateo]]'s mean length of utterance was [[KEEP|2.1]] morphemes, below expectations for his age. He produced mostly two-word combinations such as "[[KEEP|más agua]]" and "[[KEEP|no quiero]]," with limited use of grammatical morphemes such as plural markers and verb conjugations. In English, his MLU was [[KEEP|1.6]] morphemes, with single-word and occasional two-word utterances such as "[[KEEP|more juice]]" and "[[KEEP|go bye-bye]]."
+
+Articulation testing and conversational sampling identified a moderate-to-severe speech sound disorder affecting intelligibility in both languages. [[CHILD|Mateo]] demonstrated gliding of liquids, producing [[KEEP|/w/]] for [[KEEP|/ɾ/]] in Spanish (e.g., "[[KEEP|pewo]]" for "[[KEEP|perro]]") and [[KEEP|/w/]] for [[KEEP|/r/]] in English. He also demonstrated final consonant deletion and stopping of fricatives, producing [[KEEP|[t]]] for [[KEEP|/s/]] in word-initial position (e.g., "[[KEEP|topa]]" for "[[KEEP|sopa]]"). Overall intelligibility to unfamiliar listeners was estimated at approximately [[KEEP|40%]] in connected speech, improving to roughly [[KEEP|65%]] with known context. On a single-word naming task, [[CHILD|Mateo]] correctly produced target consonants in [[KEEP|8/10]] trials for early-developing sounds but only [[KEEP|3/10]] trials for later-developing sounds such as [[KEEP|/r/]] and consonant clusters, an accuracy rate of approximately [[KEEP|80%]] and [[KEEP|30%]] respectively.
+
+Dynamic assessment, in which this clinician modeled target structures and provided [[KEEP|mod cues]] (moderate verbal and visual cueing), indicated that [[CHILD|Mateo]] was responsive to instruction: with [[KEEP|mod cues]], he correctly imitated subject-verb-object word order in [[KEEP|7 of 10]] trials, up from [[KEEP|2 of 10]] trials without support. This pattern of improved performance with cueing and modeling is a favorable prognostic indicator and is inconsistent with a primary diagnosis of autism spectrum disorder or global developmental delay in isolation.
+
+ORAL-MOTOR AND FEEDING OBSERVATIONS
+
+Oral-motor examination revealed structures within normal limits for strength, symmetry, and range of motion of the lips, tongue, and jaw. Diadochokinetic rates were judged age-appropriate informally. No overt dysarthric or apraxic features were observed, though inconsistent sound substitutions across repeated productions of the same word (e.g., "[[KEEP|perro]]" produced as "[[KEEP|pewo]]," "[[KEEP|peo]]," and "[[KEEP|pedo]]" across three trials) raise a mild concern for a motor planning component that should be monitored over time. No feeding or swallowing concerns were reported by [[PARENT|Lucía Rodríguez Flores]], and [[CHILD|Mateo]] eats a full range of textures without difficulty.
+
+CLINICAL IMPRESSIONS
+
+Based on standardized testing, language sampling, dynamic assessment, and parent report, [[CHILD|Mateo Alejandro Flores]] presents with a moderate-to-severe mixed receptive-expressive language disorder affecting both Spanish and English, consistent with [[KEEP|F80.2]], along with a moderate-to-severe speech sound disorder affecting intelligibility in both languages. These findings are not attributable solely to typical second-language acquisition or bilingual development, as [[CHILD|Mateo]] demonstrates delays relative to same-age peers in his dominant home language, Spanish, as well as in English. His pattern of stimulability and positive response to cueing during dynamic assessment suggests good candidacy for intervention and a reasonably favorable prognosis with consistent services.
+
+The combination of expressive and receptive deficits, reduced intelligibility, and history of recurrent otitis media with tube placement is consistent with a multifactorial presentation in which early and recurrent conductive hearing loss likely contributed to, though does not fully account for, his current language and speech profile. Continued audiological monitoring is recommended given his history.
+
+[[CHILD|Mateo]] does not currently present with features suggestive of autism spectrum disorder; his social engagement, joint attention, pretend play, and response to intervention during dynamic assessment were all age-appropriate or favorable. No further autism-specific evaluation is recommended at this time, though the team should remain alert to any emerging concerns.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] qualifies for ongoing speech-language intervention based on standardized scores falling more than [[KEEP|1.5]] standard deviations below the mean across multiple measures in both languages. It is recommended that his IFSP team, including [[PROVIDER|Maria Santos]] at [[AGENCY|Piedmont CDSA]], update his Individualized Family Service Plan to reflect these findings and establish new outcomes targeting expressive syntax, vocabulary growth, and speech sound production.
+
+2. Individual speech-language therapy is recommended twice weekly for 30-minute sessions, billed under [[KEEP|CPT 92507]] (individual treatment of speech, language, voice, communication, and/or auditory processing disorder), delivered bilingually when possible. An initial speech-language evaluation re-check using standardized measures (billed under [[KEEP|CPT 92523]], evaluation of speech sound production with evaluation of language comprehension and expression) is recommended in approximately [[KEEP|6 months]] to monitor progress and adjust goals.
+
+3. Therapy should emphasize a combination of approaches given [[CHILD|Mateo]]'s profile and favorable response to modeling: a [[KEEP|Cycles]] approach is recommended to target his phonological error patterns (gliding, stopping, final consonant deletion) in both languages, and a [[KEEP|Hanen]]-based caregiver coaching component is recommended to support [[PARENT|Lucía Rodríguez Flores]] and [[PARENT|Jorge Flores Medina]] in using language-facilitation strategies at home in Spanish. [[KEEP|PROMPT]] techniques may be considered as a supplemental approach if inconsistent speech sound errors persist, given the mild motor planning concern noted above.
+
+4. This clinician recommends that the family continue participation in the [[ORG|Little Learners Program]] caregiver-and-child communication group as a supplement to, not a replacement for, individual therapy. Given the naming overlap with [[DAYCARE|Little Learners Daycare]], it is recommended that the service coordinator clearly label each program by its full name in all IFSP documentation and correspondence to avoid confusion for the family and for billing purposes.
+
+5. Continued close coordination with [[TEACHER|Ms. Angela Lopez]] at [[DAYCARE|Little Learners Daycare]] is recommended, including a brief classroom consultation to share communication strategies and target vocabulary so that staff can reinforce therapy goals throughout the school day. Encouraging continued peer interaction with [[PEER|Liam]] and other classmates is also recommended, as [[CHILD|Mateo]] shows strong motivation to communicate in socially meaningful contexts.
+
+6. A referral back to [[PROVIDER|Dr. Kevin Patel]] is recommended for continued monitoring of middle ear status given the history of recurrent otitis media, with a repeat audiological evaluation recommended in [[KEEP|6 months]] or sooner if new signs of hearing difficulty are observed. Results of any future audiological testing should be shared with this clinician and with [[AGENCY|Piedmont CDSA]] to inform ongoing service planning.
+
+7. Given the family's connections with [[AGENCY|WIC]], [[AGENCY|Guilford County Smart Start]], and [[AGENCY|Triad Early Head Start]], this clinician recommends that [[PROVIDER|Maria Santos]] help coordinate information-sharing across agencies as appropriate, with family consent, to ensure consistent support as [[SIBLING|Diego Flores]] grows and as [[CHILD|Mateo]] transitions toward preschool services.
+
+8. Reassessment of [[CHILD|Mateo]]'s progress is recommended at approximately [[KEEP|6-month]] intervals, or sooner if the IFSP team determines a change in service intensity is warranted. This clinician is available for ongoing consultation and can be reached at the contact information listed above.
+
+This evaluation and these recommendations are based on [[CHILD|Mateo]]'s presentation and performance on [[DATE|September 15, 2025]] and [[DATE|September 22, 2025]], and on reported history. Should concerns change or new information become available, the family and IFSP team are encouraged to contact this office.
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer M. Hawthorne]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Carolina Pediatric Speech & Language Partners, PLLC]]
+[[PLACE|4521 Battleground Avenue, Suite 210]], [[PLACE|Greensboro]], NC [[PLACE|27410]]
+Phone: [[PHONE|(336) 555-0148]]  Email: [[EMAIL|jhawthorne@carolinapedspeech.com]]
+Report Date: [[DATE|September 29, 2025]]

@@ -1,0 +1,22 @@
+Client: [[CHILD|Mateo Villanueva]] DOB: [[DATE|04/18/2022]] Session Date: [[DATE|03/09/2026]]
+Clinician: [[PROVIDER|Hope Alvarez]], M.S., CCC-SLP [[EMPLOYER|CarolinaVoz Pediatric Therapy]]
+Location: [[PLACE|118 Ferncreek Dr, Durham, NC 27707]]
+Medicaid ID: [[MEDICAID_ID|998213467B]] Case ID: [[ID|LD-5521]]
+Service Coordinator: [[PROVIDER|Nilda Cortés]], [[AGENCY|Durham CDSA]]
+
+Session Schedule:
+| Day | Start | Stop | Location |
+|-----|-------|------|----------|
+| Mon | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[PLACE|118 Ferncreek Dr]] |
+| Wed | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[SCHOOL|Little Sprouts Daycare]] |
+| Fri | [[TIME|10:00 AM]] | [[TIME|10:45 AM]] | [[PLACE|118 Ferncreek Dr]] |
+
+S: Su mamá [[PARENT|Lucía Villanueva]] reportó, "[[CHILD|Mateo]] dice más palabras en casa, pero todavía mezcla los dos idiomas." Hermana [[SIBLING|Sol Villanueva]] ([[KEEP|4;2]]) often models language during play; abuela [[FAMILY|Rosa Méndez]] cares for [[CHILD|Mateo]] on Tuesdays. Family dog [[PET|Paz]] was present and motivating during the session.
+
+O: [[CHILD|Mateo]] participated in [[KEEP|30]] minutes of structured play using [[KEEP|Hanen]] strategies with [[KEEP|mod cues]]. Administered [[KEEP|Goldman-Fristoe Test of Articulation]]: raw score [[KEEP|62]], standard score [[KEEP|79]] ([[KEEP|73-83]], [[KEEP|95%]] CI), evaluated [[DATE|03/09/2026]]. Prior score on [[KEEP|Rossetti Infant-Toddler Language Scale]] was [[KEEP|71]] ([[KEEP|65-77]]) on [[DATE|09/14/2025]]. [[CHILD|Mateo]] produced /k/ correctly in [[KEEP|7/10]] trials, substituting [[KEEP|[t]]] for [[KEEP|/k/]] in connected speech. Target word "[[KEEP|casa]]" approximated as "[[KEEP|tasa]]." Spontaneous phrase noted: "[[PET|Paz]] corre" during ball play.
+
+A: Mild-moderate phonological delay, consistent with [[KEEP|ICD-10 F80.0]]. [[KEEP|CPT 92507]] billed.
+
+P: Continue [[KEEP|PROMPT]] approach; incorporate peer model [[PEER|Daniela]] from [[SCHOOL|Little Sprouts Daycare]] group. IFSP outcome [[KEEP|#2]] remains active. Next review scheduled [[DATE|04/06/2026]] with [[AGENCY|Smart Start of Durham]].
+
+Contact: [[PHONE|919-555-2048]] [[EMAIL|halvarez@carolinavoz.com]]

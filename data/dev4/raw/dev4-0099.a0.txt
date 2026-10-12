@@ -1,0 +1,15 @@
+S: Madre, [[PARENT|Lucía Hernández]], reports [[CHILD|María José Hernández López]] ("[[CHILD|Lupita]]") said [[KEEP|"pan"]] and [[KEEP|"más agua"]] spontaneously at home. Padre [[PARENT|Jorge Hernández]] works days at [[ORG|Constructora Ramírez]] ([[ORG|Ramírez Construction]]) and nights at [[ORG|Planta Empacadora Sunrise]]. Madre works lunch shift at [[ORG|Restaurante El Buen Sabor]] ([[ORG|Buen Sabor Restaurant]]) and weekends at [[ORG|Tienda La Economía]]. Abuela [[FAMILY|Carmen López]], who cares for [[CHILD|Lupita]] weekday mornings, is employed at [[ORG|Granja Los Pinos]]. Tía [[FAMILY|Rosa Hernández]] works at [[ORG|Servicios de Limpieza Estrella]]. Hermano mayor [[SIBLING|Chuy]] attends [[SCHOOL|Roosevelt Elementary]]. No illness, no new meds since [[DATE|September 28, 2026]].
+
+O: Session held at [[EMPLOYER|Bright Path Pediatric Therapy]], [[PLACE|Raleigh]], by [[PROVIDER|Grace Kim]], SLP, with interpreter [[PROVIDER|Ana Torres]]. [[CHILD|Lupita]], age [[KEEP|4;2]], seen individually [[TIME|3:00 PM]]–[[TIME|3:45 PM]]. Weekly schedule:
+
+| Day | Start | Stop | Location |
+|-----|-------|------|----------|
+| Mon | [[TIME|3:00 PM]] | [[TIME|3:45 PM]] | [[PLACE|Raleigh]] clinic |
+| Wed | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[DAYCARE|Sunshine Kids Daycare]] |
+| Fri | [[TIME|1:15 PM]] | [[TIME|2:00 PM]] | home, [[PLACE|412 Maple Court]] |
+
+Target /k/ and /g/ onset elicited with [[KEEP|min cues]]; [[KEEP|8/10]] correct for [[KEEP|"cat"]] and [[KEEP|"go"]]. Imitated [[KEEP|3 of 5]] [[KEEP|PROMPT]] cues for bilabial closure. Peer [[PEER|Teo]] joined 5 min parallel play; [[CHILD|Lupita]] initiated [[KEEP|"my turn"]] once.
+
+A: Gains hold per [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] [[KEEP|standard score]] [[KEEP|78]] ([[KEEP|8th percentile]]) at last eval. Stimulable for CV shapes; carryover limited to structured tasks.
+
+P: Continue 1x/wk individual; consult teacher [[TEACHER|Ms. Patel]] at [[DAYCARE|Sunshine Kids Daycare]]. Coordinator [[PROVIDER|Grace Kim]] at [[AGENCY|Wake County CDSA]] to update IFSP outcome 2. Next visit [[DATE|October 20, 2026]]. Clinic line [[PHONE|(919) 555-0148]]. Case [[ID|WC-20394-B]]; Medicaid [[MEDICAID_ID|987654321A]].

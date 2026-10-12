@@ -1,0 +1,89 @@
+Document: Fictional NC Infant-Toddler Program IFSP Review  Purpose: Synthetic document for offline de-identification testing  Language: English  Family interview languages: English and Spanish
+
+Child: [[CHILD|Emilio de la Cruz-Méndez]]  Preferred name: [[CHILD|Milo]]  Birth date: [[DATE|August 14, 2024]]  Review date: [[DATE|October 8, 2026]]  Age: [[KEEP|26 months]]
+Child record: [[ID|NCITP-604817]]  Medicaid number: [[MEDICAID_ID|583746192K]]  Initial IFSP date: [[DATE|April 9, 2026]]  Next review: [[DATE|April 8, 2027]]
+Home address: [[PLACE|417 Lantern Finch Lane]]  Town: [[PLACE|Larkfen]]  County: [[PLACE|Alderwick County]]  ZIP: [[PLACE|27994]]  State: North Carolina
+Mother: [[PARENT|Lucía de la Cruz]]  Father: [[PARENT|Rafael Méndez-Pardo]]  Family telephone: [[PHONE|919-555-0147]]  Family email: [[EMAIL|lucia.cruz@example.invalid]]
+Sibling: [[SIBLING|Inés Méndez-Pardo]]  Regular caregiver: Grandmother, doña [[FAMILY|Lupe]]  Family pet: [[PET|Pepita]], a small dog
+
+Service coordinator: Ms. [[PROVIDER|Maribel Soto]]  CDSA office: [[AGENCY|Alderwick River CDSA]]  Office address: [[PLACE|82 Reedglass Court]], [[PLACE|Larkfen]], North Carolina, [[PLACE|27994]]
+Coordinator telephone: [[PHONE|919-555-0168]]  Coordinator email: [[EMAIL|maribel.soto@example.invalid]]  Program website: [[URL|https://alderwick-cdsa.example.invalid]]
+Review author: [[PROVIDER|Isabel del Río-Santos]], MS, CCC-SLP  Role: Bilingual pediatric speech-language pathologist  Employer: [[EMPLOYER|Little Lantern Bilingual Therapy]]
+Clinician telephone: [[PHONE|984-555-0126]]  Clinician email: [[EMAIL|isabel.santos@example.invalid]]  Service authorization: [[ID|AUTH-SLP-826405]]
+Participants: Both parents, grandmother, service coordinator, and clinician  Meeting location: Family home  Meeting time: [[TIME|9:15 a.m.]]  Interpreter: None requested; clinician provided bilingual discussion
+
+Family information: The household uses Spanish during meals and visits, and English during books and some play. Both parents want both languages supported. They report that relatives sometimes finish the child's requests before he can respond. Grandmother provides care during overlapping work shifts. The family prefers home visits that include practical demonstrations and time to try each strategy.
+
+Mother's employment: Current store work, [[ORG|Willow Basket Store]]  Spanish word order, using English words: [[ORG|Store Willow Basket]]
+Additional employment: Weekend restaurant shifts, [[ORG|Copper Spoon Restaurant]]  Spanish word order, using English words: [[ORG|Restaurant Copper Spoon]]
+Seasonal employment: Packing produce at [[ORG|Silver Acorn Farm]]  Spanish word order, using English words: [[ORG|Farm Silver Acorn]]
+Father's employment: Current plant work, [[ORG|Blue Heron Packaging Plant]]  Spanish word order, using English words: [[ORG|Plant Blue Heron Packaging]]
+Additional employment: Occasional work for [[ORG|Cedar Gate Construction Company]]  Spanish word order, using English words: [[ORG|Construction Company Cedar Gate]]
+Former employment: Evening work for [[ORG|Bright Window Cleaning Service]]  Spanish word order, using English words: [[ORG|Cleaning Service Bright Window]]
+Scheduling effect: Work shifts change weekly. The coordinator will confirm appointments by text. Neither parent wants the workplace names used in calls to supervisors.
+
+Family concerns, mother's words: “I know what he wants when he pulls my hand, but other people do not. I want him to ask for water, help, and another turn. I do not want every meal to become a guessing game.”
+Family concerns, father's words: “He understands our usual routine. When something changes, he cries and cannot tell us why. I want to understand him without asking his sister to speak for him.”
+Family priorities, grandmother's words: “Let us practice while we cook and play. Give me something simple that I can use in Spanish.”
+Family strengths: Caregivers notice small communication attempts, share responsibilities, and enjoy singing. The family has a stable home, transportation for appointments, and relatives who can attend visits.
+
+Morning routine: Breakfast begins around [[TIME|7:10 a.m.]]. The child chooses between oatmeal and eggs by reaching. Mother names the choice and usually serves it immediately. The family will add a brief pause and accept a gesture, sound, or word.
+Dressing routine: He brings his shoes when the family prepares to leave. He needs help with socks and becomes upset when sleeves catch. Father will model [[KEEP|help]] while offering assistance.
+Evening routine: Dinner starts near [[TIME|6:20 p.m.]]. Grandmother often offers seconds before he requests them. She will place a small serving first and create an opportunity to request more.
+Play and bedtime: He enjoys rolling cars, hiding animals, and bringing books to his sister. Bath play includes cups and pouring. Bedtime starts around [[TIME|8:00 p.m.]]. Caregivers will use familiar songs without requiring repeated speech.
+
+Early learning setting: [[DAYCARE|Moonpickle Otter Nest]]  Address: [[PLACE|63 Cloverbell Road]], [[PLACE|Larkfen]], North Carolina, [[PLACE|27994]]  Attendance: Three mornings weekly
+Classroom staff: Miss [[TEACHER|Ana]] and la maestra [[TEACHER|Carmen]]  Setting telephone: [[PHONE|919-555-0183]]
+Classroom observations: The child watches peers [[PEER|Nora Velásquez]] and [[PEER|Theo Bellamy]] during songs. He offers toys but sometimes grabs materials when a turn ends. Staff report that pictures help him anticipate cleanup.
+Community routine: Neighbor Mr. [[PERSON|Tom]] sometimes walks with the family to the mailbox. The child waves but rarely initiates a spoken greeting.
+
+Health history: Parents report birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. No feeding tube or ongoing respiratory support was reported.
+Primary care: Dr. [[PROVIDER|Priya Nanduri]] at [[HOSPITAL|Reedglass Children's Hospital]]  Last wellness visit: [[DATE|September 16, 2026]]
+Hearing: Audiologist [[PROVIDER|Evan Calder]] documented hearing adequate for speech access on [[DATE|September 24, 2026]]. The coordinator reviewed the fictional report during this meeting.
+Functional health: The child eats familiar textures and drinks from a straw cup. Caregivers report no recent choking episodes. Sleep changes sometimes reduce participation. The family will share new concerns with the primary care provider.
+
+Assessment date: [[DATE|October 1, 2026]]  Instrument: [[KEEP|PLS-5 Spanish]]  Administration: Bilingual procedures, caregiver interview, observation, and language sample
+Subtest: [[KEEP|Auditory Comprehension]]  Standard score: [[KEEP|86]]  Percentile: [[KEEP|18th percentile]]  Confidence interval: [[KEEP|80–94]]  Age equivalent: [[KEEP|23 months]]
+Subtest: [[KEEP|Expressive Communication]]  Standard score: [[KEEP|77]]  Percentile: [[KEEP|6th percentile]]  Confidence interval: [[KEEP|72–85]]  Age equivalent: [[KEEP|18 months]]
+Composite: [[KEEP|Total Language]]  Standard score: [[KEEP|80]]  Percentile: [[KEEP|9th percentile]]  Confidence interval: [[KEEP|75–87]]
+Interpretation: These fictional results describe current performance and supplement routine observations. Bilingual exposure does not explain the communication difficulty. Age equivalents do not determine service intensity or predict future development.
+
+Communication sample: Spontaneous productions included [[KEEP|"mama"]], [[KEEP|"agua"]], [[KEEP|"go"]], and [[KEEP|"ma"]]. The last production occurred while requesting more crackers. He combined pointing and vocalization in [[KEEP|6/10]] observed opportunities.
+Speech observations: Initial [[KEEP|/k/]] was inconsistent. A rounded glide [[KEEP|[w]]] appeared in several approximations. Spanish [[KEEP|/ɾ/]] was not a treatment priority. A sample transcription used [[KEEP|[EW]]] for an extraneous word.
+Participation baseline: He followed familiar directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He requested assistance in [[KEEP|2/10]] opportunities with [[KEEP|max cues]]. He used a two-word combination in [[KEEP|1 of 5]] modeled opportunities.
+
+Outcome: [[KEEP|1]]  Family priority: Request needs during meals and play  Target review date: [[DATE|January 14, 2027]]
+Expected change: [[CHILD|Emilio]] will request an item, action, or assistance using a gesture, picture, word, or word combination in [[KEEP|8/10]] natural opportunities across two routines.
+Strategies: Adults will offer meaningful choices, wait briefly, and respond to the child's attempt. They will model [[KEEP|more]], [[KEEP|help]], [[KEEP|agua]], and [[KEEP|open]] in the language used during that routine. Adults will avoid withholding necessary food or assistance.
+Intervention approach: [[KEEP|focused stimulation]] with caregiver practice  Starting support: [[KEEP|mod cues]]  Planned support: [[KEEP|min cues]]
+Measurement: Caregivers will describe successful opportunities during each visit. The clinician will observe one familiar routine and record communication forms. Progress requires use with two caregivers across three visits.
+
+Outcome: [[KEEP|2]]  Family priority: Share play with family and peers  Target review date: [[DATE|February 11, 2027]]
+Expected change: [[CHILD|Milo]] will participate in three back-and-forth exchanges during cars, books, or songs in [[KEEP|3 of 5]] opportunities.
+Strategies: Adults will follow his play idea, imitate an action, and pause before the next turn. His sister can offer a turn without answering for him. Classroom staff will use the same brief turn language.
+Language targets: [[KEEP|my turn]], [[KEEP|your turn]], [[KEEP|go car]], and [[KEEP|otra vez]]  Teaching approach: [[KEEP|milieu teaching]]  Initial support: [[KEEP|mod cues]]
+Measurement: The clinician and classroom staff will count exchanges during familiar play. Participation may include looking, moving an object, gesturing, or speaking. Eye contact is not required. Adults will stop or change the activity when he shows distress.
+
+Outcome: [[KEEP|3]]  Family priority: Manage changes with clearer communication  Target review date: [[DATE|March 11, 2027]]
+Expected change: The child will use a picture, gesture, or spoken message to request help, a break, or completion during transitions in [[KEEP|80%]] of observed opportunities.
+Strategies: Caregivers will show a simple sequence, announce the next activity, and offer a small choice. Adults will model [[KEEP|all done]], [[KEEP|break]], and [[KEEP|ayuda]] while responding calmly.
+Support level: Begin with [[KEEP|max cues]], then reduce to [[KEEP|mod cues]] as participation improves  Measurement: Family notes and direct observation across home and classroom routines
+Family agreement: Communication support will accompany comfort and practical help. Adults will not require speech before honoring a clear request to stop.
+
+Service: Speech-language intervention  Provider: [[PROVIDER|Isabel del Río-Santos]], MS, CCC-SLP  Employer: [[EMPLOYER|Little Lantern Bilingual Therapy]]
+Frequency: Weekly  Session duration: Forty-five minutes  Location: Home, with occasional classroom visits  Start date: [[DATE|October 15, 2026]]  End date: [[DATE|April 8, 2027]]
+Procedure code: [[KEEP|CPT 92507]]  Diagnosis code: [[KEEP|ICD-10 F80.2]]  Billing modifier: [[KEEP|GN]]  Method: Caregiver coaching within daily routines
+Coordination service: Monthly contact and additional contact as needed  Responsible provider: [[PROVIDER|Maribel Soto]]  Service period: [[DATE|October 8, 2026]] through [[DATE|April 8, 2027]]
+Scheduling plan: Visits usually begin at [[TIME|10:30 a.m.]]. The family can request another time when work changes. Missed visits will be rescheduled when possible.
+
+Other agencies: [[AGENCY|Alderwick County WIC]] supports nutrition access; [[AGENCY|Alderwick Family DSS]] maintains benefit information; [[AGENCY|Lantern Valley Smart Start]] provides books and family activities.
+Coordination plan: With written family permission, the coordinator will share functional strategies and arrange joint discussion. Each release will identify the receiving agency and information allowed.
+Community resource: [[AGENCY|Larkfen Family Connections]] offers a bilingual playgroup. The family wants information before deciding whether to attend.
+
+Transition planning: The coordinator will discuss preschool options before the third birthday. Potential receiving program: [[SCHOOL|Cloverbell Early Learning School]]. No placement decision was made at this review.
+Transition conference target: [[DATE|May 13, 2027]]  Expected program exit: [[DATE|August 13, 2027]]  Family preference: Visit possible classrooms and discuss bilingual communication supports.
+Follow-up responsibilities: The clinician will bring picture choices and demonstrate strategies at the next visit. Parents will select one meal and one play routine for practice. The coordinator will confirm classroom permission.
+
+Family review: Parents received an English copy and a spoken Spanish explanation. They asked for simple practice notes. Both parents agreed that the outcomes reflect their priorities.
+Mother's acknowledgment: [[PARENT|Lucía de la Cruz]]  Father's acknowledgment: [[PARENT|Rafael Méndez-Pardo]]  Acknowledgment date: [[DATE|October 8, 2026]]
+Clinician attestation: [[PROVIDER|Isabel del Río-Santos]], MS, CCC-SLP  Documentation date: [[DATE|October 9, 2026]]  Record status: Fictional review completed for testing only

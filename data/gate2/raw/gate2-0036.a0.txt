@@ -1,0 +1,45 @@
+1. IDENTIFICACIÓN / SESSION INFORMATION
+
+1.1 Client and service
+
+Client: [[CHILD|Elian Maravé Soto]], called [[CHILD|Lito]] at home. DOB: [[DATE|01/03/2021]]; age: [[KEEP|4;2]]. Service date: [[DATE|3 de marzo de 2025]], also recorded as [[DATE|03/03/2025]]. Session: [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]] in North Carolina.
+
+Clinician: [[PROVIDER|Camila Veldara]], bilingual pediatric speech-language pathologist, employed by [[EMPLOYER|Firefly Bridge Pediatric Therapy PLLC]]. Record: [[ID|FB-250303-072]]; Medicaid: [[MEDICAID_ID|739482615Q]]; authorization: [[ID|AUTH-2502-8416]].
+
+1.2 Setting and contacts
+
+Treatment occurred at [[DAYCARE|The Velvet Acorn Observatory]], [[PLACE|418 Lanternroot Lane]], [[PLACE|Mossbell]], [[PLACE|28793]], [[PLACE|Fernhollow County]]. Mother: [[PARENT|Marisol Maravé]]; telephone: [[PHONE|919-555-0146]]; email: [[EMAIL|marisol.marave@example.com]]. Company portal: [[URL|https://fireflybridge.example.com]].
+
+2. SUBJETIVO / FAMILY AND CLASSROOM REPORT
+
+Su mamá [[PARENT|Marisol]] reported, “Ahora pide ayuda, pero se frustra cuando nadie entiende.” Father [[PARENT|Andrés Soto]] described improved turn-taking during dinner. Sister [[SIBLING|Nerea]] participates in picture games. Abuela [[FAMILY|Berta Maravé]] and babysitter [[FAMILY|Inés Toval]] use the same home vocabulary.
+
+Teacher Ms. [[TEACHER|Varela]] reported that [[CHILD|Elian]] approached classmates [[PEER|Omar Cevín]] and [[PEER|Tessa Lurell]] during blocks. The family’s dog, [[PET|Chispa]], reportedly motivates requests. Mother works at [[ORG|Juniper Loom Packaging]].
+
+3. OBJETIVO / MEASURED PERFORMANCE
+
+3.1 Language intervention
+
+Billing: [[KEEP|92507]], modifier [[KEEP|GN]]; diagnosis: [[KEEP|F80.2]]. Through [[KEEP|Hanen]] strategies and shared play, [[CHILD|Lito]] followed bilingual directions in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities.
+
+Targets included [[KEEP|"quiero más"]], [[KEEP|"help me"]], and [[KEEP|"abre"]]. Child productions included [[KEEP|"yo want carro"]]] and [[KEEP|"más agua"]]. Clinician accepted code-switching and modeled expanded phrases without requiring translation.
+
+3.2 Speech and sampling
+
+Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]] with [[KEEP|max cues]]. Observed substitutions included [[KEEP|[w]]]. Spanish [[KEEP|/ɾ/]] was monitored without correction today. A language sample contained [[KEEP|[EW]]] annotations. Visual supports reduced frustration; verbal prompting increased after transitions.
+
+4. EVALUATION CONTEXT / ANTECEDENTES
+
+Evaluation dated [[DATE|2025-02-14]] used [[KEEP|PLS-5]], with [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], age equivalent [[KEEP|3;1]], and confidence interval [[KEEP|73–85]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|80]]. Evaluation billing included [[KEEP|92523]]. These results require cautious interpretation alongside bilingual sampling.
+
+Referral records from [[HOSPITAL|Silver Lantern Children’s Hospital]] listed physician Dr. [[PROVIDER|Noelia Serrat]]. Reported birth history included gestational age [[KEEP|39 weeks]], birth weight [[KEEP|3.2 kg]], and Apgar scores [[KEEP|8/9]]. These historical details were not independently verified.
+
+5. ASSESSMENT / IMPRESIÓN CLÍNICA
+
+[[CHILD|Elian]] showed improved functional communication when adults followed his interests. Performance decreased during rapid group instructions. Spanish-English mixing supported participation. It did not independently indicate impairment. [[EMPLOYER|Firefly Bridge Therapy]] will maintain coordinated language supports.
+
+6. PLAN / PRÓXIMOS PASOS
+
+Continue [[KEEP|IFSP Outcome 2]] carryover with coordinator [[PROVIDER|Luz Benaro]] at [[AGENCY|Fernhollow CDSA]]. Review school transition options with [[SCHOOL|Moonpetal Early Learning Academy]]. Parent recalled an earlier planning meeting on [[DATE|el martes 4 de junio]].
+
+Next review: [[DATE|04.15.2025]]. Provide picture choices, wait time, and [[KEEP|min cues]] during familiar routines. [[EMPLOYER|FBPT]] will compare classroom and home samples. Signed: [[PROVIDER|Camila Veldara]].

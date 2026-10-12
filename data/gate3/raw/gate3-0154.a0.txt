@@ -1,0 +1,169 @@
+informe de evaluación bilingüe del habla y lenguaje
+documento clínico sintético todos los datos son ficticios
+
+nombre del paciente: [[CHILD|Nicolás Briseno]]
+nombre usado en casa: [[CHILD|Nico]]
+fecha de nacimiento: [[DATE|June 4, 2022]]
+edad cronológica: [[KEEP|4;2]]
+fecha de evaluación: [[DATE|August 18, 2026]]
+hora de inicio: [[TIME|9:10 a.m.]]
+hora de cierre: [[TIME|10:35 a.m.]]
+expediente: [[ID|BR-482731]]
+medicaid: [[MEDICAID_ID|583920174Q]]
+autorización: [[ID|AUTH-726194]]
+evaluadora: [[PROVIDER|Mariela Castañeda]], MA CCC-SLP patóloga bilingüe del habla y lenguaje
+empleador: [[EMPLOYER|Bright Heron Pediatric Therapy]]
+ubicación: [[PLACE|428 Willowglass Lane]] [[PLACE|Larkhaven]] North Carolina [[PLACE|27863]]
+teléfono: [[PHONE|919-555-0146]]
+correo: [[EMAIL|mariela.castaneda@bright-heron.example]]
+sitio: [[URL|https://bright-heron.example]]
+facturación: [[KEEP|92523]] modificador [[KEEP|GN]]
+
+motivo de referencia / razón de consulta
+
+la mamá [[PARENT|Elena Briseno]] solicitó esta evaluación porque su hijo habla mucho en casa pero otras personas necesitan que ella explique lo que dijo y en la escuela responde con palabras sueltas cuando la actividad pide una oración completa la familia quiere entender si necesita apoyo en ambos idiomas y cómo ayudar sin convertir cada conversación en una prueba
+
+el papá [[PARENT|Tomás Briseno]] comentó “entiende cuando le hablamos pero si le preguntan algo nuevo se queda mirando y luego dice otra cosa” la preocupación principal es que el niño pueda pedir ayuda contar algo que pasó y participar con compañeros sin depender de un adulto para interpretar su mensaje
+
+la referencia llegó de la Dra. [[PROVIDER|Alicia Monteverde]] después de una visita de seguimiento el [[DATE|July 21, 2026]] se revisaron reportes familiares observación directa y tareas estructuradas la familia dio consentimiento para una evaluación bilingüe y participó durante la entrevista
+
+antecedentes / información de fondo
+
+el paciente vive con ambos padres y sus hermanos en [[PLACE|Larkhaven]] dentro de [[PLACE|Fernbridge County]] la dirección familiar registrada es [[PLACE|73 Copper Finch Court]] [[PLACE|Larkhaven]] North Carolina [[PLACE|27863]] el contacto principal es [[PARENT|Elena Briseno]] al [[PHONE|252-555-0178]] y el contacto alterno es [[PARENT|Tomás Briseno]] al [[PHONE|919-555-0123]]
+
+la familia describe una rutina estable con desayuno juego escuela y tiempo afuera el niño disfruta animales de juguete camiones y libros con ventanas que se abren puede sostener una actividad elegida durante varios minutos pero cambia de tema cuando no encuentra la palabra que necesita la mamá suele anticipar sus necesidades y dijo “yo ya sé por dónde va pero afuera no lo conocen”
+
+según la entrevista empezó a usar palabras alrededor de [[KEEP|19 months]] y combinaciones alrededor de [[KEEP|32 months]] no se reportó pérdida de palabras ni pérdida de otras habilidades la familia observó más intentos de conversación después de comenzar un grupo pequeño de juego
+
+historia de nacimiento / nacimiento y desarrollo
+
+el embarazo tuvo seguimiento regular y la familia no reportó exposición prenatal conocida a sustancias ni complicaciones mayores el nacimiento ocurrió el [[DATE|June 4, 2022]] en [[HOSPITAL|Willow Harbor Community Hospital]] a las [[TIME|2:18 a.m.]] por parto vaginal a una edad gestacional de [[KEEP|38 weeks 4 days]] el peso al nacer fue [[KEEP|6 lb 12 oz]] los puntajes de Apgar reportados fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos
+
+la mamá recordó observación breve por dificultad inicial para mantener la temperatura y alta con la familia el [[DATE|June 6, 2022]] no reportó ventilación alimentación por sonda ni ingreso prolongado los datos de nacimiento provienen de la entrevista y de una hoja ficticia de alta incluida en este expediente sintético
+
+la familia reportó sedestación independiente a los [[KEEP|7 months]] y marcha a los [[KEEP|14 months]] durante la primera infancia el niño señaló objetos buscó atención compartida y mostró interés por canciones con movimientos actualmente necesita ayuda para algunos pasos al vestirse pero participa cuando el adulto presenta una instrucción breve
+
+historia médica / salud y servicios
+
+la familia reportó episodios de infección de oído durante la primera infancia y una revisión con la Dra. [[PROVIDER|Alicia Monteverde]] el [[DATE|February 12, 2026]] no se reportaron tubos de ventilación convulsiones lesiones de cabeza ni medicamentos diarios el niño tiene sueño generalmente estable y come alimentos de distintas texturas según la entrevista
+
+un informe de [[HOSPITAL|Fernbridge Children's Hearing Center]] fechado [[DATE|March 10, 2026]] registró resultados de audición dentro de los límites esperados para las tareas completadas ese informe no sustituye seguimiento si aparecen cambios durante la sesión respondió a voz conversacional desde distintas posiciones sin necesidad de elevar el volumen
+
+la terapeuta ocupacional [[PROVIDER|Renata Valles]] de [[EMPLOYER|Bright Heron Pediatric Therapy]] realizó una consulta previa por dificultad en transiciones la coordinadora [[PROVIDER|Dalia Neri]] de [[AGENCY|Fernbridge CDSA Office]] documentó un cierre de servicios tempranos el [[DATE|June 20, 2025]] y compartió el resumen del plan familiar con autorización registrada
+
+familia e idiomas / idiomas en casa
+
+la mamá [[PARENT|Elena Briseno]] habla español durante la mayoría de las rutinas y el papá [[PARENT|Tomás Briseno]] usa español e inglés según la actividad él trabaja en [[ORG|Copper Finch Packaging Cooperative]] y comentó que algunos términos de vehículos y herramientas entran al juego familiar en inglés
+
+la hermana [[SIBLING|Sol]] tiene [[KEEP|7 years]] y suele leer libros cortos con el paciente el hermano [[SIBLING|Iván]] tiene [[KEEP|10 months]] la abuela [[FAMILY|Rosa Beltrán]] cuida al niño algunos días y usa español la niñera [[FAMILY|Clara Ledesma]] usa principalmente inglés durante juegos después de la escuela la familia también tiene un perro llamado [[PET|Miga]]
+
+la familia estima exposición aproximada de [[KEEP|65%]] español y [[KEEP|35%]] inglés esas cifras son estimaciones familiares y no mediciones directas el niño cambia de idioma según su interlocutor a veces conserva una palabra en inglés dentro de una oración en español ese cambio por sí solo no se interpretó como error
+
+la mamá dijo “no queremos dejar el español porque así habla con su abuela” se apoyó mantener ambos idiomas y usar modelos naturales que permitan comprender y responder sin exigir traducción inmediata
+
+escuela y cuidado / participación educativa
+
+el paciente asiste a [[SCHOOL|Fernbridge Meadow Elementary School]] del distrito [[SCHOOL|Fernbridge Valley School District]] en la clase de prekindergarten de Ms. [[TEACHER|Vera Salcedo]] llamada [[SCHOOL|Blue Lantern Room]] la asistente [[TEACHER|Inés Paloma]] apoya las transiciones y los juegos por estaciones
+
+el reporte escolar del [[DATE|August 11, 2026]] describe participación fuerte con materiales visuales y dificultad para explicar conflictos durante el juego con [[PEER|Emilio Soria]] y [[PEER|Lina Duarte]] el niño a veces toma un objeto antes de pedir turno y después busca al adulto para explicar lo ocurrido
+
+también asiste a [[DAYCARE|Little Pebble Bilingual Daycare]] en Ms. [[TEACHER|Lopez]]'s room el salón se llama [[DAYCARE|Aula Luciérnaga]] la maestra [[TEACHER|Nadia Lopez]] reportó que sigue mejor las rutinas conocidas que las instrucciones nuevas durante juego con [[PEER|Celia Montal]] necesita apoyo para negociar materiales
+
+ambos entornos reportaron que su mensaje resulta más claro cuando el adulto conoce el tema las dificultades aparecen especialmente al contar eventos sin objetos presentes o cuando otro niño hace una pregunta inesperada
+
+procedimientos / cómo se evaluó
+
+la evaluación incluyó entrevista revisión de registros observación de juego muestra de lenguaje y administración de [[KEEP|PLS-5 Spanish]] con sus subpruebas [[KEEP|Auditory Comprehension]] y [[KEEP|Expressive Communication]] se obtuvo además el compuesto [[KEEP|Total Language]] los nombres de las subpruebas aparecen como etiquetas del formulario
+
+la administración estandarizada se completó antes de ofrecer enseñanza o ayuda adicional después se hicieron pruebas dinámicas separadas con modelos visuales repetición y [[KEEP|mod cues]] para observar la respuesta al apoyo estas respuestas no se añadieron a los puntajes estandarizados
+
+el paciente participó sentado y en el piso con descansos breves no se usó intérprete porque la evaluadora atendió directamente en ambos idiomas la muestra se transcribió con convenciones de [[KEEP|SALT]] incluyendo [[KEEP|[EW]]] cuando correspondía todas las cifras de este informe son datos sintéticos creados para la prueba del sistema
+
+resultados / tabla de puntuaciones
+
+| instrumento y subprueba | fecha junto al puntaje | puntaje estándar | percentil | intervalo de confianza | equivalente de edad |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] [[KEEP|Auditory Comprehension]] | [[DATE|August 18, 2026]] puntaje [[KEEP|77]] | [[KEEP|77]] | [[KEEP|6th]] | [[KEEP|71-85]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5 Spanish]] [[KEEP|Expressive Communication]] | [[DATE|08/18/2026]] puntaje [[KEEP|80]] | [[KEEP|80]] | [[KEEP|9th]] | [[KEEP|74–88]] | [[KEEP|3;3]] |
+| [[KEEP|PLS-5 Spanish]] [[KEEP|Total Language]] | [[DATE|August 18, 2026]] puntaje [[KEEP|77]] | [[KEEP|77]] | [[KEEP|6th]] | [[KEEP|72-84]] | [[KEEP|3;2]] |
+
+los equivalentes de edad describen resultados de tareas y no representan una edad global del niño los intervalos muestran incertidumbre de medición y deben leerse junto con observación e historia funcional
+
+lenguaje receptivo / lo que comprende
+
+en [[KEEP|Auditory Comprehension]] identificó objetos comunes acciones familiares y algunas relaciones espaciales cuando había apoyo visual siguió instrucciones simples con objetos en [[KEEP|8/10]] oportunidades y seleccionó imágenes de acciones en [[KEEP|7/10]] oportunidades las respuestas disminuyeron cuando la instrucción combinó orden temporal cantidad y ubicación
+
+con instrucciones de dos pasos completó [[KEEP|3 of 5]] sin repetición y [[KEEP|4 of 5]] con [[KEEP|min cues]] durante las pruebas dinámicas la frase primero guarda el carro y después dame la caja necesitó un gesto hacia la caja el niño empezó la acción antes de escuchar toda la instrucción
+
+comprendió preguntas sobre qué y dónde con más consistencia que preguntas sobre por qué o qué pasaría después en español y en inglés buscó el objeto visible para responder cuando el referente estaba ausente necesitó una explicación más concreta
+
+durante lectura compartida señaló al personaje que estaba durmiendo pero confundió quién estaba esperando y quién había terminado se observó una combinación de dificultad lingüística y demanda de memoria de trabajo la evaluación no permite separar completamente esos factores el apoyo visual mejoró la respuesta pero la dificultad continuó cuando el adulto retiró el modelo
+
+lenguaje expresivo / cómo comunica
+
+en [[KEEP|Expressive Communication]] nombró objetos familiares pidió materiales y combinó palabras para comentar acciones produjo [[KEEP|"quiero otro carro"]] [[KEEP|"that one va aquí"]] y [[KEEP|"no cabe ahí"]] durante juego espontáneo estas producciones muestran intención comunicativa y uso flexible de recursos en ambos idiomas
+
+las oraciones fueron más cortas cuando debía explicar una causa o relatar un evento omitió algunas palabras funcionales y cambió de tema antes de completar el mensaje al describir una imagen produjo [[KEEP|"niño cayó agua"]] y después añadió [[KEEP|"porque splash"]] cuando se le pidió más información
+
+en la muestra hubo respuestas completas a preguntas conocidas pero respuestas poco específicas como [[KEEP|"eso allá"]] cuando necesitaba nombrar una ubicación ausente produjo una descripción con sujeto y acción en [[KEEP|6/10]] oportunidades y añadió una razón en [[KEEP|2/10]] sin ayuda
+
+con expansión del adulto y [[KEEP|mod cues]] añadió información en [[KEEP|7/10]] oportunidades el patrón apareció en ambos idiomas y no se explicó únicamente por desconocer una palabra en inglés la familia confirmó que también necesita preguntas de apoyo para contar eventos en español
+
+habla / sonidos e inteligibilidad
+
+el examen oral mostró movimientos funcionales para las tareas observadas no se observó una limitación estructural evidente durante habla y juego la evaluación de sonidos fue descriptiva y no incluyó una prueba estandarizada adicional
+
+se observaron sustituciones variables de [[KEEP|/k/]] por [[KEEP|[t]]] y de [[KEEP|/g/]] por [[KEEP|[d]]] además de reducción de grupos consonánticos en inglés la producción de [[KEEP|/ɾ/]] fue variable y no se consideró por sí sola evidencia suficiente de trastorno para su edad e historia lingüística
+
+al trabajar la palabra objetivo [[KEEP|'sol']] produjo [[KEEP|"tol"]] el objetivo [[KEEP|'sol']] se refiere al objeto del cielo la hermana [[SIBLING|Sol]] comparte ese nombre pero las oportunidades de esta tarea usaron una imagen del cielo durante conversación familiar dijo “[[SIBLING|Sol]] ven” y “[[PET|Miga]] run” esas frases se registraron como referencias a personas o al animal
+
+la inteligibilidad estimada fue [[KEEP|75%]] para la evaluadora en contexto conocido y [[KEEP|55%]] cuando faltaba contexto las estimaciones provienen de esta muestra y no representan todos los ambientes produjo [[KEEP|/k/]] en aislamiento en [[KEEP|4/5]] intentos con [[KEEP|mod cues]] y en sílabas en [[KEEP|2/5]] con [[KEEP|max cues]]
+
+pragmática / juego y comunicación social
+
+el paciente buscó atención compartida mostró objetos y respondió a humor sencillo inició intercambios con gestos y palabras y aceptó turnos cuando la actividad era clara durante una secuencia de alimentar animales de juguete sostuvo varios intercambios sin necesidad de preguntas continuas
+
+cuando el adulto fingió no comprender repitió el mismo mensaje primero y luego señaló el objeto pudo reparar su mensaje con [[KEEP|min cues]] en [[KEEP|3/5]] oportunidades una pausa breve ayudó más que varias preguntas seguidas
+
+en una tarea de narración organizó inicio y acción principal pero necesitó apoyo para explicar el resultado produjo [[KEEP|"se fue y cayó"]] sin aclarar quién se había ido el modelo visual permitió añadir el personaje y el lugar
+
+la conducta observada no mostró que el niño evitara comunicarse más bien siguió intentando aun cuando el mensaje no quedaba claro el cansancio aumentó las respuestas breves hacia el final de la sesión por eso las recomendaciones incluyen oportunidades cortas dentro de rutinas conocidas
+
+impresiones / interpretación clínica
+
+los datos sintéticos apoyan una impresión de dificultad receptiva y expresiva que afecta la participación funcional en ambos idiomas junto con dificultad en algunos patrones de sonidos del habla se proponen los códigos [[KEEP|F80.2]] y [[KEEP|F80.0]] para este expediente de prueba
+
+el bilingüismo no se considera la causa de estas dificultades la interpretación se basa en desempeño en ambos idiomas historia familiar observación y respuesta a apoyos se identificaron fortalezas en intención comunicativa juego compartido aprendizaje con modelos y participación familiar
+
+los puntajes por sí solos no describen todo lo que el niño puede hacer tampoco establecen una decisión educativa la escuela debe integrar sus propias observaciones y procedimientos el equivalente de edad no debe usarse para reducir las expectativas generales ni sustituir metas funcionales individuales
+
+la respuesta durante las pruebas dinámicas indica que modelos breves apoyo visual y oportunidades para reparar mensajes pueden facilitar el aprendizaje se recomienda seguir observando cómo estas habilidades cambian en situaciones naturales
+
+recomendaciones / próximos pasos
+
+se recomienda terapia bilingüe individual dos veces por semana durante treinta minutos con revisión después de doce semanas incluir comprensión de instrucciones narración breve reparación de mensajes y sonidos que afecten la inteligibilidad elegir objetivos con la familia y coordinar ejemplos funcionales con los entornos educativos
+
+usar estrategias de [[KEEP|Hanen]] como seguir el interés del niño esperar y expandir su mensaje ofrecer el modelo una vez y permitir otra oportunidad evitar pedir repetición de cada oración durante juego los apoyos visuales pueden acompañar instrucciones nuevas y retirarse cuando la rutina resulte familiar
+
+considerar componentes de [[KEEP|Cycles]] para patrones de sonidos después de establecer una línea base más amplia usar [[KEEP|min cues]] al inicio cuando sean suficientes y ajustar a [[KEEP|mod cues]] según la respuesta registrar si la ayuda permite una producción independiente posterior
+
+en casa practicar peticiones y pequeños relatos durante comida baño y lectura compartir información sobre qué ocurrió primero y qué ocurrió después mantener español e inglés de acuerdo con las rutinas familiares y permitir respuestas que mezclen idiomas
+
+coordinar una revisión escolar el [[DATE|October 27, 2026]] y una revisión clínica el [[DATE|November 10, 2026]] solicitar actualización auditiva si aparecen nuevas preocupaciones la familia puede compartir un resumen autorizado con [[SCHOOL|Fernbridge Meadow Elementary School]] y [[DAYCARE|Little Pebble Bilingual Daycare]]
+
+metas iniciales / objetivos funcionales
+
+la meta clínica [[KEEP|1]] es seguir instrucciones relacionadas de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]] durante juego y rutinas la meta clínica [[KEEP|2]] es producir un mensaje que incluya personaje acción y un detalle en [[KEEP|4 of 5]] oportunidades con [[KEEP|mod cues]]
+
+la meta clínica [[KEEP|3]] es reparar un mensaje poco claro mediante otra palabra un gesto o una explicación en [[KEEP|80%]] de oportunidades con [[KEEP|min cues]] la meta clínica [[KEEP|4]] es producir el sonido seleccionado en palabras funcionales en [[KEEP|8/10]] intentos con [[KEEP|mod cues]]
+
+el antiguo resultado del IFSP número [[KEEP|2]] se revisó como antecedente familiar y no como plan vigente
+
+firma y cierre
+
+la mamá expresó comprensión del resumen y preferencia por mantener ambos idiomas se entregó una copia ficticia para el expediente
+
+dictado y firmado por [[PROVIDER|Mariela Castañeda]], MA CCC-SLP
+[[EMPLOYER|Bright Heron Pediatric Therapy]]
+fecha de firma: [[DATE|August 19, 2026]]
+hora de firma: [[TIME|4:42 p.m.]]

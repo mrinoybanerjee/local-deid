@@ -1,0 +1,117 @@
++ Name: [[CHILD|Mateo Julián Ríos Salcedo]]
++ CA: [[KEEP|4;2]]
++ Context: Evaluación inicial bilingüe del habla y del lenguaje; entrevista familiar, juego, muestra de conversación y evaluación estructurada.
++ Fecha de nacimiento: [[DATE|3 de enero de 2021]]
++ Fecha de evaluación: [[DATE|3 de marzo de 2025]]
++ Fecha del informe: [[DATE|03/07/2025]]
++ Horario: [[TIME|9:10 a. m.]] a [[TIME|11:05 a. m.]]
++ Expediente: [[ID|SLP-NC-250303-047]]
++ Medicaid: [[MEDICAID_ID|483726195Q]]
++ Autorización: [[ID|AUT-250217-6831]]
++ Profesional: [[PROVIDER|Elena Marisol Varela]], patóloga bilingüe del habla y del lenguaje.
++ Empresa: [[EMPLOYER|Servicios Pediátricos Puente de Palabras]]
++ Dirección: [[PLACE|1847 Calle Brisa Norte]], [[PLACE|Arroyo Claro]], Carolina del Norte, [[PLACE|28163]].
++ Teléfono: [[PHONE|704-555-0147]]
++ Correo: [[EMAIL|elena.varela@puentepalabras.example]]
++ Sitio: [[URL|https://puentepalabras.example]]
++ Informantes: su mamá [[PARENT|Lucía Salcedo Mendoza]] y su papá [[PARENT|Gabriel Ríos Valdés]].
++ Escolaridad: [[DAYCARE|Centro Infantil Semillas del Arroyo]].
++ Referencia: [[PROVIDER|Nora Isabel Pineda]], coordinadora de servicios.
+
+Resumen
+
+[[CHILD|Mateo]] participó en una evaluación realizada principalmente en español, con oportunidades de responder en inglés cuando resultaba natural. La familia solicitó apoyo porque el niño usa frases breves y suele frustrarse cuando otras personas no comprenden sus mensajes. Los resultados indican dificultades del lenguaje receptivo y expresivo presentes en ambos idiomas. También se observaron patrones fonológicos que reducen la claridad del habla. El desempeño mejoró con apoyos visuales, tiempo adicional y modelos breves. Se recomienda intervención bilingüe, coordinación educativa y seguimiento auditivo. La exposición a dos idiomas explica algunas diferencias de vocabulario, pero no explica por sí sola las dificultades observadas.
+
+Antecedentes y motivo de consulta
+
+La referencia llegó desde la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Valle Cedro]], identificada en los registros como [[AGENCY|CDSA de Valle Cedro]]. Esta oficina había acompañado a la familia antes de la transición al sistema educativo. La coordinadora pertenece a la [[AGENCY|Agencia Comunitaria de Acompañamiento Familiar y Coordinación de Servicios]], cuya forma breve es [[AGENCY|ACAF]]. Su función actual consiste en facilitar comunicación y reunir antecedentes. La evaluación no supone que el niño siga siendo elegible para servicios de intervención temprana.
+
+La mamá indicó que [[CHILD|Mateo Julián Ríos Salcedo]] comprende rutinas conocidas, pero necesita ayuda cuando una instrucción contiene información nueva. En casa pide objetos mediante palabras, gestos y aproximaciones verbales. Cuando su interlocutor no entiende, aumenta el volumen o conduce al adulto hacia el objeto. El papá observa que el niño comunica mejor durante actividades concretas que durante preguntas abiertas. Ambos padres desean que pueda contar experiencias, pedir ayuda y participar con mayor independencia en el aula.
+
+La maestra [[TEACHER|Carmen]] informó que el niño busca a sus compañeros y disfruta las actividades musicales. Sin embargo, suele observar antes de entrar al juego. En el grupo se relaciona con [[PEER|Alma Benítez]] y [[PEER|Diego Solano]]. Durante conflictos por materiales, recurre al gesto o se retira. Miss [[TEACHER|Ana]] señaló que responde mejor cuando recibe una instrucción breve acompañada de una imagen. Mr. [[TEACHER|Tom]], auxiliar del aula, describió dificultades para comprender su habla sin contexto.
+
+La familia presentó un informe de transición fechado [[DATE|2024-06-04]] y una nota de seguimiento del [[DATE|12/18/2024]]. La entrevista familiar se completó el [[DATE|27/02/2025]]. La mamá recordó que la reunión principal ocurrió el [[DATE|martes 4 de junio de 2024]], después de una visita al programa preescolar. Los documentos describen necesidades similares en distintas situaciones. No se aportaron registros completos de todas las visitas anteriores, por lo que algunos antecedentes proceden exclusivamente del relato familiar.
+
+Historia de nacimiento y desarrollo
+
+El embarazo transcurrió con controles prenatales regulares, según la mamá. El nacimiento ocurrió a las [[KEEP|38 semanas y 4 días]] de gestación en el [[HOSPITAL|Hospital Materno Infantil del Arroyo]]. El peso al nacer fue de [[KEEP|3,180 gramos]]. Los puntajes de Apgar consignados en el resumen aportado fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] al quinto minuto. No se informó ventilación prolongada ni ingreso a cuidados intensivos. La familia describió alimentación inicial adecuada y alta hospitalaria sin complicaciones importantes.
+
+Los padres recordaron que el niño se sentó sin apoyo alrededor de los [[KEEP|7 meses]] y caminó cerca de los [[KEEP|14 meses]]. Las primeras palabras reconocibles aparecieron aproximadamente a los [[KEEP|18 meses]]. Las combinaciones espontáneas de palabras se hicieron más frecuentes después de los [[KEEP|30 meses]]. Estas edades son estimaciones familiares y no mediciones obtenidas durante la evaluación. La familia no describió pérdida de palabras, de habilidades sociales ni de capacidades motoras previamente adquiridas.
+
+Actualmente, [[CHILD|Teo]] participa en la alimentación, el vestido y la recogida de juguetes con supervisión. La familia utiliza este apodo de manera habitual. El niño tolera distintas texturas alimentarias y bebe de vaso abierto. No se reportaron episodios frecuentes de tos al comer ni dificultad para masticar. El control de esfínteres continúa en desarrollo. Los padres señalan que anticipar los cambios con palabras simples y fotografías facilita la cooperación durante las rutinas diarias.
+
+Historia médica y servicios anteriores
+
+La pediatra, Dra. [[PROVIDER|Paula Inés Montalvo]], documentó episodios de otitis media durante la primera infancia. La familia recordó una revisión el [[DATE|09.16.2024]], pero no presentó un informe audiológico reciente. La respuesta a sonidos cotidianos parece adecuada según los padres. Esa observación no confirma umbrales auditivos normales. Se recomienda una evaluación audiológica completa, especialmente por el antecedente de infecciones y las dificultades para discriminar algunos contrastes del habla durante las tareas clínicas.
+
+La revisión de antecedentes no identificó hospitalizaciones posteriores, convulsiones ni lesiones neurológicas conocidas. La mamá informó sueño variable cuando cambia la rutina familiar. No se comunicaron medicamentos de uso diario. El examen funcional mostró movimientos orales suficientes para las tareas realizadas, sin asimetría evidente. La voz y la resonancia resultaron funcionales durante la sesión. Esta observación clínica no sustituye una evaluación médica cuando aparecen síntomas nuevos o preocupaciones específicas.
+
+El niño recibió visitas domiciliarias de la terapeuta [[PROVIDER|Irene Delgado]] durante un periodo anterior. La nota del [[DATE|15 de febrero de 2024]] describió trabajo con gestos, turnos y expansión de mensajes. También mencionó estrategias del programa [[KEEP|Hanen]]. La familia indicó que algunas actividades ayudaron, pero no pudo mantener visitas regulares por cambios laborales. No se confirmó la frecuencia total de atención. La [[AGENCY|CDSA de Valle Cedro]] conserva los antecedentes disponibles de esa etapa.
+
+Historia familiar y de idiomas
+
+El hogar incluye a ambos padres, a su hermana [[SIBLING|Valeria Ríos Salcedo]], de [[KEEP|8 años]], y a su hermano [[SIBLING|Nicolás Ríos Salcedo]], de [[KEEP|18 meses]]. Su abuela [[FAMILY|Guadalupe Mendoza Reyes]], a quien llaman doña [[FAMILY|Lupe]], cuida al niño algunas tardes. Su tía [[FAMILY|Rosa Salcedo]] participa en las rutinas del fin de semana. La familia tiene un perro llamado [[PET|Rocky]]. Todos estos interlocutores aportan oportunidades de comunicación, aunque sus formas de apoyar al niño varían.
+
+La mamá creció en la comunidad de [[PLACE|San Jacinto del Río]], en México. La dirección familiar de referencia es [[PLACE|Calle del Cedro 28]], [[PLACE|Barrio Las Campanas]], [[PLACE|San Jacinto del Río]], Oaxaca. El niño conversa por video con familiares que viven allí. El papá trabaja en [[ORG|Distribuidora Roble del Sur]] y usa español e inglés durante su jornada. La mamá trabaja en [[ORG|Panadería Brisa de Maíz]], donde predomina el español.
+
+Los padres estimaron una exposición aproximada de [[KEEP|75%]] al español y [[KEEP|25%]] al inglés fuera del aula. Estas proporciones describen su impresión general, no un registro diario. En [[DAYCARE|Centro Infantil Semillas del Arroyo]] escucha ambos idiomas, con mayor presencia del inglés durante actividades grupales. El español sigue siendo el idioma principal de afecto, disciplina y conversación familiar. No se recomienda reducir su uso. La intervención debe ampliar recursos comunicativos en los dos idiomas.
+
+La hermana suele traducir palabras y terminar mensajes cuando el niño tarda en responder. Se explicó que conviene darle tiempo y ofrecer ayuda sin hablar siempre por él. El abuelo [[FAMILY|Esteban Ríos]] comentó antecedentes familiares de habla poco clara durante la infancia, sin documentación diagnóstica. La vecina [[PERSON|Marta Celis]] acompaña ocasionalmente a la familia en actividades comunitarias. No se informó que ella proporcione atención terapéutica ni enseñanza formal.
+
+Procedimientos y condiciones de evaluación
+
+La evaluación combinó entrevista, revisión de documentos, observación de juego y administración de [[KEEP|PLS-5 Spanish]]. Se examinaron los componentes [[KEEP|Comprensión auditiva]], [[KEEP|Comunicación expresiva]] y [[KEEP|Lenguaje total]]. También se obtuvo una muestra narrativa breve con apoyo de imágenes. Se aceptaron respuestas pertinentes en ambos idiomas conforme a las reglas aplicables del instrumento. Las tareas clínicas complementarias se analizaron por separado y no se sumaron a los puntajes estandarizados.
+
+Al comenzar, [[CHILD|Mateo]] permaneció cerca de su mamá y observó los materiales. Después eligió vehículos y animales. La participación aumentó cuando pudo alternar una tarea estructurada con juego libre. Se ofrecieron pausas y se evitó exigir respuestas durante momentos de cansancio. El niño no necesitó interpretación externa porque la profesional realizó la entrevista y las tareas en español e inglés. La familia autorizó que las observaciones educativas se incorporaran al informe.
+
+Durante las tareas calificadas no se añadieron ayudas que alteraran las reglas de administración. Después se repitieron actividades seleccionadas con [[KEEP|min cues]], [[KEEP|mod cues]] o [[KEEP|max cues]] para explorar capacidad de aprendizaje. Esos ensayos no modificaron los resultados normativos. La atención fluctuó, pero el niño completó suficientes oportunidades para obtener los puntajes informados. Los resultados deben interpretarse junto con la historia de exposición lingüística, la conducta observada y el desempeño cotidiano.
+
+Resultados de pruebas
+
+La siguiente tabla resume los resultados de [[KEEP|PLS-5 Spanish]]. Los intervalos de confianza corresponden al nivel de [[KEEP|90%]]. Las edades equivalentes son descriptores del desempeño en el instrumento. No representan una edad global del desarrollo ni deben utilizarse como único criterio para decidir servicios.
+
+| Prueba o subprueba | Puntaje estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---:|---:|---|---|
+| [[KEEP|Comprensión auditiva]] | [[KEEP|77]] | [[KEEP|6]] | [[KEEP|73-83]] | [[KEEP|2;10]] |
+| [[KEEP|Comunicación expresiva]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|76–86]] | [[KEEP|3;0]] |
+| [[KEEP|Lenguaje total]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|74-84]] | [[KEEP|2;11]] |
+
+El perfil muestra dificultades en las dos áreas examinadas. El rango descriptivo de edades equivalentes observado entre tareas complementarias fue [[KEEP|2;6–3;0]]. Ese rango no procede de una conversión adicional del puntaje total. La diferencia entre los resultados receptivos y expresivos fue pequeña y no se interpretó como una separación clínica firme. Las necesidades funcionales aparecen tanto al comprender mensajes como al formular respuestas.
+
+Comprensión y expresión
+
+En comprensión, el niño identificó objetos familiares y acciones concretas. Siguió instrucciones simples en [[KEEP|8/10]] oportunidades sin ayuda adicional. Cuando la instrucción incluyó dos acciones relacionadas, respondió correctamente en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]]. Las mayores dificultades aparecieron con relaciones espaciales, negación y preguntas sobre causas. El contexto y los gestos facilitaron las respuestas, pero no eliminaron todos los errores. El patrón se observó en español y en inglés.
+
+En expresión, produjo mensajes breves para pedir, rechazar y comentar. Usó sustantivos y verbos frecuentes, con omisiones variables de artículos y elementos gramaticales. Algunas diferencias corresponden al aprendizaje bilingüe; otras persistieron incluso cuando conocía el vocabulario. Entre las producciones registradas estuvieron [[KEEP|“quiero carro”]], [[KEEP|“no cabe”]] y [[KEEP|“mamá ayuda”]]. También dijo “[[PET|Rocky]] corre” y “[[CHILD|Teo]] quiere agua”. Estas últimas frases contienen nombres propios y se conservaron como producciones contextualizadas.
+
+La muestra mostró intención comunicativa clara, pero pocos detalles sobre experiencias pasadas. Ante una secuencia ilustrada, nombró objetos y acciones sin organizar una explicación completa. Con [[KEEP|mod cues]] incorporó un personaje y una acción principal. La expansión del adulto facilitó una respuesta más larga en [[KEEP|6/8]] ensayos. Se anotaron repeticiones y errores mediante códigos SALT, incluidos [[KEEP|[EW]]] y [[KEEP|[EU]]]. Estos códigos describen la muestra y no constituyen diagnósticos independientes.
+
+Habla, interacción y aprendizaje
+
+Se observaron omisiones de consonantes finales y sustituciones en palabras de varias sílabas. En tareas de imitación, [[KEEP|/k/]] apareció como [[KEEP|[t]]] en algunas posiciones. La producción de [[KEEP|/ɾ/]] fue variable. En ciertas palabras inglesas se escuchó [[KEEP|[w]]] donde el modelo contenía una consonante líquida. Se consideraron las diferencias entre sistemas fonológicos antes de clasificar un patrón como dificultad. No todas las variantes bilingües requieren intervención.
+
+Durante palabras conocidas, produjo [[KEEP|“tasa”]] para el objetivo [[KEEP|“casa”]] y [[KEEP|“pato”]] para [[KEEP|“plato”]]. La inteligibilidad estimada por la profesional fue de [[KEEP|65%]] con contexto y de [[KEEP|40%]] sin contexto. Estas cifras son estimaciones clínicas de la muestra, no resultados de una prueba estandarizada. La familiaridad del interlocutor influyó en la comprensión. La mamá interpretó mensajes que la profesional necesitó confirmar mediante preguntas o gestos.
+
+El niño compartió materiales, buscó atención y mostró disfrute durante el juego. Inició intercambios cuando los objetos estaban visibles. Le resultó más difícil reparar mensajes y sostener conversaciones sobre situaciones ausentes. Al recibir un modelo breve, mejoró la precisión de algunas palabras con [[KEEP|min cues]]. El cambio dentro de la sesión sugiere capacidad para aprender con enseñanza directa. No permite predecir por sí solo la velocidad del progreso terapéutico.
+
+Impresiones clínicas
+
+El conjunto de resultados es compatible con un trastorno del lenguaje receptivo y expresivo, registrado como [[KEEP|F80.2]], y dificultades fonológicas compatibles con [[KEEP|F80.0]]. La formulación considera ambas lenguas, los antecedentes y la repercusión funcional. La exposición bilingüe no se identifica como causa del trastorno. La ausencia de audiología reciente limita la interpretación de algunos errores. Se recomienda confirmar el estado auditivo y revisar la formulación si aparecen hallazgos médicos relevantes.
+
+Las fortalezas incluyen interés social, juego funcional, apoyo familiar y respuesta a modelos. Las necesidades principales son comprender instrucciones nuevas, ampliar mensajes, organizar relatos y mejorar la claridad del habla. Para documentación administrativa, la evaluación corresponde a [[KEEP|CPT 92523]] y el tratamiento individual propuesto a [[KEEP|CPT 92507]], con modificador [[KEEP|GN]] cuando sea aplicable. Estos códigos describen servicios; no establecen por sí solos cobertura, frecuencia autorizada ni elegibilidad educativa.
+
+Recomendaciones y plan
+
+1. Iniciar tratamiento bilingüe semanal con participación familiar. Priorizar mensajes útiles para pedir ayuda, explicar problemas y compartir experiencias. Revisar la respuesta al tratamiento el [[DATE|5 de junio de 2025]]. Combinar juego guiado, expansión y apoyos visuales. Considerar estrategias de [[KEEP|Hanen]] y elementos de [[KEEP|Cycles]] cuando correspondan al perfil fonológico. No se propone [[KEEP|PROMPT]] ni [[KEEP|PECS]] como programa principal en este momento.
+
+2. Solicitar evaluación audiológica por medio de la pediatra. Compartir el resultado con la profesional y el equipo educativo. Coordinar con [[SCHOOL|Escuela Primaria Sendero del Cedro]] la revisión de necesidades y apoyos escolares. La coordinadora [[PROVIDER|Nora Isabel Pineda]], de la [[AGENCY|ACAF]], puede facilitar el intercambio de documentos con autorización familiar. La escuela determinará su propio proceso de evaluación y elegibilidad.
+
+3. Mantener el español en las rutinas familiares. Ofrecer modelos breves, esperar la respuesta y ampliar el mensaje sin exigir repetición constante. Practicar durante comidas, vestido y juego. Usar objetivos funcionales como [[KEEP|“ayúdame”]], [[KEEP|“quiero otro”]] y [[KEEP|“está debajo”]]. Reservar una práctica breve antes de las [[TIME|6:30 p. m.]], cuando la familia identifica mayor disponibilidad. Registrar ejemplos de comunicación espontánea.
+
+4. Retomar el resultado [[KEEP|1]] del IFSP histórico, centrado en pedir ayuda durante rutinas. Documentar una meta actual de mensajes funcionales en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Vincular el resultado [[KEEP|2]] del IFSP histórico con comprensión de instrucciones. Establecer una meta inicial de [[KEEP|80%]] de respuestas correctas con [[KEEP|mod cues]]. Estos objetivos deberán adaptarse al plan vigente y a las prioridades familiares.
+
+5. Facilitar participación en el aula mediante imágenes, instrucciones cortas y tiempo para responder. Enseñar a los adultos a confirmar el mensaje sin completar todas las frases. Observar intercambios con [[PEER|Alma]] y [[PEER|Diego]] para medir participación cotidiana. En la revisión, comparar muestras semejantes y registrar ayudas utilizadas. La familia recibió explicación de los resultados en español y una copia del plan propuesto.
+
+Firma: [[PROVIDER|Elena Marisol Varela]], patóloga bilingüe del habla y del lenguaje, [[EMPLOYER|Servicios Pediátricos Puente de Palabras]].
+Licencia profesional ficticia: [[ID|NC-SLP-48271]].
+Fecha de firma: [[DATE|7 de marzo de 2025]].

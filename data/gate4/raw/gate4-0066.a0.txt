@@ -1,0 +1,27 @@
+nota diaria de terapia del habla y lenguaje
+fecha [[DATE|11 de octubre de 2026]] expediente [[ID|SLP-260184]] medicaid [[MEDICAID_ID|583014762Q]] autorización [[ID|AUT-69138]]
+cliente [[CHILD|Nicolás Arvelo]] edad [[KEEP|3;4]] profesional licenciada [[PROVIDER|Elena Boscán]] patóloga bilingüe de [[EMPLOYER|Puentes de Palabras Infantil]] en North Carolina
+
+subjetivo
+su mamá [[PARENT|Marina Arvelo]] refiere que [[CHILD|Nico]] pide ayuda con gestos y se frustra cuando su papá [[PARENT|Tomás Leiva]] anticipa todo su hermano [[SIBLING|Bruno Leiva]] suele contestar por él y su abuela [[FAMILY|Ofelia Canto]] practica durante la merienda hoy durmió bien sin cambios médicos reportados nació a las [[KEEP|38 semanas]] con peso de [[KEEP|3.120 kg]] y apgar de [[KEEP|8/9]] según historia familiar la familia prefiere explicaciones en español y ejemplos en ambos idiomas
+
+horario acordado de sesiones
+| día | inicio | fin | lugar |
+| lunes | [[TIME|9:10 a. m.]] | [[TIME|9:45 a. m.]] | [[DAYCARE|El Paraguas de los Caracoles]] |
+| miércoles | [[TIME|2:05 p. m.]] | [[TIME|2:40 p. m.]] | domicilio |
+| viernes | [[TIME|10:20 a. m.]] | [[TIME|10:55 a. m.]] | [[SCHOOL|Escuela Semillero Lunar]] |
+
+el domicilio registrado es [[PLACE|184 calle Junco Azul]] en [[PLACE|Valle Brumoso]] condado de [[PLACE|Cedraluz]] North Carolina [[PLACE|27904]] la maestra señora [[TEACHER|Dalia Vento]] recibió las actividades y la auxiliar [[TEACHER|Rosa Miret]] observó turnos con sus compañeros [[PEER|Iván Neri]] y [[PEER|Luna Farol]] sin compartir sus resultados individuales
+
+objetivo
+se trabajó juego simbólico y expansión de frases mediante [[KEEP|Hanen]] con apoyos de [[KEEP|PECS]] produjo [[KEEP|"más agua"]] en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]] y [[KEEP|"quiero abrir"]] en [[KEEP|3 de 5]] oportunidades con [[KEEP|min cues]] la precisión de [[KEEP|/k/]] inicial fue [[KEEP|60%]] y apareció sustitución por [[KEEP|[t]]] en [[KEEP|"casa"]] la producción [[KEEP|"agua"]] mantuvo [[KEEP|[w]]] entre vocales en la muestra se registró [[KEEP|[EW]]] una vez también dijo "[[PET|Trompo]] ven" al mirar una fotografía familiar
+
+los resultados previos de [[KEEP|PLS-5 Spanish]] obtenidos el [[DATE|23 de septiembre de 2026]] incluyeron [[KEEP|Comprensión auditiva]] puntuación estándar [[KEEP|78]] percentil [[KEEP|7]] intervalo de confianza [[KEEP|73-83]] y equivalente de edad [[KEEP|2;6–3;0]] estos datos orientan objetivos junto con observación bilingüe y reporte familiar no se repitió evaluación formal hoy
+
+análisis
+[[CHILD|Nicolás]] muestra progreso en peticiones espontáneas pero necesita tiempo de espera y modelos breves la pediatra doctora [[PROVIDER|Inés Valcera]] de [[HOSPITAL|Hospital Infantil Brisa Clara]] mantiene seguimiento la meta [[KEEP|2]] del IFSP continúa vigente desde [[DATE|30 de septiembre de 2026]] el servicio corresponde a [[KEEP|CPT 92507]] diagnóstico [[KEEP|ICD-10 F80.2]] modificador [[KEEP|GN]]
+
+plan
+la coordinadora [[PROVIDER|Celia Orante]] de [[AGENCY|CDSA Senderos del Alba]] revisará transporte con [[AGENCY|DSS Cedraluz]] y recursos de [[AGENCY|WIC Ventana Sana]] [[AGENCY|Smart Start Brotes del Río]] y [[AGENCY|Early Head Start Luciérnagas]] la recepcionista [[PERSON|Ada Beltrán]] confirmó contacto familiar [[PHONE|(919) 555-0146]] contacto clínico [[PHONE|984-555-0183]] y teléfono de la abuela en México [[PHONE|+52 55 5555 0148]] su mamá trabaja en [[ORG|Textiles Orilla Serena]] y solicita coordinación por [[EMAIL|marina.arvelo@example.com]] materiales disponibles en [[URL|https://puentesinfantil.example/recursos]]
+
+continuar modelos durante rutinas sin exigir repetición revisar respuesta familiar en próxima sesión y documentar generalización con juguetes diferentes se dejó una hoja visual para practicar peticiones durante comidas y guardar juguetes con pausas breves entre cada modelo ofrecido por los adultos presentes en casa

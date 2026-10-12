@@ -1,0 +1,25 @@
+NOTA DE SESIÓN DIARIA – SOAP
+
+Pt: [[CHILD|Mateo Hernández Cruz]] (apodo "[[CHILD|Mateíto]]")
+Fecha de sx: [[DATE|9 de octubre de 2026]]
+DOB: [[DATE|14 de marzo de 2022]] — edad [[KEEP|4;6]]
+ID de caso: [[ID|NC-48217-MHC]]
+Medicaid #: [[MEDICAID_ID|928471693A]]
+CG presente: su mamá [[PARENT|Lucía Hernández Cruz]]
+Clínica: [[PROVIDER|Patricia Gómez, M.S., CCC-SLP]], bilingüe, de [[EMPLOYER|Carolina Bilingual Therapy Services]]
+Lugar: domicilio, [[PLACE|412 Willowbrook Lane, Durham, NC 27703]]
+Hora: [[TIME|3:30 pm]] a [[TIME|4:15 pm]]
+
+S (Subjetivo):
+CG reporta q pt. durmió bien y comió bien antes de la sx. Dice q [[CHILD|Mateo]] empezó la semana pasada en [[DAYCARE|Little Learners Daycare]], y q la maestra, [[TEACHER|Srta. Karen Boyd]], comentó q [[CHILD|Mateo]] jugó bien c/ su compañerito [[PEER|Josiah]] durante el recreo. CG tmb reporta q la familia asiste cada domingo a [[ORG|Iglesia Pentecostal Monte de Sión]] y q [[CHILD|Mateo]] disfruta mucho el programa de niños ahí. Dice q su hermana mayor, [[SIBLING|Valentina]], ayuda a cuidarlo en las tardes, y q la abuela, [[FAMILY|Rosa Cruz]], viene 2x/sem desde [[PLACE|Henderson, NC]] p/ apoyar c/ el cuidado. CG pide actualizar el tel de contacto: antes era [[PHONE|(919) 555-2041]], ahora es [[PHONE|919-555-8873]] (celular) y el del trabajo [[PHONE|(984) 555-0192 ext. 3]]. Tmb dejó el num de la abuela en [[PLACE|Puebla]], México, p/ emergencias: [[PHONE|+52 222 555 4019]].
+
+O (Objetivo):
+Pt participó en tx de lenguaje x 45 min, enfocado en [[KEEP|Meta 2]] del IFSP (producción de /[[KEEP|ɾ]]/ en posición inicial) y [[KEEP|Meta 3]] (sintaxis de oraciones compuestas). Se usó approach [[KEEP|PROMPT]] c/ [[KEEP|mod cues]] p/ elicitar "[[KEEP|rana]]" → pt produjo "[[KEEP|[d]ana]]", mejorando a "[[KEEP|[ɾ]ana]]" c/ [[KEEP|min cues]] en [[KEEP|3 de 5]] intentos. Admin. de subprueba [[KEEP|Articulación]] del [[KEEP|Goldman-Fristoe 3]]: SS [[KEEP|78]], percentil [[KEEP|7]]. En [[KEEP|CELF-5]], subprueba [[KEEP|Comprensión Auditiva]]: SS [[KEEP|82]] (CI [[KEEP|76-88]]). Pt tmb jugó c/ su perrito de peluche y produjo "[[KEEP|[d]oqui]]" al intentar decir el nombre de su perro real, [[PET|Rocky]]. Se usó [[KEEP|Hanen]] p/ modelar lenguaje expansivo durante el juego. CPT [[KEEP|92507]], Dx [[KEEP|F80.1]].
+
+A (Análisis):
+Pt muestra progreso gradual en /r/ inicial c/ cues reducidos. CG reporta q la coordinadora de servicios, [[PROVIDER|Ana Lucía Ferreira]], de [[AGENCY|CDSA del Triángulo]], confirmó la revisión del IFSP p/ [[DATE|15 de enero de 2027]]. Tmb se mencionó q el pediatra, [[PROVIDER|Dr. Samuel Ortiz]], refirió a pt a audiología b/c sospecha de otitis recurrente.
+
+P (Plan):
+Continuar tx 2x/sem x [[EMPLOYER|Carolina Bilingual Therapy Services]]. CG preguntó sobre inscribir a pt en [[ORG|Little Learners Program]] (programa de terapia grupal; no confundir c/ la guardería mencionada arriba), q se ofrece en el centro comunitario de [[PLACE|Durham County]]. Se recomienda tmb contactar a la biblioteca local p/ el programa de lectura bilingüe en [[ORG|North Regional Library]]. Próxima sx: [[DATE|16 de octubre de 2026]] a las [[TIME|3:30 pm]].
+
+Nota firmada por [[PROVIDER|Patricia Gómez, M.S., CCC-SLP]], [[EMAIL|pgomez@carolinabilingualtx.com]].

@@ -1,0 +1,39 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+INFORMACIÓN GENERAL
+- Niño: [[CHILD|Mateo Fernández Cruz]] ("[[CHILD|Teo]]"), edad [[KEEP|4;2]]
+- Fecha de sesión: [[DATE|3 de marzo de 2025]], hora [[TIME|2:30 p.m.]]
+- Clínica: [[PROVIDER|Patricia Gómez]], CCC-SLP, de [[EMPLOYER|Carolina Pediatric Therapy Services]]
+- Número de caso: [[ID|NC-2025-00471]]
+- Medicaid: [[MEDICAID_ID|987654321A]]
+- Escuela: [[SCHOOL|Escuela Primaria Oak Grove]], del [[AGENCY|Distrito Escolar de las Escuelas Públicas del Condado de Wake]], salón de la maestra [[TEACHER|Sra. García]]
+- Preescolar anterior: [[DAYCARE|El Jardín de los Sueños]]
+- Madre: [[PARENT|Lucía Rodríguez]]; Padre: [[PARENT|Carlos Fernández]]
+- Hermana: [[SIBLING|Sol]], de 7 años
+- Abuela/cuidadora: [[FAMILY|Rosa]]; tía materna: [[FAMILY|Luz Fernández]]
+- Perro de la familia: [[PET|Rocky]]
+
+SUBJETIVO
+- La mamá, [[PARENT|Lucía Rodríguez]], reporta que [[CHILD|Teo]] jugó con su compañero [[PEER|Diego]] el [[DATE|martes 4 de marzo de 2025]] y usó frases de tres palabras durante el juego con [[PET|Rocky]].
+- La maestra [[TEACHER|Sra. García]] comentó que [[CHILD|Mateo]] participó bien en el círculo junto a su compañera [[PEER|Camila]].
+- La abuela [[FAMILY|Rosa]] cuida a [[CHILD|Teo]] los miércoles por la tarde en su casa de [[PLACE|Garner]].
+
+OBJETIVO
+- Se administró la subprueba [[KEEP|Comprensión Auditiva]] del [[KEEP|PLS-5]]; puntaje estándar [[KEEP|82]], percentil [[KEEP|12]].
+- Producción de /k/ en posición inicial: [[CHILD|Teo]] dijo "[[KEEP|casa]]" correctamente en [[KEEP|8/10]] ensayos con [[KEEP|claves mínimas]].
+- Error fonológico persistente: sustituyó /ɾ/ por [w] en la palabra objetivo "[[KEEP|perro]]", produciendo "[[KEEP|pewo]]".
+- Se usaron [[KEEP|claves moderadas]] para iniciar oraciones de tres palabras.
+- Se aplicó el enfoque [[KEEP|PROMPT]] para apoyar la colocación articulatoria.
+- Longitud media de enunciado: [[KEEP|3.2]] morfemas, dentro del rango [[KEEP|2.8–3.5]] esperado para su edad.
+
+EVALUACIÓN
+- [[CHILD|Mateo]] muestra progreso en inteligibilidad, ahora [[KEEP|75%]] con oyentes familiares, comparado con [[KEEP|60%]] en enero.
+- Continúa con retraso fonológico leve a moderado, consistente con [[KEEP|F80.0]].
+- Se recomienda mantener intervención dos veces por semana, sesiones de [[KEEP|30 minutos]].
+
+PLAN
+- Próxima sesión programada para el [[DATE|10/03/2025]] a las [[TIME|3:00 p.m.]] en [[SCHOOL|Escuela Primaria Oak Grove]].
+- Coordinar con la coordinadora de servicios [[PROVIDER|Ana Martínez]] de [[AGENCY|CDSA de la Región de Raleigh]] para revisar el IFSP, objetivo [[KEEP|2.3]].
+- Confirmar la cita con la familia llamando al [[PHONE|(919) 555-0148]] antes del [[DATE|14-03-2025]].
+- Enviar resumen de sesión a [[EMAIL|lrodriguez.family@example.com]].
+- Revisión semestral del IFSP programada para [[DATE|el lunes 2 de junio de 2025]], con interpretación a cargo de [[PROVIDER|Interpreter Marta Soto]].

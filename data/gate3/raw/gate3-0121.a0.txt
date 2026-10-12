@@ -1,0 +1,23 @@
+Daily bilingual speech-language therapy note — North Carolina
+Client: [[CHILD|Mateo Salceda]]; preferred name [[CHILD|Teo]]. DOB: [[DATE|August 7, 2022]]. Age: [[KEEP|4;2]].
+Service: [[DATE|October 9, 2026]], [[TIME|9:15 AM]]–[[TIME|10:00 AM]].
+Site: [[DAYCARE|Little Lantern Learning House]], [[PLACE|418 Willowglass Lane]], [[PLACE|Arroyo Verde]], NC [[PLACE|27843]].
+Clinician: [[PROVIDER|Elena Varela]], MS, CCC-SLP; [[EMPLOYER|Willowbridge Pediatric Therapy]].
+Record: [[ID|WPT-26094]]; Medicaid: [[MEDICAID_ID|483726159Q]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S: Subjetivo / reporte familiar.
+Mamá [[PARENT|Lucía Salceda]] attended initial transition; reports increased requesting en español at home, limited spontaneous English at daycare. “Ya pide ayuda, pero cuando hay ruido se queda callado.” Dad [[PARENT|Daniel Salceda]] reports similar pattern after work at [[ORG|Maplewick Packaging]]. Sister [[SIBLING|Rosa]] joins pretend play; aunt [[FAMILY|Paz Molina]] provides afternoon care. Family reports no new hearing concerns, illness, or medication changes. Teacher Ms. [[TEACHER|Nora Beltrán]] reports better participation beside peer [[PEER|Eli Navarro]]. Child arrived alert; brief protest when caregiver left, resolved with visual schedule. Per fictional intake history: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], Apgar scores [[KEEP|8 and 9]]. Family priorities remain requesting help and sharing short messages across languages.
+
+O: Objetivo / intervención.
+Play-based session using [[KEEP|Hanen]] strategies and [[KEEP|bilingual focused stimulation]]; mother observed final practice. Addressed IFSP outcome [[KEEP|2]], goal [[KEEP|2.1]]. Requested desired items with two-word combinations in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], versus [[KEEP|4/10]] independently. Target phrases: [[KEEP|“más agua”]], [[KEEP|“help me”]], [[KEEP|“abre caja”]]. Followed familiar two-step directions in [[KEEP|3 of 5]] trials with [[KEEP|min cues]]; accuracy [[KEEP|60%]]. Performance improved when clinician paired spoken directions with gestures; reduced visual support increased latency.
+
+During animal play, spontaneous productions included “[[PET|Chispa]] corre,” “[[SIBLING|Rosa]] ven aquí,” and “yo [[CHILD|Teo]].” Additional productions: [[KEEP|“doggy sleeping”]], [[KEEP|“no cabe”]], [[KEEP|“I want carro”]]. Code-switching accepted without correction. Language sample included [[KEEP|[EW]]] on one English verb form; Spanish utterance reviewed separately. Initial [[KEEP|/k/]] achieved in [[KEEP|6/10]] modeled words with [[KEEP|mod cues]]; substitution [[KEEP|[t]]] persisted during spontaneous speech. Targets included [[KEEP|“casa”]] and [[KEEP|“cow”]]. No drill on [[KEEP|/ɾ/]] today.
+
+Prior evaluation dated [[DATE|September 18, 2026]]: [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]]; [[KEEP|Expressive Communication]] standard score [[KEEP|76]], percentile [[KEEP|5]]. Reported age-equivalent range [[KEEP|2;6–3;0]]. Scores considered cautiously given bilingual exposure and administration limits.
+
+A: Análisis.
+Functional communication improved with predictable routines and caregiver participation. Spontaneous combinations occurred across both languages; mixed-language messages conveyed clear intent. Receptive difficulty increased with unfamiliar vocabulary and competing noise. Current sample supports continued intervention for functional language needs; code-switching alone does not indicate impairment. Speech sound accuracy remains inconsistent across modeled versus spontaneous contexts. Caregiver demonstrated wait time and expansion after clinician model, with good carryover during cleanup. Child tolerated transitions without further distress. Skilled services remain indicated to support daily participation and caregiver strategy use.
+
+P: Plan / coordinación.
+Continue weekly bilingual sessions. Practice brief requesting routines during meals and sibling play; accept either language. Caregiver to model one short expansion, then pause. Coordinate with [[PROVIDER|Marisol Cevallos]], service coordinator at [[AGENCY|Red de Coordinación de Servicios Familiares del Valle Claro]] ([[AGENCY|RCSF-VC]]), and [[AGENCY|Agencia de Servicios de Desarrollo Infantil de Arroyo Verde]] ([[AGENCY|CDSA-AV]]). Contact: [[PHONE|919-555-0146]]; [[EMAIL|m.cevallos@rcsf-vc.example.org]]. Next review: [[DATE|November 6, 2026]]. Signed: [[PROVIDER|Elena Varela]], MS, CCC-SLP.

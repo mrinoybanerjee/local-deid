@@ -1,0 +1,138 @@
+INFORME DE EVALUACION DEL HABLA Y DEL LENGUAJE
+
+Documento sintetico para pruebas. Todos los datos personales, las entidades, los resultados y las circunstancias clinicas son ficticios.
+
+DATOS DE IDENTIFICACION
+
+Nombre del paciente: [[CHILD|Nicolas Vega Salcedo]]
+Nombre usado en casa: [[CHILD|Nico]]
+Iniciales del expediente: [[CHILD|NVS]]
+Fecha de nacimiento: [[DATE|14 de febrero de 2023]]
+Edad durante la evaluacion: [[KEEP|2;8]]
+Fecha de evaluacion: [[DATE|17 de octubre de 2025]]
+Fecha del informe: [[DATE|21 de octubre de 2025]]
+Expediente: [[ID|SLP-NC-582406]]
+Numero de Medicaid: [[MEDICAID_ID|847295163R]]
+Autorizacion: [[ID|AUT-92523-684219]]
+Caso de intervencion temprana: [[ID|IT-350782]]
+
+Madre: [[PARENT|Mariela Salcedo Ruiz]]
+Padre: [[PARENT|Esteban Vega Leon]]
+Domicilio: [[PLACE|482 Calle del Avellano]], [[PLACE|Arroyo Claro]], Carolina del Norte, [[PLACE|27993]]
+Condado: [[PLACE|Loma Serena]]
+Telefono principal: [[PHONE|(919) 555-0146]]
+Correo familiar: [[EMAIL|mariela.salcedo@example.com]]
+
+Profesional evaluadora: [[PROVIDER|Teresa Molina Duarte]], MS, CCC-SLP, patologa bilingue del habla y del lenguaje.
+Empresa: [[EMPLOYER|Puentes de Palabras Terapia Pediatrica]]
+Telefono profesional: [[PHONE|(984) 555-0128]]
+Correo profesional: [[EMAIL|teresa.molina@example.com]]
+Sitio informativo: [[URL|https://puentes-palabras.example.com]]
+
+Servicio de evaluacion: CPT [[KEEP|92523]].
+Servicio de tratamiento propuesto: CPT [[KEEP|92507]], modificador [[KEEP|GN]].
+Impresion diagnostica: ICD-10 [[KEEP|F80.2]].
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicito una evaluacion porque [[CHILD|Nicolas]] usa pocas combinaciones de palabras y necesita ayuda para seguir instrucciones. La madre describe frustracion cuando los adultos no comprenden sus pedidos. El padre observa que el nino entiende mejor las rutinas conocidas que las instrucciones nuevas.
+
+La derivacion provino de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Loma Serena]], identificada tambien como [[AGENCY|CDSA de Loma Serena]]. La coordinadora de servicios, [[PROVIDER|Daniela Rojas Campos]], pertenece al [[AGENCY|Centro de Coordinacion de Servicios Familiares de Arroyo Claro]], cuya forma corta es [[AGENCY|CCSF de Arroyo Claro]].
+
+El IFSP vigente tiene fecha de [[DATE|8 de septiembre de 2025]]. Su resultado [[KEEP|1]] busca mejorar la participacion durante las comidas y el juego. Su resultado [[KEEP|2]] busca ampliar los pedidos comprensibles. La familia autorizo entrevistas, observacion, pruebas y comunicacion entre los profesionales incluidos en ese plan.
+
+La evaluacion incluyo una entrevista familiar, juego libre, tareas estructuradas y observacion en la guarderia [[DAYCARE|Semillitas del Arroyo]]. La docente [[TEACHER|Patricia Montes Gil]] aporto ejemplos de las rutinas. La asistente [[TEACHER|Rosa Beltran Soto]] describio las respuestas durante actividades grupales. Ambas personas completaron formularios ficticios de observacion.
+
+HISTORIA DEL NACIMIENTO Y MEDICA
+
+La madre informo un embarazo sin complicaciones importantes. El nacimiento ocurrio en el [[HOSPITAL|Hospital Infantil Valle de los Cedros]], con una edad gestacional de [[KEEP|39 semanas y 2 dias]]. El peso al nacer fue de [[KEEP|3,180 g]]. Los puntajes Apgar fueron [[KEEP|8]] y [[KEEP|9]], respectivamente.
+
+El parto fue vaginal. No se informaron dificultades respiratorias, ingreso prolongado ni problemas iniciales de alimentacion. La familia recuerda una evolucion motora estable. El nino camino de forma independiente a los [[KEEP|14 meses]]. Las primeras palabras consistentes aparecieron cerca de los [[KEEP|20 meses]], segun el relato familiar.
+
+La pediatra [[PROVIDER|Elena Cardenas Vidal]] reviso el desarrollo en una consulta del [[DATE|22 de agosto de 2025]]. Su nota describio preocupaciones del lenguaje y solicito intervencion temprana. La familia informo dos episodios previos de otitis, sin cirugia. No se reportaron convulsiones, lesiones cerebrales ni perdida de habilidades.
+
+La audiologa [[PROVIDER|Sara Pineda Flores]] realizo una evaluacion en el [[HOSPITAL|Centro Hospitalario Rio de Bruma]] el [[DATE|3 de septiembre de 2025]]. El informe disponible describio respuestas auditivas funcionales para el acceso al habla. Se recomienda seguimiento si aparecen cambios auditivos, nuevas infecciones o respuestas inconsistentes a los sonidos.
+
+La terapeuta ocupacional [[PROVIDER|Julia Serrano Paz]] observo selectividad ante algunas texturas alimentarias. No se informaron medicamentos diarios ni alergias conocidas. Durante esta evaluacion, la respiracion, la voz y la movilidad oral parecieron suficientes para las tareas realizadas. Esta observacion no sustituye una evaluacion medica especializada.
+
+HISTORIA FAMILIAR Y DEL LENGUAJE
+
+[[CHILD|Nico]] vive con ambos padres y con su hermana [[SIBLING|Camila Vega Salcedo]], de [[KEEP|6;4]]. La hermana asiste a la escuela [[SCHOOL|Escuela Primaria Sendero del Roble]]. La abuela [[FAMILY|Beatriz Ruiz Mena]] cuida al nino dos tardes por semana. La cuidadora [[FAMILY|Lidia Solano Perez]] participa ocasionalmente.
+
+La madre trabaja en [[ORG|Cooperativa Textil Horizonte Verde]]. El padre trabaja en [[ORG|Talleres Mecanicos Brisa del Norte]]. Sus horarios permiten que uno de ellos participe en las sesiones domiciliarias. La familia prefiere recibir explicaciones en espanol y materiales breves que pueda integrar en las actividades diarias.
+
+El espanol representa aproximadamente [[KEEP|75%]] de la exposicion habitual y el ingles, [[KEEP|25%]], segun estimaciones familiares. La madre y la abuela hablan principalmente espanol. El padre usa ambos idiomas. La guarderia emplea ingles en varias canciones y espanol durante algunas rutinas. Estas cifras no representan una medicion directa.
+
+La familia no informo antecedentes de perdida auditiva infantil. Un tio, [[FAMILY|Rafael Vega Leon]], recibio apoyo del lenguaje durante su infancia. El hogar incluye un perro llamado [[PET|Toby]]. El nino busca al animal para jugar y suele compartir juguetes con su hermana durante periodos breves.
+
+PROGRAMACION DE LAS SESIONES
+
+La siguiente tabla presenta el horario acordado. Los lugares y las horas corresponden a este caso ficticio.
+
+| Dia | Fecha | Inicio | Fin | Lugar |
+|---|---|---|---|---|
+| Lunes | [[DATE|13 de octubre de 2025]] | [[TIME|9:00 a. m.]] | [[TIME|9:45 a. m.]] | Domicilio en [[PLACE|482 Calle del Avellano]] |
+| Miercoles | [[DATE|15 de octubre de 2025]] | [[TIME|10:15 a. m.]] | [[TIME|11:00 a. m.]] | [[DAYCARE|Semillitas del Arroyo]] |
+| Viernes | [[DATE|17 de octubre de 2025]] | [[TIME|1:30 p. m.]] | [[TIME|2:30 p. m.]] | [[EMPLOYER|Puentes de Palabras Terapia Pediatrica]] |
+| Martes | [[DATE|28 de octubre de 2025]] | [[TIME|8:30 a. m.]] | [[TIME|9:00 a. m.]] | Oficina de [[AGENCY|CDSA de Loma Serena]] |
+
+CONDUCTA Y PROCEDIMIENTOS
+
+[[CHILD|Nicolas Vega Salcedo]] entro a la sala con su madre y exploro los juguetes. Acepto turnos breves con la evaluadora. Busco ayuda mediante gestos, miradas y vocalizaciones. Necesito pausas entre tareas. Su participacion mejoro cuando pudo elegir materiales y cuando los adultos anticiparon el cambio de actividad.
+
+La observacion incluyo juego con animales, libros, recipientes y vehiculos. Se presentaron instrucciones en ambos idiomas, con orden variable. Las respuestas se registraron por idioma y por concepto. Una respuesta correcta en cualquiera de los idiomas conto como evidencia conceptual, sin exigir una traduccion equivalente.
+
+Se administraron componentes de [[KEEP|Rossetti Infant-Toddler Language Scale]], [[KEEP|Goldman-Fristoe Test of Articulation-3]], [[KEEP|Bayley-4]] y [[KEEP|Peabody Picture Vocabulary Test-5]]. Algunas tareas requirieron adaptaciones linguisticas. Los resultados numericos son datos sinteticos para este informe de prueba. No deben interpretarse como puntuaciones validas de una administracion normativa real.
+
+RESULTADOS DE LAS PRUEBAS
+
+| Prueba | Area o subprueba | Tipo de resultado | Resultado | Intervalo o rango |
+|---|---|---|---|---|
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[KEEP|Comprension del lenguaje]] | Rango de habilidades | [[KEEP|21-24 meses]] | [[KEEP|18-27 meses]] |
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[KEEP|Expresion del lenguaje]] | Rango de habilidades | [[KEEP|18-21 meses]] | [[KEEP|15-24 meses]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3]] | [[KEEP|Sounds-in-Words]] | Puntaje estandar | [[KEEP|78]] | IC: [[KEEP|73-85]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3]] | [[KEEP|Sounds-in-Words]] | Percentil | [[KEEP|7]] | Equivalente: [[KEEP|2;0-2;3]] |
+| [[KEEP|Bayley-4]] | [[KEEP|Receptive Communication]] | Puntaje escalado | [[KEEP|6]] | Equivalente: [[KEEP|23 meses]] |
+| [[KEEP|Bayley-4]] | [[KEEP|Expressive Communication]] | Puntaje escalado | [[KEEP|5]] | Equivalente: [[KEEP|20 meses]] |
+| [[KEEP|Bayley-4]] | [[KEEP|Language]] | Puntaje compuesto | [[KEEP|75]] | IC: [[KEEP|70-82]] |
+| [[KEEP|Peabody Picture Vocabulary Test-5]] | [[KEEP|Vocabulario receptivo]] | Puntaje estandar | [[KEEP|76]] | IC: [[KEEP|71-84]] |
+| [[KEEP|Peabody Picture Vocabulary Test-5]] | [[KEEP|Vocabulario receptivo]] | Percentil | [[KEEP|5]] | Equivalente: [[KEEP|2;1]] |
+
+Los intervalos de confianza de la tabla corresponden al nivel de [[KEEP|90%]]. Los rangos de habilidades describen conjuntos de respuestas observadas; no establecen una edad global de desarrollo. Las diferencias entre idiomas, el vocabulario familiar y las adaptaciones limitan cualquier comparacion directa con las normas de las pruebas.
+
+En comprension funcional, identifico objetos conocidos en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|min cues]]. Siguio instrucciones de un paso en [[KEEP|6/10]] oportunidades con [[KEEP|mod cues]]. Las instrucciones de dos pasos resultaron mas dificiles. La presentacion de un objeto concreto mejoro varias respuestas.
+
+En expresion, produjo combinaciones espontaneas de dos palabras en [[KEEP|3/10]] oportunidades. Uso [[KEEP|"mas agua"]], [[KEEP|"mama ven"]] y [[KEEP|"carro aqui"]]. Las producciones incluyeron pedidos, comentarios y llamados. Para solicitar ayuda, recurrió principalmente a entregar el objeto al adulto; la palabra correspondiente aparecio despues de un modelo.
+
+En una muestra breve se registraron los codigos [[KEEP|[EW]]] y [[KEEP|[FP]]] conforme al esquema [[KEEP|SALT]] usado para este ejercicio. La muestra fue demasiado corta para estimar medidas estables. Se conservaron las producciones originales y se anotaron por separado las interpretaciones familiares.
+
+En el habla, se observaron sustituciones variables de /k/ por /t/ y de /g/ por /d/. En el registro clinico se anotaron [[KEEP|/k/]], [[KEEP|/t/]], [[KEEP|/g/]] y [[KEEP|/d/]]. Tambien aparecio [[KEEP|[w]]] en una aproximacion de palabra. La produccion [[KEEP|"tasa"]] correspondio al objetivo [[KEEP|"casa"]]. La muestra no permitio determinar la consistencia del patron.
+
+Durante el juego compartido, respondio a intentos de intercambio en [[KEEP|4/5]] oportunidades con [[KEEP|min cues]]. Compartio atencion con el adulto y mostro objetos de interes. La madre comprendio aproximadamente [[KEEP|70%]] del habla contextual. La evaluadora comprendio cerca de [[KEEP|45%]], estimacion limitada por la brevedad de la muestra.
+
+En la guarderia, el companero [[PEER|Leo Santana Cruz]] ofrecio un camion y la companera [[PEER|Mia Ortega Solis]] inicio un juego de bloques. El nino acepto ambos acercamientos. Durante otra actividad dijo "mira [[PET|Toby]] aqui" al observar una fotografia familiar. Esa frase se registro sin modificar el nombre.
+
+IMPRESIONES CLINICAS
+
+Los datos sinteticos sugieren dificultades mixtas de comprension y expresion, compatibles con ICD-10 [[KEEP|F80.2]]. Las dificultades afectan los pedidos, las instrucciones nuevas y la participacion en grupo. La exposicion bilingue no explica por si sola el perfil observado. Se identificaron necesidades funcionales en actividades realizadas en ambos idiomas.
+
+Las fortalezas incluyen interes social, uso de gestos, juego funcional y respuesta a modelos breves. Los apoyos visuales facilitaron la participacion. La familia identifica rutinas claras para practicar. La variabilidad del habla requiere seguimiento con una muestra mayor antes de establecer una conclusion especifica sobre los sonidos.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar tratamiento individual mediante CPT [[KEEP|92507]], con participacion familiar semanal. Integrar [[KEEP|estimulacion focalizada]] y [[KEEP|Hanen]] en juego, comidas y lectura compartida. Mantener ambos idiomas segun las preferencias familiares.
+
+2. Para el objetivo [[KEEP|1]] del IFSP, seguir instrucciones funcionales de un paso en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Practicar con objetos conocidos y reducir gradualmente las ayudas.
+
+3. Para el objetivo [[KEEP|2]] del IFSP, producir combinaciones de dos palabras en [[KEEP|4/5]] oportunidades con [[KEEP|mod cues]]. Priorizar los objetivos [[KEEP|"quiero agua"]], [[KEEP|"mas juego"]] y [[KEEP|"ayuda aqui"]].
+
+4. Para el objetivo [[KEEP|3]] del IFSP, aumentar los intercambios comunicativos durante el juego. La hermana [[SIBLING|Camila]] y la cuidadora [[FAMILY|Lidia]] pueden participar cuando la familia lo considere conveniente.
+
+5. No iniciar [[KEEP|PROMPT]], [[KEEP|Cycles]] ni [[KEEP|PECS]] de forma automatica. Revisar su pertinencia despues de observar las necesidades motoras, fonologicas y comunicativas con mas detalle.
+
+6. Compartir estrategias con la docente [[TEACHER|Patricia Montes Gil]]. Programar la revision del IFSP para el [[DATE|12 de diciembre de 2025]]. La coordinadora [[PROVIDER|Daniela Rojas Campos]] confirmara los acuerdos con la familia.
+
+Firma: [[PROVIDER|Teresa Molina Duarte]], MS, CCC-SLP  
+Patologa bilingue del habla y del lenguaje  
+[[EMPLOYER|Puentes de Palabras Terapia Pediatrica]]  
+Fecha de firma: [[DATE|21 de octubre de 2025]]

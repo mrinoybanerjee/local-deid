@@ -1,0 +1,28 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE
+[X] Home  [ ] Daycare  [ ] Telehealth
+[X] English  [X] Spanish support
+
+Child: [[CHILD|Elena Marisol Varela]]; nickname: [[CHILD|Nellie]]; age: [[KEEP|4;2]]
+Service: [[DATE|October 8, 2026]], [[TIME|9:15 a.m.]]–[[TIME|9:45 a.m.]]
+Location: [[PLACE|418 Willow Lantern Lane]], [[PLACE|Briarhaven]], North Carolina, [[PLACE|27500]]
+Clinician: [[PROVIDER|Marina Celeste Navarro]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Lantern Path Speech Services]]
+Record: [[ID|LP-26048]]; Medicaid: [[MEDICAID_ID|483726915Q]]
+Codes: [[KEEP|CPT 92507]]; [[KEEP|ICD-10 F80.0]]
+
+S: Mother [[PARENT|Camila Varela]] reported clearer requests during breakfast. Father [[PARENT|Andrés Varela]] noted frustration when unfamiliar listeners request repetition. Sister [[SIBLING|Sol]] joined briefly. Grandmother [[FAMILY|Luz Moreno]] participated by telephone from Mexico. Babysitter [[FAMILY|Tessa Rowan]] reported successful picture-supported choices. Cousins [[FAMILY|Nico Moreno]] and [[FAMILY|Alma Moreno]] visited afterward.
+
+Contacts: mother [[PHONE|(919) 555-0146]]; father [[PHONE|984.555.0182]]; babysitter [[PHONE|910-555-0127]]; grandmother [[PHONE|+52 55 5555 0168]].
+Email: [[EMAIL|camila.varela@example.invalid]]
+Portal: [[URL|https://lanternpath.example.invalid]]
+
+O: [[CHILD|Elena]] practiced [[KEEP|/k/]] in play using [[KEEP|"cup"]], [[KEEP|"car"]], and [[KEEP|"key"]]. Accuracy reached [[KEEP|8/10]] with [[KEEP|mod cues]] and [[KEEP|60%]] independently. Production [[KEEP|"tar"]] occurred during car play; clinician modeled placement without interrupting interaction. One sample included [[KEEP|[EW]]]. Previous [[KEEP|GFTA-3]] results: [[KEEP|standard score 78]], [[KEEP|7th percentile]].
+
+Teacher Ms. [[TEACHER|Nora Bellamy]] at [[SCHOOL|Morning Lantern Preschool]] reported participation beside classmates [[PEER|Mila Thorne]] and [[PEER|Jasper Wren]]. Pet dog [[PET|Pickle]] distracted attention briefly. Neighbor [[PERSON|Owen Vale]] delivered a package during cleanup.
+
+A: [[CHILD|Nellie]] benefited from visual models, slower pacing, and alternating English instructions with Spanish explanations. Errors persisted across repeated trials, while engagement improved with movement breaks. No feeding concerns were reported.
+
+P: Continue weekly sessions. Practice five target words during play daily. Mother demonstrated the routine accurately. Coordinate classroom supports with the teacher and service coordinator [[PROVIDER|Dalia Finch]] through [[AGENCY|Briarhaven Early Steps Office]].
+
+[X] Caregiver education completed  [X] Home practice reviewed
+Next session: [[DATE|October 15, 2026]], [[TIME|9:15 a.m.]]

@@ -1,0 +1,44 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Niña: [[CHILD|María José Fuentes Alvarado]]
+Fecha de nacimiento: [[DATE|04/11/2021]]
+Edad cronológica: 5;5
+ID de Medicaid: [[MEDICAID_ID|784512903B]]
+Número de miembro de seguro: [[ID|HNC-66204471]]
+ID de niño NC ITP: [[ID|ITP-0038421]]
+Número de autorización/registro: [[ID|AUTH-2026-003317]]
+Fecha de servicio: [[DATE|10/10/2026]]
+Hora: [[TIME|3:15 p.m.]]
+
+Lugar de servicio: [X] Hogar [ ] Guardería [ ] Clínica
+Dirección: [[PLACE|118 Calle Robledo]], [[PLACE|Hickory]], [[PLACE|Condado de Catawba]], [[PLACE|28601]]
+
+Presente en la sesión: [X] Madre [ ] Padre [ ] Cuidador
+Su mamá, [[PARENT|Lucía Fuentes]], estuvo presente durante toda la sesión. El padre, [[PARENT|Héctor Alvarado]], participó por teléfono desde su trabajo en [[ORG|Catawba Furniture Works]].
+
+Antecedentes médicos: [[CHILD|María José]] nació a las 32 semanas en el [[HOSPITAL|Hospital Catawba Valley Medical Center]] y pasó 21 días en la NICU de dicho hospital bajo el cuidado del Dr. [[PROVIDER|Alan Whitfield]], neonatólogo. Fue seguida después por la Dra. [[PROVIDER|Marisol Peña]], pediatra de desarrollo, y por el otorrinolaringólogo Dr. [[PROVIDER|James Cho]] por antecedentes de otitis media recurrente. Tiene un hermano mayor, [[SIBLING|Diego Alvarado]], de 9 años, quien también recibió terapia del habla a los 3 años.
+
+S (Subjetivo): La mamá reporta que [[CHILD|María José]] ha estado usando más palabras en casa esta semana, incluyendo "agua" y "más", aunque sigue omitiendo consonantes finales. La mamá mencionó que la niñera, [[FAMILY|Rosa Jiménez]], también ha notado mejoría cuando la recoge de la casa de la abuela, [[FAMILY|Carmen Alvarado]].
+
+O (Objetivo): Se trabajaron los siguientes objetivos del IFSP (revisión del [[DATE|09/02/2026]]):
+1. Producción de /k/ en posición inicial: logró 8/10 ensayos con claves (mod cues).
+2. Combinaciones de dos palabras: produjo "quiero agua" y "más galleta" espontáneamente, 70% de las oportunidades.
+3. Seguimiento de instrucciones de un paso: 9/10 con apoyo visual.
+
+Se usó el juego de la granja, donde la niña imitó sonidos de animales, incluyendo [w] para "vaca" (debería ser /b/). Se le pidió repetir la palabra objetivo "pato" → produjo ['pa.o]. También practicó con su mascota, un perrito llamado [[PET|Max]], nombrando partes del cuerpo.
+
+Se evaluó comprensión usando ítems informales similares al PLS-5; puntuación estándar reportada en evaluación previa: 78 (percentil 7).
+
+[X] Sesión completada según lo planeado [ ] Modificada [ ] Cancelada
+
+A (Análisis): [[CHILD|María José]] continúa mostrando progreso lento pero constante en fonología e inicio de combinación de palabras. La familia reporta consistencia en casa. Se recomienda continuar colaboración con la maestra de preescolar, Sra. [[TEACHER|Dolores Ramírez]], en [[DAYCARE|Little Sprouts Early Learning Center]], quien reporta observaciones similares en el salón.
+
+P (Plan): Continuar sesiones dos veces por semana. Se coordinará con la coordinadora de servicios, [[PROVIDER|Yolanda Martínez]], de [[AGENCY|CDSA del Oeste de Carolina del Norte]], para la próxima revisión del IFSP programada para el [[DATE|01/15/2027]]. Se enviará informe a la Dra. [[PROVIDER|Marisol Peña]].
+
+Contacto de la familia: [[PHONE|(828) 555-0147]], correo [[EMAIL|lucia.fuentes82@gmail.com]].
+
+Intérprete presente: [X] Sí [ ] No — [[PROVIDER|Patricia Núñez]], intérprete certificada, asistió para apoyar comunicación con el padre.
+
+Terapeuta: [[PROVIDER|Alejandra Ríos]], MS, CCC-SLP, bilingüe
+Agencia proveedora: [[EMPLOYER|Carolina Pediatric Speech Partners, PLLC]]
+Firma: [[PROVIDER|A. Ríos]] — [[DATE|10/10/2026]]

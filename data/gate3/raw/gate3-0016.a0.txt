@@ -1,0 +1,27 @@
+DAILY SPEECH-LANGUAGE SESSION NOTE
+
+Service: [[DATE|May 20, 2026]]  Start: [[TIME|9:15 a.m.]]  End: [[TIME|10:00 a.m.]]
+Client: [[CHILD|Elian Mossvale]]  Preferred name: [[CHILD|Eli]]  Age: [[KEEP|4;2]]
+[X] Home  [ ] Daycare  [ ] Telepractice
+Location: [[PLACE|214 Fernspoke Lane]], [[PLACE|Graywillow]], North Carolina [[PLACE|27900]]
+Record: [[ID|SL-482716]]  Medicaid: [[MEDICAID_ID|583027194K]]
+Clinician: [[PROVIDER|Nora Bellwoven]], bilingual English/Spanish speech-language pathologist
+Employer: [[EMPLOYER|Fernbridge Pediatric Communication Therapy, PLLC]]
+Billing: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  Diagnosis: [[KEEP|F80.2]]
+
+S: Mother [[PARENT|Lina Mossvale]] reported improved requests during breakfast. Grandmother [[FAMILY|Dora Valecrest]] attended. Father [[PARENT|Tomas Mossvale]] works at [[ORG|Lanterncoil Textiles]]. Mother described increased participation at [[DAYCARE|Pebblefern Daycare]]. Teacher Ms. [[TEACHER|Maren Dewbrook]] reported successful turn-taking with classmate [[PEER|Ava Reedhollow]]. Caregiver consented to English treatment with Spanish coaching.
+
+History: Born [[DATE|March 8, 2022]], at [[KEEP|35 weeks, 2 days]]; birth weight [[KEEP|2,410 g]]; Apgar scores [[KEEP|7]] and [[KEEP|9]]. Received feeding support in the NICU at [[HOSPITAL|Alderfern Children's Hospital]]. Neonatologist Dr. [[PROVIDER|Silas Fenridge]] managed respiratory monitoring. Pediatrician Dr. [[PROVIDER|Anika Brookvale]] follows development. No new hearing concerns were reported. Prior coordination involved [[AGENCY|Graywillow Children's Developmental Services Agency]].
+
+O: Evaluation dated [[DATE|April 29, 2026]] used [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. Evaluation billing was [[KEEP|92523]].
+
+[X] Play  [X] Caregiver coaching  [ ] Group
+
+At [[EMPLOYER|Fernbridge Therapy]], treatment used [[KEEP|Hanen]] strategies and focused stimulation. Requests reached [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|min cues]]. Two-step directions reached [[KEEP|3 of 5]] with [[KEEP|mod cues]]. Target words were "[[KEEP|open]]" and "[[KEEP|under]]". Productions included "[[KEEP|more bubbles]]", "[[PET|Pipkin]] run", and "[[SIBLING|Milo]] take truck". Initial [[KEEP|/k/]] required [[KEEP|max cues]]; one substitution was [[KEEP|[w]]]. The language sample included SALT code [[KEEP|[EW]]].
+
+A: [[CHILD|Elian]] benefited from visual choices and additional response time. Accuracy decreased when materials were removed. Performance supports continued treatment for receptive and expressive language needs. Archived IFSP outcome [[KEEP|2]] remains relevant to functional requests. Spontaneous sibling references increased, although verb combinations remained inconsistent. Mother demonstrated modeling after coaching and identified two daily practice routines.
+
+P: Continue weekly sessions through [[EMPLOYER|FPCT]]. Practice requests during snack and cleanup. Review progress on [[DATE|June 17, 2026]]. Confirm classroom carryover before adding another target. Parent contact: [[PHONE|919-555-0146]]; [[EMAIL|lina.mossvale@example.com]]. Home handout: [[URL|https://fernbridge.example.org/practice]].
+
+[X] Caregiver demonstrated strategy  [X] Home practice assigned
+Signed: [[PROVIDER|Nora Bellwoven]], SLP

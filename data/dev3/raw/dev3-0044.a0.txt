@@ -1,0 +1,64 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Nombre del niño: [[CHILD|Mateo de la Cruz]]
+Fecha de nacimiento: [[DATE|14 de enero de 2022]]
+Edad cronológica en la evaluación: [[KEEP|4;2]]
+Fecha de la evaluación: [[DATE|9 de marzo de 2026]]
+Fecha del informe: [[DATE|16 de marzo de 2026]]
+Evaluadora: [[PROVIDER|Ana Gómez]], patóloga del habla y lenguaje bilingüe
+Agencia remitente: [[AGENCY|Agencia Regional de Servicios de Desarrollo Infantil del Piedmont (ARSDIP)]]
+Coordinadora de servicios: [[PROVIDER|Diana Castillo]]
+Médico de cabecera: Dr. [[PROVIDER|Suresh Patel]]
+Número de Medicaid: [[MEDICAID_ID|740215938K]]
+Número de identificación de miembro del seguro: [[ID|BCN-5590214]]
+Número de identificación de niño en el NC ITP: [[ID|ITP-2026-00841]]
+Número de autorización/registro: [[ID|AUTH-PD-66230]]
+
+[[CHILD|Mateo]] es un niño de cuatro años que reside en la ciudad de [[PLACE|Siler City]], en el condado de [[PLACE|Chatham]], Carolina del Norte, con su madre, [[PARENT|Lucía Rodríguez-Paz]], su padre, [[PARENT|Javier de la Cruz]], y su hermana mayor, [[SIBLING|Camila de la Cruz]], de seis años. La familia también cuenta con el apoyo frecuente de la abuela materna, [[FAMILY|Rosa Martínez]], quien cuida a [[CHILD|Mateo]] varias tardes por semana mientras sus padres trabajan. La familia vive en un apartamento en la [[PLACE|Calle Elm 214]], [[PLACE|Siler City, NC 27344]]. El teléfono de contacto de la familia es [[PHONE|(919) 555-0187]] y el correo electrónico de la madre es [[EMAIL|lucia.rodriguezpaz@example.com]].
+
+[[CHILD|Mateo]] fue remitido para esta evaluación por su médico de cabecera, Dr. [[PROVIDER|Patel]], debido a preocupaciones sobre el desarrollo del habla expresiva y la inteligibilidad del lenguaje. La familia fue contactada inicialmente a través de la [[AGENCY|ARSDIP]], que coordina los servicios de intervención temprana en la región. La evaluación se llevó a cabo en las oficinas de [[EMPLOYER|Terapias Pediátricas Carolina Central, PLLC]], donde la evaluadora, [[PROVIDER|Ana Gómez]], presta servicios bajo contrato con la [[AGENCY|ARSDIP]].
+
+Historia del nacimiento y la salud: Según el reporte materno, [[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación mediante parto vaginal sin complicaciones significativas, con un peso al nacer de [[KEEP|3,100 gramos]] y una puntuación de Apgar de [[KEEP|8]] y [[KEEP|9]] al minuto uno y cinco respectivamente. La madre reporta un embarazo sin incidentes mayores, aunque menciona haber tenido presión arterial elevada en el tercer trimestre, controlada sin medicación. [[CHILD|Mateo]] fue dado de alta del hospital [[HOSPITAL|Hospital Regional Chatham]] a los dos días de vida sin complicaciones. No se reportan hospitalizaciones posteriores, cirugías, ni convulsiones. La madre indica que [[CHILD|Mateo]] tuvo varios episodios de otitis media entre los [[KEEP|18 y 30 meses]] de edad, tratados con antibióticos, y que actualmente no presenta problemas auditivos conocidos. Una prueba de audición realizada en diciembre fue reportada como normal bilateral.
+
+Historia familiar y del lenguaje: En el hogar se habla principalmente español; el padre, [[PARENT|Javier]], usa inglés de manera más frecuente en el trabajo y ocasionalmente en casa con los niños. La madre, [[PARENT|Lucía]], trabaja de noche en la [[ORG|Planta de Empaque Avícola Piedmont]] como supervisora de línea de producción, por lo que la abuela, [[FAMILY|Rosa]], y el padre comparten la mayor parte del cuidado directo de los niños durante las tardes y noches. El padre trabaja como técnico de mantenimiento en una empresa local de manufactura. La familia reporta que [[SIBLING|Camila]] habla con fluidez tanto español como inglés y a menudo traduce para [[CHILD|Mateo]] cuando juega con compañeros de habla inglesa. No hay historia familiar reportada de trastornos del habla, lenguaje, audición ni aprendizaje en parientes cercanos, aunque la madre menciona que un tío paterno, [[FAMILY|Ernesto de la Cruz]], tuvo dificultades de lectura en la escuela primaria.
+
+[[CHILD|Mateo]] asiste de lunes a viernes al centro [[DAYCARE|Pequeños Pasos Daycare]], donde su maestra principal es la Sra. [[TEACHER|Gabriela Hernández]]. Según el reporte de la maestra, [[CHILD|Mateo]] interactúa con sus compañeros de clase, incluyendo a [[PEER|Noah]] y [[PEER|Valentina Ríos]], aunque a veces se frustra cuando no logra hacerse entender y recurre a señalar o a gestos. La familia también reporta que [[CHILD|Mateo]] tiene un perro llamado [[PET|Max]], con quien juega con frecuencia en el patio trasero, y que suele decir "[[KEEP|quero jugar]]" cuando quiere que alguien lo acompañe afuera.
+
+Según el reporte de los padres, las primeras palabras de [[CHILD|Mateo]] aparecieron alrededor de los [[KEEP|16 meses]], y comenzó a combinar dos palabras cerca de los [[KEEP|26 meses]]. Los padres describen su habla actual como difícil de entender para personas fuera del núcleo familiar, especialmente en frases largas. En el hogar, [[CHILD|Mateo]] es descrito como un niño sociable, curioso y motivado para comunicarse, aunque se frustra cuando no es comprendido.
+
+[[CHILD|Mateo]] fue inscrito en el programa de intervención temprana del estado bajo un Plan Individualizado de Servicios para la Familia (IFSP) con fecha de reunión inicial del [[DATE|2 de octubre de 2025]]. El objetivo 2 del IFSP actual se centra en el aumento de la inteligibilidad del habla en contextos funcionales. [[CHILD|Mateo]] ha recibido terapia de lenguaje una vez por semana a través de la [[AGENCY|ARSDIP]] desde esa fecha, con la terapeuta [[PROVIDER|Marisol Vega]], quien ha utilizado principalmente el enfoque [[KEEP|Hanen]] con la familia.
+
+A continuación se presenta el horario actual de las sesiones de terapia domiciliaria y en el centro:
+
+Día | Hora de inicio | Hora de fin | Lugar
+Lunes | [[TIME|9:30 a.m.]] | [[TIME|10:15 a.m.]] | Hogar de la familia, [[PLACE|Calle Elm 214]]
+Miércoles | [[TIME|1:00 p.m.]] | [[TIME|1:45 p.m.]] | [[DAYCARE|Pequeños Pasos Daycare]]
+Viernes | [[TIME|10:00 a.m.]] | [[TIME|10:45 a.m.]] | Oficina de [[EMPLOYER|Terapias Pediátricas Carolina Central, PLLC]]
+
+Durante la sesión de evaluación, [[CHILD|Mateo]] se mostró cooperativo y participativo durante la mayor parte de la cita, aunque solicitó un descanso breve después de aproximadamente [[KEEP|20 minutos]] de tareas estructuradas. La evaluación incluyó observación informal del juego, muestra de lenguaje espontáneo, y administración de pruebas estandarizadas en español e inglés, dado el perfil bilingüe de la familia.
+
+Se administraron las siguientes pruebas: [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5) Spanish]], [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]], y el subtest de [[KEEP|Articulación]] del [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]. También se obtuvo una muestra de lenguaje espontáneo codificada parcialmente en [[KEEP|SALT]], incluyendo producciones como "[[KEEP|[EW]]]" marcadas en segmentos ininteligibles.
+
+Resultados de las pruebas:
+
+Prueba | Puntuación estándar | Percentil | Intervalo de confianza
+[[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|82]] | [[KEEP|12]] | [[KEEP|76-88]]
+[[KEEP|PLS-5 Expressive Communication]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|65-77]]
+[[KEEP|CELF Preschool-3 Core Language Score]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|69-81]]
+[[KEEP|GFTA-3 Standard Score]] | [[KEEP|68]] | [[KEEP|2]] | [[KEEP|62-74]]
+
+En la prueba de articulación, [[CHILD|Mateo]] presentó errores consistentes de simplificación de grupos consonánticos, sustitución de [[KEEP|/k/]] por [[KEEP|[t]]], y omisión de consonantes finales, tanto en español como en inglés. Por ejemplo, produjo "[[KEEP|tasa]]" para la palabra objetivo "[[KEEP|casa]]" y "[[KEEP|apo]]" para "[[KEEP|carro]]". Durante la muestra espontánea, cuando se le preguntó por su perro, dijo "[[PET|Max]] core" en lugar de "[[PET|Max]] corre", demostrando el mismo patrón de sustitución en contexto conectado. Con claves de [[KEEP|mod cues]], logró producir correctamente el sonido [[KEEP|/k/]] en aislamiento en [[KEEP|7 de 10]] intentos, pero no generalizó de manera consistente a nivel de palabra o frase.
+
+En el área de lenguaje receptivo, [[CHILD|Mateo]] mostró un desempeño dentro del rango bajo-promedio, siguiendo instrucciones de dos pasos con apoyo visual en [[KEEP|8/10]] ensayos. En el área expresiva, su longitud media de enunciado fue notablemente menor a lo esperado para su edad, y presentó dificultades marcadas con el uso de marcadores morfológicos en ambos idiomas, incluyendo la omisión de artículos y la conjugación verbal inconsistente. La inteligibilidad global fue estimada en aproximadamente [[KEEP|40%]] para oyentes desconocidos y [[KEEP|70%]] para oyentes familiares, según el conteo de palabras inteligibles en la muestra de habla conectada.
+
+Durante la observación informal del juego, [[CHILD|Mateo]] demostró habilidades de juego simbólico apropiadas para su edad, incluyendo secuencias de juego de fingir con figuras de acción, y buscó activamente la atención compartida con la evaluadora. No se observaron conductas repetitivas atípicas ni dificultades significativas de atención conjunta. Las habilidades pragmáticas, incluyendo turnos conversacionales y reparación de comunicación, se consideraron relativamente fuertes en comparación con sus habilidades fonológicas y morfosintácticas.
+
+Impresiones: Con base en los resultados de las pruebas estandarizadas, la muestra de lenguaje espontáneo, y el reporte de los padres y de la maestra, [[CHILD|Mateo]] presenta un perfil consistente con un trastorno del lenguaje expresivo de moderado a severo, acompañado de un trastorno de sonidos del habla, ambos presentes de manera comparable en español e inglés, lo cual indica un patrón de dificultad en ambos idiomas en lugar de una diferencia típica de desarrollo bilingüe. El código diagnóstico aplicable es [[KEEP|F80.1]] para trastorno del lenguaje expresivo y [[KEEP|F80.0]] para trastorno fonológico, según criterios del DSM-5-TR e ICD-10-CM. Las fortalezas relativas en pragmática y juego simbólico son factores positivos para el pronóstico de intervención continuada.
+
+Dado el nivel de inteligibilidad reducida observado, especialmente con oyentes no familiares, y el impacto funcional en la participación de [[CHILD|Mateo]] en el entorno de la guardería, se recomienda un aumento en la frecuencia de los servicios de terapia del habla y lenguaje a dos sesiones por semana, idealmente combinando sesiones en el hogar y en [[DAYCARE|Pequeños Pasos Daycare]]. Se recomienda continuar usando estrategias del enfoque [[KEEP|Hanen]] con la familia, junto con la incorporación de técnicas de [[KEEP|PROMPT]] para abordar los patrones de simplificación fonológica observados. También se sugiere considerar el enfoque de [[KEEP|Cycles]] para el tratamiento fonológico dada la cantidad de procesos simplificadores presentes.
+
+Se recomienda que la coordinadora de servicios, [[PROVIDER|Diana Castillo]], actualice el IFSP para reflejar la frecuencia incrementada de servicios y para añadir un nuevo objetivo relacionado específicamente con la inteligibilidad en el entorno escolar. Se sugiere coordinación continua entre la terapeuta actual, [[PROVIDER|Marisol Vega]], la maestra [[TEACHER|Gabriela Hernández]], y la familia para asegurar la generalización de estrategias en múltiples contextos. Se recomienda también una reevaluación de audición de seguimiento dentro de los próximos seis meses dado el historial de otitis media recurrente, y se sugiere que el pediatra, Dr. [[PROVIDER|Patel]], sea informado de los resultados de esta evaluación para descartar cualquier contribución auditiva residual.
+
+Finalmente, se recomienda que la familia continúe recibiendo materiales educativos bilingües sobre estrategias de estimulación del lenguaje en el hogar, y que se explore la posibilidad de servicios de respiro o apoyo adicional para la abuela, [[FAMILY|Rosa Martínez]], dado el rol central que desempeña en el cuidado diario de [[CHILD|Mateo]] mientras los padres trabajan. Se recomienda una próxima revisión de progreso dentro de tres meses, con fecha tentativa fijada para el [[DATE|15 de junio de 2026]], para evaluar el avance hacia los objetivos actuales del IFSP y determinar si se requieren ajustes adicionales en la frecuencia o el enfoque de los servicios.
+
+Este informe fue preparado por [[PROVIDER|Ana Gómez]], patóloga del habla y lenguaje, bajo contrato con la [[AGENCY|ARSDIP]], y refleja el desempeño de [[CHILD|Mateo]] únicamente durante la sesión de evaluación descrita. Cualquier pregunta sobre este informe puede dirigirse a [[PROVIDER|Ana Gómez]] a través de [[EMAIL|agomez@carolinacentralpeds.example.com]] o al teléfono [[PHONE|(919) 555-0243]].

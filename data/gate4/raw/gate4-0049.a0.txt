@@ -1,0 +1,132 @@
+[[AGENCY|North Carolina Infant-Toddler Program]]
+Fictional IFSP Review and Bilingual Communication Evaluation
+
+Review date: [[DATE|October 14, 2026]]
+Evaluation date: [[DATE|October 14, 2026]]
+Initial IFSP date: [[DATE|April 14, 2026]]
+Child record: [[ID|NCIT-60482917]]
+Medicaid member number: [[MEDICAID_ID|604829173K]]
+
+Family information and review participants
+
+[[CHILD|Mateo Adrián Solís]], called [[CHILD|Teo]] at home, was born on [[DATE|August 14, 2024]]. His chronological age is [[KEEP|26 months]]. He lives with his mother, [[PARENT|Guadalupe Elena Solís]], called [[PARENT|Lupita]]; his father, [[PARENT|Jesús Rafael Solís]], called [[PARENT|Chuy]]; and his brother, [[SIBLING|José Emiliano Solís]], called [[SIBLING|Pepe]], age [[KEEP|6 years]]. The family address is [[PLACE|418 Willow Lantern Lane]], [[PLACE|Bellhaven]], North Carolina [[PLACE|27864]]. The primary telephone number is [[PHONE|(919) 555-0147]]. The family email is [[EMAIL|solis.family@example.org]].
+
+The family uses Spanish during most home routines and English during some community activities. The parents requested this written review in English. The clinician discussed findings and recommendations in both languages.
+
+Mother works morning shifts at [[ORG|Marigold Linen Services]] and evening shifts at [[ORG|NHC]]. Father repairs equipment for [[ORG|Cedar Basket Packing]]. Maternal grandmother [[FAMILY|Rosa Inés Valverde]] provides care between shifts. She previously lived at [[PLACE|Calle Jacaranda 27]], in the village of [[PLACE|San Lucero del Monte]], Mexico. The family maintains contact with relatives there through video calls.
+
+Service coordination and participating agencies
+
+The service coordinator is [[PROVIDER|Marisol Reyes]], identified as [[PROVIDER|M.R.]] on scheduling notes. She works through [[AGENCY|Lantern County CDSA]], located at [[PLACE|72 Orchard Commons Drive]], [[PLACE|Bellhaven]], North Carolina [[PLACE|27864]]. Her telephone number is [[PHONE|(919) 555-0162]].
+
+The evaluating bilingual pediatric speech-language pathologist is [[PROVIDER|Elena Marín Brooks]], MS, CCC-SLP, employed by [[EMPLOYER|Juniper Bridge Pediatric Speech]]. She completed the family interview, direct assessment, language sampling, and routine observation.
+
+The primary care physician is Dr. [[PROVIDER|Anika Desai]] at [[HOSPITAL|Blue Heron Children’s Hospital]]. An occupational therapist, [[PROVIDER|J. Ortiz]], provides consultation about seating and participation during meals.
+
+The family also receives support from [[AGENCY|Centro Comunitario de Apoyo Integral para Familias Migrantes y Desarrollo Infantil Temprano]] ([[AGENCY|CCAIFMDIT]]). Its family navigator, [[PERSON|Dalia Fuentes]], helped arrange transportation. [[AGENCY|CCAIFMDIT]] does not provide clinical treatment. [[AGENCY|Lantern County Family Nutrition Office]] supports food access. The coordinator will contact these agencies only within the family’s documented releases.
+
+Family concerns and priorities
+
+Mother stated, “I understand his looks, but other people do not. I want him to tell Grandma when he needs something.”
+
+Father stated, “When I get home, he brings me things. I want to know what he wants before he gets upset.”
+
+Mother added, “I work two jobs. Please give us things we can do while we eat or get dressed. We cannot make another homework time.”
+
+The parents identified communication during meals, transitions, and play as their main priorities. They want both languages supported. They do not want relatives to stop speaking Spanish.
+
+Grandmother stated, “He listens when we sing. If I wait, he sometimes tries a word. I need to remember to wait.”
+
+The family described strengths in affection, movement, imitation of familiar actions, and interest in people. [[CHILD|Mateo]] enjoys placing toy animals in containers and bringing books to adults. He often seeks his brother’s attention by offering a car.
+
+The parents reported fewer prolonged protests since the initial plan. They still need help identifying whether a protest means refusal, discomfort, or a request for assistance. They want daycare staff to use the same simple choices that work at home.
+
+Relevant history and current participation
+
+Mother reported birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3,180 grams]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. No neonatal admission was reported. These details came from the family interview; hospital birth records were unavailable for this review.
+
+The family reported no recent loss of communication skills. Hearing screening documentation dated [[DATE|September 22, 2026]] indicated a pass in both ears. The clinician reviewed that report. Feeding concerns involve limited food variety and difficulty requesting another serving. The family did not report coughing or choking during meals.
+
+[[CHILD|Teo]] attends [[DAYCARE|Little Acorn Harbor]] on weekdays. Teacher Ms. [[TEACHER|Nora Velásquez]] reported that he watches familiar songs, joins movement activities, and needs adult help when another child takes a preferred toy. Classroom assistant [[TEACHER|Evan Pierce]] described improved participation when adults show an object before giving a direction.
+
+A familiar peer, [[PEER|Juan Esteban Molina]], called [[PEER|Juanito]], often plays beside him at the vehicle shelf. Staff described brief exchanges of cars. They did not report sustained conversation between the children.
+
+Daily routines and natural learning opportunities
+
+Breakfast usually begins at [[TIME|7:15 a.m.]]. Grandmother offers familiar foods while mother prepares for work. Adults often anticipate requests, which reduces opportunities for communication. The family agreed to pause before opening containers or giving another serving.
+
+Daycare arrival is near [[TIME|8:10 a.m.]]. A picture showing the next activity helps with separation. Staff will pair a brief spoken message with the picture and allow extra processing time.
+
+Lunch provides opportunities to request, reject, and ask for help. Adults will accept a gesture, picture, sign, or spoken attempt. Food access will not depend on producing a word.
+
+After daycare, the family walks near home. [[CHILD|Mateo]] points toward moving vehicles and the family dog, [[PET|Canela]]. Adults can describe his focus and add a short phrase without asking repeated questions.
+
+Bathing and dressing provide predictable action words. Brother [[SIBLING|Pepe]] can offer a choice between two shirts with adult support. The parents will keep sibling participation playful and voluntary.
+
+Bedtime begins around [[TIME|8:30 p.m.]]. A short book and familiar song are practical opportunities for shared attention. The clinician recommended repeating enjoyable books rather than changing materials each night.
+
+Evaluation procedures and results
+
+The clinician administered [[KEEP|PLS-5 Spanish]] using the instrument’s bilingual administration procedures. She also observed caregiver interaction, collected a spontaneous language sample, and reviewed daycare information. Family reports supported interpretation across settings.
+
+The table presents standard scores, percentile ranks, confidence intervals, and age-equivalent ranges. Confidence intervals reflect measurement uncertainty. Age-equivalent ranges provide descriptive context and do not establish an instructional placement.
+
+| Measure | Standard score | Percentile | Confidence interval | Age-equivalent range |
+|---|---|---|---|---|
+| [[KEEP|Auditory Comprehension]] | [[KEEP|79]] | [[KEEP|8th percentile]] | [[KEEP|74–87]] | [[KEEP|1;8–1;11]] |
+| [[KEEP|Expressive Communication]] | [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|71–84]] | [[KEEP|1;5–1;8]] |
+| [[KEEP|Total Language]] | [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|72–83]] | [[KEEP|1;6–1;9]] |
+
+[[CHILD|Mateo]] followed familiar directions in [[KEEP|7/10]] opportunities when objects and gestures supported the message. Performance decreased when directions lacked context. He identified familiar pictured objects in [[KEEP|6/10]] opportunities across both languages.
+
+He communicated spontaneously in [[KEEP|8/15]] observed opportunities through pointing, reaching, vocalizing, or words. He combined a gesture with a vocalization in [[KEEP|5 of 8]] supported exchanges. These observations describe this session and are not additional standardized scores.
+
+Clinical interpretation
+
+Observed productions included [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"go"]], and [[KEEP|"no"]]. A request for a toy car sounded like [[KEEP|[ka]]]. The clinician heard emerging [[KEEP|/k/]] in familiar words and frequent [[KEEP|[w]]] during excited play.
+
+During a pet-related exchange, he said "[[PET|Canela]] come". This phrase occurred once and was not treated as an established skill.
+
+The language sample contained frequent gestures and limited word combinations. No consistent use of [[KEEP|/ɾ/]] was observed. Speech sound findings remain descriptive because the sample was small and language development limits formal interpretation.
+
+The clinician used [[KEEP|min cues]] for familiar gestures, [[KEEP|mod cues]] for supported choices, and [[KEEP|max cues]] when introducing a new picture request. Participation improved when adults followed the child’s interest.
+
+Findings support continued intervention for receptive and expressive language needs. Bilingual exposure does not explain the observed difficulty across languages. The working treatment diagnosis is [[KEEP|F80.2]]. Planned individual communication treatment uses [[KEEP|CPT 92507]] with modifier [[KEEP|GN]], subject to payer requirements.
+
+Outcomes, strategies, and progress measures
+
+Outcome [[KEEP|1]]: During meals and snacks, [[CHILD|Teo]] will communicate a request, rejection, or need for help in [[KEEP|8/10]] natural opportunities across consecutive caregiver observations.
+
+Current performance is [[KEEP|4/10]] opportunities with [[KEEP|mod cues]]. Caregivers will offer meaningful choices, model [[KEEP|"más"]], [[KEEP|"help"]], and [[KEEP|"all done"]], then pause. They will respond to gestures and word attempts. The clinician will coach responsive interaction using [[KEEP|Hanen]] principles. The family will record examples with brief check marks.
+
+Outcome [[KEEP|2]]: During dressing, cleanup, and daycare transitions, [[CHILD|Mateo]] will follow familiar directions in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]].
+
+Current performance is [[KEEP|3 of 5]] opportunities with gestures and [[KEEP|mod cues]]. Adults will use one brief direction, show the relevant object, and wait. They will reduce gestures gradually as understanding improves. Practice will occur within existing routines. Adults will avoid repeating a direction rapidly or adding several new instructions.
+
+Outcome [[KEEP|3]]: During play and books, [[CHILD|Mateo]] will initiate or respond within reciprocal interaction for [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]].
+
+Current performance is [[KEEP|2 of 5]] opportunities with [[KEEP|mod cues]]. Adults will imitate his actions, add a simple word, and leave space for a response. Target phrases include [[KEEP|"my turn"]], [[KEEP|"go car"]], and [[KEEP|"abre"]]. Daycare staff will support brief exchanges with [[PEER|Juanito]] without requiring spoken performance before access to toys.
+
+Outcome [[KEEP|4]]: During familiar routines, caregivers will identify and use a communication strategy in [[KEEP|80%]] of sampled opportunities.
+
+Current observed use is [[KEEP|50%]]. The clinician will demonstrate a strategy, observe caregiver practice, and give specific feedback. Parents selected waiting, offering choices, and expanding attempts. Coaching will use routines that fit changing work schedules. The family may decline a proposed activity and choose another routine that serves the same outcome.
+
+Services, dates, and responsibilities
+
+Speech-language services will occur weekly for 45 minutes in the home or daycare from [[DATE|October 19, 2026]] through [[DATE|April 13, 2027]]. The first home visit is scheduled for [[DATE|October 19, 2026]] at [[TIME|4:15 p.m.]].
+
+Monthly occupational therapy consultation will continue from [[DATE|October 21, 2026]] through [[DATE|April 13, 2027]]. Consultation will address positioning and participation within family routines.
+
+The service coordinator will contact the family monthly and help resolve scheduling barriers. A progress discussion is planned for [[DATE|January 14, 2027]]. The next formal review is scheduled for [[DATE|April 14, 2027]].
+
+The clinician will document communication opportunities, caregiver observations, cueing needs, and generalization between settings. Progress decisions will use repeated routine observations, family priorities, and direct assessment when appropriate.
+
+Family participation and review agreement
+
+The parents confirmed that the outcomes reflect their priorities. They requested late afternoon visits and advance notice of schedule changes. They agreed to share a brief strategy sheet with daycare staff.
+
+Mother [[PARENT|Lupita]] stated, “This feels possible because we can do it during things we already do.” Father [[PARENT|Chuy]] requested examples in both languages. The clinician provided verbal examples and will bring a bilingual routine sheet to the first visit.
+
+The team will revise strategies when routines change. The family can request an earlier review through the coordinator.
+
+Prepared by [[PROVIDER|Elena Marín Brooks]], MS, CCC-SLP, bilingual pediatric speech-language pathologist, on [[DATE|October 14, 2026]].

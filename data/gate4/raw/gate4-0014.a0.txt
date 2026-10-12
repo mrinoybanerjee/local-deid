@@ -1,0 +1,30 @@
+Document: Fictional daily speech-language therapy note  Setting: Pediatric outpatient care, North Carolina  Language: English; bilingual clinician provides English and Spanish support
+Client: [[CHILD|Nico Marín]]  Preferred name: [[CHILD|Nico]]  Age: [[KEEP|4;2]]  DOB: [[DATE|August 9, 2022]]
+Service date: [[DATE|October 11, 2026]]  Record: [[ID|ST-682041]]  Medicaid: [[MEDICAID_ID|684029173Q]]  Authorization: [[ID|AUTH-370826]]
+Clinician: [[PROVIDER|Elena Varela]], MS, CCC-SLP  Employer: [[EMPLOYER|Firefly Bilingual Speech Services]]  Location: [[PLACE|428 Willowglass Lane]], [[PLACE|Mossbridge]], North Carolina [[PLACE|27864]]
+Parent: [[PARENT|Inés Marín]]  Phone: [[PHONE|919-555-0146]]  Email: [[EMAIL|ines.marin@example.com]]  School: [[SCHOOL|Willowglass Early Learning School]]
+
+Session schedule:
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:10 AM]] | [[TIME|9:40 AM]] | [[SCHOOL|Willowglass Early Learning School]] |
+| Wednesday | [[TIME|3:15 PM]] | [[TIME|3:45 PM]] | [[EMPLOYER|Firefly Bilingual Speech Services]] |
+| Sunday | [[TIME|10:00 AM]] | [[TIME|10:30 AM]] | [[EMPLOYER|Firefly Bilingual Speech Services]] |
+
+Schedule note: Today’s visit used the Sunday slot after the family requested a quieter room. Monday remains the classroom carryover visit. Wednesday includes caregiver coaching when transportation permits. The table reflects the planned weekly schedule; attendance is documented separately.
+
+Background: Mom works nights at [[ORG|Lanternbend Packaging Works]] as a shipping clerk. Dad, [[PARENT|Rafael Marín]], handles school pickup. Sister [[SIBLING|Hope]] joins home practice. Aunt [[FAMILY|Celia Duarte]] sometimes provides transportation. The family uses the food pantry and play group at [[ORG|Morning Lantern Church]]. Their dog, [[PET|Pebble]], often appears in home language samples.
+
+Medical history: Parent reported delivery at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8 and 9]]. The history was not independently verified today. Pediatrician Dr. [[PROVIDER|Mara Salcedo]] practices at [[HOSPITAL|Mossbridge Children’s Hospital]]. No new hearing concerns were reported.
+
+S: [[PARENT|Inés Marín]] reported more spontaneous requests during breakfast but continued frustration when listeners misunderstand longer messages. [[CHILD|Nico]] entered willingly, selected the farm set, and requested [[KEEP|"open box"]]. Mom described practicing after waking at [[TIME|2:30 PM]]. Teacher Ms. [[TEACHER|Tessa Bell]] reported that classmate [[PEER|Owen Vale]] waits during turn taking. The child appeared rested and accepted transitions with a picture schedule.
+
+O: Treatment addressed [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]] through play, shared reading, and caregiver coaching. Using [[KEEP|Hanen]] strategies, the clinician modeled short expansions and pause time. Independent two-word requests occurred in [[KEEP|8/10]] opportunities. Three-word requests occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Final consonants were present in [[KEEP|70%]] of sampled words. Initial [[KEEP|/k/]] accuracy reached [[KEEP|6/10]] with [[KEEP|max cues]]. A brief [[KEEP|Cycles]] activity targeted [[KEEP|"cup"]], [[KEEP|"cat"]], and [[KEEP|"cake"]]. One production contained [[KEEP|[w]]] for initial [[KEEP|/ɾ/]]. The child said "[[PET|Pebble]] run" while viewing a family photograph. Another utterance, [[KEEP|"him want truck"]], received the [[KEEP|SALT [EW]]] code.
+
+Prior assessment: [[KEEP|PLS-5]] testing on [[DATE|September 18, 2026]] yielded [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These historical results were reviewed without retesting.
+
+A: Functional requesting improved when adults followed the child’s interests and reduced competing questions. Performance decreased during rapid turn changes. English and Spanish observations showed similar difficulty organizing longer requests. Today’s samples support continued functional language intervention; isolated speech errors require broader sampling before changing treatment priorities.
+
+P: Continue the scheduled visits. Practice [[KEEP|"help me"]], [[KEEP|"my turn"]], and [[KEEP|"more please"]] during familiar routines with [[KEEP|min cues]]. Ask caregivers to record brief examples of successful repairs. Coordinate classroom practice with Ms. [[TEACHER|Tessa Bell]]. Review progress on [[DATE|October 25, 2026]]. Home practice should remain playful and stop when frustration increases.
+
+Billing: CPT [[KEEP|92507]]  Modifier: [[KEEP|GN]]  Diagnosis: ICD-10 [[KEEP|F80.2]]  Signature: [[PROVIDER|Elena Varela]], CCC-SLP

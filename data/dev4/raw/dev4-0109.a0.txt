@@ -1,0 +1,140 @@
+Client Name: [[CHILD|Mateo Alejandro Vásquez]]
+Preferred Name: [[CHILD|Teo]]
+Date of Birth: [[DATE|March 3, 2022]]
+Chronological Age at Evaluation: [[KEEP|4;2]]
+Sex: Male
+Medicaid ID: [[MEDICAID_ID|501837662K]]
+Case Record ID: [[ID|CDSA-00482-V]]
+Evaluation Dates: [[DATE|May 12, 2026]] and [[DATE|May 14, 2026]]
+Report Date: [[DATE|May 20, 2026]]
+Referral Source: [[PROVIDER|Patricia Alvarez]], Service Coordinator, [[AGENCY|Cabarrus County CDSA]]
+Evaluating Clinician: [[PROVIDER|Jennifer Boyd]], M.S., CCC-SLP
+Employer: [[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]]
+Clinic Address: [[PLACE|4821 Weddington Road, Suite 110, Concord, NC 28027]]
+Clinic Phone: [[PHONE|(704) 555-0142]]
+Clinic Email: [[EMAIL|jboyd@carolinapinespediatrictherapy.com]]
+Mother: [[PARENT|Diana Vásquez]]
+Father: [[PARENT|Jorge Vásquez]]
+Home Address: [[PLACE|118 Ivy Creek Lane, Concord, NC 28025]]
+Home Phone: [[PHONE|(704) 555-0199]]
+Primary Diagnosis: Mixed receptive-expressive language disorder; speech sound disorder
+ICD-10 Code(s): [[KEEP|F80.2]]; [[KEEP|F80.0]]
+CPT Code(s) Billed: [[KEEP|92523]]; [[KEEP|92522]]
+Home Language(s): Spanish (primary), English (secondary)
+Interpreter Needed: No — evaluating clinician is bilingual (Spanish/English)
+
+REASON FOR REFERRAL AND BACKGROUND
+
+[[CHILD|Teo]] is a [[KEEP|4;2]]-year-old boy referred for a comprehensive bilingual speech-language evaluation by [[PROVIDER|Patricia Alvarez]], his Service Coordinator through the [[AGENCY|Cabarrus County CDSA]]. [[CHILD|Teo]] lives with his parents, [[PARENT|Diana Vásquez]] and [[PARENT|Jorge Vásquez]], his older sister [[SIBLING|Camila Vásquez]] (age 8), and his maternal grandmother, [[FAMILY|Rosa Fuentes]], at [[PLACE|118 Ivy Creek Lane, Concord, NC 28025]]. The family also keeps a dog named [[PET|Rocky]], of whom [[CHILD|Teo]] is very fond and whom he frequently mentions during play-based sampling.
+
+[[PARENT|Diana Vásquez]] reported that she and [[PARENT|Jorge Vásquez]] first noticed [[CHILD|Teo]]'s language lagging behind that of his cousins, [[FAMILY|Isabella Cruz]] and [[FAMILY|Diego Cruz]] (children of [[PARENT|Diana Vásquez]]'s sister, [[FAMILY|Marisol Cruz]]), around [[CHILD|Teo]]'s second birthday. Before relocating to [[PLACE|Concord, NC]] in [[DATE|the fall of 2023]], the family lived in Honduras, where [[CHILD|Teo]] received limited monitoring through a community early intervention program, the [[AGENCY|Programa Comunitario de Intervención Temprana y Apoyo Familiar para Niños con Discapacidades]] ([[AGENCY|PCITAFND]]). [[PARENT|Diana Vásquez]] stated that the family's [[AGENCY|PCITAFND]] caseworker had recommended ongoing speech-language monitoring, but services lapsed during the move. After settling in [[PLACE|Cabarrus County]], the family was connected to the [[AGENCY|Cabarrus County CDSA]] at the suggestion of [[CHILD|Teo]]'s pediatrician, [[PROVIDER|Dr. Henry Nguyen]], who flagged expressive language delay at [[CHILD|Teo]]'s [[KEEP|3-year]] well-child visit.
+
+Current concerns per report from [[PARENT|Diana Vásquez]] and [[PARENT|Jorge Vásquez]] include limited expressive vocabulary in both languages, difficulty being understood by unfamiliar listeners, frequent omission of final consonants, and increasing frustration when he cannot make himself understood. [[CHILD|Teo]] attends [[DAYCARE|Little Sprouts Early Learning Academy]] five mornings a week, where his lead teacher, [[TEACHER|Ms. Patterson]], and assistant teacher, [[TEACHER|Keisha Owens]], report that he is well liked by classmates [[PEER|Aiden Walsh]] and [[PEER|Sofia Martín]] but often resorts to pointing, pulling peers by the hand, or tantrumming rather than using words to request items during center time. [[TEACHER|Ms. Patterson]] noted that [[CHILD|Teo]] recently bit [[PEER|Aiden Walsh]] during a dispute over a toy truck, which she attributed to communicative frustration rather than aggression.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Teo]] was born at [[KEEP|38]] weeks gestation via spontaneous vaginal delivery at [[HOSPITAL|Atrium Health Carolinas Medical Center]] on [[DATE|March 3, 2022]]. Birth weight was [[KEEP|6 lbs 14 oz]]. Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. [[PARENT|Diana Vásquez]] reported an uncomplicated pregnancy with no maternal illness, substance use, or medication exposure. [[CHILD|Teo]] remained in the well-baby nursery and was discharged home with his mother on [[DATE|March 5, 2022]].
+
+Medical history is significant for recurrent acute otitis media beginning around [[KEEP|10 months]] of age, with documented episodes at [[KEEP|10]], [[KEEP|14]], and [[KEEP|19 months]]. [[CHILD|Teo]] underwent bilateral myringotomy with tube placement on [[DATE|November 8, 2023]], performed by Dr. [[PROVIDER|Samuel Ortiz]], ENT, with resolution of chronic effusion per follow-up audiometric testing. A hearing screening completed at today's evaluation, consisting of otoacoustic emissions bilaterally, yielded results consistent with normal peripheral hearing sensitivity ([[KEEP|"pass," bilaterally]]). No history of seizures, head injury, or hospitalization beyond the tube placement procedure was reported. [[CHILD|Teo]] is not currently prescribed any medications. Vision was reported as unremarkable by [[PROVIDER|Dr. Henry Nguyen]] at his most recent well-child visit.
+
+Developmental milestones were reported as follows: sat independently at [[KEEP|6 months]], walked independently at [[KEEP|13 months]], first words emerged around [[KEEP|18 months]] ("mamá," "no," "agua"), and two-word combinations were not consistently observed until approximately [[KEEP|30 months]]. [[PARENT|Diana Vásquez]] described this trajectory as notably slower than that of [[SIBLING|Camila Vásquez]], who reportedly combined words by [[KEEP|16 months]].
+
+FAMILY AND LANGUAGE HISTORY
+
+The home is bilingual, with Spanish used as the predominant language of daily interaction, particularly between [[CHILD|Teo]] and his grandmother, [[FAMILY|Rosa Fuentes]], who resides with the family and provides primary daytime care. [[FAMILY|Rosa Fuentes]] speaks Spanish exclusively. [[PARENT|Diana Vásquez]] and [[PARENT|Jorge Vásquez]] are both fluent in Spanish and conversationally proficient in English, and they report code-switching frequently depending on context and listener. [[SIBLING|Camila Vásquez]], who is enrolled in the bilingual immersion strand at her elementary school, is reported to be balanced in both languages and often serves as a language model and informal interpreter for [[CHILD|Teo]] with English-speaking adults.
+
+[[PARENT|Diana Vásquez]] works nights at the [[ORG|Food Lion Distribution Center]] in [[PLACE|Concord]] as an overnight inventory stocker, typically working from [[TIME|10:00 PM]] to [[TIME|6:00 AM]] four nights a week. Because of this schedule, [[FAMILY|Rosa Fuentes]] manages the bulk of [[CHILD|Teo]]'s daytime care and transportation to [[DAYCARE|Little Sprouts Early Learning Academy]], while [[PARENT|Jorge Vásquez]], who works days as a framer for [[ORG|Crescent Builders]], handles evening routines. On Tuesday and Thursday evenings, when [[PARENT|Jorge Vásquez]] occasionally works late, a neighbor and family friend, [[FAMILY|Shay Thompson]], babysits [[CHILD|Teo]] and [[SIBLING|Camila Vásquez]] from approximately [[TIME|5:30 PM]] until [[TIME|8:00 PM]]. [[FAMILY|Shay Thompson]] speaks only English with the children, and [[PARENT|Diana Vásquez]] noted that [[CHILD|Teo]] tends to use shorter, more telegraphic utterances during this time compared to when he is with Spanish-speaking family members.
+
+[[CHILD|Teo]] sees his cousins, [[FAMILY|Isabella Cruz]] and [[FAMILY|Diego Cruz]], most weekends, and family gatherings are reported to occur predominantly in Spanish. [[PARENT|Diana Vásquez]] denied any family history of speech, language, or learning disability beyond an uncle with a reported history of stuttering that resolved in childhood.
+
+EDUCATIONAL HISTORY
+
+[[CHILD|Teo]] has attended [[DAYCARE|Little Sprouts Early Learning Academy]] since [[DATE|August 2024]], currently in the Pre-K 3 classroom under [[TEACHER|Ms. Patterson]] and [[TEACHER|Keisha Owens]]. The classroom follows an English-dominant curriculum with incidental Spanish support from bilingual staff and peers. [[TEACHER|Ms. Patterson]] reports that [[CHILD|Teo]] participates willingly in group routines such as circle time and gross motor play but is frequently unable to answer simple "wh-" questions or follow two-step directions without visual or gestural support. He is described as socially motivated, affectionate with adults, and eager to play alongside [[PEER|Aiden Walsh]] and [[PEER|Sofia Martín]], though interactions are often limited to parallel play rather than reciprocal verbal exchange.
+
+[[CHILD|Teo]] is currently receiving early intervention services under an Individualized Family Service Plan (IFSP) through the [[AGENCY|Cabarrus County CDSA]], with [[KEEP|Outcome 2]] addressing expressive communication and [[KEEP|Outcome 3]] addressing social play skills. The IFSP was most recently reviewed on [[DATE|February 14, 2026]], with the next annual review scheduled for [[DATE|February 14, 2027]]. Speech-language intervention has occurred on a limited consultative basis to date, pending this comprehensive evaluation to determine eligibility for direct weekly services.
+
+SESSION SCHEDULE
+
+Proposed direct intervention sessions, pending authorization, are summarized below:
+
+| Day | Start Time | Stop Time | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]], [[PLACE|4821 Weddington Road, Suite 110, Concord, NC 28027]] |
+| Wednesday | [[TIME|3:30 PM]] | [[TIME|4:15 PM]] | [[DAYCARE|Little Sprouts Early Learning Academy]], [[PLACE|Concord, NC]] (push-in) |
+| Friday | [[TIME|10:00 AM]] | [[TIME|10:45 AM]] | Home visit, [[PLACE|118 Ivy Creek Lane, Concord, NC 28025]] |
+
+Transportation to Monday sessions will be provided by [[FAMILY|Rosa Fuentes]]. Wednesday push-in sessions require coordination with [[TEACHER|Ms. Patterson]]'s classroom schedule. Friday home visits will occur during [[FAMILY|Rosa Fuentes]]'s supervision window, as [[PARENT|Diana Vásquez]] is typically asleep following her overnight shift at the [[ORG|Food Lion Distribution Center]].
+
+ASSESSMENT PROCEDURES
+
+This evaluation was conducted in both English and Spanish across two sessions on [[DATE|May 12, 2026]] and [[DATE|May 14, 2026]], at the office of [[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]]. [[CHILD|Teo]] was accompanied by [[PARENT|Diana Vásquez]] on both dates and by [[FAMILY|Rosa Fuentes]] on [[DATE|May 14, 2026]]. All test administration and scoring were completed by [[PROVIDER|Jennifer Boyd]], M.S., CCC-SLP, who is bilingual and administered both English and Spanish test forms directly without an interpreter. Procedures included standardized assessment, a hearing screening, oral-motor examination, parent interview, classroom observation, and spontaneous language sampling in both languages during structured play.
+
+[[CHILD|Teo]] separated easily from [[PARENT|Diana Vásquez]] and engaged readily with toys and testing materials. Rapport was established quickly using preferred toys, including a toy dog that [[CHILD|Teo]] spontaneously named after his own pet, [[PET|Rocky]]. Attention and engagement were adequate for valid testing across both sessions, with brief breaks offered between subtests. Results below are considered a valid representation of [[CHILD|Teo]]'s current communication skills.
+
+TEST RESULTS
+
+| Test / Subtest | Language | Standard Score | Percentile | 95% CI | Age Equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] – [[KEEP|Auditory Comprehension]] | English | [[KEEP|71]] | [[KEEP|3rd]] | [[KEEP|65-77]] | [[KEEP|2;6-2;9]] |
+| [[KEEP|PLS-5]] – [[KEEP|Expressive Communication]] | English | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|62-74]] | [[KEEP|2;3-2;6]] |
+| [[KEEP|PLS-5]] – [[KEEP|Total Language Score]] | English | [[KEEP|67]] | [[KEEP|1st]] | [[KEEP|61-73]] | — |
+| [[KEEP|PLS-5 Spanish]] – [[KEEP|Auditory Comprehension]] | Spanish | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|72-86]] | [[KEEP|3;0-3;3]] |
+| [[KEEP|PLS-5 Spanish]] – [[KEEP|Expressive Communication]] | Spanish | [[KEEP|75]] | [[KEEP|5th]] | [[KEEP|68-82]] | [[KEEP|2;9-3;0]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]] – [[KEEP|Sounds-in-Words]] | English | [[KEEP|72]] | [[KEEP|3rd]] | [[KEEP|66-78]] | — |
+| [[KEEP|Bilingual English-Spanish Assessment (BESA)]] – [[KEEP|Morphosyntax]] | English | — | [[KEEP|6th]] | — | — |
+| [[KEEP|BESA]] – [[KEEP|Morphosyntax]] | Spanish | — | [[KEEP|15th]] | — | — |
+| [[KEEP|BESA]] – [[KEEP|Semantics]] | Spanish | — | [[KEEP|22nd]] | — | — |
+
+On the [[KEEP|GFTA-3]], errors in English were predominantly final consonant deletion and stopping of fricatives, consistent with a phonological process disorder rather than isolated articulation errors. Composite intelligibility in connected speech was rated at approximately [[KEEP|60%]] for familiar listeners and [[KEEP|30-40%]] for unfamiliar listeners, consistent with parent and teacher report.
+
+SPEECH SOUND AND LANGUAGE SAMPLE OBSERVATIONS
+
+During the English language sample, [[CHILD|Teo]] produced primarily one- and two-word utterances, with mean length of utterance calculated at [[KEEP|1.8]] morphemes, below the expected range for his age. Representative productions included omission of final consonants, as in "[[KEEP|ca]]" for "[[KEEP|cat]]" and "[[KEEP|do]]" for "[[KEEP|dog]]," as well as cluster reduction, as in "[[KEEP|poon]]" for "[[KEEP|spoon]]." When shown a picture of a running dog resembling his own pet, [[CHILD|Teo]] exclaimed "[[PET|Rocky]] run," omitting the final /n/ in a stimulable but inconsistent production; with [[KEEP|moderate cues]] (modeling plus tactile cue), he approximated "[[KEEP|Rocky run[n]]]" with partial improvement.
+
+In the Spanish sample, utterances were somewhat longer and more grammatically complete, with frequent omission of articles and occasional substitution of /p/ for /f/, as in "[[KEEP|pacha]]" for "[[KEEP|flacha]]" (a toy word used during play). [[CHILD|Teo]] produced the target phrase "[[KEEP|más agua]]" clearly and consistently to request a drink, and he used the possessive construction "[[KEEP|mi perro]]" appropriately when referring to [[PET|Rocky]]. He demonstrated use of present-tense verb forms in Spanish more consistently than in English, where verb morphology (third-person -s, past tense -ed) was largely absent.
+
+Oral-motor examination revealed structures within normal limits for strength, symmetry, and range of motion, with no evidence of dysarthria or apraxia-consistent inconsistency across repeated trials of the same target. Diadochokinetic rates were age-appropriate on informal observation. Stimulability was good across most error sounds, with improvement to [[KEEP|mild cues]] for /k/ in final position and [[KEEP|min cues]] for /s/ clusters in initial position.
+
+Pragmatic skills were judged adequate for structured interaction but limited in spontaneous peer-directed communication, consistent with teacher report regarding interactions with [[PEER|Aiden Walsh]] and [[PEER|Sofia Martín]]. [[CHILD|Teo]] used eye contact, turn-taking, and joint attention appropriately with the examiner and showed emerging use of gesture plus single words to repair communication breakdowns when a listener indicated non-comprehension.
+
+CLINICAL IMPRESSIONS
+
+Results of this bilingual evaluation indicate that [[CHILD|Teo]] presents with a mixed receptive-expressive language disorder affecting both English and Spanish, with relatively stronger skills in Spanish, his primary home language, consistent with typical patterns of bilingual language dominance rather than a language-specific deficit. Scores on the [[KEEP|PLS-5]] and [[KEEP|PLS-5 Spanish]] fell in the low range in both languages, with Spanish scores falling closer to, though still below, average limits. Performance on the [[KEEP|BESA]] further supports deficits across both languages in morphosyntax, with somewhat stronger semantic skills in Spanish. These cross-linguistic patterns are consistent with a true language disorder rather than second-language acquisition alone, as a disorder affecting only one language, or stronger performance in the child's less-dominant language, would instead suggest typical bilingual development.
+
+[[CHILD|Teo]] also presents with a speech sound disorder characterized by phonological process errors (final consonant deletion, cluster reduction, stopping) that are present, though to differing degrees, across both languages, further supporting a disorder affecting underlying phonological systems rather than dialectal or second-language transfer alone. Given his history of recurrent otitis media with effusion and tube placement, a component of his speech-language delay may be attributable in part to a history of fluctuating conductive hearing loss during a critical developmental window, though current hearing is within normal limits.
+
+[[CHILD|Teo]]'s strong social motivation, good stimulability, and relatively intact pragmatic foundation are favorable prognostic indicators. His family's engagement, bilingual home environment, and existing relationship with the [[AGENCY|Cabarrus County CDSA]] provide a strong foundation for intervention. Continued support for both languages is recommended, as bilingualism is not contributing to, and should not be discontinued as a strategy for addressing, his language disorder.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Teo]] qualifies for direct speech-language intervention services under his IFSP based on standardized testing falling more than 1.5 standard deviations below the mean in both languages assessed.
+
+2. Direct speech-language therapy is recommended twice weekly for 45-minute sessions, targeting expressive and receptive language goals (IFSP [[KEEP|Outcome 2]]) and speech sound production in both English and Spanish, per the schedule outlined above, delivered by [[PROVIDER|Jennifer Boyd]], M.S., CCC-SLP, or another qualified bilingual clinician at [[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]].
+
+3. A phonological approach such as the [[KEEP|Cycles approach]] is recommended to target final consonant deletion and cluster reduction across both languages, given the cross-linguistic nature of [[CHILD|Teo]]'s phonological errors.
+
+4. Parent coaching using [[KEEP|Hanen]]-based strategies (for example, "OWL" — observe, wait, listen) is recommended for [[PARENT|Diana Vásquez]], [[PARENT|Jorge Vásquez]], and [[FAMILY|Rosa Fuentes]] to support language modeling across both languages during daily routines, given [[FAMILY|Rosa Fuentes]]'s central caregiving role.
+
+5. Continued exposure to and use of Spanish at home should be maintained and supported, not reduced, as Spanish is [[CHILD|Teo]]'s stronger and more developmentally advanced language at this time.
+
+6. Classroom-based support at [[DAYCARE|Little Sprouts Early Learning Academy]] is recommended, including visual schedules, modeling of two-word combinations, and pre-teaching of vocabulary, in coordination with [[TEACHER|Ms. Patterson]] and [[TEACHER|Keisha Owens]].
+
+7. Referral for occupational therapy evaluation is recommended to rule out contributing fine motor or sensory regulation factors related to behavioral frustration; [[PROVIDER|Megan Shields]], OTR/L, has been consulted and can accommodate evaluation within the next four weeks.
+
+8. Repeat audiological monitoring is recommended given [[CHILD|Teo]]'s history of recurrent otitis media, to be coordinated through [[PROVIDER|Dr. Henry Nguyen]]'s office.
+
+9. Re-evaluation of standardized scores is recommended in approximately six months, or at the next IFSP annual review on [[DATE|February 14, 2027]], to monitor progress in both languages and determine continued eligibility.
+
+10. The family should continue coordination with [[PROVIDER|Patricia Alvarez]] at the [[AGENCY|Cabarrus County CDSA]] regarding service authorization and any applicable records transfer from the family's prior involvement with [[AGENCY|PCITAFND]] in Honduras, if such records can be obtained.
+
+This report and its recommendations were discussed with [[PARENT|Diana Vásquez]] in Spanish at the conclusion of the [[DATE|May 14, 2026]] session, and she verbalized agreement with the proposed plan of care.
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer Boyd]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+License No. [[ID|NC-SLP-10432]]
+[[EMPLOYER|Carolina Pines Pediatric Therapy, PLLC]]
+[[PLACE|4821 Weddington Road, Suite 110, Concord, NC 28027]]
+Phone: [[PHONE|(704) 555-0142]] | Email: [[EMAIL|jboyd@carolinapinespediatrictherapy.com]]
+Report Date: [[DATE|May 20, 2026]]

@@ -1,0 +1,134 @@
+[[EMPLOYER|Carolina Bilingual Therapy Services, PLLC]] ([[EMPLOYER|CBTS]])
+EVALUACIÓN DE HABLA Y LENGUAJE — INFORME SOAP
+
+Nombre del paciente: [[CHILD|Mateo Alejandro Cruz Rodríguez]] ("[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|14 de marzo de 2022]]
+Edad cronológica al momento de la evaluación: [[KEEP|3;7]]
+Fecha de evaluación: [[DATE|9 de octubre de 2025]]
+Número de expediente: [[ID|CBTS-2025-00417]]
+Número de Medicaid: [[MEDICAID_ID|784215630A]]
+Dirección: [[PLACE|118 Willow Bend Court]], [[PLACE|Monroe]], NC [[PLACE|28112]]
+Teléfono de contacto: [[PHONE|(704) 555-0187]]
+Idioma dominante del hogar: español
+Fuente de referencia: [[PROVIDER|Dra. Karen Sutton]], pediatra
+Coordinadora de servicios: [[PROVIDER|Yesenia Morales]], [[AGENCY|CDSA del Piedmont Sur]]
+Evaluadora: [[PROVIDER|Ana María Torres]], M.S., CCC-SLP, licencia [[ID|NC-SLP-04821]], NPI [[ID|1847562390]]
+Lugar de evaluación: [[EMPLOYER|Carolina Bilingual Therapy Services, PLLC]], oficina de [[PLACE|4210 Park Road, Suite 220]], [[PLACE|Charlotte]], NC [[PLACE|28209]]
+Intérprete: no requerido; evaluación conducida directamente en español por clínica bilingüe certificada
+Códigos de facturación: [[KEEP|CPT 92523]] (evaluación de habla y lenguaje), [[KEEP|modificador GN]]
+
+S:
+
+Pte. [[CHILD|Mateo]], [[KEEP|3;7]], conocido en casa como "[[CHILD|Teo]]", "[[CHILD|Mateíto]]" o "[[CHILD|Teíto]]", referido por su pediatra, [[PROVIDER|Dra. Karen Sutton]], por preocupación de retraso en habla expresiva e inteligibilidad reducida fuera del hogar. Hx. obtenida de su madre, [[PARENT|Lucía Guadalupe Rodríguez Pérez]] ("[[PARENT|Lupita]]"), y su padre, [[PARENT|Jesús Ramírez Cruz]] ("[[PARENT|Chuy]]"), presentes en la cita del [[DATE|9 de octubre de 2025]].
+
+Hx. prenatal/natal: embarazo a término, [[KEEP|39 semanas de gestación]], sin complicaciones reportadas por [[PARENT|Lupita]] durante el embarazo (control prenatal regular en clínica comunitaria). Parto vaginal espontáneo en [[HOSPITAL|Atrium Health Union]] el [[DATE|14 de marzo de 2022]]. Peso al nacer [[KEEP|3,200 gramos]]. Apgar [[KEEP|8/9]]. Sin hx. de NICU ni complicaciones neonatales. Alta hospitalaria a las [[KEEP|48 horas]] de vida.
+
+Hx. del desarrollo motor: se sentó solo aprox. [[KEEP|6 meses]], camino solo a [[KEEP|13 meses]], dentro de lo esperado. Hx. médica relevante: 2 episodios de otitis media aguda (edades [[KEEP|18 meses]] y [[KEEP|2;1]]), ambos tratados con antibiótico oral, resolución completa, sin tubos de ventilación ni derivación a ORL en ese momento. Timpanometría más reciente el [[DATE|2 de septiembre de 2025]] en [[HOSPITAL|Novant Health Pediatric ENT]]: resultados [[KEEP|WNL]] bilateral, sin derrame ni retracción. Sin hx. de convulsiones, hospitalizaciones adicionales, cirugías, ni alergias conocidas. Visión no evaluada formalmente; padres no reportan preocupación de seguimiento visual ni fotofobia.
+
+Hx. de alimentación: lactancia materna exclusiva hasta [[KEEP|6 meses]], luego mixta hasta [[KEEP|14 meses]]. Transición a alimentos sólidos sin dificultad reportada. Sin hx. de atragantamiento, reflujo significativo, ni pérdida de peso. [[PARENT|Lupita]] no reporta aversión a texturas.
+
+Hx. familiar y lingüística: hogar bilingüe con predominancia de español. [[PARENT|Lupita]] es originaria de [[PLACE|El Rosario]], Michoacán, México; emigró hace aprox. 6 años. [[PARENT|Chuy]] es originario de [[PLACE|Comitancillo]], San Marcos, Guatemala, y mantiene contacto telefónico frecuente con su madre, quien aún vive en el pueblo. Hermana mayor, [[SIBLING|Daniela Cruz Rodríguez]], [[KEEP|7 años]], cursa tercer grado en [[SCHOOL|Monroe Elementary School]], bilingüe funcional, suele traducir para [[CHILD|Mateo]] cuando juegan con vecinos de habla inglesa. Hermano menor, [[SIBLING|José Manuel Cruz Rodríguez]] ("[[SIBLING|Pepe]]"), [[KEEP|18 meses]], preverbal, consistente con la edad; sin preocupación reportada en este momento. Durante reuniones familiares de fin de semana, [[CHILD|Mateo]] juega con su primo [[FAMILY|Juan Carlos Pérez]] ("[[FAMILY|Juanito]]"), [[KEEP|6 años]], quien ocasionalmente lo cuida brevemente mientras los adultos conversan.
+
+Hx. ocupacional de los padres (relevante para disponibilidad de cuidado y horarios de tx.): [[PARENT|Lupita]] trabaja en la planta empacadora de aves [[ORG|Monte Verde Poultry Processing Plant]], conocida en la comunidad como la "[[ORG|planta de Monte Verde]]", en turno de [[TIME|6:00 a.m.]] a [[TIME|2:00 p.m.]], de lunes a viernes. [[PARENT|Chuy]] trabaja para la compañía de construcción [[ORG|Hernández & Sons Construction Company]] ("[[ORG|Construcción Hernández]]"), con horario variable según proyecto, a veces extendido hasta las [[TIME|7:00 p.m.]]. Debido a estos horarios, la abuela materna, [[FAMILY|Juanita Pérez Gómez]], quien vive con la familia desde hace 2 años, es la cuidadora principal de [[CHILD|Mateo]] y [[SIBLING|Pepe]] durante el día. [[FAMILY|Juanita]] habla únicamente español con los niños y reporta sentirse frustrada por la dificultad de entender a [[CHILD|Mateo]] cuando pide algo.
+
+Hx. de servicios de intervención temprana: [[CHILD|Mateo]] fue referido a la [[AGENCY|CDSA del Piedmont Sur]] en [[DATE|mayo de 2025]] tras preocupación expresada por la nutricionista de [[AGENCY|WIC]] durante una cita de control de crecimiento. La coordinadora de servicios asignada, [[PROVIDER|Yesenia Morales]], completó la evaluación de elegibilidad el [[DATE|3 de junio de 2025]]; [[CHILD|Mateo]] calificó para servicios de intervención temprana bajo Parte C por retraso significativo en comunicación. El IFSP inicial se firmó el [[DATE|20 de junio de 2025]], con [[KEEP|Resultado IFSP #2]] enfocado en aumento de comunicación expresiva funcional. [[CHILD|Mateo]] asiste a un grupo de juego supervisado de [[AGENCY|Early Head Start]] los martes y jueves por la mañana, donde su maestra, [[TEACHER|Srta. Brenda Collins]], reporta que usa principalmente gestos y palabras sueltas para comunicarse con compañeros de clase, incluyendo [[PEER|Liam]] y [[PEER|Sofía]], con quienes comparte mesa de actividades. La familia también está en lista de espera con [[AGENCY|Smart Start del Condado de Union]] para cuidado infantil subsidiado, y fue conectada por la coordinadora de servicios con el [[AGENCY|Departamento de Servicios Sociales del Condado de Union (DSS)]] para solicitar asistencia de transporte a citas médicas y de terapia, dado que la familia no cuenta con vehículo propio disponible durante el día.
+
+Reporte de habla/lenguaje actual por [[PARENT|Lupita]]: [[CHILD|Mateo]] dice aprox. 20 palabras inteligibles en español, principalmente sustantivos comunes ("[[KEEP|agua]]", "[[KEEP|perro]]", "[[KEEP|mamá]]", "[[KEEP|papá]]", "[[KEEP|más]]"). No combina dos palabras de forma consistente ("[[KEEP|más agua]]" ocasional, no reproducible en sesión). Usa gestos improvisados (señalar, jalar la mano del adulto, empujar objetos hacia el adulto) como estrategia principal para pedir. [[PARENT|Lupita]] reporta frustración marcada cuando no es entendido por adultos fuera del hogar, con episodios de llanto y golpear el suelo, varias veces por semana. En casa juega frecuentemente con la mascota de la familia, un perro llamado [[PET|Canela]], a quien llama "[[KEEP|guau guau]]" en vez de usar el nombre. [[PARENT|Chuy]] agrega que [[CHILD|Mateo]] entiende instrucciones simples de un paso en español ("ven aquí", "dame el zapato", "siéntate") de forma consistente, pero no sigue instrucciones de dos pasos sin repetición ni modelado gestual.
+
+S adicional (entrevista breve con [[FAMILY|Juanita]]): refiere que [[CHILD|Mateo]] imita algunos sonidos de animales y canciones pero rara vez imita palabras completas al pedírselo directamente. No ha recibido entrenamiento formal en estrategias de estimulación de lenguaje (p. ej. [[KEEP|Hanen]]) previo a esta evaluación.
+
+O:
+
+Evaluación conducida en español por [[PROVIDER|Ana María Torres]], M.S., CCC-SLP, bilingüe certificada, en oficina de [[EMPLOYER|Carolina Bilingual]] en [[PLACE|Charlotte]]. Sesión de [[KEEP|90 minutos]] el [[DATE|9 de octubre de 2025]], de [[TIME|10:00 a.m.]] a [[TIME|11:30 a.m.]]. Presentes en la sala: [[CHILD|Mateo]], [[PARENT|Lupita]], [[FAMILY|Juanita]].
+
+Obs. conductual: [[CHILD|Mateo]] se presentó bien arreglado, inicialmente tímido, cooperador tras período de rapport ([[KEEP|aprox. 10 min]] con juego libre no estructurado antes de iniciar tareas dirigidas). Atención sostenida breve, [[KEEP|aprox. 5-7 min]] por actividad, con necesidad de cambio frecuente de materiales. Transición a tareas estructuradas requirió [[KEEP|mod cues]] verbales y gestuales de la evaluadora. Contacto visual adecuado y recíproco. Afecto apropiado, sonrisa social presente. Juego funcional y simbólico presente: alimentó a un muñeco con cuchara de juguete, hizo "sonar" un carrito ("[[KEEP|bbrrr]]"), apiló bloques de forma intencional. Sin conductas repetitivas atípicas, sin resistencia a cambios de actividad más allá de lo esperado para la edad. Breve pausa con snack a las [[TIME|10:45 a.m.]] facilitó reinicio de atención. Nivel de alerta y participación: adecuado con apoyo moderado.
+
+Pruebas administradas (español, normas hispanas/bilingües donde disponibles):
+
+1. [[KEEP|Preschool Language Scales-5 Spanish (PLS-5 Spanish)]]:
+   - [[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|76]], percentil [[KEEP|5]], IC 90% [[KEEP|70-82]], equivalente de edad [[KEEP|2;3]]
+   - [[KEEP|Expressive Communication]]: puntuación estándar [[KEEP|62]], percentil [[KEEP|1]], IC 90% [[KEEP|56-68]], equivalente de edad [[KEEP|1;8]]
+   - [[KEEP|Total Language Score]]: [[KEEP|66]], percentil [[KEEP|1]]
+
+2. [[KEEP|Bilingual English Spanish Assessment (BESA) - Morphosyntax subtest]] (administrado en español): puntuación estándar [[KEEP|68]], percentil [[KEEP|2]]
+
+3. [[KEEP|BESA - Semantics subtest]] (administrado en español): puntuación estándar [[KEEP|71]], percentil [[KEEP|3]]
+
+4. [[KEEP|Rossetti Infant-Toddler Language Scale]] (complementario, informal, observación de interacción):
+   - Área de interacción-apego: [[KEEP|dentro de lo esperado para la edad]]
+   - Área de pragmática: [[KEEP|leve retraso]]
+   - Área de gestos: [[KEEP|apropiado para la edad]]
+   - Área de juego: [[KEEP|apropiado para la edad]]
+
+5. Muestra de lenguaje espontáneo ([[KEEP|50 enunciados]] transcritos, codificados con [[KEEP|SALT]]):
+   - MLU (longitud media de enunciado): [[KEEP|1.2 morfemas]]
+   - Inventario fonético funcional consistente: [[KEEP|/m, p, t, a, o, e/]]
+   - [[KEEP|[EW]]] (palabra ininteligible) codificada en [[KEEP|34%]] de los enunciados
+   - Producciones representativas: "[[KEEP|agua]]" → [[KEEP|[ˈa.wa]]]; "[[KEEP|perro]]" → [[KEEP|[ˈpe.o]]] (omisión de [[KEEP|/r/]]); "[[KEEP|más]]" → [[KEEP|[ma]]]; "[[KEEP|flor]]" → [[KEEP|[for]]]
+
+6. Evaluación fonológica informal (lista de palabras dirigida en español):
+   - Procesos observados: reducción de grupos consonánticos, omisión de consonante final, asimilación, oclusión de fricativas
+   - Sonidos producidos correctamente en posición inicial: [[KEEP|/m, n, p, t, k, b/]]
+   - Sonidos ausentes o inconsistentes: [[KEEP|/f, s, l, ɾ, r, ʃ/]] y combinaciones consonánticas
+
+7. [[KEEP|Oral-Motor/Feeding Screening]] (checklist clínico informal): estructuras orales simétricas, movilidad lingual y labial adecuada para habla no fonatoria; sin hx. de dificultades de alimentación según reporte de [[PARENT|Lupita]].
+
+Tabla de resultados resumida:
+
+| Prueba/Área | Puntuación estándar | Percentil | Clasificación |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish - Auditory Comprehension]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|Retraso moderado]] |
+| [[KEEP|PLS-5 Spanish - Expressive Communication]] | [[KEEP|62]] | [[KEEP|1]] | [[KEEP|Retraso severo]] |
+| [[KEEP|PLS-5 Spanish - Total Language Score]] | [[KEEP|66]] | [[KEEP|1]] | [[KEEP|Retraso severo]] |
+| [[KEEP|BESA - Morphosyntax]] | [[KEEP|68]] | [[KEEP|2]] | [[KEEP|Retraso significativo]] |
+| [[KEEP|BESA - Semantics]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|Retraso moderado-severo]] |
+
+Durante el subtest de comprensión auditiva, [[CHILD|Mateo]] requirió repetición de instrucciones en [[KEEP|6 de 10]] ítems y [[KEEP|min cues]] (señalar, redirigir atención visual) en [[KEEP|4 de 10]]. En el subtest expresivo, produjo respuesta verbal espontánea en solo [[KEEP|3 de 10]] ítems objetivo; en los demás respondió únicamente con gesto o no respondió a pesar de [[KEEP|max cues]] (modelado directo, espera estructurada).
+
+Interacción cuidador-niño observada: [[PARENT|Lupita]] usó lenguaje de alta frecuencia y repetición, modelando apropiadamente ("[[KEEP|dame el carro]]", "[[KEEP|carro, sí, carro]]", "[[KEEP|más, dime más]]"). [[FAMILY|Juanita]] reportó usar estrategias similares en casa de forma intuitiva, sin entrenamiento formal previo en modelos estructurados como [[KEEP|Hanen]].
+
+Nota de evaluación bilingüe: debido a exposición predominante al español en el hogar y guías clínicas estándar para evaluación de niños bilingües en desarrollo, el inglés no fue evaluado formalmente en esta sesión; se recomienda monitoreo de desarrollo en inglés conforme aumente la exposición escolar de [[CHILD|Mateo]].
+
+A:
+
+[[CHILD|Mateo]] presenta un retraso significativo del lenguaje expresivo y receptivo en español, idioma dominante y de mayor exposición en el hogar, consistente con [[KEEP|Trastorno del Desarrollo del Lenguaje (TDL)]], [[KEEP|ICD-10 F80.9]] (trastorno del desarrollo del habla y lenguaje, no especificado), con rasgos adicionales de retraso fonológico secundario. Los hallazgos no son atribuibles a bilingüismo per se: aunque [[CHILD|Mateo]] tiene exposición dual al español e inglés a través de su hermana [[SIBLING|Daniela]] y el ambiente comunitario, la evaluación se condujo en el idioma dominante y el desempeño se ubica significativamente por debajo de lo esperado incluso considerando normas hispanas y el patrón típico de adquisición bilingüe reportado en la literatura clínica. [[KEEP|R/O]] contribución de bilingüismo normal queda descartado dado el grado de retraso observado en el idioma de mayor exposición.
+
+El perfil es consistente con retraso expresivo desproporcionado al receptivo (brecha de [[KEEP|10 puntos estándar]] entre comprensión y expresión en [[KEEP|PLS-5 Spanish]]), vocabulario reducido, ausencia de combinación consistente de palabras a los [[KEEP|3;7]] años, e inteligibilidad reducida secundaria a procesos fonológicos atípicos para la edad (reducción de grupos consonánticos, omisión final, asimilación, oclusión de fricativas), lo cual afecta la comunicación funcional con pares y adultos fuera del círculo familiar inmediato, incluyendo compañeros en [[AGENCY|Early Head Start]] como [[PEER|Liam]] y [[PEER|Sofía]].
+
+Factores contribuyentes/de riesgo identificados: hx. de otitis media recurrente (resuelta, audición confirmada normal el [[DATE|2 de septiembre de 2025]]); exposición lingüística distribuida entre cuidadores con horarios de trabajo extensos ([[PARENT|Lupita]] en [[ORG|Monte Verde Poultry Processing Plant]], [[PARENT|Chuy]] en [[ORG|Hernández & Sons Construction Company]]); input lingüístico principal de cuidadora no materna ([[FAMILY|Juanita]]) durante horas laborales; acceso limitado a estimulación de lenguaje estructurada previo al inicio de servicios de intervención temprana.
+
+No se observan preocupaciones conductuales ni sociales que sugieran trastorno del espectro autista en este momento; interacción social reciproca, contacto visual, afecto y juego simbólico dentro de lo esperado para la edad. Movilidad oral y estructuras orofaciales adecuadas; sin indicación de componente motor-habla (apraxia/disartria) en este momento, a reevaluar si el progreso con tx. convencional es atípicamente lento.
+
+Pronóstico: favorable con intervención consistente y bilingüe, dado buen nivel de comprensión relativa frente a expresión, motivación comunicativa observada (gestos intencionales, intentos verbales, frustración apropiada ante falla comunicativa), apoyo familiar activo, y participación ya establecida con servicios de intervención temprana a través de [[AGENCY|CDSA del Piedmont Sur]].
+
+P:
+
+1. Se recomienda tx. de habla y lenguaje individual, [[KEEP|2 veces por semana]], sesiones de [[KEEP|45 minutos]], en español, enfocada en: expansión de vocabulario funcional, combinación de dos palabras, y estimulación fonológica dirigida a reducción de grupos consonánticos y omisión de consonante final.
+
+2. Continuar coordinación con [[AGENCY|CDSA del Piedmont Sur]] para actualizar el IFSP; se sugiere agregar [[KEEP|Resultado IFSP #3]] específico para inteligibilidad y combinación de palabras, con revisión programada para el [[DATE|20 de diciembre de 2025]]. Coordinadora de servicios de contacto: [[PROVIDER|Yesenia Morales]].
+
+3. Se recomienda enfoque de lenguaje natural con enriquecimiento ambiental, modelo [[KEEP|Hanen - It Takes Two to Talk]], con entrenamiento directo a cuidadoras ([[PARENT|Lupita]], [[PARENT|Chuy]], y [[FAMILY|Juanita]]) dado el rol central de [[FAMILY|Juanita]] como cuidadora diurna principal; se sugieren sesiones de coaching de 15 min al inicio de cada cita de tx.
+
+4. Se considera incorporar elementos de [[KEEP|PROMPT]] como apoyo táctil-kinestésico para la producción de [[KEEP|/r/]] y grupos consonánticos, y el enfoque [[KEEP|Cycles]] para intervención fonológica por procesos, dado el número de procesos fonológicos activos identificados. No se recomienda sistema aumentativo tipo [[KEEP|PECS]] en este momento dado el potencial verbal observado; se reevaluará si el progreso es limitado tras [[KEEP|3 meses]] de tx.
+
+5. Referido a evaluación auditiva de seguimiento en [[KEEP|6 meses]] dado hx. de otitis media recurrente, a través de [[HOSPITAL|Novant Health Pediatric ENT]].
+
+6. Se recomienda mantener participación en grupo de juego de [[AGENCY|Early Head Start]] y compartir estrategias de comunicación con la maestra, [[TEACHER|Srta. Brenda Collins]], para apoyar interacción con compañeros como [[PEER|Liam]] y [[PEER|Sofía]].
+
+7. Coordinar con [[AGENCY|WIC]] y [[AGENCY|Smart Start del Condado de Union]] según necesidad continua de la familia respecto a nutrición y cuidado infantil, dado que ambos programas ya tienen contacto establecido.
+
+8. Se recomienda contacto continuo con [[AGENCY|Departamento de Servicios Sociales del Condado de Union (DSS)]] para apoyo de transporte a citas de tx. y evaluación, dado que la familia no cuenta con vehículo disponible durante horario laboral.
+
+9. Se proporcionó a la familia información de contacto de [[EMPLOYER|Carolina Bilingual Therapy Services, PLLC]] ([[EMPLOYER|CBTS]]) para programar sesiones: teléfono [[PHONE|(704) 555-0199]], correo [[EMAIL|intake@carolinabilingualtherapy.com]], portal de citas [[URL|www.carolinabilingualtherapy.com/portal]].
+
+10. Se notificará a la pediatra, [[PROVIDER|Dra. Karen Sutton]], sobre los resultados de esta evaluación y el plan de tx. recomendado.
+
+11. Re-evaluación formal recomendada en [[KEEP|6 meses]] (aprox. [[DATE|abril de 2026]]), o antes si se identifica preocupación adicional, para monitorear progreso y considerar transición a servicios de Parte B (preescolar) previo a inicio de kínder.
+
+12. Plan de práctica en casa: lista de 10 palabras funcionales objetivo ("[[KEEP|más]]", "[[KEEP|agua]]", "[[KEEP|ayuda]]", "[[KEEP|arriba]]", "[[KEEP|abajo]]", entre otras) con modelado por repetición durante rutinas diarias (comida, baño, juego con [[PET|Canela]]); se proporcionó hoja de seguimiento a [[PARENT|Lupita]] y [[FAMILY|Juanita]] para registrar producciones nuevas.
+
+Firmado:
+[[PROVIDER|Ana María Torres]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Bilingual Therapy Services, PLLC]] ([[EMPLOYER|CBTS]])
+Licencia: [[ID|NC-SLP-04821]] | NPI: [[ID|1847562390]]
+Fecha del informe: [[DATE|9 de octubre de 2025]]

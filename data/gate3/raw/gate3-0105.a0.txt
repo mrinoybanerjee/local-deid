@@ -1,0 +1,93 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA
+Programa de intervencion temprana de Carolina del Norte
+
+Fecha del IFSP: [[DATE|09/18/2026]]
+Revision prevista: [[DATE|12/18/2026]]
+Expediente: [[ID|NC-ITP-682417]]
+Medicaid: [[MEDICAID_ID|604829173R]]
+
+INFORMACION FAMILIAR
+
+El cliente es [[CHILD|Nicolas Varela Soto]], llamado [[CHILD|Nico]] en casa. Nacio el [[DATE|07/18/2024]] y tiene [[KEEP|26 meses]]. Vive con su madre, [[PARENT|Elena Soto Marin]], su padre, [[PARENT|Ruben Varela Paz]], y su hermana, [[SIBLING|Alma Varela Soto]].
+
+Domicilio: [[PLACE|418 Willow Finch Lane]], [[PLACE|Maple Hollow]], Carolina del Norte, [[PLACE|27964]]. Condado: [[PLACE|Cedarbrook]].
+Telefono familiar: [[PHONE|919-555-0146]].
+Correo: [[EMAIL|elena.soto@example.com]].
+
+La familia usa espanol en casa e ingles durante algunas actividades comunitarias. Prefiere reuniones y materiales en espanol. La madre trabaja en [[ORG|Mercado Lucero del Valle]]. El padre organiza sus turnos para participar en visitas. La familia autoriza llamadas despues de las [[TIME|4:30 p. m.]] y solicita avisos por escrito cuando cambie una cita.
+
+EQUIPO Y COORDINACION
+
+La coordinadora de servicios es [[PROVIDER|Marina Cardenas Ruiz]], de la oficina CDSA [[AGENCY|CDSA del Valle de Cedros]]. Su oficina esta en [[PLACE|260 Juniper Landing Drive]], [[PLACE|Maple Hollow]], Carolina del Norte, [[PLACE|27964]]. Telefono: [[PHONE|252-555-0128]]. Correo: [[EMAIL|marina.cardenas@example.org]].
+
+La autora es [[PROVIDER|Sofia Beltran Vega]], patologa bilingue del habla y lenguaje pediatrico, de [[EMPLOYER|Senderos Pediatricos del Este]]. La pediatra, Dra. [[PROVIDER|Irene Molina Cruz]], atiende al cliente en [[HOSPITAL|Centro Hospitalario Arroyo Claro]]. La familia participo en la seleccion de resultados, lugares y horarios.
+
+ANTECEDENTES Y FORTALEZAS
+
+La madre informa nacimiento a las [[KEEP|39 semanas]], peso de [[KEEP|3.2 kg]] y puntajes Apgar de [[KEEP|8]] y [[KEEP|9]]. No refiere dificultades actuales para comer ni preocupaciones auditivas. La coordinadora solicitara el informe del tamiz auditivo con autorizacion familiar.
+
+[[CHILD|Nicolas]] disfruta canciones con movimientos, libros de animales y juegos de esconder objetos. Busca a sus cuidadores para compartir sorpresas. Comprende acciones familiares cuando el adulto muestra el objeto. Usa gestos, sonidos y algunas palabras para pedir ayuda. La familia reconoce sus intentos y espera antes de ofrecer una respuesta.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La madre, [[PARENT|Elena Soto Marin]], expresa: "Quiero entender lo que necesita antes de que llore. En la cocina me toma de la mano, pero no siempre se cual cosa quiere".
+
+El padre, [[PARENT|Ruben Varela Paz]], expresa: "Me importa que pueda pedir ayuda en la guarderia. Quiero aprender que decir y cuanto esperar, porque a veces yo contesto por el".
+
+Ambos agregan: "Nuestra prioridad es que disfrute jugar con otros ninos y que pueda decir cuando quiere seguir o terminar. Queremos practicar durante lo que ya hacemos, sin convertir la casa en una clase".
+
+RUTINAS DIARIAS Y PERSONAS IMPORTANTES
+
+El desayuno comienza a las [[TIME|7:15 a. m.]]. El cliente elige entre fruta y pan mediante alcance o mirada. La familia puede presentar dos opciones visibles y esperar una respuesta.
+
+Asiste a [[DAYCARE|Guarderia Pequenos Robles]] desde las [[TIME|8:30 a. m.]] hasta las [[TIME|2:45 p. m.]]. Su maestra es Ms. [[TEACHER|Lopez]], y el salon se llama "Ms. [[TEACHER|Lopez]]'s room". Sus companeros [[PEER|Milo Reyes]] y [[PEER|Vera Campos]] participan en juegos de bloques. La asistente [[TEACHER|Diana Ponce]] ayuda durante las transiciones.
+
+La hermana asiste a [[SCHOOL|Escuela Primaria Bosque de Nubes]]. Por la tarde, [[SIBLING|Alma Varela Soto]] comparte libros y evita hablar por su hermano cuando puede esperar.
+
+Los primos [[FAMILY|Tomas Salcedo]] y [[FAMILY|Ines Salcedo]] visitan los domingos. La ninera, [[FAMILY|Celia Rivas]], cuida al cliente los miercoles. El perro [[PET|Pipo]] participa en juegos supervisados. El vecino [[PERSON|Bruno Mena]] saluda desde la puerta, sin intervenir en las sesiones.
+
+EVALUACION Y DATOS INICIALES
+
+La evaluacion se realizo el [[DATE|09/10/2026]], con entrevista, observacion y [[KEEP|PLS-5 Spanish]]. Los resultados se consideran junto con el uso de ambos idiomas y las oportunidades de aprendizaje. Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]].
+
+| Prueba o subprueba | Puntaje estandar | Fecha | Intervalo de confianza | Percentil | Edad equivalente |
+| --- | --- | --- | --- | --- | --- |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[DATE|09/10/2026]] | [[KEEP|73-85]] | [[KEEP|7]] | [[KEEP|1;9]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]] | [[KEEP|74]] | [[DATE|09/10/2026]] | [[KEEP|69-82]] | [[KEEP|4]] | [[KEEP|1;6]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Total Language]] | [[KEEP|75]] | [[DATE|09/10/2026]] | [[KEEP|70-83]] | [[KEEP|5]] | [[KEEP|1;8]] |
+
+En juego, produjo [[KEEP|"mas"]], [[KEEP|"agua"]] y [[KEEP|"dame"]]. Para el objetivo [[KEEP|"casa"]], uso [[KEEP|[w]]] y omitio [[KEEP|/k/]]. Dijo "[[PET|Pipo]] ven" durante una actividad familiar. La muestra se registro con [[KEEP|SALT]] y el codigo [[KEEP|[EW]]]. Estos datos describen una muestra breve y requieren seguimiento.
+
+El diagnostico de trabajo es trastorno mixto del lenguaje receptivo y expresivo, [[KEEP|F80.2]]. La evaluacion corresponde a [[KEEP|92523]]; las sesiones individuales corresponden a [[KEEP|92507]], con modificador [[KEEP|GN]] cuando proceda.
+
+OTRAS AGENCIAS Y APOYOS
+
+La familia recibe orientacion alimentaria de [[AGENCY|WIC del Condado de Cedarbrook]]. [[AGENCY|Smart Start de Maple Hollow]] ofrece libros y grupos familiares. [[AGENCY|DSS del Condado de Cedarbrook]] mantiene una solicitud de apoyo para transporte. La coordinadora verificara su estado y comunicara la respuesta a los padres.
+
+La familia permite compartir objetivos funcionales con la guarderia. Cualquier intercambio de informes completos requiere consentimiento documentado. Cada proveedor confirmara que los materiales sean comprensibles y accesibles para los cuidadores.
+
+RESULTADO [[KEEP|1]]: PEDIR DURANTE LAS COMIDAS
+
+Durante desayuno y merienda, el cliente pedira una opcion, ayuda o continuacion mediante palabra, gesto o imagen en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], durante tres rutinas consecutivas. La linea inicial fue [[KEEP|3/10]] con [[KEEP|mod cues]].
+
+Estrategias: colocar opciones al alcance visual, comentar brevemente y esperar. Modelar [[KEEP|"quiero agua"]] y [[KEEP|"mas pan"]], sin exigir repeticion. Usar principios de [[KEEP|Hanen]] y [[KEEP|It Takes Two to Talk]]. Considerar [[KEEP|PECS]] si las imagenes aumentan la participacion. La madre registrara ejemplos, no cada intento.
+
+RESULTADO [[KEEP|2]]: PARTICIPAR CON OTROS NINOS
+
+Durante bloques o canciones, el cliente iniciara o respondera a un turno en [[KEEP|3 of 5]] oportunidades con [[KEEP|min cues]]. La linea inicial fue [[KEEP|1/5]] con [[KEEP|max cues]].
+
+Estrategias: preparar materiales compartidos, ofrecer turnos breves y modelar [[KEEP|"mi turno"]]. La maestra seguira la iniciativa del cliente y aceptara gestos. La terapeuta observara una rutina y ajustara las estrategias con el equipo. Los companeros podran participar sin asumir funciones de terapeutas.
+
+RESULTADO [[KEEP|3]]: AMPLIAR MENSAJES FUNCIONALES
+
+Durante juego y lectura, el cliente combinara dos elementos comunicativos en [[KEEP|4/5]] oportunidades con [[KEEP|mod cues]]. Los elementos pueden incluir palabras, gestos o imagenes.
+
+Estrategias: ampliar su mensaje con una palabra y repetir modelos naturales. Explorar recursos de [[KEEP|Kaufman]] para palabras utiles. Considerar [[KEEP|PROMPT]] solo si la evaluacion motora posterior lo justifica. [[KEEP|Cycles]] se reserva para patrones fonologicos que requieran intervencion especifica. Ningun enfoque sustituye las prioridades familiares.
+
+SERVICIOS Y SEGUIMIENTO
+
+Servicio de habla y lenguaje: una visita semanal de cuarenta y cinco minutos, del [[DATE|09/21/2026]] al [[DATE|03/19/2027]], principalmente en casa. Primera visita: [[DATE|09/21/2026]], a las [[TIME|5:00 p. m.]]. Se alternaran visitas en la guarderia cuando la rutina permita observar los resultados.
+
+La coordinacion tendra contacto mensual durante el mismo periodo. La familia y la terapeuta revisaran ejemplos, apoyos y barreras al terminar cada visita. La revision formal sera el [[DATE|12/18/2026]]. El equipo ajustara estrategias segun la participacion diaria y documentara cualquier cambio acordado.
+
+La familia confirma que comprende el plan y recibira una copia en espanol. La coordinadora explico los derechos, las opciones de servicio y el procedimiento para solicitar otra reunion. El acuerdo verbal quedo registrado; las firmas se obtendran conforme al procedimiento del programa.

@@ -1,0 +1,23 @@
+Nota de Sesión: [[DATE|10/08/2026]]
+Niña: [[CHILD|María José Fernández Castro]] ("[[CHILD|Lupita]]")
+Fecha de Nacimiento: [[DATE|04/15/2022]]
+Edad: [[KEEP|4;5]]
+ID de Caso CDSA: [[ID|CD-884217]]
+Número de Medicaid: [[MEDICAID_ID|740215938B]]
+Coordinadora de Servicios: [[PROVIDER|Marisol Peña]], [[AGENCY|Centro de Desarrollo y Servicios para Niños del Condado de Wake]] ([[AGENCY|CDSA Wake]])
+Clínica/Agencia que Provee el Servicio: [[EMPLOYER|Terapias Integrales Pediátricas del Piedmont, PLLC]] ("[[EMPLOYER|Terapias Integrales]]", abreviado [[EMPLOYER|TIP]])
+Terapeuta: [[PROVIDER|Ana Lucía Ibarra]], M.S., CCC-SLP
+Hora: [[TIME|10:30 a.m.]] – [[TIME|11:15 a.m.]]
+Lugar: domicilio, [[PLACE|214 Camino de las Rosas, Cary, NC 27511]]
+CPT: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.1]]
+
+S: La mamá, [[PARENT|Lucía Castro]], reporta que [[CHILD|Lupita]] durmió bien y está "muy contenta" porque su hermanito [[SIBLING|Jesús ("Chuy")]] empezó a imitarla en casa. [[PARENT|Lucía]] comenta que el papá, [[PARENT|Esteban Fernández]], trabaja en [[ORG|Muebles del Sur Manufacturing]] y no pudo asistir hoy. También mencionó que la niñera, [[FAMILY|Rosa Elena Domínguez]], ha estado practicando las tarjetas de [[KEEP|PECS]] con [[CHILD|María José]] por las tardes.
+
+O: Se trabajó producción de /s/ inicial y final usando el programa [[KEEP|Cycles]]. [[CHILD|Lupita]] logró [[KEEP|8/10]] ensayos correctos de "sapo" con [[KEEP|claves mínimas]], mejorando de [[KEEP|3 de 5]] la semana pasada. En el fonema /ɾ/ produjo [[KEEP|[d]]] por sustitución, trabajado con [[KEEP|claves moderadas]]. Se usó también el enfoque [[KEEP|PROMPT]] para apoyar la secuencia motora de "[[KEEP|pelota]]".
+
+Durante el juego simbólico mencionó a su amiguito del grupo de intervención temprana, [[PEER|Pepe]], y a su maestra del centro de cuidado infantil, [[TEACHER|Srta. Yolanda Ríos]], del [[DAYCARE|Centro Infantil Pequeños Pasos]]. También nombró a su perrita, [[PET|Canela]], varias veces espontáneamente.
+
+A: [[CHILD|María José]] muestra progreso constante hacia la Meta #[[KEEP|2]] del IFSP. Su desempeño en [[KEEP|PLS-5]], subprueba de [[KEEP|Comunicación Expresiva]], mostró puntaje estándar de [[KEEP|82]], percentil [[KEEP|12]].
+
+P: Continuar sesiones semanales. Se coordinará con el pediatra, Dr. [[PROVIDER|Teodoro ("Teo") Salinas]], para actualizar evaluación auditiva. Próxima revisión del IFSP programada para [[DATE|enero 14, 2027]]. Contactar a [[PARENT|Lucía]] al [[PHONE|(919) 555-0148]] o [[EMAIL|lucia.castro84@example.com]] para confirmar horario.

@@ -1,0 +1,44 @@
+De: [[PROVIDER|Mariela Cárdenas]] <[[EMAIL|mariela.cardenas@hablapinar.example]]>
+Para: [[PARENT|Elena Varela]] <[[EMAIL|elena.varela@correo.example]]>
+Fecha: [[DATE|9 de octubre de 2026]], [[TIME|15:40]]
+Asunto: Nota diaria de [[CHILD|Nicolás Varela]] y seguimiento familiar
+
+Estimada señora [[PARENT|Varela]]:
+
+Comparto la nota de hoy. Esta sesión se realizó en español, con apoyo bilingüe cuando fue necesario.
+
+Paciente: [[CHILD|Nicolás Varela]], apodo [[CHILD|Nico]]; edad [[KEEP|4;2]].
+Nacimiento: [[DATE|9 de agosto de 2022]].
+Expediente: [[ID|HP-260914]].
+Medicaid: [[MEDICAID_ID|472819306Q]].
+Servicio: [[DATE|9 de octubre de 2026]], de [[TIME|14:00]] a [[TIME|14:45]].
+Lugar: [[EMPLOYER|Habla Pinar Terapias]], [[PLACE|418 Sendero del Laurel]], [[PLACE|Villa Niebla]], Carolina del Norte, [[PLACE|27500]].
+Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S: Su mamá, [[PARENT|Elena Varela]], informó mayor participación durante cuentos. Su hermana [[SIBLING|Sol]] ayudó a escoger imágenes. La familia asiste a talleres gratuitos en la iglesia [[ORG|Iglesia Puente del Alba]], donde su papá, [[PARENT|Tomás Varela]], trabaja como encargado de mantenimiento. Según la familia, el ambiente tranquilo favorece la conversación.
+
+O: Trabajamos vocabulario funcional, comprensión y reparación comunicativa. Con [[KEEP|Hanen]] y modelado durante juego, produjo peticiones en [[KEEP|8/10]] oportunidades, con [[KEEP|claves moderadas]]. Siguió instrucciones en [[KEEP|70%]] de los ensayos. Para el fonema [[KEEP|/k/]], alcanzó [[KEEP|6/10]] respuestas con [[KEEP|claves máximas]]. Se registraron [[KEEP|[w]]] y [[KEEP|[EW]]] en la muestra. Dijo [[KEEP|"quiero más agua"]] y [[KEEP|"casa grande"]]. La palabra objetivo [[KEEP|"sol"]] se practicó con una tarjeta del cielo; cuando nombró a su hermana [[SIBLING|Sol]], registré esa respuesta por separado. Durante juego comentó: “[[PET|Migo]] corre”, al recordar a su perro.
+
+Como referencia, la evaluación del [[DATE|25 de septiembre de 2026]] incluyó [[KEEP|PLS-5]] y la subprueba [[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza del [[KEEP|95%]] de [[KEEP|73-83]] y rango de edad equivalente [[KEEP|2;6–3;0]]. Estos resultados requieren interpretación junto con la exposición a ambos idiomas.
+
+A: Observé mejor iniciativa, aunque persisten dificultades para comprender instrucciones nuevas. Las respuestas variaron con la familiaridad del vocabulario. Los datos de hoy describen el desempeño durante actividades estructuradas; todavía falta comprobar su uso espontáneo en el aula.
+
+P: Continuar el objetivo [[KEEP|2]] del IFSP mediante lectura compartida y turnos breves. La maestra [[TEACHER|Lidia Montalvo]], de [[SCHOOL|Escuela Arroyo de Papel]], anotará ejemplos espontáneos. Revisaremos el progreso el [[DATE|16 de octubre de 2026]]. Sugiero practicar durante cinco minutos después de la merienda, sin exigir repeticiones cuando aparezca cansancio.
+
+Atentamente,
+[[PROVIDER|Mariela Cárdenas]]
+Patóloga bilingüe del habla y del lenguaje
+[[EMPLOYER|Habla Pinar Terapias]]
+[[PHONE|919-555-0148]]
+[[URL|https://hablapinar.example]]
+
+> De: [[PARENT|Elena Varela]] <[[EMAIL|elena.varela@correo.example]]>
+> Fecha: [[DATE|8 de octubre de 2026]], [[TIME|19:15]]
+> Asunto: Observaciones para mañana
+>
+> En clase, sus compañeros [[PEER|Bruno]] y [[PEER|Inés]] esperaron sus turnos. En casa jugaron sus primos [[FAMILY|Dalia]] y [[FAMILY|Tadeo]], mientras la niñera [[FAMILY|Rocío Beltrán]] preparaba la merienda. Nadie corrigió cada intento; dejamos tiempo para responder. También usamos dibujos del taller comunitario. Al terminar, pidió otro cuento y guardó las tarjetas.
+>
+> Gracias,
+> [[PARENT|Elena Varela]]
+> Mamá de [[CHILD|Nicolás]]
+> [[PHONE|984-555-0162]]

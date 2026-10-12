@@ -1,0 +1,35 @@
+Fecha: [[DATE|10 de octubre de 2026]]
+Para: señora [[PARENT|Elena Marisol Vega]] y señor [[PARENT|Tomás Julián Vega]]
+Asunto: apoyo para [[CHILD|Nicolás Vega]]
+
+Estimada familia:
+
+Les comparto un resumen de la evaluación de [[CHILD|Nicolás]], realizada el [[DATE|8 de octubre de 2026]] en la escuela [[SCHOOL|Senderos de Luna]], en [[PLACE|Vallebrisa]], Carolina del Norte. Como terapeuta bilingüe, observé su comunicación en español e inglés. A sus [[KEEP|4;2]], participa con entusiasmo y necesita apoyo para explicar lo que ocurrió durante el juego.
+
+Prueba o subprueba	Puntuación estándar	Percentil	Intervalo de confianza
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]]	[[KEEP|83]]	[[KEEP|13]]	[[KEEP|78–90]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]]	[[KEEP|79]]	[[KEEP|8]]	[[KEEP|74–87]]
+
+Estos resultados se interpretan junto con sus experiencias lingüísticas. Durante una actividad compartida, siguió instrucciones en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]]. Produjo [[KEEP|"tasa"]] para la palabra objetivo [[KEEP|"casa"]]; trabajaremos el sonido [[KEEP|/k/]] mediante juegos breves. La muestra incluyó el código [[KEEP|[EW]]] de [[KEEP|SALT]]. El diagnóstico registrado es [[KEEP|F80.2]]; el servicio corresponde a [[KEEP|CPT 92507]], modificador [[KEEP|GN]].
+
+La maestra [[TEACHER|Clara Beltrán]] puede ofrecer dos opciones y esperar una respuesta. Los compañeros [[PEER|Eva Montes]] y [[PEER|Bruno Castañeda]] facilitaron los turnos. En casa, su hermana [[SIBLING|Alma Vega]], sus primos [[FAMILY|Diego Larios]] y [[FAMILY|Inés Larios]], y la niñera [[FAMILY|Rosa Niebla]] pueden repetir esta rutina. El perro [[PET|Churro]] también puede participar cuando describan acciones.
+
+Comprendo que los horarios de la tienda [[ORG|Store Amber Finch]], donde trabaja su mamá [[PARENT|Elena]], y la planta [[ORG|Plant Copper Willow]], donde trabaja su papá [[PARENT|Tomás]], dificultan las reuniones. Podemos coordinar después del programa de la biblioteca [[ORG|Biblioteca Faro de Papel]], que ustedes utilizan.
+
+Contacto	Entidad	Teléfono
+Coordinadora [[PROVIDER|Julia Serrano]]	[[AGENCY|CDSA de Vallebrisa]]	[[PHONE|919-555-0146]]
+Enlace [[PERSON|Luis Robledo]]	[[AGENCY|DSS de Condado Nubecedro]]	[[PHONE|984-555-0162]]
+
+La coordinadora consultará con [[AGENCY|WIC de Vallebrisa]], [[AGENCY|Smart Start de Nubecedro]] y [[AGENCY|Early Head Start Estrella Menuda]] sobre apoyos disponibles. Revisaremos el objetivo [[KEEP|2]] del [[KEEP|IFSP]] con la familia.
+
+Servicio	Día	Hora
+Terapia del lenguaje	[[DATE|14 de octubre de 2026]]	[[TIME|3:30 p. m.]]
+Reunión familiar	[[DATE|21 de octubre de 2026]]	[[TIME|4:15 p. m.]]
+
+Expediente: [[ID|SL-260184]]. Medicaid: [[MEDICAID_ID|482716305R]].
+
+Atentamente,
+[[PROVIDER|Marina Solís]], terapeuta pediátrica bilingüe del habla y lenguaje
+[[EMPLOYER|Comunicación Semilla Azul]]
+[[EMAIL|marina.solis@semillaazul.example.invalid]]
+[[URL|https://semillaazul.example.invalid]]

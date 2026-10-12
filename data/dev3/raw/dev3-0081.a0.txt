@@ -1,0 +1,18 @@
+Nota de sesion - [[DATE|10/08/2026]]
+
+Paciente: [[CHILD|Mateo Hernandez]] (cliente)
+Proveedor: [[PROVIDER|Rosa Fuentes]], MS, CCC-SLP, de [[EMPLOYER|Pediatric Speech Partners NC]]
+
+S: La mama de [[CHILD|Mateo]], [[PARENT|Alejandra Hernandez]], reporto que [[CHILD|Mateo]] durmio bien y tuvo buen apetito antes de la sesion. [[PARENT|Alejandra]] trabaja dos empleos (uno en limpieza y otro en una fabrica de empaque) y hoy la recogio su amiga [[FAMILY|doña Lupe]] porque [[PARENT|Alejandra]] no pudo salir del trabajo a tiempo. [[PARENT|Alejandra]] menciono que la coordinadora de servicios del Children's Developmental Services Agency (CDSA) le confirmo la cita de revision del IFSP para [[DATE|November 12, 2026]]. Dijo tambien que recibio una llamada del WIC sobre la renovacion de beneficios.
+
+O: La sesion se realizo en la casa de la familia en [[PLACE|214 Willow Bend Lane, Fayetteville]] de [[TIME|3:30 pm]] a [[TIME|4:15 pm]]. [[CHILD|Mateo]] tiene [[KEEP|4;2]] y asistio con buena disposicion. Se trabajo en articulacion del sonido [[KEEP|/k/]] usando el enfoque [[KEEP|PROMPT]] con [[KEEP|min cues]]. [[CHILD|Mateo]] logro producir [[KEEP|"cama"]] con [[KEEP|mod cues]] en [[KEEP|7/10]] ensayos. Tambien se practico el sonido [[KEEP|[w]]] en silabas; produjo [[KEEP|"wawa"]] en [[KEEP|3 of 5]] intentos sin ayuda.
+
+Durante el juego simbolico [[CHILD|Mateo]] mencion a su perro diciendo "[[PET|Max]] come" y senalo el patio. La hermana mayor de [[CHILD|Mateo]], [[SIBLING|Valentina]], estuvo presente parte de la sesion y ayudo a motivar con refuerzo positivo. [[CHILD|Mateo]] tambien hablo de su amigo de la escuela, [[PEER|Josue]], con quien juega en el recreo.
+
+Se reviso el reporte reciente de [[AGENCY|Children's Developmental Services Agency (CDSA)]]; la familia indico que el CDSA le envio por correo electronico el resumen de evaluacion a [[EMAIL|ahernandez1984@fakemail.com]]. El numero de contacto para coordinar futuras citas es [[PHONE|(910) 555-0147]].
+
+En la escuela, la maestra Carmen reporto mejoras leves en el uso de vocabulario funcional segun lo compartido por [[TEACHER|la maestra Carmen]] en una nota enviada a casa.
+
+A: [[CHILD|Mateo]] continua progresando hacia el Outcome [[KEEP|2]] del IFSP. Las puntuaciones recientes del [[KEEP|Goldman-Fristoe Test of Articulation-3]] mostraron un puntaje estandar de [[KEEP|78]], percentil [[KEEP|9]], dentro del intervalo de confianza [[KEEP|73-83]]. El progreso en inteligibilidad es consistente con [[KEEP|moderate severity]] segun criterios clinicos.
+
+P: Continuar sesiones dos veces por semana enfocadas en [[KEEP|/k/]] y [[KEEP|[w]]] usando [[KEEP|PROMPT]]. Se recomienda a la familia practicar con Mr. Tom, el abuelo que a veces cuida a [[CHILD|Mateo]], usando las mismas claves visuales. [[PROVIDER|Rosa Fuentes]] coordinara con el interprete [[PROVIDER|Daniel Ortiz]] para la proxima reunion con el equipo del IFSP el [[DATE|11/12/2026]]. ID de caso: [[ID|NC48217-A]]. Medicaid: [[MEDICAID_ID|998271345B]].

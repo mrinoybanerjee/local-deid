@@ -1,0 +1,183 @@
+SPEECH-LANGUAGE EVALUATION / EVALUACIÓN DEL HABLA Y LENGUAJE  
+Synthetic clinical record. All people, organizations, locations, and case details are fictional.
+
+Employer: [[EMPLOYER|Mariposa Bridge Pediatric Therapy, PLLC]]  
+Short forms used in chart: [[EMPLOYER|Mariposa Bridge Therapy]]; [[EMPLOYER|MBPT]]  
+Office: [[PLACE|284 Lantern Finch Road]], Suite B, [[PLACE|Alderbrook]], North Carolina [[PLACE|27984]]  
+Phone: [[PHONE|919-555-0146]]  
+Email: [[EMAIL|intake@mariposabridge.example]]  
+Website: [[URL|https://mariposabridge.example]]
+
+Pt: [[CHILD|Emilio Rafael Castañeda]]  
+Preferred name: [[CHILD|Milo]]  
+DOB: [[DATE|August 12, 2022]]  
+Chronological age: [[KEEP|4;2]]  
+Evaluation date: [[DATE|October 14, 2026]]  
+Session: [[TIME|9:15 a.m.]]–[[TIME|11:05 a.m.]]  
+Report date: [[DATE|October 16, 2026]]  
+Record ID: [[ID|MBPT-SL-260147]]  
+Medicaid ID: [[MEDICAID_ID|482731906K]]  
+Authorization: [[ID|AUTH-SLP-641820]]  
+Evaluator: [[PROVIDER|Luciana Beltrán]], MS, CCC-SLP, bilingual pediatric SLP  
+Referral provider: Dr. [[PROVIDER|Nadia Solís]]  
+Referral concern: mixed receptive-expressive language difficulties; reduced speech intelligibility  
+Evaluation CPT: [[KEEP|92523]]  
+Proposed treatment CPT: [[KEEP|92507]]  
+Proposed ICD-10: [[KEEP|F80.2]]
+
+MOTIVO DE CONSULTA / BACKGROUND
+
+Pt attended w/ mamá, [[PARENT|Marisol Castañeda]], and stepfather, [[PARENT|Daniel Varela]]. CG requested a bilingual assessment b/c pt communicates more freely at home than in preschool. Family reports frequent gestures, short phrases, and frustration when adults cannot identify the requested item. Mamá stated, “Él sabe lo que quiere, pero se le atoraban las palabras. At school they think he does not understand.”
+
+Referral from [[HOSPITAL|Juniper Lantern Pediatric Center]] requested review of comprehension, expressive language, speech production, and functional participation. Dr. [[PROVIDER|Nadia Solís]] documented CG concern during the well-child visit on [[DATE|September 22, 2026]]. No prior outpatient SLP evaluation was available in the referral packet. Current report combines direct observation, CG interview, preschool information, and selected assessment measures.
+
+[[CHILD|Emilio]] initially stayed near mamá and watched the examiner arrange toys. Following a brief warm-up, pt joined floor play and accepted turn exchanges. Pt used Spanish w/ family and mixed Spanish-English utterances w/ clinician. English increased during vehicle play, likely reflecting classroom vocabulary. Spanish increased during pretend meals and descriptions of home routines. Language choice changed w/ partner, topic, and familiarity.
+
+CG priorities include clearer requests, better understanding of classroom directions, and participation in peer play. Mamá stated, “Quiero que pueda explicar qué pasó, not just point and cry.” Stepfather added that pt often abandons a message after an unsuccessful repair attempt. Family seeks practical home strategies that fit meals, dressing, and pickup routines.
+
+The referral packet identifies earlier developmental services through [[AGENCY|Cedar Lantern CDSA Office]], serving [[PLACE|Larkspur County]]. Former service coordinator [[PROVIDER|Elena Mercado]] provided records w/ signed CG permission. Current preschool support contact is [[PROVIDER|Owen Paredes]], service coordinator at [[AGENCY|Little Lantern Family Connections]]. That agency helps the family coordinate appointments and communicate across programs.
+
+ANTECEDENTES DE NACIMIENTO Y SALUD
+
+Per mamá and available discharge summary, pt was born at [[HOSPITAL|Silver Acorn Community Hospital]] on [[DATE|August 12, 2022]], at gestational age [[KEEP|38 weeks, 2 days]]. Birth weight was [[KEEP|6 lb, 15 oz]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. Delivery was vaginal. CG reported brief feeding support and routine discharge; no prolonged respiratory support was documented.
+
+Mamá described pregnancy as uncomplicated except for nausea and fatigue. Pt had no reported prenatal exposure concerns. Infant feeding involved breast milk and formula. CG recalled slow bottle feeds but no coughing, color change, or emergency care during feeding. Current diet includes varied textures. Pt sometimes refuses unfamiliar foods, though family did not report choking or loss of previously accepted textures.
+
+Medical history includes recurrent otitis media during toddlerhood. Bilateral tympanostomy tubes were placed at [[HOSPITAL|Silver Acorn Community Hospital]] on [[DATE|November 7, 2024]]. ENT provider Dr. [[PROVIDER|Gabriel Arenas]] completed follow-up on [[DATE|August 28, 2026]]. The supplied note described patent tubes and recommended routine monitoring. Audiologist [[PROVIDER|Mina Calderón]] documented hearing within expected limits for speech access on [[DATE|September 4, 2026]].
+
+No seizures, major head injury, or known neurologic diagnosis were reported. Pt takes no daily medication per CG. Sleep varies when routines change. Mamá reports occasional snoring during colds, without observed pauses. Clinician advised family to discuss persistent symptoms w/ the pediatric provider.
+
+Developmental history was obtained retrospectively. Sitting emerged at approx [[KEEP|7 months]], walking at approx [[KEEP|15 months]], and recognizable first words at approx [[KEEP|20 months]]. CG recalled consistent word combinations near [[KEEP|32 months]]. No clear regression was reported. These ages reflect family recall, rather than contemporaneous developmental records.
+
+FAMILIA, IDIOMAS Y APOYOS
+
+Pt lives w/ mamá [[PARENT|Marisol Castañeda]], stepfather [[PARENT|Daniel Varela]], and sister [[SIBLING|Inés Varela]]. Biological father [[PARENT|Julián Castañeda]] participates in weekend routines and receives therapy updates w/ CG agreement. Family residence is [[PLACE|731 Sparrow Lantern Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27984]]. Primary contact: [[PHONE|252-555-0182]]. Backup email: [[EMAIL|marisol.castaneda@familymail.example]].
+
+Spanish is the main home language. English appears in media, preschool activities, and some sibling play. Mamá estimated exposure at approx [[KEEP|70%]] Spanish and [[KEEP|30%]] English across a typical week. These estimates describe input only; they do not measure language proficiency. Language balance changes during visits w/ father and during school breaks.
+
+Abuela [[FAMILY|Teresa Montalvo]] provides after-school care. Tía [[FAMILY|Rocío Montalvo]] handles some pickups. Babysitter [[FAMILY|Paola Serrano]] uses Spanish during evening care. Family dog [[PET|Chispa]] frequently appears in pt’s play themes. CG reported that pt readily directs the dog but has more difficulty explaining a problem to adults.
+
+Mamá works at [[ORG|Cedar Finch Packaging LLC]]. Stepfather works at [[ORG|Lantern Harbor Repair Cooperative]]. Shift schedules affect appointment availability. Family prefers sessions after preschool, w/ written Spanish summaries and brief English information for school staff. Transportation currently depends on family coordination.
+
+Family receives nutrition support from [[AGENCY|Willow Basket WIC Office]] in [[PLACE|Larkspur County]]. Caseworker [[PROVIDER|Adriana Nieves]] assists through [[AGENCY|Cedar Lantern Department of Social Services]], also in [[PLACE|Larkspur County]]. DSS case ID: [[ID|DSS-LK-603812]]. No protective-service concern was reported in the supplied materials.
+
+Earlier family support included [[AGENCY|Little Acorn Early Head Start]] and [[AGENCY|Firefly Smart Start Partnership for Children]], both serving [[PLACE|Larkspur County]]. CG described these contacts as helpful for transportation planning, books, and parent activities. Community volunteer [[PERSON|Felipe Luján]] previously helped the family register for a library play event. This report does not imply that all agencies currently provide direct treatment.
+
+CONTEXTO ESCOLAR / PARTICIPATION
+
+Pt attends [[DAYCARE|Lantern Nest Early Learning Center]] and receives preschool consultation through [[SCHOOL|Alderbrook Creek Preschool]]. Classroom teacher Ms. [[TEACHER|Beatriz Olmeda]] completed a questionnaire on [[DATE|October 8, 2026]]. Assistant teacher Mr. [[TEACHER|Nathan Ríos]] supplied examples of difficult transitions and successful supports.
+
+Staff reported that pt joins familiar songs and construction play. Pt has difficulty answering open questions, explaining conflicts, and following directions during noisy group activities. Visual demonstrations improve participation. Ms. [[TEACHER|Olmeda]] noted, “When the routine is familiar, he goes with everyone. When the plan changes, he watches first.”
+
+Preferred peers include [[PEER|Sofía Aranda]] and [[PEER|Benji Torres]]. Pt often follows their actions but rarely negotiates a new play plan verbally. During a reported block activity, [[PEER|Sofía]] offered a vehicle and pt responded w/ a gesture plus [[KEEP|"mío"]]. Staff did not identify persistent aggression or avoidance of all social contact.
+
+School SLP [[PROVIDER|Amalia Vega]] has not completed a separate eligibility evaluation. Family requested coordinated planning before repeated testing. CG and staff agree that pt’s comprehension should be checked individually when classroom responses appear unclear. Reduced English familiarity, background noise, and language difficulty may each affect performance.
+
+PROCEDIMIENTOS / ASSESSMENT CONDITIONS
+
+Assessment occurred in a quiet room at [[EMPLOYER|Mariposa Bridge Therapy]]. Clinician [[PROVIDER|Luciana Beltrán]] conducted the interview and tasks directly in Spanish and English. No interpreter was used. CG remained available to clarify familiar vocabulary and describe typical communication. Family comments were separated from scored responses.
+
+Measures included [[KEEP|PLS-5 Spanish]], with [[KEEP|Auditory Comprehension]], [[KEEP|Expressive Communication]], and [[KEEP|Total Language Score]]. Selected speech items from [[KEEP|Goldman-Fristoe Test of Articulation–Third Edition]] were used descriptively. Prior records included [[KEEP|Rossetti Infant-Toddler Language Scale]] and [[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]].
+
+The [[KEEP|Peabody Picture Vocabulary Test–Fifth Edition]] was considered but not administered. An English-only vocabulary score would provide limited information for the present referral. The [[KEEP|CELF-5]] was also not administered. Task selection followed pt’s developmental presentation and the purpose of this bilingual assessment.
+
+Pt completed structured activities in short blocks w/ movement breaks. Responses varied by language and task familiarity. Some supplemental items were repeated, modeled, or changed to explore learning. Those trials were recorded separately and were not credited toward standardized scoring.
+
+Standard scores are one part of the assessment. Bilingual exposure, regional vocabulary, attention, and testing demands affect interpretation. Clinical conclusions rely on converging evidence across home language, school language, functional samples, and supported learning. English differences alone were not treated as evidence of disorder.
+
+RESULTADOS / SCORE TABLE
+
+| Measure | Subtest or domain | Result | Interpretation |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Auditory Comprehension]] | Raw score [[KEEP|36]]; standard score [[KEEP|76]]; percentile [[KEEP|5th]]; [[KEEP|90%]] confidence interval [[KEEP|72–83]] | Below expected range; reference value |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Expressive Communication]] | Raw score [[KEEP|34]]; standard score [[KEEP|73]]; percentile [[KEEP|4th]]; [[KEEP|90%]] confidence interval [[KEEP|69–81]] | Below expected range; reference value |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Total Language Score]] | Standard score [[KEEP|73]]; percentile [[KEEP|4th]]; [[KEEP|90%]] confidence interval [[KEEP|69–80]] | Interpret w/ functional findings |
+| [[KEEP|Goldman-Fristoe Test of Articulation–Third Edition]] | [[KEEP|Sounds-in-Words]] | Standard score not calculated | Descriptive sampling only |
+| [[KEEP|Rossetti Infant-Toddler Language Scale]]; prior record at age [[KEEP|26 months]] | [[KEEP|Language Comprehension]] | Developmental band [[KEEP|18–21 months]] | Historical finding |
+| [[KEEP|Rossetti Infant-Toddler Language Scale]]; prior record at age [[KEEP|26 months]] | [[KEEP|Language Expression]] | Developmental band [[KEEP|15–18 months]] | Historical finding |
+| [[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]]; prior record | [[KEEP|Receptive Communication]] | Scaled score [[KEEP|6]] | Historical finding |
+| [[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]]; prior record | [[KEEP|Expressive Communication]] | Scaled score [[KEEP|5]] | Historical finding |
+
+The historical developmental bands describe earlier performance. They are not current age equivalents. No current age equivalent was used to set treatment expectations. Present goals emphasize functional communication and measurable response to support.
+
+COMPRENSIÓN / RECEPTIVE LANGUAGE
+
+Pt identified familiar objects from a small field w/ [[KEEP|9/10]] accuracy, or [[KEEP|90%]], w/ [[KEEP|no cues]]. Recognition decreased when objects were unfamiliar or pictured without context. Spanish labels often supported faster responses. Pt occasionally selected the last item named, suggesting that response patterns required checks across item order.
+
+For familiar one-step directions, pt completed [[KEEP|8/10]], or [[KEEP|80%]], w/ [[KEEP|min cues]]. Two-step directions without gesture were completed in [[KEEP|3/8]], or [[KEEP|38%]], w/ [[KEEP|no cues]]. Performance improved to [[KEEP|6/8]], or [[KEEP|75%]], w/ [[KEEP|mod cues]] and demonstration. Improvement showed useful learning capacity, but dependence on support remained clinically meaningful.
+
+Spatial targets [[KEEP|"in"]], [[KEEP|"under"]], [[KEEP|"dentro"]], and [[KEEP|"debajo"]], were probed during play. Pt understood containment more consistently than location beneath an object. For the latter relation, pt responded correctly in [[KEEP|2 of 5]] trials w/ [[KEEP|no cues]]. Accuracy increased to [[KEEP|4 of 5]] w/ [[KEEP|mod cues]].
+
+Pt answered concrete identification questions more readily than questions about cause or sequence. For action pictures, pt selected the intended response in [[KEEP|5/8]], or [[KEEP|63%]], w/ [[KEEP|min cues]]. Responses to unfamiliar questions sometimes consisted of repeating the final word. This behavior occurred in both languages and was not limited to English tasks.
+
+During supported learning, clinician used [[KEEP|visual supports]] and [[KEEP|focused stimulation]]. Pt transferred a practiced direction to new materials in [[KEEP|3 of 5]] opportunities w/ [[KEEP|min cues]]. This finding supports treatment using repeated routines followed by planned changes in materials and partners.
+
+EXPRESIÓN / LANGUAGE SAMPLE
+
+A play sample included requests, comments, refusals, and brief pretend exchanges. Pt produced single words, short combinations, and occasional longer utterances. Examples included [[KEEP|"más agua"]], [[KEEP|"ese truck mío"]], [[KEEP|"mamá come"]], and [[KEEP|"no cabe aquí"]]. Code-switching was accepted as a normal bilingual behavior. The clinician evaluated message content and grammatical development within each language context.
+
+Pt named familiar items but had difficulty explaining actions and relationships. When a figure fell, pt said [[KEEP|"se cayó"]]. When asked to explain the event, pt added a gesture and [[KEEP|"él ahí"]]. CG reported similar difficulty recounting preschool experiences, even when questions were asked in Spanish.
+
+Spontaneous requests contained sufficient information in [[KEEP|6/10]] opportunities, or [[KEEP|60%]], w/ [[KEEP|no cues]]. With [[KEEP|expansions]] and [[KEEP|mod cues]], pt produced more specific requests in [[KEEP|8/10]], or [[KEEP|80%]]. Target phrases included [[KEEP|"quiero el carro rojo"]] and [[KEEP|"help me open"]]. Longer modeled phrases sometimes lost key words.
+
+Selected sample annotations used SALT conventions, including [[KEEP|[EW]]] for an extraneous word and [[KEEP|[EU]]] for an extraneous utterance. These annotations were descriptive. Formal sample measures were not reported b/c the sample mixed languages and included substantial adult support. Repeated models were excluded from estimates of spontaneous complexity.
+
+During [[KEEP|milieu teaching]], pt added an action word to a noun phrase in [[KEEP|4 of 6]] opportunities w/ [[KEEP|mod cues]]. Pt needed fewer models when play actions were visible. Clinician interpreted this response as evidence that meaningful context and brief language models can support growth.
+
+HABLA / SPEECH PRODUCTION
+
+Speech sampling showed variable consonant omissions and substitutions across languages. Familiar listeners understood more than an unfamiliar listener. In a brief play segment, clinician understood approx [[KEEP|65%]] of utterances without CG interpretation. This estimate reflects that segment only and is not a standardized intelligibility score.
+
+Observed productions included [[KEEP|[w]]] for English [[KEEP|/ɹ/]], occasional fronting of [[KEEP|/k/]] and [[KEEP|/g/]], and inconsistent production of Spanish [[KEEP|/ɾ/]]. Individual sound differences were considered within age, language, and dialect. No single substitution established a speech diagnosis.
+
+For target [[KEEP|"casa"]], pt produced [[KEEP|"tasa"]] on an initial trial and improved after a model. For target [[KEEP|"carro"]], pt produced [[KEEP|"cayo"]]. English target [[KEEP|"spoon"]] was produced as [[KEEP|"poon"]]. Spanish and English patterns require separate sampling before treatment priorities are finalized.
+
+Pt produced initial [[KEEP|/k/]] in [[KEEP|3/10]] trials w/ [[KEEP|no cues]] and [[KEEP|7/10]] trials w/ [[KEEP|mod cues]]. Supported accuracy was [[KEEP|70%]]. Clinician used [[KEEP|phonetic placement]] briefly to examine stimulability. A full speech treatment protocol was not initiated during evaluation.
+
+Oral structures appeared adequate for sampled speech movements. Pt accepted a brief visual examination but declined sustained imitation tasks. No obvious asymmetry was observed. Voice was conversational, and no persistent stuttering behavior was noted in this sample. Findings remain limited by task participation and sample size.
+
+JUEGO, INTERACCIÓN Y REGULACIÓN
+
+Pt demonstrated shared enjoyment, pretend feeding, turn exchanges, and interest in the clinician’s actions. Pt initiated interaction by showing toys and requesting assistance. Joint attention was present during preferred activities. Changes in routine required extra processing time, especially when adults added several verbal directions at once.
+
+During a communication breakdown, [[CHILD|Milo]] repeated the same short message and then reached for the object. Clinician modeled a repair phrase through [[KEEP|functional communication training]]. Pt used target [[KEEP|"te enseño"]] in [[KEEP|3 of 5]] supported opportunities w/ [[KEEP|mod cues]]. CG reported that this strategy seemed feasible at home.
+
+Pt tolerated brief waiting when the next action was visible. Longer verbal explanations led to looking away or leaving the activity. These behaviors appeared linked to task demand and comprehension. The session did not provide enough information to characterize attention across settings.
+
+CG practiced [[KEEP|responsive interaction]] during pretend cooking. Mamá followed pt’s topic, paused, and offered a short model. Pt responded w/ a comment in [[KEEP|4 of 6]] opportunities w/ [[KEEP|min cues]]. Family participation was a strength. Both attending CGs asked practical questions and demonstrated the strategies during the session.
+
+IMPRESIONES CLÍNICAS
+
+Findings support a mixed receptive-expressive language disorder, proposed ICD-10 [[KEEP|F80.2]]. Evidence includes difficulty understanding less familiar directions, limited spontaneous message detail, and weak explanation skills across Spanish and English. CG reports, preschool observations, direct tasks, and prior records show a consistent pattern.
+
+Bilingual development does not account for the full pattern. Pt demonstrated difficulty in the main home language and needed substantial support for skills practiced in familiar contexts. Code-switching itself was not scored as an error. Maintaining Spanish supports family communication and does not conflict w/ English development.
+
+Speech production concerns also affect participation. Further bilingual sampling is needed before assigning a separate speech diagnosis. Current speech findings support monitoring and selected functional targets within language activities. Reassessment should examine patterns across several contexts and communication partners.
+
+Pt showed strengths in social interest, imitation after brief models, pretend play, and response to contextual support. Prognosis for functional improvement is favorable w/ regular attendance, coordinated goals, and CG practice. Rate of progress will depend on participation, access to services, and response to treatment.
+
+RECOMENDACIONES / PLAN
+
+1. Begin outpatient speech-language treatment through [[EMPLOYER|Mariposa Bridge Pediatric Therapy, PLLC]], using CPT [[KEEP|92507]]. Initial schedule: weekly sessions with CG participation. Proposed start date is [[DATE|October 27, 2026]]. Authorization and family scheduling remain pending.
+
+2. Use bilingual intervention based on activity, partner, and family preference. Include [[KEEP|focused stimulation]], [[KEEP|expansions]], [[KEEP|milieu teaching]], and [[KEEP|visual supports]]. Consider selected strategies from [[KEEP|Hanen It Takes Two to Talk]]. Give family short Spanish models and school staff usable English examples.
+
+3. Target understanding of functional two-step directions. Proposed goal [[KEEP|1]]: pt will complete directions during familiar routines in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], w/ [[KEEP|min cues]], across repeated sessions. Start with visible actions and gradually reduce demonstrations.
+
+4. Target specific requests and comments. Proposed goal [[KEEP|2]]: pt will produce a phrase containing an action or descriptive word in [[KEEP|4 of 5]] opportunities w/ [[KEEP|min cues]]. Accept either language and meaningful mixed-language responses. Avoid requiring translation before honoring the message.
+
+5. Target communication repair. Proposed goal [[KEEP|3]]: pt will show, gesture, or add a word after a breakdown in [[KEEP|4 of 5]] opportunities w/ [[KEEP|min cues]]. Practice during naturally occurring misunderstandings. Adults should acknowledge the message before offering a model.
+
+6. Continue speech sampling. Probe [[KEEP|/k/]], [[KEEP|/g/]], and selected word shapes in both languages. Use [[KEEP|phonetic placement]] only when pt participates comfortably. Consider [[KEEP|Cycles]] after sufficient pattern data are available. No commitment to that approach is made from this sample alone.
+
+7. Coordinate w/ preschool, family supports, and medical providers after CG consent. Service coordinator [[PROVIDER|Owen Paredes]] will receive the approved summary. Former IFSP outcome [[KEEP|3]] addressed functional requests; that historical outcome is closed. Current goals require a new coordinated plan.
+
+8. Review progress on [[DATE|January 26, 2027]]. Repeat selected functional probes before considering additional standardized testing. Continue hearing follow-up per the treating providers. Family should report new hearing concerns, regression, or major changes in communication.
+
+Family received results in Spanish and English. Mamá [[PARENT|Marisol Castañeda]] summarized the plan accurately and preferred home practice during meals. Stepfather [[PARENT|Daniel Varela]] selected cleanup routines for supported directions. Both agreed to share the report w/ preschool after reviewing the written copy.
+
+Electronically signed: [[PROVIDER|Luciana Beltrán]], MS, CCC-SLP  
+Bilingual Pediatric Speech-Language Pathologist  
+[[EMPLOYER|MBPT]]  
+Signature date: [[DATE|October 16, 2026]]  
+Contact: [[PHONE|919-555-0146]]; [[EMAIL|luciana.beltran@mariposabridge.example]]

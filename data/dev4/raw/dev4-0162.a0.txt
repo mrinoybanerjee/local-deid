@@ -1,0 +1,88 @@
+Patient Name: [[CHILD|Mateo Alejandro Cruz Fernández]] ("[[CHILD|Teo]]")
+Date of Birth: [[DATE|August 14, 2021]]
+Chronological Age at Evaluation: [[KEEP|4;2]]
+Evaluation Dates: [[DATE|October 2, 2025]] and [[DATE|October 6, 2025]]
+Report Date: [[DATE|October 9, 2025]]
+Primary Home Languages: Spanish and English
+Parent/Guardian: [[PARENT|Lucía Fernández Ruiz]] (mother), [[PARENT|Alejandro Cruz Mendoza]] (father)
+Referral Source: [[PROVIDER|Dr. Hamid Khan]], pediatrician
+Service Coordinator: [[PROVIDER|Maria Santos]], [[AGENCY|Piedmont Regional CDSA]]
+Evaluating Clinician: [[PROVIDER|Jennifer Ortiz]], M.S., CCC-SLP/L, Bilingual Spanish-English
+Employer: [[EMPLOYER|Triangle Bilingual Speech & Language Therapy, PLLC]] (also referred to as "[[EMPLOYER|Triangle Bilingual Speech]]" or "[[EMPLOYER|TBSLT]]")
+Medicaid ID: [[MEDICAID_ID|748203915T]]
+Record/Case ID: [[ID|LD-2025-00482]]
+Address: [[PLACE|482 Hollyridge Lane]], [[PLACE|Garner]], NC [[PLACE|27529]]
+County of Residence: [[PLACE|Wake County]]
+Phone: [[PHONE|(919) 555-0148]]
+Email: [[EMAIL|jortiz@trianglebilingualspeech.com]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]], known to his family as "[[CHILD|Teo]]," is a [[KEEP|4;2]]-year-old bilingual (Spanish/English) boy referred for a comprehensive speech-language evaluation by [[PROVIDER|Dr. Hamid Khan]] due to parent and teacher concern regarding delayed expressive language, limited intelligibility, and difficulty following multi-step directions in both languages. [[PARENT|Lucía Fernández Ruiz]] reports that [[CHILD|Teo]] has fewer words than his sister [[SIBLING|Valentina Cruz Fernández]] ("[[SIBLING|Vale]]") did at the same age, and that unfamiliar listeners often cannot understand him. [[TEACHER|Ms. Angela Lopez]], his lead teacher at [[DAYCARE|Little Sprouts Bilingual Daycare]], echoed these concerns and noted that [[CHILD|Teo]] relies heavily on gesture and often repeats classmates' words rather than generating his own phrases.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Teo]] was born at [[HOSPITAL|Carolina Pines Regional Hospital]] in [[PLACE|Garner]], NC, at [[KEEP|36 weeks gestational age]] following a pregnancy complicated by preeclampsia. Birth weight was [[KEEP|5 lb 8 oz]], and Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. He spent [[KEEP|9 days]] in the NICU for respiratory support and feeding difficulty but required no surgical intervention. [[PARENT|Lucía]] reports no prenatal substance exposure and an otherwise unremarkable delivery aside from the early gestational age.
+
+Medical history is significant for recurrent otitis media, with [[KEEP|6]] documented ear infections between [[KEEP|8 months]] and [[KEEP|24 months]] of age. Bilateral myringotomy tubes were placed on [[DATE|03/11/2023]] by [[PROVIDER|Dr. Priya Nair]], ENT, and extruded spontaneously around [[KEEP|30 months]] of age; they were not replaced. An audiology evaluation on [[DATE|01/14/2025]] was within normal limits bilaterally, and [[CHILD|Teo]] passed his newborn hearing screening at birth. His CDSA intake form, completed in a day/month/year format common on the family's paperwork, lists his birth date as [[DATE|14/08/2021]].
+
+[[CHILD|Teo]] achieved early motor milestones within normal limits: he sat independently at [[KEEP|6 months]] and walked at [[KEEP|13 months]]. Fine motor skills are age-appropriate per parent report. There is no history of seizure, head injury, or loss of consciousness. Family history is notable for a paternal cousin with a diagnosed speech sound disorder, and [[PARENT|Alejandro Cruz Mendoza]] reports his own history of late talking as a child.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Teo]] lives with his parents, [[PARENT|Lucía Fernández Ruiz]] and [[PARENT|Alejandro Cruz Mendoza]]; his older sister [[SIBLING|Valentina Cruz Fernández]] ("[[SIBLING|Vale]]," age 7); and the family dog, [[PET|Rocky]], at their home on [[PLACE|Hollyridge Lane]] in [[PLACE|Garner]]. Several nights a week, [[CHILD|Teo]]'s maternal grandmother, [[FAMILY|Rosa Ruiz Delgado]], stays in the home and provides childcare; she speaks primarily Spanish with the children.
+
+[[PARENT|Lucía]] reports that the home language environment is approximately 70% Spanish and 30% English. Mom works nights at [[ORG|Southern Star Poultry Processing]], where she is employed on the sanitation line, and [[FAMILY|Rosa]] or [[PARENT|Alejandro]] cares for the children in the evenings while she is at work. [[PARENT|Alejandro]] works days as a foreman for [[ORG|Carolina Grading & Paving]] and speaks both Spanish and English with [[CHILD|Teo]], though he reports feeling "más cómodo" using Spanish.
+
+An initial bilingual intake interview was conducted primarily in Spanish by phone on [[DATE|3 de marzo de 2025]]. A brief follow-up call occurred [[DATE|el martes 4 de marzo]], at which point [[PARENT|Lucía]] confirmed that [[CHILD|Teo]] had recently moved into the daycare's language-enriched classroom. During these calls, [[PARENT|Lucía]] reported that [[CHILD|Teo]] said his first words around [[KEEP|18 months]] ("agua," "mamá") and began combining two words by [[KEEP|30 months]]. She described his expressive vocabulary as noticeably behind that of [[SIBLING|Vale]] at the same age. [[PARENT|Lucía]] also noted that [[CHILD|Teo]] frequently mixes languages within the same utterance, which she attributes to normal bilingual development rather than confusion, a view that is consistent with current research on typical code-switching in bilingual children.
+
+The family receives early intervention service coordination through [[PROVIDER|Maria Santos]] at [[AGENCY|Piedmont Regional CDSA]]. [[PARENT|Lucía]] reports the family also receives nutritional support through [[AGENCY|WIC]] and has previously attended [[AGENCY|Smart Start]] parenting classes. The family is not currently involved with [[AGENCY|DSS]].
+
+[[CHILD|Teo]] attends [[DAYCARE|Little Sprouts Bilingual Daycare]] five days per week, from [[TIME|7:30 a.m.]] to [[TIME|5:00 p.m.]], where his lead teacher is [[TEACHER|Ms. Angela Lopez]] and his assistant teacher is [[TEACHER|Mr. Daniel Reyes]]. According to [[TEACHER|Ms. Lopez]], [[CHILD|Teo]] plays well with classmates [[PEER|Josué]] and [[PEER|Camila]] but becomes frustrated when peers do not understand his requests, sometimes resorting to pushing.
+
+ASSESSMENT PROCEDURES
+
+[[CHILD|Teo]] was assessed over two sessions, [[DATE|October 2, 2025]] and [[DATE|October 6, 2025]], at the [[EMPLOYER|Triangle Bilingual Speech]] clinic located at [[PLACE|118 Fieldstone Court, Suite 2]], [[PLACE|Raleigh]], NC [[PLACE|27610]]. Assessment was conducted in both Spanish and English by [[PROVIDER|Jennifer Ortiz]], M.S., CCC-SLP/L, who is fully bilingual; no interpreter was required.
+
+Procedures included standardized testing, a parent interview, a teacher questionnaire completed by [[TEACHER|Ms. Lopez]], language sample analysis, an oral mechanism examination, and an informal articulation and phonology screening. [[CHILD|Teo]] was cooperative throughout both sessions, though he required frequent redirection and [[KEEP|mod cues]] to maintain attention to table-top tasks during the second session.
+
+STANDARDIZED TEST RESULTS
+
+Date | Measure/Subtest | Standard Score | Percentile | 95% CI
+[[DATE|10/02/2025]] | [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|70-82]]
+[[DATE|10/02/2025]] | [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] | [[KEEP|71]] | [[KEEP|3rd]] | [[KEEP|65-77]]
+[[DATE|10/02/2025]] | [[KEEP|PLS-5]] [[KEEP|Total Language Score]] | [[KEEP|72]] | [[KEEP|3rd]] | [[KEEP|67-77]]
+[[DATE|10/06/2025]] | [[KEEP|GFTA-3]] [[KEEP|Sounds-in-Words]] | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|61-75]]
+[[DATE|10/06/2025]] | [[KEEP|CELF Preschool-2]] [[KEEP|Receptive Language Index]] | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|74-84]]
+[[DATE|10/06/2025]] | [[KEEP|CELF Preschool-2]] [[KEEP|Expressive Language Index]] | [[KEEP|73]] | [[KEEP|4th]] | [[KEEP|68-78]]
+[[DATE|10/06/2025]] | Receptive Language Age Equivalent | — | — | [[KEEP|2;6–3;0]]
+
+All standardized scores above represent performance combining responses from both of [[CHILD|Teo]]'s languages, per each test's bilingual administration guidelines, with credit given for a correct response in either Spanish or English.
+
+CLINICAL OBSERVATIONS / INFORMAL MEASURES
+
+During the language sample, [[CHILD|Teo]] produced an average utterance length of [[KEEP|2.8 morphemes]] (MLU), consistent with an expressive language level more than [[KEEP|1.5 SD]] below age expectations. His spontaneous productions included consistent sound substitutions, such as [[KEEP|/k/]] → [[KEEP|[t]]] and [[KEEP|/r/]] → [[KEEP|/w/]]. When asked to describe a picture of his pet, [[CHILD|Teo]] said "[[PET|Rocky]] tomiendo," intending "comiendo" (eating), illustrating the [[KEEP|/k/]]-for-[[KEEP|[t]]] substitution in context. In another sample, he labeled a picture of a rabbit as "[[KEEP|wabbit]]," reflecting the gliding of [[KEEP|/r/]].
+
+Standardized articulation testing (GFTA-3, [[KEEP|Sounds-in-Words]], standard score [[KEEP|68]], [[KEEP|2nd]] percentile) identified the following phonological processes: final consonant deletion (e.g., [[KEEP|"ca"]] for "cat"), cluster reduction (e.g., [[KEEP|"top"]] for "stop"), and gliding of liquids ([[KEEP|/r/]] → [[KEEP|/w/]], [[KEEP|/l/]] → [[KEEP|/w/]]). Intelligibility was judged to be approximately [[KEEP|40%]] in context for unfamiliar listeners and [[KEEP|65%]] for familiar listeners such as [[PARENT|Lucía]] and [[FAMILY|Rosa]].
+
+Oral mechanism examination revealed structures and function within normal limits for speech production, with no significant asymmetries and age-appropriate diadochokinetic rates. [[CHILD|Teo]] passed an objective hearing screening performed the same day via otoscopy and tympanometry, within normal limits bilaterally.
+
+IMPRESSIONS
+
+Based on parent interview, teacher report, standardized testing administered in both of [[CHILD|Teo]]'s languages, and direct clinical observation, [[CHILD|Teo]] presents with a Mixed Receptive-Expressive Language Disorder, ICD-10 code [[KEEP|F80.2]], and a Speech Sound Disorder, ICD-10 code [[KEEP|F80.0]]. Deficits are evident across both Spanish and English and are not attributable solely to typical bilingual language acquisition, second-language learning, or dialectal variation. CPT code [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression) was used to bill this evaluation.
+
+[[CHILD|Teo]]'s receptive and expressive language scores both fall more than [[KEEP|1.5 SD]] below the mean, and his speech intelligibility is significantly reduced for unfamiliar listeners. These findings, combined with history of recurrent otitis media, support ongoing speech-language intervention.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Teo]] qualifies for ongoing bilingual speech-language intervention based on standardized scores more than [[KEEP|1.5 SD]] below the mean in receptive and expressive language domains, as well as impaired speech intelligibility.
+2. Individual bilingual speech-language therapy twice weekly, [[KEEP|30]] minutes per session, targeting expressive vocabulary, grammatical morphology, and phonological processes. A combined [[KEEP|Cycles]] approach is recommended for phonology, with [[KEEP|Hanen]]-based strategies ("It Takes Two to Talk") incorporated for caregiver coaching.
+3. Continued coordination with [[PROVIDER|Maria Santos]] at [[AGENCY|Piedmont Regional CDSA]] regarding IFSP Outcome [[KEEP|#2]] (communication) and IFSP Outcome [[KEEP|#3]] (social-emotional), to be reviewed at the next IFSP review meeting on [[DATE|January 15, 2026]].
+4. Classroom collaboration with [[TEACHER|Ms. Lopez]] and [[TEACHER|Mr. Reyes]] at [[DAYCARE|Little Sprouts Bilingual Daycare]] to reinforce target vocabulary and support peer communication, particularly with classmates [[PEER|Josué]] and [[PEER|Camila]].
+5. Follow-up hearing screening in [[KEEP|6 months]] given [[CHILD|Teo]]'s history of recurrent otitis media.
+6. A structured home program for [[PARENT|Lucía Fernández Ruiz]], [[PARENT|Alejandro Cruz Mendoza]], and caregiver [[FAMILY|Rosa Ruiz Delgado]], emphasizing bilingual language modeling, vocabulary expansion, and consistent use of both home languages rather than restriction to one.
+7. Re-evaluation in approximately [[KEEP|12 months]] to monitor progress in both languages, or sooner if clinically indicated.
+
+This report was completed and signed by [[PROVIDER|Jennifer Ortiz]], M.S., CCC-SLP/L ([[PROVIDER|J. Ortiz]]), on behalf of [[EMPLOYER|Triangle Bilingual Speech & Language Therapy, PLLC]] ("[[EMPLOYER|TBSLT]]").
+
+Clinician Contact: [[PHONE|(919) 555-0148]] | [[EMAIL|jortiz@trianglebilingualspeech.com]]

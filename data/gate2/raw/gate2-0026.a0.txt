@@ -1,0 +1,139 @@
+INFORME FICTICIO DE EVALUACION DEL HABLA Y DEL LENGUAJE
+
+Datos de identificacion
+
+Nombre del paciente: [[CHILD|Nicolas Rivera Solano]]
+Nombre usado en casa: [[CHILD|Nico]]
+Fecha de nacimiento: [[DATE|4 de septiembre de 2023]]
+Edad al evaluar: [[KEEP|2;9]]; [[KEEP|33 meses]]
+Fecha de evaluacion: [[DATE|4 de junio de 2026]]
+Horario: de [[TIME|9:15 a. m.]] a [[TIME|11:05 a. m.]]
+Fecha del informe: [[DATE|8 de junio de 2026]]
+Expediente: [[ID|VAP-260604-0187]]
+Numero de Medicaid: [[MEDICAID_ID|583902741Q]]
+Autorizacion: [[ID|AUT-NC-260601-482]]
+Domicilio: [[PLACE|184 Calle Sauce Sereno, apartamento 6, Vallebrisa, North Carolina 27584]]
+Telefono familiar: [[PHONE|919-555-0146]]
+Correo familiar: [[EMAIL|familia.riverasolano@example.com]]
+Madre: [[PARENT|Elena Solano Cruz]]
+Padre: [[PARENT|Gabriel Rivera Paz]]
+Clinica responsable: [[PROVIDER|Adriana Montes Lira]], patologa bilingue del habla y del lenguaje, CCC-SLP
+Empresa: [[EMPLOYER|Voces del Amanecer Terapia Pediatrica]]
+Telefono profesional: [[PHONE|984-555-0168]]
+Correo profesional: [[EMAIL|amontes@example.org]]
+Portal: [[URL|https://example.org/voces-amanecer/servicios]]
+Servicio documentado: evaluacion del habla y del lenguaje, [[KEEP|CPT 92523]], modificador [[KEEP|GN]].
+
+Motivo y fuentes de informacion
+
+La familia solicita esta evaluacion porque [[CHILD|Nicolas]] usa pocas combinaciones de palabras y suele llevar al adulto hacia lo que necesita. La madre desea entender sus mensajes sin depender de preguntas repetidas. El padre informa que algunas personas fuera de casa no reconocen sus palabras. Ambos desean servicios que respeten el uso cotidiano del espanol y del ingles.
+
+La referencia procede de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil de Vallebrisa]], identificada tambien como [[AGENCY|CDSA de Vallebrisa]]. La coordinadora de servicios, [[PROVIDER|Marina Rivas Duarte]], pertenece a [[AGENCY|Servicios Integrados de Apoyo Familiar del Condado de Monteclaro]], cuya forma corta es [[AGENCY|SIAF]]. Su telefono es [[PHONE|919-555-0127]] y su correo es [[EMAIL|mrivas@example.org]].
+
+Las fuentes incluyen entrevista familiar, observacion directa, muestra de lenguaje, cuestionario del aula y documentos aportados por los padres. La pediatra, Dra. [[PROVIDER|Beatriz Leon Aranda]], envio un resumen medico. El terapeuta ocupacional, [[PROVIDER|Javier Ortiz Salas]], compartio observaciones sobre participacion durante el juego. Una nota previa firmada por [[PROVIDER|J. Ortiz]] describe buena tolerancia a actividades con objetos conocidos.
+
+Antecedentes del desarrollo y servicios
+
+La familia observo primero diferencias en la comunicacion durante las rutinas de comida y juego. El nino aprendio a senalar objetos deseados, pero mantuvo un repertorio limitado de palabras. Las primeras palabras estables aparecieron alrededor de los [[KEEP|19 meses]]. Las combinaciones espontaneas comenzaron cerca de los [[KEEP|30 meses]], principalmente para pedir ayuda o repetir una actividad agradable.
+
+La evaluacion inicial de intervencion temprana ocurrio el [[DATE|12 de febrero de 2026]]. El plan individualizado de servicios familiares, denominado IFSP en este informe, se establecio el [[DATE|26 de febrero de 2026]]. Su revision esta prevista para el [[DATE|27 de agosto de 2026]]. El expediente de intervencion temprana tiene el numero [[ID|CDV-026-7318]].
+
+Participan la [[AGENCY|CDSA de Vallebrisa]], el [[AGENCY|Departamento de Servicios Sociales del Condado de Monteclaro]], tambien llamado [[AGENCY|DSS de Monteclaro]], y el [[AGENCY|Programa WIC de Monteclaro]]. La familia recibe orientacion sobre actividades infantiles de [[AGENCY|Smart Start de Monteclaro]]. El programa [[AGENCY|Early Head Start de Vallebrisa]] apoya las rutinas educativas y mantiene contacto con la coordinadora. Los padres autorizan compartir este informe mediante el consentimiento [[ID|CONS-260604-092]].
+
+Historia del nacimiento y medica
+
+Segun la entrevista, el embarazo no presento complicaciones importantes. El nacimiento ocurrio a las [[KEEP|38 semanas y 4 dias]] de gestacion en el [[HOSPITAL|Hospital Comunitario Piedraluz]]. El peso al nacer fue de [[KEEP|3.12 kg]]. Los puntajes de Apgar fueron [[KEEP|8 al minuto]] y [[KEEP|9 a los cinco minutos]]. No se informo ingreso a cuidados intensivos ni necesidad de apoyo respiratorio prolongado.
+
+La madre refiere alimentacion inicial adecuada y transicion gradual a diferentes texturas. Actualmente, el nino acepta alimentos familiares, bebe de vaso y participa en comidas con supervisión. No se reportan tos frecuente al comer, perdida de peso ni episodios de atragantamiento. La familia describe sensibilidad ocasional a alimentos nuevos, sin una restriccion constante que limite las comidas.
+
+Se informaron episodios de otitis durante la primera infancia. La audiologa, [[PROVIDER|Sonia Vega Beltran]], realizo una evaluacion el [[DATE|20 de mayo de 2026]] en el [[HOSPITAL|Centro Pediatrico Oido Claro]]. El documento aportado describe respuestas compatibles con acceso auditivo funcional durante esa visita. Esta evaluacion del lenguaje no sustituye una evaluacion auditiva. No se informan medicamentos diarios, convulsiones, cirugias ni antecedentes de regresion del desarrollo.
+
+Historia familiar, social y linguistica
+
+En casa viven los padres, la hermana [[SIBLING|Clara Rivera Solano]], de [[KEEP|6 anos]], y el paciente. La abuela materna, [[FAMILY|Teresa Cruz Montalvo]], cuida al nino algunas tardes. Una tia, [[FAMILY|Isabel Solano Cruz]], participa en las salidas familiares. La cuidadora ocasional, [[FAMILY|Rosa Medina Prado]], utiliza principalmente espanol. La familia tiene un perro llamado [[PET|Toto]], que aparece con frecuencia en los juegos y cuentos.
+
+La madre trabaja en [[ORG|Empaques Roble Claro]]. El padre trabaja en [[ORG|Taller Mecanico Puente Verde]]. Los horarios laborales hacen que varios adultos compartan las rutinas. La familia desea usar estrategias sencillas que todos puedan aplicar sin materiales costosos.
+
+Los padres estiman una exposicion al espanol de [[KEEP|75%]] y al ingles de [[KEEP|25%]]. Estas cifras representan una estimacion familiar. El espanol predomina en casa; el ingles aparece durante algunas actividades del programa infantil. La hermana alterna ambos idiomas al jugar. No se interpreta esta exposicion bilingue como causa de las dificultades observadas.
+
+La familia asiste al programa de lectura [[AGENCY|Cuentos en Familia de la Biblioteca Comunitaria Loma Serena]]. La encargada, [[PERSON|Patricia Olmo]], facilita libros y canciones. Tambien participa en actividades de la [[AGENCY|Iglesia Comunitaria Sendero de Paz]], donde el voluntario [[PERSON|Samuel Pradera]] organiza juegos familiares. Estas actividades ofrecen oportunidades habituales de comunicacion con adultos y otros ninos.
+
+Contexto educativo y observacion
+
+El paciente asiste al [[DAYCARE|Centro Infantil Sendero Azul]]. La maestra, Sra. [[TEACHER|Lorena Campos Nieto]], informa que comprende mejor las instrucciones cuando acompanarlas con gestos forma parte de la rutina. El auxiliar, Sr. [[TEACHER|Hector Luna Vidal]], observa que suele esperar antes de pedir un turno. Durante juegos conocidos, busca a sus companeros [[PEER|Mila Torres Rios]] y [[PEER|Bruno Pena Vidal]].
+
+La familia refiere que tambien juega con [[PEER|Eva Santos Prado]] en el grupo de lectura. Puede entregar materiales y observar lo que otro nino hace, pero necesita apoyo para iniciar intercambios verbales. El personal describe frustracion cuando un adulto interpreta de forma incorrecta su pedido. Los episodios disminuyen cuando se ofrecen opciones visibles y tiempo para responder.
+
+Durante la evaluacion, [[CHILD|Nico]] entro con su madre y exploro los juguetes. Mostro interes por animales, vehiculos y una cocina de juguete. Alterno la mirada entre objetos y adultos, compartio descubrimientos y acepto turnos breves. Su participacion mejoro cuando la evaluadora siguio su iniciativa. Las tareas largas o poco familiares requirieron pausas y cambios de actividad.
+
+Procedimientos y condiciones
+
+La evaluacion se realizo principalmente en espanol, con oportunidades de responder en cualquiera de sus idiomas. Se utilizaron [[KEEP|PLS-5 Spanish]], [[KEEP|Rossetti]] y observacion funcional. Se reviso un informe previo de [[KEEP|Bayley]]. Se exploraron respuestas a imagenes de [[KEEP|Peabody]] y producciones relacionadas con [[KEEP|Goldman-Fristoe]], sin calcular puntuaciones normativas para esas actividades.
+
+Los nombres abreviados identifican los instrumentos en este documento. La administracion de [[KEEP|PLS-5 Spanish]] siguio el procedimiento bilingue correspondiente. Las actividades complementarias permitieron observar estrategias de aprendizaje y no se sumaron a sus puntuaciones. La informacion de [[KEEP|Rossetti]] combina entrevista y observacion; sus rangos describen habilidades y no representan puntuaciones estandar.
+
+La madre permanecio en la sala y ofrecio informacion cuando se solicito. La evaluadora registro por separado las respuestas espontaneas y las respuestas posteriores a ayuda. Se utilizo [[KEEP|min cues]], [[KEEP|mod cues]] o [[KEEP|max cues]] solamente en las actividades descriptivas y dinamicas. Los resultados reflejan el desempeno observado ese dia, junto con la historia aportada.
+
+Resultados de pruebas
+
+| Instrumento | Prueba o subprueba | Resultado | Interpretacion |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Comprension auditiva]] | Puntuacion estandar [[KEEP|81]]; percentil [[KEEP|10]]; intervalo de confianza [[KEEP|90%: 76-88]]; edad equivalente [[KEEP|2;3]] | Dificultad para comprender relaciones y consignas nuevas |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Comunicacion expresiva]] | Puntuacion estandar [[KEEP|74]]; percentil [[KEEP|4]]; intervalo de confianza [[KEEP|90%: 69-82]]; edad equivalente [[KEEP|1;11]] | Repertorio verbal limitado y pocas combinaciones |
+| [[KEEP|PLS-5 Spanish]] | [[KEEP|Lenguaje total]] | Puntuacion estandar [[KEEP|76]]; percentil [[KEEP|5]]; intervalo de confianza [[KEEP|90%: 71-83]] | Necesidad de apoyo receptivo y expresivo |
+| [[KEEP|Rossetti]] | [[KEEP|Comprension del lenguaje]] | Habilidades consistentes en [[KEEP|21-24 meses]]; habilidades emergentes en [[KEEP|24-27 meses]] | Mejor respuesta en rutinas conocidas |
+| [[KEEP|Rossetti]] | [[KEEP|Expresion del lenguaje]] | Habilidades consistentes en [[KEEP|18-21 meses]]; habilidades emergentes en [[KEEP|21-24 meses]] | Uso principal de palabras aisladas |
+| [[KEEP|Bayley]] | [[KEEP|Comunicacion receptiva]] | Puntuacion escalada previa [[KEEP|7]] | Dato del informe anterior |
+| [[KEEP|Bayley]] | [[KEEP|Comunicacion expresiva]] | Puntuacion escalada previa [[KEEP|5]] | Dato del informe anterior |
+| [[KEEP|Peabody]] | [[KEEP|Vocabulario receptivo]] | Respuestas descriptivas [[KEEP|7/12]] | Sin puntuacion normativa |
+| [[KEEP|Goldman-Fristoe]] | [[KEEP|Sonidos en palabras]] | Muestra descriptiva [[KEEP|12/20]] | Sin puntuacion normativa |
+
+Los resultados previos de [[KEEP|Bayley]] corresponden al [[DATE|12 de febrero de 2026]]. No se trataron como medidas del desempeno actual. Las edades equivalentes tampoco deben utilizarse como una edad global del nino. La interpretacion integra los puntajes, las habilidades funcionales y las oportunidades de comunicacion.
+
+Lenguaje receptivo y expresivo
+
+En tareas funcionales, identifico objetos familiares en [[KEEP|8/10]] oportunidades. Siguio instrucciones sencillas sin gesto en [[KEEP|6/10]] oportunidades y con gesto en [[KEEP|9/10]]. Para instrucciones con dos acciones, respondio en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]]. Comprendio mejor vocabulario relacionado con comida, animales y actividades habituales.
+
+Las dificultades aumentaron cuando la consigna incluyo ubicaciones, acciones menos conocidas o informacion que debia retener antes de actuar. La respuesta no fue uniforme. Algunas veces observo al adulto para obtener una pista; otras veces eligio el objeto mas cercano. El apoyo visual y una demostracion breve facilitaron su participacion.
+
+La muestra espontanea incluyo pedidos, comentarios y protestas. Produjo [[KEEP|"mas agua"]], [[KEEP|"mama ven"]], [[KEEP|"no ese"]] y [[KEEP|"toto come"]]. Tambien dijo [[KEEP|"yo carro"]] mientras mostraba un vehiculo. Para pedir que se repitiera una accion, uso [[KEEP|"otra vez"]] despues de un modelo.
+
+La longitud media de los enunciados fue [[KEEP|1.8 palabras por enunciado]]. La muestra se analizo con convenciones de [[KEEP|SALT]], incluido el codigo [[KEEP|[EW]]] para palabras omitidas donde correspondia. Los enunciados breves limitaron el analisis gramatical. No se asigno un diagnostico a partir de cambios de idioma, diferencias dialectales o una sola produccion.
+
+Habla, voz y aprendizaje
+
+La inteligibilidad estimada fue de [[KEEP|65%]] para la madre y [[KEEP|40%]] para una oyente poco familiar. Estas estimaciones proceden de la muestra de juego. Se observaron omisiones de silabas y simplificaciones variables. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]; para [[KEEP|"plato"]], produjo [[KEEP|"pato"]]; para [[KEEP|"perro"]], produjo [[KEEP|"peo"]].
+
+Se observaron producciones de [[KEEP|/p/]], [[KEEP|/b/]], [[KEEP|/m/]], [[KEEP|/t/]] y [[KEEP|/d/]]. La produccion de [[KEEP|/k/]] fue inconsistente. No se exigio dominio de [[KEEP|/ɾ/]] ni de [[KEEP|/r/]] para concluir sobre el lenguaje. En una aproximacion registrada como [[KEEP|[wawa]]], el contexto permitio reconocer el pedido.
+
+La voz y la resonancia no mostraron diferencias evidentes durante la muestra. No se observaron bloqueos ni tension al hablar. La observacion oral fue breve y no incluyo una evaluacion especializada de alimentacion.
+
+En una actividad dinamica, imito combinaciones nuevas en [[KEEP|4/6]] oportunidades con [[KEEP|mod cues]]. Despues de reducir la ayuda a [[KEEP|min cues]], mantuvo esas combinaciones en [[KEEP|2/6]]. Este cambio muestra beneficio del modelado y necesidad de practica. La respuesta al apoyo no elimina las dificultades funcionales identificadas.
+
+Impresiones clinicas
+
+Los hallazgos son compatibles con un trastorno mixto del lenguaje receptivo y expresivo, [[KEEP|ICD-10 F80.2]]. Las dificultades aparecen en la entrevista, el aula y la evaluacion. Afectan la comprension de mensajes nuevos y la capacidad de expresar necesidades con suficiente detalle. Las fortalezas incluyen interes social, juego funcional, gestos y respuesta a modelos.
+
+Las diferencias del habla requieren seguimiento. La muestra actual no permite definir con seguridad un patron fonologico estable. Tampoco aporta evidencia suficiente para concluir un trastorno motor del habla. La exposicion a dos idiomas forma parte de su experiencia familiar y debe mantenerse. El tratamiento debe apoyar la comunicacion en las lenguas que utiliza con sus personas cercanas.
+
+Recomendaciones y plan
+
+1. Iniciar terapia del habla y del lenguaje dos veces por semana, con sesiones de treinta minutos. Incluir juego compartido, practica funcional y orientacion a cuidadores. Considerar [[KEEP|Hanen]] como marco de acompanamiento familiar y [[KEEP|estimulacion focalizada]] para ampliar combinaciones.
+
+2. Mantener el espanol en casa y permitir respuestas en ambos idiomas. Dar tiempo para responder, comentar lo que el nino hace y ampliar su mensaje con una palabra adicional. Evitar convertir cada intercambio en una pregunta.
+
+3. Incorporar el [[KEEP|objetivo IFSP 1]]: comunicar pedidos o comentarios mediante palabras, gestos o apoyos visuales en [[KEEP|8/10]] oportunidades, con [[KEEP|min cues]], durante rutinas familiares.
+
+4. Incorporar el [[KEEP|objetivo IFSP 2]]: comprender instrucciones funcionales con dos acciones en [[KEEP|4 de 5]] oportunidades, con [[KEEP|mod cues]], usando materiales cotidianos.
+
+5. Incorporar el [[KEEP|objetivo IFSP 3]]: producir combinaciones espontaneas de [[KEEP|2-3 palabras]] en [[KEEP|70%]] de las oportunidades observadas, con [[KEEP|min cues]], en juego y comida.
+
+6. Coordinar estrategias con [[TEACHER|Lorena Campos Nieto]] y [[PROVIDER|Marina Rivas Duarte]]. Utilizar opciones visibles, canciones conocidas y turnos breves. Registrar ejemplos utiles para la familia y el aula.
+
+7. Revisar el progreso el [[DATE|6 de agosto de 2026]]. Reconsiderar los objetivos segun las muestras funcionales. Solicitar seguimiento auditivo si aparecen nuevas preocupaciones o cambios en las respuestas a sonidos.
+
+La familia recibio los resultados en espanol y practico las estrategias durante el cierre. Ambos padres expresaron que el plan coincide con sus prioridades. Se entregara una copia mediante los canales autorizados.
+
+Firma: [[PROVIDER|Adriana Montes Lira]], CCC-SLP  
+[[EMPLOYER|Voces del Amanecer Terapia Pediatrica]]  
+Fecha de firma: [[DATE|8 de junio de 2026]]

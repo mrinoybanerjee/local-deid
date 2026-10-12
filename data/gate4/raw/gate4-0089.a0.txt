@@ -1,0 +1,48 @@
+Tipo de documento: Nota diaria de terapia del lenguaje
+Paciente: [[CHILD|Ana Lucía Montes Valverde]]
+Nacimiento: [[DATE|11 de agosto de 2024]]
+Edad: [[KEEP|26 meses]]
+Fecha del servicio: [[DATE|9 de octubre de 2026]]
+Horario: [[TIME|09:15]] a [[TIME|10:00]]
+Lugar: [[DAYCARE|El Nido del Colibrí Azul]]
+Dirección: [[PLACE|418 Sendero del Lirio]], [[PLACE|Pradoviento]], Carolina del Norte, [[PLACE|27863]]
+Profesional: [[PROVIDER|Teresa Solís Aranda]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Voces Pequeñas del Horizonte]]
+Agencia: [[AGENCY|Agencia Regional para el Desarrollo Infantil y el Apoyo Familiar del Valle de los Cedros (ARDIAFVC)]]
+Medicaid: [[MEDICAID_ID|684209735R]]
+Identificación del miembro del seguro: [[ID|MBR-590274186]]
+Identificación infantil NC ITP: [[ID|ITP-26-083941]]
+Autorización: [[ID|AUT-2026-47183]]
+CPT: [[KEEP|92507]]
+Modificador: [[KEEP|GN]]
+ICD-10: [[KEEP|F80.2]]
+Contacto familiar: [[PHONE|919-555-0148]]
+Correo: [[EMAIL|familia.montes@example.com]]
+
+Subjetivo
+
+La madre, [[PARENT|Elena Valverde Ríos]], informó que [[CHILD|Ana Lucía]] pide agua mediante gestos y algunas palabras en español. En casa también escucha inglés cuando juega con su hermano, [[SIBLING|Daniel Montes Valverde]]. La abuela, [[FAMILY|Rosa Ríos Beltrán]], cuida a la niña durante las tardes. La madre trabaja en [[ORG|Taller de Textiles Brisa Serena]] y solicitó actividades breves para practicar después del trabajo.
+
+La maestra, señora [[TEACHER|Nora Castañeda]], observó mayor participación durante canciones conocidas. Hoy la niña llegó tranquila, buscó los bloques y aceptó compartir materiales con su compañero [[PEER|Iván Salcedo]]. La familia no informó cambios de salud, medicamentos ni alimentación desde la sesión anterior. La madre describió que la niña suele abandonar una actividad cuando el adulto presenta varias preguntas seguidas.
+
+Objetivo
+
+La intervención se realizó en español, con apoyos visuales y oportunidades naturales de comunicación durante juego simbólico. Se trabajó el objetivo [[KEEP|2]] del IFSP: expresar necesidades mediante combinaciones de palabras. Se utilizó [[KEEP|Hanen]] para enseñar al adulto a esperar, seguir la iniciativa infantil y ampliar mensajes. También se aplicó estimulación focalizada con [[KEEP|"más agua"]], [[KEEP|"abre caja"]] y [[KEEP|"mi turno"]].
+
+[[CHILD|Ana Lucía Montes Valverde]] produjo combinaciones espontáneas en [[KEEP|3/10]] oportunidades y combinaciones imitadas en [[KEEP|7/10]], con [[KEEP|ayudas moderadas]]. Identificó objetos familiares en [[KEEP|8/10]] ensayos, con [[KEEP|ayudas mínimas]]. Siguió instrucciones sencillas en [[KEEP|60%]] de las oportunidades. Al reducir las preguntas y aumentar el tiempo de espera, sostuvo mejor la atención compartida.
+
+Durante el juego con animales produjo [[KEEP|"ato"]] para [[KEEP|"gato"]]. Se observó omisión inicial de [[KEEP|/g/]] en esa muestra. Dijo "[[PET|Chispa]] come" mientras señalaba una figura que representaba a su perro. Esta combinación surgió sin modelo inmediato. La producción se registró en la muestra con el código [[KEEP|[EW]]]. La niña toleró cambios de actividad con anticipación visual y ayuda del adulto.
+
+Análisis
+
+El desempeño indica avances funcionales en la intención comunicativa, aunque las combinaciones todavía dependen del contexto y del apoyo adulto. La evaluación previa, realizada el [[DATE|18 de septiembre de 2026]], incluyó [[KEEP|PLS-5 Spanish]]. En [[KEEP|Comprensión auditiva]] obtuvo una puntuación estándar de [[KEEP|78]], percentil [[KEEP|7]], con intervalo de confianza de [[KEEP|73–83]]. Estos resultados se consideran junto con observaciones en ambos idiomas y el informe familiar.
+
+La muestra de hoy fue breve; no permite establecer un patrón fonológico estable. La respuesta favorable a modelos cortos respalda mantener actividades de juego con vocabulario familiar. No se observó malestar durante la sesión.
+
+Plan
+
+Continuar terapia en el entorno educativo y revisar el objetivo [[KEEP|2]] con la familia. La madre practicará peticiones durante la merienda, ofrecerá opciones visibles y ampliará cada mensaje infantil sin exigir repetición. La maestra incorporará turnos con bloques y registrará ejemplos espontáneos.
+
+La coordinadora [[PROVIDER|Marina Paredes Luján]], de [[AGENCY|ARDIAFVC]], recibirá el resumen según el consentimiento vigente. Próxima sesión: [[DATE|16 de octubre de 2026]], a las [[TIME|09:15]].
+
+Firma electrónica: [[PROVIDER|Teresa Solís Aranda]].

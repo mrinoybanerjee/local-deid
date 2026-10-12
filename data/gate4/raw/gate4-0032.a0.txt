@@ -1,0 +1,40 @@
+IDENTIFICATION
+- Fictional daily speech-language therapy note for [[CHILD|Elian Varela Soto]], called [[CHILD|Eli]] at home; age [[KEEP|4;2]]. Service date: [[DATE|October 8, 2026]]. Record: [[ID|NC-SLP-482716]]. Medicaid member: [[MEDICAID_ID|583027194M]].
+- Clinician: Ms. [[PROVIDER|Marisol Cárdenas]], bilingual pediatric speech-language pathologist with [[EMPLOYER|Willow Lantern Speech Services]], North Carolina. Session used English and Spanish according to family preference.
+- Setting: [[SCHOOL|The Copper Kite Nest]], a preschool at [[PLACE|1847 Lantern Finch Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|27863]]. Parent contact: [[PHONE|919-555-0146]]; [[EMAIL|renata.varela@example.invalid]].
+
+SESSION SCHEDULE
+- The following fictional schedule supports practice across classroom and home routines:
+
+  | DAY | START | STOP | LOCATION |
+  |---|---|---|---|
+  | Tuesday | [[TIME|9:10 a.m.]] | [[TIME|9:40 a.m.]] | [[SCHOOL|The Copper Kite Nest]] |
+  | Thursday | [[TIME|10:15 a.m.]] | [[TIME|10:45 a.m.]] | [[SCHOOL|The Copper Kite Nest]] |
+  | Friday | [[TIME|4:00 p.m.]] | [[TIME|4:20 p.m.]] | [[PLACE|632 Pebble Moth Court]], [[PLACE|Briarhaven]], North Carolina |
+
+SUBJECTIVE
+- Mother [[PARENT|Renata Varela]] reported more spontaneous requests during meals. Father [[PARENT|Julián Soto]] described frustration when listeners ask for repetition. Older sister [[SIBLING|Inés]] now waits before supplying words.
+- Grandmother doña [[FAMILY|Lupe]] joined by telephone from [[PLACE|Calle Lucero 28, Villa Nube Clara]], Mexico. She reported successful Spanish greetings during family calls.
+- Miss [[TEACHER|Ana]] reported improved transitions. Classroom assistant la maestra [[TEACHER|Carmen]] noted that [[CHILD|Eli]] participates longer when pictured choices remain visible.
+- Mother’s workplace, [[ORG|Blue Acorn Textile Studio]], adjusted her shift for attendance. Family dog [[PET|Miso]] remains a useful conversation topic.
+
+BACKGROUND
+- Fictional intake lists birth date [[DATE|August 8, 2022]], gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8 and 9]]. No new health concerns were reported.
+- Previous evaluation on [[DATE|September 12, 2026]] documented [[KEEP|PLS-5]] results: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|76]].
+- Pediatrician Dr. [[PROVIDER|Nadia Ferrer]] and service coordinator [[PROVIDER|Owen Tal]] at [[AGENCY|Briarhaven Early Connections CDSA]] supplied fictional referral information.
+
+OBJECTIVE
+- Addressed IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]] through play, shared reading, and snack requests. Used [[KEEP|Hanen]] strategies, brief [[KEEP|PROMPT]] support, and [[KEEP|Cycles]] practice.
+- Produced initial [[KEEP|/k/]] in [[KEEP|8/10]] trials with [[KEEP|mod cues]], decreasing to [[KEEP|min cues]] during familiar routines. Practiced [[KEEP|“key”]], [[KEEP|“cup”]], and [[KEEP|“come”]]. Initial substitutions included [[KEEP|[w]]].
+- Requested objects using two-word combinations in [[KEEP|3 of 5]] opportunities, or [[KEEP|60%]], with [[KEEP|mod cues]]. Recorded [[KEEP|“more bubbles”]] and [[KEEP|“my turn”]]. One sample carried SALT code [[KEEP|[EW]]].
+- During peer play, [[PEER|Zora]] offered a toy truck, and [[PEER|Benji]] waited for a request. [[CHILD|Elian]] said “[[PEER|Zora]] help” and later “[[PET|Miso]] run.”
+- Spanish practice included intervocalic [[KEEP|/ɾ/]] within familiar words. Attention improved after movement breaks; spontaneous communication continued without visible distress.
+
+ASSESSMENT
+- Functional requesting improved within predictable routines. Speech accuracy decreased when utterances lengthened. English and Spanish samples showed similar needs for pacing and listener support.
+- Performance supports continued intervention for ICD-10 [[KEEP|F80.2]]. Today’s service used CPT [[KEEP|92507]] with modifier [[KEEP|GN]]. These entries belong only to this fictional testing record.
+
+PLAN
+- Continue pictured choices and brief pauses before adult assistance. Invite both languages during daily routines.
+- Coach mother [[PARENT|Renata Varela]] to model [[KEEP|“help me”]] with [[KEEP|min cues]]. Share practice materials through [[URL|https://willow-lantern.example.invalid/practice]].
+- Review progress on [[DATE|November 5, 2026]]. Transportation volunteer Mr. [[PERSON|Tom]] will meet the family at the entrance. No identifying information here represents a real person or organization.

@@ -1,0 +1,128 @@
+Carolina Pediatric Speech & Language Services, PLLC
+COMPREHENSIVE SPEECH-LANGUAGE EVALUATION
+
+Patient Name: [[CHILD|Mateo Hernández Cruz]]
+Preferred Name: [[CHILD|Teo]]
+Date of Birth: [[DATE|August 14, 2021]]
+Age at Evaluation: [[KEEP|4;2]]
+Sex: Male
+Primary Language(s): Spanish, English
+Date(s) of Evaluation: [[DATE|3 de marzo de 2025]] and [[DATE|03/10/2025]]
+Report Date: [[DATE|March 14, 2025]]
+Evaluator: [[PROVIDER|Jennifer Kim]], M.S., CCC-SLP
+Interpreter: [[PROVIDER|Maria Santos]], Bilingual SLP Assistant
+Referral Source: [[PROVIDER|Dr. Alan Whitfield]], Pediatrics
+Service Coordinator: [[PROVIDER|Brenda Jacobs]], [[AGENCY|Wake County CDSA]]
+Medicaid ID: [[MEDICAID_ID|908213476W]]
+Case/Record ID: [[ID|LD-2025-0147]]
+Parent(s)/Guardian(s): [[PARENT|Lucía Rodríguez Hernández]] (mother), [[PARENT|Diego Hernández]] (father)
+Address: [[PLACE|412 Willowmere Lane]], [[PLACE|Garner]], [[PLACE|Wake County]], NC [[PLACE|27529]]
+Phone: [[PHONE|(919) 555-0148]]
+Email: [[EMAIL|lucia.hernandez85@gmail.com]]
+Website (clinic): [[URL|www.carolinapediatricspeech.com]]
+School/Daycare: [[DAYCARE|Little Sprouts Daycare]], [[PLACE|Garner]], NC
+Sibling(s): [[SIBLING|Camila Hernández]], age 7
+
+BACKGROUND INFORMATION
+
+[[CHILD|Mateo]] ("[[CHILD|Teo]]") is a [[KEEP|4;2]]-year-old bilingual Spanish/English-speaking boy referred for a comprehensive speech-language evaluation by his pediatrician, [[PROVIDER|Dr. Alan Whitfield]], of [[HOSPITAL|WakeMed Children's Hospital]], due to concerns regarding limited expressive vocabulary, reduced speech intelligibility, and difficulty following multi-step directions in both languages. [[CHILD|Mateo]]'s mother, [[PARENT|Lucía Rodríguez Hernández]], and father, [[PARENT|Diego Hernández]], were present throughout testing on [[DATE|3 de marzo de 2025]] and for a follow-up session on [[DATE|03/10/2025]]. Interpretation and bilingual test administration support were provided by [[PROVIDER|Maria Santos]], Bilingual SLP Assistant, employed by [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]].
+
+[[CHILD|Mateo]] currently attends [[DAYCARE|Little Sprouts Daycare]] in [[PLACE|Garner]], where his lead teacher, Ms. [[TEACHER|Patricia Lopez]], and assistant teacher Mr. [[TEACHER|Carter]], report that he is social with peers but frequently frustrated when unable to communicate wants and needs. Classroom peers [[PEER|Ethan]] and [[PEER|Sofia]] are described as [[CHILD|Mateo]]'s closest friends; both reportedly understand his speech better than unfamiliar adults do. [[CHILD|Mateo]] is scheduled to transition to [[SCHOOL|Oak Ridge Elementary]] for pre-kindergarten in [[DATE|August 2026]].
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestation via vaginal delivery at [[HOSPITAL|WakeMed Children's Hospital]]. Birth weight was [[KEEP|6 lbs 11 oz]], and Apgar scores were [[KEEP|8]] at one minute and [[KEEP|9]] at five minutes. [[PARENT|Lucía Rodríguez Hernández]] reported an uncomplicated pregnancy with routine prenatal care. [[CHILD|Mateo]] met early gross motor milestones within normal limits (sat independently at [[KEEP|6 months]], walked at [[KEEP|13 months]]), though expressive language milestones were delayed; his first words emerged around [[KEEP|22 months]], and he did not combine two words until approximately [[KEEP|30 months]].
+
+Medical history is notable for recurrent otitis media, with [[KEEP|4]] documented episodes between [[KEEP|12 and 24 months]] of age, treated with antibiotics. Bilateral myringotomy tubes were placed on [[DATE|el martes 4 de junio]], [[DATE|2024]] by Dr. [[PROVIDER|Samuel Reyes]], ENT. Hearing has been within normal limits bilaterally per most recent audiological screening on [[DATE|January 9, 2025]]. No history of seizures, significant head injury, or hospitalization beyond the above. Vision was screened as normal at his well-child visit on [[DATE|02/11/2025]]. There is no known family history of speech, language, or learning disabilities on either parent's side, per parent report.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Mateo]] resides with both parents and his older sister, [[SIBLING|Camila Hernández]], age 7, who is reportedly a fluent bilingual speaker with no history of speech-language concerns. The family also has a dog, [[PET|Canela]], who [[CHILD|Mateo]] frequently references in play and conversation. [[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Rosa Cruz]] ("Abuela [[FAMILY|Rosa]]"), lives with the family part-time and provides significant childcare, speaking primarily Spanish with [[CHILD|Mateo]]. A babysitter, [[FAMILY|Jasmine Torres]], cares for [[CHILD|Mateo]] and [[SIBLING|Camila]] approximately two afternoons per week and communicates with [[CHILD|Mateo]] primarily in English. Cousins [[FAMILY|Valentina]] and [[FAMILY|Joaquín]], who live nearby in [[PLACE|Clayton]], frequently visit on weekends and are described as close playmates of [[CHILD|Mateo]]'s.
+
+The home language environment is approximately 70% Spanish and 30% English, with [[PARENT|Lucía Rodríguez Hernández]] and [[FAMILY|Rosa Cruz]] speaking primarily Spanish and [[PARENT|Diego Hernández]] speaking a mix of both. [[PARENT|Diego Hernández]] works as a supervisor at [[ORG|Food Lion Distribution Center]] in [[PLACE|Garner]], and [[PARENT|Lucía Rodríguez Hernández]] works part-time as a receptionist. The family is active at [[ORG|Iglesia Pentecostal Monte Sion]] in [[PLACE|Garner]], where [[CHILD|Mateo]] attends a children's Sunday program alongside cousins [[FAMILY|Valentina]] and [[FAMILY|Joaquín]]. The family also regularly attends the bilingual storytime program at the [[AGENCY|Wake County Public Library]] on [[DATE|Saturday mornings]], which [[PARENT|Lucía Rodríguez Hernández]] credits with improving [[CHILD|Mateo]]'s engagement with books.
+
+[[CHILD|Mateo]] previously received Early Intervention services coordinated through [[AGENCY|Wake County CDSA]], with [[PROVIDER|Brenda Jacobs]] serving as service coordinator. An IFSP review meeting was held on [[DATE|November 18, 2024]], at which Outcome [[KEEP|2]] (expressive language) and Outcome [[KEEP|3]] (speech intelligibility) were identified as priority areas. Parents report that a [[KEEP|Hanen]] "It Takes Two to Talk" parent coaching group was completed over [[KEEP|8 sessions]] in fall 2024, and that [[PARENT|Lucía Rodríguez Hernández]] found the strategies helpful for encouraging turn-taking and expansion of [[CHILD|Mateo]]'s utterances at home.
+
+ASSESSMENT PROCEDURES
+
+The following standardized and informal measures were administered across two sessions, in both English and Spanish as appropriate, with support from [[PROVIDER|Maria Santos]]:
+
+- [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], English and Spanish editions
+- [[KEEP|Clinical Evaluation of Language Fundamentals, Fifth Edition (CELF-5)]], selected subtests
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]
+- [[KEEP|Bilingual English Spanish Assessment (BESA)]]
+- Language sample analysis (SALT-coded)
+- Oral-motor examination and hearing screening review
+- Parent interview and classroom teacher report (Ms. [[TEACHER|Patricia Lopez]])
+
+TEST RESULTS
+
+PLS-5 (English Edition):
+Auditory Comprehension: Standard Score [[KEEP|76]] (Percentile Rank [[KEEP|5]], CI [[KEEP|70-82]])
+Expressive Communication: Standard Score [[KEEP|71]] (Percentile Rank [[KEEP|3]], CI [[KEEP|65-77]])
+Total Language Score: Standard Score [[KEEP|72]] (Percentile Rank [[KEEP|3]])
+
+PLS-5 (Spanish Edition):
+Auditory Comprehension: Standard Score [[KEEP|88]] (Percentile Rank [[KEEP|21]], CI [[KEEP|81-95]])
+Expressive Communication: Standard Score [[KEEP|85]] (Percentile Rank [[KEEP|16]], CI [[KEEP|78-92]])
+Total Language Score: Standard Score [[KEEP|86]] (Percentile Rank [[KEEP|18]])
+
+BESA Composite Scores:
+Morphosyntax: Standard Score [[KEEP|82]]
+Semantics: Standard Score [[KEEP|90]]
+Phonology: Standard Score [[KEEP|79]]
+
+GFTA-3 (Sounds-in-Words):
+Standard Score [[KEEP|68]] (Percentile Rank [[KEEP|2]])
+Age Equivalent: [[KEEP|2;6–3;0]]
+
+CELF-5 Selected Subtests (administered in English, scores interpreted with caution given bilingual status):
+Concepts and Following Directions: Scaled Score [[KEEP|5]]
+Formulated Sentences: Scaled Score [[KEEP|4]]
+
+Oral-Motor Examination: Structures and function within normal limits. No signs of dysarthria or apraxia noted; some reduced lingual-alveolar precision observed during connected speech.
+
+Hearing Screening Review: Passed bilaterally per audiological report dated [[DATE|January 9, 2025]].
+
+LANGUAGE SAMPLE AND ARTICULATION ANALYSIS
+
+A 50-utterance spontaneous language sample was collected in both English and Spanish during structured play. In Spanish, [[CHILD|Mateo]]'s mean length of utterance (MLU) was [[KEEP|3.2]] morphemes, within age expectations. In English, MLU was [[KEEP|2.1]] morphemes, below age expectations. Code-switching was frequent and appeared appropriate to communicative context rather than indicative of confusion, consistent with typical bilingual development.
+
+Articulation errors were noted across both languages. [[CHILD|Mateo]] substituted [[KEEP|/k/]] for [[KEEP|/t/]] in word-initial position (e.g., target "taco" produced as "[[KEEP|caco]]"), demonstrated final consonant deletion (target "pan" produced as "[[KEEP|pa]]"), and substituted [[KEEP|[w]]] for [[KEEP|/ɾ/]] in Spanish rhotic sounds. When asked to name a picture of a dog, [[CHILD|Mateo]] stated "[[KEEP|eh pego]]" for the target "[[KEEP|el perro]]." He was approximately [[KEEP|65%]] intelligible to unfamiliar listeners in connected speech, improving to [[KEEP|85%]] with context and [[KEEP|moderate cues]].
+
+During a play-based probe using a toy barn set, [[CHILD|Mateo]] spontaneously said "[[PET|Canela]] eat" when shown a toy dog figure, reflecting association with his own pet. He correctly imitated [[KEEP|8 of 10]] target words at the word level with [[KEEP|minimal cues]], but accuracy dropped to [[KEEP|3 of 5]] at the phrase level, requiring [[KEEP|maximal cues]] for several multisyllabic targets.
+
+CLINICAL IMPRESSIONS
+
+Results indicate that [[CHILD|Mateo]] presents with a moderate expressive and mild-to-moderate receptive language disorder in English, with relative strength in Spanish that is nonetheless also somewhat delayed for his age ([[KEEP|4;2]]). This pattern is consistent with a primary language impairment affecting both languages rather than a difference attributable solely to typical second-language acquisition, given that scores in his stronger language (Spanish) remain below average. A concomitant speech sound disorder is present, affecting intelligibility in both languages, with error patterns (final consonant deletion, stopping, liquid substitution) consistent with a phonological process disorder rather than a motor speech disorder.
+
+[[CHILD|Mateo]]'s classroom teacher, Ms. [[TEACHER|Patricia Lopez]], corroborates these findings, noting that [[CHILD|Mateo]] often relies on gesture and peer mediation (particularly from [[PEER|Ethan]] and [[PEER|Sofia]]) to communicate during circle time. Parent-reported use of [[KEEP|Hanen]] "It Takes Two to Talk" strategies has reportedly supported some gains in turn-taking, but [[CHILD|Mateo]] continues to demonstrate significant gaps relative to same-age bilingual peers.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] qualifies for and would benefit from ongoing speech-language therapy services, recommended at a frequency of 2x/week for 45-minute sessions, provided bilingually or with interpreter support.
+
+2. Therapy should target: expansion of expressive vocabulary and sentence structure in both languages; reduction of phonological processes (final consonant deletion, velar fronting/backing patterns, liquid substitution) using a [[KEEP|Cycles]] approach; and functional communication strategies incorporating [[KEEP|PROMPT]] tactile-cueing techniques to support motor planning for speech sound production.
+
+3. Given [[CHILD|Mateo]]'s frustration with communication breakdowns, introduction of a visual support system modeled on [[KEEP|PECS]] principles is recommended for use at [[DAYCARE|Little Sprouts Daycare]] and at home to reduce behavioral frustration during communication attempts.
+
+4. Continued caregiver coaching using [[KEEP|Hanen]]-based strategies is recommended, with consideration of a [[KEEP|Kaufman]] Speech to Language Protocol approach as a supplement for apraxia-like motor planning difficulties should intelligibility not improve with phonological intervention alone.
+
+5. Referral to [[AGENCY|Wake County CDSA]] is recommended for continued service coordination through [[PROVIDER|Brenda Jacobs]] to support transition planning toward [[SCHOOL|Oak Ridge Elementary]] and potential preschool special education evaluation through the local school system prior to [[DATE|August 2026]].
+
+6. Continued bilingual language exposure at home is strongly encouraged. Parents should not be advised to reduce Spanish exposure, as bilingualism is not contributing to [[CHILD|Mateo]]'s delays. Continued participation in the [[AGENCY|Wake County Public Library]] bilingual storytime program and at [[ORG|Iglesia Pentecostal Monte Sion]]'s children's programming is encouraged to support socialization and language modeling in naturalistic contexts.
+
+7. A follow-up audiological evaluation is recommended in [[KEEP|6 months]] given history of recurrent otitis media, to rule out any recurrence of conductive hearing loss contributing to speech-language delays.
+
+8. Re-evaluation of progress is recommended in approximately [[KEEP|6 months]], or sooner if minimal progress is observed, to adjust the treatment plan as needed.
+
+This evaluation and report were completed by the undersigned. Please contact our office at [[PHONE|(919) 555-0162]] or via email at [[EMAIL|jkim@carolinapediatricspeech.com]] with any questions. Our office is located at [[PLACE|204 Timber Drive, Suite B]], [[PLACE|Garner]], NC [[PLACE|27529]]. Additional resources are available at [[URL|www.carolinapediatricspeech.com]].
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer Kim]], M.S., CCC-SLP
+License #[[ID|NC-SLP-4471]]
+[[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]]
+
+Report prepared: [[DATE|March 14, 2025]]
+Next appointment scheduled: [[DATE|04/02/2025]] at [[TIME|10:30 AM]]

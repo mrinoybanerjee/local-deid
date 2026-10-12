@@ -1,0 +1,112 @@
+INFORME DE EVALUACION DEL HABLA Y LENGUAJE
+
+Paciente: [[CHILD|Maria Jose Valdivia Paredes]]
+Fecha de nacimiento: [[DATE|08 de julio de 2022]]
+Edad cronologica: [[KEEP|4;2]]
+Fecha de evaluacion: [[DATE|08 de septiembre de 2026]]
+Horario: [[TIME|9:15 a. m.]] a [[TIME|11:00 a. m.]]
+Madre: [[PARENT|Elena Paredes Cordero]]
+Padre: [[PARENT|Rafael Valdivia Montes]]
+Domicilio: [[PLACE|246 Calle Sauce Claro]], [[PLACE|Valle del Roble]], Carolina del Norte, [[PLACE|27500]]
+Telefono: [[PHONE|919-555-0148]]
+Correo familiar: [[EMAIL|elena.paredes@example.com]]
+Expediente: [[ID|SLP-260908-047]]
+Medicaid: [[MEDICAID_ID|482617305Q]]
+Autorizacion: [[ID|NC-ST-608214]]
+Profesional: Lic. [[PROVIDER|Daniela Salcedo Rivas]], patologa bilingue del habla y lenguaje pediatrico
+Empresa: [[EMPLOYER|Puentes del Habla Pediatrica]]
+Direccion profesional: [[PLACE|318 Avenida Nube Serena]], [[PLACE|Valle del Roble]], Carolina del Norte, [[PLACE|27500]]
+Telefono profesional: [[PHONE|984-555-0162]]
+Correo profesional: [[EMAIL|daniela.salcedo@example.com]]
+Portal: [[URL|https://puentesdelhabla.example.com]]
+Procedimiento: [[KEEP|CPT 92523]]
+Diagnosticos considerados: [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 F80.0]]
+Modalidad de servicios prevista: [[KEEP|CPT 92507]], modificador [[KEEP|GN]]
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicito una evaluacion porque [[CHILD|Maria Jose]] usa frases cortas y algunas personas tienen dificultad para entenderla. Su madre describe frustracion cuando la nina quiere explicar una experiencia. La familia busca estrategias que permitan comunicarse durante el juego, las comidas y las actividades escolares. La remision provino de la Dra. [[PROVIDER|Mariela Soto Benavides]].
+
+La nina asiste a [[DAYCARE|Centro Infantil Semillas del Rio]] y participa en actividades de transicion con [[SCHOOL|Escuela Primaria Sendero Claro]]. La maestra [[TEACHER|Carmen]] informa que sigue las rutinas conocidas, pero necesita apoyo para responder preguntas abiertas. Miss [[TEACHER|Ana]] observa que suele mostrar un objeto cuando no encuentra las palabras. Ambas describen interes por los libros y el juego compartido.
+
+La familia recibio orientacion previa de [[AGENCY|CDSA del Condado de Sauce Claro]]. La coordinadora [[PROVIDER|Teresa Molina Arce]] reviso el cierre del IFSP, fechado [[DATE|12 de junio de 2025]]. El resultado [[KEEP|2]] del IFSP abordaba pedir ayuda durante rutinas familiares. El objetivo [[KEEP|2.1]] buscaba combinar palabras y gestos. La madre reporta avances, aunque la comunicacion sigue limitada ante personas menos conocidas.
+
+HISTORIA DEL NACIMIENTO Y MEDICA
+
+[[CHILD|Maria Jose Valdivia Paredes]] nacio en [[HOSPITAL|Sistema de Salud Brisa Carolina, Hospital Maternoinfantil, campus Valle del Roble]]. La madre reporta una edad gestacional de [[KEEP|35 semanas y 4 dias]] y un peso de nacimiento de [[KEEP|2350 g]]. Los puntajes Apgar registrados fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. El nacimiento ocurrio por cesarea debido a una complicacion placentaria.
+
+La nina permanecio nueve dias en la NICU de [[HOSPITAL|Sistema de Salud Brisa Carolina, Unidad Neonatal, campus Valle del Roble]]. La Dra. [[PROVIDER|Irene Casta Villar]] superviso la atencion neonatal. El Dr. [[PROVIDER|Samuel Navas Prado]] documento apoyo respiratorio breve y dificultades iniciales para coordinar la alimentacion. Segun el resumen disponible, la nina egreso con alimentacion oral y seguimiento pediatrico.
+
+La atencion habitual ocurre en [[HOSPITAL|Sistema de Salud Brisa Carolina, Clinica Pediatrica, campus Loma Serena]]. La Dra. [[PROVIDER|Mariela Soto Benavides]] registro episodios de otitis y recomendo una consulta especializada. El Dr. [[PROVIDER|Esteban Rojas Vidal]], de [[HOSPITAL|Red Medica Horizonte Norte, Otorrinolaringologia, campus Arroyo Manso]], coloco tubos de ventilacion el [[DATE|17 de febrero de 2025]]. La familia no reporta complicaciones posteriores.
+
+La audiologa [[PROVIDER|Nora Beltran Siles]] realizo una evaluacion en [[HOSPITAL|Red Medica Horizonte Norte, Audiologia Pediatrica, campus Arroyo Manso]] el [[DATE|21 de agosto de 2026]]. Su informe describe respuestas auditivas suficientes para acceder al habla en condiciones de prueba. La familia no reporta convulsiones, lesiones neurologicas ni medicamentos diarios. El sueno y la alimentacion actuales se describen como estables.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+En casa viven la madre, el padre y el hermano [[SIBLING|Diego Valdivia Paredes]], de [[KEEP|7 anos]]. La abuela, dona [[FAMILY|Lupe]], cuida a la nina algunas tardes. La tia [[FAMILY|Ines Paredes Cordero]] participa en reuniones familiares. La cuidadora [[FAMILY|Marta Quiros Luna]] acompana las rutinas cuando ambos padres trabajan.
+
+La madre trabaja en [[ORG|Cooperativa Textil Sauce Azul]]. El padre trabaja en [[ORG|Talleres Mecanicos Horizonte Verde]]. La familia usa principalmente espanol en casa. El ingles aparece durante canciones, cuentos y actividades escolares. La madre estima una exposicion al espanol de [[KEEP|70%]] y al ingles de [[KEEP|30%]]. Estas cifras describen su estimacion, no una medicion directa.
+
+El hermano alterna idiomas durante el juego. La familia acepta respuestas en cualquiera de los dos idiomas y desea conservar el espanol. No reporta perdida de habilidades asociada con el inicio del ingles. La nina comprende palabras frecuentes en ambos idiomas, pero necesita mas tiempo para organizar respuestas. La evaluacion considero esta distribucion de experiencias.
+
+La nina disfruta jugar con su perro [[PET|Tito]]. En el aula busca a sus companeras [[PEER|Lucia Mendieta Solano]] y [[PEER|Alma Rosales Vega]]. El vecino Mr. [[PERSON|Tom]] participa ocasionalmente en juegos del patio. La madre reporta que estas relaciones motivan la comunicacion, aunque las conversaciones suelen depender de objetos presentes y preguntas concretas.
+
+PROCEDIMIENTOS Y CONDUCTA
+
+La evaluacion incluyo entrevista, revision de documentos, observacion de juego, muestra de lenguaje y tareas estructuradas. La profesional presento materiales en espanol y exploro respuestas en ingles cuando correspondia. Se aceptaron respuestas conceptualmente correctas en cualquiera de los idiomas cuando el procedimiento lo permitia. Las actividades adicionales se interpretaron de forma descriptiva.
+
+[[CHILD|Maria Jose]] entro con su madre y exploro los juguetes. Al inicio necesito [[KEEP|max cues]] para cambiar de actividad. Despues de establecer una rutina visual, participo con [[KEEP|min cues]]. Mostro contacto visual espontaneo, disfrute compartido y variedad de gestos. La atencion disminuyo ante tareas largas, pero mejoro con pausas y elecciones.
+
+RESULTADOS DE PRUEBAS
+
+Se administro [[KEEP|PLS-5 Spanish]] conforme a sus procedimientos bilingues. Los puntajes siguientes corresponden al desempeno observado durante esta sesion. Los intervalos representan un nivel de confianza de [[KEEP|95%]]. Las equivalencias de edad se presentan como datos descriptivos y no como una edad global de desarrollo.
+
+| Prueba o subprueba | Puntuacion estandar | Percentil | Intervalo de confianza | Equivalencia de edad |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprension auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicacion expresiva]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69-82]] | [[KEEP|2;10]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|71-82]] | [[KEEP|3;0]] |
+
+En [[KEEP|Comprension auditiva]], la nina identifico objetos comunes, acciones y partes del cuerpo. Comprendio relaciones espaciales familiares cuando tuvo apoyo visual. Presento dificultad con negacion, conceptos de cantidad y preguntas que exigian integrar informacion. En tareas complementarias siguio instrucciones sencillas en [[KEEP|8/10]] oportunidades y secuencias de dos acciones en [[KEEP|3/8]] oportunidades.
+
+En [[KEEP|Comunicacion expresiva]], nombro objetos y produjo combinaciones breves para pedir, comentar y rechazar. Uso verbos frecuentes, pero omitio elementos gramaticales en varias frases. Las preguntas sobre experiencias pasadas generaron respuestas aisladas. En tareas complementarias amplio una frase despues de un modelo en [[KEEP|6/10]] oportunidades, con [[KEEP|mod cues]]. Las respuestas espontaneas fueron mas cortas.
+
+La muestra de juego incluyo emisiones como "[[KEEP|yo quiero carro]]", "[[KEEP|nina come]]" y "[[KEEP|no cabe aqui]]". Una emision registrada fue "[[KEEP|yo pone [EW] aqui]]". El codigo [[KEEP|[EW]]] identifica una palabra con error en el sistema de transcripcion utilizado. Tambien dijo "quiero a [[FAMILY|Lupe]]" y "[[PET|Tito]] corre" mientras miraba fotografias familiares.
+
+HABLA Y MECANISMO ORAL
+
+La observacion del mecanismo oral mostro simetria facial y movimientos funcionales para las tareas realizadas. No se observaron dificultades evidentes de voz o resonancia. La evaluacion no incluyo un examen instrumental. La nina imito movimientos simples, aunque la tarea requirio demostracion. Estos resultados se consideran junto con la muestra de habla.
+
+Se observaron sustituciones que afectaron consonantes posteriores y grupos consonanticos. Produjo "[[KEEP|tasa]]" para "[[KEEP|casa]]" y "[[KEEP|pato]]" para "[[KEEP|plato]]". La consonante [[KEEP|/k/]] aparecio espontaneamente en [[KEEP|2/10]] intentos y con [[KEEP|mod cues]] en [[KEEP|7/10]]. La produccion de [[KEEP|/g/]] fue variable. Algunas aproximaciones incluyeron [[KEEP|[w]]] en lugar de [[KEEP|/l/]].
+
+La inteligibilidad estimada para una oyente poco familiar fue de [[KEEP|60%]] durante juego contextualizado. La madre comprendio aproximadamente [[KEEP|85%]] de la misma muestra. Estas estimaciones dependen del contexto y del conocimiento del interlocutor. No se observaron suficientes indicadores para concluir apraxia infantil del habla. Se recomienda seguir examinando consistencia, transiciones y prosodia durante tratamiento.
+
+IMPRESIONES
+
+El perfil sugiere dificultades de lenguaje receptivo y expresivo con impacto funcional en las rutinas y la participacion escolar. Los resultados tambien apoyan una dificultad fonologica que reduce la claridad del habla. La interpretacion integra pruebas, observacion y reportes familiares. La diferencia entre experiencias linguisticas no explica por si sola todas las dificultades observadas.
+
+Las fortalezas incluyen interes social, juego simbolico emergente, uso de gestos y respuesta favorable a modelos breves. Las dificultades aumentan cuando la tarea exige lenguaje sin apoyo contextual. La familia identifica necesidades similares en ambos idiomas. Los diagnosticos de trabajo son [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 F80.0]], sujetos a revision con nueva informacion.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar terapia del habla y lenguaje dos veces por semana, con sesiones de treinta minutos. Revisar el progreso despues de doce semanas. Coordinar las metas con la familia y el aula para facilitar el uso de habilidades en actividades habituales.
+
+2. Mantener ambos idiomas. Los adultos deben usar el idioma que les permita ofrecer modelos naturales y completos. Esperar la respuesta de la nina, reconocer sus intentos y ampliar sus frases sin exigir repeticion constante.
+
+3. Integrar estrategias de [[KEEP|Hanen]] y del programa [[KEEP|It Takes Two to Talk]] para apoyar turnos, comentarios y oportunidades de comunicacion. La orientacion familiar incluira demostraciones durante juego y lectura. La profesional ajustara las estrategias a las preferencias familiares.
+
+4. Considerar [[KEEP|Cycles]] para organizar el trabajo sobre patrones fonologicos cuando la muestra ampliada confirme los objetivos. Explorar recursos de [[KEEP|Kaufman]] si facilitan aproximaciones funcionales. El uso de [[KEEP|PROMPT]] requerira una indicacion clinica especifica y una profesional con preparacion correspondiente.
+
+5. Ofrecer apoyos visuales para elecciones, secuencias y reparacion de mensajes. Considerar [[KEEP|PECS]] solamente si una evaluacion individual identifica una necesidad adecuada para ese programa. Los apoyos deben permitir comunicacion inmediata y acompanarse de modelos verbales naturales.
+
+6. Trabajar instrucciones de dos acciones hasta lograr [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Promover frases funcionales de cuatro palabras en [[KEEP|7/10]] oportunidades con [[KEEP|mod cues]]. Practicar [[KEEP|/k/]] en palabras seleccionadas hasta alcanzar [[KEEP|80%]] de precision con [[KEEP|min cues]].
+
+7. Compartir actividades breves con la familia y el personal escolar, previa autorizacion. Registrar ejemplos espontaneos en ambos idiomas y revisar situaciones que generan frustracion. Mantener seguimiento auditivo segun las indicaciones del equipo tratante.
+
+La madre reviso las conclusiones y explico las estrategias principales con sus propias palabras. El padre recibira una copia mediante el canal autorizado. La reunion de seguimiento queda propuesta para [[DATE|01 de diciembre de 2026]] a las [[TIME|3:30 p. m.]]. La familia confirmara la disponibilidad con la recepcion.
+
+Firma: Lic. [[PROVIDER|Daniela Salcedo Rivas]]
+Patologa bilingue del habla y lenguaje pediatrico
+Licencia de Carolina del Norte: [[ID|SLP-764291]]
+Empresa: [[EMPLOYER|Puentes del Habla Pediatrica]]
+Fecha de firma: [[DATE|10 de septiembre de 2026]]

@@ -1,0 +1,65 @@
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+Programa de Intervención Temprana de Carolina del Norte (NC Infant-Toddler Program)
+
+Niño: [[CHILD|Mateo de la Cruz]]
+Fecha de nacimiento: [[DATE|3 de abril de 2024]]
+ID del niño en NC ITP: [[ID|NC-ITP-2024-083517]]
+Número de Medicaid: [[MEDICAID_ID|987654321A]]
+ID de miembro del seguro (BCBS de Carolina del Norte): [[ID|BCBS123456789]]
+Número de autorización de servicios: [[ID|AUTH-20260914-0042]]
+Número de expediente del CDSA: [[ID|EXP-449201]]
+
+Fecha de esta revisión del IFSP: [[DATE|11 de octubre de 2026]]
+Fecha del IFSP anterior: [[DATE|9 de abril de 2026]]
+Lugar de la reunión: oficina del [[AGENCY|CDSA Regional del Piedmont]], [[PLACE|1420 Avenida Roxboro]], [[PLACE|Durham]], [[PLACE|NC 27704]]
+Hora de la reunión: [[TIME|9:30 a.m.]]
+
+Participantes: la madre, [[PARENT|Lucía Rodríguez-Paredes]]; el padre, [[PARENT|Carlos de la Cruz]]; la coordinadora de servicios del [[AGENCY|CDSA Regional del Piedmont]], [[PROVIDER|Brenda Hughes]]; la patóloga del habla y lenguaje bilingüe de [[EMPLOYER|Little Learners Program]], [[PROVIDER|Yolanda Martínez]]; y, por teléfono, la pediatra del niño, la [[PROVIDER|Dra. Ana del Río]], con la ayuda de la intérprete [[PROVIDER|Rosa Delgado]].
+
+INFORMACIÓN DE LA FAMILIA
+
+[[CHILD|Mateo]] vive con sus padres, [[PARENT|Lucía Rodríguez-Paredes]] y [[PARENT|Carlos de la Cruz]], y con su hermana mayor, [[SIBLING|Camila de la Cruz]], en [[PLACE|204 Calle Ash]], [[PLACE|Durham]], [[PLACE|NC 27703]]. La familia puede contactarse al [[PHONE|(919) 555-0148]] o por correo electrónico a [[EMAIL|lrodriguezparedes@example.com]]. Su tía, [[FAMILY|Rosa Fernández]], cuida a [[CHILD|Mateo]] algunas tardes cuando sus padres trabajan. La familia también tiene una niñera de confianza, [[FAMILY|Marisol Gómez]], que ayuda dos días a la semana.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA, EN SUS PROPIAS PALABRAS
+
+La [[PARENT|Sra. Rodríguez-Paredes]] dijo: "Queremos que [[CHILD|Mateo]] pueda decirnos lo que necesita sin frustrarse tanto. En la casa solo entendemos como una de cada diez palabras, y en [[DAYCARE|Little Learners Daycare]] su maestra, la [[TEACHER|Srta. Pérez]], dice lo mismo." Agregó: "También nos preocupa que sus compañeritos no lo entiendan cuando juega. Su compañero, [[PEER|Josh]], a veces se ríe cuando [[CHILD|Mateo]] intenta hablar, y eso lo pone triste." El [[PARENT|Sr. de la Cruz]] añadió: "Queremos herramientas para usar en casa, en español, porque las que nos dieron antes estaban solo en inglés."
+
+RUTINAS DIARIAS
+
+[[CHILD|Mateo]] se despierta alrededor de las [[TIME|7:00 a.m.]] y desayuna con su familia. Su hermana, [[SIBLING|Camila]], lo ayuda a vestirse. A las [[TIME|8:15 a.m.]], su padre lo lleva a [[DAYCARE|Little Learners Daycare]], donde pasa el día con su maestra, la [[TEACHER|Srta. Pérez]], y sus compañeros de clase. Dos tardes por semana, después del cuidado infantil, asiste a sesiones de terapia del habla y lenguaje en [[ORG|Little Learners Program]], un centro distinto a pesar del nombre similar. En casa, juega con su perro, [[PET|Rocky]], y le gusta que su tía [[FAMILY|Rosa]] le lea cuentos antes de dormir, alrededor de las [[TIME|7:30 p.m.]].
+
+OTRAS AGENCIAS Y PROGRAMAS COMUNITARIOS
+
+La familia recibe apoyo nutricional de [[AGENCY|WIC del Condado de Durham]] y participa en actividades de [[AGENCY|Smart Start de Durham]]. También asisten los sábados a un programa bilingüe de cuentos en la [[AGENCY|Biblioteca Pública del Condado de Durham]], en la sucursal de [[PLACE|300 Calle Nolan]]. La familia tuvo contacto anterior con [[AGENCY|DSS del Condado de Durham]] por un trámite de beneficios, ya resuelto.
+
+ANTECEDENTES CLÍNICOS
+
+[[CHILD|Mateo]] fue diagnosticado con [[KEEP|trastorno del sonido del habla]], [[KEEP|F80.2]], por su pediatra, la [[PROVIDER|Dra. Ana del Río]], tras la evaluación inicial del [[DATE|12 de mayo de 2026]]. En esa evaluación, usando el [[KEEP|Goldman-Fristoe Test of Articulation-3]], [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|70]] ([[KEEP|percentil 2]]), con un intervalo de confianza de [[KEEP|64-76]]. Su edad en ese momento era [[KEEP|2;1]]. Produjo /t/ por /k/ y omitió consonantes finales de forma consistente, por ejemplo "[[KEEP|pato]]" como "[[KEEP|pa]]". Los servicios se facturan con los códigos [[KEEP|CPT 92507]] (terapia individual del habla) y [[KEEP|CPT 92523]] (evaluación del habla y lenguaje), ambos autorizados por Medicaid bajo el número indicado arriba.
+
+RESULTADOS (OUTCOMES) DEL IFSP Y PROGRESO EN ESTA REVISIÓN
+
+Resultado	Estrategias	Progreso	Fecha
+[[KEEP|Outcome 1]]: [[CHILD|Mateo]] producirá consonantes iniciales /k/, /g/ y /f/ en palabras de una sílaba con precisión de [[KEEP|80%]] o más en contextos estructurados y de juego.	Modelado y repetición con [[KEEP|mod cues]]; práctica de palabras objetivo como "[[KEEP|gato]]" y "[[KEEP|foca]]"; uso del enfoque [[KEEP|Cycles]] en sesiones individuales y en casa con apoyo de los padres.	[[CHILD|Mateo]] logró [[KEEP|8/10]] ensayos correctos de /g/ en posición inicial durante la sesión de revisión; /k/ sigue emergiendo con [[KEEP|min cues]]. Avance notable desde la línea base de [[KEEP|30%]].	[[DATE|11 de octubre de 2026]]
+[[KEEP|Outcome 2]]: [[CHILD|Mateo]] combinará dos palabras de forma espontánea para pedir, comentar y rechazar, en al menos [[KEEP|5 de 10]] oportunidades observadas.	Uso de [[KEEP|PROMPT]] para apoyar la producción motora del habla junto con expansión de enunciados por parte de la familia y de la [[TEACHER|Srta. Pérez]] en [[DAYCARE|Little Learners Daycare]].	En la sesión de hoy, [[CHILD|Mateo]] combinó dos palabras en [[KEEP|6 de 10]] oportunidades ("más agua", "no quiero"). La madre reporta uso similar en casa. Resultado en vía de cumplirse.	[[DATE|11 de octubre de 2026]]
+[[KEEP|Outcome 3]]: La familia usará estrategias del [[KEEP|Hanen]] (seguir el interés del niño, esperar y dar tiempo) en las rutinas diarias, con autorreporte de uso en al menos [[KEEP|4 de 5]] rutinas por semana.	Entrenamiento a los padres en sesiones de coaching; práctica durante la rutina de la comida y el baño; materiales enviados en español por [[PROVIDER|Yolanda Martínez]].	Los padres reportan uso consistente en [[KEEP|4 de 5]] rutinas evaluadas. La [[PARENT|Sra. Rodríguez-Paredes]] dijo sentirse "mucho más segura" dando tiempo para que [[CHILD|Mateo]] responda.	[[DATE|11 de octubre de 2026]]
+[[KEEP|Outcome 4]]: [[CHILD|Mateo]] interactuará con sus compañeros usando al menos tres palabras inteligibles durante el juego, reduciendo episodios de frustración observados por el personal de [[DAYCARE|Little Learners Daycare]].	Apoyo visual y modelado de turnos entre [[CHILD|Mateo]] y [[PEER|Josh]]; refuerzo positivo por parte de la [[TEACHER|Srta. Pérez]]; práctica de vocabulario social en [[ORG|Little Learners Program]].	Progreso inicial: episodios de frustración disminuyeron de diario a dos o tres veces por semana. Continúa el trabajo de inteligibilidad entre pares. No cumplido todavía.	[[DATE|11 de octubre de 2026]]
+
+RECOMENDACIONES Y PRÓXIMOS PASOS
+
+El equipo acordó continuar los servicios de terapia del habla y lenguaje con una frecuencia de dos sesiones semanales de [[KEEP|30 minutos]] en [[ORG|Little Learners Program]], además de consulta mensual en [[DAYCARE|Little Learners Daycare]]. La coordinadora de servicios, [[PROVIDER|Brenda Hughes]], confirmará la renovación de la autorización de Medicaid antes del [[DATE|9 de enero de 2027]]. La familia solicitó que el próximo informe escrito se envíe también en español al correo [[EMAIL|lrodriguezparedes@example.com]] y que se coordine con un vecino de confianza, [[PERSON|Tomás Johnson]], como contacto de emergencia adicional en caso de que ni los padres ni la tía estén disponibles.
+
+La próxima revisión del IFSP está programada para el [[DATE|9 de abril de 2027]]. Mientras tanto, [[PROVIDER|Yolanda Martínez]] enviará materiales de práctica mensuales a la familia y se mantendrá en contacto con la [[TEACHER|Srta. Pérez]] en [[DAYCARE|Little Learners Daycare]] para asegurar consistencia entre entornos.
+
+Firmas:
+
+__________________________          Fecha: [[DATE|11 de octubre de 2026]]
+[[PARENT|Lucía Rodríguez-Paredes]], madre
+
+__________________________          Fecha: [[DATE|11 de octubre de 2026]]
+[[PARENT|Carlos de la Cruz]], padre
+
+__________________________          Fecha: [[DATE|11 de octubre de 2026]]
+[[PROVIDER|Brenda Hughes]], coordinadora de servicios, [[AGENCY|CDSA Regional del Piedmont]]
+
+__________________________          Fecha: [[DATE|11 de octubre de 2026]]
+[[PROVIDER|Yolanda Martínez]], patóloga del habla y lenguaje, [[EMPLOYER|Little Learners Program]]

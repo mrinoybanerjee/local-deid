@@ -1,0 +1,46 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE / NOTA DIARIA
+
+Employer: [[EMPLOYER|Sendero Claro Pediatric Therapy, PLLC]]
+Clinician: [[PROVIDER|Elena Marisol Varela]], bilingual pediatric speech-language pathologist
+Service date: [[DATE|October 8, 2026]]
+Time: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
+Client: [[CHILD|Mateo Andrés Soler]]; preferred name: [[CHILD|Teo]]
+DOB: [[DATE|August 6, 2022]]; age: [[KEEP|4;2]]
+Record: [[ID|SC-482716]]; Medicaid: [[MEDICAID_ID|684219573Q]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+[X] Home  [ ] Daycare  [ ] Clinic
+[X] Spanish/English  [X] Caregiver present
+Location: [[PLACE|418 Lantern Plum Lane]], [[PLACE|Brindle Creek]], North Carolina [[PLACE|27864]], [[PLACE|Willowmere County]]
+
+S / Subjetivo
+
+Su mamá [[PARENT|Lucía Belén Soler]] reported, “En casa quiere contar todo, pero se frustra cuando no entendemos.” Father [[PARENT|Daniel Esteban Soler]] joined briefly before leaving for [[ORG|Copper Finch Packaging]]. Abuela [[FAMILY|Guadalupe Inés Serrano]], called [[FAMILY|Lupita]], attended; doña [[FAMILY|Lupe]] practiced waiting before offering help.
+
+Brother [[SIBLING|Jesús Rafael Soler]], nickname [[SIBLING|Chuy]], shared the toy garage. Family reported that pediatrician Dr. [[PROVIDER|Nora Celeste Mena]] requested continued therapy after a visit to [[HOSPITAL|Juniper Hollow Children’s Hospital]]. Birth history supplied today: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.12 kg]], Apgar scores [[KEEP|8 and 9]].
+
+O / Objetivo
+
+[X] Play routines  [X] Parent coaching  [X] Speech practice
+[X] Visual supports  [ ] Feeding intervention
+
+Prior [[KEEP|PLS-5]] results dated [[DATE|September 17, 2026]]: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age-equivalent range [[KEEP|2;6–3;0]]. These results provided context; no standardized testing occurred today.
+
+Using [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]], caregiver followed the child’s lead during pretend cooking. [[CHILD|Mateo]] requested with two-word combinations in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Productions included “[[KEEP|más sopa]],” “[[KEEP|yo quiero]],” and “[[KEEP|abre aquí]].”
+
+We used [[KEEP|PROMPT]] supports and selected [[KEEP|Kaufman]] practice for movement sequences. A brief [[KEEP|Cycles]] activity addressed /[[KEEP|k]]/ placement using targets “[[KEEP|casa]]” and “[[KEEP|copa]].” Production accuracy was [[KEEP|60%]] with [[KEEP|max cues]]. The child substituted [[KEEP|[w]]] during an exploratory [[KEEP|/ɾ/]] probe. [[KEEP|PECS]] supported requesting in [[KEEP|3 of 5]] trials with [[KEEP|min cues]]. Language sampling included [[KEEP|[EW]]].
+
+During play, [[CHILD|Teo]] said, “[[PET|Nube]] corre,” referring to the family dog. Classroom photos showed peers [[PEER|José Emiliano Dávila]], called [[PEER|Pepe]], and [[PEER|Juan Nicolás Prado]], called [[PEER|Juanito]].
+
+A / Análisis
+
+Participation improved when adults paused and offered choices. Spanish remained the stronger language for spontaneous requests. Miss [[TEACHER|Ana]] at [[DAYCARE|Little Lantern Nest]] and la maestra [[TEACHER|Carmen]] at [[SCHOOL|Willow Kite Preschool]] reportedly use similar visual supports. Driver Mr. [[PERSON|Tom]] assists with transportation.
+
+P / Plan
+
+Continue IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Practice short routines daily, con tiempo para responder. Coordinator [[PROVIDER|Irene Paz Leal]] at [[AGENCY|Willowmere CDSA]] will receive the caregiver’s scheduling request.
+
+[[EMPLOYER|Sendero Claro]] follow-up: [[DATE|October 15, 2026]], [[TIME|9:15 a.m.]]
+[[EMPLOYER|SCPT]] contact: [[PHONE|(919) 555-0146]]
+Email: [[EMAIL|elena@senderoclaro.example]]
+Resources: [[URL|https://senderoclaro.example/familias]]

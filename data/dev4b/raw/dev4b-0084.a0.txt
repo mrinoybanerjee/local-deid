@@ -1,0 +1,101 @@
+PIEDMONT PEDIATRIC THERAPY ASSOCIATES, PLLC
+[[PLACE|142 Willow Bend Lane, Suite 204]], [[PLACE|Cary]], NC [[PLACE|27511]]
+Tel: [[PHONE|(919) 555-0148]] | Fax: [[PHONE|(919) 555-0149]]
+Informe de Evaluación del Habla y Lenguaje / Speech-Language Evaluation Report
+
+Client/Cliente: [[CHILD|Mateo del Río]]
+Date of Birth/Fecha de Nacimiento: [[DATE|February 14, 2022]]
+Chronological Age/Edad: [[KEEP|4;2]]
+Medicaid ID: [[MEDICAID_ID|AB482913650C]]
+Record #: [[ID|LDR-2026-0417]]
+Evaluation Date/Fecha de Evaluación: [[DATE|April 17, 2026]]
+Report Date: [[DATE|April 24, 2026]]
+Parent/Guardian: [[PARENT|Ana Fernández-Soto]] (madre), [[PARENT|Carlos del Río]] (padre)
+Clinician/Clínica: [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP
+
+Setting of Evaluation:
+[X] Home  [ ] Daycare  [ ] Clinic
+Referral Source:
+[ ] Pediatrician  [X] Early Intervention Service Coordinator  [ ] Parent Self-Referral
+Interpreter Used:
+[ ] Yes  [X] No (bilingual clinician conducted session in English and Spanish)
+
+Reason for Referral / Motivo de Consulta
+
+[[CHILD|Mateo]] was referred for a comprehensive speech and language evaluation by his service coordinator, [[PROVIDER|Marisol Vega]], of the [[AGENCY|Centro Regional de Desarrollo y Servicios para la Primera Infancia del Piedmont (CDSPI)]], following a concern raised at his [[KEEP|4;2]] well-child visit on [[DATE|March 3, 2026]] by his pediatrician, [[PROVIDER|Dr. Patel]]. His mother, [[PARENT|Ana Fernández-Soto]], reported, "No le entiendo casi nada de lo que dice, and his cousins can't understand him either." She noted that [[CHILD|Mateo]] mixes English and Spanish within the same sentence and frequently gestures instead of speaking when frustrated. [[AGENCY|CDSPI]] opened a case for [[CHILD|Mateo]] on [[DATE|January 9, 2026]] under IFSP outcome [[KEEP|#2]], targeting functional communication across home and daycare settings.
+
+Background / Antecedentes
+
+[[CHILD|Mateo]] lives with his parents, [[PARENT|Ana Fernández-Soto]] and [[PARENT|Carlos del Río]], and his older brother, [[SIBLING|Diego]], age six, in [[PLACE|Cary]]. His maternal grandmother, [[FAMILY|Rosa Fernández]], lives nearby and provides afternoon childcare three days a week, picking [[CHILD|Mateo]] up from daycare around [[TIME|3:00 PM]]. The family also has a dog, [[PET|Luna]], whom [[CHILD|Mateo]] is reportedly very attached to; his mother shared that he once said "[[KEEP|Luna]] agua" when the dog was thirsty, combining a target noun with a two-word utterance.
+
+[[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Bilingual Daycare]] on weekdays from [[TIME|8:00 AM]] to [[TIME|3:00 PM]]. His lead teacher, [[TEACHER|Ms. Ortiz]], reports that he plays well alongside peers but rarely initiates verbal exchanges. His classroom aide, [[TEACHER|Mr. Fuentes]], echoed this, noting that [[CHILD|Mateo]] prefers parallel play and will point rather than ask for items. One classmate, [[PEER|Noah]], has reportedly taken a liking to [[CHILD|Mateo]] and often tries to include him in group games, though [[CHILD|Mateo]]'s limited verbal output makes turn-taking difficult.
+
+Birth and Medical History / Historia Médica y de Nacimiento
+
+[[CHILD|Mateo]] was born at [[KEEP|39 weeks]] gestation via uncomplicated vaginal delivery at [[HOSPITAL|WakeMed Cary Hospital]]. Birth weight was [[KEEP|7 lbs 4 oz]]; Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. His mother reported no complications during pregnancy or delivery. [[CHILD|Mateo]] passed his newborn hearing screening and has had no subsequent hearing concerns; a tympanometry performed by [[PROVIDER|Dr. Patel]]'s office on [[DATE|November 12, 2025]] was within normal limits bilaterally. He has had three ear infections since birth, the most recent resolving without need for tubes.
+
+Developmental milestones were reportedly met within normal limits for gross and fine motor skills; [[CHILD|Mateo]] walked at [[KEEP|13 months]]. His mother noted first words emerged around [[KEEP|18 months]] but that vocabulary growth has been slower than that of his brother, [[SIBLING|Diego]], at the same age. No history of seizures, head trauma, or significant illness was reported. Vision was last screened at [[KEEP|4;0]] and was within normal limits.
+
+Family and Language History / Historia Familiar y de Lenguaje
+
+The home language environment is mixed. [[PARENT|Ana Fernández-Soto]] reported that she and [[FAMILY|Rosa Fernández]] speak primarily Spanish with [[CHILD|Mateo]], while [[PARENT|Carlos del Río]] and [[SIBLING|Diego]] often speak English, particularly during homework or screen time. [[PARENT|Ana Fernández-Soto]] estimated the home language exposure as roughly [[KEEP|60%]] Spanish and [[KEEP|40%]] English, consistent with simultaneous bilingual exposure since birth. She reported no family history of speech or language disorders on her side, though she mentioned that her own brother "tardó en hablar pero se le resolvió solo" (was a late talker but resolved on his own). [[PARENT|Carlos del Río]] reported no known family history of communication disorders.
+
+[[PARENT|Ana Fernández-Soto]] described [[CHILD|Mateo]]'s communication at home: "Dice palabras sueltas, pero no hace oraciones. He'll say 'quiero jugo' but then just points for everything else." She reported that [[CHILD|Mateo]] understands both languages well but produces far less than he comprehends, and that he sometimes mixes languages mid-sentence, such as saying "no quiero that one." Both parents expressed concern that his limited intelligibility is affecting his confidence, noting he has started to whine or point rather than attempt words he has struggled with before.
+
+Behavioral Observations / Observaciones Conductuales
+
+[[CHILD|Mateo]] presented as a friendly, engaged child who separated easily from his mother and transitioned into the evaluation room without difficulty. Eye contact and joint attention were within normal limits. Play skills were age-appropriate; he engaged in symbolic play with a toy kitchen set, feeding a stuffed rabbit and saying "[[KEEP|más]]" when requesting more pretend food. Attention to task was adequate across the session, with brief redirection needed during the final ten minutes.
+
+[[CHILD|Mateo]]'s speech was characterized by multiple sound substitutions and omissions that reduced overall intelligibility to unfamiliar listeners. In connected speech, approximately [[KEEP|60%]] of his utterances were intelligible to this examiner, who is a fluent Spanish-English bilingual listener; his mother estimated intelligibility to unfamiliar adults at closer to [[KEEP|30-40%]].
+
+Assessment Results / Resultados de la Evaluación
+
+The following standardized and informal measures were administered in both English and Spanish, as appropriate, using the family's reported dominant language for each task.
+
+Measure                                  Domain                          Score                    Percentile
+[[KEEP|Preschool Language Scales-5 (PLS-5) Spanish Edition]]   [[KEEP|Auditory Comprehension]]       [[KEEP|Standard Score 82]]       [[KEEP|12th percentile]]
+[[KEEP|PLS-5 Spanish Edition]]                            [[KEEP|Expressive Communication]]      [[KEEP|Standard Score 71]]       [[KEEP|3rd percentile]]
+[[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]  [[KEEP|Sounds-in-Words]]              [[KEEP|Standard Score 68]]       [[KEEP|2nd percentile]]
+[[KEEP|Khan-Lewis Phonological Analysis-3]]               [[KEEP|Phonological Processes]]       [[KEEP|Standard Score 65]]       [[KEEP|1st percentile]]
+
+[[CHILD|Mateo]]'s expressive and receptive scores on the [[KEEP|PLS-5]] fell within the [[KEEP|moderately to severely delayed range]], with a notable gap favoring comprehension over production, consistent with his parents' report. On the [[KEEP|GFTA-3]], he demonstrated consistent phonological processes including final consonant deletion, cluster reduction, and fronting of velars, producing [[KEEP|/t/]] for [[KEEP|/k/]] and [[KEEP|/d/]] for [[KEEP|/g/]] across word positions. For example, he produced "[[KEEP|tat]]" for the target word "[[KEEP|cat]]" and "[[KEEP|do]]" for "[[KEEP|go]]."
+
+A Spanish phonological probe revealed similar patterns, with consistent deletion of syllable-final consonants and reduced accuracy producing the tap [[KEEP|/ɾ/]] in medial position, as in "[[KEEP|pe-o]]" for "[[KEEP|perro]]." Stimulability testing showed that with [[KEEP|mod cues]], [[CHILD|Mateo]] could approximate [[KEEP|/k/]] in isolation with [[KEEP|8/10]] accuracy, but this did not generalize to the word level without [[KEEP|max cues]], where accuracy dropped to [[KEEP|30%]]. On a 20-item single-word articulation probe administered informally in English, he achieved [[KEEP|8/10]] accuracy on word-initial sounds and [[KEEP|3/10]] on word-final sounds, an overall accuracy of approximately [[KEEP|55%]] across positions.
+
+A language sample was collected during structured play and transcribed using SALT conventions. Mean length of utterance was [[KEEP|1.4 morphemes]], below expectations for his age; several utterances were coded [[KEEP|[EW]]] for unintelligible word-level productions. His mother reported that her own estimate of his functional vocabulary is roughly [[KEEP|80 words]] across both languages combined, well below typical expectations for a bilingual four-year-old.
+
+Session Schedule / Horario de Sesiones
+
+Day         Start Time        Stop Time         Location
+Monday      [[TIME|9:00 AM]]       [[TIME|9:30 AM]]        Clinic – Room 2, Piedmont Pediatric Therapy Associates
+Wednesday   [[TIME|3:30 PM]]       [[TIME|4:00 PM]]        [[DAYCARE|Little Sprouts Bilingual Daycare]], consultation room
+Friday      [[TIME|9:00 AM]]       [[TIME|9:30 AM]]        Clinic – Room 2, Piedmont Pediatric Therapy Associates
+
+Sessions will be billed under CPT code [[KEEP|92507]] (individual speech-language treatment) following this initial evaluation, billed under CPT code [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression). Diagnosis coding will reflect ICD-10 [[KEEP|F80.2]] (mixed receptive-expressive language disorder).
+
+Impressions / Impresiones
+
+Based on standardized testing, parent and teacher report, and clinical observation, [[CHILD|Mateo]] presents with a moderate-to-severe mixed receptive-expressive language disorder (ICD-10 [[KEEP|F80.2]]) with a co-occurring speech sound disorder affecting both his English and Spanish phonological systems. His difficulties appear consistent across both languages, which supports a true disorder rather than a typical bilingual language difference. His receptive skills, while also delayed, remain relatively stronger than his expressive skills, suggesting he understands significantly more language than he can produce.
+
+[[CHILD|Mateo]]'s reduced intelligibility, estimated at [[KEEP|30-40%]] with unfamiliar listeners, is likely contributing to his increasing frustration and reliance on gesture rather than verbal attempts, as described by both [[PARENT|Ana Fernández-Soto]] and his teacher, [[TEACHER|Ms. Ortiz]]. His strong play skills, joint attention, and social engagement with peers such as [[PEER|Noah]] are notable strengths that should support therapy progress.
+
+Diagnostic impression supports continued eligibility for speech-language services through [[AGENCY|CDSPI]] under his existing IFSP, as well as initiation of direct speech-language therapy through this clinic to address both expressive language and speech sound production in both languages.
+
+Recommendations / Recomendaciones
+
+1. Individual speech-language therapy, twice weekly for [[KEEP|30 minutes]] per session, focusing on phonological awareness, word-final consonant production, and expansion of expressive vocabulary and sentence structure in both English and Spanish.
+2. Continued home language stimulation strategies, coached for [[PARENT|Ana Fernández-Soto]] and [[PARENT|Carlos del Río]], using a [[KEEP|Hanen]]-based "It Takes Two to Talk" framework adapted bilingually.
+3. Collaboration with [[DAYCARE|Little Sprouts Bilingual Daycare]] staff, including [[TEACHER|Ms. Ortiz]] and [[TEACHER|Mr. Fuentes]], to reinforce target sounds and encourage verbal requesting during classroom routines.
+4. Coordination with [[AGENCY|CDSPI]] service coordinator [[PROVIDER|Marisol Vega]] regarding updated IFSP outcomes and frequency of services.
+5. Referral to occupational therapy, [[PROVIDER|Jennifer Boyd]], OTR/L, for a brief consultation regarding oral-motor function and feeding, given mild reports of picky eating that may warrant monitoring.
+6. Re-evaluation in [[KEEP|6 months]] to monitor progress and adjust the treatment plan, including repeat administration of the [[KEEP|PLS-5]] Spanish Edition.
+7. Follow-up with pediatrician [[PROVIDER|Dr. Patel]] to rule out any additional contributing medical factors, including recurrent otitis media history.
+
+[[CHILD|Mateo]]'s family was counseled extensively on the distinction between bilingual language difference and true language disorder, and both parents verbalized understanding and expressed strong motivation to participate in home carryover activities. [[PARENT|Ana Fernández-Soto]] specifically requested that materials be provided in Spanish when possible, which this clinician will coordinate with the family moving forward.
+
+This evaluation and report were completed by [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, bilingual speech-language pathologist, licensed in the state of North Carolina. Questions regarding this report may be directed to [[PHONE|(919) 555-0148]] or [[EMAIL|ljimenez@piedmontpediatricspeech.com]].
+
+_________________________________
+[[PROVIDER|Laura Jiménez]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Therapy Associates, PLLC]]
+Report completed: [[DATE|April 24, 2026]]

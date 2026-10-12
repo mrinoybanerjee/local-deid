@@ -1,0 +1,38 @@
+DAILY SESSION NOTE – Speech-Language Therapy
+
+Client: [[CHILD|María José Fernández Ortiz]]  DOB: [[DATE|04/12/2022]]  Age: [[KEEP|4;6]]
+NC ITP Child ID: [[ID|NCI-77291-MJ]]
+Medicaid ID: [[MEDICAID_ID|907432581B]]
+Insurance Member ID: [[ID|BCBSNC-55820174]]
+Authorization #: [[ID|AUTH-2026-00389]]
+
+CDSA: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Piedmont Central]] ([[AGENCY|CDSA Piedmont Central]])
+Service Coordinator Agency: [[AGENCY|Coordinación de Servicios Infantiles de Alamance y Condados Vecinos]] ([[AGENCY|CSIAC]])
+Service Coordinator: [[PROVIDER|Marisol Peña]]
+
+Session Date: [[DATE|October 9, 2026]]  Start: [[TIME|9:30 AM]]  Stop: [[TIME|10:15 AM]]
+
+Setting:  [X] Home  [ ] Daycare  [ ] Clinic  [ ] Teletherapy
+Language:  [X] English  [X] Spanish  [ ] Interpreter used
+
+Weekly Schedule:
+| Day | Start | Stop | Location |
+|-----|-------|------|----------|
+| Monday | [[TIME|9:30 AM]] | [[TIME|10:15 AM]] | Home, [[PLACE|118 Willowbrook Lane, Burlington, NC 27215]] |
+| Wednesday | [[TIME|2:00 PM]] | [[TIME|2:45 PM]] | [[DAYCARE|Little Sprouts Early Learning Center]] |
+| Friday | [[TIME|9:30 AM]] | [[TIME|10:15 AM]] | Home |
+
+Background: [[CHILD|María José]] was born at [[HOSPITAL|Alamance Regional Medical Center]] at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|6 lb 11 oz]], Apgar scores [[KEEP|8]] and [[KEEP|9]].
+
+S: Mamá [[PARENT|Lucía Fernández Ortiz]] reports [[CHILD|María José]] slept poorly and refused breakfast. Father [[PARENT|Héctor Fernández]] was traveling for work at [[ORG|Piedmont Regional Medical Center]]. Older brother [[SIBLING|Emilio]] stayed home sick today. Grandmother [[FAMILY|Rosa Ortiz]] was present for part of the session and helped redirect [[CHILD|María José]] back to the table twice.
+
+O: Session occurred in the living room with [[PET|Canela]] (family dog) initially present; the dog was moved outside due to distraction. Targeted /[[KEEP|s]]/ blends using [[KEEP|PROMPT]] cueing. [[CHILD|María José]] produced "[[KEEP|sol]]" with [[KEEP|min cues]] [[KEEP|7/10]] trials and "[[KEEP|estrella]]" with [[KEEP|mod cues]] [[KEEP|4/10]]. Administered [[KEEP|PLS-5 Spanish]] Auditory Comprehension subtest; standard score [[KEEP|82]] ([[KEEP|73-91]] CI), [[KEEP|13th percentile]]. Compared to prior [[KEEP|CELF Preschool-2]] results, age equivalent [[KEEP|3;4]].
+
+A: [[CHILD|María José]] continues to show mild-moderate delay in expressive phonology, consistent with IFSP Outcome [[KEEP|2]]. Family reports improved carryover at [[DAYCARE|Little Sprouts Early Learning Center]] per teacher [[TEACHER|Ms. Dawn Carrier]], who noted [[CHILD|María José]] now imitates classmate [[PEER|Sofia]] during circle time without prompting.
+
+P: Continue twice-weekly direct therapy and weekly consult. [[PROVIDER|Marisol Peña]] will schedule the six-month IFSP review with the team, including interpreter [[PROVIDER|Gabriela Nuñez]], before [[DATE|November 15, 2026]].
+
+Billed: [[KEEP|CPT 92507]], [[KEEP|modifier GN]].
+
+Clinician: [[PROVIDER|Dana Whitfield, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]
+Contact: [[PHONE|(336) 555-0187]]  [[EMAIL|dwhitfield@carolinapedspeech.com]]

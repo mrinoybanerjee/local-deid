@@ -1,0 +1,28 @@
+DAILY SPEECH-LANGUAGE SESSION / Nota diaria
+Employer: [[EMPLOYER|Carolina Puentes Pediatric Therapy, PLLC]]
+Clinician: [[PROVIDER|Maribel Quintera]], bilingual pediatric speech-language pathologist
+Client: [[CHILD|Eliana Valcera]]; preferred name: [[CHILD|Nani]]
+DOB: [[DATE|August 18, 2022]]; age: [[KEEP|4;2]]
+Service: [[DATE|October 22, 2026]], [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Record: [[ID|CP-482731]]; Medicaid: [[MEDICAID_ID|583027164Q]]
+Location: [[PLACE|284 Lanternberry Lane]], [[PLACE|Brindleford]], North Carolina [[PLACE|27863]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+[X] Spanish  [X] English
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+S / Subjetivo
+Present: mamá [[PARENT|Lidia Valcera]] and sister [[SIBLING|Sol]]. Mom works nights at [[ORG|Lanternberry Textile Services]] as a packing technician. She reported, “Cuando llego cansada, ella todavía quiere contarme todo.” Dad [[PARENT|Tomás Valcera]] joined briefly by telephone. Family attends the story circle at [[ORG|Brindleford Community Reading House]]. Aunt [[FAMILY|Inés Calvero]] provides transportation. Mom shared that [[CHILD|Eliana]] now greets friend [[PEER|Dario]] at [[DAYCARE|Little Acorn Harbor Childcare]]. Ms. [[TEACHER|Belén Morca]] reportedly notices longer requests during snack. Family requested activities that fit the morning routine after Mom’s shift.
+
+O / Objetivo
+[X] Play-based language  [X] Speech sounds  [X] Caregiver coaching
+At [[EMPLOYER|Carolina Puentes]], today’s activities used [[KEEP|Hanen]] strategies and a brief [[KEEP|Cycles]] activity. During pretend cooking, [[CHILD|Nani]] produced [[KEEP|"más sopa"]], [[KEEP|"I want spoon"]], and [[KEEP|"tasa"]] for target [[KEEP|"casa"]]. Initial [[KEEP|/k/]] occurred in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], fading to [[KEEP|min cues]]. Independent requests occurred in [[KEEP|60%]] of opportunities. The child followed related directions in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Spanish [[KEEP|/ɾ/]] was observed informally; no direct drill occurred. Pet dog [[PET|Miga]] briefly interrupted play, and the clinician redirected attention using a visual choice board.
+
+Previous fictional evaluation dated [[DATE|September 30, 2026]] documented [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|84]], percentile [[KEEP|14]], age equivalent [[KEEP|3;6]], and confidence interval [[KEEP|78–90]]. These results were reviewed as background; no standardized testing occurred today.
+
+A / Análisis
+[[CHILD|E.V.]] showed improved participation when mamá modeled language during familiar play. English and Spanish requests served similar functions, aunque Spanish responses appeared more spontaneous with family. Variable productions require continued observation across both languages. Code-switching alone does not indicate impairment. Mom accurately demonstrated waiting, expanding, and offering choices. Fatigue after overnight work may limit practice duration; short routines appear feasible. The sister’s participation supported turn-taking without replacing the child’s opportunities.
+
+P / Plan
+Continue services through [[EMPLOYER|CPPT]]. Address IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]] through snack preparation and shared books. Practice targets [[KEEP|"casa"]] and [[KEEP|"quiero más"]] using [[KEEP|min cues]] when possible. Caregiver will record examples without correcting every production. Next visit: [[DATE|October 29, 2026]] at [[TIME|9:15 AM]]. Service coordinator [[PROVIDER|Nora Velcín]] at [[AGENCY|Brindleford Family Development Office]] will receive the routine summary after documented consent. Contact on file: [[PHONE|919-555-0148]]; [[EMAIL|lidia.valcera@example.com]]. Home practice resource: [[URL|https://cppt.example/familias]].
+[X] Caregiver understood  [X] Plan reviewed  [ ] Referral needed
+Signed: [[PROVIDER|Maribel Quintera]]

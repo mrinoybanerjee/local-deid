@@ -1,0 +1,12 @@
+Client: [[CHILD|Mateo Vásquez]]  DOB: [[DATE|04/12/2021]]  Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]  Medicaid ID: [[MEDICAID_ID|987654321A]]  Record ID: [[ID|LD-2291]]
+Provider: [[PROVIDER|Hannah Reyes]], M.S., CCC-SLP  Employer: [[EMPLOYER|Triangle Pediatric Speech Partners]]
+CPT: [[KEEP|92507]]  ICD-10: [[KEEP|F80.1]]  Location: home visit, [[PLACE|412 Birchwood Lane]], [[PLACE|Garner]], [[PLACE|Wake County]], [[PLACE|27529]]
+
+S: Mother [[PARENT|Lucía Vásquez]] reported [[CHILD|Mateo]] ([[KEEP|4;2]]) had a good week overall. She works the overnight shift at [[ORG|Sunshine Cleaning Services]], and the chart also lists it the way the family says it at home, la compañía de limpieza [[ORG|Sunshine]], since she cleans offices while [[CHILD|Mateo]] stays with his grandmother. Father [[PARENT|Jorge Vásquez]] works at [[ORG|Palacios Construction]]; in Spanish word order the family calls it la compañía de construcción [[ORG|Palacios]]. He was not present today. Older sister [[SIBLING|Camila]] ([[KEEP|7]] yrs) helps translate at home. Mother noted [[CHILD|Mateo]] still attends Wednesday story time through the [[ORG|Garner Branch Library]]'s bilingual program and Sunday services at [[ORG|Iglesia Bautista Nueva Vida]]. Babysitter doña [[FAMILY|Lupe]] says he plays well with classmate [[PEER|D.T.]] at the [[ORG|Garner Community Center]] playgroup on Saturdays.
+
+O: Administered portions of [[KEEP|CELF-5]], Expressive Language subtest; standard score [[KEEP|78]] ([[KEEP|7th percentile]]). [[CHILD|Mateo]] produced [[KEEP|/k/]] correctly in [[KEEP|8/10]] trials, saying "[[KEEP|cookie]]" clearly and unprompted. On [[KEEP|PLS-5]] Auditory Comprehension, age equivalent [[KEEP|3;1]], confidence interval [[KEEP|73-83]]. Used [[KEEP|PROMPT]] cueing; mod cues needed for [[KEEP|/r/]] in target word "[[KEEP|rabbit]]." Via interpreter [[PROVIDER|Ana Ortiz]], la maestra [[TEACHER|Carmen]] reported [[CHILD|Mateo]] is more verbal in class and was overheard calling for his friend "[[PEER|Noah]]" by name during centers.
+
+A: Steady progress toward [[KEEP|IFSP Outcome 2]]; stimulability for [[KEEP|/r/]] improving with [[KEEP|PROMPT]] and continued [[KEEP|mod cues]].
+
+P: Continue biweekly sessions. Coordinate with [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|Mr. Davis]] regarding the annual IFSP review due [[DATE|December 15, 2026]]. Family may also be referred to [[AGENCY|Smart Start]] for additional playgroup hours. Contact: [[PHONE|919-555-0148]], [[EMAIL|hreyes@trianglepeds.com]].

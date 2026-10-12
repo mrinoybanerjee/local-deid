@@ -1,0 +1,31 @@
+Daily Pediatric Speech-Language Therapy Report
+
+1. Administrative Information  
+1.1 Service Details
+
+Service date: [[DATE|October 10, 2026]]. Client: [[CHILD|Mateo de la Cruz]], age [[KEEP|4;2]]. Record: [[ID|SLP-726491]]. Medicaid: [[MEDICAID_ID|482761093Q]]. Session began at [[TIME|9:05 a.m.]] and ended at [[TIME|9:35 a.m.]] at [[SCHOOL|Birch Lantern Preschool]], [[PLACE|47 Lantern Orchard Lane]], [[PLACE|Pinewillow]], North Carolina, [[PLACE|27589]].
+
+2. Subjective Report  
+2.1 Caregiver and Classroom Input
+
+Mother [[PARENT|Lucía de la Cruz]] reported clearer requests during breakfast at [[TIME|7:15 a.m.]]. Brother [[SIBLING|Nicolás de la Cruz]] modeled turn-taking. Cousins [[FAMILY|Inés Calderón]] and [[FAMILY|Pablo Calderón]] visited yesterday. Babysitter [[FAMILY|Dora Bennett]] described successful requests involving the family dog, [[PET|Mochi]]. Teacher Ms. [[TEACHER|Amara Wells]] reported cooperative participation with classmates [[PEER|Theo Mercer]] and [[PEER|Zara Finch]].
+
+3. Objective Findings  
+3.1 Procedures and Performance
+
+The bilingual clinician provided English instruction with Spanish clarification. Treatment addressed [[KEEP|/k/]], requests, and sequencing. The client produced [[KEEP|"key"]] accurately in [[KEEP|8/10]] trials with [[KEEP|mod cues]], improving to [[KEEP|90%]] with direct modeling. Spontaneous [[KEEP|"tat"]] replaced the target [[KEEP|"cat"]]. One conversational substitution used [[KEEP|[w]]]. Language sampling included [[KEEP|[EW]]]. Prior [[KEEP|PLS-5]] results included a standard score of [[KEEP|82]] and percentile of [[KEEP|12]]. Today's activities did not constitute standardized reassessment. Visual supports and movement breaks maintained engagement across structured activities. No adverse response occurred.
+
+4. Assessment  
+4.1 Clinical Interpretation
+
+Performance supported continued intervention for [[KEEP|ICD-10 F80.0]]. Accuracy decreased during spontaneous speech. Shared play supported functional requests, although verbal models remained necessary. English and Spanish observations informed interpretation without treating language difference as impairment.
+
+5. Plan  
+5.1 Follow-Up
+
+Continue [[KEEP|CPT 92507]] sessions. Practice five target words before dinner at [[TIME|6:10 p.m.]]. Review progress on [[DATE|October 17, 2026]]. Contact: [[PHONE|919-555-0146]]; [[EMAIL|care@lanternspeech.example.test]].
+
+6. Authentication  
+6.1 Clinician
+
+Signed by [[PROVIDER|Elena Varela-Soto]], bilingual pediatric speech-language pathologist, [[EMPLOYER|Lantern Speech Partners]], at [[TIME|10:00 a.m.]].

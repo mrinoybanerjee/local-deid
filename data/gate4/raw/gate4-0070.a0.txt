@@ -1,0 +1,31 @@
+Documento: Nota diaria de terapia del habla y lenguaje
+Paciente: [[CHILD|Nicolás Prado Salcedo]]
+Nacimiento: [[DATE|9 de agosto de 2022]]
+Edad: [[KEEP|4;2]]
+Fecha del servicio: [[DATE|9 de octubre de 2026]]
+Horario: [[TIME|09:10]] a [[TIME|09:50]]
+Expediente: [[ID|SLP-482716]]
+Medicaid: [[MEDICAID_ID|638274915Q]]
+Profesional: [[PROVIDER|Elena Montalva]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Lenguaje Puente Azul]]
+Lugar: [[PLACE|Vallebrisa]], Carolina del Norte
+Domicilio: [[PLACE|284 Calle Junco]], [[PLACE|Vallebrisa]], [[PLACE|27597]]
+Contacto materno: [[PHONE|919-555-0146]]
+Correo: [[EMAIL|irene.salcedo@example.com]]
+Facturación: CPT [[KEEP|92507]]; modificador [[KEEP|GN]]
+Diagnóstico: ICD-10 [[KEEP|F80.2]]
+Distrito escolar: [[SCHOOL|Distrito Escolar de Vallebrisa]]
+Escuela: [[SCHOOL|Escuela Primaria Arroyo de Papel]]
+Docente: maestra [[TEACHER|Dalia Cerezo]]
+
+Subjetivo:
+La mamá, [[PARENT|Irene Salcedo]], acompañó a [[CHILD|Nicolás]] y describió más intentos de pedir ayuda durante la cena. Trabaja en [[ORG|MTR]] por la mañana y en [[ORG|Panadería Nube Clara]] por la tarde. Los horarios limitan la práctica entre semana. La hermana [[SIBLING|Luz]] comparte libros; la tía [[FAMILY|Paz Salcedo]] cuida al niño después de clases. La familia usa español en casa e inglés en algunas actividades escolares. La madre informó que el compañero [[PEER|Darío Lemos]] facilita su participación durante los juegos. No informó cambios de salud.
+
+Objetivo:
+Se realizó intervención individual mediante juego, lectura compartida y estrategias de [[KEEP|Hanen]]. Con [[KEEP|claves moderadas]], produjo solicitudes de dos palabras en [[KEEP|8/10]] oportunidades. Nombró acciones en [[KEEP|3 de 5]] ensayos con [[KEEP|claves mínimas]]. La precisión de /k/ fue [[KEEP|60%]]; se observó sustitución por [[KEEP|[t]]]. Se trabajaron los objetivos [[KEEP|"casa"]] y [[KEEP|"quiero agua"]]. Produjo [[KEEP|"tasa"]] y [[KEEP|"más agua"]]. Al mirar una fotografía dijo: “[[PET|Tilo]] corre”. La profesional modeló expansión verbal sin exigir repetición inmediata. Se incorporaron pausas y elecciones visuales. La madre practicó dos intercambios y explicó la estrategia con sus propias palabras.
+
+Análisis:
+Los resultados previos de [[KEEP|PLS-5]], subprueba [[KEEP|Comprensión auditiva]], mostraron puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y equivalencia de edad [[KEEP|2;6–3;0]]. Estos datos corresponden a la evaluación, no a una nueva administración. Hoy aumentó la iniciativa comunicativa, aunque persisten dificultades para combinar palabras espontáneamente. El desempeño varió con la atención y el apoyo visual. Se documenta progreso hacia la meta [[KEEP|2]] del IFSP.
+
+Plan:
+Continuar sesiones semanales y practicar solicitudes durante la merienda. La coordinadora [[PROVIDER|Marina Tejeda]] integra servicios con [[AGENCY|CDSA Sendero Infantil]], [[AGENCY|DSS Horizonte Familiar]], [[AGENCY|WIC Semilla Clara]], [[AGENCY|Smart Start Valle de Cometas]] y [[AGENCY|Early Head Start Jardín del Alba]]. La familia recibió una hoja de práctica en español. Revisar avances el [[DATE|16 de octubre de 2026]] y ajustar las claves según la respuesta.

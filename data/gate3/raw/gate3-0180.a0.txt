@@ -1,0 +1,12 @@
+Asunto: Resumen para la familia  Fecha: [[DATE|11 de octubre de 2026]]  Idioma: Español
+Menor: [[CHILD|Samuel Ríos]]  Edad: [[KEEP|4;2]]  Madre: [[PARENT|Elena Ríos]]  Expediente: [[ID|SL-64028]]
+Profesional: [[PROVIDER|Marina Valdés]], patóloga bilingüe del habla y lenguaje  Empresa: [[EMPLOYER|Comunicación Infantil Brisaclara]]  Estado: Carolina del Norte
+Escuela: [[SCHOOL|Preescolar Loma Serena]]  Docente: Sra. [[TEACHER|Luciana Vega]]  Aula: salón de la Sra. [[TEACHER|Luciana Vega]]
+Domicilio: [[PLACE|428 Juniper Lantern Lane]], [[PLACE|Cedroluz]], Carolina del Norte [[PLACE|27903]]  Pueblo de origen: [[PLACE|Valle de Naranjales]], México
+Recurso familiar: [[ORG|Fundación Sendero Claro]], donde trabaja su mamá  Programa comunitario: lectura familiar
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Comprensión auditiva]]  Fecha: [[DATE|08/10/2026]]  Puntuación estándar: [[KEEP|79]]  Percentil: [[KEEP|8]]  Intervalo de confianza: [[KEEP|73-85]]
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Comunicación expresiva]]  Fecha: [[DATE|08/10/2026]]  Puntuación estándar: [[KEEP|82]]  Percentil: [[KEEP|12]]  Intervalo de confianza: [[KEEP|76-88]]
+Observaciones: [[CHILD|Samuel]] participó con interés y necesitó [[KEEP|apoyos moderados]] para seguir instrucciones nuevas. Usó [[KEEP|"quiero agua"]] espontáneamente. Produjo [[KEEP|/k/]] correctamente en [[KEEP|8/10]] intentos al practicar [[KEEP|"casa"]]. Durante el juego, dijo "[[PET|Chispa]] corre". Su compañero [[PEER|Diego Salvatierra]] facilitó los turnos con una pelota.
+Práctica familiar: Su hermana [[SIBLING|Inés Ríos]] puede ofrecer dos opciones durante la merienda. Su abuela [[FAMILY|Rosa Beltrán]] puede esperar unos segundos antes de ayudar. Acepten respuestas en ambos idiomas y amplíen cada mensaje con una palabra.
+Plan: Mantendremos actividades de [[KEEP|Hanen]] y revisaremos el progreso mediante muestras de juego. Los resultados describen el desempeño observado; deben interpretarse junto con información familiar y escolar. Eviten corregir cada palabra y celebren los intentos de comunicación.
+Seguimiento: [[DATE|25 de octubre de 2026]]  Hora: [[TIME|3:30 p. m.]]  Teléfono: [[PHONE|919-555-0146]]  Correo: [[EMAIL|marina.valdes@example.com]]

@@ -1,0 +1,27 @@
+Documento: Nota diaria de terapia del habla y lenguaje
+Paciente: [[CHILD|Emilio Varela Soto]]
+Nacimiento: [[DATE|01/03/2021]]
+Edad: [[KEEP|4;2]]
+Fecha: [[DATE|3 de marzo de 2025]]
+Horario: [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]]
+Expediente: [[ID|LL-582047]]
+Medicaid: [[MEDICAID_ID|583194762Q]]
+Profesional: [[PROVIDER|Marisol Castañeda Ríos]], MS, CCC-SLP
+Empresa: [[EMPLOYER|Willow Lantern Pediatric Therapy]]
+Sede: [[PLACE|2846 Fernwick Lane]], [[PLACE|Briar Hollow]], North Carolina, [[PLACE|27698]]
+Teléfono: [[PHONE|919-555-0147]]
+Correo: [[EMAIL|m.castaneda@willowlantern.invalid]]
+Portal: [[URL|https://willowlantern.invalid]]
+Facturación: CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]]; modificador [[KEEP|GN]]
+
+Subjetivo:
+Su mamá [[PARENT|Nadia Soto]] acompañó a [[CHILD|Emilio]]. Su papá [[PARENT|Gabriel Varela]] participó por teléfono. Ambos describieron menos frustración durante las comidas. La madre trabaja actualmente en la tienda [[ORG|Maple Lantern Store]] y el restaurante [[ORG|Blue Finch Restaurant]]; antes trabajó en la fábrica [[ORG|Copper Meadow Plant]]. El padre trabaja en la granja [[ORG|Silver Acorn Farm]], la constructora [[ORG|Pine Harbor Construction Company]] y el servicio de limpieza [[ORG|Quiet Birch Cleaning Service]], con horarios variables. Su hermana [[SIBLING|Alina Varela Soto]] practica turnos con él. Su abuela [[FAMILY|Celia Soto]] cuida al niño después de la guardería [[DAYCARE|Little Learners Daycare]].
+
+Objetivo:
+La sesión del [[KEEP|Little Learners Program]] incluyó juego compartido, lectura y peticiones funcionales. Con [[KEEP|apoyos moderados]], produjo combinaciones de dos palabras en [[KEEP|8/10]] oportunidades y siguió instrucciones en [[KEEP|3 de 5]] intentos. Usamos [[KEEP|Hanen]], [[KEEP|PROMPT]] y tarjetas [[KEEP|PECS]]. Practicó [[KEEP|/k/]] y [[KEEP|/ɾ/]]; apareció la sustitución [[KEEP|[w]]]. Dijo [[KEEP|"quiero carro"]] y practicó [[KEEP|"casa"]]. También dijo "[[PET|Miso]] corre". Una muestra presentó el código [[KEEP|[EW]]]. La maestra [[TEACHER|Elena Paredes]] informó participación con su compañero [[PEER|Bruno Ledesma]]. La estudiante observadora [[PERSON|Irene Valdés]] registró turnos sin intervenir.
+
+Análisis:
+La evaluación del [[DATE|2025-02-24]] con [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], mostró puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza del [[KEEP|95%]] de [[KEEP|73-83]] y equivalencia de edad [[KEEP|2;6–3;0]]. Hoy alcanzó [[KEEP|80%]] de peticiones independientes; aún necesita [[KEEP|apoyos mínimos]] para esperar. Los antecedentes consignan gestación de [[KEEP|38 semanas]], peso de [[KEEP|3120 g]] y Apgar [[KEEP|8/9]]. La pediatra [[PROVIDER|Renata Solís]] confirmó seguimiento en [[HOSPITAL|Fernbridge Children's Hospital]]. No se observaron signos de dolor ni fatiga durante las actividades.
+
+Plan:
+Continuar la meta [[KEEP|2]] del IFSP revisado el [[DATE|02/28/2025]]. La coordinadora [[PROVIDER|Julia Benítez]], de [[AGENCY|Briar Hollow CDSA]], recibirá el resumen cuando exista autorización. Practicar peticiones durante cinco minutos diarios. Revisar avances el [[DATE|10/03/2025]]. La familia recordó la reunión del [[DATE|martes 4 de junio]] como antecedente de coordinación. Próxima sesión: [[DATE|03.10.2025]], a las [[TIME|9:15 a. m.]]. Se entregó una hoja en español con ejemplos de espera y turnos. La madre explicó correctamente cómo ofrecer dos opciones y aceptar gestos antes de modelar una frase. Registraremos respuestas durante la próxima visita.

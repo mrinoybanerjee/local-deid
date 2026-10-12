@@ -1,0 +1,28 @@
+S: Daily Therapy Session Note
+
+DATE: [[DATE|September 15, 2026]]
+Client: [[CHILD|Mateo Fernandez]] (Medicaid ID [[MEDICAID_ID|8827451CN]])
+DOB: [[DATE|04/02/2022]]
+Provider: [[PROVIDER|Ana Torres, MS, CCC-SLP]], [[EMPLOYER|Piedmont Pediatric Speech Partners]]
+
+S: Grandmother [[FAMILY|Carmen Reyes]] reports [[CHILD|Mateo]] attended [[DAYCARE|Little Acorn Treehouse]] this week and said [[KEEP|"mas"]] for more during snack. Mother [[PARENT|Lucia Fernandez]] noted he used three new words at home on [[DATE|el martes 4 de junio]].
+
+O: Session held at [[AGENCY|Mecklenburg CDSA]] office, [[PLACE|Charlotte]], NC [[PLACE|28205]]. CPT [[KEEP|92507]] individual therapy, 30 minutes; CPT [[KEEP|92523]] evaluation of speech sound production and language comprehension, billed same visit. ICD-10 [[KEEP|F80.2]] (mixed receptive-expressive language disorder).
+
+Progress table (prior vs current):
+
+| Date | Measure | Score | CI |
+|---|---|---|---|
+| [[DATE|3 de marzo de 2025]] | [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | [[KEEP|73]] | [[KEEP|68-78]] |
+| [[DATE|06/12/2025]] | [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] | [[KEEP|81]] | [[KEEP|76-86]] |
+| [[DATE|09/15/2026]] | [[KEEP|CELF-5]] [[KEEP|Core Language]] | [[KEEP|79]] | [[KEEP|73-83]] |
+
+[[CHILD|Mateo]] imitated /k/ in isolation with [[KEEP|mod cues]], producing [[KEEP|"ca"]] for [[KEEP|"cat"]] [[KEEP|8/10]] trials ([[KEEP|80%]]) accuracy. He requested using [[KEEP|PECS]] card for [[KEEP|"ball"]] [[KEEP|3 of 5]] attempts without prompt.
+
+Peer [[PEER|Noah]] from his classroom at [[DAYCARE|Little Acorn Treehouse]] was referenced by teacher [[TEACHER|Mr. Diaz]] as a good verbal model; [[TEACHER|Mr. Diaz]] will seat them together.
+
+Service coordinator [[PROVIDER|Beth Nguyen]] from [[AGENCY|Mecklenburg CDSA]] confirmed the IFSP review scheduled for [[DATE|el 14 de octubre de 2026]].
+
+A: [[CHILD|Mateo]] continues to show gains in single-word requesting using [[KEEP|PECS]]; phoneme /k/ emerging in CV shape with [[KEEP|min cues]] by session end. Age [[KEEP|4;5]], gestational age at birth [[KEEP|38 weeks]], birth weight [[KEEP|6 lbs 10 oz]] (history per chart).
+
+P: Continue [[KEEP|Hanen]]-based parent coaching; next session [[DATE|09/22/2026]]. Contact clinic at [[PHONE|704-555-0148]] or [[EMAIL|atorres@piedmontpeds.com]] with questions. Father [[PARENT|Carlos Fernandez]] to call pediatrician [[PROVIDER|Dr. Patel]] re: ear infection history before next visit.

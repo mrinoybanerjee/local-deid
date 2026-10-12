@@ -1,0 +1,40 @@
+SESSION DETAILS
+
+- Service date: [[DATE|October 8, 2026]]. Client: [[CHILD|Nico Valverde]], age [[KEEP|4;2]]. Record: [[ID|SLP-608274]]. Medicaid: [[MEDICAID_ID|583704196B]]. Bilingual clinician: [[PROVIDER|Elena Marisol Vela]], MS, CCC-SLP, with [[EMPLOYER|Firefly Bridge Pediatric Therapy]] in North Carolina.
+- Individual treatment addressed receptive language, expressive language, and speech sound production. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]] and [[KEEP|F80.0]]. English and Spanish supported participation.
+
+SESSION SCHEDULE
+
+- Current weekly schedule, confirmed with the parent:
+
+  | Day | Start | Stop | Location |
+  |---|---|---|---|
+  | Tuesday | [[TIME|9:10 a.m.]] | [[TIME|9:55 a.m.]] | [[SCHOOL|Willow Lantern Preschool]] |
+  | Thursday | [[TIME|2:15 p.m.]] | [[TIME|3:00 p.m.]] | [[EMPLOYER|Firefly Bridge Pediatric Therapy]] |
+  | Friday | [[TIME|10:00 a.m.]] | [[TIME|10:45 a.m.]] | [[PLACE|418 Sparrow Lantern Lane, Bellmere, NC 27563]] |
+
+SUBJECTIVE
+
+- Mother [[PARENT|Mariela Valverde]] reported increased spontaneous requests during meals. She works two jobs, cleaning rooms at [[ORG|Cedar Kite Lodge]] and stocking supplies at [[ORG|RKT]]. Variable shifts affect home practice.
+- The family previously lived in the village of [[PLACE|Las Nubes del Laurel]], Honduras. Spanish remains the main home language. Sister [[SIBLING|Inés Valverde]] models short requests during play.
+- Babysitter [[FAMILY|Rosa Cifuentes]] reported that cousins [[FAMILY|Beto Cifuentes]] and [[FAMILY|Lina Cifuentes]] sometimes answer before the client finishes. The family pet, [[PET|Miga]], often joins floor play.
+- Mother described the child saying "[[PET|Miga]] come" while holding a toy bowl. She requested strategies that fit brief routines between shifts.
+
+OBJECTIVE
+
+- Prior [[KEEP|PLS-5]] results included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|80]]. These historical findings informed task selection.
+- The client followed spatial directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-step directions were completed in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Accuracy decreased when materials remained visually available.
+- Using [[KEEP|Hanen]] strategies, the clinician paused, followed the child's lead, and expanded requests. The client produced [[KEEP|"want more bubbles"]] independently and [[KEEP|"I need help"]] with [[KEEP|mod cues]].
+- During [[KEEP|Cycles]] activities, initial [[KEEP|/k/]] accuracy reached [[KEEP|70%]] with [[KEEP|max cues]]. The target [[KEEP|"key"]] was produced as [[KEEP|[ti]]]. One language sample contained [[KEEP|"he goed [EW] home"]].
+- Classmates [[PEER|Dalia Serrano]] and [[PEER|Owen Pike]] joined turn-taking practice. Ms. [[TEACHER|Tessa Rowan]] supported waiting. The client requested a turn without prompting twice.
+
+ASSESSMENT
+
+- Functional requesting improved when adults allowed additional response time. Speech accuracy remained cue dependent. English and Spanish samples showed similar difficulty with longer directions; language exposure alone did not explain the observed pattern.
+- Attention improved with movement breaks and reduced tabletop materials. The client tolerated correction and returned to tasks without distress. Progress toward IFSP outcome [[KEEP|2]] remains measurable through routine-based requesting.
+
+PLAN AND CARE COORDINATION
+
+- Continue weekly treatment using familiar play routines. Practice [[KEEP|/k/]] targets with [[KEEP|mod cues]], then reduce support as accuracy improves. Ask caregivers to wait before modeling.
+- Contact mother at [[PHONE|(919) 555-0146]] or [[EMAIL|mariela.valverde@example.com]] for scheduling. Send the fictional practice handout through [[URL|https://fireflybridge.example/home]].
+- Review home observations with service coordinator [[PROVIDER|Marta Solano]] at [[AGENCY|Bellmere Early Steps Office]] on [[DATE|October 22, 2026]]. No new concerns were reported.

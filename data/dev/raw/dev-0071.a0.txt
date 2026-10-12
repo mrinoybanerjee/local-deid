@@ -1,0 +1,38 @@
+Nota de Sesión Diaria – Terapia del Habla y Lenguaje
+
+Cliente: [[CHILD|Jose Antonio Pérez Gómez]] ("[[CHILD|Pepe]]"), DOB [[DATE|04/02/2021]], edad 5;6
+Medicaid ID: [[MEDICAID_ID|998271345B]]
+Member ID (Blue Cross NC): [[ID|BCNC-77201934]]
+NC ITP Child ID: [[ID|ITP-0045921]]
+Authorization #: [[ID|AUTH-2026-00318]]
+Fecha de servicio / Date of service: [[DATE|October 9, 2026]]
+Clinician: [[PROVIDER|Marisol Castañeda, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Interpreter: [[PROVIDER|Yesenia Ortiz]] (Spanish/English)
+
+S: Su mamá, [[PARENT|Lucía Gómez Reyes]] ("[[PARENT|Lupita]]"), reports "[[CHILD|Pepe]] ya dice más palabras en casa, pero todavía se frustra." Dad [[PARENT|Antonio Pérez]] was not present. Older brother [[SIBLING|Chuy]] ([[SIBLING|Jesús Pérez Gómez]]) helped translate one phrase at home. Family dog [[PET|Nina]] was mentioned as motivator for play-based cues.
+
+O: Session held in home via teletherapy, [[TIME|3:30 PM]]–[[TIME|4:15 PM]].
+
+Skill	Score	Cues
+Articulation /r/	6/10	mod cues
+Naming (CLEF-Spanish subtest)	62%ile	min cues
+MLU (SALT [EW])	3.2	n/a
+
+Target words elicited: "pelota," "carro," /t/ in "taza" [t]. [[CHILD|Pepe]] produced /k/ correctly in "casa" 7/10 trials.
+
+A: [[CHILD|Pepe]] continues to show gains in bilingual expressive vocabulary. Consulted briefly with OT [[PROVIDER|Rachel Kim]] and pediatrician [[PROVIDER|Dr. Howard Lin]] at [[HOSPITAL|UNC Children's Clinic]] re: oral-motor concerns. PT [[PROVIDER|Dana Whitfield]] noted improved trunk control supporting seated attention.
+
+P: Continue 2x/week teletherapy per IFSP dated [[DATE|08/15/2026]], review [[DATE|02/15/2027]].
+
+Service Schedule	Day	Time	Provider
+Speech	Tue	[[TIME|3:30 PM]]	[[PROVIDER|Castañeda]]
+OT	Thu	[[TIME|10:00 AM]]	[[PROVIDER|Kim]]
+PT	Fri	[[TIME|1:00 PM]]	[[PROVIDER|Whitfield]]
+
+Family receiving support from [[AGENCY|Piedmont CDSA]] service coordinator [[PROVIDER|Teodora "Teo" Álvarez]]. Daycare: [[DAYCARE|Little Sprouts Bilingual Learning Center]], [[PLACE|Durham]], [[PLACE|NC]] [[PLACE|27707]]. Teacher [[TEACHER|Ms. Jennifer Soto]] reports peer [[PEER|Juanito]] often plays alongside [[CHILD|Pepe]] during centers.
+
+Contact	Phone	Email
+[[PARENT|Lucía Gómez Reyes]]	[[PHONE|(919) 555-0147]]	[[EMAIL|lucia.gomez77@gmail.com]]
+[[PROVIDER|Marisol Castañeda]]	[[PHONE|(919) 555-0198]]	[[EMAIL|mcastaneda@carolinapeds.org]]
+
+Next session [[DATE|October 16, 2026]].

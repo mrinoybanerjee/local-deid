@@ -1,0 +1,112 @@
+Document type: NC Infant-Toddler Program IFSP Review
+Export status: Fictional training record
+Child: [[CHILD|Luna Mireya Solano]]
+Preferred name: [[CHILD|Luli]]
+Date of birth: [[DATE|01/09/2023]]
+Age at review: [[KEEP|29 months]]
+Review date: [[DATE|June 16, 2025]]
+Initial IFSP date: [[DATE|3 de marzo de 2025]]
+Record number: [[ID|ITP-FX-482731]]
+Medicaid member number: [[MEDICAID_ID|731482906Q]]
+Authorization number: [[ID|AUTH-FX-250316]]
+Parents: [[PARENT|Valeria Solano]] and [[PARENT|Diego Ansel]]
+Home address: [[PLACE|418 Lantern Fern Lane]], [[PLACE|Arroyo Claro]], North Carolina [[PLACE|27693]]
+County: [[PLACE|Laurel Lantern County]]
+Family phone: [[PHONE|919-555-0148]]
+Family email: [[EMAIL|valeria.solano@example.com]]
+CDSA office: [[AGENCY|Agencia de Servicios de Desarrollo Infantil de Arroyo Claro]]
+CDSA short form: [[AGENCY|CDSA Arroyo Claro]]
+Service coordinator: [[PROVIDER|Noelia Voss]]
+Coordinator agency: [[AGENCY|Red Comunitaria de Coordinación de Servicios para Familias del Condado de Laurel Lantern]]
+Coordinator agency short form: [[AGENCY|Red Laurel]]
+Author: [[PROVIDER|Elena Marisol Cifuentes]], bilingual pediatric speech-language pathologist
+Clinician employer: [[EMPLOYER|Willow Lantern Pediatric Therapies]]
+Interpreter: [[PROVIDER|Rafael Ibarra]]
+Meeting location: Family home
+Meeting time: [[TIME|9:15 a.m.]]–[[TIME|10:30 a.m.]]
+
+FAMILY INFORMATION AND PARTICIPATION
+
+The family reviewed this plan in English with Spanish interpretation available throughout the meeting. Mother preferred to discuss concerns in Spanish and review the written summary in English. Father participated by telephone during his work break. Both parents approved the wording below after the interpreter read it back.
+
+[[CHILD|Luna]] lives with both parents and her sister, [[SIBLING|Inés Solano]], age [[KEEP|6 years]]. Grandmother [[FAMILY|Celia Armenta]] provides care on weekdays. Neighbor and babysitter [[FAMILY|Alma Neri]] helps when work schedules overlap. The household dog, [[PET|Chispa]], often joins floor play.
+
+Mom works nights at [[ORG|Lantern Bend Packaging Cooperative]] as a packing line inspector. Father works at [[ORG|Cedar Kite Bicycle Works]] as a repair technician. Mother requested appointments after her daytime sleep. The family wants strategies that all caregivers can use without buying special materials.
+
+FAMILY CONCERNS AND PRIORITIES
+
+Mother stated, through interpretation, “I know what she wants when she takes my hand. Other people do not understand. I want her to ask before she gets upset.”
+
+Father stated, “At dinner she points, and we guess. I want to give her time, but I need to know what to do.”
+
+Grandmother [[FAMILY|Celia Armenta]] stated, “She understands our familiar routines. When something changes, she cries and follows me.”
+
+The family identified communication during meals, dressing, and transitions as its priorities. Mother also wants more comfortable participation in community play. The family values Spanish for relationships at home and English for childcare participation. Neither parent wants to stop using Spanish.
+
+Parents reported no loss of previously used skills. Their main concern is that unfamiliar adults miss gestures and then offer repeated questions. The family asked the team to teach adults how to notice communication before frustration increases.
+
+DAILY ROUTINES AND NATURAL ENVIRONMENTS
+
+Breakfast usually begins at [[TIME|7:30 a.m.]]. Grandmother offers familiar foods and places two choices within view. [[CHILD|Luli]] points, reaches, or brings a cup. Adults sometimes provide the item before she has time to add a sound or word.
+
+Childcare attendance at [[DAYCARE|Little Lantern Grove Childcare]] occurs on three mornings each week. Ms. [[TEACHER|Mara Quiles]] reported that [[CHILD|Luna]] watches peers [[PEER|Nico Beltrán]] and [[PEER|Asha Marin]] during songs. She joins when an adult models the action nearby.
+
+Dressing happens beside a low basket. Bath play includes cups, floating animals, and predictable turn taking. Evening meals begin around [[TIME|6:15 p.m.]]. Parents described bedtime books as a calm routine. During shared reading, [[CHILD|Luna]] turns pages and points to pictures. Adults can pause at familiar pages without making the routine feel like a test.
+
+DEVELOPMENTAL AND COMMUNICATION REVIEW
+
+The evaluation dated [[DATE|2025-02-24]] included caregiver interviews, play observation, and an English administration of [[KEEP|PLS-5]]. Reported results were [[KEEP|Auditory Comprehension]] standard score [[KEEP|79]], percentile [[KEEP|8]], confidence interval [[KEEP|74-87]], and age equivalent [[KEEP|1;10]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|74]], percentile [[KEEP|4]], confidence interval [[KEEP|69-83]], and age equivalent [[KEEP|1;7]]. [[KEEP|Total Language]] standard score was [[KEEP|75]], percentile [[KEEP|5]], with confidence interval [[KEEP|70-83]].
+
+These scores describe performance in English during that assessment. They do not fully represent skills across both languages. The bilingual clinician used Spanish language samples and caregiver examples to guide this review. Language exposure alone does not explain the functional concerns.
+
+During familiar play, [[CHILD|Luna]] used gestures, [[KEEP|"más"]], [[KEEP|"up"]], and [[KEEP|"agua"]]. She said “[[PET|Chispa]] go” while pointing toward the door. Observed sounds included [[KEEP|/m/]], [[KEEP|/b/]], and [[KEEP|[w]]]. She followed familiar directions in [[KEEP|4 of 5]] opportunities with gestures.
+
+Birth history included gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3,120 grams]], and Apgar scores [[KEEP|8 and 9]]. Parents reported no current hearing concerns. Formal hearing follow-up remains planned.
+
+OTHER PROVIDERS AND COMMUNITY SUPPORTS
+
+Dr. [[PROVIDER|Priya Caldera]] at [[HOSPITAL|Lantern Fern Children's Hospital]] provides primary care. Occupational therapist [[PROVIDER|Tessa Bellamy]] supports utensil use and dressing participation. Physical therapist [[PROVIDER|Owen Serrat]] monitors balance during outdoor play.
+
+The family receives nutrition support through [[AGENCY|Laurel Lantern Family Nutrition Office]]. It attends story time at [[ORG|Arroyo Claro Lantern Library]] and a family play group at [[ORG|Open Meadow Community Center]]. Pastor [[PERSON|Silas Orell]] coordinates rides through [[ORG|Cedar Lantern Fellowship]] when requested.
+
+The coordinator will confirm contact details before sharing this plan. The family approved coordination with childcare, the pediatrician, and the current therapists. Approval does not extend to community volunteers.
+
+OUTCOME [[KEEP|1]]: COMMUNICATION DURING MEALS
+
+The family wants [[CHILD|Luna]] to request an item, help, or another turn during meals so adults can respond before frustration grows. By [[DATE|09/15/2025]], she will use a gesture paired with a sound, word, or picture in [[KEEP|8/10]] naturally occurring opportunities across home and childcare routines, with [[KEEP|min cues]].
+
+Adults will offer two visible choices, pause, and accept communication in either language. They will model targets such as [[KEEP|"more"]], [[KEEP|"más"]], [[KEEP|"help"]], and [[KEEP|"ayuda"]]. Access to food will not depend on speech.
+
+The clinician will use [[KEEP|Hanen]] responsive interaction strategies and demonstrate how to expand a message without repeated testing. Caregivers will record brief examples twice weekly. Current performance is [[KEEP|3 of 10]] opportunities with [[KEEP|mod cues]]. Review will consider comfort, independence, and participation as well as the count.
+
+OUTCOME [[KEEP|2]]: PARTICIPATION IN DRESSING
+
+The family wants dressing to include shared attention and useful communication. By [[DATE|15/09/2025]], [[CHILD|Luli]] will complete a familiar dressing sequence and communicate a choice or request in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]], across two caregivers.
+
+Grandmother will place clothing within reach and use the same short sequence each day. Adults will model [[KEEP|"sock"]], [[KEEP|"calcetín"]], [[KEEP|"on"]], and [[KEEP|"help"]], then pause. A gesture, picture selection, sound, or word will count when its meaning is clear.
+
+The occupational therapist will advise on positioning and clothing access. The speech-language pathologist will coach communication within the routine. Current participation is [[KEEP|2 of 5]] opportunities with [[KEEP|max cues]]. Adults will shorten the sequence when fatigue affects participation. They will avoid physical prompting that causes distress.
+
+OUTCOME [[KEEP|3]]: SHARED PLAY AND TRANSITIONS
+
+The family wants [[CHILD|Luna]] to join familiar people in play and move between activities with less distress. By [[DATE|September 15, 2025]], she will participate in a shared play exchange and use an agreed transition support in [[KEEP|80%]] of observed opportunities with [[KEEP|mod cues]].
+
+Adults will start with preferred toys and imitate her actions. They will model targets including [[KEEP|"my turn"]], [[KEEP|"otra vez"]], and [[KEEP|"all done"]]. A simple picture sequence will show play, cleanup, and the next activity.
+
+Ms. [[TEACHER|Quiles]] will offer paired play with [[PEER|Nico]] when both children show interest. Current success is [[KEEP|40%]] with [[KEEP|max cues]]. The physical therapist will advise on safe movement between play areas. Adults will offer a quiet pause when noise or crowding limits participation.
+
+SERVICE PLAN AND DATES
+
+Speech-language services will occur weekly in the home or childcare setting from [[DATE|06/23/2025]] through [[DATE|12/15/2025]]. Each visit will include caregiver coaching, direct observation, practice, and a brief review of what worked. Billing information lists [[KEEP|CPT 92507]], modifier [[KEEP|GO]], and [[KEEP|ICD-10 F80.2]].
+
+Occupational therapy will continue every other week from [[DATE|23 de junio de 2025]] through [[DATE|15 de diciembre de 2025]]. Physical therapy will continue monthly during the same service period. The coordinator will arrange the hearing appointment and review transportation needs.
+
+The interpreter will attend requested meetings. Language support will not reduce the planned service time. Providers will notify the family before schedule changes.
+
+REVIEW, FOLLOW-UP, AND FAMILY AGREEMENT
+
+[[PROVIDER|Noelia Voss]] will contact the family on [[DATE|07-07-2025]] to check service access. A prior outreach entry dated [[DATE|el martes 4 de junio de 2024]] remains in the fictional record history; it does not indicate a current service.
+
+The team will review progress on [[DATE|September 16, 2025]]. Caregiver examples will guide changes if the strategies do not fit daily routines. Parents can request an earlier review.
+
+The family received contact information for [[AGENCY|CDSA Arroyo Claro]] and [[AGENCY|Red Laurel]]. Both parents stated that the outcomes reflect their priorities. Mother requested a Spanish summary and an English copy for childcare. The coordinator will provide both through the family's agreed contact method.

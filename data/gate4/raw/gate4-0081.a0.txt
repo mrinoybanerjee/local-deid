@@ -1,0 +1,33 @@
+Nota diaria de terapia del habla y lenguaje — documento ficticio
+
+Fecha: [[DATE|8 de octubre de 2026]]
+Paciente: [[CHILD|Emilio Varela Soto]]; edad: [[KEEP|4;2]]
+Expediente: [[ID|SLP-260184]]
+Medicaid: [[MEDICAID_ID|482716305R]]
+Profesional: [[PROVIDER|Mariela Castañeda]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Comunicación Infantil Alborada]]
+Lugar: [[PLACE|Montelirio]], North Carolina
+
+S — Subjetivo
+Su mamá [[PARENT|Daniela Soto]] informó que [[CHILD|Emilio]] pidió ayuda durante el desayuno. Su hermana [[SIBLING|Sol]] participó en el juego familiar. La familia reportó seguimiento auditivo en [[HOSPITAL|Hospital Sistema Salud Cedral, campus Aurora]]. No informó cambios médicos recientes. La maestra [[TEACHER|Irene Montalvo]], de [[SCHOOL|Preescolar Sendero Azul]], describió mayor participación durante canciones.
+
+O — Objetivo
+Se revisaron resultados de la evaluación del [[DATE|1 de octubre de 2026]]. Los datos orientaron las actividades; no se administró nuevamente la prueba.
+
+Prueba	Subprueba	Puntuación estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Comprensión auditiva]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+
+Durante juego compartido, produjo [[KEEP|/k/]] en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Usó [[KEEP|“quiero carro”]] y [[KEEP|“más agua”]] espontáneamente. Siguió instrucciones en [[KEEP|3 de 5]] ensayos, con [[KEEP|60%]] de precisión. Se aplicaron estrategias de [[KEEP|Hanen]]: esperar, observar y ampliar mensajes. Mostró interés sostenido en bloques y aceptó turnos con apoyo visual. Su participación aumentó cuando pudo elegir materiales.
+
+A — Análisis
+Persisten dificultades para comprender instrucciones y ampliar frases. El apoyo visual facilitó respuestas. La producción fue más clara en palabras practicadas. La atención disminuyó al cambiar materiales, pero mejoró después de una pausa breve.
+
+P — Plan
+Continuar la [[KEEP|meta 2]] del [[KEEP|IFSP]]. Practicar [[KEEP|“dame”]] durante rutinas. La madre demostró la estrategia y acordó registrar ejemplos.
+
+Servicio	Día	Horario	Código
+Terapia individual	[[DATE|15 de octubre de 2026]]	[[TIME|9:00 a. m.]]–[[TIME|9:30 a. m.]]	[[KEEP|92507]]
+Diagnóstico	Lenguaje receptivo y expresivo		[[KEEP|F80.2]]
+
+Contacto	Teléfono	Correo	Sitio
+Oficina	[[PHONE|919-555-0146]]	[[EMAIL|citas@alborada.example]]	[[URL|https://alborada.example]]

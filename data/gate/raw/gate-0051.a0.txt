@@ -1,0 +1,216 @@
+North Carolina Infant–Toddler Services
+INDIVIDUALIZED FAMILY SERVICE PLAN — REVISIÓN DEL IFSP
+Fictional training document; all people, organizations, locations, and records are invented.
+
+[X] Periodic review  [ ] Initial plan  [ ] Annual review
+Meeting date: [[DATE|October 8, 2026]]
+Previous IFSP: [[DATE|April 9, 2026]]
+Next review due: [[DATE|April 8, 2027]]
+Location: [X] Home  [ ] Daycare  [ ] Office  [ ] Video
+Meeting language: [X] English and Spanish  [ ] English only  [ ] Spanish only
+
+FAMILY INFORMATION / INFORMACIÓN FAMILIAR
+
+Child: [[CHILD|Emilio Rafael Solvera]]
+Preferred name: [[CHILD|Milo]]
+Date of birth: [[DATE|June 3, 2024]]
+Age at review: [[KEEP|2;4]]
+Child record: [[ID|ITP-26004817]]
+Medicaid member number: [[MEDICAID_ID|000654321Q]]
+
+Mother: [[PARENT|Lucía Solvera]]
+Father: [[PARENT|Daniel Rivas]]
+Sibling: [[SIBLING|Inés Rivas]], age [[KEEP|6;1]]
+Maternal grandmother and regular caregiver: doña [[FAMILY|Lupe]]
+Occasional babysitter: [[FAMILY|Marisol Rivas]], listed on the contact sheet as [[FAMILY|M.R.]]
+
+Home address: [[PLACE|418 Willow Lantern Lane]], [[PLACE|Fern Hollow]], North Carolina [[PLACE|27583]]
+County of residence: [[PLACE|Alderwick County]]
+Family hometown: [[PLACE|San Jacinto del Arroyo]], Mexico
+Grandmother’s mailing address there: [[PLACE|Calle Naranjo 27, Barrio Las Campanas]], [[PLACE|San Jacinto del Arroyo]], Mexico.
+
+Mother’s phone: [[PHONE|(919) 555-0142]]
+Father’s phone: [[PHONE|984-555-0176]]
+Caregiver text number: [[PHONE|919.555.0128]]
+Extended-family contact in Mexico: [[PHONE|+52 55 5555 0148]]
+Preferred email: [[EMAIL|lucia.solvera@example.invalid]]
+
+[X] Parents share decisions  [X] Grandmother participates with parent consent
+[X] Text before calling  [ ] Leave detailed voicemail
+
+The family requests Spanish for explanations and English for selected written summaries. Both parents understand the proposed plan. They prefer short examples, práctica juntos, and time to ask questions. The mother works at [[ORG|Lantern Orchard Textiles]]. Her changing shifts affect appointment availability.
+
+TEAM / EQUIPO
+
+Service coordinator: [[PROVIDER|Nora Bellamy]]
+CDSA office: [[AGENCY|Alderwick Valley CDSA]]
+Office address: [[PLACE|62 Meadow Compass Drive]], [[PLACE|Fern Hollow]], North Carolina [[PLACE|27583]]
+Coordinator phone: [[PHONE|919-555-0163]]
+Coordinator email: [[EMAIL|nora.bellamy@example.invalid]]
+
+Review author: [[PROVIDER|Elena Duarte]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Little Lantern Bilingual Therapy]]
+Clinician phone: [[PHONE|(984) 555-0119]]
+Interpreter available by request: [[PROVIDER|J. Ortiz]]
+Primary physician: Dr. [[PROVIDER|Adriana Velásquez]]
+Medical practice: [[HOSPITAL|Meadow Finch Pediatric Center]]
+
+The clinician conducted this review in both languages. No separate interpreter was needed today. The coordinator explained service choices and checked understanding through teach-back. Each adult could describe one home strategy in the language they preferred.
+
+FAMILY CONCERNS / LO QUE NOS PREOCUPA
+
+Mother: “Yo sé que [[CHILD|Milo]] entiende muchas cosas. He brings his shoes when we say vamos afuera. But when he wants something, he pulls my hand and cries. Quiero entenderlo antes de que se frustre.”
+
+Father: “I want [[CHILD|Emilio]] to ask me for help. Sometimes I think he says a word, pero no estoy seguro. I do not want every meal to feel like a test.”
+
+Grandmother: “Conmigo canta pedacitos y hace sonidos de animales. Doña [[FAMILY|Lupe]] no quiere quitarle el español. We want him to talk with everybody in the family.”
+
+The family reports more pointing and shared smiles since the previous plan. They remain concerned about short communication attempts, limited word combinations, and frustration during transitions. They want adults to notice gestures as communication while offering useful words.
+
+[X] Communication  [X] Participation in routines  [ ] Mobility
+[X] Caregiver confidence  [ ] Feeding safety  [ ] Transportation
+
+The parents identify these priorities: requesting help, choosing food or toys, joining songs, and telling an adult when a turn is finished. Their first priority is a calmer evening meal. They prefer strategies that fit existing routines and do not require purchases.
+
+FORTALEZAS / CHILD AND FAMILY STRENGTHS
+
+[[CHILD|Emilio]] enjoys bubbles, toy buses, music, and kitchen play. He brings interesting objects to adults and watches their reactions. He imitates actions more consistently when an adult joins his activity.
+
+His sister, [[SIBLING|Inés]], likes to sing familiar songs and wait for him to fill a pause. Adults recognize that sibling play should stay enjoyable. They will offer invitations without making his sister responsible for therapy.
+
+The family uses Spanish throughout the day and English during some books and daycare conversations. The clinician supports both languages. Adults can model whichever language feels natural in the moment.
+
+DAILY ROUTINES / UN DÍA CON NOSOTROS
+
+Wake-up, around [[TIME|7:00 a.m.]]: The mother opens the curtains and offers two shirts. [[CHILD|Milo]] reaches toward one, but adults sometimes choose before he responds. The family will pause and accept looking, pointing, a sound, or a word.
+
+Breakfast, around [[TIME|7:30 a.m.]]: He sits with his grandmother and usually eats familiar foods. When a cup is empty, he may push it away. Adults will model [[KEEP|"más"]], [[KEEP|"agua"]], or [[KEEP|"all done"]] according to the situation, without requiring repetition.
+
+Daycare: [X] Three mornings weekly  [ ] Full day  [ ] Not enrolled
+Program: [[DAYCARE|Cedar Kite Early Learning]]
+Classroom staff: Miss [[TEACHER|Ana]] and la maestra [[TEACHER|Carmen]]
+Classmates mentioned by the family: [[PEER|Tessa Bloom]] and [[PEER|Leo Pardo]]
+
+At daycare, [[CHILD|Emilio]] watches other children before joining. He accepts a toy from [[PEER|Tessa]] and sometimes follows [[PEER|Leo]] toward the block area. Miss [[TEACHER|Ana]] reports that songs help him enter group activities.
+
+Lunch and rest: The grandmother offers a familiar meal and a quiet book. The family wants a simple choice routine, not extra drills. Rest usually begins near [[TIME|12:30 p.m.]].
+
+Afternoon play: The child rolls a ball near the family dog, [[PET|Chispa]]. Adults supervise and use this routine for shared attention. They will model [[KEEP|"go"]], [[KEEP|"va"]], and [[KEEP|"stop"]], then wait.
+
+Dinner, around [[TIME|6:15 p.m.]]: The father arrives home, and competing conversations can make communication harder. The family will reduce questions and let one adult respond first.
+
+Bath and bedtime: Predictable songs help transitions. The mother will offer [[KEEP|"otra vez"]] or [[KEEP|"finished"]] before ending a song. Bedtime usually starts at [[TIME|8:00 p.m.]].
+
+CURRENT DEVELOPMENT / OBSERVACIONES CLÍNICAS
+
+Assessment date: [[DATE|September 29, 2026]]
+Sources: caregiver interview, play observation, language samples, and [[KEEP|Preschool Language Scales, Fifth Edition Spanish]].
+
+Recorded scores: Auditory Comprehension standard score [[KEEP|82]]; Expressive Communication standard score [[KEEP|76]]; Total Language standard score [[KEEP|78]]. Recorded percentiles were [[KEEP|12th percentile]], [[KEEP|5th percentile]], and [[KEEP|7th percentile]], respectively.
+
+These fictional scores describe this assessment session. The team also considers participation across routines and both languages. The scores alone do not determine family priorities or expected progress.
+
+During play, [[CHILD|Emilio]] followed familiar directions in [[KEEP|8/10]] opportunities with gestures. He made independent requests in [[KEEP|3/10]] opportunities. Requests increased to [[KEEP|7/10]] with [[KEEP|mod cues]], including a choice, a model, and wait time.
+
+Observed productions included [[KEEP|"ma"]], [[KEEP|"agua"]], [[KEEP|"go"]], and [[KEEP|"no"]]. The sample included [w] as [[KEEP|[w]]] in an attempted word. The clinician noted emerging [[KEEP|/m/]], [[KEEP|/b/]], and [[KEEP|/p/]]. A later [[KEEP|/k/]] target will depend on functional vocabulary and readiness.
+
+A brief [[KEEP|SALT]] sample used the code [[KEEP|[EW]]] for an unclear word attempt. No feeding or swallowing assessment occurred during this review.
+
+OTHER AGENCIES / OTROS APOYOS
+
+[X] [[AGENCY|Alderwick Family WIC Office]]
+The family receives nutrition support. No new referral is requested today.
+
+[X] [[AGENCY|Fern Hollow Smart Start Partnership]]
+The coordinator will provide information about bilingual playgroups and confirm enrollment steps.
+
+[ ] [[AGENCY|Alderwick County Family Services]]
+The family reports no current involvement.
+
+[X] [[SCHOOL|Willow Compass Elementary]]
+The sibling attends this school. School participation is recorded only to understand afternoon transportation.
+
+Transportation contact: Mr. [[PERSON|Tom]], volunteer with [[AGENCY|Meadow Route Family Transit]]
+Dispatch phone: [[PHONE|1-800-555-0184]]
+
+The parents authorize the coordinator to discuss scheduling with the daycare. They request a separate conversation before sharing assessment reports. The clinician will provide a short strategy sheet after that consent is documented.
+
+OUTCOME 1 / PEDIR AYUDA DURANTE LA COMIDA
+
+Family outcome: During meals, [[CHILD|Milo]] will communicate a choice, request, or need for help so adults can respond with less guessing.
+
+Baseline: Independent communication occurred in [[KEEP|3/10]] observed opportunities. The family reports frequent hand pulling when containers are closed.
+
+Success measure: At least [[KEEP|8/10]] opportunities across three meals, using gestures, signs, pictures, words, or combinations, with [[KEEP|min cues]].
+
+Strategies:
+1. Offer two available choices and keep both visible.
+2. Pause for several seconds before helping.
+3. Respond to the child’s message, then add a short model.
+4. Use [[KEEP|"help"]], [[KEEP|"ayuda"]], [[KEEP|"más agua"]], or another useful phrase.
+5. Stop practice if hunger or distress prevents participation.
+
+The mother will note one successful exchange after dinner. The grandmother may report examples verbally. Target review date: [[DATE|January 8, 2027]].
+
+OUTCOME 2 / JUGAR Y TOMAR TURNOS
+
+Family outcome: During familiar play, [[CHILD|Emilio]] will exchange actions or messages with an adult or another child.
+
+Baseline: He completed [[KEEP|2/5]] reciprocal turns with [[KEEP|mod cues]] during ball play.
+
+Success measure: Four connected turns during two preferred activities, in [[KEEP|80%]] of sampled opportunities, with [[KEEP|min cues]].
+
+Strategies:
+1. Join the activity that already interests him.
+2. Copy one action and wait for his response.
+3. Offer a turn without taking the toy away.
+4. Model [[KEEP|"my turn"]], [[KEEP|"tu turno"]], or a matching gesture.
+5. Include peers only when all children want to participate.
+
+La maestra [[TEACHER|Carmen]] will describe one classroom example during the monthly check-in. The clinician will coach caregivers using their own toys. Target review date: [[DATE|February 4, 2027]].
+
+OUTCOME 3 / TRANSICIONES CON MENOS FRUSTRACIÓN
+
+Family outcome: The family will help [[CHILD|Milo]] understand when an activity ends and communicate whether he needs help or another turn.
+
+Baseline: Adults report difficult transitions on four evenings in a typical week. This report has not been independently counted.
+
+Success measure: The family reports a workable transition routine on five evenings weekly for three consecutive weeks. The child communicates during [[KEEP|4/5]] sampled transitions with [[KEEP|mod cues]] or less.
+
+Strategies:
+1. Give one short warning with a gesture or picture.
+2. Offer one final turn when the routine allows it.
+3. Model [[KEEP|"one more"]], [[KEEP|"uno más"]], or [[KEEP|"se acabó"]].
+4. Acknowledge protest and provide calm support.
+5. Review what helped without assigning blame.
+
+Target review date: [[DATE|March 4, 2027]].
+
+SERVICES / SERVICIOS ACORDADOS
+
+[X] Family accepts proposed services  [ ] Family requests revision
+
+Speech-language intervention: One 45-minute visit weekly, individual, in the home, delivered bilingually by [[PROVIDER|Elena Duarte]]. Service period: [[DATE|October 15, 2026]] through [[DATE|April 8, 2027]]. Planned visit time: [[TIME|4:30 p.m.]]. CPT: [[KEEP|92507]]. ICD-10: [[KEEP|F80.2]]. Authorization: [[ID|SLP-261015-042]].
+
+Service coordination: Monthly contact and additional support as needed, provided by [[PROVIDER|Nora Bellamy]], during the same service period.
+
+[X] Caregiver coaching  [X] Routine-based practice  [X] Review of participation
+[ ] Separate clinic sessions  [ ] Equipment requested
+
+The home supports direct practice during meals and play. Daycare consultation may occur after consent and scheduling confirmation. Missed visits will be discussed individually; makeup visits depend on family availability and the service plan.
+
+REVIEW, CONSENT, AND NEXT STEPS / ACUERDOS
+
+The clinician reviewed each outcome aloud in English and Spanish. The father said, “Así sí podemos hacerlo. One little change in a routine feels manageable.” The mother selected dinner as the first coaching activity.
+
+The team will review caregiver examples and direct observations before changing strategies. Limited progress will prompt a discussion of barriers, communication access, and service needs.
+
+[X] Parents received a copy  [X] Questions answered
+[X] Consent documented  [ ] Additional assessment requested today
+
+Parent signature: [[PARENT|Lucía Solvera]] — [[DATE|October 8, 2026]]
+Parent signature: [[PARENT|Daniel Rivas]] — [[DATE|October 8, 2026]]
+Coordinator signature: [[PROVIDER|Nora Bellamy]] — [[DATE|October 8, 2026]]
+Clinician signature: [[PROVIDER|Elena Duarte]] — [[DATE|October 8, 2026]]
+
+First action: Practice one supported request during dinner. The coordinator will confirm the first visit and provide the requested playgroup information.

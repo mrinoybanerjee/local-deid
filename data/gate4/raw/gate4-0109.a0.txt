@@ -1,0 +1,129 @@
+PROGRAMA DE INTERVENCIÓN TEMPRANA PARA BEBÉS Y NIÑOS PEQUEÑOS DE CAROLINA DEL NORTE
+Revisión del Plan Individualizado de Servicios Familiares (IFSP)
+
+DOCUMENTO SINTÉTICO: Todas las personas, entidades, ubicaciones e identificadores de este formulario son ficticios.
+
+Tipo: [ ] Inicial  [X] Revisión  [ ] Transición  
+Fecha de reunión: [[DATE|14 de septiembre de 2026]]  
+Lugar: [X] Hogar  [ ] Guardería  [ ] Oficina  
+Idioma del documento: español. Idiomas familiares: español e inglés.  
+Participación: [X] Presencial  [X] Con interpretación  [ ] Por teléfono
+
+INFORMACIÓN DEL NIÑO Y DE LA FAMILIA
+
+Niño: [[CHILD|Nicolás Valverde Soto]], llamado [[CHILD|Nico]] en casa.  
+Nacimiento: [[DATE|22 de marzo de 2024]]. Edad: [[KEEP|29 meses]].  
+Identificador infantil NC ITP: [[ID|ITP-60492817]].  
+Medicaid: [[MEDICAID_ID|947206381R]].  
+Seguro secundario: [[ORG|Mutual Familiar del Robledal]]. Número de miembro: [[ID|MFR-728419506]].  
+Expediente: [[ID|CDSA-26-083714]]. Autorización: [[ID|AUT-SLP-260914-62]].
+
+Madre: [[PARENT|Camila Soto Reyes]]. Padre: [[PARENT|Andrés Valverde Luna]]. Ambos participan en decisiones y comparten la custodia. La hermana, [[SIBLING|Elena Valverde Soto]], tiene [[KEEP|6 años]]. La abuela materna, [[FAMILY|Beatriz Reyes Molina]], cuida al niño durante algunas tardes.
+
+Domicilio: [[PLACE|1847 Sendero del Laurel, apartamento 3B]], [[PLACE|Villa Encina]], Carolina del Norte, [[PLACE|27864]]. Condado: [[PLACE|Arroyo Claro]].
+
+Teléfono de la madre: [[PHONE|(919) 555-0146]].  
+Teléfono del padre: [[PHONE|984-555-0172]].  
+Correo familiar: [[EMAIL|familia.valverde@example.invalid]].  
+Contacto alternativo: tía [[FAMILY|Marisol Soto Reyes]], en México, [[PHONE|+52 55 5555 0168]]. La familia autoriza llamar únicamente cuando los contactos principales no respondan.
+
+EQUIPO Y COORDINACIÓN
+
+Coordinadora de servicios: [[PROVIDER|Teresa Molina Paz]], de [[AGENCY|CDSA Puentes del Robledal]]. Oficina: [[PLACE|620 Avenida del Molino, oficina 210]], [[PLACE|Villa Encina]], Carolina del Norte, [[PLACE|27864]]. Teléfono: [[PHONE|919.555.0123]], extensión [[PHONE|204]].
+
+Redactora: [[PROVIDER|Laura Benítez Campos]], patóloga bilingüe del habla y del lenguaje, de [[EMPLOYER|Comunicación Infantil Senderos]]. Contacto: [[PHONE|+1 919 555 0181]]; [[EMAIL|lbenitez@example.invalid]].
+
+Intérprete: [[PROVIDER|Gabriela Ríos Méndez]]. Su función fue interpretar los comentarios del padre cuando este prefirió expresarse en inglés. La entrevista, las explicaciones clínicas y este documento se realizaron en español.
+
+Otros profesionales: terapeuta ocupacional [[PROVIDER|Sofía Duarte León]]; fisioterapeuta [[PROVIDER|Daniel Paredes Gil]]; pediatra [[PROVIDER|Mariana Flores Acosta]], de [[HOSPITAL|Centro Pediátrico Brisa del Valle]].
+
+La familia recibió una explicación de las funciones del equipo. Los participantes revisaron las prioridades y acordaron observar la comunicación dentro de actividades habituales.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La madre expresó: “Quiero entender lo que necesita sin tener que adivinar. Cuando [[CHILD|Nicolás]] señala el refrigerador, no sabemos si quiere leche, fruta o que abramos la puerta. Quiero que pueda pedir ayuda sin llorar”.
+
+El padre agregó: “Me importa que disfrute hablar con nosotros en los dos idiomas. No queremos quitarle el español. Necesitamos ideas sencillas que podamos usar al llegar del trabajo”.
+
+La abuela comentó: “Cuando estamos tranquilos, me enseña lo que quiere. Si le hacemos muchas preguntas, se va. Quiero aprender a esperar y darle opciones”.
+
+Prioridades acordadas: [X] Pedir ayuda  [X] Participar durante comidas  [X] Compartir juegos  [ ] Practicar letras.
+
+La familia prefiere recibir pocas estrategias por visita. Solicita ejemplos escritos en español y oportunidades para practicarlos antes de añadir otras actividades.
+
+FORTALEZAS Y ANTECEDENTES
+
+[[CHILD|Nico]] busca a sus cuidadores, disfruta canciones con movimientos y lleva objetos para compartir interés. Responde mejor cuando el adulto se coloca a su altura y sigue su elección de juego.
+
+Antecedentes aportados por la familia: nacimiento a [[KEEP|38 semanas de gestación]], peso de [[KEEP|3,180 gramos]] y Apgar de [[KEEP|8/9]]. No se reportaron hospitalizaciones posteriores. El pediatra solicitó seguimiento auditivo; el equipo todavía no recibió el informe.
+
+La familia describe sueño estable y alimentación variada, con dificultad para aceptar algunas texturas. La terapeuta ocupacional revisará cómo estas preferencias afectan la participación. El fisioterapeuta continuará observando equilibrio y acceso al área de juego. Estas necesidades se atenderán junto con la comunicación.
+
+RUTINAS DIARIAS
+
+Despertar: [[TIME|6:45 a. m.]]. El padre ayuda con el vestido. El niño elige entre dos camisetas mediante señalamientos. Se propone esperar una respuesta antes de anticipar su elección.
+
+Desayuno: [[TIME|7:15 a. m.]]. La madre ofrece fruta y cereal. Aquí se practicarán peticiones funcionales, con los alimentos visibles y al alcance del adulto.
+
+Guardería: [[TIME|8:30 a. m.]] a [[TIME|12:30 p. m.]], en [[DAYCARE|Guardería Semillas del Amanecer]]. La maestra [[TEACHER|Patricia Ledesma Ruiz]] y el auxiliar [[TEACHER|Omar Peña Vidal]] informan que participa mejor en grupos pequeños. Comparte bloques con [[PEER|Lucía Mena]] y observa los juegos de [[PEER|Tomás Rivas]].
+
+Por la tarde juega con su hermana y con el perro [[PET|Chispa]]. La familia aprovechará turnos breves sin exigir repeticiones. El baño ocurre a las [[TIME|7:00 p. m.]] y la lectura a las [[TIME|7:30 p. m.]]. El cuento termina cuando el niño muestra cansancio.
+
+RECURSOS Y OTRAS AGENCIAS
+
+[X] [[AGENCY|WIC del condado de Arroyo Claro]]: apoyo alimentario y orientación familiar. Teléfono: [[PHONE|(252) 555-0138]].  
+[X] [[AGENCY|DSS del condado de Arroyo Claro]]: consulta pendiente sobre transporte. Caso: [[ID|DSS-AC-602781]].  
+[X] [[AGENCY|Smart Start del condado de Arroyo Claro]]: información sobre actividades comunitarias.
+
+La familia asiste al programa [[ORG|Cuentos y Canciones del Laurel]], de [[ORG|Biblioteca Comunitaria Luz del Camino]]. La facilitadora [[PERSON|Eva Salcedo Ortiz]] organiza canciones y lectura compartida. Información: [[URL|https://biblioteca-laurel.example.invalid/cuentos]].
+
+La madre trabaja en [[ORG|Panadería Trigo y Luna]]. Sus horarios cambian semanalmente. La coordinadora ajustará las visitas según la disponibilidad familiar. Con autorización escrita, el equipo compartirá estrategias con la guardería. No se enviará el expediente completo.
+
+EVALUACIÓN Y OBSERVACIONES
+
+Evaluación realizada el [[DATE|8 de septiembre de 2026]]. Se administró [[KEEP|PLS-5 Spanish]] conforme a sus instrucciones y se complementó con entrevista y juego.
+
+[[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|79]], percentil [[KEEP|8]], intervalo de confianza [[KEEP|73-86]] y edad equivalente [[KEEP|1;11]].  
+[[KEEP|Expressive Communication]]: puntuación estándar [[KEEP|75]], percentil [[KEEP|5]], intervalo de confianza [[KEEP|69–83]] y edad equivalente [[KEEP|1;8]].  
+[[KEEP|Total Language]]: puntuación estándar [[KEEP|76]], percentil [[KEEP|5]].
+
+Los resultados se interpretaron junto con el uso de ambos idiomas. No se tomó una diferencia entre idiomas como evidencia suficiente de dificultad.
+
+Durante el juego siguió instrucciones familiares en [[KEEP|7/10]] oportunidades con [[KEEP|min cues]]. Usó gestos o palabras para pedir en [[KEEP|4/10]] oportunidades. Produjo [[KEEP|"más"]], [[KEEP|"agua"]] y [[KEEP|"abre"]]. Para [[KEEP|"pelota"]] dijo [[KEEP|"ota"]]. Se observaron [KEEP] sonidos emergentes: [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|[w]]]. No se estableció una meta aislada para [[KEEP|/k/]] o [[KEEP|/ɾ/]].
+
+RESULTADO [[KEEP|1]]: PEDIR DURANTE LAS COMIDAS
+
+La familia desea que [[CHILD|Nicolás]] pida alimentos, ayuda o continuación mediante palabras, gestos o una combinación. Línea inicial: peticiones independientes en [[KEEP|4/10]] oportunidades.
+
+Estrategias: ofrecer dos opciones reales; modelar [[KEEP|"más agua"]], [[KEEP|"ayuda"]] y [[KEEP|"abre"]]; esperar; aceptar cualquier intento comunicativo; responder de inmediato. La intervención incorporará principios de [[KEEP|Hanen]] mediante acompañamiento a los cuidadores.
+
+Criterio: comunicación funcional en [[KEEP|8/10]] oportunidades durante tres observaciones consecutivas, con [[KEEP|min cues]]. La familia registrará ejemplos breves, sin contar cada comida. Revisión prevista: [[DATE|14 de diciembre de 2026]].
+
+RESULTADO [[KEEP|2]]: COMPARTIR TURNOS DE JUEGO
+
+La familia desea mantener un intercambio agradable durante juegos con bloques, vehículos y canciones. Actualmente sostiene turnos en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]].
+
+Estrategias: imitar primero su acción; añadir una palabra; hacer pausas durante canciones; ofrecer turnos visibles. La hermana participará si desea hacerlo. Se modelarán [[KEEP|"mi turno"]], [[KEEP|"va"]] y [[KEEP|"otra vez"]].
+
+Criterio: completar intercambios en [[KEEP|4/5]] oportunidades, con [[KEEP|min cues]], durante el juego familiar y en la guardería. Los adultos anotarán qué actividades facilitan la participación. Inicio: [[DATE|21 de septiembre de 2026]].
+
+RESULTADO [[KEEP|3]]: PARTICIPAR EN LA LECTURA
+
+La familia desea que el niño elija un libro, comparta atención y comunique interés. El adulto seguirá sus señalamientos, comentará las imágenes y evitará preguntas repetidas.
+
+Se ofrecerán modelos como [[KEEP|"mira"]], [[KEEP|"perro"]] y [[KEEP|"se acabó"]]. Cuando dijo “[[PET|Chispa]] aquí”, la madre respondió con una expansión natural.
+
+Criterio: participación en [[KEEP|80%]] de las oportunidades observadas, con [[KEEP|min cues]]. La familia podrá usar libros de la biblioteca. La duración dependerá del interés del niño. Revisión: [[DATE|14 de diciembre de 2026]].
+
+SERVICIOS Y ACUERDOS
+
+Habla y lenguaje: visita semanal de cuarenta y cinco minutos, del [[DATE|21 de septiembre de 2026]] al [[DATE|21 de marzo de 2027]]. [X] Hogar  [X] Consulta en guardería. CPT [[KEEP|92507]], modificador [[KEEP|GN]]; diagnóstico ICD-10 [[KEEP|F80.2]].
+
+Terapia ocupacional: dos visitas mensuales desde [[DATE|23 de septiembre de 2026]]. Fisioterapia: consulta mensual desde [[DATE|30 de septiembre de 2026]]. La coordinación mantendrá contacto mensual y confirmará transporte.
+
+La familia acepta el plan y comprende que puede solicitar cambios. Recibirá una copia en español. La coordinadora confirmará las citas y solicitará el informe auditivo. Próxima revisión: [[DATE|14 de diciembre de 2026]].
+
+Firma de la madre: [[PARENT|Camila Soto Reyes]].  
+Firma del padre: [[PARENT|Andrés Valverde Luna]].  
+Firma clínica: [[PROVIDER|Laura Benítez Campos]].  
+Fecha de firmas: [[DATE|14 de septiembre de 2026]].

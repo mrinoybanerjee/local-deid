@@ -1,0 +1,21 @@
++ Name: [[CHILD|Elías Monteluna Prado]]
++ CA: [[KEEP|4;2]]
++ Context: Sesión individual en español, con apoyo bilingüe, en [[SCHOOL|Escuela Primaria Sendero del Colibrí]], del [[SCHOOL|Distrito Escolar de Loma Serena]], Carolina del Norte.
+
+Resumen de la sesión diaria
+
+Fecha: [[DATE|9 de octubre de 2026]]. Horario: [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]]. Profesional: [[PROVIDER|Marina Solveda Ríos]], patóloga bilingüe del habla y lenguaje, empleada de [[EMPLOYER|Puentes del Habla Infantil de Carolina, PLLC]]. Expediente: [[ID|PHI-260109-047]]. Medicaid: [[MEDICAID_ID|483920176Q]]. Autorización: [[ID|AUT-7216048]]. Servicio: [[KEEP|CPT 92507]], modificador [[KEEP|GN]]; diagnóstico: [[KEEP|ICD-10 F80.2]].
+
+La sesión ocurrió en el aula Girasol, con la maestra [[TEACHER|Carmen]] y Miss [[TEACHER|Ana]] disponibles para observar la rutina final. [[CHILD|Elías]] llegó tranquilo y eligió un juego de animales. Su mamá [[PARENT|Nadia Prado Valcera]] informó que esta semana pidió ayuda durante la cena y toleró mejor los turnos con su hermana [[SIBLING|Vera]]. Su papá [[PARENT|Óscar Monteluna]] trabaja en [[ORG|Empaques Brisa de Cobre]] y participó por teléfono durante el cierre.
+
+La familia confirmó su domicilio en [[PLACE|148 Sendero del Junco]], [[PLACE|Loma Serena]], condado de [[PLACE|Valle Cedrino]], código postal [[PLACE|27864]]. Contacto: [[PHONE|919-555-0168]] y [[EMAIL|nprado@example.org]]. Doña [[FAMILY|Lupe]], abuela y cuidadora después de clases, llevará las tarjetas a casa. Mr. [[PERSON|Tom]], conductor del transporte comunitario, esperó fuera del aula. La madre comentó que el niño dijo “[[PET|Nube]] ven” al llamar a su perro.
+
+Según el resumen de ingreso de [[HOSPITAL|Hospital Infantil Brisa del Roble]], el nacimiento ocurrió el [[DATE|9 de agosto de 2022]], a las [[KEEP|38 semanas]], con peso de [[KEEP|3,120 g]] y Apgar de [[KEEP|8]] y [[KEEP|9]]. Estos antecedentes se revisaron para completar el expediente; no cambiaron las actividades previstas para hoy.
+
+La evaluación del [[DATE|18 de septiembre de 2026]] utilizó [[KEEP|PLS-5]]. En [[KEEP|Auditory Comprehension]] obtuvo puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y edad equivalente [[KEEP|2;6–3;0]]. En [[KEEP|Expressive Communication]] obtuvo puntuación estándar [[KEEP|81]] y percentil [[KEEP|10]]. Se consideraron ambos idiomas y las observaciones familiares al interpretar los resultados.
+
+Durante el juego, [[CHILD|Lías]] siguió instrucciones de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Produjo peticiones de tres palabras en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]]. Practicó [[KEEP|/k/]] en [[KEEP|“casa”]] y [[KEEP|“copa”]], con precisión de [[KEEP|60%]]. Persistió la sustitución por [[KEEP|[t]]]. Para [[KEEP|/ɾ/]], necesitó [[KEEP|max cues]]. Su producción [[KEEP|“yo quiere ese”]] se registró con el código SALT [[KEEP|[EW]]]. Se usaron estrategias de [[KEEP|Hanen]] y apoyos de [[KEEP|PECS]].
+
+En una actividad breve con sus compañeros [[PEER|Arián]] y [[PEER|Selma]], esperó su turno y pidió [[KEEP|“dame el rojo”]]. La coordinadora de servicios [[PROVIDER|Paula Navería]] confirmó seguimiento con [[AGENCY|Oficina CDSA Senderos Nuevos]], [[AGENCY|DSS de Valle Cedrino]], [[AGENCY|WIC Semilla Clara]], [[AGENCY|Smart Start Horizonte Pequeño]] y [[AGENCY|Early Head Start Manantial Alegre]]. También solicitó observaciones de [[DAYCARE|Guardería Nidos del Alba]] para revisar el objetivo [[KEEP|2]] del IFSP el [[DATE|23 de octubre de 2026]].
+
+La respuesta fue favorable cuando se ofrecieron opciones visuales y tiempo para contestar. [[EMPLOYER|Puentes del Habla]] continuará la intervención semanal. La familia practicará peticiones durante la merienda, sin exigir repeticiones constantes. [[EMPLOYER|PHIC]] enviará las recomendaciones mediante [[URL|https://example.org/portal-phic]]. La próxima sesión será el [[DATE|16 de octubre de 2026]], a las [[TIME|9:15 a. m.]]. Se priorizarán comprensión, participación y comunicación funcional.

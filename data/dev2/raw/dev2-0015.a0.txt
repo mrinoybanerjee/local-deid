@@ -1,0 +1,33 @@
+Nota de progreso diario - Terapia de habla y lenguaje
+[[EMPLOYER|Carolina Speech & Language Partners, LLC]]
+
+Fecha de la sesion: [[DATE|October 8, 2026]]
+Hora: [[TIME|3:30 PM]] a [[TIME|4:15 PM]]
+Cliente: [[CHILD|Mateo Hernandez Lopez]]
+Fecha de nacimiento: [[DATE|August 15, 2022]] (edad [[KEEP|4;2]])
+Numero de Medicaid: [[MEDICAID_ID|123456789A]]
+Terapeuta: [[PROVIDER|Maria Fernanda Castillo]], M.S., CCC-SLP
+
+S (Subjetivo):
+La mama de [[CHILD|Mateo]], [[PARENT|Rosa Lopez]], reporto que el fin de semana [[CHILD|Mateo]] estuvo con su hermana mayor [[SIBLING|Sol Hernandez Lopez]], y que practicaron las tarjetas de sonidos en casa. [[PARENT|Rosa]] trabaja en [[ORG|Carolina Fresh Poultry Plant]] (en espanol, [[ORG|Planta de Pollo Carolina Fresh]]) y a veces no llega a tiempo para las sesiones de la tarde por el turno de la tarde-noche. El papa, [[PARENT|Javier Hernandez]], trabaja para [[ORG|Hernandez Builders Construction Company]] (en espanol, [[ORG|Compania de Construccion Hernandez Builders]]) y estuvo presente hoy durante los primeros diez minutos de la sesion antes de regresar al trabajo.
+
+[[PARENT|Rosa]] tambien menciono que recibieron una carta de [[AGENCY|Buncombe County DSS]] sobre la renovacion de beneficios, y que la coordinadora de servicios de [[AGENCY|Buncombe Partnership for Children]] llamo esta semana para programar una visita al hogar. [[CHILD|Mateo]] tambien asiste al programa [[AGENCY|Early Head Start]] tres dias a la semana por las mananas.
+
+O (Objetivo):
+Trabajamos en el sonido [[KEEP|/s/]] en posicion inicial usando el enfoque de [[KEEP|Cycles]]. [[CHILD|Mateo]] produjo la palabra meta "[[KEEP|sol]]" con [[KEEP|8/10]] intentos correctos con [[KEEP|minimas claves]], mejorando desde la sesion anterior. Es interesante que la palabra meta de hoy coincide con el nombre de su hermana, [[SIBLING|Sol]], lo cual ayudo a mantener su motivacion durante la actividad de tarjetas. Tambien trabajamos en el sonido [[KEEP|/k/]], logrando [[KEEP|3 de 5]] producciones correctas con [[KEEP|claves moderadas]], y revisamos brevemente la transicion [[KEEP|[w]]] a [[KEEP|/l/]] en palabras cortas.
+
+Usamos el [[KEEP|PLS-5]] como referencia para monitorear el progreso en [[KEEP|Comprension Auditiva]], donde [[CHILD|Mateo]] obtuvo una puntuacion estandar de [[KEEP|78]] (percentil [[KEEP|7]]) en la evaluacion del [[DATE|March 3, 2026]]. Tambien revisamos brevemente el area de [[KEEP|Expresion del Lenguaje]], con un equivalente de edad de [[KEEP|26 meses]].
+
+A (Analisis):
+[[CHILD|Mateo]] continua mostrando progreso lento pero constante en la produccion de sonidos iniciales. El uso de la palabra con significado personal, el nombre de su hermana, parece aumentar su atencion y motivacion durante la sesion. Se recomienda continuar con el enfoque de [[KEEP|Cycles]] y aumentar la frecuencia de practica en casa con apoyo de la familia.
+
+P (Plan):
+Continuar sesiones dos veces por semana. [[PROVIDER|Maria Fernanda Castillo]] coordinara con la interprete, [[PROVIDER|Ana Gutierrez]], para la proxima reunion del IFSP programada para el [[DATE|November 12, 2026]], referente a la Meta [[KEEP|2]]. Se enviara un recordatorio a la familia sobre la cita con el pediatra, [[PROVIDER|Dr. Carlos Mendoza]], el [[DATE|October 20, 2026]].
+
+Se le recordo a [[PARENT|Rosa]] sobre el programa de [[AGENCY|WIC]] en la oficina del condado de Buncombe, ubicada en [[PLACE|145 Overlook Street, Asheville, NC 28801]], para renovar los beneficios antes de fin de mes. Tambien se menciono el programa [[AGENCY|Smart Start]] como recurso adicional para la familia.
+
+Contacto de la familia: [[PHONE|828-555-0192]], correo electronico [[EMAIL|rosalopez2022@fakeemail.com]].
+
+Nota adicional: la maestra de [[CHILD|Mateo]] en la guarderia [[DAYCARE|Little Sprouts Early Learning Center]], la [[TEACHER|Senora Keisha Williams]], reporto que el tambien practica sonidos durante el circulo de lectura junto a su companero [[PEER|Diego]].
+
+Firmado electronicamente por [[PROVIDER|Maria Fernanda Castillo]], M.S., CCC-SLP, [[EMPLOYER|Carolina Speech & Language Partners, LLC]].

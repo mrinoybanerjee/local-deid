@@ -1,0 +1,111 @@
+speech-language evaluation report / informe de evaluación de habla y lenguaje
+
+child: [[CHILD|Mateo de la Cruz]]
+date of birth: [[DATE|April 2, 2022]]
+chronological age at evaluation: [[KEEP|4;6]]
+dates of evaluation: [[DATE|October 6, 2026]] and [[DATE|October 8, 2026]]
+report date: [[DATE|October 10, 2026]]
+evaluating clinician: [[PROVIDER|Hannah Whitfield]] MS CCC-SLP bilingual speech-language pathologist [[EMPLOYER|Carolina Bilingual Speech Services]]
+interpreter: [[PROVIDER|Marisol Peña]] certified spanish medical interpreter
+referring physician: [[PROVIDER|Dr. Adebayo Okafor]] [[HOSPITAL|Piedmont Pediatric Associates]]
+service coordinator: [[PROVIDER|Brianna Teague]] [[AGENCY|Foothills CDSA]]
+case number: [[ID|FC-48217-M]]
+medicaid number: [[MEDICAID_ID|935827461B]]
+home address: [[PLACE|118 Larkspur Lane]] [[PLACE|Hickory]] NC [[PLACE|28601]]
+county of residence: [[PLACE|Catawba County]]
+contact phone: [[PHONE|(828) 555-0164]]
+parents/guardians: [[PARENT|Lucía Rodríguez-Vega]] (madre) and [[PARENT|Andrés de la Cruz]] (padre)
+
+reason for referral
+
+mateo was referred by [[PROVIDER|Dr. Okafor]] at [[HOSPITAL|Piedmont Pediatric Associates]] following his well child visit in [[DATE|July 2026]] where concerns were raised about limited expressive vocabulary and difficulty being understood by unfamiliar listeners su mamá [[PARENT|Lucía Rodríguez-Vega]] reports que [[CHILD|mateo]] habla mucho en casa pero que la gente afuera no le entiende she stated "en la casa le entendemos todo pero en la tienda la gente se queda mirándolo" family is primarily spanish speaking in the home with english introduced through daycare and extended community mateo currently attends [[DAYCARE|Little Sprouts Bilingual Daycare]] in [[PLACE|Hickory]] where his teacher ms [[TEACHER|Carla Jiménez]] also expressed concern regarding peer interactions noting mateo gets frustrated when classmates do not understand his requests during free play
+
+background and birth history
+
+mateo was born at [[KEEP|38 weeks]] gestation via scheduled cesarean delivery birth weight was [[KEEP|6 lbs 11 oz]] apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes mother reports pregnancy was unremarkable no nicu stay no feeding difficulties as a newborn family history is significant for a maternal uncle with a late talking history who did not begin combining words until close to age three and who received services through the school system mother denies any hearing concerns though a newborn hearing screen result could not be located family reports mateo passed a hearing screening at the pediatrician office in [[DATE|March 2025]] no history of chronic ear infections no tubes no significant illnesses hospitalizations or surgeries mother reports mateo is otherwise a healthy active child who sleeps well and eats a wide variety of foods including foods with mixed textures
+
+family and language history
+
+the home language is predominantly spanish mother [[PARENT|Lucía Rodríguez-Vega]] and father [[PARENT|Andrés de la Cruz]] both report spanish as their first and strongest language father works at [[ORG|Blue Ridge Furniture Co]] where he reports needing english daily but speaks spanish exclusively at home mother does not currently work outside the home and is the primary caregiver during the day mateo has one older sister [[SIBLING|Camila de la Cruz]] age seven who is fully bilingual and often translates for mateo when he gets frustrated mother reports "camila le dice a la gente lo que él quiere cuando él no puede explicarse" the children's maternal grandmother [[FAMILY|Rosa Vega]] lives nearby and provides childcare two afternoons a week she speaks only spanish to mateo and reports he understands her instructions well but responds mostly in short phrases or single words family also has a dog named [[PET|Rocky]] whom mateo is reportedly very attached to and often talks about at daycare
+
+language exposure was estimated using a home language questionnaire completed with interpreter [[PROVIDER|Marisol Peña]] present estimated exposure is approximately [[KEEP|75 percent]] spanish and [[KEEP|25 percent]] english with english exposure increasing since starting daycare in [[DATE|January 2026]] mother reports mateo's spanish vocabulary at home seems age appropriate he names foods animals colors and can follow two step directions in spanish without difficulty concerns center primarily on english intelligibility and on word finding in both languages when mateo is excited or upset
+
+developmental and educational history
+
+mateo began at [[DAYCARE|Little Sprouts Bilingual Daycare]] in [[PLACE|Hickory]] in [[DATE|January 2026]] his teacher ms [[TEACHER|Carla Jiménez]] reports he is social and wants to play with peers including his classmate [[PEER|Dylan Forsythe]] but often resorts to pulling or pointing rather than using words when peers do not understand him she also reports mateo sometimes mixes spanish and english within the same sentence which she was unsure how to interpret clinician explained this is typical and expected code switching behavior in bilingual children and not itself a sign of disorder mateo has not previously received speech-language services he was evaluated by [[AGENCY|Foothills CDSA]] service coordinator [[PROVIDER|Brianna Teague]] at age three and was found not eligible at that time based on screening alone family requested a full evaluation now given ongoing concerns raised by both home and daycare
+
+mateo also receives monthly occupational therapy consultation through daycare provided by [[PROVIDER|Megan Sutterfield]] OTR/L for mild fine motor delay and has been seen twice by physical therapist [[PROVIDER|James Houck]] for toe walking which has since resolved per recent note
+
+behavioral observations
+
+mateo separated easily from his mother and engaged readily with toys in the evaluation room rapport was established quickly using bilingual greetings and animal toys he demonstrated functional play skills including feeding a baby doll and building a tower of [[KEEP|8]] blocks before it fell he used both spanish and english words interchangeably across the two sessions for example he labeled a ball "pelota" then later "ball" without apparent awareness of the switch he was understood by his mother and the interpreter consistently but this examiner required frequent repetition particularly for words containing /s/ /r/ and consonant clusters attention was adequate for structured tasks with occasional need for redirection back to task mateo demonstrated good eye contact and appropriate affect throughout testing no concerns noted regarding social reciprocity
+
+standardized and informal assessment results
+
+the following measures were administered across both languages where appropriate with interpreter support for spanish administration and scoring per examiner training
+
+[[KEEP|Rossetti Infant-Toddler Language Scale]] (spanish and english forms, parent report and direct observation)
+[[KEEP|Goldman-Fristoe Test of Articulation-3]]
+[[KEEP|Bayley Scales of Infant and Toddler Development-4]] cognitive and language subtests
+[[KEEP|Peabody Picture Vocabulary Test-5]]
+[[KEEP|Preschool Language Scale-5]] (PLS-5) spanish edition
+[[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3]] (CELF Preschool-3) english edition, interpreted with caution given exposure history
+
+test results summary table
+
+test / subtest | standard score | percentile | age equivalent
+[[KEEP|Peabody Picture Vocabulary Test-5]] | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|3;1]]
+[[KEEP|PLS-5]] (spanish) auditory comprehension | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|3;4]]
+[[KEEP|PLS-5]] (spanish) expressive communication | [[KEEP|74]] | [[KEEP|4th]] | [[KEEP|2;11]]
+[[KEEP|CELF Preschool-3]] (english) core language | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|2;7]]
+[[KEEP|Goldman-Fristoe Test of Articulation-3]] sounds in words | [[KEEP|71]] | [[KEEP|3rd]] | not calculated
+[[KEEP|Bayley-4]] cognitive scale | [[KEEP|95]] | [[KEEP|37th]] | age appropriate
+
+note scores on english-only measures likely underestimate mateo's true ability given his bilingual language learner status and should be interpreted in combination with spanish results and clinical observation per best practice
+
+articulation and phonology
+
+on the [[KEEP|Goldman-Fristoe Test of Articulation-3]] mateo demonstrated difficulty with /r/ and /ɾ/ in both languages producing [[KEEP|[w]]] for /r/ in words like "run" produced as [[KEEP|"wun"]] and spanish "perro" produced as [[KEEP|"pego"]] he also simplified consonant clusters frequently for example "star" produced as [[KEEP|"tar"]] and spanish "flor" produced as [[KEEP|"for"]] intelligibility was estimated at [[KEEP|60 percent]] to unfamiliar listeners in english and [[KEEP|85 percent]] in spanish to familiar listeners stimulability was good mateo achieved correct /r/ production with [[KEEP|moderate cues]] in isolation and in some word initial positions suggesting good prognosis with targeted intervention
+
+vocabulary and grammar
+
+mateo's expressive vocabulary across both languages when combined using a conceptual scoring approach falls closer to age expectations than either monolingual score alone suggests he demonstrated use of early multiword combinations such as [[KEEP|"mas agua"]] and [[KEEP|"go outside"]] but had difficulty with more complex sentence structures morphological markers were inconsistent in both languages including plural -s and spanish gender agreement mother reports at home mateo recently began combining three to four words such as [[KEEP|"quiero jugo mas"]] and [[KEEP|"the dog run fast"]]
+
+interpretation and impressions
+
+based on combined standardized and informal measures mateo presents with a speech sound disorder affecting intelligibility in both spanish and english with primary difficulty on /r/ /ɾ/ and consonant clusters he additionally presents with a language delay affecting expressive vocabulary and sentence structure in both languages though the degree of delay is likely less severe than english-only scores suggest given his bilingual status and language exposure history this profile is consistent with a true communication disorder present across both of mateo's languages rather than a difference attributable solely to second language acquisition given concerns were reported by caregivers in both the primary language environment and the daycare setting
+
+mateo would be expected to benefit from direct intervention targeting speech sound production and expressive language in a manner that supports rather than suppresses his home language given the family's strong preference and need for spanish maintenance a bilingual approach to intervention is recommended family was previously familiar with [[KEEP|PECS]] from a cousin's experience and asked whether that might apply here it was explained that [[KEEP|PECS]] is typically used for children with minimal verbal output which does not describe mateo at this time clinician discussed several approaches that may be incorporated into mateo's plan including [[KEEP|Hanen]] style coaching to support mother's use of language facilitation strategies at home [[KEEP|PROMPT]] for tactile cueing of articulatory placement particularly for /r/ and clusters and the [[KEEP|Cycles]] approach for phonological pattern remediation given the pattern of cluster reduction observed the [[KEEP|Kaufman]] speech praxis approach was also discussed as a possible adjunct should motor planning difficulties emerge over the course of treatment and family was given information on [[KEEP|It Takes Two to Talk]] as a parent coaching resource available in spanish through [[AGENCY|Foothills CDSA]]
+
+recommendations
+
+1 mateo is recommended for individual speech-language therapy twice weekly for [[KEEP|30 minute]] sessions targeting speech sound production in both languages with primary focus on /r/ /ɾ/ and consonant cluster reduction using a [[KEEP|PROMPT]] informed approach
+
+2 mateo is recommended for concurrent expressive language intervention embedded within sessions targeting multiword combinations and early morphology in both spanish and english with home carryover activities provided in spanish
+
+3 parent coaching is recommended using [[KEEP|Hanen]] informed strategies to be delivered through [[PROVIDER|Hannah Whitfield]] directly with mother [[PARENT|Lucía Rodríguez-Vega]] given her role as primary caregiver interpreter [[PROVIDER|Marisol Peña]] will be present as needed for sessions requiring detailed strategy explanation
+
+4 continued coordination is recommended with daycare teacher ms [[TEACHER|Carla Jiménez]] to support carryover of targets in the classroom setting and to monitor peer interaction concerns
+
+5 continued coordination with occupational therapist [[PROVIDER|Megan Sutterfield]] is recommended given co-occurring fine motor concerns that may affect school readiness
+
+6 reassessment is recommended in [[KEEP|6 months]] to monitor progress in both languages and determine whether frequency should be adjusted
+
+7 family should follow up with [[PROVIDER|Dr. Okafor]] regarding a repeat hearing screening given the inability to locate newborn screening results prior to beginning intervention
+
+proposed session schedule
+
+day | start time | stop time | location
+monday | [[TIME|9:00 am]] | [[TIME|9:30 am]] | [[DAYCARE|Little Sprouts Bilingual Daycare]] therapy room
+wednesday | [[TIME|9:00 am]] | [[TIME|9:30 am]] | [[DAYCARE|Little Sprouts Bilingual Daycare]] therapy room
+friday | [[TIME|3:30 pm]] | [[TIME|4:00 pm]] | [[EMPLOYER|Carolina Bilingual Speech Services]] clinic [[PLACE|412 Oakhurst Drive]] [[PLACE|Hickory]] NC [[PLACE|28601]] (parent coaching, biweekly)
+
+family was given clinic contact information for scheduling and billing questions at [[PHONE|(828) 555-0199]] and advised that paperwork would be forwarded to [[AGENCY|Foothills CDSA]] service coordinator [[PROVIDER|Brianna Teague]] for authorization under case number [[ID|FC-48217-M]] eligibility for ongoing services was discussed with the family in both english and spanish through interpreter [[PROVIDER|Marisol Peña]] and family verbalized understanding and agreement with the plan mother asked several questions about whether speaking two languages at home was causing mateo's difficulties and it was explained clearly that research does not support this and that bilingualism itself does not cause speech or language disorders and should be maintained and supported throughout intervention
+
+summary
+
+mateo [[CHILD|de la Cruz]] age [[KEEP|4;6]] presents with a speech sound disorder and expressive language delay evident across both spanish and english consistent with a true bilingual communication disorder rather than typical second language acquisition recommend initiation of individual speech-language therapy twice weekly with embedded parent coaching reassessment recommended in approximately six months results and recommendations were reviewed with family in spanish with interpreter support and family verbalized agreement and understanding
+
+report completed by [[PROVIDER|Hannah Whitfield]] MS CCC-SLP license number [[ID|SLP-NC-22841]] [[EMPLOYER|Carolina Bilingual Speech Services]] [[PLACE|412 Oakhurst Drive]] [[PLACE|Hickory]] NC [[PLACE|28601]] clinic phone [[PHONE|(828) 555-0199]] date signed [[DATE|October 10, 2026]]
+
+cc [[PROVIDER|Dr. Adebayo Okafor]] [[HOSPITAL|Piedmont Pediatric Associates]], [[PROVIDER|Brianna Teague]] [[AGENCY|Foothills CDSA]], daycare file [[DAYCARE|Little Sprouts Bilingual Daycare]] attn ms [[TEACHER|Carla Jiménez]]

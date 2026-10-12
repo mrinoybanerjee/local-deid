@@ -1,0 +1,39 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha de la sesión: [[DATE|3 de marzo de 2025]] ([[DATE|03/03/2025]])
+Hora: [[TIME|2:30 p.m.]] a [[TIME|3:15 p.m.]]
+
+Niño/a: [[CHILD|Mateo Hernández Cruz]]
+Fecha de nacimiento: [[DATE|15 de septiembre de 2021]]
+Edad: [[KEEP|3;5]]
+Número de expediente: [[ID|MCL-20394]]
+Número de Medicaid: [[MEDICAID_ID|987654321A]]
+
+Tipo de sesión:
+[X] Presencial   [ ] Telesalud (portal: [[URL|portal.carolinabilingualslp.com]])
+
+Lugar de la sesión:
+[X] Hogar   [ ] Guardería   [ ] Clínica   [ ] Escuela
+
+Dirección: [[PLACE|4821 Hawthorne Lane]], [[PLACE|Charlotte]], Condado de [[PLACE|Mecklenburg]], [[PLACE|28205]]
+
+Presentes:
+[X] Madre   [X] Abuela   [ ] Padre   [ ] Niñera
+
+Historia médica breve: [[CHILD|Mateo]] nació en el [[HOSPITAL|Atrium Health Levine Children's Hospital, campus Myers Park]], con peso al nacer de [[KEEP|2,450 gramos]], edad gestacional de [[KEEP|34 semanas]] y puntaje de Apgar de [[KEEP|7/9]]. Permaneció en la NICU del mismo hospital por [[KEEP|18 días]]. Fue referido por su pediatra, [[PROVIDER|Dr. Anil Patel]], y evaluado en audiología en el [[HOSPITAL|Atrium Health Ear, Nose & Throat – Audiología, campus SouthPark]] el [[DATE|12 de enero de 2025]], con resultados dentro de límites normales.
+
+Coordinadora de servicios: [[PROVIDER|Marta Núñez]], de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Mecklenburg (CDSA)]], quien trabaja junto con [[AGENCY|Los Servicios de Apoyo Familiar Caminos Nuevos (Caminos Nuevos)]] para coordinar el transporte a las citas.
+
+Terapeuta: [[PROVIDER|Jennifer Álvarez, M.S., CCC-SLP]], de [[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]].
+
+S (Subjetivo): Su mamá, [[PARENT|Lucía Rodríguez]], reporta que desde la sesión anterior del [[DATE|25 de febrero de 2025]] (2-25-2025), [[CHILD|Mateo]] ha dicho "[[KEEP|agua]]" y "[[KEEP|más]]" de forma espontánea en casa. Su abuela, [[FAMILY|Rosa Cruz]], cuidó a [[CHILD|Mateo]] dos tardes esta semana mientras [[PARENT|Lucía]] trabajaba en [[ORG|Compass Group Carolinas]]. Su papá, [[PARENT|Carlos Hernández]], estuvo de viaje. Su niñera, [[FAMILY|Daniela Reyes]], también reportó que [[CHILD|Mateo]] pidió "[[KEEP|más]] jugo" durante la merienda. Su hermana mayor, [[SIBLING|Camila]], practicó tarjetas de [[KEEP|PECS]] con él usando el programa [[KEEP|Hanen]]. El perro de la familia, [[PET|Max]], sirvió de motivador durante las actividades de juego.
+
+En la guardería, [[DAYCARE|Centro de Cuidado Infantil Sunshine Kids]], su maestra, [[TEACHER|Srta. López]], reporta que [[CHILD|Mateo]] imita a su compañero [[PEER|Diego]] durante la hora de círculo en el salón de la [[TEACHER|Srta. López]]. También se acercó a otro compañero, [[PEER|Noah]], para pedir un juguete sin gestos.
+
+O (Objetivo): Se trabajó producción de /k/ en posición inicial usando el enfoque [[KEEP|PROMPT]] con [[KEEP|apoyo moderado (mod cues)]]. [[CHILD|Mateo]] produjo [k] correctamente en [[KEEP|7 de 10]] ensayos ([[KEEP|70%]]), mejorando desde [[KEEP|3 de 10]] la sesión anterior. Se registró código SALT [[KEEP|[EW]]] para dos enunciados ininteligibles. En vocabulario receptivo, se usó la subprueba de [[KEEP|Comprensión Auditiva]] del [[KEEP|PLS-5]]; obtuvo una puntuación estándar de [[KEEP|82]] (percentil [[KEEP|12]], intervalo de confianza [[KEEP|76-88]]). En el [[KEEP|CELF-5]], el equivalente de edad fue [[KEEP|26 meses]].
+
+A (Análisis): [[CHILD|Mateo]] muestra progreso constante hacia la [[KEEP|Meta 2]] del IFSP (comunicación expresiva). CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.1]], modificador [[KEEP|GN]].
+
+P (Plan): Continuar sesiones semanales. Próxima revisión del IFSP programada para el [[DATE|martes 4 de junio de 2025]]. La intérprete, [[PROVIDER|Sandra Molina]], estará presente en la reunión del CDSA. Contactar a la familia al [[PHONE|(704) 555-0148]] o por correo a [[EMAIL|lucia.rodriguez84@gmail.com]] para confirmar. Enviar documentos a [[PROVIDER|Marta Núñez]] antes del [[DATE|2025-05-30]].
+
+Firma: [[PROVIDER|Jennifer Álvarez]]

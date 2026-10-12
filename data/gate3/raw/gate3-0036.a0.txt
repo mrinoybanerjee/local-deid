@@ -1,0 +1,184 @@
+BILINGUAL PEDIATRIC SPEECH-LANGUAGE EVALUATION
+
+Synthetic clinical record for offline software testing. All people, organizations, identifiers, places, and clinical events in this document are fictional.
+
+HEADER FIELDS
+
+Field	Value
+Child	[[CHILD|Elian Tomás Varela]]
+Preferred name	[[CHILD|Eli]]
+Date of birth	[[DATE|September 14, 2023]]
+Age at evaluation	[[KEEP|2;10]]
+Evaluation date	[[DATE|July 14, 2026]]
+Report date	[[DATE|July 20, 2026]]
+Evaluation time	[[TIME|9:10 a.m.]] to [[TIME|11:45 a.m.]]
+Parent attending	Ms. [[PARENT|Marisol Varela]]
+Other parent	Mr. [[PARENT|Andrés Varela]]
+Home address	[[PLACE|426 Lantern Finch Lane]], [[PLACE|Alder Creek]], North Carolina [[PLACE|27896]]
+County	[[PLACE|Briarleaf County]]
+Clinician	[[PROVIDER|Camila R. Serrano]], MS, CCC-SLP
+Clinician employer	[[EMPLOYER|Two Rivers Pediatric Communication]]
+Evaluation location	[[PLACE|87 Juniper Bell Road]], [[PLACE|Alder Creek]], North Carolina [[PLACE|27896]]
+Medicaid ID	[[MEDICAID_ID|684291753Q]]
+Insurance member ID	[[ID|NCF-573820194]]
+NC ITP child ID	[[ID|ITP-26-048731]]
+Clinical record number	[[ID|TRPC-260714-083]]
+Authorization number	[[ID|AUTH-92647180]]
+Billing procedure	[[KEEP|92523]]
+Billing modifier	[[KEEP|GN]]
+Diagnostic code	[[KEEP|F80.2]]
+
+CONTACT AND COORDINATION TABLE
+
+Role	Name or organization	Contact
+Parent	Ms. [[PARENT|Marisol Varela]]	[[PHONE|919-555-0146]]; [[EMAIL|marisol.varela@example.invalid]]
+Parent	Mr. [[PARENT|Andrés Varela]]	[[PHONE|252-555-0178]]
+Evaluating clinician	[[PROVIDER|Camila R. Serrano]]	[[PHONE|919-555-0124]]; [[EMAIL|cserrano@tworivers.example]]
+Service coordinator	[[PROVIDER|Nadia Beltrán]]	[[PHONE|252-555-0139]]; [[EMAIL|nbeltran@enlacefamiliar.example]]
+Employer website	[[EMPLOYER|Two Rivers Pediatric Communication]]	[[URL|https://tworivers.example/services]]
+Pediatrician	Dr. [[PROVIDER|Priya Desai]]	[[HOSPITAL|Pine Lantern Health Pediatric Clinic, Alder Creek Campus]]; [[PHONE|919-555-0163]]
+
+BACKGROUND AND REFERRAL
+
+The referral concerns limited phrase use, difficulty understanding unfamiliar directions, and reduced speech clarity during play. Ms. [[PARENT|Marisol Varela]] requested an assessment that considered both Spanish and English. She reported that unfamiliar adults often miss the meaning of [[CHILD|Elian]]'s messages. The family wants practical strategies for meals, dressing, shared reading, and communication with other children.
+
+The referring office is [[AGENCY|Oficina de Servicios del Desarrollo Infantil de los Condados de Briarleaf y Juniper]]. Its short name is [[AGENCY|CDSA Briarleaf-Juniper]]. The service coordinator, [[PROVIDER|Nadia Beltrán]], works through [[AGENCY|Agencia Comunitaria de Coordinación de Servicios y Enlace Familiar del Este de Carolina del Norte]]. The agency uses the short name [[AGENCY|Enlace Familiar del Este]]. These names identify separate organizations with different responsibilities.
+
+The current individualized family service plan began on [[DATE|April 21, 2026]]. The referral record identifies IFSP Outcome [[KEEP|1]] as improving everyday requests and IFSP Outcome [[KEEP|2]] as improving participation in family routines. The family reported steady progress with gestures but slower progress with spoken combinations. No loss of previously acquired skills was reported.
+
+Ms. [[PARENT|Marisol Varela]] gave consent for assessment and exchange of relevant findings with the service coordinator and pediatrician. The clinician reviewed referral records, interviewed the parent, observed play, and completed structured assessment activities.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Elian Tomás Varela]] was born at [[HOSPITAL|Pine Lantern Health Women’s Hospital, Meadowbank Campus]] following spontaneous preterm labor. Gestational age was [[KEEP|35 weeks 4 days]]. Recorded birth weight was [[KEEP|2,410 g]]. Apgar scores were [[KEEP|7]] at the first measurement and [[KEEP|9]] at the subsequent measurement. The available discharge summary described brief respiratory support and difficulty maintaining feeding endurance.
+
+The child spent twelve days in the neonatal intensive care unit at [[HOSPITAL|Pine Lantern Health Women’s Hospital, Meadowbank Campus]]. The discharge record documented a passed newborn hearing screen. The parent reported no seizures, major surgery, or prolonged hospitalization after discharge. Early motor development was described as gradual, with independent walking at [[KEEP|16 months]].
+
+Dr. [[PROVIDER|Priya Desai]] follows growth and development at [[HOSPITAL|Pine Lantern Health Pediatric Clinic, Alder Creek Campus]]. The parent reported several middle-ear infections during the previous winter. The most recent documented infection occurred on [[DATE|February 6, 2026]]. An audiology visit on [[DATE|June 18, 2026]] at [[HOSPITAL|Pine Lantern Health ENT and Audiology, Juniper Campus]] documented responses within the expected range in sound-field testing.
+
+Audiologist [[PROVIDER|Marcus Ibarra]] recommended an ear-specific follow-up because sound-field responses cannot establish separate hearing levels for each ear. That appointment is scheduled for [[DATE|August 12, 2026]] at [[TIME|8:30 a.m.]]. No medication was administered during this evaluation. The parent reported typical sleep, a varied diet, and no current choking concerns.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Elian]] lives with his parents and his older sister, [[SIBLING|Inés Varela]], who is [[KEEP|6 years old]]. His maternal grandmother, [[FAMILY|Rosa Cárdenas]], provides care on two afternoons each week. A family friend, [[FAMILY|Lucinda Mora]], sometimes provides evening care. The household includes a dog named [[PET|Nube]], who frequently appears in the child’s play and spontaneous messages.
+
+Spanish is the main language used by Ms. [[PARENT|Marisol Varela]] and grandmother [[FAMILY|Rosa Cárdenas]]. Mr. [[PARENT|Andrés Varela]] uses both languages. Sister [[SIBLING|Inés]] usually speaks English during pretend play and Spanish during meals. The parent estimated current exposure as [[KEEP|65%]] Spanish and [[KEEP|35%]] English. These estimates describe exposure, not proficiency.
+
+The family has used both languages since infancy. The parent reported that comprehension appears stronger in familiar Spanish routines, while several preferred toy labels occur in English. Mixed-language combinations are accepted at home. The family does not want intervention to reduce Spanish use or require one language per caregiver.
+
+Ms. [[PARENT|Marisol Varela]] works at [[ORG|Juniper Loom Packaging]]. Mr. [[PARENT|Andrés Varela]] works at [[ORG|Alder Creek Orchard Supply]]. Their schedules affect appointment availability. Transportation assistance is sometimes arranged by [[AGENCY|Briarleaf County Department of Social Services]], through caseworker [[PERSON|Tessa Rowan]].
+
+EARLY LEARNING AND COMMUNITY SERVICES
+
+[[CHILD|Elian]] attends [[DAYCARE|Little Lantern Grove Childcare]] on weekday mornings. Lead teacher Ms. [[TEACHER|Brielle Santos]] reported that he joins movement songs, watches peers, and brings objects to adults for help. Classroom assistant Mr. [[TEACHER|Owen Pell]] reported more successful participation when instructions include gestures and a clear demonstration.
+
+The child frequently plays beside classmates [[PEER|Mila Fenwick]] and [[PEER|Noah Calder]]. During a recent classroom observation, [[PEER|Mila]] offered a toy truck, and [[CHILD|Eli]] responded with a smile and a pointing gesture. Staff reported that frustration increases when another child takes an object before he can communicate a request.
+
+The family receives nutrition support from [[AGENCY|Briarleaf County WIC Program]]. A family resource referral is active with [[AGENCY|Smart Start of Briarleaf and Juniper]]. Home-based family support is available through [[AGENCY|Lantern Valley Early Head Start]]. These agencies do not currently provide direct speech-language treatment.
+
+Transition planning includes contact with [[SCHOOL|Alder Creek County Schools]]. The service coordinator will help the family request a preschool evaluation before the child’s third birthday. A transition meeting is scheduled for [[DATE|August 20, 2026]]. Eligibility decisions remain the responsibility of the receiving school team.
+
+ASSESSMENT CONDITIONS AND METHODS
+
+[[PROVIDER|Camila R. Serrano]] completed the evaluation in English and Spanish without an interpreter. The parent remained present and helped identify familiar vocabulary. The child entered comfortably, explored materials, and tolerated transitions when activities alternated between table tasks and floor play. Two movement breaks supported participation.
+
+The assessment included [[KEEP|Preschool Language Scales–Fifth Edition]], abbreviated [[KEEP|PLS-5]], [[KEEP|Goldman-Fristoe Test of Articulation–Third Edition]], and [[KEEP|Peabody Picture Vocabulary Test–Fifth Edition]]. English standardized administration occurred before additional Spanish probes. Spanish responses and supported trials were documented separately and were not substituted into English scoring.
+
+Selected items from [[KEEP|Rossetti Infant-Toddler Language Scale]] supported a descriptive review of communication milestones. The clinician also reviewed a prior [[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]] report completed at [[KEEP|26 months]]. That report served as historical context rather than a current developmental estimate.
+
+English norm-referenced scores compare performance with each instrument’s reference sample. They do not estimate total bilingual ability. Interpretation therefore combined parent reports, observations across languages, developmental history, language sampling, and response to teaching.
+
+Attention varied with task demands. No fatigue or distress required termination. The clinician considered the observed communication patterns representative of the child’s current participation, with the usual limitation that one visit cannot capture every home or classroom skill.
+
+STANDARDIZED AND DESCRIPTIVE RESULTS
+
+Measure	Subtest or domain	Score type	Result	Percentile	Confidence interval or developmental range
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	Standard score	[[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|73–85]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	Standard score	[[KEEP|74]]	[[KEEP|4th percentile]]	[[KEEP|68–81]]
+[[KEEP|PLS-5]]	[[KEEP|Total Language]]	Standard score	[[KEEP|75]]	[[KEEP|5th percentile]]	[[KEEP|70–82]]
+[[KEEP|Goldman-Fristoe Test of Articulation–Third Edition]]	[[KEEP|Sounds-in-Words]]	Standard score	[[KEEP|79]]	[[KEEP|8th percentile]]	[[KEEP|73–86]]
+[[KEEP|Peabody Picture Vocabulary Test–Fifth Edition]]	[[KEEP|Receptive Vocabulary]]	Standard score	[[KEEP|77]]	[[KEEP|6th percentile]]	[[KEEP|71–84]]
+[[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]]	[[KEEP|Receptive Communication]]	Historical scaled score	[[KEEP|6]]	Not reported	Not reported
+[[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]]	[[KEEP|Expressive Communication]]	Historical scaled score	[[KEEP|7]]	Not reported	Not reported
+[[KEEP|Rossetti Infant-Toddler Language Scale]]	[[KEEP|Language Comprehension]]	Descriptive milestone range	Not a standard score	Not applicable	[[KEEP|24–27 months]]
+[[KEEP|Rossetti Infant-Toddler Language Scale]]	[[KEEP|Language Expression]]	Descriptive milestone range	Not a standard score	Not applicable	[[KEEP|21–24 months]]
+
+Confidence intervals shown above use the [[KEEP|90%]] level. Developmental ranges describe sampled milestones and are not precise measures of developmental age. English vocabulary performance may reflect language exposure as well as underlying language skill. Scores must remain connected to these limitations when shared with another provider.
+
+RECEPTIVE AND EXPRESSIVE LANGUAGE FINDINGS
+
+[[CHILD|Elian]] understood familiar object labels, routine action words, and several body-part labels across languages. He followed familiar one-step directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Performance decreased to [[KEEP|3/8]] for unfamiliar directions containing two actions. With [[KEEP|visual cues]] and a demonstration, he completed [[KEEP|6/8]] supported trials.
+
+The child identified common pictures more consistently when labels occurred in either familiar language. He showed emerging understanding of simple location concepts but relied on the adult’s pointing for less familiar relationships. Responses to questions were strongest when the relevant object remained visible. Questions about a recent event produced fewer clear answers.
+
+Spontaneous speech included single words, sound effects, and occasional combinations. Examples included “[[KEEP|más agua]],” “[[KEEP|my car]],” “[[KEEP|mamá ven]],” and “[[KEEP|no shoe]].” These combinations communicated requests, protests, possession, and social contact. Mixing languages did not itself indicate impairment.
+
+During teaching, [[CHILD|Eli]] learned a new action label after repeated models and used it again during play. However, he needed [[KEEP|mod cues]] to combine the label with another meaningful word. Similar support was needed in both languages. The parent described the same difficulty during familiar home routines.
+
+A conversational sample contained [[KEEP|42]] analyzable utterances. Mean length of utterance in words was [[KEEP|1.7]], interpreted descriptively across the mixed-language sample. The clinician marked [[KEEP|[EW]]] on utterances containing an extra word and reviewed those examples individually. No conclusion about bilingual grammar depended on that code alone.
+
+SPEECH SOUND AND INTELLIGIBILITY FINDINGS
+
+The speech sample showed variable production of consonants in longer words and frequent simplification of consonant clusters. The child sometimes produced /k/ as [t] and /g/ as [d]; these productions are represented here as [[KEEP|/k/]], [[KEEP|[t]]], [[KEEP|/g/]], and [[KEEP|[d]]]. Production of [[KEEP|/s/]] varied by word position and speaking rate.
+
+The clinician heard [[KEEP|[w]]] in some English words containing [[KEEP|/r/]]. Spanish [[KEEP|/ɾ/]] was inconsistent, and Spanish [[KEEP|/r/]] was not established in the sample. These later-developing sounds were considered within age and language expectations. Their absence alone does not justify a disorder diagnosis.
+
+Examples included “[[KEEP|tat]]” for “[[KEEP|cat]]” and “[[KEEP|poon]]” for “[[KEEP|spoon]].” When talking about the dog, he said “[[PET|Nube]] go.” That named production was recorded separately from the phonetic examples. The clinician avoided treating an unfamiliar English label as evidence of a speech sound error.
+
+An unfamiliar listener understood approximately [[KEEP|55%]] of spontaneous messages when the topic was known. Intelligibility improved to approximately [[KEEP|75%]] when gestures and objects supplied context. These are clinical estimates from this visit, not standardized scores. The parent reported better understanding at home.
+
+Stimulability probes showed correct [[KEEP|/k/]] production in [[KEEP|4/10]] trials with [[KEEP|max cues]], improving to [[KEEP|7/10]] with a placement model and slowed practice. These findings support further assessment during treatment before selecting a fixed speech sound protocol.
+
+PLAY, SOCIAL COMMUNICATION, AND FEEDING
+
+[[CHILD|Elian]] used eye gaze, pointing, giving, and shared smiles to connect with adults. He initiated joint attention during preferred play and checked the parent’s reaction when a toy made an unexpected sound. Pretend play included feeding a doll, parking vehicles, and placing animals inside a toy house.
+
+Turn-taking was successful in [[KEEP|4 of 5]] supported opportunities. The child needed [[KEEP|mod cues]] to request another turn using speech rather than reaching. Communication breakdowns usually led to repeated gestures, louder speech, or bringing the object closer. He accepted an adult model and sometimes tried again.
+
+The oral mechanism screening showed functional facial symmetry and movement for the observed speech and eating tasks. The clinician did not complete a detailed feeding evaluation. The child drank water and ate a familiar snack without observed coughing, wet vocal quality, or distress.
+
+The parent reported occasional refusal of unfamiliar textures but no growth concern. Current information does not support a feeding referral. The family should contact the pediatrician if swallowing symptoms or reduced intake develop. Ear-specific hearing follow-up remains relevant because fluctuating access to sound can affect communication learning.
+
+CLINICAL IMPRESSIONS
+
+Findings support a mixed receptive-expressive language disorder, documented with [[KEEP|F80.2]]. The conclusion rests on difficulty learning and combining language across both languages, limited comprehension beyond familiar routines, caregiver concerns, and the need for sustained support during teaching. English test scores contribute context but do not independently establish the diagnosis.
+
+[[CHILD|Elian]] has useful communication strengths, including social interest, gesture use, pretend play, and a positive response to models. These strengths should guide intervention. Speech sound development also warrants treatment monitoring because reduced clarity limits participation. The current sample does not support a definitive motor speech diagnosis.
+
+The clinician recommends bilingual intervention and continued Spanish use at home. The family’s language choices support relationships and access to daily routines. Progress should be measured through functional communication across settings, rather than through English performance alone.
+
+RECOMMENDATIONS AND SERVICE PLAN
+
+1. Begin speech-language treatment focused on comprehension, meaningful word combinations, and repair of communication breakdowns. Use [[KEEP|focused stimulation]], [[KEEP|Enhanced Milieu Teaching]], and caregiver coaching within preferred routines. Select vocabulary with the family and classroom staff.
+
+2. Introduce two-word models that match the child’s intended message. Examples include “[[KEEP|más pan]],” “[[KEEP|abre caja]],” “[[KEEP|help me]],” and “[[KEEP|car go]].” Accept speech, gestures, and mixed-language responses. Expand the message without requiring repeated correction.
+
+3. Use [[KEEP|Hanen]]-informed interaction strategies, including waiting, following the child’s lead, and balancing adult turns with child turns. This recommendation describes strategies; it does not represent enrollment in a certified parent program.
+
+4. Support comprehension through [[KEEP|visual cues]], short directions, and meaningful demonstrations. Gradually reduce assistance from [[KEEP|mod cues]] to [[KEEP|min cues]] as performance stabilizes. Confirm understanding through the child’s action rather than repeated questioning.
+
+5. Address speech clarity through play-based practice of functional words. Consider [[KEEP|Cycles]] only after collecting a broader bilingual speech sample. [[KEEP|PROMPT]] and [[KEEP|PECS]] are not current treatment recommendations because this assessment did not establish a need for those approaches.
+
+6. Complete the scheduled audiology follow-up. Share the findings with the pediatrician and treating clinician. The service coordinator should confirm that transportation and appointment information are available to the family.
+
+PROPOSED SERVICE SCHEDULE
+
+Service	Provider or agency	Frequency and duration	Preferred time	Start or review date
+Individual speech-language treatment	[[PROVIDER|Camila R. Serrano]], [[EMPLOYER|Two Rivers Pediatric Communication]]	Weekly, forty-five minutes	[[TIME|10:00 a.m.]]	[[DATE|July 28, 2026]]
+Caregiver coaching	Treating clinician and parent	Within each treatment visit	[[TIME|10:30 a.m.]]	[[DATE|July 28, 2026]]
+Classroom consultation	[[DAYCARE|Little Lantern Grove Childcare]]	Monthly, twenty minutes	[[TIME|11:15 a.m.]]	[[DATE|August 6, 2026]]
+Transition coordination	[[AGENCY|CDSA Briarleaf-Juniper]] and [[AGENCY|Enlace Familiar del Este]]	As needed through transition	By arrangement	[[DATE|August 20, 2026]]
+Progress review	Treating clinician and service coordinator	After the initial treatment block	[[TIME|9:30 a.m.]]	[[DATE|September 8, 2026]]
+
+FUNCTIONAL OUTCOMES AND FOLLOW-UP
+
+For IFSP Outcome [[KEEP|1]], [[CHILD|Elian]] will use a meaningful word combination or coordinated speech and gesture to request help in [[KEEP|4 of 5]] routine opportunities with [[KEEP|min cues]]. The family will record examples during meals and dressing.
+
+For IFSP Outcome [[KEEP|2]], the child will follow a familiar direction containing two related actions in [[KEEP|80%]] of opportunities with [[KEEP|min cues]]. Treatment will begin with real objects and daily activities. The team will track Spanish and English opportunities separately while considering overall functional progress.
+
+The clinician will review progress with [[PROVIDER|Nadia Beltrán]] before preschool transition. Recommendations may change after additional hearing information, classroom observations, and treatment response. The parent received an English report and a verbal explanation in Spanish. Ms. [[PARENT|Marisol Varela]] accurately restated the main recommendations and identified meals as the preferred starting routine.
+
+Signed electronically by [[PROVIDER|Camila R. Serrano]], MS, CCC-SLP, bilingual pediatric speech-language pathologist, [[EMPLOYER|Two Rivers Pediatric Communication]], North Carolina.
+
+Signature date: [[DATE|July 20, 2026]]
+Professional license number: [[ID|NC-SLP-48267]]

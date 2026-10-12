@@ -1,0 +1,37 @@
+Nota diaria de terapia del habla y lenguaje
+
+Fecha: [[DATE|11 de octubre de 2026]]
+Horario: [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]]
+Cliente: [[CHILD|Elian Montebrisa]]
+Edad: [[KEEP|2;2]] ([[KEEP|26 meses]])
+Expediente: [[ID|SL-60482]]
+Medicaid: [[MEDICAID_ID|604827193Q]]
+
+Estimada mamá [[PARENT|Nayeli Brisaclara]] y estimado papá [[PARENT|Darío Montebrisa]]:
+
+Hoy trabajé con [[CHILD|Elian]] en [[DAYCARE|El Paraguas de las Luciérnagas]], en [[PLACE|Cedrobruma]], condado de [[PLACE|Valleverde]], Carolina del Norte. Soy [[PROVIDER|Amalia Nubesoto]], patóloga bilingüe del habla y lenguaje de [[EMPLOYER|Voces del Sendero Infantil]]. La [[AGENCY|Agencia Regional de Coordinación del Desarrollo Infantil y Apoyo Integral a las Familias]] ([[AGENCY|ARCDIAIF]]) coordina sus servicios. Enviaré el resumen a [[AGENCY|ARCDIAIF]] conforme al permiso registrado.
+
+Su mamá [[PARENT|Nayeli]] informó que [[CHILD|Eli]] pidió agua durante el desayuno. Su abuela [[FAMILY|Ofelia Brisaclara]] observó más gestos para pedir ayuda. Su hermana [[SIBLING|Liora]], alumna de [[SCHOOL|Escuela Primaria Cumbre de Papel]], practicó turnos con él. También comentaron que dijo “[[PET|Nimbo]] ven” al llamar a su perro.
+
+La maestra [[TEACHER|Celia Farolín]] preparó una mesa tranquila. Participaron sus compañeros [[PEER|Bastián Cendal]] y [[PEER|Yuna Claroluz]]. Al principio, [[CHILD|Elian]] miró los juguetes sin hablar. Después eligió bloques y buscó mi mirada. El conductor [[PERSON|Tadeo Ventaluz]] esperó fuera del salón.
+
+Revisé la evaluación del [[DATE|25 de septiembre de 2026]]. En [[KEEP|Rossetti]], la edad equivalente de [[KEEP|Expresión del lenguaje]] fue [[KEEP|21–24 meses]]. En [[KEEP|Goldman-Fristoe]], obtuvo una puntuación estándar de [[KEEP|82]], percentil [[KEEP|12]], con intervalo de confianza [[KEEP|76–89]]. En [[KEEP|Peabody]], obtuvo [[KEEP|86]], percentil [[KEEP|18]]. En [[KEEP|Bayley]], el subtest [[KEEP|Comunicación receptiva]] mostró una puntuación escalada de [[KEEP|7]]. Estos resultados ayudan a elegir actividades; también considero lo que ustedes observan diariamente.
+
+Usé estrategias de [[KEEP|Hanen]]: esperar, seguir su interés y ampliar sus palabras. Para el objetivo [[KEEP|1]] del IFSP, produjo [[KEEP|“más bloques”]] en [[KEEP|8/10]] oportunidades, con [[KEEP|apoyos mínimos]]. Para el objetivo [[KEEP|2]], siguió instrucciones sencillas en [[KEEP|3 de 5]] oportunidades, con [[KEEP|apoyos moderados]]. Alcanzó [[KEEP|60%]] de respuestas correctas.
+
+Practicamos [[KEEP|/k/]] mediante juego y breves apoyos de [[KEEP|PROMPT]]. Dijo [[KEEP|“tato”]] por [[KEEP|“gato”]] y produjo [[KEEP|[w]]] al intentar [[KEEP|“rueda”]]. Registré [[KEEP|[EW]]] en la muestra analizada con [[KEEP|SALT]]. Cuando se cansó, ofrecí una pausa. Después volvió a participar sin llorar.
+
+Veo avances en sus intentos de comunicarse. Todavía necesita tiempo para responder y apoyo para combinar palabras. En casa, pueden ofrecer dos juguetes, esperar unos segundos y repetir su petición con una palabra adicional. Eviten pedir muchas repeticiones seguidas. Buscamos intercambios agradables durante las rutinas.
+
+La próxima sesión será el [[DATE|18 de octubre de 2026]], a las [[TIME|9:15 a. m.]]. La coordinadora [[PROVIDER|M. R.]] confirmará el lugar. Su papá trabaja en [[ORG|Talleres Horizonte de Cartón]] y pidió recibir avisos después de su turno. El pediatra [[PROVIDER|Ulises Pradoazul]], de [[HOSPITAL|Hospital Infantil Puente de Niebla]], recibirá el informe autorizado.
+
+Pueden contactarme en [[PHONE|919-555-0146]] o [[EMAIL|amalia.nubesoto@example.org]]. Nuestro portal es [[URL|https://voces-sendero.example.org]]. La dirección registrada es [[PLACE|418 Calle del Cometa]], [[PLACE|Cedrobruma]], Carolina del Norte, [[PLACE|27500]].
+
+Registro administrativo: CPT [[KEEP|92507]], modificador [[KEEP|GN]] e ICD-10 [[KEEP|F80.2]].
+
+Gracias por compartir sus observaciones y practicar juntos.
+
+Con cariño,
+
+[[PROVIDER|Amalia Nubesoto]]
+Patóloga bilingüe del habla y lenguaje

@@ -1,0 +1,98 @@
+Child Name: [[CHILD|Mateo Hernández Cruz]]
+Date of Birth: [[DATE|March 14, 2024]]
+Age at IFSP Review: [[KEEP|2;2]] ([[KEEP|26 months]])
+Primary Language(s) in Home: Spanish, English
+County of Residence: [[PLACE|Chatham County]]
+Family Address: [[PLACE|118 Willow Oak Lane, Siler City, NC 27344]]
+CDSA Office: [[AGENCY|Piedmont Triad CDSA]]
+Service Coordinator: [[PROVIDER|Denise Alvarez]]
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Record/Case ID: [[ID|IFSP-2026-04471]]
+Referral Date: [[DATE|November 3, 2025]]
+Initial Evaluation Date: [[DATE|November 19, 2025]]
+Initial IFSP Date: [[DATE|December 2, 2025]]
+This Review Date: [[DATE|October 6, 2026]]
+Next Review Due: [[DATE|April 6, 2027]]
+Primary Diagnosis/ICD-10: [[KEEP|F80.2]], Mixed Receptive-Expressive Language Disorder
+Treating Clinician: [[PROVIDER|Marisol Vega]], M.S., CCC-SLP, Bilingual Services Provider
+Employer: [[EMPLOYER|Triangle Pediatric Therapy Partners, PLLC]] (referred to below as [[EMPLOYER|Triangle Pediatric Therapy]], [[EMPLOYER|TPTP]])
+Office Address: [[PLACE|4420 Progress Court, Suite C, Durham, NC 27703]]
+Office Phone: [[PHONE|(919) 555-0148]]
+Clinician Email: [[EMAIL|mvega@trianglepediatrictherapy.com]]
+Agency Website: [[URL|www.trianglepediatrictherapy.com]]
+
+**Información Familiar / Family Information**
+
+[[CHILD|Mateo]] lives with his mother, [[PARENT|Lucía Rodríguez]], his older sister, [[SIBLING|Hope]] (age 6), and his maternal grandmother, [[FAMILY|doña Lupe]], who moved in with the family in [[DATE|February 2026]] to help with child care. [[CHILD|Mateo]]'s father, [[PARENT|Esteban Cruz]], lives in [[PLACE|Siler City]] and sees [[CHILD|Mateo]] on weekends; he was not present for this review but was consulted by phone on [[DATE|October 1, 2026]].
+
+[[PARENT|Lucía]] works two jobs to support the family. During the day she is a prep cook at a restaurant, and overnight three nights a week she works a stocking shift at [[ORG|QRS]], a regional warehouse company whose full name she says she has never seen written out — "solo le decimos QRS." Because of this schedule, [[FAMILY|doña Lupe]] and sometimes [[SIBLING|Hope]] help get [[CHILD|Mateo]] ready for daycare in the mornings. [[PARENT|Lucía]] reports feeling "cansada todo el tiempo, pero no me puedo quejar, hay que seguir."
+
+[[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Early Learning Center]] four days a week from [[TIME|7:45 a.m.]] to [[TIME|4:30 p.m.]]. His classroom teacher, [[TEACHER|Miss Ana]], reports that [[CHILD|Mateo]] is social with peers but "gets frustrated fast when nobody understands him." At daycare, [[CHILD|Mateo]]'s closest friend is [[PEER|Diego]], and the two are often found in the block corner together.
+
+**Preocupaciones y Prioridades Familiares / Family Concerns and Priorities**
+
+In the intake interview, conducted in Spanish at the family's request, [[PARENT|Lucía]] shared the following concerns, recorded here in her own words:
+
+"Mi mayor preocupación es que [[CHILD|Mateo]] no habla como los demás niños de su edad. En la casa yo le entiendo casi todo, pero cuando estamos en la tienda o con gente que no lo conoce, nadie le entiende nada."
+
+"A veces se enoja mucho porque quiere decir algo y no puede. Grita o jala la ropa, y yo no sé si es porque no entiende o porque no me puedo comunicar bien con él."
+
+"Quiero que aprenda bien los dos idiomas, español e inglés, porque en la casa hablamos español pero en la escuela todo es en inglés. No quiero que se le olvide el español."
+
+[[PARENT|Lucía]] also said, "doña Lupe me ayuda mucho, pero ella tampoco habla inglés, entonces cuando [[CHILD|Mateo]] empiece el prekínder, me preocupa que nadie en la escuela le entienda."
+
+Based on these statements, the family and team identified the following priorities for the coming IFSP period:
+
+1. [[CHILD|Mateo]] will increase functional communication in both English and Spanish so that unfamiliar listeners, including [[TEACHER|Miss Ana]] and extended family, can understand his wants and needs.
+2. The family will receive strategies, in Spanish, to support language development at home during daily routines.
+3. [[CHILD|Mateo]]'s frustration-related behaviors will decrease as his expressive communication increases.
+
+**Rutinas Diarias / Daily Routines**
+
+Mornings: [[FAMILY|doña Lupe]] wakes [[CHILD|Mateo]] around [[TIME|6:30 a.m.]]; he eats breakfast (usually avena or cereal) and is often resistant to getting dressed. [[FAMILY|doña Lupe]] reports that singing helps, "le gusta cuando le canto 'Los Pollitos' mientras se viste."
+
+Daycare: [[CHILD|Mateo]] is dropped off around [[TIME|7:45 a.m.]] by [[FAMILY|doña Lupe]] or [[SIBLING|Hope]] before her own school bus arrives. [[TEACHER|Miss Ana]] reports he participates in circle time but rarely initiates verbally, relying on pointing and pulling adults by the hand.
+
+Evenings: [[PARENT|Lucía]] or [[FAMILY|doña Lupe]] picks him up around [[TIME|4:30 p.m.]]. Dinner, bath, and bedtime routine happen between [[TIME|6:00 p.m.]] and [[TIME|8:00 p.m.]]. [[PARENT|Lucía]] notes that bath time is when [[CHILD|Mateo]] "habla más," naming body parts and toys, though mostly in single words.
+
+Weekends: [[CHILD|Mateo]] sometimes visits [[PARENT|Esteban]] in [[PLACE|Siler City]], where he also sees his paternal cousin, [[FAMILY|Will]]. [[PARENT|Esteban]] reports similar frustration behaviors at his house.
+
+**Otras Agencias / Other Agencies Involved**
+
+The family currently receives support from [[AGENCY|WIC]] for nutrition services and has an open case with [[AGENCY|Chatham County DSS]] for Medicaid renewal. [[PARENT|Lucía]] reported interest in enrolling [[CHILD|Mateo]] in a [[AGENCY|Smart Start]]-funded playgroup once a spot opens. The family was also referred to [[AGENCY|El Centro Hispano]] for Spanish-language parenting resources, though [[PARENT|Lucía]] has not yet attended a session due to her work schedule.
+
+**Present Levels of Development / Niveles Actuales de Desarrollo**
+
+Communication: On the [[KEEP|Preschool Language Scale, Fifth Edition]] ([[KEEP|PLS-5]]), administered in both English and Spanish by [[PROVIDER|Marisol Vega]] with interpretation support from [[PROVIDER|Denise Alvarez]], [[CHILD|Mateo]] obtained an [[KEEP|Auditory Comprehension]] standard score of [[KEEP|73]] (95% CI [[KEEP|68-78]], [[KEEP|4th percentile]]) and an [[KEEP|Expressive Communication]] standard score of [[KEEP|65]] (95% CI [[KEEP|60-70]], [[KEEP|2nd percentile]]), yielding an age equivalent of approximately [[KEEP|14 months]]. On the [[KEEP|Rossetti Infant-Toddler Language Scale]], parent report and direct observation placed expressive language skills in the [[KEEP|11-13 month]] range.
+
+[[CHILD|Mateo]]'s expressive vocabulary in structured sampling included approximately 25 consistent words across both languages, including "agua," "más," "mamá," "no," "pelota," and "arriba." He combined words inconsistently, producing two-word combinations in [[KEEP|2 of 10]] opportunities (for example, "más agua"). Phonemic inventory is reduced; he was observed to substitute [[KEEP|[w]]] for [[KEEP|/r/]] and to omit final consonants, as in his production of "pelota" as "[[KEEP|peo]]." Stimulability testing showed he could imitate the target sound [[KEEP|/p/]] with [[KEEP|moderate verbal and tactile cues]] in [[KEEP|3 of 5]] trials.
+
+Receptively, [[CHILD|Mateo]] followed simple one-step directions in Spanish 8/10 trials and in English 5/10 trials, suggesting stronger receptive skills in the home language, consistent with a typical bilingual profile and not indicative of a disorder limited to one language.
+
+Birth and medical history: [[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|6 lbs 11 oz]], with Apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes. No significant medical history is reported. Hearing was screened and passed at birth and again at the [[DATE|November 19, 2025]] evaluation.
+
+Motor, social-emotional, and adaptive skills are within age expectations per parent and teacher report, with mild concerns noted regarding frustration tolerance related to communication breakdowns.
+
+**Resultados y Estrategias / Outcomes and Strategies**
+
+**Outcome 1:** [[CHILD|Mateo]] will use two- to three-word combinations to request, comment, and protest across settings (home, daycare) in both Spanish and English, as measured by caregiver log and direct observation, by [[DATE|April 6, 2027]].
+
+Strategies: [[PROVIDER|Marisol Vega]] will model expansion techniques drawn from [[KEEP|Hanen]]'s "It Takes Two to Talk" during biweekly home visits, coaching [[PARENT|Lucía]] and [[FAMILY|doña Lupe]] to expand [[CHILD|Mateo]]'s single-word utterances in Spanish during daily routines (bath time, meals). [[TEACHER|Miss Ana]] will use parallel talk and modeling in English during daycare activities. Home program materials will be provided in Spanish.
+
+**Outcome 2:** [[CHILD|Mateo]] will produce final consonants in single words with no more than [[KEEP|minimal cues]], increasing intelligibility to familiar and unfamiliar listeners, as measured quarterly by probe data, by [[DATE|April 6, 2027]].
+
+Strategies: [[PROVIDER|Marisol Vega]] will implement a modified [[KEEP|Cycles approach]] targeting final consonant deletion, incorporating [[KEEP|PROMPT]]-informed tactile cueing given [[CHILD|Mateo]]'s stimulability for [[KEEP|/p/]] and [[KEEP|/t/]]. Target words will be selected in both languages (e.g., "pelota"/"ball," "gato"/"cat") to support cross-linguistic transfer.
+
+**Outcome 3:** The family will report at least two new strategies used successfully at home each month to support [[CHILD|Mateo]]'s communication and reduce frustration-related behaviors, as measured by caregiver interview, by [[DATE|April 6, 2027]].
+
+Strategies: [[PROVIDER|Marisol Vega]] and [[PROVIDER|Denise Alvarez]] will coordinate a joint home visit with [[AGENCY|El Centro Hispano]] staff to connect [[PARENT|Lucía]] with a Spanish-language caregiver support group. Visual supports (first/then boards) will be introduced in both languages for use at daycare and home, with [[TEACHER|Miss Ana]] trained on their use during a consultation visit.
+
+**Prestación de Servicios / Service Delivery**
+
+Speech-language therapy will continue at a frequency of two 30-minute sessions per week, delivered in home and community settings, billed under [[KEEP|CPT 92507]] and [[KEEP|CPT 92523]] as appropriate. Sessions will be conducted primarily in Spanish with English integration per family preference, consistent with the family's stated priority of dual-language development.
+
+Service coordination will continue monthly through [[AGENCY|Piedmont Triad CDSA]], coordinated by [[PROVIDER|Denise Alvarez]]. The team will reconvene for a six-month progress check on [[DATE|January 12, 2027]], with full annual review scheduled for [[DATE|April 6, 2027]].
+
+This IFSP was reviewed and signed by [[PARENT|Lucía Rodríguez]] (mother), with [[PROVIDER|Marisol Vega]] (treating clinician, [[EMPLOYER|TPTP]]) and [[PROVIDER|Denise Alvarez]] (service coordinator, [[AGENCY|Piedmont Triad CDSA]]) present. [[PARENT|Esteban Cruz]] participated by phone and verbally concurred with the outcomes as written. [[FAMILY|doña Lupe]] was present and asked clarifying questions in Spanish, which were addressed directly by [[PROVIDER|Marisol Vega]] without need for a separate interpreter, given her bilingual credentialing.
+
+For questions regarding this plan, the family may contact [[PROVIDER|Marisol Vega]] directly at [[EMAIL|mvega@trianglepediatrictherapy.com]] or through the [[EMPLOYER|Triangle Pediatric Therapy]] office at [[PHONE|(919) 555-0148]]. Additional resources and intake forms in Spanish are available at [[URL|www.trianglepediatrictherapy.com]].

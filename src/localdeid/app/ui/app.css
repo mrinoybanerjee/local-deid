@@ -1,0 +1,57 @@
+:root { --red: #b42318; --red-bg: #fde8e7; --amber: #8a5a00; --amber-bg: #fff3d6; --green: #146c2e;
+  --green-bg: #e3f6e8; --ink: #1d1d1f; --muted: #5f6368; --line: #d2d2d7; --focus: #0b57d0; }
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }  /* .overlay, .row, and .panes set display */
+body { margin: 0; font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; color: var(--ink); }
+nav { display: flex; gap: 4px; padding: 8px; border-bottom: 1px solid var(--line); flex-wrap: wrap; align-items: center; }
+nav button { border: 1px solid transparent; background: none; padding: 6px 10px; border-radius: 6px; font: inherit; }
+nav button[aria-current="page"] { border-color: var(--line); font-weight: 600; }
+#engine { margin-left: auto; color: var(--muted); }
+main { padding: 12px 16px; }
+h1 { font-size: 20px; margin: 4px 0 8px; }
+h2 { font-size: 15px; margin: 16px 0 6px; }
+.hint { color: var(--muted); margin: 4px 0 8px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+textarea { width: 100%; min-height: 260px; font: 13px/1.5 ui-monospace, Menlo, monospace; padding: 8px;
+  border: 1px solid var(--line); border-radius: 6px; }
+textarea.short { min-height: 64px; }
+input[type=text] { width: 100%; padding: 6px; border: 1px solid var(--line); border-radius: 6px; font: inherit; }
+label { display: block; margin-top: 10px; font-weight: 600; }
+label.inline { font-weight: normal; }
+.row { display: flex; gap: 8px; margin: 10px 0; align-items: center; flex-wrap: wrap; }
+button { font: inherit; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--line); background: #fff; }
+button.primary { background: var(--ink); color: #fff; border-color: var(--ink); }
+button.danger { background: var(--red); color: #fff; border-color: var(--red); }
+button:disabled { opacity: .45; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+#notice { margin: 8px 16px 0; padding: 8px 12px; border-radius: 6px; background: var(--green-bg); color: var(--green); }
+#notice.error { background: var(--red-bg); color: var(--red); }
+.child { font-size: 24px; font-weight: 700; }
+.child.big { font-size: 32px; }
+.badge { font-size: 12px; border: 1px solid var(--line); border-radius: 10px; padding: 1px 8px; vertical-align: middle; }
+.panes { display: grid; grid-template-columns: 1.4fr 1fr; gap: 12px; }
+@media (max-width: 760px) { .panes { grid-template-columns: 1fr; } }
+.pane { min-width: 0; }
+.text, pre { white-space: pre-wrap; word-wrap: break-word; border: 1px solid var(--line); border-radius: 6px; padding: 10px;
+  max-height: 60vh; overflow: auto; font: 13px/1.6 ui-monospace, Menlo, monospace; margin: 0; }
+.chip { border-radius: 4px; padding: 0 2px; border: 1px solid; }
+.chip.hidden { background: var(--red-bg); border-color: var(--red); color: var(--red); }
+.chip.unsure { background: var(--amber-bg); border-color: var(--amber); color: var(--amber); }
+.chip.kept { background: none; border-style: dashed; border-color: var(--muted); color: var(--ink); }
+.chip .tag { font-size: 10px; font-weight: 700; margin-left: 2px; }
+.rows { list-style: none; padding: 0; margin: 0; max-height: 60vh; overflow: auto; }
+.rows li { border: 1px solid var(--line); border-radius: 6px; padding: 8px; margin-bottom: 6px; }
+.rows li.sel { outline: 3px solid var(--focus); }
+.rows li.check { border-left: 5px solid var(--amber); }
+.rows .value { font-weight: 700; }
+.rows .meta { color: var(--muted); font-size: 12px; }
+.rows .ctx { font-size: 12px; color: var(--muted); font-family: ui-monospace, Menlo, monospace; }
+.failures { background: var(--red-bg); color: var(--red); border: 1px solid var(--red); border-radius: 6px; padding: 8px 12px; }
+.issues div { padding: 6px 10px; border-radius: 6px; margin: 4px 0; }
+.issues .block { background: var(--red-bg); color: var(--red); }
+.issues .warn { background: var(--amber-bg); color: var(--amber); }
+mark.restored { background: var(--green-bg); color: var(--green); border-bottom: 2px solid var(--green); }
+table { border-collapse: collapse; width: 100%; }
+td, th { text-align: left; padding: 6px; border-bottom: 1px solid var(--line); }
+.overlay { position: fixed; inset: 0; background: rgba(0,0,0,.35); display: flex; align-items: center; justify-content: center; }
+.card { background: #fff; padding: 20px; border-radius: 10px; max-width: 640px; }

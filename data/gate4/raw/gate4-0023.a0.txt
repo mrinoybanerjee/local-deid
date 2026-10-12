@@ -1,0 +1,25 @@
+Daily pediatric speech-language session note  Format: SOAP  Language: English with Spanish support
+Client: [[CHILD|Elian Marín]]  Preferred name: [[CHILD|Eli]]  Age: [[KEEP|4;2]]  Record: [[ID|NC-SLP-482731]]
+Service date: [[DATE|October 7, 2026]]  Start: [[TIME|9:10 a.m.]]  End: [[TIME|9:55 a.m.]]  Setting: Outpatient treatment room
+Clinician: [[PROVIDER|Marisol Varela]], MS, CCC-SLP  Employer: [[EMPLOYER|Little Lantern Bilingual Therapy]]  Location: [[PLACE|2846 Firefly Bend Road, Bellhaven Grove, NC 27591]]
+Contact: [[PHONE|919-555-0146]]  Email: [[EMAIL|mvarela@littlelantern.example]]  Website: [[URL|https://littlelantern.example/pediatric]]
+Coverage: [[MEDICAID_ID|583027416Q]]  Authorization: [[ID|AUTH-726184]]  Diagnosis: [[KEEP|F80.2]]  Procedure: [[KEEP|92507]]  Modifier: [[KEEP|GN]]
+
+Subjective: Mother [[PARENT|Inés Marín]] reported more spontaneous requests during breakfast. Father [[PARENT|Tomás Leiva]] practiced waiting before offering choices. Mother works at [[ORG|Silver Acorn Packaging]]. The family previously lived in [[PLACE|Aldea Los Luceros]], Honduras. Grandmother [[FAMILY|Celia Marín]] provides afternoon care, and babysitter [[FAMILY|Nora Beltrán]] follows the same picture routine. Sister [[SIBLING|Lina Leiva]] sometimes answers before her brother can respond. The clinician recommended giving the child a complete turn before helping. Sleep and appetite were reported as typical. No new hearing concerns were reported.
+
+Coordination: Classroom teacher Ms. [[TEACHER|Solís]] at [[SCHOOL|Willow Lantern Preschool]] described easier transitions with visual choices. Classroom assistant [[TEACHER|Dalia Neri]] requested a portable communication board. After-school attendance at [[DAYCARE|Pebble Kite Childcare]] remains unchanged. Service coordinator [[PROVIDER|Owen Tavera]] from [[AGENCY|Bellhaven Grove CDSA]] will receive the caregiver-approved summary through the established secure process. Pediatrician Dr. [[PROVIDER|Leona Firth]] at [[HOSPITAL|Juniper Harbor Children’s Hospital]] remains the referring provider. No outside communication occurred during this session.
+
+Historical score table: Measure  Evaluation date  Standard score  Percentile  Confidence interval
+Score row: [[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]]  [[DATE|September 16, 2026]]  [[KEEP|78]]  [[KEEP|7th percentile]]  [[KEEP|73-83]]
+Score row: [[KEEP|PLS-5]] / [[KEEP|Expressive Communication]]  [[DATE|September 16, 2026]]  [[KEEP|81]]  [[KEEP|10th percentile]]  [[KEEP|76–86]]
+Interpretation: Historical scores inform treatment planning. Today’s observations reflect supported performance and do not establish a new standardized baseline.
+
+Objective: [[CHILD|Elian]] entered willingly and selected the farm activity. The clinician used [[KEEP|Hanen]] interaction strategies and caregiver coaching from [[KEEP|It Takes Two to Talk]]. During requesting, [[KEEP|PECS]] supported picture exchanges before spoken models. The child independently exchanged pictures in [[KEEP|8/10]] opportunities and combined speech with gesture in [[KEEP|60%]] of opportunities. Productions included [[KEEP|"more bubbles"]], [[KEEP|"my turn"]], and [[KEEP|"open box"]]. Models remained brief and followed the child’s focus. Spanish responses received the same acknowledgment as English responses.
+
+Speech practice: A [[KEEP|Cycles]] activity targeted final consonants and initial [[KEEP|/k/]]. [[KEEP|Kaufman]] shaping supported movement from simple syllables toward [[KEEP|"cookie"]]. Brief [[KEEP|PROMPT]] cues were offered after explanation and assent; the child accepted them comfortably. Initial [[KEEP|/k/]] occurred in [[KEEP|3 of 5]] modeled trials with [[KEEP|mod cues]]. Final consonants occurred in [[KEEP|70%]] of practiced words with [[KEEP|min cues]]. A substitution of [[KEEP|[w]]] was heard during an unrelated spontaneous word. Spanish [[KEEP|/ɾ/]] was observed but was not targeted.
+
+Language sample: [[CHILD|Eli]] said "[[PET|Chispa]] run" while describing the family dog. During pretend play, the child said "[[PEER|Milo]] gets truck" and "[[PEER|Ada]] next." These peers attend the same classroom. The clinician expanded the messages without requiring repetition. Sample coding included [[KEEP|[EW]]] for an extra word. Community volunteer [[PERSON|Rafael Duno]] appeared only in the caregiver’s description of a library activity.
+
+Assessment: Participation improved when choices remained visible and adult questions decreased. Communication was stronger during familiar play than during direct naming. Performance suggests emerging carryover, with continued support needed for independent combinations. Findings across both languages support continued bilingual intervention.
+
+Plan: Continue [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]]. Practice requesting during snacks, then pause for an independent response. Caregiver demonstrated the routine accurately. Next session: [[DATE|October 14, 2026]]  Review date: [[DATE|November 4, 2026]]  Signature: [[PROVIDER|Marisol Varela]], MS, CCC-SLP

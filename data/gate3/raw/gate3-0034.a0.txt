@@ -1,0 +1,17 @@
+daily speech therapy note for [[DATE|October 8, 2026]] client [[CHILD|María José Cárdenas Solís]] age [[KEEP|4;2]] record [[ID|SLP-682941]] Medicaid [[MEDICAID_ID|583726194R]] seen in North Carolina by [[PROVIDER|Elena Marisol Varela]] MS CCC-SLP bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Pine Lantern Pediatric Therapy PLLC]]
+
+session schedule
+
+| day | start | stop | location |
+|---|---|---|---|
+| monday | [[TIME|9:00 am]] | [[TIME|9:30 am]] | [[SCHOOL|Willow Kite Preschool]] |
+| thursday | [[TIME|10:15 am]] | [[TIME|10:45 am]] | [[EMPLOYER|Pine Lantern Therapy]] |
+| friday | [[TIME|1:00 pm]] | [[TIME|1:30 pm]] | home in [[PLACE|Alder Cove]] |
+
+subjective mom [[PARENT|Lucía Solís]] reported [[CHILD|María José]] practiced with brother [[SIBLING|Tomás Cárdenas Solís]] and grandmother [[FAMILY|Inés Solís]] teacher Ms. [[TEACHER|Beltrán]] noticed more requests during snack peer [[PEER|Nora Bellamy]] joined the opening activity mom confirmed callback [[PHONE|919-555-0146]] and [[EMAIL|lucia.solis@example.com]]
+
+objective prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]] percentile [[KEEP|7]] confidence interval [[KEEP|73-83]] age equivalent [[KEEP|2;6–3;0]] reviewed today used [[KEEP|Cycles]] with [[KEEP|mod cues]] for [[KEEP|/k/]] initial targets [[KEEP|"casa"]] and [[KEEP|"key"]] accuracy [[KEEP|8/10]] then [[KEEP|60%]] without models produced [[KEEP|[w]]] during substitutions Spanish [[KEEP|/ɾ/]] remained inconsistent language sample included [[KEEP|"yo quiero agua"]] and [[KEEP|[EW]]] child also said "[[PET|Chispa]] run" while showing a pretend dog
+
+assessment participation improved with movement breaks and visual choices spontaneous requests occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]] fatigue increased near closing clinician at [[EMPLOYER|PLPT]] judged continued skilled treatment appropriate for functional communication across both languages
+
+plan continue [[KEEP|IFSP outcome 2]] share picture choices with family practice brief turns daily bill [[KEEP|CPT 92507]] modifier [[KEEP|GN]] diagnosis [[KEEP|ICD-10 F80.2]] next visit [[DATE|October 12, 2026]] review home carryover and classroom requests with mother then reduce models when accuracy remains stable across activities

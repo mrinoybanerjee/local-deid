@@ -1,0 +1,39 @@
+Document: Daily pediatric speech-language therapy note
+Client: [[CHILD|Elian Marverde]]
+DOB: [[DATE|August 9, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Session: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
+Clinician: [[PROVIDER|Celia Valmora]], bilingual speech-language pathologist
+Employer: [[EMPLOYER|Bright Acorn Pediatric Speech]]
+Location: [[PLACE|214 Moss Lantern Lane]], [[PLACE|Fern Hollow]], North Carolina [[PLACE|27000]]
+Record: [[ID|SLP-260109-048]]
+Medicaid: [[MEDICAID_ID|938471026Q]]
+Authorization: [[ID|AUTH-672804]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]
+Diagnosis: ICD-10 [[KEEP|F80.2]]
+Parent contact: [[PHONE|(919) 555-0146]]
+Alternate contact: [[PHONE|984-555-0182]]
+Email: [[EMAIL|marverde.family@example.org]]
+
+Subjective:
+Mother [[PARENT|Ines Marverde]] attended and requested English documentation with Spanish explanations. Father [[PARENT|Tomas Marverde]] provided updates by telephone. The parents described rotating and seasonal employment. Their workplace list, recorded in English and Spanish word order, included [[ORG|Copper Finch Store]] / tienda [[ORG|Copper Finch]]; [[ORG|Silver Reed Plant]] / planta [[ORG|Silver Reed]]; [[ORG|Amber Spoon Restaurant]] / restaurante [[ORG|Amber Spoon]]; [[ORG|Little Lantern Farm]] / granja [[ORG|Little Lantern]]; [[ORG|Cedar Kite Construction Company]] / compañía de construcción [[ORG|Cedar Kite]]; and [[ORG|Morning Pebble Cleaning Service]] / servicio de limpieza [[ORG|Morning Pebble]]. Shift changes affect practice opportunities.
+
+The family attends [[ORG|Open Lantern Community Center]]. Coordinator [[PERSON|Nora Belvane]] can receive scheduling calls at [[PHONE|919.555.0127]]. Grandmother [[FAMILY|Alma Rosvera]], in Mexico, joins practice calls through [[PHONE|+52 55 0000 0148]]. Sister [[SIBLING|Lidia Marverde]] models requests during play. Their dog, [[PET|Pico]], motivates action words.
+
+The child attends [[DAYCARE|Willow Lantern Early Learning Center]], in Ms. [[TEACHER|Salceda]]'s room. Classmate [[PEER|Mila Torven]] participates in shared book activities. The teacher reported increased spontaneous requests during snack.
+
+Objective:
+The session addressed comprehension, functional requests, and speech sound production through play in English and Spanish. Materials included a picture book, toy animals, bubbles, and matching cards. Activities followed [[KEEP|Hanen]] strategies and incorporated [[KEEP|PROMPT]] support when accepted.
+
+For IFSP goal [[KEEP|2]], the child followed related directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Requests expanded to two-word combinations in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Independent requests accounted for [[KEEP|60%]] of observed opportunities. Productions included "[[KEEP|more bubbles]]," "[[KEEP|my turn]]," and "[[KEEP|quiero agua]]."
+
+Practice targeted [[KEEP|/k/]] in "[[KEEP|cow]]" and "[[KEEP|cup]]." Accuracy reached [[KEEP|70%]] with [[KEEP|max cues]]. The clinician observed [[KEEP|[w]]] substitutions during connected speech and variable production of [[KEEP|/ɾ/]] in Spanish. During pretend play, the child said "[[PET|Pico]] run." One language-sample error received the SALT code [[KEEP|[EW]]]. Breaks supported participation without distress.
+
+Assessment:
+Prior testing on [[DATE|September 18, 2026]] included [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These results require interpretation alongside bilingual exposure and functional observations.
+
+Today, familiar routines supported comprehension and longer requests. Speech sound accuracy remained dependent on cues. Switching languages did not reduce participation. The parent demonstrated responsive waiting and accepted brief coaching. Progress supports continued treatment; independent communication remains less consistent during unfamiliar tasks. No new medical concerns were reported.
+
+Plan:
+Continue weekly therapy and review progress on [[DATE|November 6, 2026]]. Practice "[[KEEP|help me]]" and "[[KEEP|abre]]" during meals and play with [[KEEP|min cues]]. Encourage both languages and follow the child's preferred language. Send the teacher a draft practice sheet through the parent. Parent coaching will address wait time, simple models, and opportunities to request assistance. Recheck independent requesting before advancing the goal. The parent repeated the plan in Spanish and selected snack time for home practice.

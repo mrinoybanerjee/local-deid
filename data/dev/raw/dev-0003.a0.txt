@@ -1,0 +1,82 @@
+PROGRAMA INFANTIL Y DE LA NINEZ TEMPRANA DE CAROLINA DEL NORTE (NC Infant-Toddler Program)
+Revision del IFSP (Plan Individualizado de Servicios para la Familia)
+
+Oficina CDSA: [[AGENCY|CDSA del Area de Mecklenburg]]
+Coordinadora de servicios: [[PROVIDER|Brenda Williams]]
+Fecha de la revision del IFSP: [[DATE|15 de octubre de 2026]]
+Fecha del IFSP inicial: [[DATE|3 de marzo de 2026]]
+Fecha de la evaluacion mas reciente: [[DATE|28 de septiembre de 2026]]
+
+Nino: [[CHILD|Mateo de la Cruz-Hernandez]]
+Fecha de nacimiento: [[DATE|12 de junio de 2023]] (edad cronologica: 3;4)
+Numero de expediente del CDSA: [[ID|CDSA-48213]]
+Numero de Medicaid: [[MEDICAID_ID|MC9284736B]]
+Direccion de la familia: [[PLACE|482 Calle Roble]], [[PLACE|Charlotte]], [[PLACE|Condado de Mecklenburg]], [[PLACE|28205]]
+Telefono de contacto: [[PHONE|(704) 555-0192]]
+Correo electronico: [[EMAIL|lucia.rodriguez84@example.com]]
+
+PARTICIPANTES EN LA REUNION
+
+Madre: [[PARENT|Lucia Rodriguez]]
+Padre: [[PARENT|Carlos de la Cruz-Hernandez]]
+Hermana mayor: [[SIBLING|Sol]], de 5 anos
+Interprete de espanol certificada: [[PROVIDER|Maria Lopez]]
+Patologa del habla y lenguaje bilingue: [[PROVIDER|Ana Martinez]], de [[EMPLOYER|Carolina Pediatric Therapy Services]]
+Terapeuta ocupacional: [[PROVIDER|Jennifer Smith]] (OT)
+Fisioterapeuta: [[PROVIDER|David Kim]] (PT)
+Pediatra: Dra. [[PROVIDER|Susan Patel]], de [[HOSPITAL|Clinica Pediatrica Lakeview]]
+Coordinadora de servicios del CDSA: [[PROVIDER|Brenda Williams]]
+
+INFORMACION FAMILIAR
+
+[[CHILD|Mateo]] vive con su mama, [[PARENT|Lucia Rodriguez]]; su papa, [[PARENT|Carlos de la Cruz-Hernandez]]; y su hermana, [[SIBLING|Sol]]. La familia tambien recibe apoyo frecuente de la abuela materna, [[FAMILY|Rosa Hernandez]], quien cuida a los ninos tres tardes por semana mientras [[PARENT|Lucia]] trabaja en [[ORG|Supermercado Compare]] y [[PARENT|Carlos]] trabaja en [[ORG|Techos y Construccion Alvarado]]. La familia tiene un perro llamado [[PET|Max]] que [[CHILD|Mateo]] disfruta mucho.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en sus propias palabras)
+
+[[PARENT|Lucia]] comparte: "Lo que mas nos preocupa es que [[CHILD|Mateo]] no habla casi nada en casa. El dice algunas palabras sueltas, pero no las junta. En la guarderia la maestra dice que el se frustra y a veces empuja a otros ninos porque no puede decir lo que quiere."
+
+[[PARENT|Carlos]] agrega: "Queremos que el pueda decirnos que necesita sin llorar o gritar. Tambien queremos entender si el problema es del lenguaje o si es algo mas, porque el pediatra menciono que podria ser autismo."
+
+La familia prioriza: (1) que [[CHILD|Mateo]] use palabras para pedir cosas durante las comidas y el juego; (2) que disminuyan las conductas de frustracion en [[DAYCARE|Guarderia Pequenos Pasos]]; y (3) recibir informacion sobre servicios de autismo en espanol.
+
+RUTINAS DIARIAS
+
+[[CHILD|Mateo]] se despierta alrededor de las [[TIME|7:00 a.m.]] y desayuna con su familia. Asiste a [[DAYCARE|Guarderia Pequenos Pasos]] de [[TIME|8:30 a.m.]] a [[TIME|3:00 p.m.]], donde su maestra, la [[TEACHER|Senora Diaz]], reporta que juega cerca de otros ninos pero rara vez se comunica con palabras; su companero de clase, [[PEER|Jacob]], suele intentar jugar con el sin exito. Por las tardes, [[CHILD|Mateo]] ve dibujos animados con su hermana [[SIBLING|Sol]] y cena en familia alrededor de las [[TIME|6:30 p.m.]]. La hora del bano y el cuento antes de dormir, usualmente a las [[TIME|8:00 p.m.]], es un momento que la familia describe como tranquilo y donde [[CHILD|Mateo]] senala imagenes en los libros.
+
+OTRAS AGENCIAS Y APOYOS
+
+La familia recibe beneficios de [[AGENCY|WIC]] y participa en el programa [[AGENCY|Smart Start del Condado de Mecklenburg]] para actividades de alfabetizacion familiar. [[PARENT|Lucia]] tambien mencionó interes en contactar a [[AGENCY|Autism Society of North Carolina]] para obtener materiales en espanol sobre el diagnostico pendiente.
+
+RESUMEN DE LA EVALUACION
+
+Se administraron medidas de lenguaje receptivo y expresivo en espanol e ingles. [[CHILD|Mateo]] obtuvo puntajes por debajo del percentil 5 en lenguaje expresivo y por debajo del percentil 10 en lenguaje receptivo. Produjo aproximaciones de palabras como "aba" para "agua" y "nene" para "nene" (es decir, el mismo), con 8/10 intentos de imitacion de vocales abiertas exitosos (80% de precision), pero 0/10 en la imitacion de consonantes finales. El diagnostico medico de referencia es trastorno del desarrollo del habla y el lenguaje (F80.2). La pediatra, Dra. [[PROVIDER|Susan Patel]], refirio ademas una evaluacion diagnostica de autismo, pendiente de programar.
+
+RESULTADOS (OUTCOMES) Y ESTRATEGIAS
+
+Resultado 1: [[CHILD|Mateo]] usara 10 palabras funcionales diferentes para pedir comida, juguetes o ayuda durante las rutinas de comida y juego, observado por sus padres y la maestra [[TEACHER|Senora Diaz]].
+Estrategias: modelado de lenguaje aumentado, pausas de espera estructurada, y uso de senas simples como apoyo mientras emerge el habla. La familia practicara estas estrategias durante la cena y el bano.
+
+Resultado 2: [[CHILD|Mateo]] disminuira las conductas de empujar o golpear en [[DAYCARE|Guarderia Pequenos Pasos]] a menos de una vez por dia, usando palabras o gestos para expresar frustracion.
+Estrategias: ensenar un gesto de "ayuda" y frases cortas como "mas" o "ya no", con el apoyo de la terapeuta ocupacional, [[PROVIDER|Jennifer Smith]], para regulacion sensorial.
+
+Resultado 3: La familia recibira informacion en espanol sobre el proceso de evaluacion de autismo y los recursos disponibles en el [[AGENCY|CDSA del Area de Mecklenburg]] antes de la proxima revision.
+Estrategia: la coordinadora de servicios, [[PROVIDER|Brenda Williams]], enviara folletos traducidos y coordinara una cita con el equipo de diagnostico.
+
+SERVICIOS Y FECHAS
+
+Terapia de habla y lenguaje: dos sesiones individuales por semana, de 30 minutos, bajo el codigo CPT 92507, provistas por [[PROVIDER|Ana Martinez]] en el hogar de la familia. Fecha de inicio: [[DATE|10 de marzo de 2026]].
+
+Evaluacion y tratamiento de la deglucion segun necesidad (CPT 92523), con monitoreo durante las comidas, a cargo de [[PROVIDER|Ana Martinez]], con interpretacion provista por [[PROVIDER|Maria Lopez]] cuando sea necesario.
+
+Terapia ocupacional: una sesion semanal de 45 minutos, iniciada el [[DATE|17 de marzo de 2026]], a cargo de [[PROVIDER|Jennifer Smith]].
+
+Fisioterapia: consulta inicial realizada el [[DATE|20 de marzo de 2026]] por [[PROVIDER|David Kim]]; no se recomiendan servicios continuos en este momento debido a desarrollo motor grueso dentro de limites normales.
+
+Proxima revision del IFSP programada para [[DATE|15 de abril de 2027]].
+
+FIRMAS
+
+Firma de la madre: [[PARENT|Lucia Rodriguez]] Fecha: [[DATE|15 de octubre de 2026]]
+Firma del padre: [[PARENT|Carlos de la Cruz-Hernandez]] Fecha: [[DATE|15 de octubre de 2026]]
+Firma de la coordinadora de servicios: [[PROVIDER|Brenda Williams]] Fecha: [[DATE|15 de octubre de 2026]]
+Firma de la patologa del habla y lenguaje: [[PROVIDER|Ana Martinez]], [[EMPLOYER|Carolina Pediatric Therapy Services]] Fecha: [[DATE|15 de octubre de 2026]]

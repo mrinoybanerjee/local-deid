@@ -1,0 +1,32 @@
+1. Identificación y coordinación
+   1.1. Datos de la sesión
+
+Fecha: [[DATE|11 de octubre de 2026]], de [[TIME|09:10]] a [[TIME|09:55]]. Paciente: [[CHILD|Mateo Salcedo Ríos]], llamado [[CHILD|Teo]], de [[KEEP|4;2]]. Expediente: [[ID|NC-482731]]; Medicaid: [[MEDICAID_ID|583729164Q]].
+
+La sesión domiciliaria ocurrió en [[PLACE|184 Calle del Junco]], [[PLACE|Vallebruma]], Carolina del Norte, [[PLACE|27904]].
+
+   1.2. Servicios vinculados
+
+Participan la [[AGENCY|Oficina de la Agencia de Servicios del Desarrollo Infantil Senderos del Este]] ([[AGENCY|CDSA Senderos]]) y la [[AGENCY|Red de Acompañamiento Familiar e Intervención Temprana]] ([[AGENCY|RAFIT]]), agencia de la coordinadora [[PROVIDER|Elena Robledo]]. También colabora la [[AGENCY|Oficina Smart Start Semillero]], del condado de [[PLACE|Sauceclaro]].
+
+2. Información subjetiva
+   2.1. Informe familiar
+
+Su mamá [[PARENT|Lucía Salcedo]] informó mayor iniciativa comunicativa. Su abuela, doña [[FAMILY|Lupe]], observó intercambios con su hermano [[SIBLING|José Salcedo Ríos]], llamado [[SIBLING|Pepe]]. La familia comunicó buena disposición y ausencia de cambios relevantes desde la visita anterior.
+
+3. Observación objetiva
+   3.1. Participación y resultados
+
+La terapeuta bilingüe [[PROVIDER|Marina Beltrán]], de [[EMPLOYER|Lenguaje y Puentes Pediátricos]], aplicó [[KEEP|Hanen]] y [[KEEP|PROMPT]]. Se practicó [[KEEP|/k/]] con [[KEEP|mod cues]]: [[KEEP|8/10]], equivalente a [[KEEP|80%]]. Produjo [[KEEP|"casa"]] y [[KEEP|"quiero agua"]]; registró [[KEEP|[EW]]] en una muestra espontánea.
+
+El informe previo de [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], documenta puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y equivalente de edad [[KEEP|2;6–3;0]].
+
+4. Análisis clínico
+   4.1. Interpretación
+
+Persisten dificultades de comprensión verbal y organización fonológica. La participación mejora con apoyos visuales y pausas. El desempeño observado indica avance hacia la meta [[KEEP|2]] del IFSP, aunque todavía requiere ayuda frecuente.
+
+5. Plan
+   5.1. Seguimiento
+
+Continuar práctica funcional y coordinar con la maestra [[TEACHER|Ana]] del [[DAYCARE|Centro Infantil Nubes Pequeñas]]. Próxima sesión: [[DATE|18 de octubre de 2026]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]. Contacto profesional: [[PHONE|919-555-0146]]; [[EMAIL|marina@puentes.example]].

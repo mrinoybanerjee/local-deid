@@ -1,0 +1,18 @@
+Fecha: [[DATE|June 18, 2026]]  Hora: [[TIME|9:10 AM]]  Duración: 45 minutes
+Cliente: [[CHILD|Emilio Solano]]  Edad: [[KEEP|4;2]]  Expediente: [[ID|SLP-682419]]
+Medicaid: [[MEDICAID_ID|583016924M]]  CPT: [[KEEP|92507]]  Modificador: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Clinician: [[PROVIDER|Marisol Vela]], bilingual pediatric SLP  Employer: [[EMPLOYER|Firefly Bridge Pediatric Therapy]]
+Escuela: [[SCHOOL|Copperleaf School District]]  Campus: [[SCHOOL|Moonfern Elementary School]]  Aula: preschool, Ms. [[TEACHER|Rosa Beltrán]]
+Domicilio: [[PLACE|4826 Lantern Finch Lane]], [[PLACE|Willowfen]], North Carolina [[PLACE|27863]]  Teléfono: [[PHONE|919-555-0146]]
+Contacto: mamá [[PARENT|Clara Solano]]  Email: [[EMAIL|clara.solano@example.com]]
+Apoyo: [[AGENCY|Little Lantern WIC Office]], [[PLACE|Fernbrook County]]  Pueblo familiar: [[PLACE|El Guayabalito]], Honduras
+
+Historia médica: Born [[DATE|April 18, 2022]], at [[KEEP|32 weeks, 4 days]]; birth weight [[KEEP|2.14 kg]]. Apgar scores were [[KEEP|7]] and [[KEEP|9]]. Delivered at [[HOSPITAL|Silver Heron Regional Hospital]]; NICU stay lasted nine days. Dr. [[PROVIDER|Adrian Cordero]] documented feeding immaturity; pediatrician Dr. [[PROVIDER|Nina Falcón]] follows development. No new medical concerns reported today.
+
+S—Subjetivo: Mamá stated, “Ya pide ayuda, pero cuando llega su hermana se queda callado.” Sister [[SIBLING|Inés Solano]] joined the opening routine. Abuela [[FAMILY|Teresa Moya]] practices picture choices after school. Papá [[PARENT|Diego Solano]] works at [[ORG|Juniper Kite Packaging]]. Family reports that the dog, [[PET|Chispa]], motivates requests. Teacher Ms. [[TEACHER|Beltrán]] reports better participation beside classmate [[PEER|Luna Paredes]].
+
+O—Objetivo: Prior [[KEEP|PLS-5]] results: [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]]; [[KEEP|Expressive Communication]], standard score [[KEEP|81]], age-equivalent range [[KEEP|2;6–3;0]]. Today, followed spatial directions in [[KEEP|8/10]] trials with [[KEEP|mod cues]]. Used requests independently in [[KEEP|60%]] of opportunities. Produced [[KEEP|"quiero más"]], [[KEEP|"help me"]], and [[KEEP|"car go"]]. For target [[KEEP|"casa"]], initial [[KEEP|/k/]] emerged in [[KEEP|3 of 5]] attempts with [[KEEP|max cues]]; English gliding included [[KEEP|[w]]]. During play, said “[[PET|Chispa]] run.” One omitted article received [[KEEP|[EW]]] coding.
+
+A—Análisis: Functional communication increased with familiar routines and bilingual models. Code-switching supported participation. Speech clarity decreased during longer utterances. No distress observed; transitions improved with visual choices. Child responded to shared attention, extra wait time, and brief movement breaks.
+
+P—Plan: Continue [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] activities. Address IFSP outcome [[KEEP|2]] through requests and caregiver coaching. Model target [[KEEP|"ayuda"]], then fade to [[KEEP|min cues]]. Mamá demonstrated the routine and agreed to practice during snack. Coordinate classroom carryover with current teacher. Próxima sesión: [[DATE|June 25, 2026]], [[TIME|9:10 AM]]. Clinician will review progress at the next visit.

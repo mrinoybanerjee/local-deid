@@ -1,0 +1,33 @@
+Patient Name: [[CHILD|Mateo Alejandro Flores]]
+DOB: [[DATE|04/12/2022]]
+Medicaid ID: [[MEDICAID_ID|NC8847261B]]
+Record ID: [[ID|LDID-00453]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Location: [[HOSPITAL|Carolina Pines Health System – Weddington Pediatric Rehabilitation Campus]]
+Clinician: [[PROVIDER|Alicia Burnham]], MS, CCC-SLP, bilingual (English/Spanish)
+Interpreter: [[PROVIDER|Rosa Delgado]]
+Referring Physician: Dr. [[PROVIDER|Nathaniel Osei]], [[AGENCY|Carolina Pines ENT & Audiology Associates]]
+Parent/Guardian Present: [[PARENT|Lucía Rodríguez Flores]]
+CPT Code: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.1]], modifier [[KEEP|GN]]
+
+SUBJECTIVE:
+[[PARENT|Lucía]] reports [[CHILD|Mateo]] has been "talking more at home" and attempted to call the family dog by name, saying "[[PET|Canela]] ven" during play. She notes he continues to mix English and Spanish with his cousin, [[FAMILY|Diego Fuentes]], who visited over the weekend. The babysitter, [[FAMILY|Yesenia Morales]], reported similar two-word combinations during afternoon care. [[PARENT|Lucía]] denies new illness; [[CHILD|Mateo]] was born at [[KEEP|34]] weeks gestational age with birth weight [[KEEP|4 lbs 11 oz]] and Apgar scores of [[KEEP|6-8]]; he spent [[KEEP|3]] weeks in the NICU at [[HOSPITAL|Novant Rowan Regional NICU]].
+
+OBJECTIVE:
+Administered selected subtests of the [[KEEP|Rossetti Infant-Toddler Language Scale]] and [[KEEP|Goldman-Fristoe Test of Articulation-3]]. [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]] (range [[KEEP|73-83]]), [[KEEP|12th percentile]]; [[KEEP|Expressive Communication]] age equivalent [[KEEP|2;6–3;0]], confidence interval [[KEEP|70-86]]. Articulation sample yielded correct production of /[[KEEP|k]]/ in isolation but substitution of [[KEEP|[t]]] for /[[KEEP|k]]/ in connected speech, e.g., target "cama" produced as "[[KEEP|tama]]." [[CHILD|Mateo]] imitated /[[KEEP|ɾ]]/ with [[KEEP|mod cues]] in "para," [[KEEP|3 of 5]] trials correct. SALT code [[KEEP|[EW]]] noted for one unintelligible utterance.
+
+[[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Early Learning Center]] in [[PLACE|Weddington]], where his teacher, Ms. [[TEACHER|Caroline Hastings]], reports he plays alongside classmates [[PEER|Owen Baptiste]] and [[PEER|Zara Lin]] during circle time but rarely initiates verbal turns. Service Coordinator [[PROVIDER|Tasha Whitfield]] from [[AGENCY|Union County CDSA]] coordinated this visit alongside the IFSP review. [[CHILD|Mateo]]'s father, [[PARENT|Rubén Flores]], works at [[ORG|Continental Tire]] and was unable to attend. Grandmother [[FAMILY|Ofelia Rodríguez]] assists with transportation twice weekly.
+
+Trial use of [[KEEP|PECS]] cards for requesting introduced today; [[CHILD|Mateo]] independently exchanged a card for "more" during snack, [[KEEP|8/10]] opportunities. Parent coaching followed a [[KEEP|Hanen]]-based "It Takes Two to Talk" framework, emphasizing expansion strategies. [[KEEP|Cycles]] phonological approach targeting final consonant deletion continues; home practice includes the word "pato" /[[KEEP|p]][[KEEP|a]][[KEEP|t]][[KEEP|o]]/.
+
+ASSESSMENT:
+[[CHILD|Mateo]] continues to demonstrate delays consistent with [[KEEP|F80.1]] expressive/receptive language disorder. Gains noted in symbolic exchange via [[KEEP|PECS]] and emerging consonant repertoire. IFSP Outcome [[KEEP|2]] (expressive vocabulary growth) shows measurable progress toward criterion.
+
+PLAN:
+Continue weekly bilingual sessions targeting [[KEEP|PROMPT]]-informed tactile cueing for /[[KEEP|k]]/ and /[[KEEP|ɾ]]/. Recommend audiology recheck at [[AGENCY|Carolina Pines ENT & Audiology Associates]] given history of recurrent otitis media; next appointment scheduled [[DATE|November 3, 2026]] at [[TIME|9:00 AM]]. Family contact: [[PHONE|(704) 555-0198]], [[EMAIL|lucia.flores84@example.com]]. Case will be reviewed at six-month IFSP meeting.
+
+Next session: [[DATE|October 16, 2026]], [[TIME|2:30 PM]].
+
+Documented by: [[PROVIDER|Alicia Burnham]], MS, CCC-SLP, [[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]]

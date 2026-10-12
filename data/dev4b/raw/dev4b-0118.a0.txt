@@ -1,0 +1,20 @@
+Patient: [[CHILD|Mateo Fernández]]
+DOB: [[DATE|04/18/2022]]
+Age: [[KEEP|4;5]]
+Medicaid ID: [[MEDICAID_ID|NC7738291K]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Setting: [[DAYCARE|Rolling Acorns]]
+Provider: [[PROVIDER|Dana Whitfield, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Interpreter: [[PROVIDER|Marisol Ortiz]]
+
+S: [[CHILD|Mateo]] arrived from his classroom at [[DAYCARE|Rolling Acorns]] accompanied by [[TEACHER|Miss Ana]], who reported he had a rough morning after his lunchbox was mixed up with a classmate's, [[PEER|Jaylen]]. His mother, [[PARENT|Lucía Fernández]], called ahead at [[TIME|1:45 PM]] to confirm the session, using her cell at [[PHONE|(919) 555-0148]]. She noted that [[CHILD|Mateo]]'s abuela, [[FAMILY|doña Lupe]], has been working on home carryover using flashcards from the [[ORG|Little Learners Program]], the therapy curriculum he also receives through [[DAYCARE|Little Learners Daycare]]'s enrichment block on Tuesdays.
+
+O: Session began with a warm-up using a puppet named [[PET|Biscuit]], which [[CHILD|Mateo]] used spontaneously, labeling "[[KEEP|Biscuit]] eat." Articulation drill targeted [[KEEP|/k/]] and [[KEEP|/g/]] in word-initial position using [[KEEP|PROMPT]] tactile cueing. He produced "[[KEEP|cat]]" correctly [[KEEP|8/10]] trials with [[KEEP|mod cues]], and "[[KEEP|go]]" [[KEEP|7/10]] with [[KEEP|min cues]]. Standardized retest using the [[KEEP|Goldman-Fristoe Test of Articulation-3]] yielded a standard score of [[KEEP|82]] ([[KEEP|79-85]] CI), [[KEEP|13th percentile]], up from last quarter's [[KEEP|76]].
+
+[[CHILD|Mateo]] briefly mentioned his brother, [[SIBLING|Tomás]], saying "[[SIBLING|Tomás]] run fast," which was coded [[KEEP|[EW]]] for early word combination. Receptive language was probed with the [[KEEP|PLS-5 Auditory Comprehension]] subtest; raw scores support an age equivalent of [[KEEP|3;2–3;6]]. Social engagement remained strong; he referenced his friend from the [[DAYCARE|Little Learners Daycare]] classroom, [[PEER|Sofia]], twice during play.
+
+A: [[CHILD|Mateo]] continues to demonstrate steady gains in phonological accuracy and expressive syntax, consistent with ongoing goals under [[KEEP|IFSP Outcome 2]]. Family engagement remains excellent; [[PARENT|Lucía]] and [[FAMILY|doña Lupe]] both reinforce targets at home.
+
+P: Continue biweekly sessions targeting [[KEEP|/k/]], [[KEEP|/g/]], and two-word combinations using [[KEEP|Hanen]] strategies. Recommend follow-up with [[AGENCY|CDSA of the Piedmont]] service coordinator [[PROVIDER|Mr. Tom Reyes]] regarding transition planning; his office line is [[PHONE|919.555.2290]], and his direct cell is [[PHONE|919-555-7734]]. Classroom teacher [[TEACHER|la maestra Carmen]] requested a copy of the updated goal sheet be sent to [[DAYCARE|Rolling Acorns]] front office. Family's contact in [[PLACE|Oaxaca]], grandfather [[FAMILY|Mr. Hector Fernández]], may be reached at [[PHONE|+52 951 555 0187]] regarding cultural considerations for bilingual service delivery. Next IFSP review scheduled for [[DATE|January 14, 2027]] at [[TIME|10:00 AM]] at the [[AGENCY|Smart Start of Durham County]] office, [[PLACE|412 Larchwood Drive, Durham, NC 27705]]. Case ID: [[ID|SLP-20261009-MF]].

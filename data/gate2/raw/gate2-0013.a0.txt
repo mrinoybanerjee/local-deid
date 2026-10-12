@@ -1,0 +1,134 @@
+Document type: NC Infant-Toddler Program IFSP review
+Record status: Fictional training document
+Child: [[CHILD|Ana Lucía del Río Paredes]]
+Preferred name: [[CHILD|Anita]]
+Child initials: [[CHILD|ALRP]]
+Date of birth: [[DATE|03/03/2023]]
+Age at review: [[KEEP|30 months]]
+Review date: [[DATE|September 3, 2025]]
+Original IFSP date: [[DATE|06/04/2024]]
+Record number: [[ID|FT-582041]]
+CDSA case number: [[ID|CDSA-740826]]
+Medicaid member number: [[MEDICAID_ID|482731096K]]
+Service authorization: [[ID|ST-26041873]]
+Home address: [[PLACE|1847 Lantern Fern Lane]], [[PLACE|Bellmarsh]], North Carolina [[PLACE|27806]]
+County: [[PLACE|Brindle County]]
+Mother: [[PARENT|Lucía del Río Salceda]]
+Father: [[PARENT|Andrés Paredes-Montiel]]
+Primary telephone: [[PHONE|(919) 555-0146]]
+Alternate telephone: [[PHONE|252-555-0183]]
+Parent email: [[EMAIL|lucia.paredes@example.com]]
+Service coordinator: [[PROVIDER|Elena Castañeda]]
+CDSA office: [[AGENCY|Brindle River Children’s Developmental Services Agency]]
+CDSA address: [[PLACE|620 Willowglass Avenue]], [[PLACE|Bellmarsh]], North Carolina [[PLACE|27806]]
+CDSA telephone: [[PHONE|(252) 555-0128]]
+Reporting clinician: [[PROVIDER|Marisol de la Cruz-Vega]], MS, CCC-SLP
+Clinician employer: [[EMPLOYER|Cedar Lantern Pediatric Communication Therapy PLLC]]
+Employer telephone: [[PHONE|(919) 555-0162]]
+Clinician email: [[EMAIL|marisol.clinical@example.com]]
+Employer website: [[URL|https://cedarlanterntherapy.example.com]]
+Early learning setting: [[DAYCARE|Cobalt Teacup Orchard]]
+Setting address: [[PLACE|92 Copperseed Court]], [[PLACE|Bellmarsh]], North Carolina [[PLACE|27806]]
+Review participants: Both parents, service coordinator, classroom lead, and reporting clinician
+Language of document: English
+Family languages: Spanish and English
+
+FAMILY INFORMATION AND PARTICIPATION
+
+[[CHILD|Ana Lucía del Río Paredes]] lives with her parents and her brother, [[SIBLING|Tomás del Río Paredes]], who is [[KEEP|6 years]] old. Her maternal grandmother, [[FAMILY|Beatriz del Río]], provides afternoon care twice weekly. A family friend, [[FAMILY|Nora Pineda-Solís]], occasionally provides evening care. The household includes a cat named [[PET|Miga]]. The family rents a ground-floor apartment and reports reliable access to food, transportation, and a working telephone.
+
+[[PARENT|Lucía del Río Salceda]] works at [[ORG|Pineglass Packaging Cooperative]]. [[PARENT|Andrés Paredes-Montiel]] works at [[ORG|Moonreed Bicycle Works]]. Their schedules vary, so visits arranged well ahead are easier to attend. The family prefers home visits after [[TIME|4:30 p.m.]] and classroom visits before [[TIME|10:00 a.m.]]. Both parents want copies of written recommendations in English, with Spanish examples when helpful.
+
+The clinician conducted this review bilingually and wrote the export in English. Each participant could ask questions in either language. No interpreter attended because the family requested direct discussion with the bilingual clinician. The parents described their priorities separately, then agreed on shared outcomes. They consented to coordination with the early learning setting and pediatric practice.
+
+FAMILY CONCERNS AND PRIORITIES
+
+[[PARENT|Lucía del Río Salceda]] stated, “I want to understand what she needs before she gets upset. At breakfast, I guess several things, and sometimes none of them is right. I want her to tell me when she wants help, when she wants more, and when she is finished.”
+
+[[PARENT|Andrés Paredes-Montiel]] stated, “I want us to hear her ideas, not only requests. She brings me a toy and looks at me, but I do not always know what game she wants. I also want our relatives to understand that Spanish belongs in her daily life.”
+
+The parents identified three priorities: easier communication during meals, calmer transitions, and more participation with other children. They want strategies that fit activities already happening at home. They do not want a large set of separate practice tasks. Their preferred measure of progress is whether familiar adults understand [[CHILD|Anita]] more often and whether she joins activities with less frustration.
+
+FAMILY STRENGTHS AND RESOURCES
+
+The family notices subtle communication signals and responds warmly. Both parents use songs, gestures, books, and playful pauses. Grandmother [[FAMILY|Beatriz del Río]] consistently offers choices and waits for a response. Brother [[SIBLING|Tomás]] enjoys simple pretend games and accepts coaching about leaving space for his sister to take a turn.
+
+The family has a small collection of picture books, toy dishes, animal figures, and reusable picture cards. These materials can support the outcomes without new purchases. The parents report that [[CHILD|Ana Lucía]] often communicates best when an adult sits nearby, follows her interest, and uses a short phrase.
+
+DAILY ROUTINES AND PARTICIPATION
+
+Breakfast usually begins at [[TIME|7:15 a.m.]]. [[CHILD|Anita]] selects a cup by reaching and sometimes pairs the reach with [[KEEP|"ese"]]. She may push a plate away without explaining whether she is finished or dislikes the food. The parents will keep two useful choices visible and model [[KEEP|"más"]], [[KEEP|"ayuda"]], and [[KEEP|"all done"]] without requiring repetition before honoring a clear message.
+
+Arrival at [[DAYCARE|Cobalt Teacup Orchard]] occurs near [[TIME|8:10 a.m.]]. Classroom lead Ms. [[TEACHER|Iris Valverde]] reports that a familiar greeting and a picture of the first activity help. Classroom assistant Mr. [[TEACHER|Owen Reed-Márquez]] offers a quiet place to watch before joining. Peer [[PEER|Lila Benítez]] often brings a basket of blocks, while peer [[PEER|Benji Soto]] prefers vehicle play.
+
+At home, bath time offers predictable turns with pouring and washing. [[CHILD|Ana Lucía]] imitates actions more readily than spoken directions in this routine. Bedtime begins around [[TIME|7:45 p.m.]]. The family reads one short book and sings a Spanish lullaby. Weekend shopping can be difficult when an expected item is unavailable. A portable choice card and a brief explanation will be tested during one familiar shopping trip.
+
+DEVELOPMENTAL AND MEDICAL INFORMATION
+
+The parents report birth at [[KEEP|38 weeks, 4 days]] gestation, birth weight [[KEEP|3,120 g]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. The birth occurred at [[HOSPITAL|Willowmere Community Hospital]]. No neonatal feeding concerns were reported. Pediatrician Dr. [[PROVIDER|Rafael Montes]] at [[HOSPITAL|Fern Harbor Pediatric Center]] follows growth and general development. The family reports no current daily medication.
+
+An audiology report dated [[DATE|2025-07-18]] from [[HOSPITAL|Willowmere Community Hospital]] documented responses within expected limits for the procedures completed. Audiologist [[PROVIDER|Tessa Quintero]] recommended routine follow-up if concerns arise. The clinician reviewed the report supplied by the parent. Today’s observation showed consistent responses to familiar voices in a quiet room.
+
+The speech-language evaluation on [[DATE|08/28/2025]] included the [[KEEP|PLS-5 Spanish]], caregiver interview, play observation, and a bilingual language sample. The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|78]], with [[KEEP|7th percentile]] performance and a [[KEEP|90% confidence interval of 73–85]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|74]], with [[KEEP|4th percentile]] performance and a [[KEEP|90% confidence interval of 69–82]]. The [[KEEP|Total Language]] standard score was [[KEEP|75]], with [[KEEP|5th percentile]] performance.
+
+Scores support concern but do not alone determine functional needs. Skills across both languages were considered. The family reports meaningful words in Spanish and English, with stronger understanding during familiar routines. The working diagnosis is [[KEEP|F80.2]]. Speech sound observations are descriptive because the sample was limited.
+
+CURRENT COMMUNICATION AND PLAY
+
+[[CHILD|ALRP]] used pointing, showing, reaching, vocalizing, and several spoken approximations. During a snack observation, she communicated a clear request in [[KEEP|4/10]] opportunities with [[KEEP|min cues]]. With choices and an adult model, clear requests increased to [[KEEP|7/10]]. She followed familiar directions in [[KEEP|6 of 8]] opportunities when gestures accompanied speech.
+
+Observed productions included [[KEEP|"agua"]], [[KEEP|"ma"]], [[KEEP|"no"]], and [[KEEP|"go"]]. The approximation [[KEEP|"ma"]] appeared to mean [[KEEP|"más"]] in the snack context. A vehicle sound included [ [KEEP|[w]] ] in the clinician’s phonetic notes. Productions containing [[KEEP|/k/]] and [[KEEP|/ɾ/]] were inconsistent and were not selected as isolated treatment targets. A repeated extra word was recorded with the [[KEEP|SALT]] code [[KEEP|[EW]]].
+
+Play strengths include functional use of dishes, brief pretend feeding, and imitation of an adult’s action. Shared engagement lasted longer when the adult copied the child first. Physical guidance reduced participation. The team therefore favors waiting, modeling, and visual support over repeated demands.
+
+OTHER AGENCIES AND COORDINATION
+
+[[AGENCY|Brindle River CDSA]] will maintain service coordination and review access barriers. [[AGENCY|Brindle County WIC Collaborative]] provides nutrition support. [[AGENCY|Copperleaf Smart Start Partnership]] supplied lending-library information. The family has no open case with [[AGENCY|Brindle County Department of Social Services]] and requested no referral there.
+
+Occupational therapist [[PROVIDER|Nadia Sosa-Lane]] from [[AGENCY|Riverbasket Developmental Services]] consulted on seating and transition supports on [[DATE|8/21/25]]. She recommended stable foot support during meals and a predictable cleanup sequence. The speech-language clinician will coordinate these suggestions with communication strategies so the family receives one practical routine plan.
+
+OUTCOME [[KEEP|1]]: COMMUNICATE NEEDS DURING MEALS
+
+By [[DATE|February 3, 2026]], [[CHILD|Ana Lucía del Río Paredes]] will communicate a request, refusal, or request for help during family meals in [[KEEP|8/10]] observed opportunities across three routine samples, with no more than [[KEEP|min cues]]. Speech, gesture, pictures, and combinations will count when the message is clear to the adult.
+
+The baseline is [[KEEP|4/10]] clear messages with [[KEEP|min cues]]. The clinician will use [[KEEP|naturalistic language intervention]] and [[KEEP|focused stimulation]]. Adults will model a small set of useful target words, including [[KEEP|"help"]], [[KEEP|"ayuda"]], and [[KEEP|"más"]]. They will pause briefly, accept the response, and provide the requested item or assistance.
+
+The family will record examples twice weekly using a simple tally. The clinician will review whether adults understood the message and whether support decreased. If communication remains difficult, the team will adjust the available pictures and adult language before increasing task demands.
+
+OUTCOME [[KEEP|2]]: PARTICIPATE IN TRANSITIONS
+
+By [[DATE|02-03-2026]], [[CHILD|Anita]] will move between two familiar activities after a visual preview and communicate a choice or concern in [[KEEP|4 of 5]] transitions across home and classroom samples, with no more than [[KEEP|mod cues]]. Crying will not invalidate a successful transition if she communicates and receives support.
+
+Currently, she completes [[KEEP|2 of 5]] observed transitions with [[KEEP|max cues]]. Adults will show the next activity, give one brief statement, and offer a meaningful choice. Target phrases include [[KEEP|"one more"]], [[KEEP|"mi turno"]], and [[KEEP|"finished"]]. The adult will acknowledge the message before continuing the routine.
+
+Ms. [[TEACHER|Valverde]] will collect classroom examples. [[PARENT|Andrés]] will describe home examples during coaching. The team will compare situations that work with situations that remain difficult. Strategies will be revised if the visual preview adds confusion or becomes another demand.
+
+OUTCOME [[KEEP|3]]: SHARE PLAY WITH ANOTHER CHILD
+
+By [[DATE|February 3, 2026]], [[CHILD|Ana Lucía]] will complete a short shared play sequence with a sibling or peer, including initiating or responding and exchanging turns, in [[KEEP|3 of 4]] supported opportunities with [[KEEP|mod cues]] or less. Either language and nonverbal communication will count.
+
+The current baseline is [[KEEP|1 of 4]] opportunities with [[KEEP|max cues]]. Adults will arrange duplicate toys, model a simple action, and support an invitation such as [[KEEP|"come play"]] or [[KEEP|"ven"]]. They will avoid asking the other child to test or repeatedly correct speech.
+
+Activities will begin with dishes, blocks, and vehicles. Brother [[SIBLING|Tomás del Río Paredes]] may participate when interested. Peers [[PEER|Lila]] and [[PEER|Benji]] may join during ordinary classroom play. The clinician will coach adults to recognize looking, offering an object, or moving closer as possible invitations.
+
+SERVICES, DATES, AND RESPONSIBILITIES
+
+[[EMPLOYER|Cedar Lantern Therapy]] will provide speech-language intervention once weekly for forty-five minutes, primarily in the home. Classroom visits may replace a home visit when they directly address participation. The service period runs from [[DATE|09/15/2025]] through [[DATE|03/02/2026]]. The planned billing code is [[KEEP|92507]], with modifier [[KEEP|GN]], subject to the applicable authorization.
+
+[[PROVIDER|Marisol de la Cruz-Vega]] will provide services through [[EMPLOYER|CLPCT]]. Sessions will include observation, adult practice, feedback, and a plan for one routine. Coaching will draw on [[KEEP|Hanen It Takes Two to Talk]] principles. The clinician does not plan a formal [[KEEP|PECS]] protocol at this time because current picture supports address immediate participation needs.
+
+[[PROVIDER|Elena Castañeda]] will contact the family monthly and arrange the next review on [[DATE|02/03/2026]]. Parents may request an earlier review when routines, needs, or access change. Missed visits will be documented, with replacement scheduling based on family availability. The team will avoid adding appointments that the family cannot sustain.
+
+TRANSITION AND FAMILY AGREEMENT
+
+The birth date appears in the family’s Spanish record as [[DATE|3 de marzo de 2023]]. The parent identified the first planning meeting as occurring el [[DATE|martes 4 de junio de 2024]]. Both entries match the dates listed in this export. The anticipated third birthday is [[DATE|March 3, 2026]].
+
+The coordinator will discuss preschool options with [[AGENCY|Brindle County Early Learning Access Team]]. Any referral will follow family consent. The parents want information about language support, arrival routines, and communication with classroom staff. They have not selected a future placement.
+
+Both parents agreed that the outcomes reflect their priorities. [[PARENT|Lucía]] asked the team to keep Spanish examples in every routine plan. [[PARENT|Andrés Paredes-Montiel]] requested brief updates that describe what helped. The clinician confirmed these preferences.
+
+The family will choose one routine each week and note one successful message and one difficult moment. [[EMPLOYER|Cedar Lantern Pediatric Communication Therapy PLLC]] will keep the service record and share authorized updates with the coordinator. Progress will be judged by useful participation across daily routines, with both languages respected.
+
+Document prepared by [[PROVIDER|Marisol de la Cruz-Vega]], MS, CCC-SLP.
+Electronic completion date: [[DATE|09/04/2025]]
+Electronic completion time: [[TIME|9:20 a.m.]]

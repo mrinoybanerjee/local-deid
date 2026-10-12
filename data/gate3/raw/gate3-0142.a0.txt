@@ -1,0 +1,49 @@
+NOTA DIARIA / Pediatric Speech-Language Therapy
+Service date: [[DATE|October 8, 2026]]	Time: [[TIME|3:15 PM]]
+Client: [[CHILD|Elena Marín Soto]]	Age: [[KEEP|4;2]]
+DOB: [[DATE|August 8, 2022]]	Record: [[ID|SLP-482701]]
+Medicaid: [[MEDICAID_ID|728451603Q]]	Authorization: [[ID|AUTH-60328]]
+Clinician: [[PROVIDER|Camila Ríos]], MS, CCC-SLP
+Employer: [[EMPLOYER|Puente Claro Pediatric Therapies]]
+Location: [[PLACE|214 Willow Lantern Lane]], [[PLACE|Brindle Cove]], North Carolina [[PLACE|27900]]
+
+S / Subjetivo
+Mamá [[PARENT|Inés Soto]] attended and reported, “Trabajo en [[ORG|Luma Pantry]] y [[ORG|HCF]]; con dos trabajos, practicamos mientras preparo la cena.” Father [[PARENT|Diego Marín]] joined briefly by telephone. Grandmother [[FAMILY|Rosa Soto]] provides afternoon care. Sister [[SIBLING|Sol]] helped choose picture cards. The family described better requesting at home but continued frustration when unfamiliar listeners ask for repetition. “Ella quiere contar todo, pero se cansa,” mamá explained. No pain or new illness reported.
+
+History includes NICU care at [[HOSPITAL|Larkwell Health–Cedar Shoals Campus]] following birth at [[KEEP|35 weeks]] gestation, birth weight [[KEEP|2,180 g]], and Apgar scores [[KEEP|7]] and [[KEEP|9]]. Pediatric follow-up occurs at [[HOSPITAL|Larkwell Health–Brindle Cove Pediatric Campus]]. These details reflect fictional chart history, not findings assessed today.
+
+Contactos / Coordination
+Role	Name	Contact
+Interpreter	[[PROVIDER|Nadia Vélez]]	[[PHONE|919-555-0147]]
+OT	[[PROVIDER|Jules Navarro]]	[[EMAIL|jnavarro@puenteclaro.example]]
+PT	[[PROVIDER|Maren Holt]]	[[PHONE|252-555-0186]]
+Pediatrician	Dr. [[PROVIDER|Adela Cruz]]	[[PHONE|984-555-0112]]
+Teacher	Ms. [[TEACHER|Pilar Vega]]	[[EMAIL|pvega@lanternschool.example]]
+Service coordinator	[[PROVIDER|Owen Silva]]	[[AGENCY|Cedar Shoals CDSA]]
+
+O / Objetivo
+Bilingual play addressed requesting, final consonants, and conversational repair. Interpreter [[PROVIDER|Nadia Vélez]] clarified family vocabulary; clinician delivered intervention in both languages. Activities used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]], with [[KEEP|min cues]] during familiar routines and [[KEEP|mod cues]] for novel combinations.
+
+Measure	Result	Context
+[[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]	Standard score [[KEEP|78]]	Prior evaluation
+[[KEEP|Expressive Communication]]	Standard score [[KEEP|81]]	Percentile [[KEEP|10]]
+Confidence interval	[[KEEP|73-83]]	Age equivalent [[KEEP|2;6–3;0]]
+Requests	[[KEEP|8/10]]	[[KEEP|min cues]]
+Final consonants	[[KEEP|3 of 5]]	[[KEEP|60%]], [[KEEP|mod cues]]
+Repair attempts	[[KEEP|4/6]]	Visual support
+
+For target "[[KEEP|sol]]," the child pointed toward sister [[SIBLING|Sol]] before selecting the sun picture. Clinician contrasted the word’s meaning with the family name using separate photographs. Productions included "[[KEEP|quiero más]]," "[[KEEP|give me rojo]]," and "[[KEEP|to]]" for "[[KEEP|sol]]." Fronting of [[KEEP|/k/]] and substitution [[KEEP|[w]]] were observed. During pretend play, she said "[[PET|Miso]] come" about the family cat. No KEEP span surrounds that name-containing production.
+
+A / Análisis
+[[CHILD|Elena]] benefited from predictable turns and extra processing time. Spanish responses carried more detail today; English responses increased with modeled choices. Peer [[PEER|Tavi Moreno]] at [[SCHOOL|Lantern Meadow Preschool]] reportedly understands familiar requests. Staff member [[TEACHER|Bea Flores]] uses picture choices. Family report supports carryover, aunque performance varies across listeners. Interpretation remains descriptive because bilingual exposure and task familiarity affect responses. Today’s participation supports continued functional communication goals.
+
+P / Plan
+Continue IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Practice "[[KEEP|más]]" and "[[KEEP|help me]]" during snack routines. Babysitter [[FAMILY|Nora Bell]] will receive the family’s practice sheet. Driver [[PERSON|Felix Reed]] confirmed pickup.
+
+Servicio	Día	Hora
+Speech therapy	[[DATE|October 15, 2026]]	[[TIME|3:15 PM]]
+OT consultation	[[DATE|October 16, 2026]]	[[TIME|10:00 AM]]
+
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+Resources: [[URL|https://puenteclaro.example/practica]]
+Signed: [[PROVIDER|Camila Ríos]], CCC-SLP.

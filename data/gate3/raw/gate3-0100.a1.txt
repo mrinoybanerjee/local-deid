@@ -1,0 +1,158 @@
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA
+[[AGENCY|Programa de Bebés y Niños Pequeños de Carolina del Norte]]
+Documento sintético para pruebas. Todos los datos personales, las entidades y los resultados son ficticios.
+
+Campo	Información
+Tipo de documento	Revisión del IFSP con evaluación de comunicación
+Fecha de revisión	[[DATE|13 de octubre de 2026]]
+Fecha de evaluación	[[DATE|7 de octubre de 2026]]
+Niña participante	[[CHILD|Emilia Soto Beltrán]]
+Nombre usado en casa	[[CHILD|Emi]]
+Fecha de nacimiento	[[DATE|13 de junio de 2024]]
+Edad en la revisión	[[KEEP|28 meses]]; [[KEEP|2;4]]
+Identificador infantil NC ITP	[[ID|NCITP-26004189]]
+Número de expediente	[[ID|IFSP-RV-684209]]
+Identificador de Medicaid	[[MEDICAID_ID|918004672Q]]
+Número de miembro del seguro	[[ID|NCF-704182693]]
+Número de autorización	[[ID|AUT-SLP-26098741]]
+Idioma del documento	Español
+Idiomas de la familia	Español e inglés
+Lugar de reunión	Domicilio familiar, con participación remota de la guardería
+
+INFORMACIÓN FAMILIAR Y CONTACTOS
+
+Persona o entidad	Relación o función	Contacto
+[[PARENT|Lucía Beltrán Vega]]	Mamá; contacto principal	[[PHONE|919-555-0146]]; [[EMAIL|lucia.beltran@example.invalid]]
+[[PARENT|Daniel Soto Rivas]]	Papá; contacto alternativo	[[PHONE|919-555-0172]]
+[[FAMILY|Rosa Vega Pineda]]	Abuela materna; cuida a la niña algunas tardes	[[PHONE|919-555-0128]]
+[[PROVIDER|Marina Roldán]]	Coordinadora de servicios	[[PHONE|919-555-0164]]; [[EMAIL|marina.roldan@example.invalid]]
+[[AGENCY|CDSA del Valle de los Pinos]]	Oficina responsable	[[PLACE|480 Avenida del Sauce, Suite 210]], [[PLACE|Villa Junco]], Carolina del Norte, [[PLACE|27996]]
+[[PROVIDER|Elena Márquez Salcedo]]	Patóloga del habla y lenguaje bilingüe; M.S., CCC-SLP	[[PHONE|984-555-0183]]; [[EMAIL|elena.marquez@example.invalid]]
+[[EMPLOYER|Puentes de Voz Terapia Pediátrica, PLLC]]	Empresa de la profesional que redacta este documento	[[URL|https://puentesdevoz.example.invalid]]
+Domicilio familiar	Residencia y lugar principal de intervención	[[PLACE|217 Calle del Laurel]], [[PLACE|Villa Junco]], Carolina del Norte, [[PLACE|27996]]
+
+La familia comparte la vivienda con una hermana, [[SIBLING|Inés Soto Beltrán]], y un perro llamado [[PET|Nube]]. La abuela participa en las rutinas de merienda y juego. Los padres autorizan su participación en las visitas cuando ellos están presentes.
+
+La mamá trabaja en [[ORG|Taller Textil Brisa Clara]]. El papá trabaja en [[ORG|Distribuidora Sendero Azul]]. Sus horarios cambian cada semana. La familia prefiere recibir mensajes escritos en español y confirmar las visitas por teléfono. No solicita un intérprete para esta reunión porque la profesional y la coordinadora pueden conversar directamente en español.
+
+ANTECEDENTES Y PARTICIPACIÓN ACTUAL
+
+Según el relato de la mamá, el embarazo terminó a las [[KEEP|39 semanas y 2 días]]. El peso al nacer fue de [[KEEP|3.180 gramos]]. Los puntajes de Apgar registrados en el resumen familiar fueron [[KEEP|8]] y [[KEEP|9]]. El nacimiento ocurrió en [[HOSPITAL|Hospital Comunitario del Arroyo Claro]]. Estos antecedentes proceden de un resumen ficticio aportado para este expediente.
+
+La familia no informa hospitalizaciones recientes. La pediatra, Dra. [[PROVIDER|Adriana Ferrer Molina]], atiende a la niña en [[AGENCY|Centro Pediátrico Senderos]]. La mamá refiere que la niña responde a sonidos suaves y busca la fuente de música. No se presentó un resultado reciente de audiología. La coordinadora ayudará a obtener una valoración y compartirá el informe cuando la familia lo autorice.
+
+La niña come alimentos de distintas texturas y bebe de un vaso abierto con ayuda. Los padres no describen tos durante las comidas. El sueño suele ser continuo, aunque necesita una rutina tranquila para acostarse. No toma medicamentos diarios según el informe familiar.
+
+En la observación, [[CHILD|Emilia]] mostró interés por bloques, animales de juguete y canciones con movimientos. Buscó a los adultos para compartir objetos. Usó gestos, sonidos y algunas palabras para pedir. Su participación disminuyó cuando el adulto hizo varias preguntas seguidas o cambió de actividad sin aviso.
+
+PREOCUPACIONES Y PRIORIDADES EN LAS PALABRAS DE LA FAMILIA
+
+Persona	Comentario familiar
+Mamá [[PARENT|Lucía Beltrán Vega]]	“Quiero que pueda decir lo que necesita antes de llorar. A veces entiendo su gesto, pero otras personas no lo entienden.”
+Papá [[PARENT|Daniel Soto Rivas]]	“Me importa que nos busque para jugar y que pueda pedir ayuda. No queremos quitarle el español para que aprenda inglés.”
+Abuela [[FAMILY|Rosa Vega Pineda]]	“Durante la merienda señala todo. Quiero darle tiempo para hablar sin adivinar siempre lo que quiere.”
+Mamá [[PARENT|Lucía Beltrán Vega]]	“Cuando su hermana llega, quiere jugar con ella, pero le quita los juguetes. Necesitamos una manera sencilla de enseñarle a pedir turno.”
+
+La familia establece como primera prioridad una comunicación útil durante las comidas, el juego y la salida de casa. Prefiere practicar dentro de actividades habituales. No quiere convertir cada interacción en una prueba ni exigir que la niña repita una palabra para recibir comida.
+
+La segunda prioridad es ampliar la participación con otros niños. La tercera es coordinar las mismas estrategias entre casa y guardería. La familia desea conservar ambos idiomas. Los adultos aceptan gestos y palabras en cualquiera de ellos mientras la niña aprende nuevas formas de expresarse.
+
+RUTINAS DIARIAS
+
+Rutina	Horario habitual	Participación y oportunidad
+Despertar y vestirse	[[TIME|7:00 a. m.]]	Elige ropa cuando el adulto muestra dos opciones. Se frustra si no encuentra sus zapatos.
+Desayuno	[[TIME|7:30 a. m.]]	Señala alimentos y acerca el vaso al adulto. Puede practicar peticiones y rechazos.
+Entrada a la guardería	[[TIME|8:30 a. m.]]	Se despide con apoyo. Necesita un aviso breve antes de separarse.
+Merienda con la abuela	[[TIME|3:30 p. m.]]	Participa mejor cuando los materiales están a su alcance y el adulto espera.
+Juego familiar	[[TIME|5:30 p. m.]]	Busca a su hermana y al perro. Puede practicar turnos, llamadas y comentarios.
+Baño y cuento	[[TIME|7:15 p. m.]]	Anticipa canciones conocidas y señala dibujos. Tolera mejor instrucciones breves.
+Preparación para dormir	[[TIME|8:00 p. m.]]	Guarda un juguete y escoge un libro. El ruido y las pantallas dificultan la transición.
+
+La familia puede ofrecer oportunidades breves sin cambiar el horario. Durante el desayuno, colocará una porción pequeña y esperará una señal antes de ofrecer más. Si la niña se inquieta, el adulto responderá primero a la necesidad y después modelará una expresión.
+
+Durante el juego, la hermana podrá ofrecer una pieza y esperar. Los adultos evitarán pedirle que actúe como terapeuta. El perro permanecerá acompañado por un adulto. La interacción con la mascota servirá para compartir atención, sin exigir contacto físico.
+
+En la guardería, la maestra [[TEACHER|Teresa Salas]] informa que [[CHILD|Emi]] observa a sus compañeros antes de acercarse. Se interesa especialmente por [[PEER|Bruno Cárdenas]] y [[PEER|Alma Ponce]]. La maestra puede preparar juegos con pocos materiales y turnos claros para facilitar su entrada.
+
+EVALUACIÓN DE COMUNICACIÓN
+
+La profesional administró [[KEEP|PLS-5 Spanish]] y completó una muestra de lenguaje durante juego y merienda. La interpretación integra información familiar y observación en ambos idiomas. Los resultados ficticios describen este caso de prueba; no establecen por sí solos toda la participación funcional.
+
+Prueba o subprueba	Puntaje estándar	Percentil	Intervalo de confianza	Rango de edad equivalente
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]]	[[KEEP|94]]	[[KEEP|34]]	[[KEEP|88–100]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|1;9–2;1]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]]	[[KEEP|85]]	[[KEEP|16]]	[[KEEP|79–91]]	[[KEEP|2;1–2;5]]
+
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las edades equivalentes no representan la edad global de desarrollo. La comprensión fue una fortaleza relativa. La expresión verbal y la reparación de mensajes requirieron más apoyo.
+
+Medida funcional	Resultado observado	Apoyo
+Peticiones mediante gesto o palabra	[[KEEP|8/10]] oportunidades	[[KEEP|min cues]]
+Peticiones con dos elementos	[[KEEP|3/10]] oportunidades	[[KEEP|mod cues]]
+Seguimiento de instrucciones familiares	[[KEEP|4 de 5]] oportunidades	[[KEEP|min cues]]
+Reparación cuando el adulto no entiende	[[KEEP|2/5]] oportunidades	[[KEEP|max cues]]
+Turnos durante juego compartido	[[KEEP|60%]] de oportunidades	[[KEEP|mod cues]]
+
+La niña produjo “[[KEEP|más agua]]”, “[[KEEP|no quiero]]” y “[[KEEP|abre aquí]]”. También llamó al perro con “[[PET|Nube]] ven” y pidió un objeto a su hermana con “[[SIBLING|Inés]] dame”. Estas dos últimas producciones incluyen nombres dentro del enunciado.
+
+En la muestra apareció “[[KEEP|yo cabo]]”; la transcripción registró [[KEEP|[EW]]] según la convención [[KEEP|SALT]]. La profesional observó aproximaciones con [[KEEP|[w]]] y variación en [[KEEP|/k/]] y [[KEEP|/ɾ/]]. No estableció un objetivo de articulación a partir de esta muestra breve.
+
+La familia identifica “[[KEEP|ayuda]]”, “[[KEEP|más]]”, “[[KEEP|abre]]” y “[[KEEP|mi turno]]” como expresiones útiles. La intervención aceptará aproximaciones comprensibles y combinará palabras con gestos. El diagnóstico de trabajo consignado para la autorización es [[KEEP|F80.1]], sujeto a revisión clínica.
+
+OTRAS AGENCIAS Y COORDINACIÓN
+
+Entidad	Persona de contacto	Participación acordada
+[[DAYCARE|Guardería Pequeños Sauces]]	Maestra [[TEACHER|Teresa Salas]]	Compartir estrategias de turnos y peticiones con autorización familiar
+[[AGENCY|WIC del Condado de Robleda]]	[[PERSON|Julia Paredes]]	Apoyar las consultas familiares sobre alimentación y acceso al programa
+[[AGENCY|Smart Start de Robleda]]	[[PERSON|J. Ortiz]]	Informar sobre actividades comunitarias para familias
+[[AGENCY|DSS del Condado de Robleda]]	[[PERSON|Celia Mora]]	Orientar sobre beneficios solicitados por la familia
+[[SCHOOL|Centro Preescolar Arroyo de Luna]]	[[TEACHER|Raquel Montes]]	Participar en la planificación de transición cuando corresponda
+
+La familia autoriza compartir el resumen funcional con la guardería. La coordinadora confirmará el alcance de cada autorización antes de enviar documentos. No se adjuntan expedientes médicos completos. Las actividades comunitarias serán opcionales y no sustituirán los servicios acordados.
+
+RESULTADOS FUNCIONALES Y ESTRATEGIAS
+
+Resultado [[KEEP|1]]: Comunicar necesidades durante las comidas.
+
+La niña pedirá, rechazará o solicitará ayuda mediante una palabra, un gesto claro o una combinación durante desayuno y merienda. La familia considerará logrado el resultado cuando lo observe en [[KEEP|8/10]] oportunidades durante tres días de rutina, con [[KEEP|min cues]].
+
+El adulto ofrecerá opciones visibles, esperará y responderá al mensaje. Modelará “[[KEEP|más agua]]” o “[[KEEP|ayuda]]” según la situación. La profesional enseñará expansión y espera dentro de estrategias de [[KEEP|Hanen]]. La familia probará una estrategia por visita y explicará qué le resultó cómodo.
+
+Resultado [[KEEP|2]]: Participar en juegos con turnos.
+
+La niña iniciará o mantendrá intercambios con un familiar o compañero usando gestos, palabras o entrega de objetos. La meta será completar una secuencia de tres turnos en [[KEEP|4 de 5]] oportunidades, con [[KEEP|mod cues]] o menos, durante dos semanas.
+
+El adulto organizará juegos de bloques, burbujas o animales. Usará “[[KEEP|mi turno]]” y “[[KEEP|tu turno]]” sin exigir repetición. La maestra ofrecerá el mismo apoyo en grupos pequeños. Los adultos reconocerán las iniciativas y reducirán preguntas cuando la niña pierda interés.
+
+Resultado [[KEEP|3]]: Reparar mensajes y afrontar cambios.
+
+Cuando otra persona no entienda, la niña intentará mostrar, señalar o añadir una palabra. Durante una transición, usará una señal para pedir ayuda o expresar rechazo. La familia buscará éxito en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]] durante tres rutinas distintas.
+
+Los adultos mostrarán dos imágenes sencillas para anticipar actividades. Modelarán “[[KEEP|otra vez]]”, “[[KEEP|mira]]” y “[[KEEP|ayuda aquí]]”. La profesional observará si el apoyo reduce la frustración y ajustará su complejidad. No se retirará el objeto necesario para provocar una respuesta.
+
+Resultado [[KEEP|4]]: Preparar la transición con la familia.
+
+Los padres identificarán sus preguntas, conocerán las opciones disponibles y participarán en una reunión de transición. La coordinadora documentará sus preferencias y los acuerdos. El criterio será completar las acciones acordadas antes de finalizar la participación infantil en el programa.
+
+La coordinadora usará un resumen en español. La profesional describirá apoyos que funcionan durante rutinas. La familia podrá revisar cualquier descripción antes de compartirla. Este resultado no presupone elegibilidad ni matrícula en un servicio posterior.
+
+CALENDARIO DE SERVICIOS
+
+Servicio	Responsable	Frecuencia y duración	Lugar	Inicio	Final previsto	Horario	Código
+Terapia del lenguaje con orientación familiar	[[PROVIDER|Elena Márquez Salcedo]]	Una visita semanal de 45 minutos	Domicilio	[[DATE|20 de octubre de 2026]]	[[DATE|19 de abril de 2027]]	[[TIME|4:00 p. m.]]	[[KEEP|92507]]; [[KEEP|GN]]
+Consulta de comunicación en la guardería	[[PROVIDER|Elena Márquez Salcedo]]	Una visita mensual de 30 minutos	[[DAYCARE|Guardería Pequeños Sauces]]	[[DATE|29 de octubre de 2026]]	[[DATE|15 de abril de 2027]]	[[TIME|9:00 a. m.]]	Según autorización vigente
+Coordinación de servicios	[[PROVIDER|Marina Roldán]]	Contacto mensual y contactos adicionales según necesidad	Teléfono o domicilio	[[DATE|13 de octubre de 2026]]	[[DATE|19 de abril de 2027]]	[[TIME|1:00 p. m.]]	Registro de coordinación
+Reunión de transición	Coordinadora y familia	Una reunión de 60 minutos	Oficina de la CDSA	[[DATE|7 de diciembre de 2026]]	[[DATE|7 de diciembre de 2026]]	[[TIME|10:00 a. m.]]	Reunión del IFSP
+
+El enfoque será individual y basado en rutinas. La profesional realizará demostración, práctica del cuidador y reflexión breve. La duración incluye conversación sobre la participación familiar. Si una visita se cancela, la coordinadora y la familia acordarán otra fecha según disponibilidad y autorización.
+
+SEGUIMIENTO, ACUERDOS Y REGISTRO
+
+La familia llevará notas sencillas sobre situaciones exitosas y difíciles. No necesita contar todas las palabras. Puede anotar qué quiso comunicar la niña, qué apoyo recibió y si el mensaje funcionó. La profesional revisará esas notas durante cada visita y ajustará las estrategias con los cuidadores.
+
+La coordinadora, [[PROVIDER|M.R.]], comprobará la solicitud de audiología, los permisos y la participación de la guardería. La próxima revisión está prevista para [[DATE|13 de abril de 2027]]. La familia puede pedir una revisión antes si cambian sus prioridades, horarios o necesidades.
+
+Los padres expresaron acuerdo con los resultados y el calendario descritos. Este registro ficticio no contiene firmas reales. La participación de cada cuidador queda sujeta a su disponibilidad. Las estrategias se evaluarán por su utilidad en las rutinas y por la comodidad familiar.
+
+Redactado íntegramente en español por [[PROVIDER|Elena Márquez Salcedo]], M.S., CCC-SLP, patóloga del habla y lenguaje bilingüe de [[EMPLOYER|Puentes de Voz Terapia Pediátrica, PLLC]].
+
+Fecha de documentación: [[DATE|13 de octubre de 2026]]. Hora de cierre: [[TIME|11:20 a. m.]].

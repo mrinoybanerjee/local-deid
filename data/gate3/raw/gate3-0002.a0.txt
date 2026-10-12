@@ -1,0 +1,37 @@
+Daily Speech-Language Therapy Note
+Field	Value
+Service date	[[DATE|October 8, 2026]]
+Client	[[CHILD|Guadalupe Marisol Varela]]; nickname [[CHILD|Lupita]]
+Age	[[KEEP|4;2]]
+Session	[[TIME|9:10 a.m.]] to [[TIME|9:45 a.m.]]
+Clinician	[[PROVIDER|Elena Solís Mercer]], bilingual pediatric speech-language pathologist
+Employer	[[EMPLOYER|Willow Lantern Speech Services]]
+Location	[[SCHOOL|Fern Lantern Elementary School]], [[SCHOOL|Piedraluz County School District]], North Carolina
+Classroom	[[TEACHER|Marina Cordero]]'s preschool classroom
+Record	[[ID|SLP-260108-047]]
+Medicaid	[[MEDICAID_ID|483726195Q]]
+
+S: Mother [[PARENT|Lucía Varela]] reported that [[CHILD|Lupita]] requested breakfast independently. Brother [[SIBLING|José Andrés Varela]], called [[SIBLING|Pepe]], modeled short phrases during play. Grandmother [[FAMILY|Inés Varela]] described improved turn-taking at home. Father [[PARENT|Rafael Varela]] works at [[ORG|Copper Finch Packaging]]. The family reported no new concerns after the visit to [[HOSPITAL|Piedraluz Children's Hospital]]. The child arrived alert and accepted the transition from classroom play without distress. English and Spanish models were offered according to activity and family preference.
+
+O: Treatment used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice within pretend cooking and picture sorting. Classmates [[PEER|Jesús Emiliano Soto]], called [[PEER|Chuy]], and [[PEER|Mateo Nicolás Ríos]], called [[PEER|Teo]], joined turn-taking. Another classmate, [[PEER|Juan Esteban Mora]], called [[PEER|Juanito]], selected picture cards. The child said "[[PET|Nube]] run" while describing the family dog. Other productions included [[KEEP|"quiero más"]], [[KEEP|"my turn"]], and [[KEEP|"tea"]]; the final production replaced target [[KEEP|"key"]]. Clinician recorded [[KEEP|[EW]]] during language-sample review.
+
+Measure	Result	Support
+[[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]	Standard score [[KEEP|78]]; percentile [[KEEP|7]]; confidence interval [[KEEP|73-83]]	Prior evaluation
+Age equivalent	[[KEEP|2;6–3;0]]	Prior evaluation
+Initial [[KEEP|/k/]]	[[KEEP|8/10]]; [[KEEP|80%]]	[[KEEP|mod cues]]
+Two-word requests	[[KEEP|3 of 5]]	[[KEEP|min cues]]
+IFSP outcome [[KEEP|2]]	Emerging	Visual model
+Billing	[[KEEP|92507]]; modifier [[KEEP|GN]]	Diagnosis [[KEEP|F80.2]]
+
+A: Performance improved with a visual choice and delayed imitation. Independent requests remained less consistent during shared play. Findings support continued functional language practice across both languages. Results reflect today's supported tasks; prior standardized scores provide background. No standardized testing occurred today.
+
+P: Continue weekly therapy. Send picture choices home and coordinate classroom carryover. Review progress on [[DATE|November 5, 2026]].
+
+Contact	Agency	Details
+Coordinator [[PROVIDER|Amalia Ríos Vega]]	[[AGENCY|Centro de Servicios para el Desarrollo Infantil de Piedraluz]]; [[AGENCY|Piedraluz CDSA]]	[[PHONE|919-555-0146]]
+Coordinator agency	[[AGENCY|Agencia Comunitaria de Coordinación Familiar Senderos de Piedraluz]]; [[AGENCY|Senderos ACF]]	[[EMAIL|coordination@senderos.example]]
+Family resources	[[AGENCY|Piedraluz DSS]]; [[AGENCY|Piedraluz WIC]]; [[AGENCY|Piedraluz Smart Start]]; [[AGENCY|Piedraluz Early Head Start]]	Coordination pending
+
+Service	Next date	Time
+Speech therapy	[[DATE|October 15, 2026]]	[[TIME|9:10 a.m.]]
+Caregiver coaching	[[DATE|October 22, 2026]]	[[TIME|10:00 a.m.]]

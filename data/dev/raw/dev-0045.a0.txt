@@ -1,0 +1,104 @@
+TRIANGLE PEDIATRIC THERAPY, PLLC  —  SPEECH-LANGUAGE EVALUATION REPORT
+
+Client Name: [[CHILD|Mateo Hernández Cruz]]  Preferred Name: [[CHILD|Teo]]  Date of Birth: [[DATE|14/01/2022]]  Chronological Age: 4;2
+Evaluation Date(s): [[DATE|3 de marzo de 2025]] and [[DATE|03/10/2025]]  Report Date: [[DATE|March 14, 2025]]
+Medicaid ID: [[MEDICAID_ID|7482913605K]]  Case/Record ID: [[ID|CDSA-NC-00417-25]]
+Parent/Guardian: [[PARENT|Lucía Hernández]]  Address: [[PLACE|418 Possum Trot Road]], [[PLACE|Garner]], [[PLACE|NC]] [[PLACE|27529]]
+Home Phone: [[PHONE|(919) 555-2847]]  Cell Phone: [[PHONE|(919) 555-0163]]  Email: [[EMAIL|lucia.hernandez85@gmail.com]]
+Referring Source: Dr. [[PROVIDER|Angela Kim]], pediatrician, [[ORG|Garner Children's Clinic]]
+Evaluating Clinician: [[PROVIDER|Jennifer Walsh]], M.S., CCC-SLP, [[EMPLOYER|Triangle Pediatric Therapy, PLLC]]
+Interpreter: [[PROVIDER|Mr. Rivera]], Spanish language line, certified medical interpreter
+Service Coordinator: [[PROVIDER|Patricia Nguyen]], [[AGENCY|Wake County CDSA]]
+Primary Languages: Spanish (home) and English (daycare)  Language of Report: English
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] is a 4-year, 2-month-old bilingual Spanish/English-speaking boy who was referred for a comprehensive speech-language evaluation by Dr. [[PROVIDER|Kim]] after [[CHILD|Teo]]'s mother, [[PARENT|Lucía Hernández]], expressed concern that his speech is difficult for unfamiliar listeners to understand and that he is not yet combining words the way his older sister did at the same age. [[TEACHER|Ms. Lopez]], [[CHILD|Mateo]]'s teacher at [[DAYCARE|Little Sprouts Daycare]], also raised concerns in a note sent home on [[DATE|el martes 4 de marzo de 2025]], noting that [[CHILD|Mateo]] often points or gestures instead of using words during circle time in [[TEACHER|Ms. Lopez]]'s room. This evaluation was requested to determine [[CHILD|Mateo]]'s current speech and language skills in both languages, to clarify whether a delay exists, and to make recommendations for services.
+
+BACKGROUND INFORMATION
+
+[[CHILD|Mateo]] lives with his mother, [[PARENT|Lucía Hernández]]; his father, [[PARENT|Carlos Hernández]]; his older sister, [[SIBLING|Camila]], age 7; and his younger brother, [[SIBLING|Diego]], age 1, at the family's home on [[PLACE|Possum Trot Road]] in [[PLACE|Garner]]. The family's dog, [[PET|Rocky]], is frequently mentioned by [[CHILD|Mateo]] during play. [[PARENT|Lucía]] reports that she was born and raised in the village of [[PLACE|El Rosario]], in the department of [[PLACE|Olancho]], [[PLACE|Honduras]], and moved to the United States in 2014. [[PARENT|Carlos]] grew up in [[PLACE|Siguatepeque]], [[PLACE|Honduras]], and immigrated in 2012. Both parents are fluent Spanish speakers; [[PARENT|Lucía]] reports conversational English and [[PARENT|Carlos]] reports limited English proficiency. [[PARENT|Carlos]] works full time at [[ORG|Carolina Poultry Processors]] on the second shift, from [[TIME|3:00 p.m.]] to [[TIME|11:30 p.m.]], which affects the amount of time he spends with [[CHILD|Mateo]] on weekdays.
+
+[[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Rosa Morales]], lives nearby and picks him up from daycare most afternoons around [[TIME|4:30 p.m.]], caring for him until [[PARENT|Lucía]] returns from work at approximately [[TIME|6:15 p.m.]]. A family friend, [[FAMILY|Yolanda Pérez]], occasionally babysits on weekends. [[PARENT|Lucía]] reports that [[FAMILY|Rosa]] speaks only Spanish with [[CHILD|Mateo]], while [[SIBLING|Camila]] often speaks to him in a mix of English and Spanish.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born on [[DATE|14/01/2022]] at [[HOSPITAL|WakeMed Raleigh Campus]] following a full-term pregnancy and uncomplicated vaginal delivery. Birth weight was reported as 7 lbs 4 oz, and [[PARENT|Lucía]] reports no complications during the pregnancy, labor, or delivery. [[CHILD|Mateo]] passed his newborn hearing screening prior to discharge. Developmental milestones were reported as follows: sat independently around 6 months, walked independently around 13 months, and said his first words around 15 months. [[PARENT|Lucía]] reports that [[CHILD|Mateo]]'s expressive vocabulary growth slowed noticeably after age 2, around the time his brother [[SIBLING|Diego]] was born.
+
+Medical history is significant for recurrent otitis media. [[CHILD|Mateo]] had his first documented ear infection at approximately 18 months and has had at least five additional episodes since, most recently treated in [[DATE|enero de 2025]]. Dr. [[PROVIDER|Kim]]'s office referred [[CHILD|Mateo]] to an ENT, Dr. [[PROVIDER|Samuel Ortiz]], who placed bilateral pressure-equalization tubes on [[DATE|02/18/2024]]. A follow-up audiological evaluation completed on [[DATE|09/05/2024]] at [[HOSPITAL|UNC Children's Audiology]] indicated hearing within normal limits bilaterally, with normal tympanometry at that time. [[CHILD|Mateo]]'s vision screening at his most recent well-child visit on [[DATE|03/01/2025]] was within normal limits. No diagnosis of autism spectrum disorder, seizure disorder, or genetic syndrome has been made. [[CHILD|Mateo]] is not currently taking any medications. He is up to date on immunizations per his pediatrician's records.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[PARENT|Lucía]] reports that Spanish is the primary language spoken in the home among all family members, with the exception of [[SIBLING|Camila]], who frequently code-switches into English, particularly when discussing school or cartoons. [[PARENT|Lucía]] estimates that [[CHILD|Mateo]] hears approximately 80% Spanish and 20% English at home, and the reverse proportion while at daycare. She reports that [[CHILD|Mateo]]'s receptive skills in Spanish appear stronger than his receptive skills in English, and that he responds more readily to directions given by [[FAMILY|Rosa]] in Spanish than to directions given by [[TEACHER|Ms. Lopez]] in English.
+
+[[PARENT|Lucía]] reports a family history of speech and language concerns: [[FAMILY|Rosa]], [[CHILD|Mateo]]'s grandmother, states that [[PARENT|Carlos]] himself had delayed speech as a child in [[PLACE|Siguatepeque]] and did not begin combining words until close to age 4, though he received no formal intervention. [[PARENT|Lucía]] denies any other family history of speech, language, hearing, or learning concerns on her side of the family.
+
+[[CHILD|Mateo]] has attended [[DAYCARE|Little Sprouts Daycare]], located at [[PLACE|2210 Timber Drive]] in [[PLACE|Garner]], since [[DATE|August 2023]]. He is currently enrolled in [[TEACHER|Ms. Lopez]]'s room, a mixed 3- to 4-year-old classroom with fourteen children. [[TEACHER|Ms. Lopez]] reports that [[CHILD|Mateo]] plays well alongside peers, particularly a classmate named [[PEER|Sofia]], but rarely initiates verbal interaction and instead relies on gestures, pulling, and pointing to communicate his needs. [[TEACHER|Ms. Lopez]] reports that during circle time, which runs from [[TIME|9:15 a.m.]] to [[TIME|9:45 a.m.]] each morning, [[CHILD|Mateo]] participates in songs and movement activities but does not yet sing along with recognizable words.
+
+DEVELOPMENTAL AND EDUCATIONAL HISTORY
+
+[[PARENT|Lucía]] first raised concerns about [[CHILD|Mateo]]'s speech with Dr. [[PROVIDER|Kim]] at his 2-year well-child visit. At that time, watch-and-wait was recommended. Concerns persisted, and at the 3-year well-child visit on [[DATE|15/01/2025]], Dr. [[PROVIDER|Kim]] referred the family to [[AGENCY|Wake County CDSA]] for evaluation. [[CHILD|Mateo]] was found eligible for early intervention services under the category of communication delay, and an Individualized Family Service Plan (IFSP) was developed on [[DATE|el 4 de febrero de 2025]], with a six-month review scheduled for [[DATE|04/08/2025]]. [[PROVIDER|Patricia Nguyen]], the family's service coordinator through [[AGENCY|Wake County CDSA]], has been involved in coordinating this evaluation and will receive a copy of this report for the IFSP team.
+
+The family has also received support from [[AGENCY|Smart Start of Wake County]], which connected [[PARENT|Lucía]] with a parenting class focused on bilingual language stimulation strategies, attended on [[DATE|20/02/2025]].
+
+ASSESSMENT PROCEDURES
+
+This evaluation was conducted across two sessions at the [[EMPLOYER|Triangle Pediatric Therapy, PLLC]] clinic. The first session took place on [[DATE|3 de marzo de 2025]] from [[TIME|10:00 a.m.]] to [[TIME|11:15 a.m.]] and consisted of parent interview, hearing screening, oral-motor examination, and administration of English standardized measures. The second session took place on [[DATE|03/10/2025]] from [[TIME|2:30 p.m.]] to [[TIME|3:45 p.m.]] and consisted of administration of Spanish standardized measures, a bilingual language sample, and a speech sound sample in both languages, with interpretation support provided by [[PROVIDER|Mr. Rivera]] for parent report items.
+
+Procedures included a parent interview and case history review, an oral-peripheral examination, a pure-tone hearing screening (passed bilaterally at 20 dB HL for 1000, 2000, and 4000 Hz), administration of standardized assessments in English and Spanish, dynamic assessment of bilingual language sampling, and clinical observation across both testing sessions and in [[TEACHER|Ms. Lopez]]'s classroom during an informal observation on [[DATE|March 7, 2025]] from [[TIME|9:00 a.m.]] to [[TIME|9:30 a.m.]].
+
+STANDARDIZED TEST RESULTS
+
+Assessment                                              Language    Standard Score    Percentile Rank
+Preschool Language Scales–5 (PLS-5), Auditory Comprehension    English     82             12th
+Preschool Language Scales–5 (PLS-5), Expressive Communication   English     74              4th
+Preschool Language Scales–5 (PLS-5), Total Language Score       English     77              6th
+Bilingual English Spanish Assessment (BESA), Morphosyntax       Spanish     88             21st
+Bilingual English Spanish Assessment (BESA), Semantics          Spanish     91             27th
+Goldman-Fristoe Test of Articulation–3 (GFTA-3)                 English     71              3rd
+Clinical Assessment of Articulation and Phonology–Spanish       Spanish     85             16th
+
+On the PLS-5, [[CHILD|Mateo]]'s Expressive Communication score fell in the moderately delayed range, while Auditory Comprehension fell in the mildly delayed range. On the BESA, administered to evaluate [[CHILD|Mateo]]'s skills relative to other bilingual children with similar language exposure, his Morphosyntax and Semantics scores fell within the low average range, suggesting that his language skills in Spanish, his dominant home language, are closer to age expectations than his English scores alone would suggest. Composite scores combining both languages were not calculated, consistent with best practice for sequential bilingual learners at this stage of English exposure.
+
+On the GFTA-3, [[CHILD|Mateo]] produced numerous sound errors affecting intelligibility, including stopping of fricatives, gliding of liquids, and final consonant deletion. He produced "tat" for "cat," "doo" for "shoe," and "ba" for "ball." On the Spanish articulation measure, error patterns were largely consistent with those observed in English, including difficulty with the trilled /r/, substitution of [d] for /ɾ/ in words such as "pero," and cluster reduction in words like "fruta" produced as "futa." These error patterns were judged to reflect a true speech sound disorder rather than typical second-language transfer, given their presence across both languages and their inconsistency with developmental norms for his age in either language.
+
+LANGUAGE SAMPLE
+
+A 20-minute bilingual play-based language sample was collected using toy animals, a dollhouse, and a set of vehicles, with [[CHILD|Mateo]]'s mother present to support elicitation in Spanish and the clinician eliciting in English. [[CHILD|Mateo]]'s mean length of utterance (MLU) in morphemes was calculated at 2.1 in English and 2.6 in Spanish, both below age expectations of approximately 3.5–4.5 morphemes for a child his age. SALT coding of the transcript indicated frequent [EW] (error word) codes associated with omitted grammatical morphemes, including omission of articles, copula "is/es," and plural markers in both languages. [[CHILD|Mateo]] used primarily single words and two-word combinations such as "más agua," "no quiero," and "Teo jugar," with few examples of three-word utterances observed. He demonstrated use of present-tense verbs but did not use past-tense marking in either language during the sample.
+
+Pragmatically, [[CHILD|Mateo]] demonstrated joint attention, turn-taking during simple games, and functional use of gestures to request and comment. He made eye contact appropriately and responded to his name consistently. He engaged in brief back-and-forth exchanges with the clinician when supported with visual cues and modeling, and his mother reported that this behavior was consistent with how he interacts with [[FAMILY|Rosa]] and [[SIBLING|Camila]] at home.
+
+ORAL-PERIPHERAL EXAMINATION
+
+Structures and function of the lips, tongue, hard and soft palate, and jaw were assessed and found to be within normal limits for structure and symmetry. Diadochokinetic rates were judged appropriate for age. No signs of dysarthria or apraxia of speech were observed, although mild inconsistency in sound production across repeated trials of multisyllabic words was noted and will be monitored.
+
+HEARING SCREENING
+
+[[CHILD|Mateo]] passed a bilateral pure-tone hearing screening at 20 dB HL across 1000, 2000, and 4000 Hz, consistent with his most recent audiological evaluation on [[DATE|09/05/2024]]. Given his history of recurrent otitis media, ongoing monitoring of hearing status is recommended, including tympanometry at future pediatric visits.
+
+CLINICAL IMPRESSIONS
+
+Based on parent report, teacher report, standardized test results, and clinical observation, [[CHILD|Mateo]] presents with a mixed receptive-expressive language disorder (ICD-10: F80.2) affecting both Spanish and English, along with a speech sound disorder (ICD-10: F80.0) affecting intelligibility in both languages. His language delay cannot be attributed solely to bilingual exposure, as deficits are evident relative to same-age bilingual peers on a measure normed for bilingual children (BESA) as well as on English-only measures. His speech sound errors are consistent across both languages and exceed what would be expected from typical cross-linguistic transfer or second-language acquisition at this stage.
+
+[[CHILD|Mateo]]'s history of recurrent otitis media, while not currently associated with a measurable hearing loss, may have contributed to early language learning difficulty and should continue to be monitored closely given the established relationship between chronic middle ear effusion and speech-language development in young children.
+
+[[CHILD|Mateo]] demonstrates relative strengths in nonverbal communication, joint attention, play skills, and social engagement, which are positive prognostic indicators for therapy. His home language environment, which includes consistent Spanish input from his mother and grandmother, should be supported and maintained rather than discouraged, consistent with current evidence-based practice for bilingual children with communication disorders.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] is recommended for speech-language therapy services twice weekly for 30-minute individual sessions, targeting both expressive language development and speech sound production, with services provided bilingually or with interpreter support as needed.
+2. Therapy goals should address morphosyntactic development (plural markers, verb tense marking, article use) in both Spanish and English, expansion of utterance length toward age-appropriate MLU, and remediation of speech sound errors including stopping, gliding, final consonant deletion, and liquid/rhotic errors.
+3. Continued coordination with [[AGENCY|Wake County CDSA]] and service coordinator [[PROVIDER|Patricia Nguyen]] is recommended to incorporate these findings into [[CHILD|Mateo]]'s IFSP at the upcoming review scheduled for [[DATE|04/08/2025]].
+4. Collaboration with [[TEACHER|Ms. Lopez]] and [[DAYCARE|Little Sprouts Daycare]] staff is recommended to implement classroom-based language stimulation strategies and to monitor [[CHILD|Mateo]]'s participation during structured activities such as circle time.
+5. The family is encouraged to continue providing rich Spanish language input at home and to consider structured bilingual storybook reading in the evening, for example between [[TIME|7:00 p.m.]] and [[TIME|7:30 p.m.]] before [[CHILD|Mateo]]'s bedtime routine, as a low-pressure opportunity for vocabulary and narrative exposure.
+6. Continued audiological monitoring is recommended given [[CHILD|Mateo]]'s history of recurrent otitis media, including follow-up tympanometry at his next pediatric visit with Dr. [[PROVIDER|Kim]].
+7. Re-evaluation of speech and language skills is recommended in approximately six months, or sooner if concerns change, to monitor progress and adjust the treatment plan.
+
+[[CHILD|Mateo]]'s parents, [[PARENT|Lucía Hernández]] and [[PARENT|Carlos Hernández]], were present for discussion of results at the conclusion of the second session and voiced agreement with the recommendations above. Questions may be directed to the undersigned clinician at [[EMPLOYER|Triangle Pediatric Therapy, PLLC]], [[PHONE|(919) 555-7720]], or [[EMAIL|jwalsh@trianglepeds-slp.com]].
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer Walsh]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Triangle Pediatric Therapy, PLLC]]
+Report completed: [[DATE|March 14, 2025]]

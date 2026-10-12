@@ -1,0 +1,143 @@
+PLAN INDIVIDUALIZADO PARA LOS SERVICIOS A LA FAMILIA (IFSP)
+Revision de IFSP
+Programa de NC Infant-Toddler Program
+
+INFORMACION DEL NINO
+
+Nombre del nino: [[CHILD|Santiago Alejandro Pena Marquez]] (se le dice [[CHILD|Santi]])
+Fecha de nacimiento: [[DATE|04/11/2023]]
+Edad actual: [[KEEP|2;11]]
+Numero de caso CDSA: [[ID|CDSA-NC-88213]]
+Numero de Medicaid: [[MEDICAID_ID|556219034B]]
+Idioma del hogar: espanol
+Direccion: [[PLACE|514 Calle Morningview]], [[PLACE|Siler City]], [[PLACE|NC]] [[PLACE|27344]], Condado de [[PLACE|Chatham]]
+
+INFORMACION DE LA FAMILIA
+
+Madre/Guardian: [[PARENT|Rosa Marquez Hidalgo]], telefono [[PHONE|(919) 555-0147]], correo electronico [[EMAIL|rosa.marquezh@gmail.com]]
+Padre/Guardian: [[PARENT|Eduardo Pena Castillo]], telefono [[PHONE|(919) 555-0183]]
+El padre [[PARENT|Eduardo]] trabaja en [[ORG|Siler City Poultry Processing]] en el turno de noche.
+Hermana mayor: [[SIBLING|Valentina Pena Marquez]], [[KEEP|6 anos]], en kindergarten en [[SCHOOL|Siler City Elementary]].
+Abuela materna, quien ayuda con el cuidado: [[FAMILY|Carmen Hidalgo Reyes]].
+La familia tambien recibe ayuda ocasional de una vecina, [[FAMILY|J. Ortiz]], quien cuida a [[CHILD|Santi]] cuando la mama tiene citas medicas.
+
+COORDINADORA DE SERVICIOS
+
+Nombre: [[PROVIDER|Yesenia Cruz Fuentes]]
+Oficina CDSA: [[AGENCY|Piedmont CDSA, oficina de Siler City]]
+Telefono: [[PHONE|(919) 555-0299]]
+Correo electronico: [[EMAIL|ycruz@piedmontcdsa.org]]
+
+TERAPEUTA DEL HABLA Y LENGUAJE
+
+Este reporte fue preparado por [[PROVIDER|Maria Fernanda Lopez Duran]], [[KEEP|M.S., CCC-SLP]], patologa bilingue del habla y lenguaje, empleada de [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]. Numero de proveedor: [[ID|SLP-0071452]]. Telefono de la oficina: [[PHONE|(919) 555-0400]].
+
+FECHA DE LA REUNION DE REVISION DEL IFSP: [[DATE|October 6, 2026]]
+FECHA DEL IFSP ANTERIOR: [[DATE|April 2, 2026]]
+FECHA DE INICIO DE SERVICIOS: [[DATE|May 14, 2026]]
+
+RAZON PARA LA REVISION
+
+Esta es una revision de rutina de seis meses del IFSP de [[CHILD|Santi]]. La familia, la coordinadora de servicios [[PROVIDER|Cruz Fuentes]], y esta terapeuta nos reunimos en la casa de la familia el [[DATE|October 6, 2026]] para revisar el progreso de [[CHILD|Santi]] hacia sus resultados y para ajustar las estrategias segun sea necesario.
+
+DIAGNOSTICO Y CODIGOS
+
+Diagnostico: trastorno del desarrollo del habla y el lenguaje, codigo [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo). Servicios facturados bajo los codigos de procedimiento [[KEEP|92507]] (tratamiento individual de habla/lenguaje) y [[KEEP|92523]] (evaluacion de habla sonido-produccion con evaluacion de lenguaje). Modificador aplicado: [[KEEP|GN]].
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA, EN SUS PROPIAS PALABRAS
+
+La mama, [[PARENT|Rosa]], comparte: "Santi entiende casi todo lo que le decimos, pero cuando el quiere decir algo, solo usa como diez palabras y el resto son sonidos. A veces se frustra mucho y empieza a gritar o a jalarme de la ropa porque no sabe como decirme lo que quiere. Quiero que el pueda decir frases completas antes de entrar a pre-kinder."
+
+El papa, [[PARENT|Eduardo]], agrega: "En la guarderia me dicen que el juega bien con los otros ninos pero que casi no habla con ellos. Yo quiero que tenga mas amigos y que pueda jugar y platicar como su hermana [[SIBLING|Valentina]] cuando ella tenia su edad."
+
+La abuela, [[FAMILY|Carmen]], tambien participo y dijo: "Yo paso mucho tiempo con el en las tardes y he notado que repite lo que uno dice, como un eco, en vez de contestar la pregunta."
+
+RUTINAS DIARIAS
+
+[[CHILD|Santi]] se despierta a las [[TIME|6:30 a.m.]] y desayuna con la familia. Su mama lo lleva a los [[TIME|8:00 a.m.]] a un programa de cuidado infantil llamado [[DAYCARE|Las Manitas Creciendo]], ubicado en [[PLACE|210 West Raleigh Street]], [[PLACE|Siler City]], [[PLACE|NC]]. Alli pasa el dia con su maestra principal, la [[TEACHER|Senora Alvarado]], y la asistente, [[TEACHER|Yolanda Perez]]. Entre sus companeros de clase estan [[PEER|Emiliano]] y [[PEER|Dulce]], con quienes juega mas seguido segun el reporte de la maestra.
+
+Por las tardes, [[PARENT|Rosa]] recoge a [[CHILD|Santi]] a las [[TIME|4:30 p.m.]] y la familia a veces va a jugar al parque o visita la [[ORG|Biblioteca Publica del Condado de Chatham, sucursal de Siler City]], donde hay un programa semanal de cuentos bilingues los miercoles a las [[TIME|10:00 a.m.]]. La familia tambien asiste los domingos a la [[ORG|Iglesia Bautista Hispana Nueva Esperanza]], donde [[CHILD|Santi]] participa en la clase de ninos pequenos dirigida por una voluntaria, [[PERSON|M.R.]]
+
+La familia recibe apoyo alimentario de WIC y participa en un programa de [[AGENCY|Smart Start del Condado de Chatham]] que les proporciona libros bilingues cada mes.
+
+La hora de la cena es alrededor de las [[TIME|6:00 p.m.]] y toda la familia, incluyendo a [[FAMILY|Carmen]], come junta la mayoria de las noches. El bano es a las [[TIME|7:30 p.m.]] y [[CHILD|Santi]] se duerme cerca de las [[TIME|8:30 p.m.]], generalmente con su peluche, un perrito de felpa que la familia llama "Nino" (no es una mascota real, sino un juguete).
+
+La mascota de la familia es un perro llamado [[PET|Rocky]], quien le gusta mucho a [[CHILD|Santi]] y lo busca cada vez que se siente ansioso.
+
+OTRAS AGENCIAS Y PROVEEDORES INVOLUCRADOS
+
+[[CHILD|Santi]] fue referido originalmente por su pediatra, [[PROVIDER|Dr. Hector Villanueva]], de [[HOSPITAL|Chatham Pediatric Associates]], ubicado en [[PLACE|890 Hospital Road]], [[PLACE|Siler City]], [[PLACE|NC]]. El Dr. [[PROVIDER|Villanueva]] continua monitoreando el desarrollo general de [[CHILD|Santi]] en visitas de rutina.
+
+La familia tambien ha sido conectada con el [[AGENCY|Departamento de Servicios Sociales del Condado de Chatham (DSS)]] para asistencia con transporte a las citas. El trabajador de caso asignado es [[PROVIDER|J. Delgado]].
+
+No hay otros proveedores de terapia activos en este momento. La familia rechazo anteriormente una referencia a terapia ocupacional porque sentian que no era necesaria.
+
+RESUMEN DEL DESARROLLO Y DESEMPENO ACTUAL
+
+Se administraron las siguientes evaluaciones durante la sesion de revision: [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5) Spanish]] y observacion clinica estructurada.
+
+Comprension Auditiva: puntuacion estandar de [[KEEP|76]], percentil [[KEEP|5]], edad equivalente de [[KEEP|22 meses]].
+Expresion de Lenguaje: puntuacion estandar de [[KEEP|71]], percentil [[KEEP|3]], edad equivalente de [[KEEP|20 meses]].
+Puntuacion Total de Lenguaje: [[KEEP|72]], intervalo de confianza del 95% de [[KEEP|65-79]].
+
+En la evaluacion de produccion de sonidos del habla, [[CHILD|Santi]] demostro los siguientes patrones: sustituye /k/ por [t] en posicion inicial ("[[KEEP|tasa]]" por "[[KEEP|casa]]"), omite consonantes finales de manera consistente, y simplifica grupos consonanticos (por ejemplo, dice "[[KEEP|pato]]" por "[[KEEP|plato]]"). Se observaron estos patrones en [[KEEP|8 de 10]] oportunidades durante la muestra de habla espontanea, lo cual representa aproximadamente el [[KEEP|80%]] de las palabras de prueba.
+
+[[CHILD|Santi]] actualmente usa un promedio de [[KEEP|12 palabras]] diferentes de manera espontanea, principalmente sustantivos ("[[KEEP|agua]]", "[[KEEP|mas]]", "[[KEEP|Mama]]", "[[KEEP|Rocky]]" cuando se refiere a su perro). No combina palabras de manera consistente; se observaron solo dos combinaciones de dos palabras durante la sesion ("[[KEEP|mas agua]]" y "[[KEEP|no quiero]]").
+
+Se observo tambien un patron de ecolalia inmediata, consistente con lo reportado por la abuela [[FAMILY|Carmen]]: cuando se le preguntaba "¿quieres jugar?", [[CHILD|Santi]] repetia "jugar" en vez de responder con si o no.
+
+RESULTADOS DEL IFSP (ACTUALIZADOS)
+
+Resultado [[KEEP|1]]: [[CHILD|Santi]] se comunicara sus necesidades y deseos usando frases de dos a tres palabras en al menos tres contextos diferentes (casa, guarderia, comunidad).
+Estado: progreso emergente. Actualmente logra esto en [[KEEP|2 de 5]] oportunidades observadas con [[KEEP|claves moderadas (mod cues)]].
+Estrategias: uso del enfoque de [[KEEP|Hanen - It Takes Two to Talk]] por parte de los padres; modelado de lenguaje expandido; tiempo de espera estructurado.
+
+Resultado [[KEEP|2]]: [[CHILD|Santi]] producira los sonidos /k/, /g/, y consonantes finales en palabras funcionales con un [[KEEP|70% de precision]] o mas en contexto estructurado.
+Estado: en progreso. Precision actual del [[KEEP|40%]] con claves minimas a moderadas.
+Estrategias: enfoque de [[KEEP|terapia de ciclos fonologicos (Cycles)]]; practica de palabras objetivo en el hogar durante las rutinas de bano y comida.
+
+Resultado [[KEEP|3]] (nuevo, agregado en esta revision): [[CHILD|Santi]] participara en intercambios sociales reciprocos de al menos dos turnos con companeros en la guarderia, usando gestos o palabras, en [[KEEP|3 de 5]] oportunidades observadas.
+Estrategias: coordinacion con el personal de [[DAYCARE|Las Manitas Creciendo]] para estructurar oportunidades de juego con [[PEER|Emiliano]] y [[PEER|Dulce]]; introduccion de un sistema de apoyo visual tipo [[KEEP|PECS]] para iniciar interacciones.
+
+SERVICIOS ACTUALES Y FRECUENCIA
+
+Terapia de habla y lenguaje individual: una vez por semana, [[KEEP|30 minutos]] por sesion, en el hogar de la familia, bajo el codigo [[KEEP|92507]].
+Evaluacion periodica de produccion de sonidos: segun sea necesario, bajo el codigo [[KEEP|92523]], tipicamente cada seis meses coincidiendo con la revision del IFSP.
+Coordinacion de servicios: mensual, por parte de [[PROVIDER|Cruz Fuentes]].
+
+Proxima evaluacion formal programada para: [[DATE|April 7, 2027]]
+Proxima revision de IFSP programada para: [[DATE|April 7, 2027]]
+
+PLAN DE TRANSICION
+
+Dado que [[CHILD|Santi]] cumplira tres anos el [[DATE|April 11, 2026]] del siguiente ciclo, la coordinadora [[PROVIDER|Cruz Fuentes]] discutio con la familia el proceso de transicion hacia servicios del sistema escolar publico (Parte B, Preescolar con Necesidades Especiales) bajo [[AGENCY|Chatham County Schools]]. Se programara una conferencia de transicion aproximadamente a los 2;6 de edad, aunque dado que [[CHILD|Santi]] ya tiene casi [[KEEP|2;11]], esta conferencia se adelantara. Fecha tentativa de la conferencia de transicion: [[DATE|November 18, 2026]].
+
+La familia expreso que quiere que [[CHILD|Santi]] continue en [[DAYCARE|Las Manitas Creciendo]] el mayor tiempo posible antes de cualquier cambio de programa, ya que se siente comodo alli y ha formado relaciones con [[TEACHER|Senora Alvarado]] y sus companeros.
+
+RECOMENDACIONES ADICIONALES
+
+Se recomienda que la familia continue llevando a [[CHILD|Santi]] al programa de cuentos bilingues de la [[ORG|Biblioteca Publica del Condado de Chatham]] para fomentar la exposicion al lenguaje en ambos idiomas en un ambiente estructurado y de bajo estres.
+
+Se recomienda tambien que [[PARENT|Eduardo]] y [[PARENT|Rosa]] participen en al menos dos sesiones de entrenamiento para padres sobre el enfoque [[KEEP|Hanen]] durante el proximo periodo de servicio, para asegurar consistencia entre las sesiones de terapia.
+
+Se discutio brevemente con la familia la posibilidad de una evaluacion auditiva de rutina, dado que no se ha documentado una prueba de audicion reciente en el expediente. [[PARENT|Rosa]] indico que programara esta cita con el Dr. [[PROVIDER|Villanueva]] en las proximas semanas.
+
+FIRMAS
+
+_____________________________
+[[PARENT|Rosa Marquez Hidalgo]], Madre
+Fecha: [[DATE|October 6, 2026]]
+
+_____________________________
+[[PARENT|Eduardo Pena Castillo]], Padre
+Fecha: [[DATE|October 6, 2026]]
+
+_____________________________
+[[PROVIDER|Yesenia Cruz Fuentes]], Coordinadora de Servicios
+[[AGENCY|Piedmont CDSA]]
+Fecha: [[DATE|October 6, 2026]]
+
+_____________________________
+[[PROVIDER|Maria Fernanda Lopez Duran]], [[KEEP|M.S., CCC-SLP]]
+[[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]
+Fecha: [[DATE|October 6, 2026]]

@@ -1,0 +1,21 @@
+Daily Session Note / Nota de Sesion Diaria
+
+Date: [[DATE|October 8, 2026]]  Time: [[TIME|3:30 PM]]
+Client: [[CHILD|Mateo Alvarez]]  DOB: [[DATE|04/12/2021]]  Age: 5;6
+Medicaid ID: [[MEDICAID_ID|987654321A]]  Insurance Member ID: [[ID|BCN44219087]]
+NC ITP Child ID: [[ID|ITP-0023819]]  Authorization #: [[ID|AUTH-556231]]
+
+Provider: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+Employer: [[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]]
+
+S: Session held at home, [[PLACE|412 Willow Bend Lane, Cary, NC 27511]]. Su mama [[PARENT|Lucia Alvarez]] reported [[CHILD|Mateo]] had a good week at [[DAYCARE|Little Sprouts Daycare]]. "Esta hablando mas con su hermana en casa," said mom, referring to [[SIBLING|Sofia]]. Abuela [[FAMILY|Rosa]] also visited this week and helped with homework. Caregiver doña [[FAMILY|Lupe]] stayed during the session and noted [[CHILD|Mateo]] slept well, "duermio toda la noche." Mom mentioned a call from a [[AGENCY|Smart Start]] outreach worker about summer programs.
+
+O: Worked on /s/ and /k/ production in structured play with his dog [[PET|Rex]] nearby. [[CHILD|Mateo]] produced "casa" correctly 8/10 trials with mod cues, SALT code [EW] noted for one self-correction. Imitated final consonants in English words, 7/10, scoring at the 42nd percentile on informal probes. Mixed English/Spanish narrative when describing his friend [[PEER|Diego]] from school: "me gusta jugar con mi friend." [[CHILD|Mateo]]'s teacher, la maestra [[TEACHER|Carmen]], sent a note about classroom participation and asked that Miss [[TEACHER|Ana]] follow up on seating.
+
+A: Good progress on phoneme targets; continues code-switching appropriately per bilingual norms expected for his age. Mom mentioned the upcoming IFSP review scheduled with [[AGENCY|CDSA]] on [[DATE|November 14, 2026]], and asked whether Dr. [[PROVIDER|Tom Reyes]] at [[HOSPITAL|WakeMed Pediatrics]] needs updated reports beforehand.
+
+P: Continue biweekly sessions, next visit [[DATE|October 22, 2026]] at [[TIME|4:00 PM]]. Recommend interpreter Miss [[PROVIDER|Ana]] for the next evaluation. Contact mom at [[PHONE|(919) 555-0148]] or [[EMAIL|lucia.alvarez@email.com]] to confirm, or call the office at [[PHONE|(919) 555-0199]].
+
+Signed,
+[[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]]

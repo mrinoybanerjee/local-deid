@@ -1,0 +1,57 @@
+De: [[PROVIDER|Elena Marisol Varela]] <[[EMAIL|elena.varela@hablaviva.example]]>
+Para: [[PARENT|Lucía Beltrán Soto]] <[[EMAIL|lucia.beltran@correo.example]]>
+Asunto: Nota diaria de [[CHILD|María José Beltrán Ríos]]
+Fecha: [[DATE|3 de marzo de 2025]], [[TIME|16:10]]
+Expediente: [[ID|HV-582104]]; Medicaid: [[MEDICAID_ID|731950284Q]]
+
+Buenas tardes:
+
+Comparto la nota de nuestra sesión bilingüe, redactada íntegramente en español para facilitar la revisión familiar.
+
+S: La mamá [[PARENT|Lucía Beltrán Soto]] informó que [[CHILD|María José]] durmió bien y pidió ayuda durante el desayuno. Su hermano [[SIBLING|Tomás Beltrán Ríos]] participó en el juego antes de salir. La abuela [[FAMILY|Inés Soto Prado]] acompañó a la familia. La niña dijo «[[PET|Chispa]] corre» al recordar a su perro. No se informaron cambios médicos ni dificultades nuevas para comer.
+
+O: Edad: [[KEEP|4;2]]. Atención individual en español, con apoyos visuales y descansos breves. Se practicaron [[KEEP|/k/]] y [[KEEP|/ɾ/]] mediante [[KEEP|Cycles]]. Produjo [[KEEP|«casa»]] en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]], y [[KEEP|«quiero agua»]] en [[KEEP|3 of 5]] oportunidades con [[KEEP|mod cues]]. Se registró [[KEEP|80%]] de precisión para peticiones espontáneas. La muestra incluyó [[KEEP|[w]]] y el código [[KEEP|[EW]]]. Usamos estrategias de [[KEEP|Hanen]] para ampliar turnos.
+
+Como referencia, la evaluación del [[DATE|02/18/2025]] con [[KEEP|PLS-5]] indicó [[KEEP|Auditory Comprehension]]: puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y equivalente de edad [[KEEP|2;6–3;0]].
+
+A: [[CHILD|María José Beltrán Ríos]] mostró mayor iniciativa comunicativa y mejor respuesta a modelos breves. Las dificultades aumentaron cuando retiramos las imágenes. El desempeño apoya continuar el objetivo [[KEEP|2]] del [[KEEP|IFSP]], centrado en pedir ayuda durante rutinas familiares. Su participación fue constante; necesitó pausas para reorganizar la atención.
+
+P: Continuar intervención y practicar peticiones durante cinco minutos diarios. Mantener dos opciones visibles y esperar antes de ofrecer ayuda. Compartir observaciones con la pediatra [[PROVIDER|Nora Celia Armenta]], del [[HOSPITAL|Hospital Pinar Claro]], y la coordinadora [[PROVIDER|Julia Castañeda]], de la [[AGENCY|CDSA Sendero Norte]]. Próxima revisión: [[DATE|2025-03-17]]. Registro del servicio: [[KEEP|CPT 92507]], modificador [[KEEP|GN]], diagnóstico [[KEEP|ICD-10 F80.2]].
+
+Horario acordado:
+
+| Día | Inicio | Fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|14:00]] | [[TIME|14:45]] | [[SCHOOL|Escuela Prado Azul]] |
+| Miércoles | [[TIME|09:15]] | [[TIME|10:00]] | [[DAYCARE|Guardería Semillas del Alba]] |
+| Viernes | [[TIME|15:30]] | [[TIME|16:15]] | [[PLACE|1847 Calle del Junco]] |
+
+Atentamente,
+[[PROVIDER|Elena Marisol Varela]]
+Patóloga bilingüe del habla y del lenguaje
+[[EMPLOYER|Habla Viva Pediátrica]]
+[[PLACE|Valdelucero]], Carolina del Norte, [[PLACE|28988]]
+[[PHONE|919-555-0146]]
+[[URL|https://hablaviva.example]]
+
+> De: [[PARENT|Lucía Beltrán Soto]]
+> Fecha: [[DATE|03/02/2025]], [[TIME|18:25]]
+>
+> Gracias. Mis empleos actuales son la tienda [[ORG|Store Amber Lantern]] y el servicio de limpieza [[ORG|Cleaning Service Morning Pebble]]. Antes trabajé en el restaurante [[ORG|Restaurant Copper Sparrow]].
+>
+> El papá [[PARENT|Diego Ríos Salcedo]] trabaja en la planta [[ORG|Plant Cedar Lantern]] y la empresa constructora [[ORG|Construction Company Willow Bridge]]. Durante la temporada también trabaja en la granja [[ORG|Farm Blue Acorn]]. Estos horarios explican nuestros cambios de transporte.
+>
+> Conservamos el informe del [[DATE|18/02/2025]]. La primera consulta fue el [[DATE|martes 4 de junio]]. Preferimos recibir las instrucciones en español.
+>
+> Saludos,
+> [[PARENT|Lucía Beltrán Soto]]
+> [[PHONE|984-555-0128]]
+>
+>> De: maestra [[TEACHER|Alma Ferrer Navas]]
+>> Fecha: [[DATE|28-02-2025]]
+>>
+>> En clase, [[CHILD|María José]] pidió un turno a [[PEER|Camila Torres Leal]]. El auxiliar [[TEACHER|Iván Ponce]] observó menos frustración. Mantendremos las imágenes junto a los materiales.
+>>
+>> Atentamente,
+>> [[TEACHER|Alma Ferrer Navas]]
+>> [[SCHOOL|Escuela Prado Azul]]

@@ -1,0 +1,19 @@
+Client ID: [[ID|TC-20481]]
+Medicaid ID: [[MEDICAID_ID|300482910B]]
+DOB: [[DATE|April 2, 2022]] (Age: [[KEEP|4;6]])
+Session Date: [[DATE|October 9, 2026]]
+Clinician: [[PROVIDER|Ana Beltrán, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]] ([[EMPLOYER|Carolina Pediatric Speech & Language]], "[[EMPLOYER|CPSLS]]")
+Location: Home visit, [[PLACE|118 Finch Hollow Road, Clayton, NC 27520]]
+Session Time: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
+Interpreter: Not present; session conducted bilingually by clinician
+
+S: [[CHILD|Mateo Ríos]]'s mother, [[PARENT|Lucía Ríos]], reported that [[CHILD|Mateo]] slept poorly last night and refused breakfast this [[TIME|morning]]. She works turno de noche at [[ORG|la planta empacadora de carne Smithfield]] (Smithfield meat packing plant) and said [[CHILD|Mateo]]'s father, [[PARENT|Héctor Ríos]], who trabaja en [[ORG|la construcción para Triangle Builders Construction Co.]], picked him up early from [[DAYCARE|Little Sprouts Daycare]], [[TEACHER|Ms. Lopez]]'s room, around [[TIME|1:30 p.m.]] due to fatigue. [[CHILD|Mateo]]'s older sister, [[SIBLING|Camila]], was dropped at [[SCHOOL|Clayton Elementary School]] by their grandmother, [[FAMILY|Rosa Fernández]], who cuida a los niños three days a week.
+
+O: Session targeted expressive vocabulary and /k/ production per IFSP [[KEEP|Outcome 2]]. [[CHILD|Mateo]] produced [[KEEP|/k/]] correctly in word-initial position [[KEEP|8/10]] trials with [[KEEP|minimal cues]], improved from [[KEEP|3 of 5]] last session. He labeled "[[KEEP|carro]]" and "[[KEEP|casa]]" independently, substituting [[KEEP|[t]]] for [[KEEP|/k/]] in word-final position ("[[KEEP|cat]]" → "[[KEEP|"cat"]]" produced as "[[KEEP|"tat"]]"). Used [[KEEP|PECS]] cards briefly when frustrated after dropping his toy dinosaur; his pet, [[PET|Chulo]] the family dog, was present and provided motivation during a labeling task ("[[KEEP|perro]]").
+
+A: [[CHILD|Mateo]] continues to demonstrate steady progress toward [[KEEP|Goal 1]] (word-initial [[KEEP|/k/]], [[KEEP|80% accuracy]]). Family reports consistency with home practice is limited due to parents' conflicting work schedules. Mother asked about requesting additional support through [[AGENCY|the CDSA]] and mentioned a prior contact there, [[PROVIDER|service coordinator Dana Whitfield]].
+
+P: Continue twice-weekly sessions targeting word-final consonants; introduce visual cueing hierarchy. Recommend consult with [[PROVIDER|Dr. Patel]] regarding recent ear infection history per mother's report. Next session scheduled [[DATE|October 16, 2026]] at [[TIME|9:00 a.m.]]. Clinic contact: [[PHONE|(919) 555-0147]]; billing questions to [[EMAIL|billing@carolinapedslp.com]].
+
+Note completed by [[PROVIDER|Ana Beltrán]], [[EMPLOYER|CPSLS]], [[TIME|11:45 a.m.]].

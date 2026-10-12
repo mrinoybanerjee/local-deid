@@ -1,0 +1,37 @@
+# Daily Bilingual Speech-Language Therapy Note
+
+## 1. Datos administrativos
+### 1.1 Client and service
+[[CHILD|Emilio de la Cruz]], age [[KEEP|4;2]], attended outpatient therapy on [[DATE|October 8, 2026]]. Clinician: [[PROVIDER|Marina Vega-Santos]], MS, CCC-SLP, bilingual pediatric speech-language pathologist, employed by [[EMPLOYER|Larkspur Pediatric Communication]] in North Carolina.
+
+Record: [[ID|LP-604812]]; Medicaid: [[MEDICAID_ID|731604928K]]. Diagnosis: [[KEEP|F80.2]]; procedure: [[KEEP|92507]].
+
+## 2. Horario de sesiones
+### 2.1 Current schedule
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 a.m.]] | [[TIME|9:30 a.m.]] | [[SCHOOL|Juniper Lantern Preschool]] |
+| Thursday | [[TIME|2:15 p.m.]] | [[TIME|2:45 p.m.]] | [[PLACE|84 Lantern Finch Lane]], [[PLACE|Alderbrook]], NC [[PLACE|27500]] |
+
+## 3. Subjetivo
+### 3.1 Family and classroom report
+Su mamá [[PARENT|Teresa del Río]] reported, “En casa pide ayuda, pero switches to English cuando está cansado.” Sister [[SIBLING|Sol]] joined briefly. Teacher Ms. [[TEACHER|Benítez]] reported improved participation with classmate [[PEER|Nico]]. Grandmother [[FAMILY|Inés Prado]] provided transportation. Family priorities remain functional requests and clearer speech during shared play.
+
+## 4. Objetivo
+### 4.1 Recorded baseline
+
+| Test | Subtest | Evaluation date | Standard score | Percentile | Confidence interval |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] | [[KEEP|Auditory Comprehension]] | [[DATE|September 24, 2026]] | [[KEEP|81]] | [[KEEP|10th]] | [[KEEP|76–88]] |
+
+### 4.2 Session performance
+Using [[KEEP|Hanen]] strategies, the clinician elicited requests in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|70%]]. For target word “[[KEEP|sol]],” the child produced “[[KEEP|tol]]” before a successful imitation. During pretend play, he said “[[PET|Chispa]] come”; this spontaneous utterance accompanied pointing. Spanish and English responses were accepted throughout, con apoyo visual.
+
+## 5. Valoración
+### 5.1 Clinical interpretation
+Progress supports continued intervention for functional communication. Performance varied with linguistic context and task familiarity. Baseline results require interpretation alongside bilingual observations; the recorded score alone does not establish language difference or disorder.
+
+## 6. Plan
+### 6.1 Seguimiento
+Continue [[KEEP|IFSP]] outcome [[KEEP|2]] through caregiver coaching and play routines. Practice “[[KEEP|sol]]” during picture naming. Parent teach-back confirmed understanding. Coordinate classroom visuals and review carryover at the next visit. Contact: [[PHONE|919-555-0146]].

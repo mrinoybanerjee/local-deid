@@ -1,0 +1,150 @@
+INFORME DE EVALUACIÓN FONOAUDIOLÓGICA PEDIÁTRICA BILINGÜE
+
+**Datos de identificación**
+
+Pt: [[CHILD|Elías Tomás Valverde Castañeda]]. Nombre usado en casa: [[CHILD|Lilo]].  
+Fecha de nacimiento: [[DATE|18 de junio de 2022]]. Edad cronológica: [[KEEP|4;2]].  
+Fecha de evaluación: [[DATE|20 de agosto de 2026]]. Inicio: [[TIME|9:10 a. m.]]. Finalización: [[TIME|11:05 a. m.]].  
+Expediente: [[ID|SLP-26-1840]]. Medicaid: [[MEDICAID_ID|483726915Q]]. Autorización: [[ID|AUT-NC-260820-73]].  
+Domicilio: [[PLACE|418 Calle del Junco Claro]], [[PLACE|Loma del Laurel]], North Carolina [[PLACE|27583]]. Condado: [[PLACE|Arroyo Nacarado]].  
+Mamá: [[PARENT|Renata Castañeda Solís]]. Papá: [[PARENT|Bruno Valverde Mena]].  
+Tel. principal: [[PHONE|919-555-0146]]. Tel. alternativo: [[PHONE|984-555-0172]].  
+Profesional: Lic. [[PROVIDER|Valeria Montiel Rivas]], patóloga bilingüe del habla y lenguaje, CCC-SLP.  
+Empresa: [[EMPLOYER|Voces del Junco Pediatric Speech]].  
+Correo: [[EMAIL|valeria.montiel@vocesdeljunco.example]]. Sitio: [[URL|https://vocesdeljunco.example/servicios]].  
+Servicio: evaluación del habla y lenguaje, CPT [[KEEP|92523]], modificador [[KEEP|GN]].  
+Impresión diagnóstica: ICD-10 [[KEEP|F80.2]]. Tratamiento propuesto: CPT [[KEEP|92507]], modificador [[KEEP|GN]].
+
+**Motivo de consulta y antecedentes**
+
+La mamá solicita evaluación b/c pt usa frases cortas, pierde instrucciones de varios pasos y presenta frustración cuando otras personas no comprenden su mensaje. El papá refiere mejor comunicación durante juegos conocidos y menor participación cuando cambian los materiales. La familia desea que pt pueda explicar necesidades, comentar experiencias y participar en actividades del salón w/ menos apoyo adulto.
+
+La referencia proviene de la Dra. [[PROVIDER|Irene Salcedo Vela]], de [[HOSPITAL|Hospital Infantil Sendero del Pino]]. El formulario recibido el [[DATE|5 de agosto de 2026]] describe preocupación por lenguaje receptivo y expresivo. No documenta diagnóstico neurológico. La coordinadora [[PROVIDER|M.R.]] de [[AGENCY|CDSA de Loma del Laurel]] facilitó antecedentes de servicios tempranos, con autorización familiar registrada en el expediente.
+
+La evaluación incluye entrevista a CG, revisión de antecedentes, observación de juego, tareas estructuradas y muestra espontánea. La mamá estuvo presente durante toda la sesión. El papá participó por teléfono al cierre. Pt aceptó materiales después de una transición breve y requirió pausas frecuentes. Los resultados representan su desempeño en este contexto; deben integrarse con información del hogar y del programa preescolar.
+
+**Historia de nacimiento y desarrollo**
+
+CG reporta embarazo con controles regulares. No refiere exposición prenatal a alcohol ni complicaciones que requirieran hospitalización prolongada. El nacimiento ocurrió en [[HOSPITAL|Hospital Materno Valle del Ámbar]], mediante parto vaginal, a las [[KEEP|39 semanas y 2 días]] de gestación. Peso al nacer: [[KEEP|3,180 g]]. Apgar: [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos.
+
+Pt permaneció con la mamá después del nacimiento. No necesitó ventilación, alimentación por sonda ni estancia en cuidados intensivos. La familia recuerda ictericia leve, manejada con vigilancia. No dispone del resumen neonatal durante esta visita; los antecedentes anteriores proceden del reporte de CG y no de una revisión directa del registro hospitalario.
+
+CG sitúa la marcha independiente a los [[KEEP|14 meses]] y las primeras palabras consistentes alrededor de los [[KEEP|18 meses]]. Las combinaciones espontáneas aparecieron cerca de los [[KEEP|30 meses]]. La familia no describe pérdida de habilidades. Actualmente pt participa en vestido y alimentación con supervisión. Las transiciones funcionan mejor cuando el adulto anticipa la actividad y ofrece una elección concreta.
+
+**Historia médica y servicios previos**
+
+La Dra. [[PROVIDER|Irene Salcedo Vela]] atiende a pt en controles pediátricos. CG reporta episodios de otitis durante temporadas frías y ausencia de cirugía de oído. La última valoración audiológica, realizada el [[DATE|12 de julio de 2026]] por la audióloga [[PROVIDER|Nadia Ferrer Soto]], describió respuestas auditivas dentro de límites esperados para las frecuencias evaluadas. Se revisó una copia del informe.
+
+No se reportan convulsiones, traumatismo craneal, alergias alimentarias conocidas ni medicamentos diarios. El sueño presenta variación cuando cambia el horario familiar. La mamá describe selección de alimentos por textura, pero no tos, atragantamiento ni pérdida de peso. No se realizó evaluación de deglución; esta área queda fuera del alcance del servicio actual.
+
+Pt recibió intervención temprana con la terapeuta [[PROVIDER|Camila Duarte Leal]]. El IFSP fechado [[DATE|9 de septiembre de 2024]] incluía el resultado [[KEEP|1]] sobre petición funcional y el resultado [[KEEP|2]] sobre participación en rutinas. CG refiere avances con gestos y palabras. El cierre administrativo ocurrió el [[DATE|18 de junio de 2025]], según la copia disponible. No hay tratamiento ambulatorio activo al momento de esta evaluación.
+
+**Historia familiar, cuidadores y trabajo**
+
+Pt vive con ambos padres y su hermana [[SIBLING|Aitana Valverde Castañeda]], de [[KEEP|7;6]]. La hermana suele explicar juegos y responder rápidamente por pt. CG reconoce que esta ayuda reduce oportunidades de respuesta independiente. La abuela [[FAMILY|Ofelia Solís Prado]] cuida a pt algunas tardes. La tía [[FAMILY|Dalia Castañeda Solís]] participa en traslados y rutinas de comida.
+
+La mamá [[PARENT|Renata Castañeda Solís]] trabaja actualmente en el servicio de limpieza [[ORG|Quiet Lantern Cleaning Service]]. Antes trabajó en la tienda [[ORG|Copper Finch Store]] y en el restaurante [[ORG|Silver Acorn Restaurant]]. El papá [[PARENT|Bruno Valverde Mena]] trabaja en la compañía de construcción [[ORG|Blue Heron Construction Company]]. Sus empleos previos fueron en la planta [[ORG|Maple Ribbon Manufacturing Plant]] y en la granja [[ORG|Cedar Basket Farm]].
+
+Los horarios laborales cambian según la semana. La familia identifica esta variación como una barrera para citas, pero mantiene rutinas de cuento y conversación durante la cena. La cuidadora [[FAMILY|Inés Pardo Luna]] recoge a pt cuando ambos padres trabajan. El vecino [[PERSON|Raúl Becerra Téllez]] apoya ocasionalmente con transporte; no participa en decisiones clínicas.
+
+La mascota familiar, [[PET|Nube]], aparece con frecuencia en las conversaciones de pt. CG refiere que hablar sobre el animal facilita comentarios espontáneos y secuencias sencillas. No se reporta historia familiar confirmada de trastorno del lenguaje. El papá recuerda dificultades escolares propias, sin evaluación documentada.
+
+**Historia de idiomas y educación**
+
+El español es el idioma principal del hogar. La mamá y la abuela usan español durante juego, alimentación y cuidado personal. El papá alterna español e inglés en canciones y actividades breves. CG estima exposición actual de [[KEEP|70%]] al español y [[KEEP|30%]] al inglés. Estas proporciones son aproximaciones familiares; no provienen de un registro sistemático.
+
+Pt asiste al preescolar [[DAYCARE|La Tetera del Cometa Azul]], ubicado en [[PLACE|Loma del Laurel]]. La maestra, Sra. [[TEACHER|Jimena Ortiz Paredes]], y la asistente, [[TEACHER|Pilar Nevárez Luna]], describen participación variable en grupos. Pt sigue mejor las rutinas cuando observa a compañeros y recibe apoyo visual. La hermana asiste a [[SCHOOL|Escuela Primaria Brisa de Cobre]].
+
+En el salón, pt busca a [[PEER|Maia Robles Vento]] para construir y a [[PEER|Teo Aranda Miel]] para juegos de vehículos. Durante una actividad grupal, [[PEER|Luz Molina Cerezo]] pidió un material y pt respondió con un gesto. La maestra identificada como [[TEACHER|J. Ortiz]] reporta que las dificultades aparecen tanto en actividades de español como de inglés, aunque aumentan con vocabulario poco familiar.
+
+**Procedimientos y condiciones de evaluación**
+
+Se administró [[KEEP|PLS-5 Spanish]] siguiendo sus procedimientos bilingües y criterios de puntuación. Se completaron los subtests [[KEEP|Comprensión auditiva]] y [[KEEP|Comunicación expresiva]], además del compuesto [[KEEP|Lenguaje total]]. Los apoyos adicionales se reservaron para tareas informales y exploración dinámica. Ninguna respuesta obtenida mediante enseñanza adicional se incorporó a la puntuación estandarizada.
+
+La muestra conversacional se examinó con [[KEEP|SALT]]. Se usaron segmentos de juego, descripción de imágenes y conversación sobre rutinas. La codificación incluyó [[KEEP|[EW]]] cuando correspondía a un error de palabra. La muestra fue breve y dependió de la participación; no se utilizó como comparación normativa independiente.
+
+Pt trabajó sentado y en el piso. Mostró fatiga hacia el final y mejoró después de una pausa motora. La presencia de CG facilitó regulación, aunque pt buscó confirmación frecuente. La interpretación considera exposición bilingüe, familiaridad con materiales y atención. El uso de dos idiomas, por sí mismo, no explica las dificultades observadas en ambos contextos.
+
+**Resultados estandarizados**
+
+| Medida | Puntuación estándar | Percentil | IC del 95% | Equivalente de edad |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|71–83]] | [[KEEP|3;1]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|68–81]] | [[KEEP|2;11]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|69–80]] | [[KEEP|3;0]] |
+
+Las puntuaciones indican desempeño inferior al esperado en las tareas administradas. Los equivalentes de edad son descripciones limitadas de resultados; no representan una edad global de desarrollo. Los intervalos reflejan incertidumbre de medición. La decisión clínica considera también desempeño funcional, observaciones y respuesta a apoyos, sin depender de una sola puntuación.
+
+**Lenguaje receptivo y aprendizaje dinámico**
+
+Pt identificó objetos familiares y acciones frecuentes. Respondió mejor cuando el verbo correspondía a una rutina conocida. En instrucciones simples obtuvo [[KEEP|8/10]], equivalente a [[KEEP|80%]], sin repetición. En instrucciones relacionadas de varios pasos obtuvo [[KEEP|4/10]], equivalente a [[KEEP|40%]]. Con apoyo visual y [[KEEP|mod cues]], aumentó a [[KEEP|7/10]], equivalente a [[KEEP|70%]].
+
+Se observaron dificultades con relaciones espaciales, negación y preguntas sobre causas. Pt resolvió [[KEEP|3 of 5]] oportunidades de selección por función con [[KEEP|min cues]]. En tareas con información nueva tendió a elegir el objeto más cercano. Esta conducta disminuyó cuando la examinadora redujo el campo visual y presentó una instrucción por vez.
+
+Durante enseñanza breve, pt aprendió a colocar un objeto [[KEEP|"debajo"]], pero generalizó de forma inconsistente con otro material. Requirió [[KEEP|max cues]] al inicio y [[KEEP|mod cues]] después de práctica. La respuesta sugiere capacidad de aprendizaje con apoyos explícitos, aunque la comprensión independiente continúa limitada. Conviene verificar transferencia en rutinas reales y con distintos adultos.
+
+**Lenguaje expresivo y muestra espontánea**
+
+Pt comunicó peticiones, rechazo, saludo y comentarios sobre objetos. Usó gestos, palabras y frases cortas. Las emisiones [[KEEP|"dame carro"]], [[KEEP|"mamá ven"]]] y [[KEEP|"yo no quiere"]]] aparecieron durante juego. La omisión de artículos y variación verbal fueron frecuentes en español. En inglés produjo [[KEEP|"my turn"]]] y [[KEEP|"car go"]]] dentro de rutinas aprendidas.
+
+La mayoría de las respuestas describió elementos presentes. Pt necesitó preguntas específicas para contar hechos anteriores. Al describir una imagen produjo [[KEEP|"niña agua"]]]; después de un modelo amplió a [[KEEP|"la niña toma agua"]]]. La imitación inmediata fue más completa que las formulaciones espontáneas. No se interpretó la alternancia entre idiomas como error clínico.
+
+En denominación informal obtuvo [[KEEP|12/20]], equivalente a [[KEEP|60%]], sin ayuda. Con claves semánticas y [[KEEP|mod cues]] obtuvo [[KEEP|16/20]], equivalente a [[KEEP|80%]]. Las aproximaciones conceptuales se registraron aparte. La muestra mostró intención comunicativa sostenida, pero repertorio limitado para explicar, preguntar y reparar mensajes.
+
+La longitud media del enunciado fue [[KEEP|2.6 palabras]]. Este valor describe únicamente la muestra recogida. En [[KEEP|SALT]], los segmentos marcados con [[KEEP|[EW]]] se revisaron según el idioma del enunciado. No se aplicaron expectativas gramaticales del inglés a las producciones en español.
+
+**Habla, mecanismo oral, voz y fluidez**
+
+La observación oral mostró simetría facial y movilidad funcional durante tareas simples. Pt imitó cierre labial y movimientos linguales con demostración. No se observaron signos evidentes de debilidad durante conversación. La exploración fue limitada por cooperación y no permite conclusiones sobre movimientos complejos fuera de las tareas realizadas.
+
+Se registraron sustituciones variables de [[KEEP|/k/]] por [[KEEP|[t]]] y reducción de grupos consonánticos. Para el objetivo [[KEEP|"casa"]]], pt produjo [[KEEP|"tasa"]]]. Para [[KEEP|"plato"]]], produjo [[KEEP|"pato"]]]. También hubo variación de [[KEEP|/ɾ/]] en palabras largas. La aproximación [[KEEP|[w]]] apareció en una producción de inglés y se interpretó dentro de ese contexto fonológico.
+
+La inteligibilidad estimada fue [[KEEP|75%]] para CG y [[KEEP|55%]] para la examinadora durante conversación. Estas estimaciones son observacionales. Pt imitó [[KEEP|/k/]] en [[KEEP|6/10]] oportunidades con [[KEEP|max cues]] y apoyo visual. La voz presentó intensidad y calidad funcionales. No se observaron bloqueos ni tensión asociados con fluidez en la muestra disponible.
+
+**Juego, pragmática y participación**
+
+Pt compartió atención, mostró objetos y buscó la reacción del adulto. Inició juego simbólico con comida y vehículos. Aceptó cambios sencillos cuando recibió anticipación. En turnos estructurados mantuvo intercambio durante [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Sin apoyo, abandonó algunas actividades cuando el compañero modificó la secuencia.
+
+La reparación comunicativa fue limitada. Cuando el adulto no comprendió, pt repitió la misma emisión o elevó la voz. Con [[KEEP|mod cues]], añadió gesto o palabra en [[KEEP|3/5]] oportunidades. CG refiere patrones similares en casa. La frustración parece relacionada, en parte, con la dificultad para transmitir mensajes; esta evaluación no establece un diagnóstico conductual.
+
+**Impresiones clínicas**
+
+[[CHILD|Elías]] presenta dificultades receptivas y expresivas que afectan participación cotidiana. La impresión de trastorno mixto del lenguaje, ICD-10 [[KEEP|F80.2]], se apoya en resultados estandarizados, desempeño informal y reportes coincidentes. Las necesidades incluyen comprensión de instrucciones, vocabulario relacional, organización de frases y reparación de mensajes.
+
+La historia bilingüe exige considerar ambos idiomas. El español muestra mayor repertorio funcional, pero las dificultades también aparecen en actividades familiares de ese idioma. Los apoyos mejoran el desempeño y permiten identificar estrategias útiles. No hay evidencia suficiente para atribuir el perfil exclusivamente a exposición al inglés o a falta de oportunidades.
+
+Las diferencias de sonidos reducen inteligibilidad y requieren seguimiento específico. La muestra actual no permite clasificar todos los patrones ni confirmar un diagnóstico motor del habla. Las fortalezas incluyen intención comunicativa, juego simbólico, vínculo con CG y respuesta al modelado. La familia dispone de rutinas adecuadas para incorporar práctica breve.
+
+**Plan propuesto y objetivos**
+
+Se recomienda intervención individual semanal, con práctica familiar y coordinación educativa. La frecuencia inicial debe revisarse según asistencia, respuesta clínica y participación funcional. El servicio corresponde a CPT [[KEEP|92507]], modificador [[KEEP|GN]]. Se propone revisar el plan el [[DATE|19 de noviembre de 2026]].
+
+Objetivo [[KEEP|1]]: seguir instrucciones relacionadas de varios pasos en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]], con [[KEEP|min cues]]. La línea de base es [[KEEP|4/10]] sin ayuda. Se incorporarán objetos cotidianos y apoyos visuales que se retirarán gradualmente.
+
+Objetivo [[KEEP|2]]: producir frases funcionales ampliadas para pedir, comentar o rechazar en [[KEEP|4/5]] oportunidades con [[KEEP|min cues]]. Se usarán modelos como [[KEEP|"quiero el carro rojo"]]] y [[KEEP|"la niña está comiendo"]]]. Se aceptarán respuestas apropiadas en cualquiera de los idiomas.
+
+Objetivo [[KEEP|3]]: reparar un mensaje mediante otra palabra, gesto o señal visual en [[KEEP|4/5]] oportunidades con [[KEEP|mod cues]]. Objetivo [[KEEP|4]]: producir [[KEEP|/k/]] en palabras practicadas con [[KEEP|80%]] de precisión y [[KEEP|mod cues]], después de confirmar estimulabilidad y selección clínica de objetivos.
+
+**Recomendaciones para familia y salón**
+
+1. Mantener el español en las rutinas familiares. Usar el idioma en que cada adulto conversa con mayor comodidad. Evitar pedir traducciones continuas o corregir cada emisión; responder al significado y ofrecer un modelo breve.
+
+2. Presentar una instrucción clara y esperar la respuesta. Añadir gesto o imagen si pt necesita apoyo. Reducir palabras adicionales cuando la actividad sea nueva. Comprobar comprensión mediante la acción, en vez de preguntar solamente si entendió.
+
+3. Ampliar las emisiones durante juego. Si pt dice [[KEEP|"carro"]]], el adulto puede modelar [[KEEP|"el carro corre"]]]. Incorporar vocabulario espacial en actividades reales. Repetir el modelo sin exigir que pt lo diga inmediatamente.
+
+4. Dar oportunidades para reparar mensajes. El adulto puede indicar que necesita más información y ofrecer una opción visual. Evitar responder por pt antes de permitir un intento. CG practicará esta estrategia durante merienda y juego.
+
+5. Considerar estrategias de [[KEEP|Hanen]] para interacción familiar. Valorar [[KEEP|PECS]] únicamente si una evaluación funcional identifica necesidad y beneficio. [[KEEP|PROMPT]] y [[KEEP|Cycles]] requieren selección clínica específica; no se incorporan automáticamente por los errores observados.
+
+6. Compartir el plan con el equipo preescolar mediante autorización familiar. Solicitar ejemplos breves de instrucciones, frases espontáneas y reparación. Mantener oportunidades de interacción con compañeros, con apoyo adulto suficiente para facilitar participación.
+
+**Devolución y seguimiento**
+
+La profesional [[PROVIDER|Valeria Montiel Rivas]] explicó resultados y recomendaciones a ambos padres. CG describió las estrategias con sus propias palabras y seleccionó merienda y juego de vehículos como rutinas iniciales. La familia recibió un resumen escrito. No se prometió un ritmo específico de progreso.
+
+Se programó seguimiento para el [[DATE|3 de septiembre de 2026]] a las [[TIME|4:15 p. m.]]. La mamá puede contactar al servicio en [[PHONE|919-555-0188]]. El equipo solicitará información del salón con consentimiento y revisará metas según desempeño. Se aconseja nueva consulta médica si aparecen pérdida de habilidades, cambios auditivos o dificultades de alimentación.
+
+Firma: Lic. [[PROVIDER|Valeria Montiel Rivas]], CCC-SLP.  
+Empresa: [[EMPLOYER|Voces del Junco Pediatric Speech]].  
+Fecha de cierre del informe: [[DATE|21 de agosto de 2026]].

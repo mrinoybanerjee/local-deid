@@ -1,0 +1,100 @@
+IFSP – Programa de Intervención Temprana para Infantes y Niños Pequeños de NC (NC ITP)
+Revisión de IFSP – Informe de progreso trimestral – Formato SOAP
+
+[[AGENCY|CDSA de la Región Piedmont]]
+[[PLACE|210 Avenida Mills]], [[PLACE|Burlington]], [[PLACE|Condado de Alamance]], [[PLACE|27215]]
+Tel. [[PHONE|(336) 555-0142]] | Fax [[PHONE|(336) 555-0199]]
+
+Fecha de la revisión: [[DATE|12 de octubre de 2026]]
+Fecha del IFSP inicial: [[DATE|3 de marzo de 2026]]
+Próxima revisión programada: [[DATE|12 de abril de 2027]]
+
+Niño: [[CHILD|Mateo Isaías Hernández Rodríguez]] (apodo "[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|14 de enero de 2024]]
+Edad cronológica: [[KEEP|2;9]]
+Edad gestacional al nacer: [[KEEP|38 semanas]]
+Peso al nacer: [[KEEP|3,100 gramos]]
+ID del niño (CDSA): [[ID|AT-884512]]
+ID de Medicaid: [[MEDICAID_ID|934217865B]]
+
+Madre/Guardiana: [[PARENT|Lucía Rodríguez]]
+Padre/Guardián: [[PARENT|Jorge Hernández]]
+Domicilio: [[PLACE|742 Calle Roble]], [[PLACE|Burlington]], [[PLACE|Condado de Alamance]], [[PLACE|27215]]
+Tel. madre: [[PHONE|(336) 555-0187]] | Tel. padre: [[PHONE|(336) 555-0233]]
+Correo de contacto: [[EMAIL|lucia.rodriguez84@gmail.com]]
+
+Coordinadora de servicios: [[PROVIDER|Alicia Fernández]], [[AGENCY|CDSA de la Región Piedmont]]
+Patóloga del habla-lenguaje: [[PROVIDER|Marisol Ortiz]], M.S., CCC-SLP — [[EMPLOYER|Pediatric Therapy Partners, LLC]]
+Pediatra remitente: [[PROVIDER|Dr. Kevin Walsh]]
+Hospital de nacimiento: [[HOSPITAL|Hospital Regional de Alamance]]
+
+S:
+Mamá, [[PARENT|Lucía Rodríguez]], refiere en sus propias palabras: "[[CHILD|Teo]] entiende casi todo lo que le decimos pero no nos dice lo que quiere, solo señala y hace sonidos como 'eh-eh'." Agrega: "En la casa le hablamos mitad en español mitad en inglés, y a veces se frustra porque no le entendemos." Papá, [[PARENT|Jorge Hernández]], comenta: "Cuando quiere algo jala la ropa y grita, no usa palabras." Ambos padres reportan que [[CHILD|Teo]] dice aprox. 8 palabras funcionales ("mamá", "papá", "agua", "más", "no", "pan", "oso", "arriba") y no combina palabras.
+
+Hx fam/social: la familia vive con la abuela materna, a quien [[CHILD|Teo]] llama "abuela [[FAMILY|Lupe]]" (doña [[FAMILY|Lupe]]), quien cuida a [[CHILD|Teo]] y a su hermana mayor, [[SIBLING|Valentina Hernández Rodríguez]] ("[[SIBLING|Vale]]", [[KEEP|4;6]]), tres días a la semana mientras los padres trabajan. Mamá trabaja de lunes a viernes en el turno de la mañana en [[ORG|Smithfield Packing Plant]], una planta empacadora; papá trabaja de lunes a sábado en [[ORG|Construcciones Rivera]], una compañía de construcción. Tía materna, [[FAMILY|Rosa Gómez]], trabaja de noche en [[ORG|El Jardín Restaurant]] y ayuda algunos fines de semana. Doña [[FAMILY|Lupe]] también cuidó antes en una granja familiar en [[PLACE|Mebane]] antes de mudarse con la familia.
+
+Rutina diaria: [[CHILD|Teo]] se despierta aprox. a las [[TIME|6:30 a.m.]], desayuna con la abuela, y es llevado a la guardería [[DAYCARE|Centro de Cuidado Pequeños Pasos]] de [[TIME|8:00 a.m.]] a [[TIME|3:00 p.m.]] los días que mamá y papá trabajan. Ahí su maestra es la maestra [[TEACHER|Carmen]] y el asistente es [[TEACHER|Mr. Tom]]. [[CHILD|Teo]] juega con sus compañeros [[PEER|Emma]] y [[PEER|Liam]], y le gusta imitar a su primo [[FAMILY|Pepe]] y a su primo [[FAMILY|Juanito]] cuando visitan los domingos. La niñera ocasional, [[FAMILY|Miss Ana]], lo cuida algunos sábados cuando doña [[FAMILY|Lupe]] no puede. La familia tiene un perrito llamado [[PET|Rocky]], y mamá dice que [[CHILD|Teo]] se emociona mucho y grita "¡guau, guau!" cuando ve a [[PET|Rocky]].
+
+Mamá refiere que la familia recibe apoyo de [[AGENCY|WIC]] para nutrición y está inscrita en [[AGENCY|Smart Start]] del condado para actividades de alfabetización familiar. También tienen un caso abierto con [[AGENCY|DSS]] del [[PLACE|Condado de Alamance]] por servicios de vivienda, no relacionado con seguridad.
+
+Preocupaciones y prioridades de la familia: 1) que [[CHILD|Teo]] pueda decir lo que quiere sin frustrarse; 2) que entienda instrucciones de dos pasos en ambos idiomas; 3) que se pueda comunicar con su hermana [[SIBLING|Vale]] y con sus primos [[FAMILY|Pepe]] y [[FAMILY|Juanito]] durante el juego; 4) preparación para ingresar a preescolar el próximo año.
+
+O:
+Horario de sesiones (terapia de habla-lenguaje, EI a domicilio y en guardería):
+
+| Día | Hora inicio | Hora fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Centro de Cuidado Pequeños Pasos]] |
+| Miércoles | [[TIME|4:00 p.m.]] | [[TIME|4:45 p.m.]] | domicilio, [[PLACE|742 Calle Roble]] |
+| Viernes | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Centro de Cuidado Pequeños Pasos]] |
+
+Evaluación formal administrada [[DATE|28 de septiembre de 2026]] por [[PROVIDER|Marisol Ortiz]] con intérprete [[PROVIDER|Daniela Soto]] presente para verificación con la familia.
+
+[[KEEP|Preschool Language Scales-5]] ([[KEEP|PLS-5]]) — Spanish/English bilingual norms:
+- [[KEEP|Auditory Comprehension]]: puntaje estándar [[KEEP|76]] ([[KEEP|percentil 5]]), IC 90%: [[KEEP|70-82]]
+- [[KEEP|Expressive Communication]]: puntaje estándar [[KEEP|68]] ([[KEEP|percentil 2]]), IC 90%: [[KEEP|62-74]]
+- Edad equivalente expresiva: [[KEEP|14 meses]]
+
+[[KEEP|Rossetti Infant-Toddler Language Scale]]: rango global de edad equivalente [[KEEP|16-18 meses]] en todos los dominios excepto [[KEEP|interacción-apego]], que fue de [[KEEP|24 meses]].
+
+Muestra de lenguaje espontáneo (15 min, guardería): [[CHILD|Teo]] produjo [[KEEP|8]] palabras diferentes en la sesión, [[KEEP|0 combinaciones de dos palabras]]. Produjo "[[KEEP|más]]" y "[[KEEP|pan]]" espontáneamente cuando vio a [[PEER|Liam]] comer galletas. Imitó "[[KEEP|arriba]]" con [[KEEP|mod cues]] (modelo + gesto).
+
+Fonética/fonología: inventario consonántico limitado a [[KEEP|/m, p, b, n, t/]]. Omite consonantes finales y sustituye velares por alveolares, ej. "[[KEEP|dato]]" por "[[KEEP|gato]]". No se observan distorsiones de [[KEEP|/ɾ/]] ni de [[KEEP|[w]]] por ser aún muy temprano para esos sonidos a su edad.
+
+Comprensión de instrucciones: siguió [[KEEP|3 de 5]] instrucciones de un paso con [[KEEP|min cues]] (gesto); [[KEEP|0 de 5]] instrucciones de dos pasos incluso con [[KEEP|max cues]].
+
+Juego e interacción social: inicia juego funcional simple (empujar carrito, dar de comer a muñeco). Observado compartir juguete con [[PEER|Emma]] sin indicación verbal, solo gesto. Protodeclarativos presentes; protoimperativos predominan.
+
+Pragmática/interacción: contacto visual adecuado, toma turnos en juego motor con adulto [[KEEP|8/10]] oportunidades. Rechaza actividad no deseada empujando el objeto o llorando, sin señalar aún de forma consistente.
+
+Audición y estructura oral: cribado auditivo pasado [[DATE|10 de marzo de 2026]]. Estructura oral dentro de límites normales; sin hallazgos de hipotonía orofacial. [[KEEP|Apgar 8/9]] al nacer, sin complicaciones perinatales reportadas.
+
+A:
+[[CHILD|Teo]] presenta un retraso significativo del lenguaje expresivo y receptivo en ambos idiomas (español e inglés), consistente con retraso global de la comunicación más que con un perfil específico de un solo idioma; no hay evidencia de que la exposición bilingüe sea la causa del retraso. El perfil fonológico es consistente con la edad de desarrollo observada, con procesos típicos de simplificación (omisión final, frontalización velar) que se espera resuelvan con intervención dirigida y no indican un trastorno motor del habla.
+
+Diagnóstico de trabajo: Trastorno del Lenguaje, de inicio en la niñez temprana ([[KEEP|ICD-10 F80.9]]). Código de servicio facturado: [[KEEP|CPT 92523]], modificador [[KEEP|GN]].
+
+Resultados del IFSP (continuación y actualización):
+
+Resultado 1 (continuado): [[CHILD|Teo]] usará al menos 25 palabras nuevas de forma espontánea en ambos idiomas para pedir objetos y actividades preferidas. Estrategia: modelado expansivo bilingüe, tiempo de espera de 5 segundos, uso de [[KEEP|PECS]] como apoyo visual transicional durante rutinas de guardería y domicilio. Progreso: parcial; aumentó de 3 a 8 palabras desde la revisión anterior.
+
+Resultado 2 (nuevo): [[CHILD|Teo]] seguirá instrucciones de un paso familiares sin apoyo gestual en el 80% de las oportunidades en ambos idiomas. Estrategia: enfoque [[KEEP|Hanen]] (It Takes Two to Talk) para entrenamiento de los padres y la abuela [[FAMILY|Lupe]] en estrategias de seguimiento del niño ("follow the child's lead") durante rutinas de comida y baño.
+
+Resultado 3 (continuado): [[CHILD|Teo]] iniciará interacción comunicativa con compañeros (ej. [[PEER|Emma]], [[PEER|Liam]]) usando un gesto convencional (señalar, dar) en lugar de empujar o llorar, en el 70% de las oportunidades observadas en guardería. Estrategia: [[PROVIDER|Marisol Ortiz]] entrenará a la maestra [[TEACHER|Carmen]] y a [[TEACHER|Mr. Tom]] en estrategias de espera estructurada y refuerzo de gestos comunicativos durante el juego libre.
+
+Resultado 4 (nuevo, familia): la familia reportará mayor confianza al apoyar el desarrollo del lenguaje de [[CHILD|Teo]] en casa, incluyendo a doña [[FAMILY|Lupe]], usando estrategias de lenguaje dual sin eliminar ninguno de los dos idiomas. Estrategia: sesiones de coaching domiciliario mensual con materiales bilingües; se incluirá a [[SIBLING|Vale]] como modelo de lenguaje entre hermanos durante el juego dirigido.
+
+Factores contextuales considerados: exposición bilingüe en casa (español predominante con abuela, mixto con padres), participación irregular de doña [[FAMILY|Lupe]] los fines de semana cuando trabaja la tía [[FAMILY|Rosa Gómez]], y variabilidad en el horario laboral de los padres en [[ORG|Smithfield Packing Plant]] y [[ORG|Construcciones Rivera]], que pueden afectar la consistencia de la práctica en casa.
+
+P:
+1. Continuar terapia de habla-lenguaje bilingüe directa, 2x/semana, 45 min por sesión, según el horario indicado arriba, iniciando [[DATE|19 de octubre de 2026]].
+2. Añadir coaching domiciliario mensual (60 min) con la familia y doña [[FAMILY|Lupe]], primera sesión [[DATE|26 de octubre de 2026]].
+3. Consulta de colaboración con la maestra [[TEACHER|Carmen]] y [[TEACHER|Mr. Tom]] en [[DAYCARE|Centro de Cuidado Pequeños Pasos]], programada para [[DATE|2 de noviembre de 2026]].
+4. Referido a evaluación de audición completa con audiólogo si no hay progreso en resultado 2 para [[DATE|12 de abril de 2027]].
+5. Coordinación continua con [[PROVIDER|Alicia Fernández]] ([[AGENCY|CDSA de la Región Piedmont]]) para seguimiento de elegibilidad y revisión del IFSP cada seis meses.
+6. Próxima revisión formal del IFSP: [[DATE|12 de abril de 2027]]. Revisión de progreso intermedia por teléfono: [[DATE|15 de enero de 2027]], tel. madre [[PHONE|(336) 555-0187]].
+7. Autorización de servicios válida hasta [[DATE|30 de septiembre de 2027]] bajo ID de Medicaid [[MEDICAID_ID|934217865B]].
+
+Firma de la coordinadora de servicios: [[PROVIDER|Alicia Fernández]] — Fecha: [[DATE|12 de octubre de 2026]]
+Firma de la patóloga del habla-lenguaje: [[PROVIDER|Marisol Ortiz]], M.S., CCC-SLP — Fecha: [[DATE|12 de octubre de 2026]]
+Firma de los padres: [[PARENT|Lucía Rodríguez]] / [[PARENT|Jorge Hernández]] — Fecha: [[DATE|12 de octubre de 2026]]

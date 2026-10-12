@@ -1,0 +1,252 @@
+# Clinical terms that the protect stage masks from every detector (SPEC 4.3).
+# One term per line. Matching is case-insensitive on whole words, except
+# lines starting with "=" which match case-sensitively (acronyms that are
+# also ordinary words, e.g. =PROMPT, =LAMP). Sources: slp_context.md Q2 and
+# spanish_deid.md (public test publishers, SALT conventions, ASHA terms).
+#
+# --- Standardized tests (English and Spanish editions) ---
+Preschool Language Scales
+Preschool Language Scale
+PLS-5
+PLS-5 Spanish
+PLS-5 Spanish Edition
+PLS-4
+Clinical Evaluation of Language Fundamentals
+CELF-5
+CELF-4
+CELF-4 Spanish
+CELF Preschool-3
+CELF Preschool-2
+CELF-P3
+CELF-P2
+Evaluación Clínica de los Fundamentos del Lenguaje
+Goldman-Fristoe Test of Articulation
+Goldman-Fristoe
+GFTA-3
+GFTA-2
+Khan-Lewis Phonological Analysis
+Khan-Lewis
+KLPA-3
+Peabody Picture Vocabulary Test
+PPVT-5
+PPVT-4
+Expressive Vocabulary Test
+EVT-3
+Comprehensive Assessment of Spoken Language
+CASL-2
+Test de Vocabulario en Imágenes Peabody
+TVIP
+Expressive One-Word Picture Vocabulary Test
+Receptive One-Word Picture Vocabulary Test
+EOWPVT-4
+ROWPVT-4
+EOWPVT-4 SBE
+ROWPVT-4 SBE
+Spanish-Bilingual Edition
+Bilingual English-Spanish Assessment
+BESA
+BESA-ME
+Contextual Probes of Articulation Competence
+CPAC-S
+Woodcock-Muñoz
+Woodcock-Muñoz Language Survey
+Woodcock-Johnson
+Receptive-Expressive Emergent Language Test
+REEL-4
+REEL-3
+Rossetti Infant-Toddler Language Scale
+Rossetti
+Bayley Scales of Infant and Toddler Development
+Bayley-4
+Bayley
+MacArthur-Bates Communicative Development Inventories
+MacArthur-Bates
+=CDI
+Battelle Developmental Inventory
+BDI-3
+Hawaii Early Learning Profile
+=HELP
+Ages and Stages Questionnaire
+ASQ-3
+ASQ:SE-2
+M-CHAT
+M-CHAT-R/F
+Clinical Assessment of Articulation and Phonology
+CAAP-2
+Arizona Articulation and Phonology Scale
+Arizona-4
+Test of Narrative Language
+TNL-2
+Test of Language Development
+TOLD-P:5
+TOLD-I:5
+Oral and Written Language Scales
+OWLS-II
+Structured Photographic Expressive Language Test
+SPELT-3
+SPELT-P2
+Communication and Symbolic Behavior Scales
+CSBS
+CSBS-DP
+Language Use Inventory
+Pragmatics Profile
+Diagnostic Evaluation of Articulation and Phonology
+DEAP
+Stuttering Severity Instrument
+SSI-4
+Kaufman Speech Praxis Test
+KSPT
+Systematic Analysis of Language Transcripts
+=SALT
+Vineland-3
+Leiter-3
+Leiter
+Vineland
+Denver II
+# --- Techniques, programs, approaches ---
+=PROMPT
+Hanen
+It Takes Two to Talk
+More Than Words
+=PECS
+Picture Exchange Communication System
+=AAC
+=LAMP
+Words for Life
+Cycles approach
+Cycles Approach
+=Cycles
+Ciclos Fonológicos
+=Ciclos
+=Hodson
+=Kaufman
+Lidcombe
+Lidcombe Program
+Camperdown
+=DTTC
+Dynamic Temporal and Tactile Cueing
+=ReST
+Rapid Syllable Transition Treatment
+=VitalStim
+=NDT
+=ABA
+=ESDM
+=JASPER
+=SCERTS
+=DIR
+Floortime
+=TEACCH
+=PODD
+=TouchChat
+=Proloquo2Go
+Proloquo2Go
+Core Vocabulary
+# --- Programs and agencies that are categories, not names ---
+=IFSP
+=IEP
+=ITP
+=IDEA
+=FERPA
+=HIPAA
+=EI
+=SLP
+=SLPA
+=CCC-SLP
+=OT
+=PT
+=ASHA
+=LEA
+=SOAP
+# --- Billing and diagnosis code labels ---
+=CPT
+=ICD
+=ICD-10
+=ICD-10-CM
+=NPI
+=GN
+=GT
+# --- Test names without an edition number ---
+CELF Preschool
+Clinical Evaluation of Language Fundamentals Preschool
+Preschool Language Scales Spanish
+=CELF
+=PLS
+=GFTA
+=PPVT
+=EVT
+=REEL
+=CASL
+=KLPA
+=TOLD
+=OWLS
+=SPELT
+=CAAP
+=DEAP
+=EOWPVT
+=ROWPVT
+=TVIP
+Peabody
+Goldman Fristoe
+# --- Subtests and index names ---
+Auditory Comprehension
+Expressive Communication
+Total Language
+Total Language Score
+Receptive Language
+Expressive Language
+Core Language
+Core Language Score
+Language Content
+Language Structure
+Receptive Language Index
+Expressive Language Index
+Comprensión Auditiva
+Comunicación Expresiva
+Lenguaje Total
+Lenguaje Receptivo
+Lenguaje Expresivo
+# --- Language sample measures, birth history (dev2 tuning, 2026-10-10) ---
+=MLU
+=MLUw
+=MLUm
+=LME
+=LMEp
+=NDW
+=TTR
+Apgar
+Apgars
+Expresión del Lenguaje
+Comprensión del Lenguaje
+=WNL
+=WFL
+Semantics
+Morphosyntax
+Phonology
+Pragmatics
+Semántica
+Morfosintaxis
+Fonología
+Pragmática
+=Preschool-2
+=Preschool-3
+Preschool-3 Spanish
+=ASD
+=ADHD
+=TEA
+=Au.D.
+=AuD
+=CCC-A
+# --- Spanish editions (dev3, 2026-10-11) ---
+Evaluación Clínica de Fundamentos del Lenguaje
+=Preescolar-2
+=Preescolar-3
+CELF Preescolar-3
+CELF Preescolar-2
+Escalas Bayley de Desarrollo Infantil
+Escalas Bayley
+Bayley Scales of Infant and Toddler Development
+Bilingual English Spanish Assessment
+Bilingual English-Spanish Assessment
+Spanish-Bilingual Edition
+PLS-5 Spanish-Bilingual
+PLS-5 Spanish-Bilingual Edition

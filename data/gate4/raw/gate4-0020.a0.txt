@@ -1,0 +1,51 @@
+From: [[PROVIDER|Elena Varela]], CCC-SLP <[[EMAIL|elena.varela@sproutbridge.example.com]]>
+To: [[PARENT|Lucía Rivas]] <[[EMAIL|lucia.rivas@example.com]]>
+Date: [[DATE|October 9, 2026]], [[TIME|3:45 PM]]
+Subject: Daily speech-language note for [[CHILD|Nico Rivas]]
+Record: [[ID|SB-260109-042]]; Medicaid: [[MEDICAID_ID|482736195Q]]
+
+Hello,
+
+Today I saw [[CHILD|Nico]] at [[SCHOOL|Cedar Lantern Preschool]] in [[PLACE|Larkmere]], North Carolina, from [[TIME|10:15 AM]] to [[TIME|10:45 AM]]. This English note summarizes our bilingual session. Consent remains documented, and the family received the same practice instructions verbally in Spanish. Billing: [[KEEP|92507]], modifier [[KEEP|GN]]; diagnosis: [[KEEP|F80.2]].
+
+S: Mother [[PARENT|Lucía Rivas]] reported better requests during meals. Father [[PARENT|Tomás Rivas]] noticed fewer frustrated gestures. Sister [[SIBLING|Alma]] practiced turn-taking, and grandmother [[FAMILY|Inés Duarte]] used picture choices. The child described their dog by saying, “[[PET|Chispa]] run.” Mother reported no new illness or medication changes.
+
+Birth history was reviewed from the fictional intake record. [[CHILD|Nico]] was born on [[DATE|August 7, 2022]], at [[KEEP|34 weeks]] gestation, weighing [[KEEP|2,140 grams]], at [[HOSPITAL|Willowglass Regional Hospital]]. Apgar scores were [[KEEP|7]] and [[KEEP|9]]. A brief admission to the hospital’s [[HOSPITAL|Willowglass NICU]] addressed feeding coordination. Dr. [[PROVIDER|Mara Quintero]] attended delivery; Dr. [[PROVIDER|Evan Sorrell]] followed neonatal care. Current pediatrician Dr. [[PROVIDER|Priya Calder]] reported stable hearing screening results.
+
+O: At age [[KEEP|4;2]], [[CHILD|Nico]] joined peer [[PEER|Lena Moss]] for pretend shopping. Teacher Ms. [[TEACHER|Rosa Beltrán]] supported transitions. Interpreter [[PROVIDER|Diego Salcedo]] clarified a caregiver question afterward. We used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice, alternating English and Spanish models without requiring direct translation.
+
+Historical and current measures were reviewed:
+
+| Test/subtest | Date | Score or age equivalent | Confidence interval |
+|---|---|---|---|
+| [[KEEP|Rossetti]] / [[KEEP|Language Expression]] | [[DATE|October 7, 2024]] | [[KEEP|22–25 months]] | Not calculated |
+| [[KEEP|Bayley]] / [[KEEP|Language Scale]] | [[DATE|October 7, 2024]] | scaled score [[KEEP|7]] | [[KEEP|5–9]] |
+| [[KEEP|Goldman-Fristoe]] / [[KEEP|Sounds-in-Words]] | [[DATE|October 5, 2026]] | standard score [[KEEP|78]]; percentile [[KEEP|7]] | [[KEEP|73-83]] |
+| [[KEEP|Peabody]] | [[DATE|October 5, 2026]] | standard score [[KEEP|86]]; percentile [[KEEP|18]] | [[KEEP|80–92]] |
+
+Structured requests reached [[KEEP|8/10]] with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|70%]]; [[KEEP|[w]]] substitutions persisted. Productions included “[[KEEP|more apples]]” and “[[KEEP|my turn]]”; targets included “[[KEEP|cup]]” and “[[KEEP|go]].” The language sample included [[KEEP|[EW]]]. Spanish [[KEEP|/ɾ/]] was observed without correction today.
+
+A: Functional requesting improved with visual choices. Speech accuracy decreased during longer utterances. These results support continued treatment and do not establish a separate diagnosis. Historical scores provide context; differences across instruments are not direct measures of growth.
+
+P: Continue [[KEEP|IFSP]] outcome [[KEEP|2.1]], using the target “[[KEEP|help me]]” during routines. Practice [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. Coordinator [[PROVIDER|Tessa Miraval]] at [[AGENCY|Cedarveil CDSA]] will review carryover on [[DATE|October 16, 2026]].
+
+[[PROVIDER|Elena Varela]], bilingual pediatric speech-language pathologist
+[[EMPLOYER|Sproutbridge Speech Services]]
+[[PLACE|184 Lantern Finch Road]], [[PLACE|Larkmere]], North Carolina [[PLACE|27800]]
+[[PHONE|(919) 555-0146]]
+[[URL|https://sproutbridge.example.com]]
+
+> From: [[TEACHER|Rosa Beltrán]]
+> Date: [[DATE|October 8, 2026]], [[TIME|2:10 PM]]
+>
+> Classroom update: [[CHILD|Nico]] invited [[PEER|Owen Vale]] to play. At [[DAYCARE|Little Acorn Landing]], assistant [[TEACHER|Mina Corvell]] heard “[[KEEP|open please]].” Driver [[PERSON|Felix Danner]] reported an easy pickup. We will keep the picture board beside the snack table.
+>
+> [[TEACHER|Rosa Beltrán]]
+> [[SCHOOL|Cedar Lantern Preschool]]
+
+> From: [[PARENT|Lucía Rivas]]
+> Date: [[DATE|October 8, 2026]], [[TIME|7:20 PM]]
+>
+> For scheduling, our workplaces include the store [[ORG|Juniper Basket]] and tienda [[ORG|Juniper Basket]]; the restaurant [[ORG|Copper Spoon]] and restaurante [[ORG|Copper Spoon]]; the cleaning service [[ORG|Clear Nest]] and servicio de limpieza [[ORG|Clear Nest]]. My husband’s shifts cover the plant [[ORG|Silver Reed]] and planta [[ORG|Silver Reed]]; the farm [[ORG|Morning Thistle]] and granja [[ORG|Morning Thistle]]; and the construction company [[ORG|Stone Finch]] and compañía de construcción [[ORG|Stone Finch]].
+>
+> [[PARENT|Lucía Rivas]]

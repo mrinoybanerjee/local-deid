@@ -1,0 +1,39 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|9 de octubre de 2026]].
+Paciente: [[CHILD|Tomas Elias Roldan]], apodo [[CHILD|Tito]].
+Edad: [[KEEP|4;2]].
+Expediente: [[ID|SL-026841]].
+Medicaid: [[MEDICAID_ID|583019472Q]].
+Autorizacion: [[ID|AU-740216]].
+Profesional: licenciada [[PROVIDER|Mariela Soto]], patologa bilingue del habla y lenguaje, de [[EMPLOYER|Voces del Pinar]].
+Lugar: [[PLACE|418 Calle Fresno]], [[PLACE|Vallebrisa]], Carolina del Norte, [[PLACE|27593]].
+Inicio: [[TIME|9:05 a. m.]]. Fin: [[TIME|9:50 a. m.]].
+Servicio: [[KEEP|92507]], modificador [[KEEP|GN]].
+Diagnostico: [[KEEP|F80.2]].
+
+S: Informacion de la familia
+
+La madre, [[PARENT|Elena Roldan]], estuvo presente durante toda la visita. Informo que [[CHILD|Tomas]] desayuno a las [[TIME|7:30 a. m.]] y durmio bien. El padre, [[PARENT|Diego Salcedo]], observo mas peticiones espontaneas durante la cena. La hermana, [[SIBLING|Mara Salcedo]], ayuda a escoger libros sin responder por el paciente. La abuela, [[FAMILY|Rosa Roldan]], cuida al paciente los martes y solicita instrucciones sencillas en espanol.
+
+La familia recibe apoyo de [[AGENCY|WIC]] del condado de [[PLACE|Brisal]]. Tambien usa la biblioteca de juguetes de [[ORG|Fundacion Puertas del Roble]], donde trabaja la madre. La maestra, senora [[TEACHER|Clara Varela]], de [[DAYCARE|Guarderia Semillas del Alba]], reporto dificultad para pedir turnos con [[PEER|Noel Paredes]]. La familia considera una visita a [[SCHOOL|Escuela Primaria Loma Serena]]. No hubo cambios de medicamentos ni nuevas consultas en [[HOSPITAL|Hospital Infantil Arroyo Manso]].
+
+O: Observaciones y actividades
+
+Se reviso el informe de evaluacion fechado [[DATE|22 de septiembre de 2026]]. En [[KEEP|PLS-5]], el subtest [[KEEP|Auditory Comprehension]] tuvo puntaje estandar [[KEEP|78]], percentil [[KEEP|7]] e intervalo de confianza [[KEEP|73-83]]. El subtest [[KEEP|Expressive Communication]] tuvo puntaje estandar [[KEEP|75]], percentil [[KEEP|5]] y edad equivalente [[KEEP|2;8]]. Estos resultados aportaron contexto; hoy no se repitio la prueba.
+
+Se aplicaron estrategias de [[KEEP|Hanen]] durante juego con animales, merienda simulada y lectura compartida. El paciente siguio instrucciones de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]]. Identifico acciones en [[KEEP|3 de 5]] ensayos con [[KEEP|min cues]]. Produjo peticiones de tres palabras en [[KEEP|60%]] de las oportunidades, comparado con [[KEEP|40%]] en la visita anterior.
+
+Las producciones incluyeron [[KEEP|"quiero mas agua"]], [[KEEP|"dame carro rojo"]] y [[KEEP|"el gato duerme"]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. La produccion de [[KEEP|/k/]] mejoro con modelo lento y [[KEEP|max cues]]. Se escucho [[KEEP|[w]]] al inicio de una palabra durante juego libre. Al mirar una foto, dijo "[[PET|Nube]] ven". Luego dijo "[[CHILD|Tito]] quiere agua". Ambas frases fueron espontaneas.
+
+A: Interpretacion clinica
+
+El paciente mostro mayor iniciativa para comunicar necesidades y tolero esperar con apoyo visual. La precision disminuyo cuando habia varios juguetes disponibles. La madre identifico correctamente las pausas que facilitaron una respuesta independiente. Se mantuvo el objetivo [[KEEP|2]] del [[KEEP|IFSP]], fechado [[DATE|15 de agosto de 2026]], relacionado con pedir ayuda durante rutinas familiares. El progreso observado respalda continuar la intervencion y coordinar ejemplos funcionales con el aula.
+
+P: Plan y contactos
+
+Practicar [[KEEP|"ayuda por favor"]] y [[KEEP|"quiero otro turno"]] durante cinco minutos diarios. Ofrecer dos opciones, esperar y aceptar aproximaciones verbales. La madre practicara despues de la merienda, a las [[TIME|4:15 p. m.]]. La siguiente visita sera el [[DATE|16 de octubre de 2026]], a las [[TIME|9:00 a. m.]].
+
+Contactos registrados: madre, [[PHONE|(919) 555-0146]]; padre, [[PHONE|984-555-0172]]; abuela en Mexico, [[PHONE|+52 55 0000 0186]]; oficina, [[PHONE|919.555.0128]]. Correo familiar: [[EMAIL|elena.roldan@example.com]]. Materiales: [[URL|https://vocesdelpinar.example/rutinas]].
+
+Firma: [[PROVIDER|Mariela Soto]]. Registro profesional: [[ID|NC-SLP-008417]].

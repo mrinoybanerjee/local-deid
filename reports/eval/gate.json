@@ -1,0 +1,4679 @@
+{
+ "set": "gate",
+ "docs": 66,
+ "model": true,
+ "gold_codes_relabelled_keep": 0,
+ "time": "2026-10-10T21:34:37",
+ "modes": {
+  "cold": {
+   "seconds": 66.5,
+   "roster_children": 0,
+   "strata": {
+    "ALL": {
+     "docs": 66,
+     "fully_clean": 14,
+     "fully_clean_rate": 0.21212121212121213,
+     "fully_clean_lb95": 0.13077866875683972,
+     "blocked": 6,
+     "clinical_hides": 140,
+     "median_check_items": 4.0,
+     "median_decisions": 5.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 280,
+       "total": 280,
+       "rate": 1.0,
+       "lb95": 0.9864656907232767
+      },
+      "DATE": {
+       "caught": 487,
+       "total": 488,
+       "rate": 0.9979508196721312,
+       "lb95": 0.9884848184235956
+      },
+      "ID": {
+       "caught": 205,
+       "total": 206,
+       "rate": 0.9951456310679612,
+       "lb95": 0.9730192670653586
+      },
+      "NAME": {
+       "caught": 1533,
+       "total": 1543,
+       "rate": 0.9935191186001296,
+       "lb95": 0.9881109609414801
+      },
+      "ORG": {
+       "caught": 349,
+       "total": 458,
+       "rate": 0.7620087336244541,
+       "lb95": 0.7209290677840483
+      },
+      "PLACE": {
+       "caught": 306,
+       "total": 309,
+       "rate": 0.9902912621359223,
+       "lb95": 0.9718484426357009
+      },
+      "TIME": {
+       "caught": 276,
+       "total": 276,
+       "rate": 1.0,
+       "lb95": 0.9862722340066666
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 80,
+       "total": 124,
+       "rate": 0.6451612903225806,
+       "lb95": 0.557743546158825
+      },
+      "CHILD": {
+       "caught": 342,
+       "total": 344,
+       "rate": 0.9941860465116279,
+       "lb95": 0.9790522184189215
+      },
+      "DATE": {
+       "caught": 487,
+       "total": 488,
+       "rate": 0.9979508196721312,
+       "lb95": 0.9884848184235956
+      },
+      "DAYCARE": {
+       "caught": 36,
+       "total": 45,
+       "rate": 0.8,
+       "lb95": 0.6617674868607056
+      },
+      "EMAIL": {
+       "caught": 84,
+       "total": 84,
+       "rate": 1.0,
+       "lb95": 0.9562667346678565
+      },
+      "EMPLOYER": {
+       "caught": 54,
+       "total": 87,
+       "rate": 0.6206896551724138,
+       "lb95": 0.5156742657309596
+      },
+      "FAMILY": {
+       "caught": 154,
+       "total": 155,
+       "rate": 0.9935483870967742,
+       "lb95": 0.964363487927048
+      },
+      "HOSPITAL": {
+       "caught": 61,
+       "total": 68,
+       "rate": 0.8970588235294118,
+       "lb95": 0.8024187647817828
+      },
+      "ID": {
+       "caught": 139,
+       "total": 140,
+       "rate": 0.9928571428571429,
+       "lb95": 0.9606506328243919
+      },
+      "MEDICAID_ID": {
+       "caught": 66,
+       "total": 66,
+       "rate": 1.0,
+       "lb95": 0.9449955327483907
+      },
+      "ORG": {
+       "caught": 54,
+       "total": 70,
+       "rate": 0.7714285714285715,
+       "lb95": 0.6604944698154658
+      },
+      "PARENT": {
+       "caught": 201,
+       "total": 201,
+       "rate": 1.0,
+       "lb95": 0.9812459969068782
+      },
+      "PEER": {
+       "caught": 147,
+       "total": 150,
+       "rate": 0.98,
+       "lb95": 0.9428523341357584
+      },
+      "PERSON": {
+       "caught": 38,
+       "total": 38,
+       "rate": 1.0,
+       "lb95": 0.90818706741616
+      },
+      "PET": {
+       "caught": 60,
+       "total": 62,
+       "rate": 0.967741935483871,
+       "lb95": 0.8897932286898178
+      },
+      "PHONE": {
+       "caught": 144,
+       "total": 144,
+       "rate": 1.0,
+       "lb95": 0.9740154327334118
+      },
+      "PLACE": {
+       "caught": 306,
+       "total": 309,
+       "rate": 0.9902912621359223,
+       "lb95": 0.9718484426357009
+      },
+      "PROVIDER": {
+       "caught": 343,
+       "total": 343,
+       "rate": 1.0,
+       "lb95": 0.9889240506329113
+      },
+      "SCHOOL": {
+       "caught": 64,
+       "total": 64,
+       "rate": 1.0,
+       "lb95": 0.9433739770288436
+      },
+      "SIBLING": {
+       "caught": 113,
+       "total": 115,
+       "rate": 0.9826086956521739,
+       "lb95": 0.9387986235183484
+      },
+      "TEACHER": {
+       "caught": 135,
+       "total": 135,
+       "rate": 1.0,
+       "lb95": 0.9723310592790634
+      },
+      "TIME": {
+       "caught": 276,
+       "total": 276,
+       "rate": 1.0,
+       "lb95": 0.9862722340066666
+      },
+      "URL": {
+       "caught": 52,
+       "total": 52,
+       "rate": 1.0,
+       "lb95": 0.9312054095871177
+      }
+     }
+    },
+    "en/daily_note": {
+     "docs": 8,
+     "fully_clean": 5,
+     "fully_clean_rate": 0.625,
+     "fully_clean_lb95": 0.3057378545838018,
+     "blocked": 0,
+     "clinical_hides": 7,
+     "median_check_items": 3.0,
+     "median_decisions": 3.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "DATE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "ID": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "NAME": {
+       "caught": 123,
+       "total": 123,
+       "rate": 1.0,
+       "lb95": 0.9697134063272616
+      },
+      "ORG": {
+       "caught": 30,
+       "total": 34,
+       "rate": 0.8823529411764706,
+       "lb95": 0.7337882520370123
+      },
+      "PLACE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "TIME": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "CHILD": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "DATE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "DAYCARE": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "FAMILY": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "ID": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 3,
+       "total": 4,
+       "rate": 0.75,
+       "lb95": 0.30063605244263664
+      },
+      "PARENT": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PEER": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PHONE": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PLACE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "PROVIDER": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TEACHER": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TIME": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "en/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 1,
+     "clinical_hides": 25,
+     "median_check_items": 6,
+     "median_decisions": 10,
+     "recall": {
+      "CONTACT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "DATE": {
+       "caught": 49,
+       "total": 49,
+       "rate": 1.0,
+       "lb95": 0.9272997032640948
+      },
+      "ID": {
+       "caught": 17,
+       "total": 18,
+       "rate": 0.9444444444444444,
+       "lb95": 0.7424220019799247
+      },
+      "NAME": {
+       "caught": 178,
+       "total": 178,
+       "rate": 1.0,
+       "lb95": 0.9788739210389702
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 46,
+       "rate": 0.7608695652173914,
+       "lb95": 0.6206458383088198
+      },
+      "PLACE": {
+       "caught": 28,
+       "total": 30,
+       "rate": 0.9333333333333333,
+       "lb95": 0.7867618227892791
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 1,
+       "total": 6,
+       "rate": 0.16666666666666666,
+       "lb95": 0.030052585871730285
+      },
+      "CHILD": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      },
+      "DATE": {
+       "caught": 49,
+       "total": 49,
+       "rate": 1.0,
+       "lb95": 0.9272997032640948
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 4,
+       "rate": 0.75,
+       "lb95": 0.30063605244263664
+      },
+      "EMAIL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "EMPLOYER": {
+       "caught": 9,
+       "total": 12,
+       "rate": 0.75,
+       "lb95": 0.4676896608793401
+      },
+      "FAMILY": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "HOSPITAL": {
+       "caught": 9,
+       "total": 10,
+       "rate": 0.9,
+       "lb95": 0.5958436145024278
+      },
+      "ID": {
+       "caught": 12,
+       "total": 13,
+       "rate": 0.9230769230769231,
+       "lb95": 0.6668546607175265
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "PARENT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "PEER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "PERSON": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PLACE": {
+       "caught": 28,
+       "total": 30,
+       "rate": 0.9333333333333333,
+       "lb95": 0.7867618227892791
+      },
+      "PROVIDER": {
+       "caught": 43,
+       "total": 43,
+       "rate": 1.0,
+       "lb95": 0.9179874299767727
+      },
+      "SCHOOL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "SIBLING": {
+       "caught": 14,
+       "total": 14,
+       "rate": 1.0,
+       "lb95": 0.7846829880728186
+      },
+      "TEACHER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "en/general": {
+     "docs": 6,
+     "fully_clean": 3,
+     "fully_clean_rate": 0.5,
+     "fully_clean_lb95": 0.1876128068994087,
+     "blocked": 3,
+     "clinical_hides": 1,
+     "median_check_items": 2.0,
+     "median_decisions": 2.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "DATE": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 80,
+       "total": 80,
+       "rate": 1.0,
+       "lb95": 0.954180263735425
+      },
+      "ORG": {
+       "caught": 15,
+       "total": 18,
+       "rate": 0.8333333333333334,
+       "lb95": 0.6077750036164077
+      },
+      "PLACE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "TIME": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "CHILD": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "DATE": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "DAYCARE": {
+       "caught": 0,
+       "total": 1,
+       "rate": 0.0,
+       "lb95": 0.0
+      },
+      "EMAIL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "FAMILY": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "HOSPITAL": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "ID": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "MEDICAID_ID": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ORG": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PERSON": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "PET": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PHONE": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PLACE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PROVIDER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "SCHOOL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "SIBLING": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TEACHER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TIME": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "URL": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      }
+     }
+    },
+    "en/ifsp": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 22,
+     "median_check_items": 6,
+     "median_decisions": 7,
+     "recall": {
+      "CONTACT": {
+       "caught": 35,
+       "total": 35,
+       "rate": 1.0,
+       "lb95": 0.9010957324106112
+      },
+      "DATE": {
+       "caught": 79,
+       "total": 80,
+       "rate": 0.9875,
+       "lb95": 0.9325356757603457
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "NAME": {
+       "caught": 141,
+       "total": 141,
+       "rate": 1.0,
+       "lb95": 0.9734772330601154
+      },
+      "ORG": {
+       "caught": 42,
+       "total": 56,
+       "rate": 0.75,
+       "lb95": 0.6230710799856808
+      },
+      "PLACE": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "TIME": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 20,
+       "total": 27,
+       "rate": 0.7407407407407407,
+       "lb95": 0.5532106959738432
+      },
+      "CHILD": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "DATE": {
+       "caught": 79,
+       "total": 80,
+       "rate": 0.9875,
+       "lb95": 0.9325356757603457
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 5,
+       "rate": 0.6,
+       "lb95": 0.23071993220883702
+      },
+      "EMAIL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "EMPLOYER": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "FAMILY": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "ID": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "PLACE": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "PROVIDER": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "SCHOOL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "TIME": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "es/daily_note": {
+     "docs": 8,
+     "fully_clean": 1,
+     "fully_clean_rate": 0.125,
+     "fully_clean_lb95": 0.02241690886329618,
+     "blocked": 0,
+     "clinical_hides": 17,
+     "median_check_items": 4.0,
+     "median_decisions": 4.5,
+     "recall": {
+      "CONTACT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "DATE": {
+       "caught": 32,
+       "total": 32,
+       "rate": 1.0,
+       "lb95": 0.8928172849426365
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "NAME": {
+       "caught": 120,
+       "total": 122,
+       "rate": 0.9836065573770492,
+       "lb95": 0.9421938948674933
+      },
+      "ORG": {
+       "caught": 27,
+       "total": 36,
+       "rate": 0.75,
+       "lb95": 0.5892923231679658
+      },
+      "PLACE": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "TIME": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "CHILD": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "DATE": {
+       "caught": 32,
+       "total": 32,
+       "rate": 1.0,
+       "lb95": 0.8928172849426365
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 2,
+       "total": 8,
+       "rate": 0.25,
+       "lb95": 0.07147768885802765
+      },
+      "FAMILY": {
+       "caught": 12,
+       "total": 13,
+       "rate": 0.9230769230769231,
+       "lb95": 0.6668546607175265
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "ID": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 2,
+       "total": 4,
+       "rate": 0.5,
+       "lb95": 0.15003570882017145
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 15,
+       "total": 16,
+       "rate": 0.9375,
+       "lb95": 0.7167073163197013
+      },
+      "PERSON": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "PET": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PHONE": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PLACE": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "PROVIDER": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "SCHOOL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "SIBLING": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TEACHER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TIME": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "URL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      }
+     }
+    },
+    "es/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 1,
+     "clinical_hides": 20,
+     "median_check_items": 5,
+     "median_decisions": 6,
+     "recall": {
+      "CONTACT": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "DATE": {
+       "caught": 47,
+       "total": 47,
+       "rate": 1.0,
+       "lb95": 0.9244398288016114
+      },
+      "ID": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "NAME": {
+       "caught": 202,
+       "total": 204,
+       "rate": 0.9901960784313726,
+       "lb95": 0.9649639309360403
+      },
+      "ORG": {
+       "caught": 41,
+       "total": 55,
+       "rate": 0.7454545454545455,
+       "lb95": 0.6169787660766216
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 34,
+       "rate": 0.9705882352941176,
+       "lb95": 0.8508409778365519
+      },
+      "TIME": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 8,
+       "total": 13,
+       "rate": 0.6153846153846154,
+       "lb95": 0.3552248097226855
+      },
+      "CHILD": {
+       "caught": 51,
+       "total": 51,
+       "rate": 1.0,
+       "lb95": 0.9299509861127317
+      },
+      "DATE": {
+       "caught": 47,
+       "total": 47,
+       "rate": 1.0,
+       "lb95": 0.9244398288016114
+      },
+      "DAYCARE": {
+       "caught": 5,
+       "total": 6,
+       "rate": 0.8333333333333334,
+       "lb95": 0.4364905634363539
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 10,
+       "rate": 0.6,
+       "lb95": 0.3126695474501863
+      },
+      "FAMILY": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "HOSPITAL": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "ID": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 11,
+       "rate": 0.6363636363636364,
+       "lb95": 0.35379677689163724
+      },
+      "PARENT": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "PEER": {
+       "caught": 18,
+       "total": 19,
+       "rate": 0.9473684210526315,
+       "lb95": 0.7536078466345479
+      },
+      "PERSON": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "PET": {
+       "caught": 6,
+       "total": 7,
+       "rate": 0.8571428571428571,
+       "lb95": 0.4868654966809702
+      },
+      "PHONE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 34,
+       "rate": 0.9705882352941176,
+       "lb95": 0.8508409778365519
+      },
+      "PROVIDER": {
+       "caught": 39,
+       "total": 39,
+       "rate": 1.0,
+       "lb95": 0.910330146399761
+      },
+      "SCHOOL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "SIBLING": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "TEACHER": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "TIME": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "es/general": {
+     "docs": 6,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": 0.0,
+     "blocked": 0,
+     "clinical_hides": 2,
+     "median_check_items": 4.0,
+     "median_decisions": 4.5,
+     "recall": {
+      "CONTACT": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "DATE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "ID": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "NAME": {
+       "caught": 76,
+       "total": 78,
+       "rate": 0.9743589743589743,
+       "lb95": 0.9112455918660102
+      },
+      "ORG": {
+       "caught": 14,
+       "total": 21,
+       "rate": 0.6666666666666666,
+       "lb95": 0.45373075657210293
+      },
+      "PLACE": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "TIME": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "CHILD": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "DATE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "DAYCARE": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "EMAIL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "EMPLOYER": {
+       "caught": 0,
+       "total": 6,
+       "rate": 0.0,
+       "lb95": 0.0
+      },
+      "FAMILY": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "HOSPITAL": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "ID": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "MEDICAID_ID": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ORG": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PERSON": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "PET": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PHONE": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PLACE": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "PROVIDER": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 6,
+       "total": 8,
+       "rate": 0.75,
+       "lb95": 0.40926987910258916
+      },
+      "TEACHER": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TIME": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "URL": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      }
+     }
+    },
+    "es/ifsp": {
+     "docs": 5,
+     "fully_clean": 1,
+     "fully_clean_rate": 0.2,
+     "fully_clean_lb95": 0.036223160969787456,
+     "blocked": 1,
+     "clinical_hides": 1,
+     "median_check_items": 7,
+     "median_decisions": 8,
+     "recall": {
+      "CONTACT": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "DATE": {
+       "caught": 72,
+       "total": 72,
+       "rate": 1.0,
+       "lb95": 0.9493470601886036
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 154,
+       "total": 157,
+       "rate": 0.9808917197452229,
+       "lb95": 0.9453312104309163
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 50,
+       "rate": 0.7,
+       "lb95": 0.562493877226366
+      },
+      "PLACE": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "TIME": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 11,
+       "total": 22,
+       "rate": 0.5,
+       "lb95": 0.3072180469247956
+      },
+      "CHILD": {
+       "caught": 25,
+       "total": 27,
+       "rate": 0.9259259259259259,
+       "lb95": 0.7663002270926939
+      },
+      "DATE": {
+       "caught": 72,
+       "total": 72,
+       "rate": 1.0,
+       "lb95": 0.9493470601886036
+      },
+      "DAYCARE": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "EMAIL": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "EMPLOYER": {
+       "caught": 2,
+       "total": 6,
+       "rate": 0.3333333333333333,
+       "lb95": 0.09676933255921684
+      },
+      "FAMILY": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "HOSPITAL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ID": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PARENT": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "PEER": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PERSON": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PET": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "PHONE": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PLACE": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "PROVIDER": {
+       "caught": 42,
+       "total": 42,
+       "rate": 1.0,
+       "lb95": 0.916198387490838
+      },
+      "SCHOOL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "SIBLING": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TEACHER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "TIME": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "mixed/daily_note": {
+     "docs": 8,
+     "fully_clean": 4,
+     "fully_clean_rate": 0.5,
+     "fully_clean_lb95": 0.2152125268244419,
+     "blocked": 0,
+     "clinical_hides": 10,
+     "median_check_items": 3.0,
+     "median_decisions": 4.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "DATE": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "ID": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "NAME": {
+       "caught": 127,
+       "total": 128,
+       "rate": 0.9921875,
+       "lb95": 0.9570726816506787
+      },
+      "ORG": {
+       "caught": 39,
+       "total": 43,
+       "rate": 0.9069767441860465,
+       "lb95": 0.7839701160146731
+      },
+      "PLACE": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "CHILD": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "DATE": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "DAYCARE": {
+       "caught": 5,
+       "total": 6,
+       "rate": 0.8333333333333334,
+       "lb95": 0.4364905634363539
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "FAMILY": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "HOSPITAL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 5,
+       "total": 7,
+       "rate": 0.7142857142857143,
+       "lb95": 0.35892909014821267
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 12,
+       "total": 13,
+       "rate": 0.9230769230769231,
+       "lb95": 0.6668546607175265
+      },
+      "PERSON": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "PET": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PHONE": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PLACE": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "PROVIDER": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "SCHOOL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "URL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      }
+     }
+    },
+    "mixed/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 25,
+     "median_check_items": 3,
+     "median_decisions": 4,
+     "recall": {
+      "CONTACT": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "DATE": {
+       "caught": 57,
+       "total": 57,
+       "rate": 1.0,
+       "lb95": 0.936858991216536
+      },
+      "ID": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "NAME": {
+       "caught": 198,
+       "total": 198,
+       "rate": 1.0,
+       "lb95": 0.9809672535295003
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 50,
+       "rate": 0.7,
+       "lb95": 0.562493877226366
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "TIME": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 2,
+       "total": 6,
+       "rate": 0.3333333333333333,
+       "lb95": 0.09676933255921684
+      },
+      "CHILD": {
+       "caught": 58,
+       "total": 58,
+       "rate": 1.0,
+       "lb95": 0.9378800031047062
+      },
+      "DATE": {
+       "caught": 57,
+       "total": 57,
+       "rate": 1.0,
+       "lb95": 0.936858991216536
+      },
+      "DAYCARE": {
+       "caught": 2,
+       "total": 3,
+       "rate": 0.6666666666666666,
+       "lb95": 0.20765495512648788
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 11,
+       "rate": 0.5454545454545454,
+       "lb95": 0.2800877556899882
+      },
+      "FAMILY": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "HOSPITAL": {
+       "caught": 10,
+       "total": 13,
+       "rate": 0.7692307692307693,
+       "lb95": 0.49743126004873084
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 8,
+       "total": 10,
+       "rate": 0.8,
+       "lb95": 0.49015684672072346
+      },
+      "PARENT": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "PEER": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PERSON": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PET": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "PHONE": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "PROVIDER": {
+       "caught": 40,
+       "total": 40,
+       "rate": 1.0,
+       "lb95": 0.9123754607496077
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "TIME": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "mixed/ifsp": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 10,
+     "median_check_items": 4,
+     "median_decisions": 6,
+     "recall": {
+      "CONTACT": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "DATE": {
+       "caught": 70,
+       "total": 70,
+       "rate": 1.0,
+       "lb95": 0.9479751251327164
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 134,
+       "total": 134,
+       "rate": 1.0,
+       "lb95": 0.9721303293055218
+      },
+      "ORG": {
+       "caught": 36,
+       "total": 49,
+       "rate": 0.7346938775510204,
+       "lb95": 0.5973744384734165
+      },
+      "PLACE": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "TIME": {
+       "caught": 41,
+       "total": 41,
+       "rate": 1.0,
+       "lb95": 0.9143295511310926
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 13,
+       "total": 21,
+       "rate": 0.6190476190476191,
+       "lb95": 0.40878295815501514
+      },
+      "CHILD": {
+       "caught": 35,
+       "total": 35,
+       "rate": 1.0,
+       "lb95": 0.9010957324106112
+      },
+      "DATE": {
+       "caught": 70,
+       "total": 70,
+       "rate": 1.0,
+       "lb95": 0.9479751251327164
+      },
+      "DAYCARE": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "FAMILY": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "ID": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 6,
+       "total": 7,
+       "rate": 0.8571428571428571,
+       "lb95": 0.4868654966809702
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PLACE": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "PROVIDER": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "SCHOOL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "SIBLING": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TEACHER": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TIME": {
+       "caught": 41,
+       "total": 41,
+       "rate": 1.0,
+       "lb95": 0.9143295511310926
+      },
+      "URL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      }
+     }
+    }
+   },
+   "blocked_docs": 6
+  },
+  "roster": {
+   "seconds": 90.4,
+   "roster_children": 66,
+   "strata": {
+    "ALL": {
+     "docs": 66,
+     "fully_clean": 14,
+     "fully_clean_rate": 0.21212121212121213,
+     "fully_clean_lb95": 0.13077866875683972,
+     "blocked": 6,
+     "clinical_hides": 152,
+     "median_check_items": 4.0,
+     "median_decisions": 6.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 280,
+       "total": 280,
+       "rate": 1.0,
+       "lb95": 0.9864656907232767
+      },
+      "DATE": {
+       "caught": 487,
+       "total": 488,
+       "rate": 0.9979508196721312,
+       "lb95": 0.9884848184235956
+      },
+      "ID": {
+       "caught": 205,
+       "total": 206,
+       "rate": 0.9951456310679612,
+       "lb95": 0.9730192670653586
+      },
+      "NAME": {
+       "caught": 1541,
+       "total": 1543,
+       "rate": 0.998703823720026,
+       "lb95": 0.9952860962105614
+      },
+      "ORG": {
+       "caught": 347,
+       "total": 458,
+       "rate": 0.75764192139738,
+       "lb95": 0.7163587241486508
+      },
+      "PLACE": {
+       "caught": 306,
+       "total": 309,
+       "rate": 0.9902912621359223,
+       "lb95": 0.9718484426357009
+      },
+      "TIME": {
+       "caught": 276,
+       "total": 276,
+       "rate": 1.0,
+       "lb95": 0.9862722340066666
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 80,
+       "total": 124,
+       "rate": 0.6451612903225806,
+       "lb95": 0.557743546158825
+      },
+      "CHILD": {
+       "caught": 342,
+       "total": 344,
+       "rate": 0.9941860465116279,
+       "lb95": 0.9790522184189215
+      },
+      "DATE": {
+       "caught": 487,
+       "total": 488,
+       "rate": 0.9979508196721312,
+       "lb95": 0.9884848184235956
+      },
+      "DAYCARE": {
+       "caught": 36,
+       "total": 45,
+       "rate": 0.8,
+       "lb95": 0.6617674868607056
+      },
+      "EMAIL": {
+       "caught": 84,
+       "total": 84,
+       "rate": 1.0,
+       "lb95": 0.9562667346678565
+      },
+      "EMPLOYER": {
+       "caught": 54,
+       "total": 87,
+       "rate": 0.6206896551724138,
+       "lb95": 0.5156742657309596
+      },
+      "FAMILY": {
+       "caught": 155,
+       "total": 155,
+       "rate": 1.0,
+       "lb95": 0.9758148998750956
+      },
+      "HOSPITAL": {
+       "caught": 61,
+       "total": 68,
+       "rate": 0.8970588235294118,
+       "lb95": 0.8024187647817828
+      },
+      "ID": {
+       "caught": 139,
+       "total": 140,
+       "rate": 0.9928571428571429,
+       "lb95": 0.9606506328243919
+      },
+      "MEDICAID_ID": {
+       "caught": 66,
+       "total": 66,
+       "rate": 1.0,
+       "lb95": 0.9449955327483907
+      },
+      "ORG": {
+       "caught": 53,
+       "total": 70,
+       "rate": 0.7571428571428571,
+       "lb95": 0.6450473904731996
+      },
+      "PARENT": {
+       "caught": 201,
+       "total": 201,
+       "rate": 1.0,
+       "lb95": 0.9812459969068782
+      },
+      "PEER": {
+       "caught": 150,
+       "total": 150,
+       "rate": 1.0,
+       "lb95": 0.9750288608542813
+      },
+      "PERSON": {
+       "caught": 38,
+       "total": 38,
+       "rate": 1.0,
+       "lb95": 0.90818706741616
+      },
+      "PET": {
+       "caught": 62,
+       "total": 62,
+       "rate": 1.0,
+       "lb95": 0.9416539087749994
+      },
+      "PHONE": {
+       "caught": 144,
+       "total": 144,
+       "rate": 1.0,
+       "lb95": 0.9740154327334118
+      },
+      "PLACE": {
+       "caught": 306,
+       "total": 309,
+       "rate": 0.9902912621359223,
+       "lb95": 0.9718484426357009
+      },
+      "PROVIDER": {
+       "caught": 343,
+       "total": 343,
+       "rate": 1.0,
+       "lb95": 0.9889240506329113
+      },
+      "SCHOOL": {
+       "caught": 63,
+       "total": 64,
+       "rate": 0.984375,
+       "lb95": 0.9166570109970937
+      },
+      "SIBLING": {
+       "caught": 115,
+       "total": 115,
+       "rate": 1.0,
+       "lb95": 0.9676746189886368
+      },
+      "TEACHER": {
+       "caught": 135,
+       "total": 135,
+       "rate": 1.0,
+       "lb95": 0.9723310592790634
+      },
+      "TIME": {
+       "caught": 276,
+       "total": 276,
+       "rate": 1.0,
+       "lb95": 0.9862722340066666
+      },
+      "URL": {
+       "caught": 52,
+       "total": 52,
+       "rate": 1.0,
+       "lb95": 0.9312054095871177
+      }
+     }
+    },
+    "en/daily_note": {
+     "docs": 8,
+     "fully_clean": 5,
+     "fully_clean_rate": 0.625,
+     "fully_clean_lb95": 0.3057378545838018,
+     "blocked": 0,
+     "clinical_hides": 8,
+     "median_check_items": 3.0,
+     "median_decisions": 3.5,
+     "recall": {
+      "CONTACT": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "DATE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "ID": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "NAME": {
+       "caught": 123,
+       "total": 123,
+       "rate": 1.0,
+       "lb95": 0.9697134063272616
+      },
+      "ORG": {
+       "caught": 30,
+       "total": 34,
+       "rate": 0.8823529411764706,
+       "lb95": 0.7337882520370123
+      },
+      "PLACE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "TIME": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "CHILD": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "DATE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "DAYCARE": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "FAMILY": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "ID": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 3,
+       "total": 4,
+       "rate": 0.75,
+       "lb95": 0.30063605244263664
+      },
+      "PARENT": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PEER": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PHONE": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PLACE": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "PROVIDER": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TEACHER": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TIME": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "en/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 1,
+     "clinical_hides": 29,
+     "median_check_items": 8,
+     "median_decisions": 14,
+     "recall": {
+      "CONTACT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "DATE": {
+       "caught": 49,
+       "total": 49,
+       "rate": 1.0,
+       "lb95": 0.9272997032640948
+      },
+      "ID": {
+       "caught": 17,
+       "total": 18,
+       "rate": 0.9444444444444444,
+       "lb95": 0.7424220019799247
+      },
+      "NAME": {
+       "caught": 178,
+       "total": 178,
+       "rate": 1.0,
+       "lb95": 0.9788739210389702
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 46,
+       "rate": 0.7608695652173914,
+       "lb95": 0.6206458383088198
+      },
+      "PLACE": {
+       "caught": 28,
+       "total": 30,
+       "rate": 0.9333333333333333,
+       "lb95": 0.7867618227892791
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 1,
+       "total": 6,
+       "rate": 0.16666666666666666,
+       "lb95": 0.030052585871730285
+      },
+      "CHILD": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      },
+      "DATE": {
+       "caught": 49,
+       "total": 49,
+       "rate": 1.0,
+       "lb95": 0.9272997032640948
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 4,
+       "rate": 0.75,
+       "lb95": 0.30063605244263664
+      },
+      "EMAIL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "EMPLOYER": {
+       "caught": 9,
+       "total": 12,
+       "rate": 0.75,
+       "lb95": 0.4676896608793401
+      },
+      "FAMILY": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "HOSPITAL": {
+       "caught": 9,
+       "total": 10,
+       "rate": 0.9,
+       "lb95": 0.5958436145024278
+      },
+      "ID": {
+       "caught": 12,
+       "total": 13,
+       "rate": 0.9230769230769231,
+       "lb95": 0.6668546607175265
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "PARENT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "PEER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "PERSON": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PLACE": {
+       "caught": 28,
+       "total": 30,
+       "rate": 0.9333333333333333,
+       "lb95": 0.7867618227892791
+      },
+      "PROVIDER": {
+       "caught": 43,
+       "total": 43,
+       "rate": 1.0,
+       "lb95": 0.9179874299767727
+      },
+      "SCHOOL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "SIBLING": {
+       "caught": 14,
+       "total": 14,
+       "rate": 1.0,
+       "lb95": 0.7846829880728186
+      },
+      "TEACHER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "en/general": {
+     "docs": 6,
+     "fully_clean": 3,
+     "fully_clean_rate": 0.5,
+     "fully_clean_lb95": 0.1876128068994087,
+     "blocked": 3,
+     "clinical_hides": 2,
+     "median_check_items": 2.5,
+     "median_decisions": 3.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "DATE": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 80,
+       "total": 80,
+       "rate": 1.0,
+       "lb95": 0.954180263735425
+      },
+      "ORG": {
+       "caught": 15,
+       "total": 18,
+       "rate": 0.8333333333333334,
+       "lb95": 0.6077750036164077
+      },
+      "PLACE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "TIME": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "CHILD": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "DATE": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "DAYCARE": {
+       "caught": 0,
+       "total": 1,
+       "rate": 0.0,
+       "lb95": 0.0
+      },
+      "EMAIL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "FAMILY": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "HOSPITAL": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "ID": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "MEDICAID_ID": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ORG": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PERSON": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "PET": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PHONE": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PLACE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PROVIDER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "SCHOOL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "SIBLING": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TEACHER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TIME": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "URL": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      }
+     }
+    },
+    "en/ifsp": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 22,
+     "median_check_items": 7,
+     "median_decisions": 41,
+     "recall": {
+      "CONTACT": {
+       "caught": 35,
+       "total": 35,
+       "rate": 1.0,
+       "lb95": 0.9010957324106112
+      },
+      "DATE": {
+       "caught": 79,
+       "total": 80,
+       "rate": 0.9875,
+       "lb95": 0.9325356757603457
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "NAME": {
+       "caught": 141,
+       "total": 141,
+       "rate": 1.0,
+       "lb95": 0.9734772330601154
+      },
+      "ORG": {
+       "caught": 42,
+       "total": 56,
+       "rate": 0.75,
+       "lb95": 0.6230710799856808
+      },
+      "PLACE": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "TIME": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 20,
+       "total": 27,
+       "rate": 0.7407407407407407,
+       "lb95": 0.5532106959738432
+      },
+      "CHILD": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "DATE": {
+       "caught": 79,
+       "total": 80,
+       "rate": 0.9875,
+       "lb95": 0.9325356757603457
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 5,
+       "rate": 0.6,
+       "lb95": 0.23071993220883702
+      },
+      "EMAIL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "EMPLOYER": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "FAMILY": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "ID": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "PLACE": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "PROVIDER": {
+       "caught": 34,
+       "total": 34,
+       "rate": 1.0,
+       "lb95": 0.8984820937803899
+      },
+      "SCHOOL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "TIME": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "es/daily_note": {
+     "docs": 8,
+     "fully_clean": 1,
+     "fully_clean_rate": 0.125,
+     "fully_clean_lb95": 0.02241690886329618,
+     "blocked": 0,
+     "clinical_hides": 18,
+     "median_check_items": 2.5,
+     "median_decisions": 3.5,
+     "recall": {
+      "CONTACT": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "DATE": {
+       "caught": 32,
+       "total": 32,
+       "rate": 1.0,
+       "lb95": 0.8928172849426365
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "NAME": {
+       "caught": 122,
+       "total": 122,
+       "rate": 1.0,
+       "lb95": 0.9694727339766817
+      },
+      "ORG": {
+       "caught": 27,
+       "total": 36,
+       "rate": 0.75,
+       "lb95": 0.5892923231679658
+      },
+      "PLACE": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "TIME": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "CHILD": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "DATE": {
+       "caught": 32,
+       "total": 32,
+       "rate": 1.0,
+       "lb95": 0.8928172849426365
+      },
+      "DAYCARE": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 2,
+       "total": 8,
+       "rate": 0.25,
+       "lb95": 0.07147768885802765
+      },
+      "FAMILY": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "ID": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 2,
+       "total": 4,
+       "rate": 0.5,
+       "lb95": 0.15003570882017145
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PERSON": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "PET": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PHONE": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PLACE": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "PROVIDER": {
+       "caught": 28,
+       "total": 28,
+       "rate": 1.0,
+       "lb95": 0.8793527963418923
+      },
+      "SCHOOL": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "SIBLING": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TEACHER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TIME": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "URL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      }
+     }
+    },
+    "es/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 1,
+     "clinical_hides": 20,
+     "median_check_items": 8,
+     "median_decisions": 9,
+     "recall": {
+      "CONTACT": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "DATE": {
+       "caught": 47,
+       "total": 47,
+       "rate": 1.0,
+       "lb95": 0.9244398288016114
+      },
+      "ID": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "NAME": {
+       "caught": 204,
+       "total": 204,
+       "rate": 1.0,
+       "lb95": 0.9815166934819592
+      },
+      "ORG": {
+       "caught": 39,
+       "total": 55,
+       "rate": 0.7090909090909091,
+       "lb95": 0.5785902917965607
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 34,
+       "rate": 0.9705882352941176,
+       "lb95": 0.8508409778365519
+      },
+      "TIME": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 8,
+       "total": 13,
+       "rate": 0.6153846153846154,
+       "lb95": 0.3552248097226855
+      },
+      "CHILD": {
+       "caught": 51,
+       "total": 51,
+       "rate": 1.0,
+       "lb95": 0.9299509861127317
+      },
+      "DATE": {
+       "caught": 47,
+       "total": 47,
+       "rate": 1.0,
+       "lb95": 0.9244398288016114
+      },
+      "DAYCARE": {
+       "caught": 5,
+       "total": 6,
+       "rate": 0.8333333333333334,
+       "lb95": 0.4364905634363539
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 10,
+       "rate": 0.6,
+       "lb95": 0.3126695474501863
+      },
+      "FAMILY": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "HOSPITAL": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "ID": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 6,
+       "total": 11,
+       "rate": 0.5454545454545454,
+       "lb95": 0.2800877556899882
+      },
+      "PARENT": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "PEER": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "PERSON": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "PET": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PHONE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 34,
+       "rate": 0.9705882352941176,
+       "lb95": 0.8508409778365519
+      },
+      "PROVIDER": {
+       "caught": 39,
+       "total": 39,
+       "rate": 1.0,
+       "lb95": 0.910330146399761
+      },
+      "SCHOOL": {
+       "caught": 3,
+       "total": 4,
+       "rate": 0.75,
+       "lb95": 0.30063605244263664
+      },
+      "SIBLING": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "TEACHER": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "TIME": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "es/general": {
+     "docs": 6,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": 0.0,
+     "blocked": 0,
+     "clinical_hides": 3,
+     "median_check_items": 4.0,
+     "median_decisions": 4.0,
+     "recall": {
+      "CONTACT": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "DATE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "ID": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "NAME": {
+       "caught": 78,
+       "total": 78,
+       "rate": 1.0,
+       "lb95": 0.9530605462258802
+      },
+      "ORG": {
+       "caught": 14,
+       "total": 21,
+       "rate": 0.6666666666666666,
+       "lb95": 0.45373075657210293
+      },
+      "PLACE": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "TIME": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "CHILD": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "DATE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "DAYCARE": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "EMAIL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "EMPLOYER": {
+       "caught": 0,
+       "total": 6,
+       "rate": 0.0,
+       "lb95": 0.0
+      },
+      "FAMILY": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "HOSPITAL": {
+       "caught": 2,
+       "total": 2,
+       "rate": 1.0,
+       "lb95": 0.3423719528896193
+      },
+      "ID": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "MEDICAID_ID": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ORG": {
+       "caught": 1,
+       "total": 2,
+       "rate": 0.5,
+       "lb95": 0.09452865480086611
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PERSON": {
+       "caught": 1,
+       "total": 1,
+       "rate": 1.0,
+       "lb95": 0.20654329147389294
+      },
+      "PET": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PHONE": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PLACE": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "PROVIDER": {
+       "caught": 19,
+       "total": 19,
+       "rate": 1.0,
+       "lb95": 0.8318156346315495
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "TEACHER": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TIME": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "URL": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      }
+     }
+    },
+    "es/ifsp": {
+     "docs": 5,
+     "fully_clean": 1,
+     "fully_clean_rate": 0.2,
+     "fully_clean_lb95": 0.036223160969787456,
+     "blocked": 1,
+     "clinical_hides": 5,
+     "median_check_items": 6,
+     "median_decisions": 10,
+     "recall": {
+      "CONTACT": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "DATE": {
+       "caught": 72,
+       "total": 72,
+       "rate": 1.0,
+       "lb95": 0.9493470601886036
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 155,
+       "total": 157,
+       "rate": 0.9872611464968153,
+       "lb95": 0.9547468035530363
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 50,
+       "rate": 0.7,
+       "lb95": 0.562493877226366
+      },
+      "PLACE": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "TIME": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 11,
+       "total": 22,
+       "rate": 0.5,
+       "lb95": 0.3072180469247956
+      },
+      "CHILD": {
+       "caught": 25,
+       "total": 27,
+       "rate": 0.9259259259259259,
+       "lb95": 0.7663002270926939
+      },
+      "DATE": {
+       "caught": 72,
+       "total": 72,
+       "rate": 1.0,
+       "lb95": 0.9493470601886036
+      },
+      "DAYCARE": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "EMAIL": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "EMPLOYER": {
+       "caught": 2,
+       "total": 6,
+       "rate": 0.3333333333333333,
+       "lb95": 0.09676933255921684
+      },
+      "FAMILY": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "HOSPITAL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ID": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PARENT": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "PEER": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PERSON": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PLACE": {
+       "caught": 36,
+       "total": 36,
+       "rate": 1.0,
+       "lb95": 0.9035781695514236
+      },
+      "PROVIDER": {
+       "caught": 42,
+       "total": 42,
+       "rate": 1.0,
+       "lb95": 0.916198387490838
+      },
+      "SCHOOL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "SIBLING": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TEACHER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "TIME": {
+       "caught": 44,
+       "total": 44,
+       "rate": 1.0,
+       "lb95": 0.919701682217986
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "mixed/daily_note": {
+     "docs": 8,
+     "fully_clean": 4,
+     "fully_clean_rate": 0.5,
+     "fully_clean_lb95": 0.2152125268244419,
+     "blocked": 0,
+     "clinical_hides": 10,
+     "median_check_items": 3.0,
+     "median_decisions": 3.5,
+     "recall": {
+      "CONTACT": {
+       "caught": 21,
+       "total": 21,
+       "rate": 1.0,
+       "lb95": 0.8453561767357979
+      },
+      "DATE": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "ID": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "NAME": {
+       "caught": 128,
+       "total": 128,
+       "rate": 1.0,
+       "lb95": 0.9708620041018918
+      },
+      "ORG": {
+       "caught": 39,
+       "total": 43,
+       "rate": 0.9069767441860465,
+       "lb95": 0.7839701160146731
+      },
+      "PLACE": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "CHILD": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "DATE": {
+       "caught": 27,
+       "total": 27,
+       "rate": 1.0,
+       "lb95": 0.8754409628553642
+      },
+      "DAYCARE": {
+       "caught": 5,
+       "total": 6,
+       "rate": 0.8333333333333334,
+       "lb95": 0.4364905634363539
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 7,
+       "total": 8,
+       "rate": 0.875,
+       "lb95": 0.5291051942301385
+      },
+      "FAMILY": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "HOSPITAL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "MEDICAID_ID": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "ORG": {
+       "caught": 5,
+       "total": 7,
+       "rate": 0.7142857142857143,
+       "lb95": 0.35892909014821267
+      },
+      "PARENT": {
+       "caught": 16,
+       "total": 16,
+       "rate": 1.0,
+       "lb95": 0.8063865817272801
+      },
+      "PEER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "PERSON": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      },
+      "PET": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PHONE": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "PLACE": {
+       "caught": 26,
+       "total": 26,
+       "rate": 1.0,
+       "lb95": 0.8712669561953783
+      },
+      "PROVIDER": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "SCHOOL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TIME": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "URL": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      }
+     }
+    },
+    "mixed/evaluation": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 25,
+     "median_check_items": 5,
+     "median_decisions": 6,
+     "recall": {
+      "CONTACT": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "DATE": {
+       "caught": 57,
+       "total": 57,
+       "rate": 1.0,
+       "lb95": 0.936858991216536
+      },
+      "ID": {
+       "caught": 22,
+       "total": 22,
+       "rate": 1.0,
+       "lb95": 0.8513404742740388
+      },
+      "NAME": {
+       "caught": 198,
+       "total": 198,
+       "rate": 1.0,
+       "lb95": 0.9809672535295003
+      },
+      "ORG": {
+       "caught": 35,
+       "total": 50,
+       "rate": 0.7,
+       "lb95": 0.562493877226366
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "TIME": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 2,
+       "total": 6,
+       "rate": 0.3333333333333333,
+       "lb95": 0.09676933255921684
+      },
+      "CHILD": {
+       "caught": 58,
+       "total": 58,
+       "rate": 1.0,
+       "lb95": 0.9378800031047062
+      },
+      "DATE": {
+       "caught": 57,
+       "total": 57,
+       "rate": 1.0,
+       "lb95": 0.936858991216536
+      },
+      "DAYCARE": {
+       "caught": 2,
+       "total": 3,
+       "rate": 0.6666666666666666,
+       "lb95": 0.20765495512648788
+      },
+      "EMAIL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "EMPLOYER": {
+       "caught": 6,
+       "total": 11,
+       "rate": 0.5454545454545454,
+       "lb95": 0.2800877556899882
+      },
+      "FAMILY": {
+       "caught": 24,
+       "total": 24,
+       "rate": 1.0,
+       "lb95": 0.8620194241710247
+      },
+      "HOSPITAL": {
+       "caught": 10,
+       "total": 13,
+       "rate": 0.7692307692307693,
+       "lb95": 0.49743126004873084
+      },
+      "ID": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 8,
+       "total": 10,
+       "rate": 0.8,
+       "lb95": 0.49015684672072346
+      },
+      "PARENT": {
+       "caught": 23,
+       "total": 23,
+       "rate": 1.0,
+       "lb95": 0.8568788745827373
+      },
+      "PEER": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PERSON": {
+       "caught": 3,
+       "total": 3,
+       "rate": 1.0,
+       "lb95": 0.4384939195509822
+      },
+      "PET": {
+       "caught": 6,
+       "total": 6,
+       "rate": 1.0,
+       "lb95": 0.6096569663469354
+      },
+      "PHONE": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "PLACE": {
+       "caught": 33,
+       "total": 33,
+       "rate": 1.0,
+       "lb95": 0.8957265699643882
+      },
+      "PROVIDER": {
+       "caught": 40,
+       "total": 40,
+       "rate": 1.0,
+       "lb95": 0.9123754607496077
+      },
+      "SCHOOL": {
+       "caught": 7,
+       "total": 7,
+       "rate": 1.0,
+       "lb95": 0.6456611570247934
+      },
+      "SIBLING": {
+       "caught": 9,
+       "total": 9,
+       "rate": 1.0,
+       "lb95": 0.7008472464490406
+      },
+      "TEACHER": {
+       "caught": 18,
+       "total": 18,
+       "rate": 1.0,
+       "lb95": 0.8241154494176252
+      },
+      "TIME": {
+       "caught": 30,
+       "total": 30,
+       "rate": 1.0,
+       "lb95": 0.886482908609522
+      },
+      "URL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      }
+     }
+    },
+    "mixed/ifsp": {
+     "docs": 5,
+     "fully_clean": 0,
+     "fully_clean_rate": 0.0,
+     "fully_clean_lb95": -3.139202815737979e-17,
+     "blocked": 0,
+     "clinical_hides": 10,
+     "median_check_items": 5,
+     "median_decisions": 27,
+     "recall": {
+      "CONTACT": {
+       "caught": 29,
+       "total": 29,
+       "rate": 1.0,
+       "lb95": 0.8830264055344442
+      },
+      "DATE": {
+       "caught": 70,
+       "total": 70,
+       "rate": 1.0,
+       "lb95": 0.9479751251327164
+      },
+      "ID": {
+       "caught": 15,
+       "total": 15,
+       "rate": 1.0,
+       "lb95": 0.7961107336956521
+      },
+      "NAME": {
+       "caught": 134,
+       "total": 134,
+       "rate": 1.0,
+       "lb95": 0.9721303293055218
+      },
+      "ORG": {
+       "caught": 36,
+       "total": 49,
+       "rate": 0.7346938775510204,
+       "lb95": 0.5973744384734165
+      },
+      "PLACE": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "TIME": {
+       "caught": 41,
+       "total": 41,
+       "rate": 1.0,
+       "lb95": 0.9143295511310926
+      }
+     },
+     "recall_by_type": {
+      "AGENCY": {
+       "caught": 13,
+       "total": 21,
+       "rate": 0.6190476190476191,
+       "lb95": 0.40878295815501514
+      },
+      "CHILD": {
+       "caught": 35,
+       "total": 35,
+       "rate": 1.0,
+       "lb95": 0.9010957324106112
+      },
+      "DATE": {
+       "caught": 70,
+       "total": 70,
+       "rate": 1.0,
+       "lb95": 0.9479751251327164
+      },
+      "DAYCARE": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "EMAIL": {
+       "caught": 8,
+       "total": 8,
+       "rate": 1.0,
+       "lb95": 0.6755843804891231
+      },
+      "EMPLOYER": {
+       "caught": 4,
+       "total": 6,
+       "rate": 0.6666666666666666,
+       "lb95": 0.2999883213415286
+      },
+      "FAMILY": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "HOSPITAL": {
+       "caught": 4,
+       "total": 5,
+       "rate": 0.8,
+       "lb95": 0.37552826411853885
+      },
+      "ID": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "MEDICAID_ID": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "ORG": {
+       "caught": 6,
+       "total": 7,
+       "rate": 0.8571428571428571,
+       "lb95": 0.4868654966809702
+      },
+      "PARENT": {
+       "caught": 12,
+       "total": 12,
+       "rate": 1.0,
+       "lb95": 0.7574992425007574
+      },
+      "PEER": {
+       "caught": 13,
+       "total": 13,
+       "rate": 1.0,
+       "lb95": 0.7718981569447084
+      },
+      "PERSON": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PET": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "PHONE": {
+       "caught": 17,
+       "total": 17,
+       "rate": 1.0,
+       "lb95": 0.8156763396284354
+      },
+      "PLACE": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "PROVIDER": {
+       "caught": 31,
+       "total": 31,
+       "rate": 1.0,
+       "lb95": 0.889740999265246
+      },
+      "SCHOOL": {
+       "caught": 5,
+       "total": 5,
+       "rate": 1.0,
+       "lb95": 0.565508505247919
+      },
+      "SIBLING": {
+       "caught": 10,
+       "total": 10,
+       "rate": 1.0,
+       "lb95": 0.7224598312333834
+      },
+      "TEACHER": {
+       "caught": 11,
+       "total": 11,
+       "rate": 1.0,
+       "lb95": 0.7411599827511859
+      },
+      "TIME": {
+       "caught": 41,
+       "total": 41,
+       "rate": 1.0,
+       "lb95": 0.9143295511310926
+      },
+      "URL": {
+       "caught": 4,
+       "total": 4,
+       "rate": 1.0,
+       "lb95": 0.5100999795960008
+      }
+     }
+    }
+   },
+   "blocked_docs": 6
+  }
+ }
+}

@@ -1,0 +1,125 @@
+North Carolina Infant-Toddler Program
+Individualized Family Service Plan Review / Revisión del plan familiar
+FICTIONAL TRAINING DOCUMENT — All people, organizations, contact details, and events are invented.
+
+Información de la niña / Child and family information
+
+Field	Information
+Child	[[CHILD|María José Valdés Cárdenas]]
+Preferred name	[[CHILD|Marijo]]
+Date of birth	[[DATE|August 12, 2024]]
+Age at review	[[KEEP|26 months]]
+Review date	[[DATE|October 12, 2026]]
+Original IFSP date	[[DATE|April 14, 2026]]
+Child record	[[ID|NCITP-8047316]]
+Medicaid member	[[MEDICAID_ID|938461275Q]]
+Home address	[[PLACE|418 Lantern Finch Lane]], [[PLACE|Briar Cove]], North Carolina [[PLACE|27984]]
+County	[[PLACE|Juniper County]]
+Home languages	Spanish and English
+Parent contacts	Mother, [[PARENT|Lucía Cárdenas Ruiz]]; father, [[PARENT|Andrés Valdés Moreno]]
+
+The family requested this review because communication needs changed after daycare enrollment. Both parents participated and chose Spanish for discussion, with English service terms clarified as needed. Their daughter uses Spanish most often at home and hears both languages during community routines. The family wants her to communicate comfortably with familiar adults, relatives, and children.
+
+Contactos y coordinación / Contacts
+
+Role	Name or organization	Contact
+Service coordinator	[[PROVIDER|Elena Pardo]], [[AGENCY|Juniper Coast CDSA]]	[[PHONE|252-555-0146]]
+Bilingual pediatric speech-language pathologist	[[PROVIDER|Sofía Beltrán]], [[EMPLOYER|Cedar Lantern Pediatric Speech]]	[[PHONE|919-555-0162]]
+Clinician email	[[EMAIL|sofia.beltran@cedarlantern.example]]	
+Parent telephone	[[PARENT|Lucía Cárdenas Ruiz]]	[[PHONE|252-555-0128]]
+Daycare teacher	Ms. [[TEACHER|Nora Esquivel]], [[DAYCARE|Little Learners Daycare]]	[[PHONE|252-555-0183]]
+CDSA office	[[PLACE|62 Marshlight Avenue]], [[PLACE|Briar Cove]], North Carolina [[PLACE|27984]]	
+Family information website	[[URL|https://junipercoastcdsa.example/familias]]	
+
+The coordinator will arrange visits around the parents’ work schedules. Mom works nights at [[ORG|Moonbrook Packaging Works]] as a packaging line inspector. Dad works as a maintenance assistant at [[ORG|Harbor Reed Apartments]]. Their schedules change monthly. Text reminders are preferred, followed by telephone calls when a decision needs discussion. The mother checks email on days off.
+
+Preocupaciones y prioridades / Family voice
+
+Mother: “Quiero que [[CHILD|Marijo]] nos diga lo que necesita sin llorar tanto. Sometimes I know she wants something, pero no sé cuál. I want her to say ‘[[KEEP|ayuda]]’ or show me before she gets upset.”
+
+Father: “En la cena estamos todos juntos. I want her to ask for ‘[[KEEP|más]]’ and tell us when she is finished. No queremos quitarle el español. Her grandparents need to understand her, too.”
+
+The parents identified three priorities: easier requests during meals, shared play with her brother, and smoother daycare transitions. They prefer strategies that fit existing activities. They do not want worksheets or repeated demands to imitate. The clinician explained that gestures, pointing, pictures, and spoken words can work together. La familia agreed that successful communication matters more than using one particular form.
+
+Historia y salud / Relevant background
+
+The child was born at [[KEEP|35 weeks, 4 days]] gestation, with birth weight [[KEEP|2,310 g]]. Reported Apgar scores were [[KEEP|7]] and [[KEEP|9]]. She received feeding observation at [[HOSPITAL|Willow Meridian Health Briar Cove Campus NICU]] and went home on [[DATE|August 21, 2024]].
+
+Primary care physician Dr. [[PROVIDER|Camila Soler]] sees her at [[HOSPITAL|Willow Meridian Health Briar Cove Campus Pediatric Clinic]]. An appointment at [[HOSPITAL|Willow Meridian Health Briar Cove Campus ENT and Audiology]] occurred on [[DATE|September 23, 2026]]. Audiologist [[PROVIDER|Owen Lira]] documented responses adequate for the communication activities sampled. The family will follow the practice’s recommendation for monitoring after another ear infection.
+
+The mother reported no current feeding restrictions, prescribed hearing devices, or medication changes. These reports were reviewed for planning; the IFSP team did not conduct a medical examination. The coordinator will request updated records with the family’s authorization.
+
+Evaluación y observaciones / Communication profile
+
+The bilingual clinician completed an assessment on [[DATE|October 5, 2026]]. The [[KEEP|PLS-5 Spanish]] was used with its bilingual administration procedures. The table records fictional assessment results for this training document. Scores describe one assessment session and do not replace observations across languages and routines.
+
+Test or subtest	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|73-85]]	[[KEEP|1;9]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]]	[[KEEP|74]]	[[KEEP|4th percentile]]	[[KEEP|69-82]]	[[KEEP|1;6]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Total Language]]	[[KEEP|75]]	[[KEEP|5th percentile]]	[[KEEP|70-83]]	Not reported
+
+During play, [[CHILD|María José]] followed familiar directions in [[KEEP|8/10]] opportunities when objects were visible. She followed unfamiliar directions in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. She communicated through reaching, pointing, vocalizing, and several words. Spontaneous productions included “[[KEEP|agua]],” “[[KEEP|mío]],” and “[[KEEP|no más]].”
+
+She used a meaningful word or gesture in [[KEEP|60%]] of observed requests. Her speech included /[[KEEP|m]]/ and /[[KEEP|p]]/ sounds; the clinician also heard [[KEEP|[w]]] during an approximation of “[[KEEP|agua]].” No articulation goal was added because functional communication remains the family’s priority.
+
+Rutinas diarias / Daily routines
+
+Routine	What works	What is difficult	Family-selected support
+Breakfast, about [[TIME|7:15 a.m.]]	She points toward familiar foods	Adults sometimes guess before she requests	Offer two visible choices and wait
+Daycare arrival, about [[TIME|8:20 a.m.]]	A familiar song helps	Separation is harder after poor sleep	Use the same short goodbye and picture
+Afternoon play, about [[TIME|4:30 p.m.]]	She enjoys cars and bubbles	She grabs materials during shared play	Model a turn request
+Dinner, about [[TIME|6:15 p.m.]]	She joins the family table	She leaves when adults cannot understand her	Keep a small choice board nearby
+Bedtime, about [[TIME|8:10 p.m.]]	Books and a quiet voice help	She protests when a preferred book ends	Offer a final-page signal and another choice
+
+Her brother, [[SIBLING|Diego Valdés Cárdenas]], likes to build roads for toy cars. The child sometimes calls, “[[SIBLING|Diego]] ven.” Her grandmother, [[FAMILY|Rosa Cárdenas Vega]], provides care after daycare on the mother’s workdays. A neighbor and occasional babysitter, [[FAMILY|Beatriz Mena]], follows the same meal routine. The family dog, [[PET|Tito]], often approaches during snack. Adults use that moment to practice requesting help while keeping food out of reach.
+
+At [[DAYCARE|Little Learners Daycare]], classmates [[PEER|Amelia Soto]] and [[PEER|Benjamín Cruz]] join short music activities. Assistant teacher Mr. [[TEACHER|Luis Ferrer]] reports that she participates longer when an adult shows the action before giving a spoken direction.
+
+Otras agencias / Other supports
+
+The family receives nutrition support from [[AGENCY|Juniper County WIC]]. They use a lending library through [[AGENCY|Juniper Coast Smart Start]]. Neither service provides speech therapy. The coordinator will help the parents understand appointment letters when requested.
+
+The child attends the [[KEEP|Little Learners Program]], a caregiver coaching therapy program operated by [[AGENCY|Briar Cove Family Development Collaborative]]. Despite the shared words in their names, the therapy program and the daycare are separate services. The coordinator will keep their records and schedules clearly identified.
+
+The family has no current involvement with [[AGENCY|Juniper County DSS]]. Community librarian [[PERSON|Marta Ríos]] helped the father locate bilingual board books. The parents chose to continue borrowing books instead of purchasing additional materials. No outside agency will receive this review without documented family authorization.
+
+Resultado [[KEEP|1]] / Requests during meals
+
+By [[DATE|January 12, 2027]], the child will request a food, drink, or help using a word, gesture, or picture in [[KEEP|4 of 5]] natural opportunities across three family meals, with [[KEEP|min cues]]. Parents will record brief examples rather than count every bite.
+
+Strategies: Adults will place two choices where she can see them, name each choice, and pause. They will model “[[KEEP|agua]],” “[[KEEP|más pan]],” and “[[KEEP|ayuda]].” Any clear request receives a response. Adults will expand her message once, sin pedir que repita. The clinician will demonstrate responsive interaction strategies drawn from [[KEEP|Hanen]] and adapt them to the family’s Spanish phrases.
+
+Current progress: She requests consistently when the desired object is visible. Requests decrease when adults stand behind her or offer too many choices. The next visits will focus on seating, waiting, and making help easy to request.
+
+Resultado [[KEEP|2]] / Shared play
+
+By [[DATE|January 12, 2027]], she will participate in four back-and-forth turns during familiar play in [[KEEP|3 of 4]] opportunities, with [[KEEP|mod cues]] or less. A turn may involve giving an object, copying an action, pointing, or speaking.
+
+Strategies: Her brother will offer one car at a time and leave space for a response. Adults will model “[[KEEP|mi turno]],” “[[KEEP|tu turno]],” and “[[KEEP|va]].” The clinician will coach the family to follow her interests and stop before frustration builds. Picture supports may be introduced without requiring a formal [[KEEP|PECS]] sequence.
+
+Current progress: She completes brief exchanges with an adult but needs support with another child. The family will practice during the existing afternoon play period. They will avoid withholding all preferred toys to create requests.
+
+Resultado [[KEEP|3]] / Daycare transitions
+
+By [[DATE|February 9, 2027]], she will communicate a choice or need during arrival and cleanup in [[KEEP|80%]] of sampled opportunities across two weeks, with [[KEEP|min cues]]. Staff will note the communication used and whether it helped.
+
+Strategies: The teacher will show a two-picture sequence, pair Spanish and English phrases, and offer a familiar activity immediately after goodbye. Staff will model “[[KEEP|help]],” “[[KEEP|ayuda]],” and “[[KEEP|all done]].” The parents approved a shared picture set so the same symbols appear at home and daycare.
+
+Current progress: Arrival improves when a familiar adult greets her. Cleanup remains difficult when instructions come from across the room. Staff will move closer, show the next activity, and allow processing time.
+
+Servicios / Service schedule
+
+Service	Provider and setting	Start date	End or review date	Frequency and duration
+Speech-language intervention	[[PROVIDER|Sofía Beltrán]]; home and daycare	[[DATE|October 19, 2026]]	[[DATE|April 12, 2027]]	Weekly; forty-five minutes
+Service coordination	[[PROVIDER|Elena Pardo]]; telephone, home, or community	[[DATE|October 12, 2026]]	[[DATE|April 12, 2027]]	Monthly contact and additional coordination as needed
+Caregiver coaching group	[[KEEP|Little Learners Program]]; community room	[[DATE|October 22, 2026]]	[[DATE|January 21, 2027]]	Twice monthly; sixty minutes
+
+Speech visits are planned for [[TIME|10:00 a.m.]] on Mondays. The coordinator will confirm changes before each visit. Billing references are [[KEEP|CPT 92507]], modifier [[KEEP|GN]], and [[KEEP|ICD-10 F80.2]]. Authorization number: [[ID|AUTH-62618490]]. These entries identify the planned service; they do not document a completed claim.
+
+Revisión y acuerdos / Review agreements
+
+The family selected home and daycare routines because communication difficulties occur in both settings. Visits will include observation, clinician demonstration, caregiver practice, and a short discussion of what helped. Coaching will remain bilingual. Adults may use whichever language lets them respond naturally and consistently.
+
+The team will review progress on [[DATE|January 12, 2027]]. If opportunities decrease because of illness or schedule changes, the coordinator will arrange a brief planning call. The clinician will revise strategies with the family before adding new demands.
+
+Both parents received the plan in their preferred language and confirmed the priorities. The mother said, “Esto sí cabe en nuestro día.” The father agreed to share short examples from dinner. The coordinator will document consent, distribute authorized copies, and confirm the first visit. The next review will use family reports, daycare observations, and direct communication samples.

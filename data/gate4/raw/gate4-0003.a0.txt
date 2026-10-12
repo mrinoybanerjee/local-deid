@@ -1,0 +1,21 @@
+Service: [[DATE|October 9, 2026]]  Time: [[TIME|9:15 a.m.]]  Duration: 30 minutes
+Client: [[CHILD|Elena Marisol Vela]]  DOB: [[DATE|August 9, 2022]]  Age: [[KEEP|4;2]]
+Record: [[ID|SLP-602418]]  Medicaid: [[MEDICAID_ID|482716395Q]]
+Clinician: [[PROVIDER|Marina Cevallos]], bilingual pediatric speech-language pathologist  Employer: [[EMPLOYER|Pine Lantern Pediatric Speech]]
+Location: [[SCHOOL|Willow Lantern Elementary School]]  District: [[SCHOOL|Bracken Hollow School District]]
+Classroom: Bluebird Room  Teacher: Miss [[TEACHER|Ana]]
+Address: [[PLACE|284 Lantern Finch Lane]]  Town: [[PLACE|Bracken Hollow]], North Carolina  ZIP: [[PLACE|27503]]
+Contact: [[PARENT|Lucía Vela]]  Phone: [[PHONE|919-555-0146]]
+
+S: Mother [[PARENT|Lucía Vela]] reported that [[CHILD|Elena]] used longer requests during breakfast. Mother works two jobs, at [[ORG|MCS]] and [[ORG|Copper Wren Bakery]], and requested portable home activities. Babysitter doña [[FAMILY|Lupe]] supervises afternoon practice. Brother [[SIBLING|Nico]] and cousins [[FAMILY|Inés]] and [[FAMILY|Rafa]] sometimes answer for the client. Mother described the family dog, [[PET|Chispa]], as a strong motivator. No new hearing concerns were reported.
+
+O: [[CHILD|Elena]] participated in play using [[KEEP|Hanen]] strategies and a brief [[KEEP|Cycles]] activity. She produced initial [[KEEP|/k/]] in [[KEEP|8/10]] trials with [[KEEP|mod cues]] and initial [[KEEP|/g/]] in [[KEEP|3 of 5]] trials with [[KEEP|max cues]]. Independent requesting reached [[KEEP|60%]]. Targets included [[KEEP|"key"]], [[KEEP|"go"]], and [[KEEP|"more bubbles"]]. One production was [[KEEP|"tea"]], with fronting observed. During pretend play, she said "[[PET|Chispa]] run". Classmates [[PEER|Mila]] and [[PEER|Owen]] joined turn-taking practice. Miss [[TEACHER|Ana]] modeled waiting; hallway volunteer Mr. [[PERSON|Tom]] briefly delivered supplies.
+
+Reference: Previous [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score: [[KEEP|80]]  Percentile: [[KEEP|9th]]  Confidence interval: [[KEEP|73-83]]  Age-equivalent range: [[KEEP|2;6–3;0]]
+
+A: [[CHILD|Elena]] showed improved engagement when adults paused before offering help. English and Spanish samples showed variable consonant accuracy. Today's brief sample supports continued observation across both languages; language difference alone does not establish impairment. Transcription included [[KEEP|[EW]]] for an omitted word.
+
+P: Continue bilingual play routines and review [[KEEP|IFSP goal 2]]. Coach caregivers to wait, model, and accept either language. Send picture prompts home and collect another connected-speech sample next session.
+
+Billing: CPT [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.0]]
+Signature: [[PROVIDER|Marina Cevallos]]  Signed: [[DATE|October 9, 2026]]

@@ -1,0 +1,119 @@
+Speech-Language Evaluation Report
+
+CLIENT INFORMATION
+
+Client Name:	[[CHILD|Mateo Ramírez Cruz]]
+Preferred Name:	[[CHILD|Mateo]]
+Date of Birth:	[[DATE|March 2, 2021]]	Age at Evaluation:	[[KEEP|4;2]]
+Medicaid ID:	[[MEDICAID_ID|7284910335R]]
+Case/Client ID:	[[ID|LD-20451]]
+Parent/Guardian:	[[PARENT|Lucía Ramírez]] (mother)	Phone:	[[PHONE|(828) 555-0147]]
+Parent/Guardian:	[[PARENT|Carlos Cruz]] (father)	Phone:	[[PHONE|(828) 555-0192]]
+Email:	[[EMAIL|lramirezcruz@mailnest.com]]
+Home Address:	[[PLACE|214 Maple Hollow Lane]], [[PLACE|Hickory]], NC [[PLACE|28601]]
+County:	[[PLACE|Catawba County]]
+Referral Source:	[[PROVIDER|Dr. Ravi Patel]], pediatrician
+Evaluation Date:	[[DATE|May 8, 2025]]	Time:	[[TIME|9:30 a.m.]]
+Report Date:	[[DATE|May 20, 2025]]
+Evaluator:	[[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+Interpreter:	[[PROVIDER|Marisol Peña]] (Spanish, provided by [[AGENCY|Piedmont CDSA]])
+Clinic:	[[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Clinic Address:	[[PLACE|88 Union Square]], [[PLACE|Hickory]], NC [[PLACE|28601]]
+Clinic Phone:	[[PHONE|(828) 555-0310]]	Clinic Email:	[[EMAIL|intake@carolinapedstherapy.com]]
+CPT Codes:	[[KEEP|92523]] (evaluation), [[KEEP|92507]] (treatment)
+Diagnosis Code:	[[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder)
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] is a [[KEEP|4;2]]-year-old bilingual (Spanish/English) boy referred by [[PROVIDER|Dr. Ravi Patel]] at a well-child visit due to continued concerns about expressive language and speech sound clarity. His mother, [[PARENT|Lucía Ramírez]], reports that unfamiliar listeners understand [[CHILD|Mateo]] about [[KEEP|50%]] of the time, and that his teacher at [[DAYCARE|Tiny Acorns Learning Cottage]] has raised similar concerns. [[CHILD|Mateo]] previously received early intervention services through [[AGENCY|Piedmont CDSA]] under an Individualized Family Service Plan (IFSP) prior to his third birthday, with [[PROVIDER|Brittany Shaw]], SLP, addressing [[KEEP|IFSP Outcome 2]] (expressive vocabulary growth). Services ended at transition, and the family requests a comprehensive re-evaluation to determine current needs and eligibility for ongoing outpatient therapy.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[KEEP|38]] weeks gestation at [[HOSPITAL|Blue Ridge Regional Medical Center]], weighing [[KEEP|6 lbs, 4 oz]], with Apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes. [[PARENT|Lucía Ramírez]] reports an uncomplicated pregnancy and a two-day hospital stay with no NICU admission. [[CHILD|Mateo]] passed his newborn hearing screening and has had no subsequent hearing concerns; a tympanometry screening at age [[KEEP|3]] was within normal limits bilaterally. Medical history is significant for recurrent otitis media between ages [[KEEP|18]] and [[KEEP|30 months]], treated medically without pressure-equalization tubes. [[PROVIDER|Dr. Ravi Patel]] reports no current ear infections and normal vision. [[CHILD|Mateo]] takes no medications and has no known allergies. There is no family history of autism; his sister, [[SIBLING|Sol]], age [[KEEP|7]], was a late talker but is now meeting language milestones without services.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Mateo]] lives with his parents, [[PARENT|Lucía Ramírez]] and [[PARENT|Carlos Cruz]], and his older sister, [[SIBLING|Sol]], in [[PLACE|Hickory]]. The family's home language is primarily Spanish, with [[PARENT|Lucía Ramírez]] speaking to [[CHILD|Mateo]] almost exclusively in Spanish and [[PARENT|Carlos Cruz]] using a mix of Spanish and English. [[PARENT|Carlos Cruz]] works at [[ORG|Triad Manufacturing Solutions]] and [[PARENT|Lucía Ramírez]] works part-time at [[ORG|BrightPath Logistics]]; both report limited availability during standard clinic hours. [[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Carmen Reyes]], provides childcare two days a week and speaks only Spanish with him. A family friend, [[FAMILY|Luz]], babysits on weekends and reports that [[CHILD|Mateo]] is affectionate but gets frustrated when cousins don't understand him.
+
+[[CHILD|Mateo]] attends [[DAYCARE|Tiny Acorns Learning Cottage]] five days a week, where his lead teacher, [[TEACHER|Ms. Flores]], and assistant teacher, [[TEACHER|Ms. Nguyen]], report that English is the primary classroom language. [[TEACHER|Ms. Flores]] notes that [[CHILD|Mateo]] plays well with classmates [[PEER|Ethan]] and [[PEER|Zoe]] but often uses gestures instead of words when frustrated. [[CHILD|Mateo]] has two cousins, [[FAMILY|Diego]] and [[FAMILY|Valentina]], whom he sees weekly; [[PARENT|Lucía Ramírez]] reports he prefers playing with them over unfamiliar children. The family has a dog, [[PET|Rocky]], whom [[CHILD|Mateo]] talks about frequently; during a home language sample, he was recorded saying [[KEEP|"[[PET|Rocky]] go outside"]] and [[KEEP|"wan go pay"]] for [[KEEP|"I want to go play"]].
+
+[[PARENT|Lucía Ramírez]] reports that [[CHILD|Mateo]]'s first words emerged around [[KEEP|22 months]], later than [[SIBLING|Sol]]'s. He currently combines two to three words in Spanish and English but omits many grammatical markers. Receptively, both parents report he follows simple directions in both languages but struggles with multi-step or unfamiliar commands.
+
+ASSESSMENT PROCEDURES
+
+The following standardized and informal measures were administered in English and Spanish, with interpretation support from [[PROVIDER|Marisol Peña]]:
+
+[[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], English and Spanish editions
+[[KEEP|Clinical Evaluation of Language Fundamentals, Fifth Edition (CELF-5)]] — select subtests
+[[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]
+[[KEEP|Bilingual English Spanish Assessment (BESA)]]
+Language sample analysis (spontaneous play-based, both languages)
+Oral-motor and hearing screening
+Parent and teacher interview, classroom observation at [[DAYCARE|Tiny Acorns Learning Cottage]]
+
+TEST RESULTS
+
+Measure	Subtest	Standard/Scaled Score	Percentile Rank	Confidence Interval
+[[KEEP|PLS-5 (English)]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-83]]
+[[KEEP|PLS-5 (English)]]	[[KEEP|Expressive Communication]]	[[KEEP|70]]	[[KEEP|2nd]]	[[KEEP|65-75]]
+[[KEEP|PLS-5 (Spanish)]]	[[KEEP|Auditory Comprehension]]	[[KEEP|85]]	[[KEEP|16th]]	[[KEEP|80-90]]
+[[KEEP|PLS-5 (Spanish)]]	[[KEEP|Expressive Communication]]	[[KEEP|79]]	[[KEEP|8th]]	[[KEEP|74-84]]
+[[KEEP|CELF-5]]	[[KEEP|Word Structure]]	[[KEEP|6]] (scaled)	[[KEEP|9th]]	--
+[[KEEP|CELF-5]]	[[KEEP|Formulated Sentences]]	[[KEEP|5]] (scaled)	[[KEEP|5th]]	--
+[[KEEP|GFTA-3]]	Sounds-in-Words	[[KEEP|72]]	[[KEEP|3rd]]	[[KEEP|67-77]]
+[[KEEP|BESA]]	Semantics (Spanish-influenced)	[[KEEP|81]]	[[KEEP|10th]]	[[KEEP|76-86]]
+
+ARTICULATION AND PHONOLOGY
+
+On the [[KEEP|GFTA-3]], [[CHILD|Mateo]] demonstrated multiple phonological error patterns including final consonant deletion, stopping of fricatives, and gliding of liquids. He substituted [[KEEP|[w]]] for [[KEEP|/l/]] and [[KEEP|/r/]] (e.g., [[KEEP|"wion"]] for [[KEEP|"lion"]]), and deleted final consonants in words such as [[KEEP|"ca"]] for [[KEEP|"cat"]]. In structured probes, he produced the target [[KEEP|/k/]] correctly in [[KEEP|8/10]] trials with [[KEEP|minimal cues]] and the Spanish tap [[KEEP|/ɾ/]] in [[KEEP|3 of 5]] trials with [[KEEP|moderate cues]]. His intelligibility was judged at approximately [[KEEP|50%]] to unfamiliar listeners and [[KEEP|80%]] to familiar listeners, consistent with parent and teacher report. A transcription excerpt from the language sample included a word-finding error coded [[KEEP|[EW]]] when he paused mid-utterance searching for the word for "ball."
+
+EXPRESSIVE AND RECEPTIVE LANGUAGE
+
+[[CHILD|Mateo]]'s mean length of utterance in Spanish was [[KEEP|2.3]] morphemes, and in English was [[KEEP|1.8]] morphemes, both below age expectations ([[KEEP|2;6–3;0]] typical range for this age). He used primarily noun-verb combinations and omitted articles, plural markers, and verb tense markers in both languages. During the classroom observation, [[TEACHER|Ms. Flores]] noted that [[CHILD|Mateo]] used gesture and pointing with classmates [[PEER|Ethan]] and [[PEER|Zoe]] rather than verbal requests. At home, [[PARENT|Carlos Cruz]] reported that [[CHILD|Mateo]] currently uses a modified picture exchange system, having been introduced to [[KEEP|PECS]] during his IFSP services with [[PROVIDER|Brittany Shaw]]; the family would like to reduce reliance on this system as verbal language increases.
+
+SOCIAL COMMUNICATION AND PRAGMATICS
+
+[[CHILD|Mateo]] initiated joint attention appropriately and engaged in reciprocal play during the session, laughing and making eye contact when the examiner imitated his sounds. He showed some frustration-related behaviors, including throwing toys, when he could not make himself understood, consistent with reports from [[FAMILY|Luz]] and [[TEACHER|Ms. Flores]]. No concerns regarding restricted interests or repetitive behaviors were noted by caregivers or during observation, and [[PROVIDER|Dr. Ravi Patel]]'s records do not reflect an autism diagnosis.
+
+ORAL-MOTOR AND HEARING SCREENING
+
+Oral-motor structures and function were within normal limits for speech production. [[CHILD|Mateo]] passed a pure-tone hearing screening bilaterally at [[KEEP|20 dB HL]] across speech frequencies, administered with interpretation support.
+
+CLINICAL IMPRESSIONS
+
+[[CHILD|Mateo]] presents with a mixed receptive-expressive language disorder ([[KEEP|F80.2]]) affecting both Spanish and English, along with a moderate phonological disorder. His language delays are evident across both languages, ruling out typical second-language acquisition as the primary explanation for his difficulties. His reduced intelligibility, limited grammatical morphology, and frustration-related behaviors are consistent with a communication disorder requiring direct intervention. [[CHILD|Mateo]]'s strong joint attention, social engagement, and play skills are notable strengths that support a positive prognosis with consistent intervention and family involvement.
+
+RECOMMENDATIONS
+
+1. Individual speech-language therapy twice weekly, billed under [[KEEP|CPT 92507]], targeting expressive syntax, phonological patterns, and functional vocabulary in both languages.
+2. Continued use of [[KEEP|PECS]] as a bridge strategy, fading supports as verbal output increases, consistent with prior IFSP goals.
+3. Incorporation of [[KEEP|PROMPT]] tactile-kinesthetic cueing to support motor planning for speech sound production, particularly for liquids and final consonants.
+4. A [[KEEP|Cycles]] phonological approach to target error patterns in blocks, alternating between English and Spanish target sounds.
+5. Parent coaching using [[KEEP|Hanen]] "[[KEEP|It Takes Two to Talk]]" strategies to increase responsive communication at home, delivered bilingually with support from [[PROVIDER|Marisol Peña]] as needed.
+6. Consideration of the [[KEEP|Kaufman]] Speech to Language Protocol if motor planning difficulties persist despite the above approaches.
+7. Classroom consultation with [[TEACHER|Ms. Flores]] and [[TEACHER|Ms. Nguyen]] at [[DAYCARE|Tiny Acorns Learning Cottage]] to support carryover of vocabulary and requesting strategies.
+8. Re-evaluation in [[KEEP|6 months]] to monitor progress and adjust the plan of care.
+
+SERVICE SCHEDULE
+
+Service	CPT Code	Frequency	Provider	Location	Time
+Individual Therapy	[[KEEP|92507]]	2x/week, 30 min	[[PROVIDER|Jennifer Hayes]]	[[EMPLOYER|Carolina Pediatric Therapy Partners]]	[[TIME|3:00 p.m.]]
+Caregiver Coaching	[[KEEP|92507]]	1x/month, 45 min	[[PROVIDER|Jennifer Hayes]]	[[EMPLOYER|Carolina Pediatric Therapy Partners]]	[[TIME|5:30 p.m.]]
+Re-Evaluation	[[KEEP|92523]]	1x, [[DATE|November 10, 2025]]	[[PROVIDER|Jennifer Hayes]]	[[EMPLOYER|Carolina Pediatric Therapy Partners]]	[[TIME|9:30 a.m.]]
+
+CONTACT INFORMATION
+
+Role	Name	Phone	Email
+Mother	[[PARENT|Lucía Ramírez]]	[[PHONE|(828) 555-0147]]	[[EMAIL|lramirezcruz@mailnest.com]]
+Father	[[PARENT|Carlos Cruz]]	[[PHONE|(828) 555-0192]]	--
+Pediatrician	[[PROVIDER|Dr. Ravi Patel]]	[[PHONE|(828) 555-0260]]	--
+Service Coordinator	[[PROVIDER|Angela Brooks]]	[[PHONE|(828) 555-0415]]	[[EMAIL|abrooks@piedmontcdsa.org]]
+Evaluating SLP	[[PROVIDER|Jennifer Hayes]]	[[PHONE|(828) 555-0310]]	[[EMAIL|jhayes@carolinapedstherapy.com]]
+
+This report reflects [[CHILD|Mateo]]'s communication skills as observed on [[DATE|May 8, 2025]]. Questions may be directed to [[PROVIDER|Jennifer Hayes]] at [[EMPLOYER|Carolina Pediatric Therapy Partners]].
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Carolina Pediatric Therapy Partners]]

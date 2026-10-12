@@ -1,0 +1,39 @@
+NOTA DE SESIÓN DIARIA / DAILY SESSION NOTE
+
+Child: [[CHILD|Mateo Hernández Rodríguez]]
+DOB: [[DATE|04/22/2021]]
+Age: [[KEEP|5;6]]
+Medicaid ID: [[MEDICAID_ID|784512093B]]
+Session Date: [[DATE|October 9, 2026]]
+Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Location: therapy room, [[PLACE|Hickory]], [[PLACE|Catawba County]], NC
+SLP: [[PROVIDER|Jennifer Alvarez]], M.S., CCC-SLP
+Interpreter: [[PROVIDER|Ana Fuentes]] (Spanish/English)
+
+S (Subjetivo):
+Su mamá, [[PARENT|Lucía Rodríguez]], reportó que [[CHILD|Mateo]] tuvo una semana difícil en casa. Ella trabaja dos empleos — turno de día en [[ORG|First Capital Bank]] y turnos de noche como CNA — así que su abuela, [[FAMILY|Carmen]], cuida a los niños casi todas las noches entre semana. "Llega muy cansado del [[DAYCARE|Little Sprouts Daycare]] y casi no quiere hablar," dijo [[PARENT|Lucía]]. También mencionó que el pediatra, Dr. [[PROVIDER|Sarah Kim]], ajustó la medicina de alergia de [[CHILD|Mateo]] en la cita del [[DATE|September 28, 2026]].
+
+O (Objetivo):
+Worked on /s/ clusters and the target word "[[SIBLING|sol]]" — notable because his older sister, [[SIBLING|Sol]], often cues him during play at home. [[CHILD|Mateo]] produced "[[SIBLING|sol]]" with [[KEEP|mod cues]] in [[KEEP|7/10]] trials, improved from [[KEEP|4/10]] last session. Also practiced [[KEEP|/k/]] in initial position; produced [[KEEP|[k]]] correctly in [[KEEP|3 of 5]] attempts.
+
+Standardized scores reviewed with family:
+
+Date	Measure	Score	CI
+[[DATE|09/15/2026]]	[[KEEP|PLS-5 Auditory Comprehension]]	[[KEEP|SS 78]]	[[KEEP|73-83]]
+[[DATE|09/15/2026]]	[[KEEP|PLS-5 Expressive Communication]]	[[KEEP|SS 81]]	[[KEEP|76-86]]
+[[DATE|10/09/2026]]	[[KEEP|GFTA-3]]	[[KEEP|29th percentile]]	[[KEEP|22-36]]
+
+A (Análisis):
+[[CHILD|Mateo]] continues gradual progress on phonology goals. OT, [[PROVIDER|Megan Price]], OTR/L, and PT, [[PROVIDER|David Chen]], PT, both note improved joint attention during co-treatment sessions this month at the clinic. Recommend continued [[KEEP|PROMPT]] strategies and home practice using [[KEEP|Hanen]] "It Takes Two to Talk" techniques. Family also asked about [[KEEP|PECS]] as a backup for frustration at [[DAYCARE|Little Sprouts Daycare]].
+
+P (Plan):
+Continue weekly sessions. Discuss case with service coordinator at [[AGENCY|CDSA]] before the IFSP review on [[DATE|November 3, 2026]]. Contact: [[PROVIDER|Jennifer Alvarez]], [[PHONE|(828) 555-0147]], [[EMAIL|jalvarez@speechpath.example.com]].
+
+IFSP Outcome Review:
+
+Outcome	Strategies	Progress	Date
+1. [[CHILD|Mateo]] will use 3-4 word phrases to request	modeling, [[KEEP|PROMPT]] cues	met [[KEEP|8/10]] opportunities	[[DATE|10/09/2026]]
+2. [[CHILD|Mateo]] will produce /s/ and /k/ in words	articulation drills, [[KEEP|Hanen]] strategies	[[KEEP|mod cues]], [[KEEP|7/10]] trials	[[DATE|10/09/2026]]
+3. Family will use bilingual strategies at home	coaching with interpreter [[PROVIDER|Ana Fuentes]]	[[PARENT|Lucía]] reports daily practice	[[DATE|10/09/2026]]
+
+Next session scheduled for [[DATE|October 16, 2026]] at [[TIME|3:30 PM]]. Please remind grandmother [[FAMILY|Carmen]] to bring the home practice folder, and confirm with [[PARENT|Lucía Rodríguez]] whether her CNA shift allows attendance at the IFSP meeting.

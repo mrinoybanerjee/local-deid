@@ -1,0 +1,1532 @@
+{
+ "threshold": 0.3,
+ "labels": [
+  "organization",
+  "company",
+  "daycare",
+  "school",
+  "government agency",
+  "hospital or clinic",
+  "church",
+  "library"
+ ],
+ "chunks": [
+  {
+   "text": "PROGRAMA DE INTERVENCIÓN TEMPRANA DE CAROLINA DEL NORTE (NC INFANT-TODDLER PROGRAM)",
+   "spans": [
+    [
+     37,
+     55,
+     "hospital or clinic",
+     0.44138264656066895
+    ],
+    [
+     57,
+     82,
+     "organization",
+     0.40415674448013306
+    ]
+   ]
+  },
+  {
+   "text": "REVISIÓN SEMESTRAL DEL IFSP – TERAPIA DEL HABLA Y LENGUAJE",
+   "spans": [
+    [
+     23,
+     27,
+     "organization",
+     0.5754824876785278
+    ]
+   ]
+  },
+  {
+   "text": "Niño: Mateo Alejandro Flores Vega (\"Mateo\")",
+   "spans": [
+    [
+     0,
+     4,
+     "organization",
+     0.4067811369895935
+    ],
+    [
+     6,
+     11,
+     "organization",
+     0.43548789620399475
+    ],
+    [
+     36,
+     41,
+     "organization",
+     0.4223185181617737
+    ]
+   ]
+  },
+  {
+   "text": "Expediente CDSA #: CDSA-77214-OR",
+   "spans": [
+    [
+     0,
+     10,
+     "organization",
+     0.39107292890548706
+    ],
+    [
+     11,
+     15,
+     "organization",
+     0.4015355706214905
+    ],
+    [
+     19,
+     32,
+     "organization",
+     0.3875487744808197
+    ]
+   ]
+  },
+  {
+   "text": "Medicaid #: NC849215673B",
+   "spans": [
+    [
+     0,
+     8,
+     "government agency",
+     0.4478989839553833
+    ],
+    [
+     12,
+     24,
+     "company",
+     0.3859940767288208
+    ]
+   ]
+  },
+  {
+   "text": "Hermana mayor: Camila Flores Vega (5 años)",
+   "spans": [
+    [
+     15,
+     33,
+     "company",
+     0.3873734772205353
+    ]
+   ]
+  },
+  {
+   "text": "Cuidadora principal (abuela materna): Rosa María Ramírez Ortiz",
+   "spans": [
+    [
+     0,
+     19,
+     "organization",
+     0.39713743329048157
+    ],
+    [
+     38,
+     62,
+     "organization",
+     0.35741570591926575
+    ]
+   ]
+  },
+  {
+   "text": "Domicilio: 418 Calle Roble, Hillsborough, NC 27278, condado de Orange",
+   "spans": [
+    [
+     11,
+     26,
+     "church",
+     0.47429484128952026
+    ],
+    [
+     28,
+     40,
+     "church",
+     0.6129281520843506
+    ],
+    [
+     42,
+     44,
+     "church",
+     0.4644613265991211
+    ],
+    [
+     45,
+     50,
+     "church",
+     0.30346789956092834
+    ],
+    [
+     63,
+     69,
+     "church",
+     0.5440413355827332
+    ]
+   ]
+  },
+  {
+   "text": "Teléfono: (919) 555-0148",
+   "spans": [
+    [
+     0,
+     8,
+     "company",
+     0.36184319853782654
+    ],
+    [
+     16,
+     24,
+     "library",
+     0.31403157114982605
+    ]
+   ]
+  },
+  {
+   "text": "Correo electrónico: lucyvega0314@gmail.",
+   "spans": [
+    [
+     20,
+     32,
+     "company",
+     0.3086582124233246
+    ],
+    [
+     38,
+     39,
+     "organization",
+     0.31004923582077026
+    ]
+   ]
+  },
+  {
+   "text": "com",
+   "spans": [
+    [
+     0,
+     3,
+     "organization",
+     0.5039140582084656
+    ]
+   ]
+  },
+  {
+   "text": "Coordinadora de Servicios: Jennifer Marlene Castillo — CDSA de la Región del Triángulo, oficina de Durham",
+   "spans": [
+    [
+     0,
+     25,
+     "organization",
+     0.6950622797012329
+    ],
+    [
+     27,
+     52,
+     "organization",
+     0.47531047463417053
+    ],
+    [
+     55,
+     86,
+     "organization",
+     0.6754727363586426
+    ],
+    [
+     99,
+     105,
+     "church",
+     0.5093351006507874
+    ]
+   ]
+  },
+  {
+   "text": "S.",
+   "spans": [
+    [
+     0,
+     1,
+     "library",
+     0.4791072905063629
+    ]
+   ]
+  },
+  {
+   "text": ", CCC-SLP — Terapias Pediátricas Bilingües del Triángulo, PLLC",
+   "spans": [
+    [
+     2,
+     9,
+     "organization",
+     0.5981919169425964
+    ],
+    [
+     12,
+     62,
+     "organization",
+     0.6374384760856628
+    ]
+   ]
+  },
+  {
+   "text": "Sitio web de la práctica: www.",
+   "spans": [
+    [
+     0,
+     24,
+     "library",
+     0.3482069969177246
+    ],
+    [
+     26,
+     29,
+     "library",
+     0.5152881741523743
+    ]
+   ]
+  },
+  {
+   "text": "terapiasbilinguestriangulo.",
+   "spans": [
+    [
+     0,
+     26,
+     "hospital or clinic",
+     0.5014228224754333
+    ],
+    [
+     26,
+     27,
+     "organization",
+     0.3696525990962982
+    ]
+   ]
+  },
+  {
+   "text": "com",
+   "spans": [
+    [
+     0,
+     3,
+     "organization",
+     0.5039140582084656
+    ]
+   ]
+  },
+  {
+   "text": "Fecha del IFSP inicial: 10 de abril de 2025",
+   "spans": [
+    [
+     10,
+     14,
+     "organization",
+     0.710512101650238
+    ]
+   ]
+  },
+  {
+   "text": "S:",
+   "spans": [
+    [
+     0,
+     1,
+     "daycare",
+     0.3438442051410675
+    ],
+    [
+     1,
+     2,
+     "church",
+     0.33976036310195923
+    ]
+   ]
+  },
+  {
+   "text": "La madre, Lucía, refiere en la reunión de revisión, en sus propias palabras: \"Mateo entiende casi todo lo que le decimos en español y en inglés, pero cuando quiere pedir algo todavía señala o grita en vez de usar palabras.",
+   "spans": [
+    [
+     3,
+     8,
+     "company",
+     0.31262585520744324
+    ],
+    [
+     10,
+     15,
+     "company",
+     0.5497819185256958
+    ],
+    [
+     78,
+     83,
+     "company",
+     0.5330216288566589
+    ]
+   ]
+  },
+  {
+   "text": "Antes de empezar terapia solo decía 'mamá' y 'agua', ahora ya tiene más o menos 15 palabras pero muchas salen muy distorsionadas, como 'apa' por 'agua' y 'ete' por 'leche'.",
+   "spans": [
+    [
+     37,
+     41,
+     "daycare",
+     0.3761667013168335
+    ],
+    [
+     46,
+     50,
+     "daycare",
+     0.37230849266052246
+    ],
+    [
+     136,
+     139,
+     "daycare",
+     0.3146438002586365
+    ],
+    [
+     146,
+     150,
+     "daycare",
+     0.3478241264820099
+    ],
+    [
+     155,
+     158,
+     "daycare",
+     0.3066314160823822
+    ],
+    [
+     165,
+     170,
+     "daycare",
+     0.40932175517082214
+    ]
+   ]
+  },
+  {
+   "text": "\" El padre, Carlos, agrega: \"Lo que más nos preocupa es que en la guardería no lo entienden, y él se frustra, muerde o empuja a los otros niños cuando no logra comunicarse.",
+   "spans": [
+    [
+     12,
+     18,
+     "organization",
+     0.3037654161453247
+    ],
+    [
+     66,
+     75,
+     "organization",
+     0.4867818355560303
+    ]
+   ]
+  },
+  {
+   "text": "\"",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3297646939754486
+    ]
+   ]
+  },
+  {
+   "text": "Prioridades de la familia para esta revisión (palabras textuales de la madre):",
+   "spans": [
+    [
+     18,
+     25,
+     "organization",
+     0.3484196364879608
+    ],
+    [
+     71,
+     76,
+     "school",
+     0.3638256788253784
+    ]
+   ]
+  },
+  {
+   "text": "\"Que Mateo pueda pedir lo que quiere con palabras, no con berrinches, para cuando empiece preescolar.",
+   "spans": [
+    [
+     90,
+     100,
+     "school",
+     0.31873050332069397
+    ]
+   ]
+  },
+  {
+   "text": "\"",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3297646939754486
+    ]
+   ]
+  },
+  {
+   "text": "\"Que la maestra en la guardería entienda sus intentos de hablar.",
+   "spans": [
+    [
+     8,
+     15,
+     "organization",
+     0.33709415793418884
+    ],
+    [
+     22,
+     31,
+     "school",
+     0.4821455776691437
+    ]
+   ]
+  },
+  {
+   "text": "\"",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3297646939754486
+    ]
+   ]
+  },
+  {
+   "text": "3.",
+   "spans": [
+    [
+     0,
+     1,
+     "library",
+     0.34871214628219604
+    ]
+   ]
+  },
+  {
+   "text": "\"Que podamos seguir recibiendo las sesiones en español en casa, porque yo no hablo inglés muy bien y mi esposo trabaja de noche.",
+   "spans": [
+    [
+     83,
+     89,
+     "daycare",
+     0.32578596472740173
+    ],
+    [
+     104,
+     110,
+     "organization",
+     0.33913886547088623
+    ]
+   ]
+  },
+  {
+   "text": "\"",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3297646939754486
+    ]
+   ]
+  },
+  {
+   "text": "Rutina diaria reportada por la madre: Mateo se despierta ~6:30 a.",
+   "spans": [
+    [
+     0,
+     6,
+     "hospital or clinic",
+     0.3420332670211792
+    ],
+    [
+     36,
+     37,
+     "organization",
+     0.31920620799064636
+    ],
+    [
+     38,
+     43,
+     "church",
+     0.35587236285209656
+    ]
+   ]
+  },
+  {
+   "text": "m.",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3257918357849121
+    ]
+   ]
+  },
+  {
+   "text": ", desayuna con su hermana Camila y su abuela Rosa María Ramírez Ortiz, quien lo cuida tres días por semana mientras Lucía trabaja medio turno en el Restaurante El Sabor Latino.",
+   "spans": [
+    [
+     26,
+     32,
+     "company",
+     0.32199910283088684
+    ],
+    [
+     45,
+     69,
+     "company",
+     0.35129469633102417
+    ],
+    [
+     116,
+     121,
+     "company",
+     0.3161222040653229
+    ],
+    [
+     148,
+     175,
+     "organization",
+     0.8050466179847717
+    ]
+   ]
+  },
+  {
+   "text": "El padre, Carlos, trabaja turno nocturno como operador de montacargas en Transportes Industriales Carolina, por lo que casi siempre duerme por las mañanas; la familia pide no programar sesiones antes de 3:00 p.",
+   "spans": [
+    [
+     10,
+     16,
+     "company",
+     0.3162826895713806
+    ],
+    [
+     46,
+     69,
+     "daycare",
+     0.3122183680534363
+    ],
+    [
+     73,
+     106,
+     "organization",
+     0.6479441523551941
+    ]
+   ]
+  },
+  {
+   "text": "m.",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3257918357849121
+    ]
+   ]
+  },
+  {
+   "text": "Los otros dos días Mateo asiste a Centro de Cuidado Infantil Little Sprouts en Hillsborough, donde su maestra es la Srta.",
+   "spans": [
+    [
+     34,
+     75,
+     "school",
+     0.7047449350357056
+    ],
+    [
+     79,
+     91,
+     "church",
+     0.6169057488441467
+    ],
+    [
+     116,
+     120,
+     "daycare",
+     0.49054569005966187
+    ]
+   ]
+  },
+  {
+   "text": "María Elena Soto.",
+   "spans": [
+    [
+     0,
+     16,
+     "organization",
+     0.44637683033943176
+    ]
+   ]
+  },
+  {
+   "text": "La madre dice que en la guardería Mateo juega paralelamente con otro niño del salón, Diego, pero rara vez inicia juego verbal con él.",
+   "spans": [
+    [
+     24,
+     33,
+     "organization",
+     0.39163097739219666
+    ],
+    [
+     34,
+     39,
+     "organization",
+     0.5221670269966125
+    ],
+    [
+     78,
+     83,
+     "school",
+     0.3065958321094513
+    ],
+    [
+     85,
+     90,
+     "organization",
+     0.32566219568252563
+    ]
+   ]
+  },
+  {
+   "text": "m.",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3257918357849121
+    ]
+   ]
+  },
+  {
+   "text": "m.",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3257918357849121
+    ]
+   ]
+  },
+  {
+   "text": ", seguida de merienda y baño hacia las 6:00 p.",
+   "spans": [
+    [
+     13,
+     21,
+     "daycare",
+     0.3534909784793854
+    ]
+   ]
+  },
+  {
+   "text": "m.",
+   "spans": [
+    [
+     0,
+     1,
+     "organization",
+     0.3257918357849121
+    ]
+   ]
+  },
+  {
+   "text": "Algunos miércoles la familia asiste al programa de lectura para bebés \"Cuentos y Cantos\" en la Biblioteca Pública del Condado de Orange, y los domingos a misa en la Iglesia Católica San José, donde Mateo participa en la guardería infantil durante el servicio.",
+   "spans": [
+    [
+     71,
+     87,
+     "daycare",
+     0.6509208679199219
+    ],
+    [
+     95,
+     135,
+     "library",
+     0.7492921948432922
+    ],
+    [
+     165,
+     190,
+     "church",
+     0.7301756143569946
+    ]
+   ]
+  },
+  {
+   "text": "La familia también recibe apoyo nutricional de WIC del Condado de Orange y la madre está inscrita en clases de crianza de Smart Start de Orange County.",
+   "spans": [
+    [
+     47,
+     72,
+     "school",
+     0.6166296601295471
+    ],
+    [
+     101,
+     118,
+     "daycare",
+     0.4253235161304474
+    ],
+    [
+     122,
+     150,
+     "school",
+     0.6679363250732422
+    ]
+   ]
+  },
+  {
+   "text": "Una amiga de la familia, Alejandra Bravo, ayuda ocasionalmente a traducir cartas del colegio y de la guardería.",
+   "spans": [
+    [
+     25,
+     40,
+     "company",
+     0.32389092445373535
+    ],
+    [
+     85,
+     92,
+     "school",
+     0.34341704845428467
+    ],
+    [
+     101,
+     110,
+     "organization",
+     0.36562079191207886
+    ]
+   ]
+  },
+  {
+   "text": "La familia tiene una perrita llamada Luna, con quien Mateo disfruta jugar en el patio por las tardes.",
+   "spans": [
+    [
+     37,
+     41,
+     "organization",
+     0.34951716661453247
+    ],
+    [
+     53,
+     58,
+     "organization",
+     0.33704873919487
+    ],
+    [
+     80,
+     85,
+     "hospital or clinic",
+     0.4089144170284271
+    ]
+   ]
+  },
+  {
+   "text": "Historia médica relevante (reportada por la madre y confirmada por expediente): Mateo nació a las 34 semanas de gestación, peso al nacer 2,100 gramos, Apgar 6/9, e ingresó a la Unidad de Cuidados Intensivos Neonatales del Duke Health – Campus Hillsborough por 9 días por dificultad respiratoria.",
+   "spans": [
+    [
+     80,
+     85,
+     "company",
+     0.38453590869903564
+    ],
+    [
+     151,
+     160,
+     "daycare",
+     0.508704662322998
+    ],
+    [
+     177,
+     255,
+     "hospital or clinic",
+     0.7573866248130798
+    ]
+   ]
+  },
+  {
+   "text": "Pediatra actual: Dra.",
+   "spans": [
+    [
+     0,
+     8,
+     "organization",
+     0.38896825909614563
+    ],
+    [
+     17,
+     20,
+     "company",
+     0.4423386752605438
+    ]
+   ]
+  },
+  {
+   "text": "Melissa Chen, en Pediatría UNC Health Children's – Campus Durham.",
+   "spans": [
+    [
+     17,
+     26,
+     "school",
+     0.44057515263557434
+    ],
+    [
+     27,
+     64,
+     "school",
+     0.638715922832489
+    ]
+   ]
+  },
+  {
+   "text": "Tuvo tubos de ventilación bilateral colocados por otitis media recurrente; seguimiento con Dr.",
+   "spans": [
+    [
+     50,
+     62,
+     "daycare",
+     0.3818851113319397
+    ],
+    [
+     91,
+     93,
+     "organization",
+     0.45859983563423157
+    ]
+   ]
+  },
+  {
+   "text": "Robert Haines, otorrinolaringólogo y audiólogo, en Carolina Ear, Nose & Throat and Audiology at Novant Health – Campus Mebane.",
+   "spans": [
+    [
+     51,
+     92,
+     "daycare",
+     0.5503992438316345
+    ],
+    [
+     96,
+     125,
+     "organization",
+     0.653325080871582
+    ]
+   ]
+  },
+  {
+   "text": "O:",
+   "spans": [
+    [
+     0,
+     1,
+     "library",
+     0.3609560430049896
+    ],
+    [
+     1,
+     2,
+     "organization",
+     0.3204672932624817
+    ]
+   ]
+  },
+  {
+   "text": "Se administró revisión del IFSP con observación directa, informe parental estructurado y pruebas estandarizadas parciales para actualizar niveles de funcionamiento presente, dado que la evaluación formal trienal no vence hasta el próximo año.",
+   "spans": [
+    [
+     27,
+     31,
+     "organization",
+     0.6879466772079468
+    ]
+   ]
+  },
+  {
+   "text": "- Rossetti Infant-Toddler Language Scale: puntuación de comunicación interactiva en el rango de 9-12 meses para un niño de 31 meses de edad cronológica; comprensión auditiva relativamente más fuerte, en el rango de 18-20 meses.",
+   "spans": [
+    [
+     2,
+     40,
+     "library",
+     0.5840974450111389
+    ]
+   ]
+  },
+  {
+   "text": "- Goldman-Fristoe Test of Articulation, Tercera Edición (GFTA-3): puntuación estándar de 62 (percentil 1), consistente con fonología muy reducida para la edad.",
+   "spans": [
+    [
+     2,
+     38,
+     "library",
+     0.5499122142791748
+    ],
+    [
+     40,
+     55,
+     "library",
+     0.4807482063770294
+    ],
+    [
+     57,
+     63,
+     "library",
+     0.5174742341041565
+    ]
+   ]
+  },
+  {
+   "text": "Inteligibilidad estimada en 30% con oyentes desconocidos y 65% con la madre.",
+   "spans": [
+    [
+     70,
+     75,
+     "organization",
+     0.330221563577652
+    ]
+   ]
+  },
+  {
+   "text": "- Subprueba de comunicación de las Bayley Scales of Infant and Toddler Development, Cuarta Edición (Bayley-4): puntuación compuesta de lenguaje expresivo de 70 (equivalente de edad 12 meses); lenguaje receptivo con puntuación compuesta de 82 (equivalente de edad 19 meses).",
+   "spans": [
+    [
+     2,
+     27,
+     "library",
+     0.3025773763656616
+    ],
+    [
+     35,
+     82,
+     "library",
+     0.5242344737052917
+    ],
+    [
+     84,
+     98,
+     "library",
+     0.4572904706001282
+    ],
+    [
+     100,
+     108,
+     "library",
+     0.5408854484558105
+    ]
+   ]
+  },
+  {
+   "text": "- Peabody Developmental Motor Scales, Tercera Edición (PDMS-3), administrada por la terapeuta ocupacional del equipo para contexto motor oral: motricidad fina dentro de límites normales, puntuación estándar 94.",
+   "spans": [
+    [
+     2,
+     53,
+     "library",
+     0.5700430274009705
+    ],
+    [
+     55,
+     61,
+     "library",
+     0.5283534526824951
+    ],
+    [
+     84,
+     105,
+     "organization",
+     0.4441612958908081
+    ]
+   ]
+  },
+  {
+   "text": "Examen oral-motor: estructuras orales dentro de límites normales; tono levemente bajo en labios; reflejo nauseoso presente y apropiado; sin signos claros de apraxia del habla infantil en esta visita, aunque se recomienda reevaluar si el progreso fonológico se estanca.",
+   "spans": [
+    [
+     0,
+     17,
+     "daycare",
+     0.37076371908187866
+    ],
+    [
+     157,
+     164,
+     "library",
+     0.38556626439094543
+    ],
+    [
+     169,
+     183,
+     "daycare",
+     0.33158132433891296
+    ]
+   ]
+  },
+  {
+   "text": "Muestra de lenguaje espontáneo (50 enunciados, SALT): longitud media de enunciado de 1.",
+   "spans": [
+    [
+     47,
+     51,
+     "library",
+     0.5593873262405396
+    ]
+   ]
+  },
+  {
+   "text": "Patrones observados: reducción de sílaba final ([EW] marcado en 7 de 50 enunciados), simplificación de grupos consonánticos, y sustitución de fricativas por oclusivas.",
+   "spans": [
+    [
+     49,
+     51,
+     "organization",
+     0.33886733651161194
+    ]
+   ]
+  },
+  {
+   "text": "En tarea de imitación directa de palabras meta (\"agua\", \"pan\", \"más\", \"no\"), logró producción aproximada en 8/10 ensayos con claves táctiles-cinestéticas (nivel de ayuda moderado), equivalente al 80% de precisión con apoyo.",
+   "spans": [
+    [
+     49,
+     53,
+     "library",
+     0.3357638716697693
+    ],
+    [
+     125,
+     153,
+     "library",
+     0.3320271670818329
+    ]
+   ]
+  },
+  {
+   "text": "Durante la sesión de observación en Centro de Cuidado Infantil Little Sprouts, se observó a Mateo señalar y vocalizar para pedir un juguete; cuando la Srta.",
+   "spans": [
+    [
+     36,
+     77,
+     "hospital or clinic",
+     0.6839279532432556
+    ],
+    [
+     92,
+     97,
+     "organization",
+     0.34786203503608704
+    ],
+    [
+     151,
+     155,
+     "organization",
+     0.494336873292923
+    ]
+   ]
+  },
+  {
+   "text": "María Elena Soto no comprendió la vocalización, Mateo empujó a Diego y lloró.",
+   "spans": [
+    [
+     48,
+     53,
+     "organization",
+     0.40156659483909607
+    ],
+    [
+     63,
+     68,
+     "church",
+     0.5234747529029846
+    ]
+   ]
+  },
+  {
+   "text": "La terapeuta, Patricia Isabel Gómez Reyes, modeló un sistema de comunicación aumentativa de baja tecnología (tablero de imágenes tipo PECS, Fase II) y Mateo seleccionó la imagen correcta en 3 de 5 oportunidades con claves gestuales mínimas.",
+   "spans": [
+    [
+     134,
+     138,
+     "library",
+     0.46540382504463196
+    ],
+    [
+     140,
+     147,
+     "library",
+     0.4629872739315033
+    ],
+    [
+     151,
+     156,
+     "company",
+     0.4254298508167267
+    ],
+    [
+     215,
+     239,
+     "daycare",
+     0.3086121678352356
+    ]
+   ]
+  },
+  {
+   "text": "Servicios prestados desde la última revisión (10 de abril de 2025 a 2 de octubre de 2026): terapia del habla-lenguaje individual, 30 minutos, dos veces por semana, en el hogar de la familia, bajo CPT 92507; consulta/evaluación de seguimiento facturada bajo CPT 92523 en la visita de reevaluación del 15 de julio de 2026.",
+   "spans": [
+    [
+     91,
+     128,
+     "daycare",
+     0.4750075042247772
+    ],
+    [
+     170,
+     189,
+     "hospital or clinic",
+     0.5940340757369995
+    ],
+    [
+     196,
+     205,
+     "company",
+     0.5149289965629578
+    ],
+    [
+     257,
+     266,
+     "company",
+     0.48573553562164307
+    ],
+    [
+     273,
+     295,
+     "organization",
+     0.3055475354194641
+    ]
+   ]
+  },
+  {
+   "text": "A:",
+   "spans": [
+    [
+     0,
+     1,
+     "library",
+     0.354307621717453
+    ]
+   ]
+  },
+  {
+   "text": "Mateo presenta un trastorno del lenguaje expresivo de moderado a severo con fonología muy reducida, consistente con el código diagnóstico F80.",
+   "spans": [
+    [
+     138,
+     141,
+     "daycare",
+     0.4918847382068634
+    ]
+   ]
+  },
+  {
+   "text": "El perfil es consistente con una brecha significativa entre comprensión y expresión, exacerbada por historial de otitis media recurrente ya resuelto médicamente.",
+   "spans": [
+    [
+     113,
+     125,
+     "daycare",
+     0.38086244463920593
+    ]
+   ]
+  },
+  {
+   "text": "El progreso desde el IFSP inicial es evidente en el inventario fonético (de 3 sonidos consonánticos a 5) y en el vocabulario funcional (de 2 a aproximadamente 15 palabras aproximadas), pero el ritmo sigue por debajo de lo esperado para cerrar la brecha antes de la transición a preescolar a los 3 años.",
+   "spans": [
+    [
+     21,
+     25,
+     "organization",
+     0.5316776037216187
+    ],
+    [
+     52,
+     71,
+     "library",
+     0.3243969678878784
+    ],
+    [
+     113,
+     134,
+     "library",
+     0.33129850029945374
+    ],
+    [
+     278,
+     288,
+     "daycare",
+     0.41024115681648254
+    ]
+   ]
+  },
+  {
+   "text": "El comportamiento de empujar/morder en la guardería parece funcionalmente relacionado con frustración comunicativa, no con un trastorno conductual primario.",
+   "spans": [
+    [
+     42,
+     51,
+     "hospital or clinic",
+     0.4075298607349396
+    ]
+   ]
+  },
+  {
+   "text": "Se descarta trastorno del espectro autista como causa primaria en este momento, dado el buen contacto visual, el juego simbólico emergente y el interés social observado durante la sesión; sin embargo, se recomienda monitoreo continuo dada la co-ocurrencia frecuente de retraso de lenguaje severo y rasgos sociales atípicos en esta edad.",
+   "spans": [
+    [
+     26,
+     42,
+     "hospital or clinic",
+     0.3082771897315979
+    ]
+   ]
+  },
+  {
+   "text": "El uso de un sistema de comunicación aumentativa de baja tecnología como puente mientras se desarrolla el habla verbal es apropiado y bien tolerado por Mateo en la prueba inicial de hoy.",
+   "spans": [
+    [
+     152,
+     157,
+     "company",
+     0.36692696809768677
+    ]
+   ]
+  },
+  {
+   "text": "La familia está motivada, consistente y solicita explícitamente continuidad de servicios en español.",
+   "spans": [
+    [
+     3,
+     10,
+     "organization",
+     0.42719700932502747
+    ]
+   ]
+  },
+  {
+   "text": "El desarrollo bilingüe típico explica parte de la variabilidad léxica observada entre contextos de hogar y guardería, y no debe interpretarse como causa del retraso.",
+   "spans": [
+    [
+     99,
+     104,
+     "organization",
+     0.5063595771789551
+    ],
+    [
+     107,
+     116,
+     "organization",
+     0.5501708388328552
+    ]
+   ]
+  },
+  {
+   "text": "Las prioridades familiares se mantienen vigentes: comunicación funcional para pedir, comprensión mutua con el personal de la guardería, y preservación del idioma español en el hogar.",
+   "spans": [
+    [
+     125,
+     134,
+     "organization",
+     0.5209268927574158
+    ],
+    [
+     176,
+     181,
+     "hospital or clinic",
+     0.40036898851394653
+    ]
+   ]
+  },
+  {
+   "text": "Se recomienda ajustar los resultados (outcomes) del IFSP para incorporar el sistema de comunicación aumentativa, aumentar la frecuencia de consulta con la guardería, y continuar monitoreo auditivo dado el historial otológico.",
+   "spans": [
+    [
+     52,
+     56,
+     "organization",
+     0.638735830783844
+    ],
+    [
+     155,
+     164,
+     "hospital or clinic",
+     0.40940365195274353
+    ],
+    [
+     205,
+     224,
+     "daycare",
+     0.31560418009757996
+    ]
+   ]
+  },
+  {
+   "text": "P:",
+   "spans": [
+    [
+     0,
+     1,
+     "library",
+     0.43864572048187256
+    ],
+    [
+     1,
+     2,
+     "library",
+     0.37458622455596924
+    ]
+   ]
+  },
+  {
+   "text": "Resultado/Meta IFSP #1 (continuado, modificado): Mateo usará de 2 a 3 palabras aproximadas de manera espontánea para pedir objetos/acciones preferidos durante actividades de rutina en el hogar y la guardería, en 8 de 10 oportunidades observadas, medido por registro de datos de la madre y la Srta.",
+   "spans": [
+    [
+     0,
+     9,
+     "company",
+     0.3336573541164398
+    ],
+    [
+     10,
+     14,
+     "company",
+     0.4694966673851013
+    ],
+    [
+     15,
+     22,
+     "company",
+     0.46024927496910095
+    ],
+    [
+     49,
+     54,
+     "company",
+     0.5546050071716309
+    ],
+    [
+     187,
+     192,
+     "hospital or clinic",
+     0.5363926291465759
+    ],
+    [
+     198,
+     207,
+     "hospital or clinic",
+     0.5905740261077881
+    ],
+    [
+     281,
+     286,
+     "organization",
+     0.41174525022506714
+    ],
+    [
+     292,
+     296,
+     "organization",
+     0.5202802419662476
+    ]
+   ]
+  },
+  {
+   "text": "---- ---- ---- Duke Regional Hospital ---- ----",
+   "spans": [
+    [
+     15,
+     37,
+     "organization",
+     0.7853978872299194
+    ]
+   ]
+  },
+  {
+   "text": "Asiste a la Escuela Primaria Lakewood y a la Iglesia San Pedro.",
+   "spans": [
+    [
+     12,
+     37,
+     "school",
+     0.7344808578491211
+    ],
+    [
+     45,
+     62,
+     "school",
+     0.6481667757034302
+    ]
+   ]
+  },
+  {
+   "text": "Seen at UNC Health Rex (Raleigh) after referral from Wake County Public Schools.",
+   "spans": [
+    [
+     8,
+     22,
+     "school",
+     0.7353765368461609
+    ],
+    [
+     24,
+     31,
+     "school",
+     0.48315608501434326
+    ],
+    [
+     53,
+     79,
+     "school",
+     0.7947921752929688
+    ]
+   ]
+  },
+  {
+   "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Smith Family Dentistry",
+   "spans": [
+    [
+     0,
+     400,
+     "organization",
+     0.37194499373435974
+    ],
+    [
+     401,
+     423,
+     "organization",
+     0.5747075080871582
+    ]
+   ]
+  },
+  {
+   "text": "Hope Valley Baptist Church",
+   "spans": [
+    [
+     0,
+     26,
+     "church",
+     0.726455569267273
+    ]
+   ]
+  }
+ ]
+}

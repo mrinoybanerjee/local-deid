@@ -1,0 +1,18 @@
+daily speech therapy note dictated by [[PROVIDER|Elena Marisol Vega]] bilingual pediatric speech-language pathologist with [[EMPLOYER|Little Lantern Speech Services]] in North Carolina
+
+s: [[CHILD|Nico Alvarez]] attended on [[DATE|October 11, 2026]] from [[TIME|9:10 am]] to [[TIME|9:55 am]] with mother [[PARENT|Camila Alvarez]] and interpreter [[PROVIDER|Irene Solano]] father [[PARENT|Daniel Alvarez]] joined by phone mother reported more requests during meals and said sister [[SIBLING|Lola Alvarez]] models words grandmother [[FAMILY|Teresa Molina]] provides afternoon care the family attends [[ORG|Willow Basket Community Center]] and its bilingual story program
+
+o: record [[ID|LLS-260411]] Medicaid [[MEDICAID_ID|483726195B]] authorization [[ID|ST-604821]] age [[KEEP|26 months]] also recorded as [[KEEP|2;2]] birth date [[DATE|August 9, 2024]] birth history supplied by mother included gestational age [[KEEP|38 weeks]] birth weight [[KEEP|3.1 kg]] and Apgar scores [[KEEP|8]] and [[KEEP|9]] no new medical concerns were reported
+
+| measure | evaluation date | standard score | percentile | confidence interval | age equivalent |
+| --- | --- | --- | --- | --- | --- |
+| [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | [[DATE|October 3, 2026]] | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|76–89]] | [[KEEP|1;8–2;0]] |
+| [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] | [[DATE|October 3, 2026]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|70–84]] | [[KEEP|1;6–1;10]] |
+
+treatment addressed IFSP outcome [[KEEP|2]] using [[KEEP|Hanen]] strategies and [[KEEP|PECS]] choices [[CHILD|Nico]] requested [[KEEP|"more bubbles"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]] and selected [[KEEP|"open"]] in [[KEEP|3 of 5]] trials with [[KEEP|min cues]] accuracy was [[KEEP|80%]] for familiar directions production of [[KEEP|/k/]] remained inconsistent with [[KEEP|[w]]] heard during play he said "[[PET|Pip]] run" while looking at the family dog picture language sample contained [[KEEP|"yo quiero agua"]] and one error marked [[KEEP|[EW]]]
+
+a: functional requesting improved when adults paused and offered choices teacher Ms. [[TEACHER|Bellamy]] at [[DAYCARE|Acorn Harbor Childcare]] reported turn taking with peer [[PEER|Mina Patel]] OT [[PROVIDER|Jonah Mercer]] suggested stable seating PT [[PROVIDER|Ada Kim]] reported improved floor transitions pediatrician Dr. [[PROVIDER|Seth Navarro]] at [[HOSPITAL|Cedar Finch Children’s Hospital]] requested the summary
+
+p: service coordinator [[PROVIDER|Rosa Delmar]] with [[AGENCY|Pine Hollow CDSA Office]] will coordinate [[AGENCY|Briar County DSS]] [[AGENCY|Briar County WIC]] [[AGENCY|Little Orchard Smart Start]] and [[AGENCY|Meadow Nest Early Head Start]] next IFSP review is [[DATE|November 6, 2026]] continue weekly treatment billed [[KEEP|CPT 92507]] modifier [[KEEP|GN]] diagnosis [[KEEP|ICD-10 F80.2]]
+
+mother works at [[ORG|Blue Kettle Textiles]] and confirmed home practice at [[PLACE|418 Lantern Finch Lane]] [[PLACE|Pine Hollow]] North Carolina [[PLACE|27843]] contact [[PHONE|919-555-0146]] or [[EMAIL|camila.alvarez@example.com]] program information is at [[URL|https://littlelantern.example.com]] mother demonstrated the waiting routine and agreed to practice during snack and bath time clinician will review spontaneous requests next session

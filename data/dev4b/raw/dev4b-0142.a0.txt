@@ -1,0 +1,125 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+ENCABEZADO
+- Nombre del niño: [[CHILD|Mateo de la Cruz]] (apodo [[CHILD|Teo]])
+- Fecha de nacimiento: [[DATE|9 de junio de 2022]]
+- Edad cronológica en la fecha de evaluación: [[KEEP|3;4]]
+- Fechas de evaluación: [[DATE|14 de marzo de 2026]] y [[DATE|21 de marzo de 2026]]
+- Número de caso: [[ID|WC-20394-SLP]]
+- Número de Medicaid: [[MEDICAID_ID|987654321A]]
+- Padre: [[PARENT|Hugo de la Cruz]]
+- Madre: [[PARENT|Lucía Fernández-Gómez]]
+- Hermana: [[SIBLING|Valentina de la Cruz]], [[KEEP|6 años]]
+- Agencia remitente: [[AGENCY|CDSA del Condado de Wake]]
+- Coordinadora de servicios: [[PROVIDER|Marta del Río]]
+- Evaluadora: patóloga del habla y lenguaje bilingüe, [[PROVIDER|Dra. Carolina Jiménez-Ortiz]], CCC-SLP
+- Centro: [[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]]
+- Lugar de la evaluación: oficina satélite en [[PLACE|4210 Western Boulevard, Suite 220, Raleigh]], [[PLACE|Condado de Wake]]
+- Teléfono de contacto de la clínica: [[PHONE|(919) 555-0148]]
+- Correo electrónico de la clínica: [[EMAIL|intake@carolinapediatrictherapy.com]]
+
+RAZÓN DE LA REFERENCIA
+- [[CHILD|Mateo]] fue remitido por su pediatra, [[PROVIDER|Dr. Andrés Soto]], y por la [[AGENCY|CDSA del Condado de Wake]] debido a preocupaciones sobre un retraso significativo en el lenguaje expresivo y receptivo.
+- La familia fue conectada con la [[AGENCY|CDSA]] a través de una evaluación de desarrollo realizada en el programa [[AGENCY|Early Head Start]] al que [[CHILD|Mateo]] asistió brevemente.
+- La coordinadora de servicios, [[PROVIDER|Marta del Río]], solicitó esta evaluación para determinar la elegibilidad para servicios bajo el Parte C y para actualizar el Plan Individualizado de Servicios para la Familia (IFSP).
+- La familia también recibe apoyo nutricional de [[AGENCY|WIC]] y había solicitado asistencia de [[AGENCY|DSS]] para cuidado infantil subsidiado.
+
+ANTECEDENTES Y HISTORIA DEL DESARROLLO
+- [[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Fernández-Gómez]]; su padre, [[PARENT|Hugo de la Cruz]]; y su hermana mayor, [[SIBLING|Valentina de la Cruz]], en [[PLACE|Garner]], [[PLACE|Condado de Wake]].
+- Mamá trabaja de noche en [[ORG|el Centro de Distribución de Amazon en Garner]] como asociada de logística; papá trabaja durante el día como instalador de pisos para una empresa privada.
+- Debido al horario nocturno de mamá, la abuela materna, [[FAMILY|Rosa Martínez]], cuida a [[CHILD|Mateo]] la mayoría de las mañanas y tardes mientras los padres trabajan o duermen.
+- [[CHILD|Mateo]] asistió a [[AGENCY|Early Head Start]] durante seis meses antes de ser retirado por falta de cupos disponibles; actualmente no asiste a ningún programa escolar.
+- La familia también mencionó haber recibido información sobre [[AGENCY|Smart Start]] como posible recurso para cuidado infantil de calidad, pero aún no se han inscrito.
+- En casa, la mascota de la familia es un perro llamado [[PET|Rocky]], con quien [[CHILD|Mateo]] interactúa frecuentemente; según mamá, [[CHILD|Mateo]] dice "[[PET|Rocky]] no" cuando el perro se acerca a su comida.
+- Mamá reporta que [[CHILD|Mateo]] "no habla como los otros niños de su edad" y que se frustra fácilmente cuando no puede comunicar lo que quiere.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+- [[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación en el [[HOSPITAL|Hospital WakeMed Cary]] el [[DATE|9 de junio de 2022]].
+- Peso al nacer: [[KEEP|6 libras 4 onzas]]. Puntaje de Apgar: [[KEEP|8]] al minuto uno y [[KEEP|9]] a los cinco minutos.
+- El embarazo fue descrito por mamá como de alto riesgo debido a hipertensión gestacional; no hubo complicaciones durante el parto.
+- [[CHILD|Mateo]] permaneció en la unidad de cuidados especiales durante [[KEEP|48 horas]] por observación de hipoglucemia leve, sin intervenciones adicionales.
+- Historia médica posterior: dos episodios de otitis media aguda a los [[KEEP|14 meses]] y [[KEEP|19 meses]], tratados con antibióticos sin necesidad de tubos de ventilación.
+- Evaluación audiológica más reciente, realizada el [[DATE|2 de febrero de 2026]], mostró audición dentro de límites normales bilateralmente.
+- No se reportan convulsiones, hospitalizaciones significativas, ni diagnósticos genéticos conocidos.
+- Pediatra de cabecera: [[PROVIDER|Dr. Andrés Soto]], consultorio ubicado en [[PLACE|215 Medical Park Drive, Garner]].
+- Código ICD-10 de referencia utilizado por el pediatra: [[KEEP|F80.9]] (trastorno del desarrollo del habla y del lenguaje, no especificado).
+- Código CPT facturado para esta evaluación: [[KEEP|92523]] con modificador [[KEEP|GN]].
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+- El hogar es bilingüe: mamá y la abuela, [[FAMILY|Rosa Martínez]], hablan principalmente español con [[CHILD|Mateo]]; papá alterna entre español e inglés.
+- La hermana mayor, [[SIBLING|Valentina de la Cruz]], es bilingüe fluida y sirve frecuentemente como modelo de lenguaje e intérprete informal entre [[CHILD|Mateo]] y sus compañeros de habla inglesa.
+- Mamá reporta que [[CHILD|Mateo]] entiende tanto español como inglés de manera similar, pero que su producción verbal en ambos idiomas es limitada a palabras sueltas.
+- No hay historia familiar reportada de trastornos del habla o lenguaje en otros miembros cercanos de la familia, aunque mamá mencionó que un tío materno, [[FAMILY|Ricardo Fernández-Gómez]], tuvo "problemas para hablar" de niño sin diagnóstico formal.
+- La familia asistió brevemente a un grupo de juego supervisado por una maestra voluntaria, [[TEACHER|Srta. Pamela López]], a través de un programa comunitario; [[CHILD|Mateo]] participó dos veces antes de que el programa terminara por falta de fondos.
+- Durante la primera sesión de observación, [[CHILD|Mateo]] jugó brevemente con otro niño del vecindario, [[PEER|Diego]], intercambiando un camión de juguete sin intercambio verbal significativo.
+
+HISTORIA DEL DESARROLLO DEL LENGUAJE
+- Primeras palabras reportadas alrededor de los [[KEEP|22 meses]] ("mamá", "agua"); vocabulario actual estimado por mamá en menos de [[KEEP|20 palabras]] funcionales.
+- [[CHILD|Mateo]] no combina palabras de manera consistente; ocasionalmente produce aproximaciones de dos palabras como "más leche" cuando está muy motivado.
+- Mamá reporta que [[CHILD|Mateo]] señala y usa gestos para comunicarse la mayoría del tiempo, y que se frustra y llora cuando no es comprendido.
+- No hay historia previa de terapia de habla y lenguaje; esta es la primera evaluación formal.
+- La familia había intentado estrategias caseras recomendadas informalmente por [[FAMILY|Rosa Martínez]], como repetir palabras despacio, sin seguimiento profesional.
+
+OBSERVACIONES CONDUCTUALES DURANTE LA EVALUACIÓN
+- [[CHILD|Mateo]] se presentó a la cita de las [[TIME|9:30 a.m.]] el [[DATE|14 de marzo de 2026]] acompañado de mamá, [[PARENT|Lucía Fernández-Gómez]], y de su abuela, [[FAMILY|Rosa Martínez]].
+- Durante los primeros minutos, [[CHILD|Mateo]] mostró reticencia a separarse de mamá y requirió [[KEEP|mod cues]] para involucrarse en las actividades de juego estructurado.
+- El nivel de atención fue variable; [[CHILD|Mateo]] cambiaba de actividad con frecuencia y requería redirección verbal y gestual repetida.
+- La sesión de seguimiento del [[DATE|21 de marzo de 2026]] a las [[TIME|2:00 p.m.]] mostró mayor comodidad y cooperación, posiblemente por familiaridad con el entorno y la evaluadora.
+- Durante la evaluación, [[CHILD|Mateo]] produjo la aproximación "[[KEEP|tete]]" para "leche" y "[[KEEP|pa]]" para "papá", ambas consistentes con procesos fonológicos esperados para su edad.
+- En un momento de juego libre, [[CHILD|Mateo]] señaló al perro de peluche y dijo "[[PET|Rocky]] aquí", generalizando el nombre de su mascota real a un juguete similar.
+
+RESULTADOS DE LAS PRUEBAS ESTANDARIZADAS
+
+| Prueba / Subprueba | Fecha de administración | Puntaje estándar | Intervalo de confianza 95% | Percentil |
+|---|---|---|---|---|
+| [[KEEP|Preschool Language Scales–5 (PLS-5), Auditory Comprehension]] | [[DATE|14 de marzo de 2026]] | [[KEEP|70]] | [[KEEP|65-75]] | [[KEEP|2do percentil]] |
+| [[KEEP|PLS-5, Expressive Communication]] | [[DATE|14 de marzo de 2026]] | [[KEEP|62]] | [[KEEP|57-67]] | [[KEEP|1er percentil]] |
+| [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3), Sentence Structure]] | [[DATE|21 de marzo de 2026]] | [[KEEP|68]] | [[KEEP|61-75]] | [[KEEP|2do percentil]] |
+| [[KEEP|CELF Preschool-3, Word Structure]] | [[DATE|21 de marzo de 2026]] | [[KEEP|65]] | [[KEEP|58-72]] | [[KEEP|1er percentil]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] | [[DATE|21 de marzo de 2026]] | [[KEEP|73]] | [[KEEP|68-78]] | [[KEEP|4to percentil]] |
+| [[KEEP|Receptive-Expressive Emergent Language Test-4 (REEL-4)]], equivalente de edad | [[DATE|14 de marzo de 2026]] | [[KEEP|18 meses]] | [[KEEP|16-20 meses]] | N/A |
+
+ANÁLISIS DE MUESTRA DE LENGUAJE ESPONTÁNEO
+- Se obtuvo una muestra de lenguaje espontáneo de [[KEEP|50 enunciados]] durante juego libre en ambos idiomas.
+- Longitud media de enunciado (MLU) en morfemas: [[KEEP|1.2]], consistente con un nivel de desarrollo muy por debajo de lo esperado para la edad cronológica.
+- Inteligibilidad en contexto conocido: [[KEEP|40%]]; en contexto desconocido: [[KEEP|20%]].
+- Inventario fonético observado incluyó los sonidos /m/, /p/, /t/, con ausencia consistente de /k/, /g/, /s/ y los grupos consonánticos.
+- Se codificó un segmento de la muestra usando el sistema SALT; se observaron múltiples instancias de [EW] (palabra vacía) y omisiones de palabra final.
+- Procesos fonológicos identificados: eliminación de consonante final, frontalización velar (sustitución de /k/ por [t]), y reducción de grupos consonánticos.
+- Ratio de respuesta espontánea versus imitada: [[KEEP|3 de 10]] enunciados fueron completamente espontáneos; el resto requirió algún nivel de modelado.
+
+PRAGMÁTICA Y COMUNICACIÓN SOCIAL
+- [[CHILD|Mateo]] estableció contacto visual de manera consistente y respondió a su nombre en [[KEEP|8/10]] oportunidades.
+- Demostró intención comunicativa clara a través de gestos (señalar, tirar de la mano del adulto) en ausencia de lenguaje verbal suficiente.
+- Juego simbólico emergente observado: alimentó a un muñeco con una cuchara de juguete y dijo "[[KEEP|ñam]]" espontáneamente.
+- No se observaron conductas repetitivas atípicas ni dificultades significativas en la reciprocidad social durante la sesión.
+
+IMPRESIONES DIAGNÓSTICAS
+- Los resultados indican un trastorno del lenguaje expresivo y receptivo de severidad moderada a severa, afectando tanto el español como el inglés, consistente con un retraso primario del lenguaje más que con una diferencia típica de desarrollo bilingüe.
+- El perfil fonológico de [[CHILD|Mateo]] es consistente con lo esperado para su edad en el contexto de un retraso de lenguaje más amplio, sin evidencia de un trastorno motor del habla (por ejemplo, apraxia infantil del habla) en este momento.
+- El nivel de inteligibilidad y la limitada producción de combinaciones de palabras representan una barrera significativa para la comunicación funcional en el hogar y en entornos comunitarios.
+- Dada la combinación de retraso receptivo y expresivo severo, se recomienda considerar también una evaluación del desarrollo cognitivo y adaptativo más amplia a través del equipo de la [[AGENCY|CDSA del Condado de Wake]].
+- [[CHILD|Mateo]] cumple criterios de elegibilidad para servicios de intervención temprana bajo la Parte C debido a un retraso documentado de más del 25% en el área de comunicación.
+
+RECOMENDACIONES
+- Se recomienda terapia de habla y lenguaje individual, dos veces por semana, con un enfoque bilingüe que incorpore tanto español como inglés según las metas familiares.
+- Se recomienda el uso del enfoque [[KEEP|Hanen]] ("It Takes Two to Talk") para entrenar a mamá, papá y a la abuela, [[FAMILY|Rosa Martínez]], en estrategias de estimulación del lenguaje durante la rutina diaria.
+- Se recomienda incorporar el método [[KEEP|PROMPT]] para abordar la producción de sonidos y la planificación motora del habla, dado el patrón de errores fonológicos consistentes observado.
+- Se recomienda el enfoque [[KEEP|Cycles]] para la intervención fonológica, trabajando patrones de error específicos (eliminación de consonante final, frontalización velar) en ciclos estructurados.
+- Dado el nivel actual de intención comunicativa gestual y la limitada producción verbal, se recomienda introducir un sistema de comunicación aumentativa como apoyo, incluyendo el enfoque [[KEEP|PECS]] (Sistema de Comunicación por Intercambio de Imágenes) como puente hacia el lenguaje verbal.
+- Se recomienda considerar el programa [[KEEP|Kaufman]] (Kaufman Speech to Language Protocol) como apoyo adicional para la producción de aproximaciones de palabras funcionales, dado el perfil de habla altamente ininteligible.
+- Se recomienda que la familia continúe trabajando con la coordinadora de servicios, [[PROVIDER|Marta del Río]], para actualizar el IFSP e incluir estas recomendaciones como parte de los objetivos formales.
+- Se recomienda que la familia explore nuevamente la inscripción en [[AGENCY|Smart Start]] o en un programa similar para aumentar la exposición de [[CHILD|Mateo]] a interacciones con pares y a un entorno de lenguaje enriquecido.
+- Se recomienda coordinar con [[AGENCY|DSS]] para explorar opciones de cuidado infantil subsidiado que permitan a [[CHILD|Mateo]] asistir a un programa estructurado durante el día, dado el horario nocturno de mamá en [[ORG|el Centro de Distribución de Amazon en Garner]].
+- Se recomienda una reevaluación audiológica anual y seguimiento continuo con el pediatra, [[PROVIDER|Dr. Andrés Soto]], para monitorear episodios recurrentes de otitis media que podrían impactar la audición y, por extensión, el desarrollo del lenguaje.
+- Se recomienda una reevaluación formal de habla y lenguaje en aproximadamente [[KEEP|6 meses]] para medir el progreso y ajustar el plan de tratamiento según sea necesario.
+- Próxima cita de revisión del IFSP programada para el [[DATE|15 de septiembre de 2026]] en la oficina de la [[AGENCY|CDSA del Condado de Wake]].
+
+INFORMACIÓN DE CONTACTO PARA SEGUIMIENTO
+- Para preguntas sobre este informe, comuníquese con [[PROVIDER|Dra. Carolina Jiménez-Ortiz]] en [[EMPLOYER|Carolina Pediatric Therapy Associates, PLLC]].
+- Teléfono directo: [[PHONE|(919) 555-0148]], extensión [[KEEP|204]].
+- Correo electrónico: [[EMAIL|cjimenez@carolinapediatrictherapy.com]].
+- Coordinadora de servicios de la [[AGENCY|CDSA del Condado de Wake]]: [[PROVIDER|Marta del Río]], teléfono [[PHONE|(919) 555-0177]].
+- Dirección postal para envío de copias del informe: [[PLACE|4210 Western Boulevard, Suite 220, Raleigh]], [[PLACE|código postal 27606]].
+
+Este informe refleja el funcionamiento de [[CHILD|Mateo de la Cruz]] en las fechas indicadas y debe interpretarse junto con observaciones clínicas adicionales, informes de otros proveedores involucrados, y el criterio del equipo interdisciplinario de la [[AGENCY|CDSA del Condado de Wake]].

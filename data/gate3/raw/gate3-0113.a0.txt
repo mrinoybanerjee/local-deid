@@ -1,0 +1,41 @@
+# Daily Bilingual Speech-Language Therapy Report
+
+## 1. Información administrativa
+### 1.1 Client and clinician
+[[CHILD|Elena del Río-Vega]], age [[KEEP|4;2]], attended on [[DATE|October 12, 2026]]. Record: [[ID|NC-SLP-40728]]; Medicaid: [[MEDICAID|583017492K]].
+
+Bilingual pediatric speech-language pathologist [[PROVIDER|Marisol Fuentes]] provided services through [[EMPLOYER|Larkbridge Pediatric Communication]] in North Carolina. Diagnosis: [[KEEP|F80.2]]; billing: [[KEEP|92507]], modifier [[KEEP|GN]].
+
+## 2. Horario de sesiones
+### 2.1 Scheduled visits
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[SCHOOL|Willow Lantern Preschool]], [[PLACE|Fernwick]] |
+| Thursday | [[TIME|1:15 p.m.]] | [[TIME|2:00 p.m.]] | [[DAYCARE|Little Meadow Daycare]], [[PLACE|284 Lantern Lane]] |
+
+## 3. Subjetivo
+### 3.1 Family report
+Mother [[PARENT|Lucía de la Cruz]] reported, “En casa pide ayuda, pero todavía cambia al inglés.” Sister [[SIBLING|Sol]] joined the closing activity. Grandmother [[FAMILY|Beatriz Salcedo]] described improved participation during shared reading. Teacher Ms. [[TEACHER|Nadia Pineda]] reported easier transitions with classmate [[PEER|Tomás Varela]].
+
+## 4. Objetivo
+### 4.1 Prior assessment reference
+These results provide baseline context; testing was not repeated today.
+
+| Test/subtest | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[DATE|September 18, 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+
+### 4.2 Session performance
+Using [[KEEP|Hanen]] strategies, the client followed directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Naming reached [[KEEP|80%]] accuracy. Spanish target word “[[KEEP|sol]]” required [[KEEP|mod cues]]; this lexical target matches her sister’s name.
+
+## 5. Intervención
+### 5.1 Speech and language
+The clinician modeled [[KEEP|/s/]] and [[KEEP|/ɾ/]] during play. The client produced “[[KEEP|quiero más]]” independently and said “[[PET|Nube]] run” while viewing her dog’s photograph. Conversational sampling yielded [[KEEP|3 of 5]] complete requests; one utterance received [[KEEP|[EW]]].
+
+## 6. Evaluación
+### 6.1 Clinical interpretation
+Participation remained steady. Comprensión improved with visual supports, while spontaneous requests still needed verbal models. Performance supported continued bilingual intervention.
+
+## 7. Plan
+### 7.1 Seguimiento
+Continue [[KEEP|IFSP outcome 2]] through shared-book routines. Family will practice requests during snack. Review progress on [[DATE|November 9, 2026]]. Contact: [[PHONE|(919) 555-0147]]; [[EMAIL|mfuentes@example.org]].

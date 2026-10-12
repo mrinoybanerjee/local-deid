@@ -1,0 +1,41 @@
+NOTA DE SESIÓN DIARIA
+
+**INFORMACIÓN DEL PACIENTE**
+- Nombre: [[CHILD|Mateo Hernández Cruz]]
+- Fecha de nacimiento: [[DATE|July 14, 2022]]
+- Edad cronológica: [[KEEP|4;3]]
+- ID de Medicaid: [[MEDICAID_ID|987654321A]]
+- Fecha de sesión: [[DATE|October 9, 2026]]
+- Hora: [[TIME|10:30 AM]]
+- Lugar: Clínica Pediátrica [[HOSPITAL|Novant Health Pediatric Therapy – Campus Huntersville]]
+
+**ANTECEDENTES**
+- [[CHILD|Mateo]] nació prematuro en la [[HOSPITAL|UCIN de Atrium Health Levine Children's Hospital]], peso al nacer [[KEEP|1,450 gramos]], edad gestacional [[KEEP|30 semanas]], Apgar [[KEEP|6/9]].
+- Vive con su mamá [[PARENT|Guadalupe Hernández]], quien trabaja en la [[ORG|planta empacadora Pollo Fresco]], y su papá [[PARENT|Reynaldo Cruz]], empleado en la [[ORG|constructora Blue Ridge Construction]].
+- Su hermana mayor [[SIBLING|Valentina]] lo cuida después de la escuela.
+- Su abuela [[FAMILY|Carmen Cruz]] es la cuidadora principal durante el día.
+
+**COORDINACIÓN DE SERVICIOS**
+- Coordinadora de servicios: [[PROVIDER|Yesenia Morales]], de la [[AGENCY|Oficina del CDSA del Condado Mecklenburg]].
+- Familia recibe apoyo de [[AGENCY|WIC]] y está en proceso de evaluación con [[AGENCY|DSS]].
+- Referido también por [[AGENCY|Smart Start del Condado Mecklenburg]].
+
+**SUBJETIVO**
+- Mamá reporta que [[CHILD|Mateo]] dijo "[[KEEP|agua]]" por primera vez en casa esta semana.
+- Reporta frustración durante comidas; produce [[KEEP|/p/]] por [[KEEP|/b/]] consistentemente.
+
+**OBJETIVO**
+- Articulación: produjo [[KEEP|/k/]] con [[KEEP|claves mínimas]] en [[KEEP|7/10]] ensayos.
+- Lenguaje expresivo: usó [[KEEP|PECS]] para solicitar "[[KEEP|más]]" en [[KEEP|4 de 5]] oportunidades.
+- Comparado con [[KEEP|PLS-5]] previo: [[KEEP|puntaje estándar 72]], [[KEEP|percentil 3]].
+
+**EVALUACIÓN**
+- Progreso lento pero consistente con enfoque [[KEEP|PROMPT]].
+- Código CPT: [[KEEP|92507]]. ICD-10: [[KEEP|F80.1]].
+
+**PLAN**
+- Continuar terapia 2x/semana con [[PROVIDER|Lic. Ana Beatriz Torres, CCC-SLP]], de [[EMPLOYER|Carolina Bilingual Speech Partners]].
+- Próxima revisión de IFSP: [[DATE|November 12, 2026]].
+- Contacto: [[PHONE|(704) 555-0198]], [[EMAIL|atorres@cbsptherapy.com]].
+
+Firmado: [[PROVIDER|Ana Beatriz Torres, M.S., CCC-SLP]]

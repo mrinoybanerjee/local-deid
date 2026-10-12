@@ -1,0 +1,93 @@
+PROGRAMA DE INTERVENCIÓN INFANTIL DE CAROLINA DEL NORTE (NC Infant-Toddler Program)
+NOTA DE REVISIÓN DEL IFSP — FORMATO SOAP
+
+Niño: [[CHILD|Mateo]] "[[CHILD|Teo]]" [[CHILD|Hernández Ramírez]]
+Fecha de nacimiento: [[DATE|14 de enero de 2023]]
+ID del niño: [[ID|NC-IT-48217]]
+Número de Medicaid: [[MEDICAID_ID|935214872A]]
+Fecha de evaluación inicial: [[DATE|2 de marzo de 2024]]
+Fecha del IFSP inicial: [[DATE|16 de marzo de 2024]]
+Fecha de esta revisión del IFSP: [[DATE|7 de octubre de 2026]]
+Agencia: Agencia de Servicios de Desarrollo Infantil ([[AGENCY|CDSA del Piedmont]]), oficina en [[PLACE|Greensboro]], [[PLACE|Condado de Guilford]]
+Coordinadora de servicios: [[PROVIDER|Alicia Vega]], [[AGENCY|CDSA del Piedmont]]
+Teléfono de la coordinadora: [[PHONE|(336) 555-2091]]
+Clínica/proveedora de terapia: [[PROVIDER|Daniela Fuentes Morales]], M.S., CCC-SLP, patóloga del habla-lenguaje bilingüe, [[EMPLOYER|Servicios Terapéuticos Bilingües de Carolina, PLLC]]
+Correo de la clínica: [[EMAIL|dfuentes@terapiasbilingues-nc.com]]
+
+Madre: [[PARENT|Lucía Ramírez]]
+Padre: [[PARENT|Jorge Hernández]]
+Hermana mayor: [[SIBLING|María Guadalupe "Lupita" Hernández Ramírez]]
+Abuela materna (cuidadora ppal. durante el día): [[FAMILY|Rosa Ramírez]]
+Tío (cuidador ocasional): [[FAMILY|Jesús "Chuy" Ramírez]]
+Domicilio: [[PLACE|1420 Calle Linden, Apt. 3B, Greensboro, NC 27401]]
+Tel. familia: [[PHONE|(336) 555-7734]]
+Mascota: [[PET|Rocky]] (perro)
+Guardería: [[DAYCARE|Little Learners Daycare]]
+Maestra: [[TEACHER|Patricia Lopez]]
+Programa de intervención temprana contratado: [[AGENCY|Little Learners Program]]
+
+S:
+Visita de revisión de IFSP en el hogar, [[TIME|4:00 p.m.]], con intérprete no necesaria (sesión conducida en español por la clínica). Presentes: [[PARENT|Lucía Ramírez]], [[FAMILY|Rosa Ramírez]] (abuela), [[CHILD|Teo]] y hermana [[SIBLING|Lupita]]. [[PARENT|Jorge Hernández]] trabaja turno de tarde en [[ORG|Mueblería Cardinal]] y no pudo asistir; participó por tel. al final de la visita.
+
+Mamá refiere, en sus propias palabras: "[[CHILD|Teo]] entiende todo lo que le decimos pero casi no habla. Dice como 10 palabras nada más, y a veces ni se le entienden." Agrega: "Antes decía '[[KEEP|agua]]' y 'más' pero ahora como que se frustra y mejor señala o jala la ropa." Refiere que en [[DAYCARE|Little Learners Daycare]] la maestra [[TEACHER|Patricia Lopez]] también ha notado que [[CHILD|Teo]] "se queda calladito" en el círculo de canciones mientras sus compañeros [[PEER|José "Pepe" Martínez]] y [[PEER|Juan "Juanito" Torres]] ya cantan frases completas.
+
+Abuela [[FAMILY|Rosa Ramírez]], quien cuida a [[CHILD|Teo]] en las mañanas antes de la guardería, comenta: "Yo le hablo mucho, le canto, pero él casi no me repite nada. Su hermana [[SIBLING|Lupita]] a esa edad ya hablaba hasta por los codos." Fam. niega regresión de habilidades; refieren progreso lento pero constante desde el IFSP inicial.
+
+Rutinas diarias: [[CHILD|Teo]] se levanta aprox. [[TIME|7:00 a.m.]], desayuno en casa con abuela, luego a [[DAYCARE|Little Learners Daycare]] de [[TIME|8:30 a.m.]] a [[TIME|4:30 p.m.]]. Ahí recibe sesiones del [[AGENCY|Little Learners Program]] dos veces por semana. Después de la guardería, mamá lo recoge y hacen rutina de baño, cena y cuento antes de dormir aprox. [[TIME|8:00 p.m.]]. Fam. reporta buena rutina de sueño, sin problemas de alimentación mayores salvo selectividad con texturas (rechaza alimentos "grumosos").
+
+Mamá refiere preocupación adicional por conducta: "Cuando no lo entendemos se tira al piso y llora. Ya no sé si es terquedad o que de veras no puede decir lo que quiere." Fam. niega hx de pérdida auditiva; audiología pasada en [[DATE|9 de abril de 2024]] con resultados normales bilaterales (referido por [[PROVIDER|Dra. Marisol Peña]], audióloga).
+
+Fam. también en contacto con otras agencias: reciben apoyo nutricional de [[AGENCY|WIC]] (oficina de [[PLACE|Greensboro]]) y participaron en taller de [[AGENCY|Smart Start]] sobre desarrollo infantil en [[DATE|agosto de 2025]]. No hay caso abierto con [[AGENCY|DSS]]. Coordinadora [[PROVIDER|Alicia Vega]] confirma que la familia está al día con elegibilidad Medicaid y que la próxima recertificación es en [[DATE|enero de 2027]].
+
+Mamá pregunta directamente: "¿Él va a hablar normal para cuando entre a kinder? Mi sobrino tardó y ahora habla bien, pero quiero saber qué podemos hacer nosotros en casa." Se brinda educación sobre modelo de lenguaje, espera estructurada y estrategias de [[KEEP|Hanen]] para uso diario.
+
+O:
+Sesión de reevaluación de 60 min en el hogar, con juego estructurado y semi-estructurado. [[CHILD|Teo]] edad cronológica [[KEEP|3;8]] al momento de esta nota.
+
+Se readministró [[KEEP|Rossetti Infant-Toddler Language Scale]]: puntaje compuesto en el rango [[KEEP|moderadamente retrasado]], edad equivalente de lenguaje expresivo [[KEEP|18-20 meses]], lenguaje receptivo edad equivalente [[KEEP|30-32 meses]]. Diferencia receptivo-expresivo significativa, consistente con reporte parental.
+
+Se administró [[KEEP|Goldman-Fristoe Test of Articulation-3]]: puntaje estándar [[KEEP|68]], percentil [[KEEP|<1]]. Inventario fonético limitado a /m, n, p, b, t, d, w/; ausencia de /k, g, f, s, l, r/. Produjo "[[KEEP|tete]]" por "leche", "[[KEEP|pan]]" por "pan" (correcto), "[[KEEP|aba]]" por "agua". Patrones: fronting velar consistente, deleción de consonante final en 8/10 oportunidades, simplificación de grupos consonánticos en 9/10. Inteligibilidad estimada en 30% con oyente desconocido, 60% con fam. familiarizada.
+
+[[KEEP|Bayley Scales of Infant and Toddler Development-4]] (subescala cognitiva, administrada por colega en eval. previa [[DATE|15 de septiembre de 2026]] y revisada hoy): puntaje escalar [[KEEP|9]], dentro de límites normales, descartando dx primario cognitivo.
+
+[[KEEP|Peabody Developmental Motor Scales-2]], subescala motora fina: puntaje estándar [[KEEP|94]], dentro de límites normales. Motor grueso: puntaje estándar [[KEEP|91]]. No hay preocupación motora significativa; coordinación oromotora adecuada para edad en examen informal (protrusión lingual, elevación lingual con min cues, soplo con mod cues).
+
+Muestra de lenguaje espontáneo (SALT, 50 enunciados): MLU [[KEEP|1.4]] morfemas. Predominan enunciados de una palabra; emergente combinación de dos palabras ("[[KEEP|más agua]]", "[[KEEP|no quiero]]"). Se codificaron 3 enunciados ininteligibles [[KEEP|[EW]]]. Vocabulario expresivo estimado en 45 palabras por inventario parental (MacArthur-Bates adaptado), comparado con >200 esperado para edad.
+
+Observación en [[DAYCARE|Little Learners Daycare]] (visita de consulta, [[DATE|30 de septiembre de 2026]], [[TIME|10:15 a.m.]]): [[CHILD|Teo]] en círculo con 8 compañeros incl. [[PEER|Pepe]] y [[PEER|Juanito]]. Usó gesto de señalar y una palabra aislada ("más") para solicitar turno en canción. Maestra [[TEACHER|Patricia Lopez]] reporta uso de apoyo visual tipo [[KEEP|PECS]] iniciado la semana previa con buena aceptación; [[CHILD|Teo]] intercambió 2 íconos por objeto deseado de forma independiente.
+
+En sesión clínica se probó respuesta a claves táctiles-kinestésicas tipo [[KEEP|PROMPT]] para /p/ y /b/ en sílabas CV: produjo /pa/ y /ba/ con mod cues en 7/10 ensayos. Se introdujo estructura de [[KEEP|Cycles]] dirigida al patrón de fronting velar, ciclo 1 dirigido a /k/ en posición inicial; produjo aproximación "[[KEEP|[t]asa]]" por "casa" con min-mod cues, mejora de línea base ([[KEEP|0/10]] a [[KEEP|3/10]] en la sesión).
+
+Se observó interacción madre-hijo en juego libre: mamá usa expansión y imitación de forma natural tras modelado de [[KEEP|Hanen]] en sesión previa. Se incorporaron estrategias de [[KEEP|It Takes Two to Talk]] (seguir el liderazgo del niño, esperar con expectativa) con buena respuesta de mamá y de [[CHILD|Teo]], quien inició 2 turnos comunicativos espontáneos durante 5 min de juego con burbujas.
+
+A:
+[[CHILD|Teo]] presenta trastorno fonológico de moderado a severo y retraso de lenguaje expresivo de moderado a severo, con lenguaje receptivo y habilidades cognitivas y motoras dentro de límites normales según [[KEEP|Bayley-4]] y [[KEEP|Peabody-2]]. El perfil es consistente con trastorno de sonidos del habla primario con impacto secundario en lenguaje expresivo, no explicado por hx auditiva (normal), motora oral estructural, ni cognitiva.
+
+Discrepancia receptivo-expresivo marcada en [[KEEP|Rossetti]] ([[KEEP|30-32 meses]] vs. [[KEEP|18-20 meses]]) y bajo puntaje en [[KEEP|Goldman-Fristoe-3]] ([[KEEP|SS 68]], percentil [[KEEP|<1]]) confirman necesidad continua de servicios directos de habla-lenguaje. Patrones fonológicos (fronting velar, deleción final, simplificación de grupos) son apropiados para abordaje con enfoque de [[KEEP|Cycles]] dado el número de procesos involucrados y la ininteligibilidad funcional.
+
+Progreso notado desde eval. inicial en [[DATE|2 de marzo de 2024]]: vocabulario expresivo aumentó de ~10 a 45 palabras; emergió combinación de 2 palabras; respuesta positiva a introducción de [[KEEP|PECS]] en entorno de [[DAYCARE|Little Learners Daycare]] sugiere que apoyo aumentativo temporal puede reducir frustración conductual reportada por fam. mientras avanza el habla verbal.
+
+Conducta de frustración (tirarse al piso, llanto) se interpreta como función comunicativa secundaria a limitación expresiva, no conducta primaria disruptiva; se espera mejora con aumento de medios de comunicación funcional (gestos, [[KEEP|PECS]], aproximaciones verbales).
+
+Familia motivada, participativa y con buena implementación de estrategias enseñadas (confirmado en observación directa de interacción madre-hijo). Apoyo de abuela [[FAMILY|Rosa Ramírez]] y disponibilidad de tío [[FAMILY|Jesús "Chuy" Ramírez]] como cuidador de respaldo son fortalezas del sistema de apoyo. [[CHILD|Teo]] cumple criterios de elegibilidad continua para [[AGENCY|CDSA del Piedmont]] bajo retraso de comunicación de 25% o más según [[KEEP|Rossetti]] y [[KEEP|Goldman-Fristoe-3]].
+
+P:
+Se continúan servicios de patología del habla-lenguaje, 2x/semana, 45 min/sesión, en el hogar y en [[DAYCARE|Little Learners Daycare]] en coordinación con el [[AGENCY|Little Learners Program]], a partir de [[DATE|14 de octubre de 2026]] hasta la próxima revisión de IFSP programada para [[DATE|7 de abril de 2027]]. Proveedora: [[PROVIDER|Daniela Fuentes Morales]], CCC-SLP, [[EMPLOYER|Servicios Terapéuticos Bilingües de Carolina, PLLC]].
+
+Resultado de IFSP [[KEEP|#1]] (lenguaje expresivo): [[CHILD|Teo]] combinará 2-3 palabras de forma espontánea en al menos 4 de 5 oportunidades durante rutinas diarias (comida, juego, baño) para la próxima revisión. Estrategias: modelado de expansión y [[KEEP|Hanen]] (seguir el liderazgo del niño, OWL: observar-esperar-escuchar), uso continuo de [[KEEP|It Takes Two to Talk]] con mamá y abuela, apoyo visual con [[KEEP|PECS]] como puente mientras aumenta lenguaje verbal, a retirarse gradualmente según tolerancia.
+
+Resultado de IFSP [[KEEP|#2]] (fonología): [[CHILD|Teo]] producirá /k/ y /g/ en posición inicial de palabra en el 70% de oportunidades en habla espontánea estructurada. Estrategia: enfoque de [[KEEP|Cycles]], ciclos de 60 días por patrón fonológico, iniciando con velares, seguido de deleción de consonante final; uso de claves táctiles tipo [[KEEP|PROMPT]] según necesidad para colocación articulatoria. Se considerará enfoque [[KEEP|Kaufman]] para praxis de producción de palabras si no se observa progreso adecuado con [[KEEP|Cycles]] en la próxima revisión.
+
+Resultado de IFSP [[KEEP|#3]] (comunicación funcional/conductual): [[CHILD|Teo]] usará medio de comunicación aceptable (palabra, gesto, o [[KEEP|PECS]]) en lugar de conducta de frustración en 8/10 oportunidades observadas en guardería y hogar. Estrategia: fam. y [[TEACHER|Patricia Lopez]] mantienen consistencia en apoyo visual [[KEEP|PECS]] iniciado en [[DAYCARE|Little Learners Daycare]]; refuerzo inmediato de cualquier intento comunicativo antes de que escale la frustración.
+
+Se coordina con coordinadora de servicios [[PROVIDER|Alicia Vega]] ([[AGENCY|CDSA del Piedmont]]) seguimiento de elegibilidad Medicaid antes de recertificación en [[DATE|enero de 2027]] y revisión de transición a servicios preescolares (Parte B) a partir de los 2;6 años restantes para evaluación de transición, programada tentativamente para [[DATE|julio de 2027]].
+
+Se brinda a fam. hoja de estrategias [[KEEP|Hanen]] en español para uso en rutinas de comida y baño, y se refuerza uso de espera estructurada ("cuenta hasta 5 en silencio") antes de dar modelo verbal, para fomentar iniciación espontánea de [[CHILD|Teo]].
+
+Se notifica a fam. que pueden contactar a [[AGENCY|WIC]] y [[AGENCY|Smart Start]] para recursos adicionales de desarrollo infantil disponibles en [[PLACE|Condado de Guilford]]; coordinadora [[PROVIDER|Alicia Vega]] compartirá lista de recursos actualizada por correo a mamá.
+
+Próxima cita de tx regular: [[DATE|15 de octubre de 2026]], [[TIME|3:30 p.m.]], en domicilio familiar. Próxima revisión formal de IFSP: [[DATE|7 de abril de 2027]]. Padre [[PARENT|Jorge Hernández]] solicita que se le incluya por tel. en próximas revisiones dado su horario laboral; se registra preferencia en expediente y se notifica a coordinadora [[PROVIDER|Alicia Vega]].
+
+Firma: [[PROVIDER|Daniela Fuentes Morales]], M.S., CCC-SLP
+[[EMPLOYER|Servicios Terapéuticos Bilingües de Carolina, PLLC]]
+Fecha de la nota: [[DATE|7 de octubre de 2026]]

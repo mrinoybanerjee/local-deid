@@ -1,0 +1,28 @@
+Client: [[CHILD|Mateo Hernández Cruz]]
+DOB: [[DATE|August 5, 2022]]
+Date of Service: [[DATE|October 9, 2026]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+Case/IFSP ID: [[ID|IFSP-2026-0417]]
+Provider: [[PROVIDER|Jennifer Osei, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Pediatric Therapy Associates]]
+Interpreter: [[PROVIDER|Rosa Martínez]]
+Service Location: [[PLACE|214 Maple Grove Lane, Hickory, NC 28601]]
+Phone: [[PHONE|(828) 555-0192]]
+Email: [[EMAIL|intake@carolinapedstherapy.org]]
+Agency: [[AGENCY|Piedmont CDSA]]
+
+NOTA DE SESIÓN / SESSION NOTE
+
+S (Subjective):
+Interpreter [[PROVIDER|Rosa Martínez]] assisted for the full session. Su mamá, [[PARENT|Lucía Hernández]], reported, "[[CHILD|Mateo]] durmió mal anoche porque tuvo tos." She shared that she now works two jobs — overnight turnos at [[ORG|DHHS]] and weekend shifts cleaning at a nearby motel — so [[CHILD|Mateo]]'s abuela, [[FAMILY|Elena Cruz]], brings him to most appointments. His older sister, [[SIBLING|Camila Hernández]], sometimes helps translate instructions at home. [[PARENT|Lucía Hernández]] added that [[CHILD|Mateo]]'s papá, [[PARENT|Carlos Hernández]], is back in [[PLACE|Aldea San Isidro, Honduras]] visiting his mother and will return [[DATE|November 2, 2026]]. [[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Daycare]], where his teacher, [[TEACHER|Ms. Lopez]], says he plays well with his friend [[PEER|Diego]] but "le cuesta" following two-step directions in English during circle time.
+
+O (Objective):
+Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest; standard score [[KEEP|78]] (confidence interval [[KEEP|73-83]]), age equivalent [[KEEP|2;6–3;0]]. Expressive Communication standard score [[KEEP|81]], [[KEEP|11th percentile]]. [[CHILD|Mateo]] produced /k/ for /t/ in "[[KEEP|tapa]]" (target "[[KEEP|capa]]"), consistent with prior [[KEEP|CELF-5]] findings. He imitated target words with [[KEEP|mod cues]] [[KEEP|6/10]] trials using [[KEEP|PROMPT]] touch cues. Birth history per chart: [[KEEP|Apgar]] [[KEEP|8/9]], gestational age [[KEEP|36 weeks]], birth weight [[KEEP|5 lb 6 oz]].
+
+A (Assessment):
+At [[KEEP|4;2]], [[CHILD|Mateo]] continues to qualify under [[KEEP|ICD-10]] code [[KEEP|F80.1]], expressive language disorder. He showed progress toward [[KEEP|IFSP Outcome 2]], producing two-word combinations "[[KEEP|more juice]]" and "[[KEEP|go car]]" spontaneously, [[KEEP|3 of 5]] opportunities, up from baseline. Spoke briefly by phone with his pediatrician, [[PROVIDER|Dr. Angela Foster]], who will re-check hearing given recurrent ear infections. Coordinated with OT [[PROVIDER|Sarah Kim]] and PT [[PROVIDER|David Chen]], who both see [[CHILD|Mateo]] at [[AGENCY|Piedmont CDSA]] on Tuesdays. Service coordinator [[PROVIDER|Monica Diaz]] confirmed the IFSP review is scheduled for [[DATE|January 14, 2027]].
+
+P (Plan):
+Continue twice-weekly sessions at [[TIME|9:30 AM]]. Recommend home practice: [[PARENT|Lucía Hernández]] and [[FAMILY|Elena Cruz]] will model short phrases during mealtime, "más jugo" instead of pointing. Explore [[KEEP|Hanen]] "It Takes Two to Talk" strategies, since mamá works until [[TIME|11:00 PM]] most nights and availability is limited. Will send a simplified home sheet in Spanish. Next session scheduled [[DATE|October 16, 2026]] at [[PLACE|214 Maple Grove Lane, Hickory, NC 28601]]; [[PROVIDER|Rosa Martínez]] confirmed as interpreter. Questions can go to [[PHONE|(828) 555-0192]] or [[EMAIL|intake@carolinapedstherapy.org]]. CPT code billed: [[KEEP|92507]].
+
+Signed: [[PROVIDER|Jennifer Osei, M.S., CCC-SLP]]

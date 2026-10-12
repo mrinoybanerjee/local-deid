@@ -1,0 +1,22 @@
+Child: [[CHILD|Guadalupe Hernández Flores]] ("[[CHILD|Lupita]]")    DOB: [[DATE|March 14, 2021]]    Case ID: [[ID|CDSA-NC-204871]]    Medicaid ID: [[MEDICAID_ID|882746130F]]
+
+Session Date: [[DATE|October 9, 2026]]    Start: [[TIME|9:00 AM]]    End: [[TIME|9:45 AM]]    Location: home, [[PLACE|412 Willow Bend Lane, Garner, NC 27529]]
+
+CDSA: [[AGENCY|Centro de Desarrollo y Discapacidades Infantiles de la Región Central]] ([[AGENCY|CDSA]])    Service Coordinator Agency: [[AGENCY|Agencia de Coordinación de Servicios para la Niñez Temprana del Condado de Wake]] ([[AGENCY|ACSNT]])    Service Coordinator: [[PROVIDER|Ana Gómez]]
+
+Horario de sesiones / Session Schedule:
+Lunes    [[TIME|9:00 AM]]–[[TIME|9:45 AM]]    home, [[PLACE|412 Willow Bend Lane, Garner, NC]]
+Miércoles    [[TIME|2:00 PM]]–[[TIME|2:30 PM]]    daycare, [[DAYCARE|Little Sprouts Early Learning Center]]
+Viernes    [[TIME|10:15 AM]]–[[TIME|11:00 AM]]    teleterapia / telehealth
+
+Historia de nacimiento y médica: [[CHILD|Lupita]] nació en [[HOSPITAL|WakeMed Faison Women's Hospital]] el [[DATE|March 14, 2021]] a las [[KEEP|34 weeks]] gestacional, con [[KEEP|Apgar 6/8]] y peso al nacer de [[KEEP|4 lb 11 oz]]. Pasó [[KEEP|18 days]] en la [[HOSPITAL|NICU de WakeMed]] bajo el cuidado de la Dra. [[PROVIDER|Priya Patel]], neonatóloga, y el Dr. [[PROVIDER|Samuel Ruiz]], pediatra de seguimiento.
+
+S: Su mamá, [[PARENT|Rosa Flores Martínez]], reportó: "[[CHILD|Lupita]] dice más palabras en casa, pero todavía mezcla español e inglés en la misma frase." Su papá [[PARENT|Miguel Hernández Ortiz]] estuvo presente. La abuela [[FAMILY|Carmen Flores]], quien cuida a los niños por las tardes, comentó que el hermano [[SIBLING|Jesús "Chuy" Hernández Flores]] ayuda a traducir, y que el primo [[FAMILY|José "Pepe" Martínez]] viene los fines de semana a jugar con ella.
+
+O: [[CHILD|Lupita]] completó el [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] [[KEEP|standard score 73]] ([[KEEP|3rd percentile]]), [[KEEP|Expressive Communication]] [[KEEP|82]] ([[KEEP|12th percentile]]), rango de confianza [[KEEP|68-78]]. Produjo [[KEEP|/p/]], [[KEEP|/m/]] y [[KEEP|/t/]] correctamente; sustituyó [[KEEP|/k/]] por [[KEEP|[t]]] en "[[KEEP|taza]]" dicho como "[[KEEP|tasa]]." Logró [[KEEP|8/10]] nombrando objetos con [[KEEP|mod cues]], usando [[KEEP|PROMPT]].
+
+A: Progreso hacia [[KEEP|IFSP Goal 2]]. En daycare, su maestra [[TEACHER|Ms. Patterson]] reporta que [[CHILD|Lupita]] juega con compañeros [[PEER|Teo]] y [[PEER|Juanito]] usando gestos y una palabra, buena señal para la comunicación social.
+
+P: Continuar [[KEEP|Hanen]] en casa; coordinar con [[PROVIDER|Ana Gómez]] revisión de IFSP el [[DATE|November 18, 2026]]. Contacto: [[PHONE|(919) 555-0148]], [[EMAIL|rosa.flores.familia@example.com]].
+
+Clinician: [[PROVIDER|Elena Vásquez, M.S., CCC-SLP]]    Employer: [[EMPLOYER|Carolina Bilingual Pediatric Therapy, PLLC]]

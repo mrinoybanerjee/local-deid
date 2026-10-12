@@ -1,0 +1,17 @@
++ Name: [[CHILD|Mateo Fernández Cruz]]
++ CA: [[KEEP|4;2]]
++ Context: Sesión de terapia del habla y lenguaje en el hogar, [[DATE|14 de octubre de 2026]], [[TIME|3:30 p.m.]], bajo el IFSP coordinado por el [[AGENCY|CDSA de Durham]]; próxima revisión del plan el [[DATE|2 de enero de 2027]].
+
+**Resumen (nota SOAP)**
+
+**S (Subjetivo):** La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Fernández]], cuenta que la semana fue difícil en [[DAYCARE|Little Learners Daycare]], ubicado en [[PLACE|142 Maple Creek Lane, Durham, NC 27703]]. Su maestra, la Sra. [[TEACHER|Ortiz]], reportó que [[CHILD|Mateo]] mordió a su compañero [[PEER|Diego]] durante el recreo. [[PARENT|Lucía]] trabaja de noche en [[ORG|Carolina Poultry Processing]] como operadora de línea de empaque, así que el papá, [[PARENT|Hugo Fernández]], suele llevarlo a las sesiones. La abuela materna, [[FAMILY|Doña Rosa]], cuida a [[CHILD|Mateo]] los fines de semana; dice que el perro de la casa, [[PET|Toby]], ladra mucho de noche, y cuando esto pasa [[CHILD|Mateo]] dice "[[PET|Toby]] no" para calmarlo.
+
+Antes de entrar a [[DAYCARE|Little Learners Daycare]] en [[DATE|agosto de 2026]], [[CHILD|Mateo]] asistió a [[DAYCARE|Rayitos de Luz]], un programa preescolar comunitario pequeño. Nació en [[PLACE|la vereda El Progreso]], cerca de [[PLACE|Girardot, Colombia]], y la familia se mudó a [[PLACE|Durham]] cuando él tenía [[KEEP|18 meses]].
+
+**O (Objetivo):** La sesión se realizó bajo el [[EMPLOYER|Little Learners Program]], trabajando el objetivo 2 del IFSP (comunicación expresiva). Se usó el enfoque [[KEEP|Hanen]] junto con tarjetas de [[KEEP|PECS]] para fomentar peticiones espontáneas. [[CHILD|Mateo]] produjo la palabra "[[KEEP|pan]]" con sustitución de [[KEEP|/p/]] por [[KEEP|[b]]] en [[KEEP|4 de 5]] ensayos, mejorando frente a la sesión previa ([[KEEP|1 de 5]]). En la prueba [[KEEP|PLS-5]], subprueba de Comunicación Expresiva, obtuvo una puntuación estándar de [[KEEP|78]] (percentil [[KEEP|7]]), con un intervalo de confianza de [[KEEP|73-83]] y edad equivalente de [[KEEP|2;6–3;0]]. Necesitó [[KEEP|mod cues]] para imitar [[KEEP|/k/]] en posición inicial, logrando [[KEEP|3 de 5]] con la clave táctil.
+
+Durante la sesión llamó la coordinadora de servicios, [[PROVIDER|Ana Beltrán]], del [[AGENCY|CDSA de Durham]], al número [[PHONE|(919) 555-0148]], para confirmar la reunión del IFSP del [[DATE|15 de noviembre de 2026]] a las [[TIME|10:00 a.m.]]. El intérprete, [[PROVIDER|Carlos Medina]], tradujo las indicaciones del pediatra, el Dr. [[PROVIDER|Steven Hale]], del [[HOSPITAL|Duke Children's Hospital]], tras una consulta reciente por otitis media recurrente.
+
+**A (Análisis):** [[CHILD|Mateo]] muestra progreso leve en inteligibilidad, pero sigue calificando para servicios bajo el caso [[ID|DUR-48291]] y el número de Medicaid [[MEDICAID_ID|987654321A]]. Su hermana mayor, [[SIBLING|Valentina]], practica tarjetas con él en casa algunas tardes, y la niñera ocasional, [[FAMILY|Marisol Castro]], refuerza las mismas señas cuando [[PARENT|Lucía]] trabaja de noche. El progreso fonológico es consistente con la meta establecida en [[DATE|marzo de 2026]].
+
+**P (Plan):** Continuar sesiones semanales los lunes a las [[TIME|3:30 p.m.]] a través de [[EMPLOYER|Little Learners Program]]. Coordinar con la Sra. [[TEACHER|Ortiz]] en [[DAYCARE|Little Learners Daycare]] sobre estrategias para el recreo y enviar el informe a [[PROVIDER|Ana Beltrán]] al correo [[EMAIL|ana.beltran@cdsadurham.org]]. Próxima cita programada: [[DATE|21 de octubre de 2026]].

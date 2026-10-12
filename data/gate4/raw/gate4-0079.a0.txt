@@ -1,0 +1,37 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Fecha: [[DATE|11/09/2026]] Hora: [[TIME|9:15 a. m.]]–[[TIME|9:45 a. m.]]
+Cliente: [[CHILD|Nicolás Prado Salceda]] Edad: [[KEEP|4;2]]
+Expediente: [[ID|NC-SP-608314]]
+Medicaid: [[MEDICAID_ID|684209731Q]]
+Profesional: [[PROVIDER|Elisa Torralba]], patóloga bilingüe del habla y lenguaje.
+Empresa: [[EMPLOYER|Comunicación Infantil Brisal]]
+Ubicación: [[PLACE|284 Calle del Lirio]], [[PLACE|Valleverde]], Carolina del Norte, [[PLACE|27583]].
+
+[X] Hogar  [ ] Guardería  [ ] Clínica
+[X] Español  [X] Inglés
+[X] Madre presente  [ ] Intérprete
+Diagnóstico: [[KEEP|F80.2]] Procedimiento: [[KEEP|92507]] Modificador: [[KEEP|GN]]
+
+S — Información familiar
+Su mamá, [[PARENT|Marina Salceda]], informó que [[CHILD|Nicolás]] pidió ayuda durante el desayuno. Su hermana [[SIBLING|Sol]] participó en juegos de turnos. La familia asiste al programa de cuentos del [[AGENCY|Centro Comunitario Senderos del Laurel]]. Su tía [[FAMILY|Rosa Prado]] practica canciones durante el cuidado vespertino. La madre trabaja en [[ORG|Costuras Nube Clara]]. No informó cambios de salud ni dificultades nuevas para escuchar.
+
+O — Observaciones y actividades
+[X] Juego compartido  [X] Modelado  [X] Rutina familiar
+Se aplicaron estrategias de [[KEEP|Hanen]] durante juego con animales y merienda simulada. El niño produjo peticiones de dos palabras en [[KEEP|8/10]] oportunidades con [[KEEP|apoyos mínimos]]. Identificó acciones en [[KEEP|6/10]] oportunidades con [[KEEP|apoyos moderados]]. Practicó el fonema [[KEEP|/s/]] con las palabras objetivo [[KEEP|«sol»]] y [[KEEP|«sopa»]]. La primera palabra coincide con el nombre de su hermana [[SIBLING|Sol]]; aquí se practicó como vocabulario sobre el clima.
+
+Registro de evaluación previa; no se administraron pruebas hoy:
+Prueba | Subprueba | Fecha | Puntuación estándar | Percentil | IC [[KEEP|90 %]]
+[[KEEP|PLS-5 Spanish]] | [[KEEP|Comprensión auditiva]] | [[DATE|26/08/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]]
+[[KEEP|PLS-5 Spanish]] | [[KEEP|Comunicación expresiva]] | [[DATE|26/08/2026]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|76-88]]
+
+La muestra incluyó [[KEEP|«quiero sopa»]] y «[[SIBLING|Sol]] viene». Al ver al perro familiar, dijo «[[PET|Milo]] corre». Se registró [[KEEP|[EW]]] cuando agregó una palabra fuera del contexto. La docente [[TEACHER|Dalia Treviño]], de [[SCHOOL|Preescolar Jardín del Roble]], había informado participación breve con su compañero [[PEER|Iván Cerezo]].
+
+A — Interpretación
+El niño mantuvo la atención con pausas y elecciones visuales. Respondió mejor cuando la madre esperó antes de repetir la pregunta. Las peticiones fueron más independientes que las descripciones. Las producciones en ambos idiomas aportaron información funcional; las puntuaciones previas se interpretan junto con la observación y el informe familiar.
+
+P — Plan
+[X] Continuar intervención  [X] Educación familiar
+Practicar peticiones durante una rutina diaria, sin exigir repeticiones. Mantener el objetivo del IFSP [[KEEP|2]] y revisar generalización en la próxima visita, [[DATE|18/09/2026]]. La coordinadora [[PROVIDER|M. R.]] recibirá el registro mediante el expediente interno. Contacto familiar: [[PHONE|919-555-0148]], [[EMAIL|marina.salceda@example.com]].
+
+Firma: [[PROVIDER|Elisa Torralba]].

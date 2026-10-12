@@ -1,0 +1,37 @@
+Nota de Sesión Diaria — Terapia de Habla-Lenguaje
+
+Cliente: [[CHILD|Mateo Fuentes]] (varón, [[KEEP|4;2]])
+Fecha de sesión: [[DATE|October 9, 2026]]
+Hora: [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Proveedor: [[PROVIDER|Catalina Vargas]], MS, CCC-SLP, bilingüe
+Empleadora: [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]] ("[[EMPLOYER|CPSLS]]", también conocida como "[[EMPLOYER|Carolina Peds Speech]]")
+Lugar: [[DAYCARE|Little Sprouts Daycare]], salón de [[TEACHER|Ms. Lopez]], [[PLACE|412 Birchwood Lane, Cary]], [[PLACE|27518]]
+
+S (Subjetivo):
+Su mamá, [[PARENT|Lucía Fuentes]], reportó por teléfono ([[PHONE|(919) 555-0148]]) que Mateo durmió mal anoche. "Está muy irritable hoy, casi no desayunó," dijo. La maestra, [[TEACHER|Ms. Lopez]], comentó que durante el círculo Mateo empujó a su compañero [[PEER|Diego]] y dijo "no quiero."
+
+O (Objetivo):
+Trabajamos /k/ y /g/ en posición inicial usando [[KEEP|PROMPT]] con [[KEEP|mod cues]]. Produjo [[KEEP|"copa"]] correctamente [[KEEP|8/10]] con [[KEEP|min cues]], y [[KEEP|"gato"]] con [[KEEP|[k]]] por [[KEEP|[g]]] sustitución en [[KEEP|3 of 5]] intentos. Usó tarjetas de [[KEEP|PECS]] para pedir un descanso.
+
+Tabla de puntuaciones (PLS-5):
+Subtest	Puntaje estándar	Percentil	IC 95%	Fecha
+[[KEEP|Comprensión Auditiva]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[DATE|08/14/2026]]
+[[KEEP|Comunicación Expresiva]]	[[KEEP|81]]	[[KEEP|10]]	[[KEEP|76-86]]	[[DATE|08/14/2026]]
+[[KEEP|Habilidad Total]]	[[KEEP|79]]	[[KEEP|8]]	[[KEEP|74-84]]	[[DATE|08/14/2026]]
+
+A (Análisis):
+Mateo sigue mostrando progreso lento pero consistente. El padrastro, [[FAMILY|Tomás Reyes]], quien lo recoge los martes, preguntó si debería reforzar en casa. Hablé con la coordinadora de servicios, [[PROVIDER|Nancy Ortiz]], de la agencia [[AGENCY|CDSA Triangle]], sobre el IFSP Goal #2 ([[KEEP|IFSP Goal #2]]).
+
+P (Plan):
+Continuar sesiones dos veces por semana, [[TIME|9:00 AM]]–[[TIME|9:45 AM]] los lunes y [[TIME|1:30 PM]]–[[TIME|2:15 PM]] los jueves. Coordinar con el pediatra, Dr. [[PROVIDER|Hassan Malik]], en [[HOSPITAL|WakeMed Pediatric Clinic]], sobre evaluación auditiva.
+
+Tabla de contactos:
+Nombre	Relación	Teléfono	Email
+[[PARENT|Lucía Fuentes]]	Madre	[[PHONE|(919) 555-0148]]	[[EMAIL|lucia.fuentes@fakemail.com]]
+[[FAMILY|Tomás Reyes]]	Padrastro	[[PHONE|(919) 555-0193]]	N/A
+[[PROVIDER|Nancy Ortiz]]	Coordinadora	[[PHONE|(919) 555-0271]]	[[EMAIL|nortiz@cdsatriangle.org]]
+
+ID de Medicaid: [[MEDICAID_ID|MC4471829K]]
+ID de caso: [[ID|CPSLS-00234]]
+
+Próxima cita: [[DATE|October 16, 2026]], [[TIME|9:00 AM]], con [[PROVIDER|Catalina Vargas]] en nombre de [[EMPLOYER|CPSLS]].

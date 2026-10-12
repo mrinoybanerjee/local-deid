@@ -1,0 +1,229 @@
+PROGRAMA DE CAROLINA DEL NORTE PARA BEBÉS Y NIÑOS PEQUEÑOS  
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+
+Documento sintético: todas las personas, entidades, ubicaciones y circunstancias descritas son ficticias.
+
+[X] IFSP inicial  [ ] Revisión  [ ] Transición  
+Fecha: [[DATE|10 de septiembre de 2026]]  
+Reunión: inicio [[TIME|9:00 a. m.]]; cierre [[TIME|10:25 a. m.]]  
+[X] Casa  [ ] Guardería  [ ] Oficina  [ ] Videollamada  
+Idioma de la reunión y del documento: español.  
+[X] Participación familiar directa  [ ] Intérprete solicitado
+
+1. INFORMACIÓN DEL NIÑO Y SU FAMILIA
+
+Nombre: [[CHILD|Nicolás Varela Montes]]  
+Nombre que usa la familia: [[CHILD|Nico]]  
+Fecha de nacimiento: [[DATE|10 de abril de 2024]]  
+Edad actual: [[KEEP|2;5]]  
+Número de expediente: [[ID|ITP-FIC-260910-482]]  
+Identificador de Medicaid: [[MEDICAID_ID|000482731Z]]
+
+Madre: [[PARENT|Mariela Montes Rivas]]  
+Padre: [[PARENT|Esteban Varela Cruz]]  
+Hermana: [[SIBLING|Sol Varela Montes]], edad [[KEEP|6;8]]  
+Abuela materna: [[FAMILY|Adela Rivas Peña]]  
+Cuidadora ocasional: [[FAMILY|Teresa Olmeda Ruiz]]
+
+Dirección: [[PLACE|1847 Willow Finch Lane]], apartamento 2B, [[PLACE|Pinar Claro]], Carolina del Norte, [[PLACE|27863]].  
+Condado de residencia: [[PLACE|Loma Serena]].  
+Teléfono principal: [[PHONE|(919) 555-0148]]  
+Teléfono alternativo: [[PHONE|(984) 555-0163]]  
+Correo familiar: [[EMAIL|familia.varela.montes@example.invalid]]
+
+La madre identifica como lugar de origen la aldea de [[PLACE|Las Nubes del Cedral]], Guatemala. La abuela conserva una vivienda en [[PLACE|Calle del Naranjal 18, Barrio Las Palmeras]], [[PLACE|Las Nubes del Cedral]], Guatemala. Esta dirección corresponde a un contacto familiar; no es el domicilio actual del niño.
+
+[X] Español en casa  [X] Exposición al inglés en la comunidad  
+[X] Ambos padres participan en las decisiones  [ ] Tutor adicional
+
+2. EQUIPO Y COORDINACIÓN
+
+Coordinadora de servicios: [[PROVIDER|Elena Pardo Villaseñor]]  
+Agencia: [[AGENCY|CDSA de Loma Serena y Valles del Este]]  
+Oficina: [[PLACE|620 Meadow Lantern Drive]], suite 110, [[PLACE|Pinar Claro]], Carolina del Norte, [[PLACE|27863]].  
+Teléfono: [[PHONE|(919) 555-0122]]  
+Correo: [[EMAIL|elena.pardo@cdsa-ficticia.example.invalid]]
+
+Profesional que redacta este documento: [[PROVIDER|Valeria Castañeda Ríos]], M.S., CCC-SLP, patóloga bilingüe del habla y lenguaje.  
+Empresa empleadora: [[EMPLOYER|Puentes de Voz Terapia Pediátrica, PLLC]]  
+Teléfono profesional: [[PHONE|(984) 555-0186]]  
+Correo profesional: [[EMAIL|valeria.castaneda@puentesdevoz.example.invalid]]  
+Sitio informativo: [[URL|https://puentesdevoz.example.invalid/familias]]
+
+Pediatra: Dra. [[PROVIDER|Mónica Beltrán Sosa]], de [[HOSPITAL|Hospital Infantil Arroyo de Luna]].  
+Educadora de guardería: Sra. [[TEACHER|Beatriz Luján Prado]].
+
+La coordinadora organizará los contactos entre familia, guardería y profesionales. La terapeuta ofrecerá demostraciones en español y materiales breves en ambos idiomas cuando la familia los solicite. Los padres prefieren llamadas después del trabajo y mensajes escritos para confirmar visitas. Cada intercambio externo requerirá la autorización familiar correspondiente.
+
+3. PREOCUPACIONES Y PRIORIDADES FAMILIARES
+
+La mamá [[PARENT|Mariela Montes Rivas]] expresa: “Quiero que [[CHILD|Nico]] pueda decirme qué necesita sin llorar primero. A veces entiendo su mano, pero otras veces adivino mal. Me gustaría escuchar una palabra para agua, ayuda o más durante nuestras actividades normales”.
+
+El papá [[PARENT|Esteban Varela Cruz]] expresa: “Cuando regreso, quiero jugar con él y entender lo que me cuenta. No buscamos que repita todo. Queremos que encuentre una manera de empezar una conversación y que disfrute estar con nosotros”.
+
+La familia ordena sus prioridades así:
+
+1. Facilitar peticiones durante comidas y juegos.
+2. Aumentar los turnos compartidos con adultos y niños.
+3. Reducir la frustración durante cambios de actividad.
+4. Compartir estrategias sencillas entre casa y guardería.
+
+La madre añade: “El español nos conecta con la abuela. Queremos mantenerlo. Si aprende palabras en inglés también, está bien, pero necesitamos saber cómo acompañarlo sin dejar nuestro idioma”.
+
+[X] Prioridades acordadas  [ ] Se requiere otra reunión
+
+4. FORTALEZAS, RECURSOS Y APOYOS
+
+[[CHILD|Nicolás]] busca compañía, disfruta las canciones con movimientos y lleva objetos al adulto para mostrar interés. Reconoce actividades familiares por sus materiales. Participa mejor cuando el adulto sigue su juego y espera antes de hablar.
+
+La hermana [[SIBLING|Sol]] disfruta mirar libros con él. La abuela [[FAMILY|Adela Rivas Peña]] participa en videollamadas y canta canciones familiares. La cuidadora [[FAMILY|Teresa Olmeda Ruiz]] acepta usar las mismas imágenes para las transiciones.
+
+El padre trabaja en [[ORG|Empaques Brisa del Roble]]. Su horario permite participar en una visita mensual. La madre tiene disponibilidad durante la mañana. La familia cuenta con transporte propio, teléfono y un espacio tranquilo para jugar.
+
+El perro [[PET|Chispa]] motiva intercambios durante el paseo. El vecino [[PERSON|Julián Cerezo Alba]] presta libros infantiles; no participa en decisiones clínicas ni recibe información del expediente.
+
+La familia prefiere materiales que ya tiene: vasos, bloques, fotografías y libros. No solicita compras adicionales.
+
+5. RUTINAS DIARIAS
+
+Despertar: aproximadamente [[TIME|7:10 a. m.]]. El niño busca a un adulto y señala la cocina. El adulto puede ofrecer dos opciones visibles y esperar una respuesta mediante gesto, sonido o palabra.
+
+Desayuno: [[TIME|7:40 a. m.]]. [[CHILD|Nico]] permanece sentado con apoyo familiar. Pide alimentos extendiendo la mano. Se ofrecerán pequeñas oportunidades naturales para pedir otra porción, sin retrasar el acceso a comida o bebida.
+
+Guardería: llegada [[TIME|8:35 a. m.]]; salida [[TIME|12:20 p. m.]]. Asiste a [[DAYCARE|Guardería Semillitas del Arroyo]]. Comparte actividades con [[PEER|Alma Fuentes Lago]] y [[PEER|Gael Serrano Vidal]]. La auxiliar [[TEACHER|Lorena Sáenz Mena]] acompaña las transiciones.
+
+Almuerzo: [[TIME|12:45 p. m.]]. Descanso: [[TIME|1:30 p. m.]]. Juego familiar: [[TIME|5:20 p. m.]]. Cena: [[TIME|6:15 p. m.]]. Baño: [[TIME|7:00 p. m.]]. Lectura: [[TIME|7:30 p. m.]]. Sueño: cerca de [[TIME|8:00 p. m.]].
+
+La hermana asiste a [[SCHOOL|Escuela Primaria Sendero del Colibrí]]. Al regresar, ambos niños juegan con animales de plástico. La familia identifica ese momento como una oportunidad agradable para practicar turnos.
+
+6. EVALUACIÓN Y FUNCIONAMIENTO ACTUAL
+
+Evaluación del lenguaje: [[DATE|27 de agosto de 2026]].  
+Sesión: inicio [[TIME|10:05 a. m.]]; fin [[TIME|11:00 a. m.]].  
+Edad durante la evaluación: [[KEEP|2;4]].
+
+Instrumento: [[KEEP|PLS-5 Spanish]].  
+Comprensión auditiva: puntuación estándar [[KEEP|82]]; percentil [[KEEP|12]].  
+Comunicación expresiva: puntuación estándar [[KEEP|76]]; percentil [[KEEP|5]].  
+Lenguaje total: puntuación estándar [[KEEP|78]]; percentil [[KEEP|7]].
+
+Estos resultados describen una parte del desempeño. El equipo también consideró entrevistas, observación y oportunidades de comunicación en español e inglés. No atribuye las dificultades al uso de dos idiomas.
+
+Durante el juego, [[CHILD|Nicolás]] siguió instrucciones familiares en [[KEEP|7/10]] oportunidades con apoyo contextual. Inició peticiones en [[KEEP|3/10]] oportunidades. Usó gesto y vocalización juntos en [[KEEP|40%]] de las oportunidades registradas.
+
+Producciones observadas: [[KEEP|"ma"]], [[KEEP|"agua"]], [[KEEP|"no"]], [[KEEP|"más"]], [[KEEP|"guau"]] y [[KEEP|"aquí"]]. La muestra incluyó sustitución de [[KEEP|/k/]] por [[KEEP|/t/]] y aproximaciones con [[KEEP|[w]]]. El análisis descriptivo con [[KEEP|SALT]] incluyó el código [[KEEP|[EW]]].
+
+Código clínico registrado: [[KEEP|ICD-10 F80.2]]. Servicio previsto: [[KEEP|CPT 92507]]. El documento no establece otras condiciones médicas.
+
+7. RESULTADO FUNCIONAL: EXPRESAR NECESIDADES
+
+Resultado: durante comidas, juego y baño, [[CHILD|Nico]] comunicará una necesidad mediante gesto, imagen, aproximación verbal o palabra. La familia reconocerá el mensaje y responderá.
+
+Situación inicial: los adultos suelen interpretar señales sin una confirmación clara. El niño necesita [[KEEP|mod cues]] para combinar una señal con una vocalización.
+
+Criterio: comunicará necesidades en [[KEEP|8/10]] oportunidades naturales durante tres registros familiares consecutivos, en dos rutinas distintas. Se aceptarán respuestas en cualquiera de sus idiomas.
+
+Estrategias:
+
+1. Colocar dos opciones accesibles y nombrarlas una vez.
+2. Esperar con atención, sin exigir repetición.
+3. Responder al intento y ampliar el mensaje con una palabra.
+4. Modelar los objetivos [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"ayuda"]] y [[KEEP|"abre"]].
+5. Registrar ejemplos breves después de la rutina.
+
+La terapeuta demostrará cada estrategia y observará al adulto probarla. La familia podrá ajustar la espera cuando el niño tenga hambre, cansancio o frustración.
+
+Fecha prevista de logro: [[DATE|10 de diciembre de 2026]].
+
+8. RESULTADO FUNCIONAL: COMPARTIR JUEGO Y PALABRAS
+
+Resultado: [[CHILD|Nicolás]] mantendrá intercambios de juego con un adulto o niño durante actividades que elija.
+
+Situación inicial: sostiene dos turnos con objetos preferidos. Puede alejarse cuando recibe varias preguntas seguidas.
+
+Criterio: completará cuatro turnos compartidos en [[KEEP|4/5]] oportunidades, con [[KEEP|min cues]], durante dos semanas de observación.
+
+Estrategias:
+
+1. Imitar una acción que el niño ya realiza.
+2. Añadir una acción breve y esperar su respuesta.
+3. Comentar lo que ocurre con frases cortas.
+4. Usar canciones, animales y libros como invitaciones.
+5. Permitir que el niño termine o cambie el juego.
+
+En un libro del cielo, la palabra objetivo será [[KEEP|"sol"]]. La hermana [[SIBLING|Sol]] podrá señalar la ilustración si desea participar. El objetivo [[KEEP|"sol"]] nombra el astro en esa actividad; el nombre de la hermana identifica a una persona. Ambos usos se registrarán por separado.
+
+También se aceptará la producción [[KEEP|"mi turno"]]. Ninguna aproximación requerirá corrección repetida para continuar jugando.
+
+Fecha prevista de logro: [[DATE|10 de diciembre de 2026]].
+
+9. RESULTADO FUNCIONAL: TRANSICIONES COMPRENSIBLES
+
+Resultado: la familia y el personal ayudarán a [[CHILD|Nico]] a pasar del juego a otra rutina con una señal predecible.
+
+Situación inicial: algunas transiciones producen llanto cuando se retira un objeto sin aviso. La familia reconoce mejores respuestas cuando muestra lo que viene después.
+
+Criterio: participará en la transición con apoyo visual y una instrucción breve en [[KEEP|80%]] de las oportunidades registradas durante dos semanas. El registro incluirá el apoyo necesario, sin clasificar el llanto como fracaso.
+
+Estrategias:
+
+1. Mostrar una fotografía de la siguiente actividad.
+2. Usar la misma frase breve antes del cambio.
+3. Ofrecer una acción de cierre, como guardar un bloque.
+4. Permitir un objeto de acompañamiento cuando sea posible.
+5. Reconocer el mensaje y ayudar a regularse.
+
+La educadora [[TEACHER|Beatriz Luján Prado]] probará las imágenes durante la salida. Los padres las usarán antes del baño. El equipo revisará si la señal resulta clara y accesible.
+
+Fecha prevista de logro: [[DATE|10 de diciembre de 2026]].
+
+10. SERVICIOS, FRECUENCIA Y ENTORNO
+
+[X] Intervención en entornos naturales  [X] Acompañamiento a cuidadores  
+[ ] Servicio exclusivamente individual  [ ] Transporte especializado
+
+Habla y lenguaje: una sesión semanal de 45 minutos, presencial en casa. Proveedora: [[PROVIDER|Valeria Castañeda Ríos]], de [[EMPLOYER|Puentes de Voz Terapia Pediátrica, PLLC]].
+
+Inicio: [[DATE|17 de septiembre de 2026]].  
+Fin de este período: [[DATE|10 de diciembre de 2026]].  
+Horario habitual: inicio [[TIME|10:00 a. m.]]; cierre [[TIME|10:45 a. m.]].
+
+Coordinación de servicios: un contacto mensual y contactos adicionales según necesidad familiar. Responsable: [[PROVIDER|Elena Pardo Villaseñor]]. Período: [[DATE|10 de septiembre de 2026]] a [[DATE|10 de diciembre de 2026]].
+
+Visita de colaboración en guardería: [[DATE|8 de octubre de 2026]], de [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]], con autorización familiar. Esta visita sustituirá la sesión domiciliaria de esa semana.
+
+El hogar permite practicar las prioridades en rutinas reales. No se propone otro entorno para este período. La familia podrá solicitar cambios por enfermedad, trabajo o necesidades del niño.
+
+11. OTRAS AGENCIAS Y SEGUIMIENTO
+
+[X] Apoyo nutricional  [X] Recursos comunitarios  [ ] Protección infantil activa
+
+La familia recibe orientación de [[AGENCY|WIC de Loma Serena]]. Solicita que la coordinación confirme materiales disponibles en español. No autoriza compartir resultados clínicos para esa consulta.
+
+[[AGENCY|Smart Start del Valle de los Faroles]] ofrece préstamos de libros y actividades familiares. La madre desea información sobre horarios accesibles.
+
+[[AGENCY|Departamento de Servicios Sociales de Loma Serena]] orientó a la familia sobre transporte comunitario. No mantiene un servicio activo en este plan.
+
+Seguimiento pediátrico previsto: [[DATE|22 de septiembre de 2026]]. La familia llevará sus preguntas sobre audición. El equipo registrará cualquier resultado que los padres compartan.
+
+La coordinadora verificará contactos antes de enviar información. La autorización de intercambio identificará destinatario, propósito y documentos permitidos. La familia puede limitar o retirar esa autorización.
+
+12. PARTICIPACIÓN, REVISIÓN Y ACUERDOS
+
+Los padres participaron en la selección de resultados y estrategias. La terapeuta leyó el plan en español y pidió ejemplos para confirmar que cada propuesta encajara en las rutinas.
+
+La mamá [[PARENT|Mariela Montes Rivas]] concluye: “Podemos empezar con el desayuno y los libros. Si una estrategia nos complica el día, queremos cambiarla juntos”.
+
+El papá [[PARENT|Esteban Varela Cruz]] añade: “Voy a practicar durante el juego cuando llegue. Quiero que nos enseñen cómo reconocer sus intentos”.
+
+[X] Copia en español solicitada  
+[X] Prioridades y servicios revisados  
+[X] Acuerdo verbal registrado para este documento sintético  
+[ ] Firma auténtica incluida
+
+Próxima revisión: [[DATE|10 de diciembre de 2026]], inicio [[TIME|9:00 a. m.]]; cierre previsto [[TIME|10:00 a. m.]].
+
+El equipo revisará ejemplos familiares, participación y apoyos necesarios. Ajustará estrategias según los resultados y las preferencias de la familia. Si una prioridad cambia antes, la coordinadora organizará una revisión anticipada.
+
+Redactado por [[PROVIDER|Valeria Castañeda Ríos]], M.S., CCC-SLP, patóloga bilingüe del habla y lenguaje.  
+Fecha de redacción: [[DATE|10 de septiembre de 2026]].

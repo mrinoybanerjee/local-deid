@@ -1,0 +1,68 @@
+Resumen de la Revisión del Plan Individualizado de Servicios para la Familia (IFSP)
+[[AGENCY|Centro de Desarrollo y Discapacidades del Área de Piedmont Central]] ([[AGENCY|CDSA de Piedmont Central]])
+Programa de Infantes y Niños Pequeños de Carolina del Norte (NC ITP)
+
+Información de la niña
+Nombre: [[CHILD|María José Hernández Soto]]
+Fecha de nacimiento: [[DATE|14 de febrero de 2023]]
+Número de identificación del NC ITP: [[ID|ITP-048291]]
+Número de Medicaid: [[MEDICAID_ID|920456731A]]
+Número de identificación de miembro del seguro privado: [[ID|W884215902]]
+Número de expediente/autorización: [[ID|CDSA-2026-01837]]
+Fecha del IFSP inicial: [[DATE|10 de marzo de 2026]]
+Fecha de esta revisión: [[DATE|2 de octubre de 2026]]
+
+Información de la familia
+Madre: [[PARENT|Lucía Fernanda Soto Ramírez]]
+Padre: [[PARENT|Javier Hernández Castillo]]
+Hermano mayor: [[SIBLING|Diego Hernández Soto]], edad [[KEEP|3;6]]... (nota: la niña tiene [[KEEP|2;7]] de edad cronológica; su hermano [[SIBLING|Diego]] tiene seis años)
+Abuela materna/cuidadora: [[FAMILY|Rosa Ramírez Castillo]]
+Dirección: [[PLACE|214 Calle Mimosa]], [[PLACE|Burlington]], Condado de [[PLACE|Alamance]], [[PLACE|27215]]
+Teléfono: [[PHONE|(336) 555-0184]]
+Correo electrónico: [[EMAIL|lsoto.familia@mailcorreo.com]]
+
+Coordinación de servicios
+Coordinadora de Servicios: [[PROVIDER|Patricia Gómez Rivera]], de la [[AGENCY|Agencia de Coordinación de Servicios Comunitarios del Condado de Alamance]] ([[AGENCY|ACS Alamance]]).
+Interprete de español utilizada durante la visita: [[PROVIDER|Marisol Vega Fuentes]], contratada por el [[AGENCY|CDSA de Piedmont Central]] para facilitar la comunicación con la familia en su idioma preferido.
+
+Equipo de proveedores
+Terapeuta ocupacional: [[PROVIDER|Kevin Park]]
+Fisioterapeuta: [[PROVIDER|Rachel Simmons]]
+Pediatra: [[PROVIDER|Dr. Samuel Reyes Molina]], de la clínica pediátrica local
+Patóloga del habla-lenguaje (quien redacta este informe): [[PROVIDER|Ana Beltrán Ortiz]], empleada de [[EMPLOYER|Terapias Pediátricas Carolina del Sol, PLLC]] ([[EMPLOYER|Carolina del Sol Terapias]], abreviado [[EMPLOYER|TPCS]]).
+
+Preocupaciones y prioridades de la familia, en sus propias palabras
+Durante la reunión de revisión, [[PARENT|Lucía Fernanda Soto Ramírez]] expresó, con apoyo de la interprete [[PROVIDER|Marisol Vega Fuentes]]: "Lo que más nos preocupa es que [[CHILD|María José]] todavía no combina palabras. Dice 'mamá' y 'agua', pero no dice frases como '[[KEEP|más agua]]' aunque se lo pedimos muchas veces." El padre, [[PARENT|Javier Hernández Castillo]], añadió: "También notamos que se frustra cuando no la entendemos y empieza a llorar o a jalarnos la ropa. Queremos que aprenda a pedir las cosas sin llorar."
+
+La familia también mencionó que su hijo mayor, [[SIBLING|Diego Hernández Soto]], habla mucho por su hermana y a veces responde por ella antes de que [[CHILD|María José]] tenga oportunidad de intentarlo. La abuela, [[FAMILY|Rosa Ramírez Castillo]], quien cuida a la niña tres tardes por semana mientras los padres trabajan, comentó: "Yo le hablo en español todo el día, pero no sé si debo también usar inglés porque en la guardería le hablan en inglés."
+
+La familia prioriza: (1) que [[CHILD|María José]] combine dos palabras para pedir objetos y acción; (2) que reduzca la frustración y el llanto cuando no se le entiende; (3) que mejore la claridad de su habla con familiares y proveedores; y (4) recibir orientación clara sobre el uso del español y el inglés en casa y en la guardería.
+
+Rutinas diarias
+[[CHILD|María José]] se despierta alrededor de las [[TIME|7:00 de la mañana]] y desayuna con su madre antes de que esta la lleve al [[DAYCARE|Centro de Cuidado Infantil Pequeños Soñadores]] a las [[TIME|8:15 de la mañana]]. Permanece en la guardería hasta las [[TIME|3:30 de la tarde]], cuando su abuela [[FAMILY|Rosa Ramírez Castillo]] la recoge. Las tardes incluyen juego libre, merienda y un paseo corto al parque del vecindario. La cena familiar ocurre alrededor de las [[TIME|6:30 de la tarde]], seguida de baño y rutina de sueño con lectura de cuentos en español. La familia reporta que las comidas y el baño son los momentos de mayor interacción verbal, mientras que el juego con [[SIBLING|Diego Hernández Soto]] es donde más se frustra por no poder expresarse.
+
+Otras agencias involucradas
+La familia recibe beneficios de WIC a través de la oficina local del condado, y la madre mencionó que han solicitado evaluación para Head Start una vez que la niña cumpla la edad de elegibilidad. El [[AGENCY|CDSA de Piedmont Central]] coordina además con el Departamento de Servicios Sociales del condado para verificar la elegibilidad continua de Medicaid bajo el número [[MEDICAID_ID|920456731A]].
+
+Evaluación de habla y lenguaje (resumen)
+La evaluación formal, realizada el [[DATE|20 de febrero de 2026]] por [[PROVIDER|Ana Beltrán Ortiz]] con interpretación de [[PROVIDER|Marisol Vega Fuentes]], utilizó el [[KEEP|Preschool Language Scales-5]] (Escalas de Lenguaje Preescolar, [[KEEP|PLS-5]], versión en español) y el subtest de [[KEEP|Comprensión Auditiva]]. [[CHILD|María José]] obtuvo una puntuación estándar de [[KEEP|70]] en lenguaje expresivo (percentil [[KEEP|2]]) y [[KEEP|73-83]] en el intervalo de confianza, y una puntuación estándar de [[KEEP|78]] en lenguaje receptivo. Produjo aproximadamente [[KEEP|15]] palabras de manera consistente, con inventario fonético limitado a /m/, /p/, /a/ y [[KEEP|[w]]]. No combinó palabras durante la sesión; usó gestos y vocalizaciones en [[KEEP|8/10]] oportunidades de comunicación en lugar de palabras habladas.
+
+Revisión de resultados del IFSP
+
+Resultado/Objetivo	Estrategias	Progreso	Fecha
+1. [[CHILD|María José]] combinará dos palabras (sustantivo + verbo o sustantivo + sustantivo) para pedir objetos y acciones preferidas durante las rutinas de comida y juego, en [[KEEP|4 de 5]] oportunidades observadas.	Modelado de lenguaje expandido usando el enfoque [[KEEP|Hanen]] ("habla menos, muestra más"); encuadre de [[KEEP|dos palabras]] durante merienda y juego con bloques; participación de la abuela [[FAMILY|Rosa Ramírez Castillo]] y la madre [[PARENT|Lucía Fernanda Soto Ramírez]] en casa.	Progreso emergente: combina dos palabras en [[KEEP|3 de 5]] oportunidades estructuradas con [[KEEP|señales mínimas]]; dice '[[KEEP|más agua]]' y '[[KEEP|mamá ven]]' de manera espontánea en casa según reporte familiar. Objetivo continúa.	[[DATE|2 de octubre de 2026]]
+2. [[CHILD|María José]] reducirá los episodios de frustración comunicativa (llanto, jalar ropa) a menos de [[KEEP|2]] episodios por sesión de terapia, usando un sistema de intercambio de imágenes.	Introducción de tarjetas de comunicación basadas en [[KEEP|PECS]] para "más", "ayuda" y "terminado"; coordinación con el equipo de la guardería [[DAYCARE|Centro de Cuidado Infantil Pequeños Soñadores]] para uso consistente; práctica con la terapeuta ocupacional [[PROVIDER|Kevin Park]] durante actividades sensoriales.	Progreso logrado: episodios de frustración disminuyeron de un promedio de [[KEEP|5]] por sesión a [[KEEP|1-2]] por sesión. Usa la tarjeta de "más" de manera independiente en [[KEEP|90%]] de las oportunidades. Objetivo cumplido; se establecerá un nuevo objetivo de comunicación funcional.	[[DATE|2 de octubre de 2026]]
+3. [[CHILD|María José]] aumentará la claridad de su habla produciendo consonantes iniciales /p/, /m/, /t/ en palabras de una sílaba con [[KEEP|máximo apoyo]], en [[KEEP|7 de 10]] intentos durante actividades estructuradas.	Terapia de habla con el enfoque [[KEEP|PROMPT]] para apoyo táctil-kinestésico de la mandíbula y los labios; práctica de palabras objetivo como '[[KEEP|pan]]', '[[KEEP|mamá]]' y '[[KEEP|taza]]' durante la hora de comida; colaboración con la fisioterapeuta [[PROVIDER|Rachel Simmons]] para posicionamiento adecuado durante las sesiones.	Progreso parcial: produce /p/ y /m/ iniciales correctamente en [[KEEP|6 de 10]] intentos con [[KEEP|apoyo moderado]]; /t/ continúa emergente, a menudo sustituida por [[KEEP|[d]]]. Objetivo continúa con ajuste de nivel de apoyo.	[[DATE|2 de octubre de 2026]]
+4. La familia recibirá orientación sobre el desarrollo bilingüe para apoyar el uso consistente del español en casa y del inglés en la guardería, documentado mediante una reunión familiar.	Sesión de consejería lingüística con [[PROVIDER|Ana Beltrán Ortiz]] en español, incluyendo materiales escritos para la abuela [[FAMILY|Rosa Ramírez Castillo]]; coordinación con el personal de la guardería sobre el apoyo en ambos idiomas; seguimiento telefónico con la madre [[PARENT|Lucía Fernanda Soto Ramírez]].	Progreso logrado: la familia reporta mayor confianza en continuar hablando español en casa; la guardería acordó incorporar palabras clave en español durante transiciones. Objetivo cumplido.	[[DATE|2 de octubre de 2026]]
+
+Coordinación continua y próximos pasos
+El equipo, incluyendo a la coordinadora [[PROVIDER|Patricia Gómez Rivera]] de [[AGENCY|ACS Alamance]], acordó continuar los servicios de patología del habla-lenguaje dos veces por semana a través de [[EMPLOYER|Carolina del Sol Terapias]], con sesiones adicionales de terapia ocupacional con [[PROVIDER|Kevin Park]] y consultas periódicas de fisioterapia con [[PROVIDER|Rachel Simmons]] según sea necesario. El pediatra, [[PROVIDER|Dr. Samuel Reyes Molina]], será informado de los resultados de esta revisión para considerar una posible referencia audiológica dado el historial de otitis media recurrente reportado por la familia.
+
+Se programó la próxima revisión del IFSP para el [[DATE|5 de abril de 2027]], y la próxima evaluación formal de progreso se realizará antes de esa fecha utilizando el [[KEEP|CELF Preschool-2]] para confirmar avances en lenguaje expresivo y receptivo.
+
+Firmas
+Patóloga del habla-lenguaje: [[PROVIDER|Ana Beltrán Ortiz]], [[EMPLOYER|Terapias Pediátricas Carolina del Sol, PLLC]] ([[EMPLOYER|TPCS]])
+Coordinadora de Servicios: [[PROVIDER|Patricia Gómez Rivera]], [[AGENCY|Agencia de Coordinación de Servicios Comunitarios del Condado de Alamance]]
+Madre: [[PARENT|Lucía Fernanda Soto Ramírez]]
+Padre: [[PARENT|Javier Hernández Castillo]]
+Fecha de firma: [[DATE|2 de octubre de 2026]]

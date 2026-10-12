@@ -1,0 +1,147 @@
+# North Carolina Infant-Toddler Program
+## Individualized Family Service Plan Review
+
+### 1. Document Information
+
+**Document status:** Fictional clinical record for offline de-identification testing.
+
+**Child:** [[CHILD|Elena Marisol Vega]], called [[CHILD|Ellie]] by her family.  
+**Birth date:** [[DATE|August 7, 2024]].  
+**Review date:** [[DATE|October 7, 2026]].  
+**Current age:** [[KEEP|26 months]].  
+**Initial IFSP date:** [[DATE|April 7, 2026]].  
+**Next review:** [[DATE|April 7, 2027]].  
+**Child record:** [[ID|PH-ITP-026184]].  
+**Medicaid member number:** [[MEDICAID_ID|583027461Q]].
+
+This review describes family priorities, developmental findings, participation in daily routines, and agreed services. Information comes from caregiver interviews, direct observation, record review, and classroom reports. The team considered communication across English and Spanish contexts. All names, organizations, identifiers, and events in this record are invented.
+
+### 2. Family Information and Contact Preferences
+
+#### 2.1 Household and Support Network
+
+[[CHILD|Elena Marisol Vega]] lives with her mother, [[PARENT|Marina Vega]], father, [[PARENT|Adrián Vega]], and sister, [[SIBLING|Hope Vega]]. The home address is [[PLACE|418 Lantern Finch Lane]], [[PLACE|Pinehaven]], North Carolina [[PLACE|27587]].
+
+Her maternal aunt, [[FAMILY|Luz Moreno]], provides care during overlapping work shifts. The family's dog, [[PET|Mango]], often joins floor play. Her sister enjoys reading picture books and helping with pretend meals.
+
+Mom works nights at [[ORG|Silver Lantern Packaging]] as a quality inspection technician. Her father repairs equipment for [[ORG|Juniper Wheelworks]]. Work schedules affect appointment availability, but both parents want to participate in planning.
+
+#### 2.2 Communication and Access
+
+The preferred telephone number is [[PHONE|919-555-0146]]. Written appointment notices may be sent to [[EMAIL|marina.vega@example.com]]. The family prefers text reminders followed by a telephone call when schedules change.
+
+Spanish is the main home language. English is used frequently in childcare. Both parents requested an English report and bilingual explanations during meetings. The clinician confirmed understanding through discussion and caregiver demonstration.
+
+### 3. Team Members and Community Settings
+
+The service coordinator is Ms. [[PROVIDER|Naomi Bell]], with [[AGENCY|Pinehaven Children's Developmental Services Agency]]. Her office is at [[PLACE|62 Willow Glass Court]], [[PLACE|Pinehaven]], North Carolina [[PLACE|27587]]. Her telephone number is [[PHONE|919-555-0172]].
+
+The reviewing clinician is [[PROVIDER|Isabel Serrano]], MS, CCC-SLP, a bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Cedar Lantern Pediatric Therapies]]. The clinician conducted interviews and observations in English and Spanish.
+
+The child attends [[DAYCARE|Little Learners Daycare]]. Classroom teacher Ms. [[TEACHER|Tessa Rowe]] and assistant Mr. [[TEACHER|Caleb Finch]] supplied routine observations. Classmates [[PEER|Mila Hart]] and [[PEER|Owen Reed]] participate in shared play.
+
+The family also visits [[DAYCARE|The Copper Acorn]], a preschool offering occasional morning care. Its lead teacher, Ms. [[TEACHER|Nora Pike]], will receive the approved communication plan.
+
+### 4. Birth and Medical History
+
+#### 4.1 Birth and Hospital Course
+
+According to the fictional discharge summary, [[CHILD|Elena]] was born at [[HOSPITAL|River Lantern Women's Hospital]] at a gestational age of [[KEEP|35 weeks, 4 days]]. Birth weight was [[KEEP|2,410 g]]. Apgar scores were [[KEEP|7]] at the first assessment and [[KEEP|9]] at the second assessment.
+
+She received care in the NICU at [[HOSPITAL|River Lantern Women's Hospital]] for feeding immaturity and temperature support. Neonatologist Dr. [[PROVIDER|Darren Vale]] supervised her hospital care. The family reported discharge on [[DATE|August 19, 2024]], without home oxygen or tube feeding.
+
+#### 4.2 Current Medical Follow-Up
+
+Primary care physician Dr. [[PROVIDER|Priya Moss]] follows growth and routine health needs. Audiologist [[PROVIDER|Leah Stone]] completed an assessment on [[DATE|September 16, 2026]]. The report described hearing responses adequate for the speech frequencies assessed.
+
+Otolaryngologist Dr. [[PROVIDER|Evan Brook]] previously evaluated recurrent middle-ear fluid. No procedure is currently scheduled. The parents reported no daily medication, known food allergy, or recent hospitalization.
+
+The team reviewed available records and distinguished documented findings from caregiver reports. Feeding concerns currently involve participation and requesting, without reported coughing or choking.
+
+### 5. Developmental and Communication Review
+
+#### 5.1 Assessment Procedures
+
+The clinician used the [[KEEP|PLS-5]], including [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]], alongside caregiver interviews and bilingual language sampling. Standardized administration occurred in English. Scores describe that administration and require caution because of bilingual exposure.
+
+The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|82]], at the [[KEEP|12th percentile]], with a [[KEEP|90%]] confidence interval of [[KEEP|76–90]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|74]], at the [[KEEP|4th percentile]], with a confidence interval of [[KEEP|69–82]].
+
+The reported expressive age equivalent was [[KEEP|1;7]]. Informal observations suggested skills across an age-equivalent range of [[KEEP|1;7–2;0]]. These estimates do not define the child's ability in either language.
+
+#### 5.2 Functional Findings
+
+[[CHILD|Ellie]] followed familiar directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. She combined gestures with sounds in [[KEEP|60%]] of observed requests. Independent spoken combinations occurred in [[KEEP|3 of 10]] opportunities.
+
+Recorded productions included [[KEEP|"more juice"]], [[KEEP|"mamá up"]], and [[KEEP|"go car"]]. During sibling play, she said "[[SIBLING|Hope]] go." During pet play, she said "[[PET|Mango]] eat."
+
+Speech included [w] substitutions, documented as [[KEEP|[w]]], with emerging [[KEEP|/k/]]. Spanish [[KEEP|/ɾ/]] was not consistently observed. A language-sample entry used [[KEEP|[EW]]] to mark an extraneous word. These observations support continued functional communication intervention.
+
+### 6. Family Concerns, Priorities, and Daily Routines
+
+#### 6.1 Family's Own Words
+
+[[PARENT|Marina Vega]] stated, “I want her to tell us what she needs before she cries. I want both languages to stay strong.”
+
+[[PARENT|Adrián Vega]] stated, “At dinner, I understand her pointing, but other people do not. I want her to ask for help.”
+
+[[FAMILY|Luz Moreno]] stated, “When we leave the park, she gets upset. A picture or a simple phrase would help me explain.”
+
+The family selected requesting, transitions, and participation with other children as priorities. They requested practical strategies that fit meals, dressing, and play.
+
+#### 6.2 Daily Participation
+
+Breakfast usually begins at [[TIME|7:15 a.m.]]. The child chooses food by reaching or pointing. Adults sometimes anticipate her needs before she communicates.
+
+Childcare arrival occurs near [[TIME|8:30 a.m.]]. She watches classmates before joining activities. Shared toy play improves when an adult models a short phrase and pauses.
+
+Dinner begins around [[TIME|6:00 p.m.]]. Family members offer choices between familiar foods. Bath and book routines provide predictable opportunities for naming, requesting, and taking turns.
+
+Bedtime starts near [[TIME|7:45 p.m.]]. Changes in the usual sequence can lead to crying. A simple picture sequence has helped adults give consistent explanations.
+
+### 7. Other Agencies and Existing Supports
+
+[[AGENCY|Pinehaven Family Nutrition Office]] provides food assistance and nutrition education. [[AGENCY|Lantern County Family Resource Network]] offers transportation information and parent groups. The family authorized coordination about appointment access, without sharing unnecessary medical details.
+
+The child participates in the [[KEEP|Little Learners Program]], a community therapy program that offers caregiver practice sessions. The team clarified that [[DAYCARE|Little Learners Daycare]] and the [[KEEP|Little Learners Program]] are separate services.
+
+The coordinator will check scheduling to prevent duplicate visits. The family may review local resources at [[URL|https://pinehaven-family.example.com]]. No referral requires the family to stop using Spanish.
+
+### 8. IFSP Outcomes and Strategies
+
+#### 8.1 Outcome [[KEEP|1]]: Communicate During Meals
+
+During meals and snacks, [[CHILD|Elena]] will request an item, assistance, or continuation through a word, gesture, or picture in [[KEEP|4 of 5]] opportunities across two routines.
+
+Adults will offer meaningful choices, pause, and acknowledge all communication. The clinician will use [[KEEP|focused stimulation]] and [[KEEP|Hanen]] strategies. Practice targets include [[KEEP|"help"]], [[KEEP|"more"]], [[KEEP|"open"]], and [[KEEP|"más"]].
+
+Initial support may include [[KEEP|mod cues]], followed by reduced assistance. Caregivers will record successful requests on a brief routine checklist. Progress will be reviewed by [[DATE|January 7, 2027]].
+
+#### 8.2 Outcome [[KEEP|2]]: Participate in Transitions
+
+During departure, cleanup, and bedtime, the child will use a communication response and complete the next routine step in [[KEEP|80%]] of opportunities with [[KEEP|min cues]].
+
+Adults will present a picture sequence and model [[KEEP|"all done"]] or [[KEEP|"one more"]]. They will allow processing time before repeating directions. The clinician will demonstrate [[KEEP|routines-based coaching]] during an actual transition.
+
+Caregivers and classroom staff will compare observations weekly. The team will review progress by [[DATE|February 7, 2027]].
+
+#### 8.3 Outcome [[KEEP|3]]: Join Shared Play
+
+During familiar play, the child will initiate or answer a peer using a gesture, word, or short combination in [[KEEP|3 of 5]] opportunities.
+
+Adults will arrange paired activities, model [[KEEP|"my turn"]] and [[KEEP|"your turn"]], and reduce support from [[KEEP|mod cues]] to [[KEEP|min cues]]. Staff will support interaction with [[PEER|Mila Hart]] and [[PEER|Owen Reed]] without requiring speech before access to toys.
+
+### 9. Services, Dates, and Review Responsibilities
+
+Speech-language services will occur weekly in home or childcare routines, beginning [[DATE|October 14, 2026]] and continuing through [[DATE|April 6, 2027]]. Each visit will include direct interaction, caregiver practice, and planning.
+
+Service coordination will continue monthly. Classroom consultation will occur twice monthly with family consent. The fictional authorization is [[ID|SL-260914-782]].
+
+The service entry lists CPT [[KEEP|92507]], modifier [[KEEP|GN]], and ICD-10 [[KEEP|F80.2]]. These entries identify the planned clinical service. Billing eligibility remains subject to the fictional payer record.
+
+### 10. Family Participation and Agreement
+
+The parents helped select all outcomes and accepted the proposed schedule. They requested advance notice when a substitute provider attends. The coordinator will address transportation and scheduling concerns.
+
+The clinician explained assessment limits, caregiver choice, and review procedures in both languages. The family may request changes when routines or priorities change.
+
+The next team review is scheduled for [[DATE|April 7, 2027]] at [[TIME|10:00 a.m.]]. Prepared by [[PROVIDER|Isabel Serrano]], bilingual pediatric speech-language pathologist, on [[DATE|October 7, 2026]].

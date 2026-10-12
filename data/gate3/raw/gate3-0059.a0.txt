@@ -1,0 +1,45 @@
+De: [[PROVIDER|Elisa Montel Rivas]] <[[EMAIL|elisa.montel@example.invalid]]>
+Para: [[PARENT|Nora Valdés Pino]] <[[EMAIL|nora.valdes@example.invalid]]>
+Asunto: Nota diaria de [[CHILD|Leo Valdés Pino]]
+Fecha: [[DATE|11 de octubre de 2026]]
+Expediente: [[ID|SLP-60482]]; Medicaid: [[MEDICAID|483726195Q]]
+
+Estimada mamá:
+
+Comparto la nota de hoy. Edad: [[KEEP|4;2]]. Servicio individual en español, con apoyo bilingüe según necesidad.
+
+**Subjetivo:** Su mamá informó mayor participación con su hermana [[SIBLING|Inés Valdés Pino]] y su abuela [[FAMILY|Celia Pino]]. Nombró a su perro: “[[PET|Lumo]] corre”. La maestra [[TEACHER|Alma Cedrón]] observó intercambio de juguetes con [[PEER|Beto Linares]] en [[SCHOOL|Escuela Arroyo Violeta]].
+
+Antecedentes: nació el [[DATE|3 de agosto de 2022]], a las [[KEEP|35 semanas]], con peso de [[KEEP|2.180 g]] y Apgar [[KEEP|7/9]], en [[HOSPITAL|Hospital Infantil Ladera Clara]]. Permaneció ocho días en la UCIN; atendieron la neonatóloga Dra. [[PROVIDER|Vera Olmedal]] y el pediatra Dr. [[PROVIDER|Tomás Brezán]]. La familia procede de [[PLACE|Aldea Caña Serena]], Honduras.
+
+**Objetivo:** Referencia de evaluación:
+
+| Prueba/subprueba | Fecha | Puntuación estándar | Percentil | IC [[KEEP|95%]] | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] / [[KEEP|Comprensión auditiva]] | [[DATE|25 de septiembre de 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+
+Con [[KEEP|PROMPT]] y [[KEEP|ayudas moderadas]], produjo [[KEEP|/k/]] en [[KEEP|8/10]] intentos; dijo [[KEEP|“tasa”]] por [[KEEP|“casa”]]. La muestra incluyó [[KEEP|[EW]]].
+
+**Análisis:** Mejoró la precisión con modelado; necesita apoyo para generalizar.
+
+**Plan:** Practicar cinco minutos diarios. Meta IFSP [[KEEP|2.1]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+| Día | Inicio | Fin | Lugar |
+|---|---|---|---|
+| lunes | [[TIME|09:00]] | [[TIME|09:30]] | [[DAYCARE|Guardería Nube Mansa]] |
+| jueves | [[TIME|14:00]] | [[TIME|14:30]] | [[PLACE|418 Calle Bruma, Villa Aliso, NC 27000]] |
+
+Atentamente,
+[[PROVIDER|Elisa Montel Rivas]]
+Patóloga bilingüe del habla y lenguaje, Carolina del Norte
+[[EMPLOYER|Terapias Semilla Azul]]
+[[PHONE|919-555-0147]]
+[[URL|https://semilla-azul.example.invalid]]
+
+> De: [[PARENT|Nora Valdés Pino]]
+> Fecha: [[DATE|10 de octubre de 2026]]
+>
+> Gracias. Mi trabajo en [[ORG|Textiles Prisma Suave]] permite el horario. La coordinadora [[PROVIDER|Rita Calden]] de [[AGENCY|CDSA Valle Nacarado]] confirmó transporte con [[PERSON|Saúl Nivera]].
+>
+> Saludos,
+> [[PARENT|Nora Valdés Pino]]

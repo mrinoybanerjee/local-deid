@@ -1,0 +1,178 @@
+EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+[[EMPLOYER|Piedmont Crest Pediatric Therapy Associates, PLLC]]
+Oficina de [[PLACE|Monroe]], Carolina del Norte
+
+Clínica: [[PROVIDER|Elena Castillo Vidal]], M.S., CCC-SLP, Patóloga del Habla-Lenguaje Bilingüe (español/inglés), Licencia de Carolina del Norte #SLP-11042
+
+Fecha de la evaluación: [[DATE|el lunes 3 de marzo de 2025]]
+Fecha del informe: [[DATE|10/03/2025]]
+
+Nombre del niño: [[CHILD|Mateo Alejandro Fernández Ruiz]] (le dicen "[[CHILD|Teo]]" en casa)
+Fecha de nacimiento: [[DATE|14/08/2021]]
+Edad cronológica en la evaluación: [[KEEP|3;6]]
+Sexo: Masculino
+Idioma(s) del hogar: [X] Español  [X] Inglés  [ ] Otro
+Idioma dominante reportado por la familia: [X] Español  [ ] Inglés  [ ] Bilingüe equilibrado
+
+Número de caso / Medicaid: [[MEDICAID_ID|NC482915736B]]
+Número de expediente clínico: [[ID|PCPT-2025-00817]]
+
+Dirección: [[PLACE|482 Willow Creek Lane]], [[PLACE|Monroe]], Carolina del Norte [[PLACE|28110]], Condado de [[PLACE|Union]]
+Teléfono de contacto: [[PHONE|(704) 555-0148]]
+Correo electrónico: [[EMAIL|lucia.ruiz82@mailcorreo.com]]
+
+Madre/tutora: [[PARENT|Lucía Ruiz Martínez]]
+Padre/tutor: [[PARENT|Carlos Fernández López]]
+Hermana mayor: [[SIBLING|Valentina Fernández Ruiz]], [[KEEP|6 años]], cursa primer grado
+
+Médico de cabecera que refiere: Dr. [[PROVIDER|Ramón Castañeda]], [[HOSPITAL|Piedmont Crest Pediatric Clinic, Campus Monroe]]
+Coordinadora de servicios (CDSA): [[PROVIDER|Marisol Estrada]], [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Union]]
+Audiólogo consultante: Dr. [[PROVIDER|Walter Osei]], [[HOSPITAL|Piedmont Crest ENT & Audiology, Campus Monroe]]
+
+Entorno de la evaluación: [X] Clínica  [ ] Hogar  [ ] Centro de cuidado infantil
+Participantes presentes: [X] Madre  [ ] Padre  [X] Niño  [ ] Hermanos  [ ] Intérprete (no se necesitó; la clínica es bilingüe)
+
+RAZÓN DE LA REFERENCIA
+
+[[CHILD|Mateo]] fue referido para una evaluación completa de habla y lenguaje por el Dr. [[PROVIDER|Castañeda]] después de la revisión de rutina de los [[KEEP|36 meses]], en la cual la madre expresó preocupación porque el niño "casi no se le entiende cuando habla" y "se frustra mucho cuando no lo entendemos". La familia también fue referida de manera independiente por [[PROVIDER|Marisol Estrada]] de [[AGENCY|CDSA]], quien había estado monitoreando el desarrollo de [[CHILD|Mateo]] desde una evaluación de desarrollo temprano realizada [[DATE|el 12 de septiembre de 2024]].
+
+Entorno típico del niño: [X] Hogar  [X] Centro de cuidado infantil  [ ] Ninguno
+Asiste actualmente a: [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], en el salón de la [[TEACHER|Srta. López]] ("[[TEACHER|el salón de la Srta. López]]"), de lunes a viernes de [[TIME|8:00 a.m.]] a [[TIME|5:30 p.m.]]
+
+ANTECEDENTES DE NACIMIENTO Y DESARROLLO
+
+[[CHILD|Mateo]] nació el [[DATE|14 de agosto de 2021]] en el [[HOSPITAL|Hospital Infantil Piedmont Crest, Campus Monroe]], a las [[KEEP|34 semanas]] de gestación ([[KEEP|edad gestacional]]: [[KEEP|34 0/7 semanas]]), por cesárea de emergencia debido a preeclampsia materna. Peso al nacer: [[KEEP|4 libras 11 onzas]] ([[KEEP|2,127 gramos]]). Puntaje de Apgar: [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. Permaneció en la Unidad de Cuidados Intensivos Neonatales ([[HOSPITAL|UCIN del Hospital Infantil Piedmont Crest, Campus Monroe]]) durante [[KEEP|19 días]] por dificultad respiratoria leve e ictericia, resolviéndose ambas sin complicaciones a largo plazo según los padres.
+
+La madre reporta que los hitos motores gruesos fueron alcanzados dentro de rango esperado una vez ajustados por la prematuridad: se sentó solo a los [[KEEP|7 meses ajustados]], caminó de manera independiente a los [[KEEP|15 meses ajustados]]. Sin embargo, los hitos de lenguaje se retrasaron de forma notable: las primeras palabras no surgieron hasta aproximadamente los [[KEEP|22 meses]], y la combinación de dos palabras no apareció de manera consistente hasta después de los [[KEEP|30 meses]].
+
+Historial de alimentación: [X] Dificultades leves en la infancia temprana  [ ] Sin dificultades  [ ] Dificultades significativas actuales
+La madre indica que [[CHILD|Mateo]] tuvo dificultad para coordinar la succión-deglución-respiración durante las primeras semanas, requiriendo alimentación con biberón de flujo lento bajo supervisión de una especialista en lactancia del mismo hospital. Actualmente no hay preocupaciones de alimentación ni deglución.
+
+HISTORIA MÉDICA
+
+Diagnósticos relevantes: [[KEEP|Otitis media recurrente]] ([[KEEP|CIE-10 H66.90]]), historial de [[KEEP|seis episodios]] documentados entre los [[KEEP|8 y 30 meses]] de edad. Se le colocaron tubos de ventilación (timpanostomía bilateral, [[KEEP|CPT 69436]]) el [[DATE|6 de mayo de 2023]] en el [[HOSPITAL|Piedmont Crest ENT & Audiology, Campus Monroe]], realizado por el Dr. [[PROVIDER|Walter Osei]]. Desde entonces, los episodios de otitis han disminuido notablemente, con solo un episodio reportado en el último año.
+
+Evaluación audiológica más reciente: [[DATE|28 de enero de 2025]], realizada por el Dr. [[PROVIDER|Osei]] en [[HOSPITAL|Piedmont Crest ENT & Audiology, Campus Monroe]]. Resultado: audición dentro de límites normales bilateralmente ([[KEEP|0-15 dB HL]] en todas las frecuencias evaluadas), timpanogramas tipo A bilateral. Se recomienda nueva evaluación audiológica en [[KEEP|6 meses]] dado el historial de otitis.
+
+Visión: [X] Evaluada, normal  [ ] No evaluada  [ ] Preocupaciones reportadas
+Historial de convulsiones: [ ] Sí  [X] No
+Alergias conocidas: Ninguna reportada
+Medicamentos actuales: Ninguno
+
+HISTORIA FAMILIAR, SOCIAL Y DE LENGUAJE
+
+La familia vive en una casa en [[PLACE|482 Willow Creek Lane]], [[PLACE|Monroe]]. El hogar incluye a la madre, [[PARENT|Lucía Ruiz Martínez]]; el padre, [[PARENT|Carlos Fernández López]]; la hermana mayor, [[SIBLING|Valentina Fernández Ruiz]]; y el perro de la familia, "[[PET|Rocky]]", un labrador mestizo de [[KEEP|4 años]] con el que [[CHILD|Mateo]] tiene un vínculo cercano.
+
+Idioma usado en el hogar: [X] Español (predominante)  [X] Inglés (ocasional, con la hermana y programas de televisión)
+La madre, [[PARENT|Lucía Ruiz Martínez]], nació en [[PLACE|Oaxaca]], México, y llegó a Carolina del Norte hace [[KEEP|11 años]]. Habla español como lengua materna y tiene competencia intermedia en inglés. El padre, [[PARENT|Carlos Fernández López]], nació en [[PLACE|Monroe]] a padres de origen mexicano, y es bilingüe equilibrado, aunque en casa se dirige a los niños principalmente en español por preferencia familiar.
+
+[[PARENT|Lucía]] trabaja en el turno de tarde en el centro de distribución de [[ORG|Carolina Fresh Foods Distribution]], de [[TIME|2:00 p.m.]] a [[TIME|10:00 p.m.]], de martes a sábado. [[PARENT|Carlos]] trabaja como supervisor de mantenimiento en [[ORG|Monroe Metal Works]]. Debido a los horarios, la abuela paterna cuida a los niños algunas tardes, y los fines de semana la familia cuenta con el apoyo de una niñera de confianza, [[FAMILY|Rosa Beltrán]], quien ha cuidado a [[CHILD|Mateo]] desde los [[KEEP|8 meses]] de edad y habla únicamente español con él.
+
+La familia participa activamente en el programa bilingüe de cuentos infantiles de la [[AGENCY|Biblioteca Pública del Condado de Union]], al cual asisten los sábados por la mañana, y [[CHILD|Mateo]] disfruta mucho de las canciones y rimas en ambos idiomas. También asisten con regularidad a la misa dominical en la [[AGENCY|Iglesia Nuestra Señora de Guadalupe]], donde [[CHILD|Mateo]] participa en la clase infantil de catecismo los domingos de [[TIME|9:00 a.m.]] a [[TIME|9:45 a.m.]].
+
+Primos cercanos con quienes [[CHILD|Mateo]] convive con frecuencia incluyen a [[FAMILY|Sofía Beltrán]] ([[KEEP|5 años]]) y [[FAMILY|Diego Beltrán]] ([[KEEP|7 años]]), hijos de la hermana de [[PARENT|Lucía]], quienes viven cerca y se reúnen casi todos los fines de semana. La madre reporta que [[CHILD|Mateo]] entiende bien tanto a sus primos como a su hermana, pero que ellos a menudo "hablan por él" o interpretan lo que dice para otros adultos, lo cual preocupa a la madre en cuanto al desarrollo de la independencia comunicativa del niño.
+
+En el [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], la maestra, [[TEACHER|Srta. López]], reporta que [[CHILD|Mateo]] se comunica principalmente por gestos y señalando cuando quiere algo, y que sus compañeros de clase, [[PEER|Emma Castillo]] y [[PEER|Jayden Watts]], a menudo necesitan la ayuda de la maestra para entender lo que [[CHILD|Mateo]] intenta decir durante el juego. La [[TEACHER|Srta. López]] indica que esto ha generado frustración observable, incluyendo algunos episodios de llanto y, en una ocasión reciente, un episodio de agresión leve (empujar) hacia [[PEER|Jayden]] cuando no logró hacerse entender.
+
+OBSERVACIÓN CONDUCTUAL Y VALIDEZ DE LA EVALUACIÓN
+
+[[CHILD|Mateo]] se presentó a la cita acompañado únicamente por su madre. Al inicio de la sesión mostró timidez leve, escondiéndose detrás de las piernas de [[PARENT|Lucía]], pero se calentó rápidamente al ofrecerle juguetes y libros bilingües. Mantuvo atención conjunta de manera consistente, aunque su atención sostenida en tareas estructuradas fue variable, requiriendo descansos breves y refuerzo con pegatinas.
+
+Nivel de cooperación: [X] Bueno, con apoyo  [ ] Excelente  [ ] Pobre
+Validez estimada de los resultados: [X] Válida  [ ] Cuestionable  [ ] No válida
+
+Toda la evaluación se administró en español, el idioma dominante y preferido del niño según reporte materno y observación directa. Se utilizaron normas en español cuando estaban disponibles, y se tomó en cuenta el estatus bilingüe del niño al interpretar los resultados conforme a las pautas de evaluación no discriminatoria.
+
+RESULTADOS DE LAS PRUEBAS ESTANDARIZADAS
+
+Se administraron las siguientes pruebas estandarizadas, complementadas con muestra de lenguaje espontáneo y observación clínica directa.
+
+Prueba / Subprueba                          Puntaje Estándar    Percentil      Intervalo de Confianza
+[[KEEP|Preschool Language Scales-5 (PLS-5), Forma en Español]]
+  [[KEEP|Comprensión Auditiva]]                   [[KEEP|76]]              [[KEEP|5]]              [[KEEP|70-82]]
+  [[KEEP|Expresión de Lenguaje]]                  [[KEEP|68]]              [[KEEP|2]]              [[KEEP|62-74]]
+  [[KEEP|Puntaje Total de Lenguaje]]              [[KEEP|70]]              [[KEEP|2]]              [[KEEP|65-75]]
+
+[[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]
+  [[KEEP|Puntaje Estándar Total]]                 [[KEEP|65]]              [[KEEP|1]]              [[KEEP|58-72]]
+
+[[KEEP|Receptive-Expressive Emergent Language Test-4 (REEL-4), reporte parental]]
+  [[KEEP|Edad Equivalente Receptiva]]             [[KEEP|2;3]]
+  [[KEEP|Edad Equivalente Expresiva]]             [[KEEP|1;10]]
+
+Inventario de Desarrollo de la Comunicación de MacArthur-Bates (CDI, forma en español): se estimó un vocabulario expresivo de aproximadamente [[KEEP|85 palabras]], muy por debajo del promedio esperado para su edad cronológica.
+
+Durante la muestra de lenguaje espontáneo, la longitud media de enunciado (MLU) de [[CHILD|Mateo]] fue de [[KEEP|1.6 morfemas]], considerablemente por debajo de lo esperado para su edad. La mayoría de sus enunciados fueron de una sola palabra o combinaciones de dos palabras sin marcadores morfológicos consistentes (por ejemplo, omisión de artículos y de concordancia de género en frases como "[[KEEP|"niño come"]]" en lugar de "el niño come"). Se transcribieron [[KEEP|50 enunciados]] utilizando convenciones [[KEEP|SALT]], incluyendo marcadores como [[KEEP|[EW]]] para palabra errada observada en tres ocasiones.
+
+ARTICULACIÓN Y FONOLOGÍA
+
+El habla de [[CHILD|Mateo]] fue, en conjunto, difícil de entender para oyentes no familiarizados, con un índice de inteligibilidad estimado de aproximadamente [[KEEP|40%]] en contexto conversacional no estructurado, mejorando a [[KEEP|65%]] en contexto estructurado con apoyo de contexto visual.
+
+Se observaron los siguientes procesos fonológicos, consistentes a través de las tareas de denominación y la muestra espontánea:
+
+- Reducción de grupos consonánticos: "[[KEEP|flor]]" → [[KEEP|[for]]]; "[[KEEP|tren]]" → [[KEEP|[ten]]]
+- Frontalización velar: /[[KEEP|k]]/ → [[KEEP|[t]]] en posición inicial, como en "[[KEEP|casa]]" → [[KEEP|[tasa]]]
+- Simplificación de líquidas: /[[KEEP|ɾ]]/ sustituida por [[KEEP|[d]]] en posición intervocálica, como en "[[KEEP|pero]]" → [[KEEP|[pedo]]]
+- Omisión de sílabas finales no acentuadas en palabras de tres o más sílabas, como en "[[KEEP|mariposa]]" → [[KEEP|[maipo]]]
+
+Durante una tarea de denominación de imágenes, al mostrarle la imagen de un perro, [[CHILD|Mateo]] señaló con entusiasmo hacia la fotografía familiar en su mochila y dijo "[[PET|Rocky]] guau", generalizando espontáneamente al nombre de su propia mascota en lugar de producir la palabra objetivo. Con apoyo de modelado y [[KEEP|señas claves]], logró producir "[[KEEP|perro]]" con [[KEEP|claves moderadas]] en [[KEEP|3 de 5 intentos]] ([[KEEP|3/5]]).
+
+Se observó estimulabilidad positiva para la mayoría de los sonidos sustituidos u omitidos al proporcionar [[KEEP|claves mínimas a moderadas]], lo cual es un indicador pronóstico favorable.
+
+LENGUAJE RECEPTIVO Y EXPRESIVO
+
+En el área receptiva, [[CHILD|Mateo]] siguió instrucciones de un solo paso de manera consistente ([[KEEP|8/10]]) pero tuvo dificultad marcada con instrucciones de dos pasos no relacionadas ([[KEEP|2/10]]). Identificó correctamente [[KEEP|7 de 10]] conceptos básicos (colores, tamaños) pero tuvo dificultad con conceptos espaciales como "[[KEEP|detrás de]]" y "[[KEEP|entre]]" ([[KEEP|1/5]]).
+
+En el área expresiva, su vocabulario estuvo limitado principalmente a sustantivos concretos y algunos verbos de alta frecuencia. No combinó más de dos palabras de manera espontánea durante la sesión, y cuando lo hizo, omitió consistentemente artículos, preposiciones y marcadores de concordancia de género y número. No utilizó pronombres personales de manera productiva, refiriéndose a sí mismo por su nombre ("[[KEEP|"[[CHILD|Teo]] quiere"]]" en lugar de "yo quiero").
+
+La madre reporta que en casa [[CHILD|Mateo]] se comunica principalmente señalando, llevando a los adultos de la mano hacia lo que quiere, y usando aproximadamente [[KEEP|15 a 20 señas]] informales que la familia ha desarrollado de manera orgánica (por ejemplo, llevarse la mano a la boca para "comida", agitar la mano para "adiós"). No se ha introducido un sistema formal de comunicación aumentativa.
+
+JUEGO Y COMUNICACIÓN SOCIAL
+
+[[CHILD|Mateo]] demostró juego simbólico apropiado para su edad, incluyendo secuencias de juego de fingir con una cocina de juguete (alimentando a un muñeco, "cocinando" en una sartén de plástico) sin necesidad de lenguaje verbal para sostener el juego. Buscó atención conjunta de manera espontánea señalando y mirando alternadamente entre el objeto de interés y el adulto. Mostró turnos conversacionales apropiados a nivel no verbal, aunque sus intentos de reparación comunicativa fueron limitados: cuando no se le entendía, tendía a repetir la misma producción sin modificarla, o a abandonar el intento y señalar en su lugar, en vez de intentar una estrategia alternativa.
+
+IMPRESIONES CLÍNICAS
+
+Con base en los resultados de las pruebas estandarizadas, la muestra de lenguaje espontáneo, la observación clínica directa y el reporte parental, [[CHILD|Mateo Alejandro Fernández Ruiz]] presenta un [[KEEP|Trastorno del Desarrollo del Lenguaje]] ([[KEEP|CIE-10 F80.1]]) de carácter mixto, receptivo-expresivo, con afectación significativa concurrente de la articulación y fonología ([[KEEP|CIE-10 F80.0]]). Los puntajes obtenidos se ubican consistentemente por debajo de [[KEEP|-1.5 desviaciones estándar]] del promedio normativo en todas las áreas evaluadas, lo cual cumple criterios para elegibilidad de servicios de intervención temprana bajo las pautas de Carolina del Norte.
+
+Es importante señalar que, dado que [[CHILD|Mateo]] fue evaluado en su idioma dominante (español) con normas apropiadas y que el déficit se manifiesta de manera consistente a través de ambos idiomas según reporte parental, los resultados no pueden atribuirse a adquisición típica de una segunda lengua ni a diferencia dialectal. El perfil observado es consistente con un trastorno primario del lenguaje.
+
+El historial de otitis media recurrente durante el período crítico de desarrollo del lenguaje (entre los [[KEEP|8 y 30 meses]] de edad) representa un factor contribuyente plausible, aunque la resolución de la audición a niveles normales y la persistencia de los déficits de lenguaje sugieren que la otitis no es la única causa explicativa.
+
+El historial de prematuridad moderada ([[KEEP|34 semanas]] de gestación) también representa un factor de riesgo conocido para retrasos de lenguaje, consistente con el perfil presentado.
+
+La frustración comunicativa observada tanto en el hogar como en el [[DAYCARE|centro de cuidado infantil]], incluyendo el episodio reciente de agresión hacia un compañero, se considera secundaria a la limitación comunicativa significativa y se espera que mejore con intervención dirigida y el desarrollo de estrategias de comunicación funcional.
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de habla y lenguaje individual, en español, con frecuencia de [[KEEP|dos sesiones]] de [[KEEP|45 minutos]] por semana, enfocada en:
+   - Expansión de vocabulario expresivo y combinación de palabras
+   - Desarrollo de marcadores morfológicos (artículos, concordancia de género/número)
+   - Remediación de procesos fonológicos identificados, utilizando el enfoque de [[KEEP|Ciclos Fonológicos]]
+   - Introducción de estrategias de comunicación aumentativa y alternativa de baja tecnología como apoyo transicional, incluyendo elementos del enfoque [[KEEP|PECS]], mientras se desarrolla el lenguaje verbal
+
+2. Se recomienda continuar el seguimiento a través de [[AGENCY|CDSA]] para la actualización del Plan Individualizado de Servicios para la Familia (IFSP), incluyendo la adición de un nuevo resultado dirigido a comunicación funcional ([[KEEP|Resultado IFSP #2]]), bajo la coordinación de [[PROVIDER|Marisol Estrada]].
+
+3. Se recomienda reevaluación audiológica en [[KEEP|6 meses]] con el Dr. [[PROVIDER|Osei]] en [[HOSPITAL|Piedmont Crest ENT & Audiology, Campus Monroe]], dado el historial de otitis media recurrente, para descartar fluctuaciones auditivas que puedan afectar el progreso del lenguaje.
+
+4. Se recomienda capacitación parental utilizando principios del enfoque [[KEEP|Hanen]] ("It Takes Two to Talk"), para equipar a la familia, incluyendo a [[PARENT|Lucía]], [[PARENT|Carlos]] y a la niñera [[FAMILY|Rosa Beltrán]], con estrategias de estimulación del lenguaje en el entorno natural.
+
+5. Se recomienda coordinación con el [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] y la [[TEACHER|Srta. López]] para implementar estrategias de apoyo comunicativo en el aula, y para monitorear y abordar los episodios de frustración conductual observados con [[PEER|Jayden Watts]] y otros compañeros.
+
+6. Se recomienda continuar fomentando la exposición bilingüe en contextos enriquecedores como el programa de cuentos de la [[AGENCY|Biblioteca Pública del Condado de Union]] y las actividades en la [[AGENCY|Iglesia Nuestra Señora de Guadalupe]], ya que estas experiencias no representan un riesgo adicional y apoyan el desarrollo sociolingüístico general del niño.
+
+7. Se recomienda nueva evaluación integral de habla y lenguaje en aproximadamente [[KEEP|6 meses]] (aproximadamente [[DATE|septiembre de 2025]]) para monitorear el progreso y ajustar el plan de intervención según sea necesario.
+
+Próxima cita programada: [[DATE|el martes 1 de abril de 2025]] a las [[TIME|10:30 a.m.]] para iniciar terapia individual.
+
+Se discutieron estos resultados y recomendaciones con [[PARENT|Lucía Ruiz Martínez]] al finalizar la sesión, y se le proporcionó un folleto bilingüe sobre el desarrollo típico del lenguaje y señales de alerta. La madre expresó alivio al recibir una explicación clara y mostró motivación para participar activamente en el plan de intervención.
+
+Este informe fue preparado y revisado por la evaluadora abajo firmante.
+
+_______________________________
+[[PROVIDER|Elena Castillo Vidal]], M.S., CCC-SLP
+Patóloga del Habla-Lenguaje Bilingüe
+[[EMPLOYER|Piedmont Crest Pediatric Therapy Associates, PLLC]]
+Licencia de Carolina del Norte #SLP-11042
+Fecha de firma: [[DATE|10 de marzo de 2025]]

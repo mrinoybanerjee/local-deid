@@ -1,0 +1,98 @@
+North Carolina Infant-Toddler Program
+Individualized Family Service Plan Review and Communication Evaluation
+
+Review date: [[DATE|October 8, 2026]]
+Previous IFSP date: [[DATE|April 8, 2026]]
+Child record: [[ID|FICT-ITP-604817]]
+Medicaid member number: [[MEDICAID_ID|000642817Z]]
+Evaluation authorization: [[ID|FICT-AUTH-728406]]
+
+FAMILY INFORMATION AND PARTICIPATION
+
+[[CHILD|Nico Maravilla]] was born on [[DATE|August 8, 2024]] and is [[KEEP|26 months]] old. His parents, [[PARENT|Elena Maravilla]] and [[PARENT|Tomás Maravilla]], share decision-making responsibility. His sister, [[SIBLING|Sol Maravilla]], is [[KEEP|4;2]]. His grandmother, [[FAMILY|Inés Varela]], provides care on weekdays. The family’s dog is named [[PET|Pipo]].
+
+The family lives at [[PLACE|4186 Lantern Finch Lane]], [[PLACE|Bellmere]], North Carolina [[PLACE|00027]], in [[PLACE|Larkwell County]]. The preferred telephone number is [[PHONE|(919) 555-0146]]. The alternate number is [[PHONE|(984) 555-0182]]. The parent’s email is [[EMAIL|elena.maravilla@example.invalid]]. Spanish and English are used at home. The parents requested an English report and verbal explanations in both languages.
+
+The father works for [[ORG|Lantern Orchard Packaging]]. His changing shifts affect visit availability. The family prefers home visits after breakfast and asks that grandmother participate whenever possible. Both parents attended this review and consented to share the service summary with the early learning classroom.
+
+COORDINATION AND COMMUNITY CONNECTIONS
+
+Service coordinator Ms. [[PROVIDER|Mara Fenwick]] represents the [[AGENCY|Larkwell County Children’s Developmental Services Agency]]. Her telephone number is [[PHONE|(919) 555-0128]], and her email is [[EMAIL|mara.fenwick@example.invalid]]. The office is at [[PLACE|72 Meadowglass Court]], [[PLACE|Bellmere]], North Carolina [[PLACE|00027]]. Its family resource page is [[URL|https://larkwell-cdsa.example.invalid/families]].
+
+Current supports include [[AGENCY|Larkwell County WIC]], [[AGENCY|Larkwell County Partnership for Children]], and [[AGENCY|Larkwell County Early Head Start]]. The family requested information about transportation assistance through [[AGENCY|Larkwell County DSS]]. That referral remains pending; no eligibility decision was reported.
+
+The child attends [[DAYCARE|Little Lantern Learning House]]. Classroom teacher Ms. [[TEACHER|Beatriz Lorne]] supplied a routine checklist. Pediatrician Dr. [[PROVIDER|Sofia Calder]] practices at [[HOSPITAL|Meadowglass Children’s Hospital]]. The parents authorized the coordinator to request the most recent hearing documentation.
+
+FAMILY CONCERNS AND PRIORITIES
+
+Mother [[PARENT|Elena Maravilla]] said, “He knows what he wants, but we guess too much. I want him to tell us before he cries.”
+
+Father [[PARENT|Tomás Maravilla]] said, “At dinner, I want to understand whether he wants more food or wants to leave. I also want him to keep learning Spanish.”
+
+Grandmother [[FAMILY|Inés Varela]] said, “When we get dressed, I want him to help and tell me which shoes. I need ideas I can remember without a worksheet.”
+
+The parents identified communication during meals, dressing, and sibling play as their first priorities. They value gestures, spoken words, and pictures equally when these help the child participate. They do not want practice to interrupt meals or turn family play into testing.
+
+The family described strengths in affection, curiosity, music, and helping with simple household tasks. They want adults to recognize communication attempts sooner. They also want consistent responses across home and the classroom.
+
+HEALTH, DEVELOPMENT, AND EVALUATION METHODS
+
+The parent reported delivery at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.12 kg]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. No prolonged neonatal admission was reported. Current age is [[KEEP|2;2]]. The parent reported no loss of previously acquired skills.
+
+The evaluation occurred on [[DATE|October 6, 2026]], from [[TIME|9:05 a.m.]] to [[TIME|10:00 a.m.]], in the home. Bilingual pediatric speech-language pathologist [[PROVIDER|Lydia Serrano]], M.S., CCC-SLP, of [[EMPLOYER|Willow Lantern Pediatric Therapy]], completed caregiver interviews, play observation, an oral mechanism screening, and the [[KEEP|PLS-5 Spanish]].
+
+Spanish was the primary assessment language. English responses were accepted according to the test’s bilingual procedures. Results describe performance during this visit and require interpretation with language exposure, parent report, and participation in familiar routines. Attention varied when unfamiliar materials replaced preferred toys.
+
+| Test or subtest | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Auditory Comprehension]] | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|76–89]] | [[KEEP|1;9–2;0]] |
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Expressive Communication]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|70–84]] | [[KEEP|1;6–1;9]] |
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Total Language]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|72–85]] | [[KEEP|1;8–1;11]] |
+
+Confidence intervals reflect a [[KEEP|90%]] confidence level. Age-equivalent ranges are descriptive and do not establish placement or eligibility alone.
+
+COMMUNICATION FINDINGS
+
+[[CHILD|Nico]] followed familiar one-step directions in [[KEEP|8/10]] opportunities with gestures and [[KEEP|5/10]] without gestures. He identified familiar objects in [[KEEP|4 of 5]] opportunities. He used a gesture, vocalization, or word to request in [[KEEP|7/10]] opportunities with [[KEEP|min cues]].
+
+Spontaneous productions included [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"go"]], and [[KEEP|"mama"]]. During dog play, he said, “[[PET|Pipo]] go.” During sibling play, he said, “[[SIBLING|Sol]] come.” These utterances referred to household members.
+
+The lexical target [[KEEP|"sol"]], meaning sun, was selected for a picture routine because it shares its form with his sister’s name. Adults will clarify whether he means the picture or the person through context and pointing.
+
+Observed consonants included [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/b/]], and [[KEEP|/t/]]. An occasional [[KEEP|[w]]] occurred during vehicle play. Productions of [[KEEP|/k/]] and [[KEEP|/ɾ/]] were inconsistent. A language sample contained an extraneous word coded [[KEEP|[EW]]]. Speech sound observations were insufficient to establish a separate motor speech diagnosis.
+
+Clinical impression: mixed receptive-expressive language disorder, [[KEEP|F80.2]]. Evaluation billing: [[KEEP|CPT 92523]] with modifier [[KEEP|GN]].
+
+DAILY ROUTINES AND PARTICIPATION
+
+Breakfast begins near [[TIME|7:30 a.m.]]. The child chooses between cereal and fruit by reaching. Adults often anticipate his choice before he communicates. Dressing follows at [[TIME|8:00 a.m.]], when he enjoys carrying shoes but protests unfamiliar clothing.
+
+Classroom arrival is approximately [[TIME|8:45 a.m.]]. Staff report that visual choices help with separation. During play, peers [[PEER|Milo Quill]] and [[PEER|Ada Fern]] frequently offer toy vehicles. He joins briefly but needs adult help to request a turn.
+
+Lunch occurs at [[TIME|11:30 a.m.]]. Rest begins around [[TIME|12:30 p.m.]]. After pickup at [[TIME|3:15 p.m.]], grandmother uses songs during handwashing and snack. The family eats dinner at [[TIME|6:15 p.m.]] and reads together at [[TIME|7:40 p.m.]].
+
+Transitions are easier when adults show the next activity and allow a pause. Communication becomes less clear when several people speak at once. The family will practice within existing routines, using available objects and pictures.
+
+OUTCOMES AND STRATEGIES
+
+Outcome [[KEEP|1]]: During meals and dressing, the child will communicate a choice, request, or refusal using a word, gesture, or picture in [[KEEP|8/10]] opportunities across two familiar routines.
+
+Baseline is [[KEEP|4/10]] independent opportunities. Adults will offer two meaningful choices, wait, and respond to the attempt. Coaching will use [[KEEP|Hanen]] principles and [[KEEP|It Takes Two to Talk]]. Pictures may supplement speech. Success will be reviewed through caregiver examples and brief observation.
+
+Outcome [[KEEP|2]]: During family play, the child will combine two communication elements in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]].
+
+Baseline is [[KEEP|1 of 5]] opportunities with [[KEEP|mod cues]]. Adults will model short combinations such as [[KEEP|"más agua"]] and [[KEEP|"go car"]], then pause. The clinician will support sibling turn-taking and accept mixed-language combinations. Models will follow the child’s interests without requiring repeated imitation.
+
+Outcome [[KEEP|3]]: During transitions, the child will follow a familiar direction with a visual support in [[KEEP|80%]] of opportunities across home and classroom.
+
+Baseline is [[KEEP|50%]] without a consistent visual support. Adults will use the same pictures, reduce competing speech, and acknowledge refusals. Staff will record examples without interrupting participation. The family and teacher will compare which supports help most.
+
+The clinician discussed [[KEEP|PECS]], [[KEEP|PROMPT]], [[KEEP|Cycles]], and [[KEEP|Kaufman]] as distinct approaches that require individual consideration. None will be added automatically. Current intervention emphasizes functional communication and caregiver coaching. No speech motor protocol is indicated from this visit alone.
+
+SERVICES, DATES, AND REVIEW PLAN
+
+Speech-language intervention will begin on [[DATE|October 15, 2026]] and continue through [[DATE|April 8, 2027]]. Planned home visits occur weekly, from [[TIME|9:15 a.m.]] to [[TIME|10:00 a.m.]]. Treatment billing is [[KEEP|CPT 92507]], modifier [[KEEP|GN]]. Classroom consultation will occur monthly, from [[TIME|10:30 a.m.]] to [[TIME|11:00 a.m.]], with family consent.
+
+The coordinator will check referral progress by [[DATE|October 22, 2026]]. The team will review participation on [[DATE|January 14, 2027]]. The next IFSP review is scheduled for [[DATE|April 8, 2027]]. Adults will bring examples of successful communication and difficult routines.
+
+Prepared by [[PROVIDER|Lydia Serrano]], M.S., CCC-SLP, bilingual pediatric speech-language pathologist, [[EMPLOYER|Willow Lantern Pediatric Therapy]]. Signed electronically on [[DATE|October 8, 2026]], at [[TIME|4:20 p.m.]].

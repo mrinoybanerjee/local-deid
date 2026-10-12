@@ -1,0 +1,145 @@
+[[AGENCY|NC Infant-Toddler Program]]
+INDIVIDUALIZED FAMILY SERVICE PLAN REVIEW
+SYNTHETIC TRAINING RECORD: All personal information, local organizations, contacts, and case details are fictional.
+
+Review date: [[DATE|October 8, 2026]]
+Previous IFSP date: [[DATE|July 9, 2026]]
+Next review: [[DATE|January 8, 2027]]
+Child record: [[ID|ITP-684219]]
+Medicaid member: [[MEDICAID_ID|846291735K]]
+Service authorization: [[ID|SLP-26-583104]]
+
+Información de la familia / Family information
+
+Field	Information
+Child	[[CHILD|Emilio Andrés Valera]]
+Preferred name	[[CHILD|Milo]]
+Birth date	[[DATE|February 8, 2024]]
+Age at review	[[KEEP|32 months]]; [[KEEP|2;8]]
+Mother	[[PARENT|Mariela Valera]]
+Father	[[PARENT|Tomás Valera]]
+Sister	[[SIBLING|Inés Valera]], age [[KEEP|6 years]]
+Home address	[[PLACE|418 Lantern Finch Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27962]]
+County	[[PLACE|Willowbank County]]
+Home languages	Spanish and English
+Preferred contact	[[PHONE|252-555-0146]]; [[EMAIL|mariela.valera@example.invalid]]
+Backup contact	[[PHONE|252-555-0193]]
+Mother’s workplace	[[ORG|Juniper Threadworks]]
+Father’s workplace	[[ORG|Copper Finch Packaging]]
+
+The family requests Spanish for discussion of choices and English copies for daycare. Both parents joined the review. Su mamá [[PARENT|Mariela Valera]] gave permission to include daycare observations. His father, [[PARENT|Tomás Valera]], asked for short practice notes that fit changing work shifts. No interpreter was requested because the clinician conducted the meeting in both languages.
+
+Contactos del equipo / Team contacts
+
+Role	Name	Organization	Contact
+Service coordinator	[[PROVIDER|J. Salcedo]]	[[AGENCY|Lantern Valley CDSA]]	[[PHONE|252-555-0118]]
+Bilingual pediatric speech-language pathologist	[[PROVIDER|Elena R. Castañeda]], MS, CCC-SLP	[[EMPLOYER|Little Lantern Speech Partners]]	[[EMAIL|elena.castaneda@example.invalid]]
+Primary care physician	Dr. [[PROVIDER|Nadia Bellorin]]	[[HOSPITAL|Alder Finch Children’s Hospital]]	[[PHONE|252-555-0162]]
+Lead classroom teacher	Ms. [[TEACHER|Rosa Mendel]]	[[DAYCARE|Little Acorn Crossing]]	[[PHONE|252-555-0124]]
+Classroom assistant	[[TEACHER|Devon Pike]]	[[DAYCARE|Little Acorn Crossing]]	[[EMAIL|classroom@example.invalid]]
+
+The CDSA office is at [[PLACE|72 Meadow Lantern Court]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27962]], in [[PLACE|Willowbank County]]. Office contact: [[EMAIL|coordination@example.invalid]]. Family resource page: [[URL|https://lantern-cdsa.example.invalid/familias]].
+
+Resumen de salud y desarrollo / Health and development
+
+Per the fictional birth summary, [[CHILD|Emilio]] was born at [[KEEP|38 weeks, 4 days]] gestation, with birth weight [[KEEP|3,120 g]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. The parents report no current feeding restriction, daily medication, or recent admission. Hearing screening on [[DATE|September 17, 2026]] documented a pass in both ears. The physician will reassess if the family notices reduced responses to sound.
+
+Communication concerns affect requests, transitions, and participation with other children. The working speech-language diagnosis is [[KEEP|F80.2]]. This review combines caregiver reports, direct observation, and assessment findings. Spanish exposure and English exposure were considered separately; bilingual use itself is not treated as a disorder.
+
+Preocupaciones y prioridades / In the family’s own words
+
+[[PARENT|Mariela Valera]] said, “Quiero entenderlo antes de que llore. Sometimes he brings the cup, pero no sabemos si quiere agua o leche. Queremos que pueda pedir ayuda con palabras, gestures, o lo que le funcione.”
+
+[[PARENT|Tomás Valera]] said, “At dinner we rush because I leave for work. Mi prioridad es que pueda escoger, and that we wait long enough. I need something simple that everyone can do.”
+
+The parents identify three priorities: clearer requests, easier transitions, and participation in play. They want both languages supported. They prefer practice within meals and play because separate homework often feels difficult after work.
+
+Grandmother [[FAMILY|Celia Noreda]] provides care on some afternoons. Babysitter [[FAMILY|Luz Pareda]] helps during overlapping shifts. Cousins [[FAMILY|Nico Solera]] and [[FAMILY|Amaya Solera]] visit on weekends. The family wants these caregivers to use the same pictures and pause before offering help.
+
+[[PARENT|Mariela Valera]] added, “Cuando juega con su hermana, he tries more. Please show us how to help without making every moment a test.” The team agreed to keep practice brief, playful, and responsive to refusal.
+
+Rutinas diarias / Daily routines
+
+Routine	Usual time	Current participation and opportunity
+Breakfast	[[TIME|7:15 a.m.]]	Selects a cup; practice requesting before pouring.
+Daycare arrival	[[TIME|8:10 a.m.]]	Needs a predictable goodbye and a picture showing the next activity.
+Outdoor play	[[TIME|10:30 a.m.]]	Enjoys bubbles; practice requesting another turn.
+Lunch	[[TIME|11:45 a.m.]]	Points to preferred foods; adults can model a short choice.
+Rest	[[TIME|12:30 p.m.]]	Accepts a familiar song and blanket.
+Family dinner	[[TIME|6:20 p.m.]]	Participates best when choices are visible.
+Bath and bedtime	[[TIME|7:40 p.m.]]	Labels toys inconsistently; enjoys repeated action words.
+
+At daycare, [[CHILD|Milo]] watches classmates [[PEER|Ada Fenwick]] and [[PEER|Benji Lark]] before approaching. Ms. [[TEACHER|Mendel]] reports that a familiar peer can help him join the block area. During observation, he handed a block to [[PEER|Ada]] and waited for her response.
+
+At home, [[SIBLING|Inés]] often interprets his pointing. The clinician coached adults to thank her, then give him space to communicate directly. The family’s dog, [[PET|Pipoca]], creates useful play opportunities. During a doorway routine, he said, “[[PET|Pipoca]] ven.” The clinician recorded the spontaneous phrase without asking him to repeat it.
+
+Assessment summary / Resumen de evaluación
+
+Assessment date: [[DATE|September 29, 2026]]. Results below are fictional training values. The clinician reviewed language history and used bilingual administration procedures. Confidence intervals describe score uncertainty; age equivalents do not define the child’s overall developmental level.
+
+Test	Subtest	Standard score	Percentile	Confidence interval	Age-equivalent range
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|73-83]]	[[KEEP|1;9–2;0]]
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Expressive Communication]]	[[KEEP|76]]	[[KEEP|5th percentile]]	[[KEEP|71–82]]	[[KEEP|1;6–1;9]]
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Total Language]]	[[KEEP|77]]	[[KEEP|6th percentile]]	[[KEEP|72–82]]	[[KEEP|1;8–1;11]]
+[[KEEP|DAYC-2]]	[[KEEP|Physical Development]]	[[KEEP|96]]	[[KEEP|39th percentile]]	[[KEEP|90–102]]	[[KEEP|2;6–3;0]]
+
+In familiar play, [[CHILD|Emilio]] followed contextual directions in [[KEEP|7/10]] opportunities. Without objects or gestures, he responded in [[KEEP|3 of 5]] opportunities. He used gestures, single words, and occasional combinations. Productions included “[[KEEP|awa]]” for “[[KEEP|agua]]” and “[[KEEP|más pan]]” during snack.
+
+Speech sampling showed variable production of [[KEEP|/k/]] and [[KEEP|/ɾ/]], with occasional [[KEEP|[w]]] substitutions. These observations guide monitoring; they do not establish a separate speech-sound diagnosis. A brief [[KEEP|SALT]] sample included [[KEEP|[EW]]] coding for an extraneous word. Participation improved with familiar materials and [[KEEP|min cues]].
+
+Resultados y estrategias / Functional outcomes
+
+Outcome [[KEEP|1]]: Communicate wants and needs during meals and play.
+
+By [[DATE|January 8, 2027]], [[CHILD|Emilio]] will use a word, gesture, picture, or word combination to request or reject in [[KEEP|8/10]] natural opportunities across two daily routines. The family will describe successful examples from both home and daycare.
+
+Adults will place two meaningful choices within view, pause, and respond to any clear communication. Models may include “[[KEEP|quiero agua]],” “[[KEEP|más]],” “[[KEEP|help]],” and “[[KEEP|no más]].” Adults will expand his message without requiring repetition. The clinician will coach responsive interaction using [[KEEP|Hanen]] strategies and [[KEEP|Enhanced Milieu Teaching]].
+
+Current baseline is [[KEEP|4/10]] opportunities with [[KEEP|mod cues]]. The parents will note examples during breakfast and bubbles. Progress will count communication in either language. Adults will honor rejection and provide access to needed food and drink.
+
+Outcome [[KEEP|2]]: Participate in transitions with a clear way to ask for support.
+
+By [[DATE|January 8, 2027]], [[CHILD|Milo]] will move between familiar activities while using or responding to a picture, gesture, or short phrase in [[KEEP|4 of 5]] opportunities, with [[KEEP|min cues]]. Success includes asking for help or requesting a brief pause.
+
+The team will use a consistent first-then picture and preview the next activity. Helpful models include “[[KEEP|primero zapatos]],” “[[KEEP|then outside]],” and “[[KEEP|ayuda]].” Ms. [[TEACHER|Rosa Mendel]] will keep the same pictures near the classroom door. At home, caregivers will practice before bath and departure.
+
+Baseline is [[KEEP|2 of 5]] transitions with [[KEEP|max cues]]. Adults will reduce language when he appears overwhelmed. A difficult transition will prompt adjustment of the routine, without loss of a preferred activity.
+
+Outcome [[KEEP|3]]: Join shared play and exchange turns.
+
+By [[DATE|January 8, 2027]], [[CHILD|Emilio]] will exchange at least three play turns with an adult, sibling, or peer in [[KEEP|3 of 4]] opportunities, using any communication mode and [[KEEP|min cues]].
+
+The clinician will demonstrate short, predictable games with blocks, vehicles, and bubbles. Adults will model “[[KEEP|mi turno]],” “[[KEEP|your turn]],” and “[[KEEP|otra vez]].” They will follow his interests and allow him to leave the activity. [[SIBLING|Inés Valera]] may join when she wants to participate.
+
+Baseline is [[KEEP|1 of 4]] opportunities with [[KEEP|mod cues]]. Staff will invite classmates without making them responsible for therapy. The team will record participation, enjoyment, and the support needed, rather than spoken output alone.
+
+Servicios / Service schedule
+
+Service	Provider	Setting	Frequency	Start date	End date	Start time	Stop time	Code
+Speech-language intervention	[[PROVIDER|Elena R. Castañeda]]	Home	Weekly, 45 minutes	[[DATE|October 15, 2026]]	[[DATE|January 7, 2027]]	[[TIME|4:15 p.m.]]	[[TIME|5:00 p.m.]]	[[KEEP|92507]]; modifier [[KEEP|GN]]
+Caregiver coaching visit	[[PROVIDER|Elena R. Castañeda]]	[[DAYCARE|Little Acorn Crossing]]	Monthly, 30 minutes	[[DATE|October 22, 2026]]	[[DATE|December 17, 2026]]	[[TIME|9:00 a.m.]]	[[TIME|9:30 a.m.]]	[[KEEP|92507]]; modifier [[KEEP|GN]]
+Service coordination	[[PROVIDER|J. Salcedo]]	Home or telephone	Monthly and as needed	[[DATE|October 8, 2026]]	[[DATE|January 8, 2027]]	[[TIME|3:30 p.m.]]	[[TIME|4:00 p.m.]]	Coordination record
+
+The family chose familiar settings. Missed visits will be rescheduled when possible. Changes in frequency require team review and family agreement.
+
+Otras agencias y seguimiento / Other agencies
+
+Agency	County	Connection
+[[AGENCY|Willowbank Family DSS Office]]	[[PLACE|Willowbank County]]	Family reports an active benefits contact.
+[[AGENCY|Lantern Nutrition WIC Office]]	[[PLACE|Willowbank County]]	Family receives nutrition support.
+[[AGENCY|Acorn Bridge Smart Start Partnership]]	[[PLACE|Willowbank County]]	Coordinator will offer a playgroup resource.
+[[AGENCY|Meadow Nest Early Head Start]]	[[PLACE|Willowbank County]]	Family requests information about available enrollment.
+
+The coordinator will share only information covered by the family’s signed release. The parents want resource details by email. No outside agency attended this review.
+
+The next visit will include breakfast choices and a transition demonstration. The clinician will review caregiver examples and adjust supports. Before the third birthday, the coordinator will explain transition options with [[SCHOOL|Alderbrook Grove Preschool]]. The family has not selected a placement.
+
+Agreement and documentation
+
+Both parents agreed that these outcomes reflect their priorities. Progress will be reviewed through caregiver reports, observation, and routine-based samples. The clinician will discuss findings in Spanish or English as requested.
+
+Prepared by [[PROVIDER|Elena R. Castañeda]], bilingual pediatric speech-language pathologist, on [[DATE|October 8, 2026]].
+
+Family participants: [[PARENT|Mariela Valera]] and [[PARENT|Tomás Valera]].
+Service coordinator: [[PROVIDER|J. Salcedo]].
+Documentation completed at [[TIME|5:25 p.m.]].

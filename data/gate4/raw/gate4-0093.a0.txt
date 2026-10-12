@@ -1,0 +1,170 @@
+De: [[PROVIDER|Elena Marisol Cárdenas]], patóloga bilingüe del habla y del lenguaje <[[EMAIL|elena.cardenas@senderoclaro.example]]>
+Para: [[PARENT|Adriana Vélez Soto]] <[[EMAIL|adriana.velez@correo.example]]>
+CC: [[PROVIDER|Marina Duarte]], coordinadora de servicios <[[EMAIL|marina.duarte@primerospasos.example]]>
+Fecha: [[DATE|9 de octubre de 2026]]
+Hora: [[TIME|3:40 p. m.]]
+Asunto: Evaluación del habla y del lenguaje de [[CHILD|Nicolás Vélez Soto]]
+Adjunto referido: Informe clínico, expediente [[ID|SC-2026-04182]]
+
+Estimada señora [[PARENT|Adriana Vélez Soto]]:
+
+Comparto el informe solicitado y conservo debajo los mensajes que aportaron información para la evaluación. Este documento integra la entrevista familiar, la observación, las muestras de lenguaje y las pruebas. Todos los datos personales y clínicos de este documento son ficticios.
+
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Nombre del paciente: [[CHILD|Nicolás Vélez Soto]]
+Nombre usado en casa: [[CHILD|Nico]]
+Fecha de nacimiento: [[DATE|6 de agosto de 2022]]
+Edad al evaluar: [[KEEP|4;2]]
+Fecha de evaluación: [[DATE|8 de octubre de 2026]]
+Horario: [[TIME|9:15 a. m.]] a [[TIME|10:45 a. m.]]
+Madre: [[PARENT|Adriana Vélez Soto]]
+Padre: [[PARENT|Julián Soto Ferrer]]
+Domicilio: [[PLACE|1842 Calle del Nogal, apartamento 6]], [[PLACE|Valle Robledo]], Carolina del Norte, [[PLACE|27563]]
+Condado: [[PLACE|Condado de Cedro]]
+Teléfono familiar: [[PHONE|(919) 555-0147]]
+Medicaid: [[MEDICAID_ID|482731096Q]]
+Autorización: [[ID|AUT-6821407]]
+Escuela: [[SCHOOL|Preescolar Puente de Colores]]
+Profesional: [[PROVIDER|Elena Marisol Cárdenas]]
+Empresa: [[EMPLOYER|Sendero Claro Terapia Pediátrica]]
+Lugar de evaluación: consultorio de [[EMPLOYER|Sendero Claro Terapia Pediátrica]]
+Servicio: evaluación del habla y del lenguaje, CPT [[KEEP|92523]]
+Diagnóstico propuesto: trastorno mixto del lenguaje receptivo y expresivo, ICD-10 [[KEEP|F80.2]]
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicitó esta evaluación porque [[CHILD|Nicolás]] comprende mejor las rutinas conocidas que las instrucciones nuevas. Sus padres también observan dificultad para explicar experiencias, pedir ayuda y sostener conversaciones. La maestra [[TEACHER|Carmen]] informó que participa con interés cuando puede señalar o manipular materiales, pero necesita apoyo para contestar preguntas durante actividades grupales.
+
+La entrevista se realizó principalmente en español. Ambos padres participaron y dieron ejemplos concretos de comunicación en casa. La información escolar llegó por escrito antes de la visita. La coordinadora [[PROVIDER|Marina Duarte]], de [[AGENCY|Centro de Desarrollo Infantil Primeros Pasos del Cedro]], facilitó los antecedentes disponibles. No se requirió intérprete.
+
+La madre describió avances recientes: el niño combina más palabras y busca a los adultos para compartir descubrimientos. Sin embargo, suele repetir una parte de la pregunta o señalar sin explicar. Cuando el adulto interpreta mal su mensaje, puede abandonar el intercambio. La familia desea que comunique sus necesidades con mayor independencia.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+Según el relato materno, el embarazo tuvo controles regulares. El nacimiento ocurrió en [[HOSPITAL|Hospital Infantil Arroyo Sereno]], en [[PLACE|Valle Robledo]], a las [[KEEP|38 semanas y 4 días]] de gestación. El peso al nacer fue de [[KEEP|3,180 g]]. Las puntuaciones Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] al quinto minuto.
+
+No se informó estancia en cuidados intensivos, dificultad respiratoria prolongada ni complicaciones de alimentación neonatal. El pediatra, doctor [[PROVIDER|Samuel Ibarra]], sigue el desarrollo general. La familia reportó infecciones de oído durante la primera infancia, sin cirugía ni colocación de tubos. Actualmente no hay medicamentos diarios ni alergias conocidas.
+
+La evaluación audiológica de [[DATE|18 de septiembre de 2026]], realizada por [[PROVIDER|Teresa Molina]] en [[HOSPITAL|Hospital Infantil Arroyo Sereno]], documentó respuestas compatibles con acceso auditivo suficiente para el habla. Este informe no sustituye una evaluación audiológica. Se recomienda seguimiento si aparecen nuevas infecciones, cambios en la respuesta al sonido o preocupaciones familiares.
+
+La madre recuerda primeras palabras cerca de los [[KEEP|19 meses]] y combinaciones espontáneas alrededor de los [[KEEP|32 meses]]. No describe pérdida de habilidades adquiridas. El niño camina, juega y participa en cuidados personales con ayuda habitual. La alimentación incluye distintas texturas; no se reportaron tos frecuente, atragantamiento ni dolor al comer.
+
+HISTORIA FAMILIAR Y LINGÜÍSTICA
+
+En casa viven ambos padres y la hermana mayor, [[SIBLING|Sol]], de [[KEEP|7 años]]. La abuela materna, doña [[FAMILY|Lupe]], cuida al niño algunas tardes. La tía [[FAMILY|Luz]] participa en las recogidas escolares. La madre trabaja en [[ORG|Cooperativa Textil Brisa del Cedro]] y el padre en [[ORG|Servicios de Jardinería Hoja Nueva]].
+
+El español es el idioma principal del hogar. El padre también usa inglés durante juegos y algunas rutinas. La familia estima una exposición aproximada de [[KEEP|75%]] al español y [[KEEP|25%]] al inglés fuera del horario escolar. Estas proporciones son estimaciones familiares, no mediciones directas. La abuela se comunica exclusivamente en español.
+
+El niño recibe enseñanza en ambos idiomas en [[SCHOOL|Preescolar Puente de Colores]]. La familia asiste al programa de cuentos de [[ORG|Biblioteca Comunitaria Semilla Abierta]] y a actividades de [[ORG|Centro Comunitario La Ventana]]. La voluntaria, señora [[PERSON|Eva Roldán]], suele apoyar las lecturas. Estos espacios ofrecen oportunidades naturales para conversar y compartir libros.
+
+La hermana [[SIBLING|Sol]] inicia muchos juegos imaginativos y a veces responde por él. Se sugirió darle tiempo para contestar antes de ofrecer ayuda. La familia también tiene un perro llamado [[PET|Chispa]]. Durante la entrevista, la madre recordó que el niño dijo “[[PET|Chispa]] ven”, una petición espontánea dirigida al animal.
+
+PROCEDIMIENTOS Y CONDUCTA
+
+Se administró [[KEEP|PLS-5 Spanish]], con los subtests [[KEEP|Auditory Comprehension]] y [[KEEP|Expressive Communication]]. También se obtuvo el índice [[KEEP|Total Language]]. Se añadieron observaciones en español e inglés, tareas de juego, una muestra conversacional y una exploración breve de sonidos del habla. Las tareas informales no generaron puntuaciones normativas.
+
+El niño entró acompañado por su madre y exploró los juguetes con curiosidad. Aceptó cambios de actividad cuando se anticiparon con imágenes. Permaneció sentado durante períodos breves y trabajó mejor cuando alternó tareas estructuradas con movimiento. No se observó una conducta que invalidara toda la evaluación, aunque algunas respuestas requirieron repetición.
+
+La examinadora siguió las reglas de administración de la prueba. Los apoyos adicionales se reservaron para actividades informales y se registraron por separado. La experiencia bilingüe se consideró al interpretar el desempeño. Las diferencias entre idiomas no se trataron por sí solas como evidencia de trastorno.
+
+RESULTADOS
+
+Los intervalos representan rangos de confianza y deben interpretarse junto con la información funcional. Las edades equivalentes describen el rendimiento en determinadas tareas; no indican una edad global de desarrollo. Los resultados de [[KEEP|PLS-5 Spanish]] se presentan a continuación.
+
+| Prueba o índice | Fecha | Puntuación estándar | Percentil | Intervalo de confianza del [[KEEP|90%]] | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|Auditory Comprehension]] | [[DATE|8 de octubre de 2026]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|70–84]] | [[KEEP|3;0]] |
+| [[KEEP|Expressive Communication]] | [[DATE|8 de octubre de 2026]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|68–82]] | [[KEEP|2;10]] |
+| [[KEEP|Total Language]] | [[DATE|8 de octubre de 2026]] | [[KEEP|73]] | [[KEEP|4]] | [[KEEP|68–81]] | [[KEEP|2;11]] |
+
+En comprensión, identificó objetos familiares y acciones representadas en imágenes. Siguió instrucciones sencillas con materiales presentes. En tareas informales, completó instrucciones relacionadas en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|min cues]]. Cuando las instrucciones incluían conceptos espaciales nuevos, obtuvo [[KEEP|4/10]], o [[KEEP|40%]], con [[KEEP|mod cues]].
+
+Reconoció posesión y algunas relaciones de tamaño. Las mayores dificultades aparecieron con negación, secuencias temporales y preguntas que exigían inferir información. Una respuesta incorrecta no siempre indicó desconocimiento del vocabulario: en ocasiones eligió antes de escuchar toda la instrucción. La repetición y una pausa breve mejoraron algunas respuestas.
+
+En expresión, utilizó sustantivos, verbos frecuentes y combinaciones breves. Produjo [[KEEP|"quiero más agua"]], [[KEEP|"el carro cayó"]] y [[KEEP|"no cabe aquí"]]. Sus mensajes fueron funcionales, pero incluyeron pocas explicaciones. Se observaron omisiones de artículos y variación en concordancia. Estas características aparecieron en distintos contextos, con apoyos diferentes.
+
+La muestra incluyó respuestas correctas a preguntas sobre acciones en [[KEEP|6/10]] oportunidades, equivalentes a [[KEEP|60%]], sin ayuda adicional. Para describir relaciones espaciales obtuvo [[KEEP|3/10]], o [[KEEP|30%]], con [[KEEP|mod cues]]. Durante una tarea de narración, mencionó personajes y acciones aisladas, pero necesitó preguntas para conectar los acontecimientos.
+
+En inglés empleó palabras familiares y algunas combinaciones aprendidas en la escuela. Respondió mejor cuando la actividad tenía objetos presentes. Su desempeño en inglés no se comparó directamente con normas monolingües. La información disponible muestra necesidades de apoyo también en español, el idioma de mayor experiencia y uso familiar.
+
+La exploración del habla identificó sustituciones variables de [[KEEP|/k/]] por [[KEEP|/t/]] y simplificaciones en palabras largas. La producción de [[KEEP|/ɾ/]] fue inconsistente. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Con modelo visual y repetición obtuvo [[KEEP|7/10]] producciones de [[KEEP|/k/]], equivalentes a [[KEEP|70%]], con [[KEEP|mod cues]].
+
+La voz y la resonancia no mostraron características preocupantes durante esta sesión. No se observaron bloqueos ni tensión al hablar. La revisión oral funcional mostró movimientos suficientes para las tareas realizadas. Esta exploración breve no constituye una evaluación completa de articulación; se recomienda ampliar la muestra si las dificultades persisten.
+
+En interacción social, buscó atención compartida, mostró objetos y aceptó turnos de juego. Durante una actividad con figuras, dijo “[[PEER|Leo]] tiene carro”, al recordar a un compañero. También mencionó a [[PEER|Amira]] cuando vio una mochila. Estas referencias fueron pertinentes, aunque requirió apoyo para explicar qué había ocurrido con sus compañeros.
+
+IMPRESIONES CLÍNICAS
+
+Los resultados apoyan una dificultad del lenguaje receptivo y expresivo que afecta la participación cotidiana. La conclusión se basa en la prueba, la entrevista y las observaciones en ambos idiomas. El bilingüismo no explica por sí solo las dificultades documentadas. Se propone el código ICD-10 [[KEEP|F80.2]], sujeto a revisión con el equipo tratante.
+
+Las fortalezas incluyen intención comunicativa, interés por otras personas, juego funcional y respuesta favorable a modelos breves. Las necesidades principales son comprender instrucciones nuevas, ampliar mensajes y organizar relatos. Los errores de sonidos pueden reducir la claridad, pero la muestra actual no permite establecer un diagnóstico adicional con suficiente respaldo.
+
+RECOMENDACIONES
+
+Se recomienda terapia individual del lenguaje, CPT [[KEEP|92507]], con práctica familiar integrada. La frecuencia inicial propuesta es dos sesiones semanales de treinta minutos, durante un período de doce semanas. El equipo deberá revisar tolerancia, asistencia y progreso antes de mantener o cambiar esa frecuencia. El modificador [[KEEP|GN]] se incluirá cuando corresponda.
+
+La intervención debe permitir el uso de español e inglés según la actividad y el interlocutor. La familia puede mantener el español en casa. No se recomienda restringir el idioma familiar. El uso de estrategias de [[KEEP|Hanen]] puede apoyar los turnos, las expansiones y la espera durante rutinas conocidas.
+
+Los siguientes objetivos iniciales requieren ajuste después de obtener una línea de base adicional:
+
+1. Seguir instrucciones con relaciones espaciales en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|min cues]].
+2. Producir mensajes que incluyan acción y detalle en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|mod cues]].
+3. Relatar una secuencia breve usando apoyos visuales en [[KEEP|4/5]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|mod cues]].
+4. Solicitar aclaración o ayuda en [[KEEP|4/5]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|min cues]].
+
+Para practicar, el adulto puede describir lo que el niño hace, esperar y ampliar su mensaje con pocas palabras. Conviene ofrecer elecciones reales y evitar preguntas continuas. En lectura compartida, se recomienda comentar imágenes, conectar el cuento con experiencias y aceptar respuestas mediante palabras, gestos o señalamientos.
+
+La maestra [[TEACHER|Carmen]] puede anticipar instrucciones con imágenes y comprobar comprensión mediante una acción. Se propone compartir ejemplos funcionales entre familia, escuela y terapeuta. La revisión está prevista para [[DATE|7 de enero de 2027]]. Una nueva medición deberá considerar oportunidades de práctica, cambios médicos y desempeño cotidiano.
+
+Atentamente,
+
+[[PROVIDER|Elena Marisol Cárdenas]]
+Patóloga bilingüe del habla y del lenguaje
+[[EMPLOYER|Sendero Claro Terapia Pediátrica]]
+[[PLACE|245 Avenida del Laurel, oficina 203]]
+[[PLACE|Valle Robledo]], Carolina del Norte, [[PLACE|27563]]
+Tel.: [[PHONE|(919) 555-0186]]
+Correo: [[EMAIL|elena.cardenas@senderoclaro.example]]
+Sitio: [[URL|https://senderoclaro.example]]
+Licencia profesional: [[ID|NC-SLP-48276]]
+
+> De: [[TEACHER|Carmen Valdés]]
+> Para: [[PROVIDER|Elena Marisol Cárdenas]]
+> Fecha: [[DATE|7 de octubre de 2026]]
+> Hora: [[TIME|12:20 p. m.]]
+> Asunto: Observaciones del salón
+>
+> Buenas tardes:
+>
+> [[CHILD|Nico]] disfruta las canciones, los bloques y la mesa de agua. Busca a [[PEER|Leo]] para jugar y sonríe cuando [[PEER|Amira]] le ofrece materiales. En grupos grandes observa primero. Le ayuda recibir una instrucción breve y ver qué debe hacer.
+>
+> Ayer dijo [[KEEP|"yo quiero azul"]] y después “[[PEER|Leo]] dame”. Cuando hubo un cambio de actividad, señaló la puerta y repitió [[KEEP|"afuera"]]. Le mostramos el horario y pudo continuar. Durante los cuentos contesta preguntas sobre objetos, pero necesita apoyo para explicar causas.
+>
+> La asistente, Miss [[TEACHER|Ana]], usa imágenes para anticipar la merienda. Ese apoyo facilita que pida lo que necesita. Podemos registrar ejemplos y compartirlos con la familia.
+>
+> Saludos,
+>
+> [[TEACHER|Carmen Valdés]]
+> Maestra de aula
+> [[SCHOOL|Preescolar Puente de Colores]]
+> [[EMAIL|carmen.valdes@puentecolores.example]]
+> [[PHONE|(984) 555-0123]]
+>
+>> De: [[PARENT|Adriana Vélez Soto]]
+>> Para: [[PROVIDER|Elena Marisol Cárdenas]]
+>> Fecha: [[DATE|6 de octubre de 2026]]
+>> Hora: [[TIME|7:05 p. m.]]
+>> Asunto: Información antes de la cita
+>>
+>> Hola:
+>>
+>> Confirmo la cita de [[DATE|8 de octubre de 2026]] a las [[TIME|9:15 a. m.]]. Llevaré el informe de audición. En casa, [[CHILD|Nicolás]] habla más cuando cocinamos o cuidamos al perro. A veces dice [[KEEP|"ayuda mamá"]] y otras veces me lleva de la mano.
+>>
+>> Su hermana [[SIBLING|Sol]] quiere ayudar y completa sus frases. Estamos practicando esperar. Doña [[FAMILY|Lupe]] dice que entiende mejor cuando puede ver el objeto. Mi esposo, [[PARENT|Julián Soto Ferrer]], también participará en la entrevista.
+>>
+>> Gracias,
+>>
+>> [[PARENT|Adriana Vélez Soto]]
+>> [[EMAIL|adriana.velez@correo.example]]
+>> [[PHONE|(919) 555-0147]]

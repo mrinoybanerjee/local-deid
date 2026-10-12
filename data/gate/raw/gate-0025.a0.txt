@@ -1,0 +1,19 @@
+Nota diaria de terapia del habla y lenguaje
+
+Fecha: [[DATE|8 de octubre de 2026]]. Horario: [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]]
+Cliente: [[CHILD|Mateo Salcedo Verdin]], apodo [[CHILD|Teo]]. Edad: [[KEEP|4;2]].
+Expediente: [[ID|SL-604183]]. Medicaid: [[MEDICAID_ID|731846205K]].
+Profesional bilingue: [[PROVIDER|Elena Arvizo Beltran]], de [[EMPLOYER|Servicios Pediatricos Puente de Nube]].
+Servicio individual presencial. CPT: [[KEEP|92507]]. Diagnostico ICD-10: [[KEEP|F80.2]].
+
+S: La mama, [[PARENT|Guadalupe Verdin Solera]], conocida como [[PARENT|Lupita]], informo que [[CHILD|Mateo]] pide ayuda con frases cortas en espanol. El papa, [[PARENT|Rafael Salcedo Niebla]], observa mayor frustracion cuando cambia la rutina. Su hermano [[SIBLING|Juan Salcedo Verdin]], llamado [[SIBLING|Juanito]], suele responder por el cliente. La familia practica turnos durante la cena y usa al perro [[PET|Canela]] para motivar peticiones. El cliente durmio bien y llego tranquilo. La tia [[FAMILY|Josefina Verdin Almez]] acompano a la familia y aporto ejemplos de comunicacion durante el juego.
+
+Historia: Nacio el [[DATE|3 de agosto de 2022]] en [[HOSPITAL|Hospital Infantil Valle del Junco]], en [[PLACE|Pinar del Alba]], Carolina del Norte. Presento dificultad respiratoria neonatal y permanecio doce dias en la unidad de cuidados intensivos neonatales, NICU. La doctora [[PROVIDER|Marina Cordero Lujan]] superviso el alta; el doctor [[PROVIDER|Esteban Rivas Olmeda]] mantiene el seguimiento pediatrico. La familia niega cirugias posteriores. Segun el resumen aportado, no hubo complicaciones neurologicas. El abuelo [[FAMILY|Jose Verdin Almez]], apodado [[FAMILY|Pepe]], ayuda con transporte y citas.
+
+O: Se trabajaron peticiones, comprension de instrucciones y produccion de [[KEEP|/k/]] mediante animales, bloques y un libro. Produjo [[KEEP|"quiero casa"]] y [[KEEP|"dame carro"]] espontaneamente. Para el objetivo [[KEEP|"casa"]], dijo [[KEEP|"tasa"]] en dos ensayos. Logro [[KEEP|8/10]] peticiones con [[KEEP|claves moderadas]] y [[KEEP|6/10]] instrucciones de dos pasos con apoyo visual. Produjo [[KEEP|/k/]] inicial con [[KEEP|70%]] de precision; aparecio [[KEEP|[w]]] durante una imitacion no relacionada. La muestra incluyo el codigo SALT [[KEEP|[EW]]]. En la evaluacion previa del [[DATE|17 de septiembre de 2026]], [[KEEP|PLS-5 Spanish]] mostro puntuacion estandar [[KEEP|78]] y percentil [[KEEP|7]] en comunicacion expresiva.
+
+A: El cliente mostro mejor participacion cuando pudo elegir materiales. Las pausas facilitaron respuestas independientes. La maestra, Sra. [[TEACHER|Nora Ceballos Trevino]], de [[SCHOOL|Escuela Primaria Sendero del Roble]], reporta que juega con [[PEER|Jesus Aranda Montalvo]], llamado [[PEER|Chuy]], y [[PEER|Ines Palomares Soria]]. Estos datos escolares fueron informados por la familia; no se observaron directamente. Persisten dificultades para ampliar frases y generalizar sonidos. El uso de ambos idiomas apoya la participacion familiar.
+
+P: Continuar sesiones semanales. Practicar cinco minutos diarios con turnos y espera, sin exigir repeticiones continuas. Revisar el IFSP fechado [[DATE|24 de septiembre de 2026]] con la coordinadora [[PROVIDER|Adriana Varela Tovar]], de [[AGENCY|CDSA del Condado de Brisaflor]]. Solicitar ejemplos de [[DAYCARE|Guarderia Brotes del Lucero]]. Domicilio registrado: [[PLACE|184 Sendero del Mirlo]], [[PLACE|Pinar del Alba]], [[PLACE|Condado de Brisaflor]], [[PLACE|27904]].
+
+Contactos: mama [[PHONE|(252) 555-0146]]; papa [[PHONE|252-555-0172]], empleado de [[ORG|Talleres Horizonte de Cedro]]; abuelo [[PHONE|+1 252 555 0193]]; tia en Mexico [[PHONE|+52 55 5555 0108]]. Correo familiar: [[EMAIL|familia.salcedo@example.com]]. Portal: [[URL|https://puente-nube.example.com]]. La familia confirmo estos contactos para recibir materiales y coordinar la siguiente visita. Se entrego una hoja de practica en espanol. Firma: [[PROVIDER|Elena Arvizo Beltran]].

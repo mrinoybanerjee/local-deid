@@ -1,0 +1,23 @@
++ Name: [[CHILD|Mateo Duarte]], llamado [[CHILD|Teo]]
++ CA: [[KEEP|4;2]]
++ Context: Individual bilingual speech-language session, [[DATE|October 8, 2026]], [[TIME|9:10 a.m.]] to [[TIME|9:55 a.m.]], at [[SCHOOL|Escuela Primaria Sendero Azul]], [[SCHOOL|Distrito Escolar de Valleclaro]], North Carolina. Clinician: [[PROVIDER|Elena Solís]], [[EMPLOYER|Puentes del Habla Therapy]]. Record: [[ID|SLP-602814]]. Medicaid: [[MEDICAID_ID|830746215Q]].
+
+Resumen diario / SOAP
+
+S — Información de la familia:
+Mamá [[PARENT|Guadalupe Rivas]], or [[PARENT|Lupita]], reported, “En casa pide ayuda, pero cuando está cansado se queda calladito.” Papá [[PARENT|Jesús Duarte]], called [[PARENT|Chuy]], practices during snack. Brother [[SIBLING|José Duarte]], nicknamed [[SIBLING|Pepe]], sometimes answers for him. Abuela [[FAMILY|Rosa Rivas]] agreed to pause before helping. Family lives at [[PLACE|217 Willow Lantern Lane]], [[PLACE|Valleclaro]], [[PLACE|Condado de Cedroluz]], [[PLACE|27864]]. Callback: [[PHONE|919-555-0146]]; email: [[EMAIL|lupita.rivas@example.invalid]].
+
+Historical intake lists gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. Mother reported no new hearing concerns or illness.
+
+O — Observación y tratamiento:
+Ms. [[TEACHER|Maribel Acosta]] provided the classroom picture schedule. Classmate [[PEER|Juan Rivera]], called [[PEER|Juanito]], joined a brief turn-taking activity. Client requested materials in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], then followed two-step directions in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Accuracy increased to [[KEEP|80%]] after modeling.
+
+Used [[KEEP|Hanen]] strategies and brief [[KEEP|PROMPT]] support during play. Practiced targets “[[KEEP|quiero agua]],” “[[KEEP|mi turno]],” and “[[KEEP|carro]].” Child produced “[[KEEP|yo quielo]]” and “[[KEEP|ca[w]o]]”; distortion involved /[[KEEP|ɾ]]/ and substitution [[KEEP|[w]]]. During the animal activity, he said “[[PET|Nube]] corre,” referring to the family dog. A separate utterance, “[[KEEP|yo tiene]]” [[KEEP|[EW]]], showed agreement difficulty. We practiced [[KEEP|/k/]] with visual placement cues.
+
+A — Impresión clínica:
+Functional requesting improved when adults waited. Spanish remained the preferred language for spontaneous comments; English emerged during classroom routines. Previous [[KEEP|PLS-5]] results included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. Today's observations support continued intervention; they do not establish a new standardized score. Diagnosis: [[KEEP|F80.2]]. Service: [[KEEP|92507]], modifier [[KEEP|GN]].
+
+P — Plan y coordinación:
+Continue turn-taking and caregiver coaching under historical IFSP outcome [[KEEP|2]], aligned with current classroom goals. Service coordinator [[PROVIDER|Daniela Montes]] reviewed transition records from [[AGENCY|Oficina de la Agencia de Servicios para el Desarrollo Infantil de Cedroluz]] ([[AGENCY|CDSA Cedroluz]]). Her agency, [[AGENCY|Agencia Comunitaria de Coordinación de Servicios y Apoyo Familiar de Valleclaro]] ([[AGENCY|ACSAF Valleclaro]]), maintains family navigation.
+
+With existing consent, coordinator will follow up with [[AGENCY|DSS Cedroluz]], [[AGENCY|WIC Valleclaro]], [[AGENCY|Smart Start Cedroluz]], and [[AGENCY|Early Head Start Senderitos]] about transportation and sibling enrollment. Family requested Spanish materials: “Así todos podemos practicar igual.” Next session: [[DATE|October 15, 2026]], [[TIME|9:10 a.m.]]. Home practice: offer two choices, wait, and model one short phrase. Clinician will review caregiver examples and classroom carryover at the next visit.

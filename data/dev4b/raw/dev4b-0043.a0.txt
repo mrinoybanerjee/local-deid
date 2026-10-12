@@ -1,0 +1,136 @@
+INFORME DE EVALUACIÓN DEL HABLA Y EL LENGUAJE
+
+ENCABEZADO
+
+- Nombre del niño: [[CHILD|Mateo Alejandro Cruz Rodríguez]], a quien todos llaman "[[CHILD|Teo]]"
+- Fecha de nacimiento: [[DATE|June 25, 2022]]
+- Edad cronológica al momento de la evaluación: [[KEEP|4;2]]
+- Fechas de la evaluación: [[DATE|August 25, 2026]] y [[DATE|August 27, 2026]]
+- Fecha del informe: [[DATE|September 9, 2026]]
+- Número de expediente médico (MRN): [[ID|00482913]]
+- Número de Medicaid de Carolina del Norte: [[MEDICAID_ID|804216573B]]
+- Número de caso del CDSA: [[ID|2456-19]]
+- Evaluadora: [[PROVIDER|Mireya Santos Delgado]], M.S., CCC-SLP, patóloga del habla y el lenguaje bilingüe (inglés/español)
+- Lugar de empleo de la evaluadora: [[EMPLOYER|Mountain Speech & Language Partners, PLLC]]
+- Dirección de la clínica: [[PLACE|310 Maple Grove Avenue, Suite 204]], [[PLACE|Hendersonville]], [[PLACE|28791]]
+- Teléfono de la clínica: [[PHONE|(828) 555-0147]]
+- Correo electrónico de la evaluadora: [[EMAIL|msantos@mountainspeechpartners.com]]
+- Sitio web de la clínica: [[URL|www.mountainspeechpartners.com]]
+- Pediatra que refiere: Dr. [[PROVIDER|Samuel Kim]]
+- Coordinadora de servicios del CDSA: [[PROVIDER|Jennifer Boyd]], correo [[EMAIL|jboyd@wnccdsa.org]]
+- Agencia de intervención temprana: [[AGENCY|CDSA de las Tierras Altas Occidentales]]
+- Escuela actual: [[SCHOOL|Sunrise Avenue Elementary School]], salón de Pre-Kínder
+- Guardería anterior: [[DAYCARE|Little Steps Daycare]]
+- Dirección residencial: [[PLACE|142 Birchwood Lane]], [[PLACE|Hendersonville]], [[PLACE|Henderson County]], [[PLACE|28792]]
+- Teléfono de contacto de la familia: [[PHONE|(828) 555-0192]]
+
+MOTIVO DE REFERENCIA Y ANTECEDENTES
+
+- [[CHILD|Teo]] fue referido para esta evaluación por el Dr. [[PROVIDER|Samuel Kim]], su pediatra de cabecera, después de que su maestra de Pre-Kínder, la Sra. [[TEACHER|Diane Patterson]], notara que el niño usa muy pocas palabras en comparación con sus compañeros y que con frecuencia señala en lugar de hablar.
+- Su madre, [[PARENT|Lucía Fernanda Rodríguez Paz]], reporta que le preocupa que "[[CHILD|Teo]]" todavía no forme oraciones completas y que extraños, incluida su niñera, [[FAMILY|Carmen Luna Reyes]], a menudo no le entienden.
+- [[CHILD|Teo]] recibió servicios de intervención temprana del [[AGENCY|CDSA de las Tierras Altas Occidentales]] entre los [[KEEP|18 meses]] y los [[KEEP|3 años]] de edad, bajo un Plan Individualizado de Servicios para la Familia (IFSP) que incluía el [[KEEP|Resultado 1]] (comunicación funcional), el [[KEEP|Resultado 2]] (alimentación) y el [[KEEP|Resultado 3]] (participación familiar).
+- La evaluadora anterior durante ese periodo fue [[PROVIDER|Laura Jiménez]], M.S., CCC-SLP, quien documentó un retraso moderado del lenguaje expresivo a los [[KEEP|26 meses]].
+- Al salir del CDSA por motivo de edad, el niño fue transferido al sistema escolar público y comenzó servicios de habla-lenguaje a través de la escuela, pero la familia solicita esta evaluación privada e independiente para obtener una segunda opinión y planificar el apoyo en el hogar.
+- La evaluación se llevó a cabo en inglés y en español, dado que [[CHILD|Teo]] escucha ambos idiomas en casa; la evaluadora es bilingüe y no fue necesario contratar un intérprete.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA
+
+- [[CHILD|Mateo]] nació el [[DATE|June 25, 2022]] en el [[HOSPITAL|Mission Regional Medical Center]], en [[PLACE|Asheville]], [[PLACE|Buncombe County]], a las [[KEEP|35 semanas]] de gestación.
+- El parto fue por cesárea de emergencia debido a sufrimiento fetal; el peso al nacer fue de [[KEEP|2,100 gramos]] (aproximadamente [[KEEP|4 libras, 10 onzas]]).
+- Las calificaciones de Apgar fueron [[KEEP|6/10]] al minuto y [[KEEP|8/10]] a los cinco minutos.
+- [[CHILD|Teo]] permaneció 18 días en la unidad de cuidados intensivos neonatales (UCIN) del [[HOSPITAL|Mission Regional Medical Center]] por dificultad respiratoria leve y problemas de alimentación.
+- La neonatóloga a cargo fue la Dra. [[PROVIDER|Patricia Owens]]; el pediatra de seguimiento después del alta fue el Dr. [[PROVIDER|Samuel Kim]].
+- Durante su estancia en la UCIN, [[CHILD|Teo]] requirió alimentación por sonda nasogástrica durante aproximadamente una semana antes de pasar a la alimentación oral completa.
+- La madre, [[PARENT|Lucía]], reporta antecedentes de otitis media recurrente entre los [[KEEP|12]] y los [[KEEP|30 meses]] de edad, con colocación de tubos de ventilación (miringotomía) a los [[KEEP|18 meses]], realizada por el otorrinolaringólogo Dr. [[PROVIDER|Benjamin Alvarado]].
+- No se reportan convulsiones, traumatismos craneales ni hospitalizaciones adicionales.
+- El historial de vacunación está al día según el expediente del Dr. [[PROVIDER|Kim]].
+- El diagnóstico médico actual incluye trastorno mixto del lenguaje receptivo-expresivo ([[KEEP|F80.2]]) y trastorno fonológico ([[KEEP|F80.0]]), ambos documentados en el expediente escolar.
+- El código de procedimiento utilizado para la evaluación de hoy es el [[KEEP|92523]] (evaluación del habla y del lenguaje con interpretación del fonema).
+
+HISTORIA FAMILIAR Y DEL LENGUAJE
+
+- [[CHILD|Teo]] vive principalmente con su madre, [[PARENT|Lucía Fernanda Rodríguez Paz]], y el esposo de ella, [[PARENT|Marcos Villalta Osorio]], en la dirección indicada arriba.
+- También vive en el hogar su media hermana, [[SIBLING|Camila Villalta Rodríguez]], de [[KEEP|6 años]], hija de [[PARENT|Lucía]] y [[PARENT|Marcos]].
+- El padre biológico del niño, [[PARENT|Édgar Cruz Montalvo]], tiene custodia compartida y ve a [[CHILD|Teo]] cada fin de semana; está casado con [[PARENT|Rosa Pineda Gómez]], quien también participa en el cuidado del niño.
+- [[PARENT|Édgar]] trabaja dos empleos para mantener la manutención: de día en la [[ORG|Smoky Mountain Construction Company]], y de noche en segundo turno en la planta que la familia conoce solamente por sus siglas, "[[ORG|DPC]]"; nadie en la familia sabe ni usa el nombre completo de esa empresa.
+- [[PARENT|Lucía]] también trabaja dos empleos: por las mañanas en la [[ORG|Tienda de Variedades La Economía]], y por las tardes y fines de semana en el [[ORG|Restaurante El Fogón Latino]].
+- [[PARENT|Marcos]] trabaja en la [[ORG|Blue Ridge Family Farm]], donde cuida animales y maneja maquinaria agrícola.
+- [[PARENT|Rosa]] trabaja en [[ORG|Servicios de Limpieza Estrella del Sur]], limpiando oficinas durante las noches.
+- Debido a los horarios de trabajo de ambos padres, la abuela materna, [[FAMILY|Alicia Paz Fernández]], y la niñera, [[FAMILY|Carmen Luna Reyes]], se turnan para cuidar a [[CHILD|Teo]] y a [[SIBLING|Camila]] después de la escuela.
+- La familia recibió anteriormente beneficios de [[AGENCY|WIC]] y actualmente mantiene contacto con [[AGENCY|Smart Start de Henderson County]] para servicios de alfabetización familiar.
+- En el hogar se habla principalmente español con la madre, la abuela y la niñera, e inglés con el padre y la madrastra; [[CHILD|Teo]] escucha una mezcla de los dos idiomas (bilingüismo simultáneo) desde el nacimiento.
+- [[PARENT|Lucía]] reporta que su propia familia tiene antecedentes de retraso del habla: un tío materno no habló oraciones completas hasta los [[KEEP|4 años]] y recibió terapia en la escuela primaria.
+- Los primos de [[CHILD|Teo]], [[FAMILY|Valentina Cruz Soto]] y [[FAMILY|Josué Cruz Soto]], viven cerca y juegan con él casi todos los fines de semana cuando visita a su padre.
+- En casa de la madre hay un perro llamado [[PET|Max]], al que [[CHILD|Teo]] adora; durante la sesión de evaluación mencionó varias veces a "[[PET|Max]]" y produjo la frase "[[KEEP|Max tomi agua]]" (por "Max toma agua"), con sustitución de /s/ por [[KEEP|[t]]].
+- En la escuela, sus compañeros de clase más cercanos son [[PEER|Liam Carter]] y [[PEER|Sofía Nguyen]]; ambos suelen traducir o repetir lo que [[CHILD|Teo]] dice cuando los adultos no le entienden.
+- En el grupo pequeño de lenguaje de la escuela también participan [[PEER|Ava Thompson]] y [[PEER|Noah Brooks]].
+- La maestra de Pre-Kínder es la Sra. [[TEACHER|Diane Patterson]] y el asistente de aula es el Sr. [[TEACHER|Marcus Davis]].
+- El terapeuta ocupacional de la escuela, [[PROVIDER|Ashley Pratt]], OTR/L, también atiende a [[CHILD|Teo]] por dificultades leves de motricidad fina.
+- La última revisión del IFSP, antes de la transición a servicios escolares, se llevó a cabo el [[DATE|July 14, 2024]].
+
+OBSERVACIONES DE CONDUCTA
+
+- [[CHILD|Teo]] se mostró amigable y cooperador durante ambas sesiones, que se realizaron de [[TIME|9:00 a.m.]] a [[TIME|11:30 a.m.]] el primer día y de [[TIME|1:00 p.m.]] a [[TIME|2:15 p.m.]] el segundo día.
+- Mantuvo atención conjunta de manera consistente y respondió a su nombre y al apodo "[[CHILD|Teo]]" sin dificultad.
+- Usó gestos, señalar y palabras sueltas para comunicarse; combinó dos palabras en algunas ocasiones ("[[KEEP|mas agua]]", "[[KEEP|no queo]]") pero rara vez produjo oraciones de tres o más palabras.
+- Se frustró levemente cuando no fue comprendido, golpeando la mesa una vez, pero se calmó rápidamente con apoyo verbal.
+- Mostró buena imitación motora y disposición para repetir palabras modelo con [[KEEP|claves verbales moderadas]] (mod cues).
+- No se observaron conductas repetitivas significativas ni dificultades sensoriales que interfirieran con la tarea.
+
+RESULTADOS DE LAS PRUEBAS
+
+- Se administraron las siguientes pruebas estandarizadas en inglés y español, con observación clínica complementaria:
+
+| Prueba / Subprueba | Puntaje estándar | Percentil | Edad equivalente / Rango |
+|---|---|---|---|
+| [[KEEP|Preschool Language Scale-5 (PLS-5)]] – [[KEEP|Comprensión Auditiva]] | [[KEEP|SS 79]] | [[KEEP|percentil 8]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5]] – [[KEEP|Expresión Verbal]] | [[KEEP|SS 73]] | [[KEEP|percentil 4]] | [[KEEP|2;3–2;9]] |
+| [[KEEP|PLS-5]] – [[KEEP|Puntaje Total del Lenguaje]] | [[KEEP|SS 75]] | [[KEEP|percentil 5]] | [[KEEP|intervalo de confianza 68-82]] |
+| [[KEEP|CELF Preschool-3]] – [[KEEP|Estructura del Lenguaje]] | [[KEEP|SS 71]] | [[KEEP|percentil 3]] | — |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] | [[KEEP|SS 65]] | [[KEEP|percentil <1]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|Peabody Picture Vocabulary Test-5 (PPVT-5)]] | [[KEEP|SS 85]] | [[KEEP|percentil 16]] | — |
+
+- En la [[KEEP|PLS-5]], subprueba de Comprensión Auditiva, [[CHILD|Teo]] identificó correctamente [[KEEP|6 de 12]] objetos y acciones solicitadas en español, y [[KEEP|5 de 12]] en inglés.
+- En la subprueba de Expresión Verbal, produjo frases de dos palabras de manera consistente, pero solo logró [[KEEP|2 de 10]] oraciones de tres palabras solicitadas.
+- El análisis fonológico basado en la [[KEEP|GFTA-3]] mostró los siguientes patrones de error:
+  - Sustitución de [[KEEP|/k/]] por [[KEEP|[t]]], como en "[[KEEP|tasa]]" por "casa"
+  - Reducción de grupos consonánticos, como en "[[KEEP|lato]]" por "plato"
+  - Sustitución de [[KEEP|/r/]] por [[KEEP|[w]]], como en "[[KEEP|wopa]]" por "ropa"
+  - Omisión de consonantes finales en inglés, como en "[[KEEP|ca]]" por "cat"
+- La inteligibilidad del habla se estimó en aproximadamente [[KEEP|40%]] para oyentes desconocidos y [[KEEP|65%]] para familiares cercanos.
+- Durante la muestra de lenguaje espontáneo, codificada con convenciones [[KEEP|SALT]], se observaron varias instancias de palabra incompleta marcadas como [[KEEP|[EW]]].
+- En la tarea de seguimiento de instrucciones de dos pasos, [[CHILD|Teo]] logró [[KEEP|3 de 5]] ensayos con [[KEEP|claves mínimas]] (min cues) y [[KEEP|5 de 5]] con [[KEEP|claves máximas verbales]] (max verbal cues).
+- Se evaluó también la praxis oral motora; no se identificaron signos de apraxia infantil del habla, aunque se observó baja precisión en los movimientos linguales rápidos.
+
+IMPRESIONES
+
+- Los resultados de esta evaluación son consistentes con un trastorno mixto del lenguaje receptivo-expresivo de moderado a severo ([[KEEP|F80.2]]), junto con un trastorno fonológico moderado ([[KEEP|F80.0]]), en ambos idiomas de [[CHILD|Teo]].
+- El patrón de errores fonológicos y la baja inteligibilidad del habla afectan significativamente su capacidad de comunicarse con compañeros como [[PEER|Liam]] y [[PEER|Sofía]], así como con adultos fuera del círculo familiar inmediato, incluida la niñera, [[FAMILY|Carmen]].
+- El perfil bilingüe de [[CHILD|Teo]] no explica por sí solo el grado de retraso observado, dado que mostró dificultades similares en ambos idiomas; por lo tanto, no se trata únicamente de una diferencia relacionada con el aprendizaje de dos idiomas, sino de un verdadero trastorno del lenguaje.
+- El apoyo familiar es sólido, pero los horarios de trabajo de [[PARENT|Lucía]] y [[PARENT|Édgar]] (ambos con dos empleos) limitan el tiempo disponible para practicar estrategias en casa; será importante involucrar también a [[FAMILY|Alicia]] y [[FAMILY|Carmen]], quienes pasan tiempo significativo con el niño.
+- [[CHILD|Teo]] se beneficiaría de servicios continuos de terapia del habla y el lenguaje, con énfasis en intervención bilingüe y en estrategias de fonología funcional.
+
+RECOMENDACIONES
+
+- Continuar o aumentar los servicios de terapia del habla y el lenguaje a una frecuencia de dos sesiones individuales por semana, de [[KEEP|30 minutos]] cada una, con un enfoque bilingüe.
+- Incorporar el enfoque de ciclos fonológicos ([[KEEP|Cycles]]) para abordar los patrones de sustitución y reducción de grupos consonánticos identificados.
+- Considerar estrategias del modelo [[KEEP|Hanen]] y técnicas táctiles-cinestésicas tipo [[KEEP|PROMPT]] para mejorar la precisión articulatoria y la participación familiar en el tratamiento.
+- Coordinar con la terapeuta ocupacional, [[PROVIDER|Ashley Pratt]], y con la maestra, la Sra. [[TEACHER|Patterson]], para mantener consistencia entre los entornos escolar y clínico.
+- Solicitar una reunión del equipo del IEP en [[SCHOOL|Sunrise Avenue Elementary School]] para revisar las metas actuales de lenguaje a la luz de estos resultados.
+- Capacitar a los cuidadores principales, incluidos [[PARENT|Lucía]], [[PARENT|Marcos]], [[FAMILY|Alicia]] y [[FAMILY|Carmen]], en estrategias simples de expansión del lenguaje durante las rutinas diarias, como la hora de comer y el baño.
+- Fomentar actividades de juego estructurado con los primos [[FAMILY|Valentina]] y [[FAMILY|Josué]], y con los compañeros [[PEER|Liam]] y [[PEER|Sofía]], para practicar turnos conversacionales en un ambiente de baja presión.
+- Reevaluar la inteligibilidad del habla y el progreso fonológico en seis meses, aproximadamente en [[DATE|March 9, 2027]], utilizando medidas comparables a las administradas hoy.
+- Mantener comunicación entre la clínica y la familia a través del correo [[EMAIL|msantos@mountainspeechpartners.com]] o del teléfono [[PHONE|(828) 555-0147]] para programar citas futuras.
+- Se recomienda a la familia visitar el sitio web de la clínica, [[URL|www.mountainspeechpartners.com]], donde se encuentran materiales educativos bilingües para practicar en casa.
+
+PLAN DE SEGUIMIENTO
+
+- Esta evaluadora enviará copia de este informe a el Dr. [[PROVIDER|Samuel Kim]], a la coordinadora de servicios [[PROVIDER|Jennifer Boyd]], y al equipo escolar de [[CHILD|Teo]], previa autorización firmada por [[PARENT|Lucía Fernanda Rodríguez Paz]].
+- Se programará una cita de seguimiento con la familia para revisar este informe en detalle, idealmente antes del [[DATE|October 1, 2026]].
+- Cualquier pregunta puede dirigirse a [[PROVIDER|Mireya Santos Delgado]] en [[EMAIL|msantos@mountainspeechpartners.com]] o al [[PHONE|(828) 555-0147]], en [[EMPLOYER|Mountain Speech & Language Partners, PLLC]].
+
+Firmado electrónicamente,
+[[PROVIDER|Mireya Santos Delgado]], M.S., CCC-SLP
+Patóloga del Habla y el Lenguaje Bilingüe
+[[EMPLOYER|Mountain Speech & Language Partners, PLLC]]
+[[DATE|September 9, 2026]]

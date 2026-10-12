@@ -1,0 +1,34 @@
+Daily speech-language therapy letter  
+Service date: [[DATE|October 8, 2026]]  
+Session: [[TIME|9:05 a.m.]]–[[TIME|9:45 a.m.]]  
+Child: [[CHILD|Elena Marisol Varela]], age [[KEEP|4;2]]  
+Record: [[ID|SL-640218]]  
+Medicaid: [[MEDICAID_ID|583017264R]]
+
+Dear [[PARENT|Marina Varela]] and [[PARENT|Tomás Varela]],
+
+Thank you for joining today’s visit. I am [[PROVIDER|Isabel Monteluna]], your bilingual pediatric speech-language pathologist with [[EMPLOYER|Little Lantern Speech Partners]] in North Carolina. We used English and Spanish during play. [[CHILD|Elena]] chose the animal toys and stayed involved throughout our session.
+
+You shared that breakfast goes more smoothly around [[TIME|7:30 a.m.]] when everyone gives her time to answer. Her brother, [[SIBLING|Nicolás]], now waits before speaking for her. Her grandmother, [[FAMILY|Rosa Varela]], practices animal words during video calls from [[PLACE|Las Brisas del Arrayán]], Guatemala. Your home address remains [[PLACE|418 Wren Lantern Lane]], [[PLACE|Cedar Hollow]], North Carolina [[PLACE|27500]].
+
+During pretend play, [[CHILD|Elena]] used two-word requests in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. She said [[KEEP|"more bubbles"]] and [[KEEP|"help please"]]. For the target word [[KEEP|"cat"]], she produced initial [[KEEP|/k/]] in [[KEEP|3 of 5]] attempts with [[KEEP|mod cues]]. One production included [[KEEP|[w]]]. When describing the dog, she said "[[PET|Lulo]] run". We expanded that message together.
+
+These earlier evaluation results provide context; we did not repeat standardized testing today.
+
+| Test and subtest | Evaluation date | Standard score | Percentile | Confidence interval |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[DATE|September 17, 2026]] | [[KEEP|81]] | [[KEEP|10th percentile]] | [[KEEP|90%]]: [[KEEP|76–88]] |
+| [[KEEP|PLS-5]]: [[KEEP|Expressive Communication]] | [[DATE|September 17, 2026]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|90%]]: [[KEEP|73–85]] |
+
+Her communication improved when adults followed her interests and paused. We used [[KEEP|Hanen]] strategies to support shared attention and short language models. Today’s requests were clearer than her spontaneous descriptions. She still needed help adding action words. Both languages remain welcome during practice.
+
+Ms. [[TEACHER|Camila Rueda]] reported that classmate [[PEER|Milo Arce]] enjoys taking turns with her at [[SCHOOL|Willow Pebble Preschool]]. You also attend the family play program at [[ORG|Open Lantern Community Center]] on Saturdays. These familiar routines offer useful practice opportunities.
+
+Before dinner, around [[TIME|5:45 p.m.]], offer two choices and wait quietly. Model [[KEEP|"dog runs"]] or [[KEEP|"more juice"]] without requiring repetition. Keep practice playful and stop when she loses interest. This supports [[KEEP|IFSP outcome 2]]. Our next visit is [[DATE|October 15, 2026]].
+
+Please share any new words or questions. Today’s billing codes are [[KEEP|92507]], modifier [[KEEP|GN]], and [[KEEP|F80.2]].
+
+Warmly,  
+[[PROVIDER|Isabel Monteluna]], speech-language pathologist  
+[[PHONE|(919) 555-0146]]  
+[[EMAIL|isabel.monteluna@example.invalid]]

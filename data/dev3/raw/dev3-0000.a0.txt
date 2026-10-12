@@ -1,0 +1,26 @@
+Atrium Health Levine Children's Hospital - Pediatric Speech-Language Pathology
+NICU Follow-Up & Outpatient Speech Clinic, [[HOSPITAL|Atrium Health University City]] Campus
+
+Daily Session Note
+
+Fecha de la sesion: [[DATE|October 9, 2026]]
+Nino/Child: [[CHILD|Mateo Fernandez]] (M.F.), DOB [[DATE|February 14, 2023]], edad cronologica [[KEEP|3;8]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+Case ID: [[ID|LC-00482]]
+
+S/Subjetivo: Mama, [[PARENT|Lucia Fernandez]], reports Mateo dice mas palabras en casa. Su hermanita, [[SIBLING|Sol Fernandez]], helps him practice animal sounds at home, y la abuela, [[FAMILY|Rosa Fernandez]], who cares for Mateo on Tuesdays, reports frustration cuando no lo entienden. Papa works at [[ORG|Carowinds Amusement Park]] and was not present today.
+
+O/Objetivo: Seen individually at the clinic. Interpreter [[PROVIDER|Carlos Mendez]] assisted with the parent interview. Administered partial [[KEEP|Goldman-Fristoe Test of Articulation 3]]: standard score [[KEEP|78]], percentile [[KEEP|7th]]. Prior [[KEEP|Rossetti Infant-Toddler Language Scale]] (age equivalent [[KEEP|18-21 months]]) and [[KEEP|Bayley-4]] cognitive composite [[KEEP|85]] on file from NICU follow-up, [[DATE|June 2024]]. Target /k/ in final position: produced "[[KEEP|cat]]" correctly [[KEEP|6/10]] trials with mod cues. During juego de granja (farm toy), Mateo said "[[KEEP|agua]]" clearly without cues, generalized from last session.
+
+A/Analisis: Progress toward [[KEEP|IFSP]] outcome [[KEEP|2]]. Articulation remains below age expectations; recommend continued [[KEEP|PROMPT]]-based cueing.
+
+P/Plan: Continue 2x weekly. Teacher [[TEACHER|Ms. Keisha Lopez]] at [[DAYCARE|Bright Beginnings Daycare]] to reinforce the /k/ word list. Referral sent to [[AGENCY|Mecklenburg County CDSA]] for annual review on [[DATE|November 3, 2026]].
+
+Session schedule:
+
+| Day | Start | Stop | Location |
+|-----|-------|------|----------|
+| Tuesday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[HOSPITAL|Atrium Health University City]], Suite 220 |
+| Thursday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[DAYCARE|Bright Beginnings Daycare]], [[PLACE|4821 Statesville Road]] |
+
+Contact: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]], [[PHONE|(704) 555-0198]], [[EMAIL|jhayes@carolinapedstherapy.com]].

@@ -1,0 +1,38 @@
+From: [[PROVIDER|Elena Marisol Vega]] <[[EMAIL|evega@willowwords.example]]>
+To: [[PARENT|Ana Belén Soto]] <[[EMAIL|ana.soto@example.org]]>
+Sent: [[DATE|October 8, 2026]], [[TIME|4:15 PM]]
+Subject: Daily session note: [[CHILD|Nicolás Soto]]
+Record: [[ID|LLP-48261]]; Medicaid: [[MEDICAID_ID|731846205Q]]
+
+Dear Ms. [[PARENT|Soto]],
+
+Today’s bilingual speech-language session occurred at [[DAYCARE|Little Learners Daycare]] in [[PLACE|Bellmere]], North Carolina, through the [[KEEP|Little Learners Program]].
+
+S: [[CHILD|Nico]], age [[KEEP|4;2]], arrived with his babysitter, [[FAMILY|Mara Finch]]. She reported that his sister, [[SIBLING|Inés Soto]], practiced requesting during breakfast. His cousins, [[FAMILY|Leo Ramos]] and [[FAMILY|Eva Ramos]], visited yesterday. He spontaneously said, "[[PET|Pip]] come," referring to the family dog. No caregiver concerns about hearing or illness were reported.
+
+O: Session ran from [[TIME|9:10 AM]] to [[TIME|9:40 AM]]. Using [[KEEP|Hanen]] strategies and play routines, [[CHILD|Nicolás]] produced [[KEEP|"more bubbles"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Initial [[KEEP|/k/]] in [[KEEP|"car"]] reached [[KEEP|60%]] with [[KEEP|mod cues]]; substitutions included [[KEEP|[t]]]. Spanish requests included [[KEEP|"más agua"]]. Classmates [[PEER|Tessa Lane]] and [[PEER|Owen Pike]] joined turn-taking. Ms. [[TEACHER|Rosa Méndez]] modeled waiting. A language sample contained [[KEEP|[EW]]]. Previous [[KEEP|PLS-5]] results showed [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]].
+
+A: Functional requesting improved with visual support. Speech clarity remains reduced during rapid speech. Today’s performance supports continued work on IFSP outcome [[KEEP|2]].
+
+P: Continue weekly sessions, caregiver coaching, and classroom practice. Practice [[KEEP|"my turn"]] during snack with [[KEEP|min cues]]. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; diagnosis ICD-10 [[KEEP|F80.2]]. Next visit: [[DATE|October 15, 2026]].
+
+[[PROVIDER|Elena Marisol Vega]], bilingual pediatric SLP
+[[EMPLOYER|Willowwords Pediatric Speech]]
+[[PHONE|919-555-0146]]
+[[URL|https://willowwords.example]]
+
+> From: [[PARENT|Ana Belén Soto]]
+> Sent: [[DATE|October 7, 2026]], [[TIME|7:05 PM]]
+>
+> I work two jobs, at [[ORG|CWT]] and [[ORG|Juniper Market]]. The babysitter can bring [[CHILD|Nico]]. Please send one short practice activity for evenings. His father, [[PARENT|Diego Soto]], can help on weekends.
+>
+> Thank you,
+> [[PARENT|Ana Soto]]
+
+>> From: [[PROVIDER|Elena Vega]]
+>> Sent: [[DATE|October 7, 2026]], [[TIME|5:20 PM]]
+>>
+>> We can practice during familiar routines and share the same targets with classroom staff. Brief, playful practice should fit your schedule.
+>>
+>> [[PROVIDER|Elena Vega]]
+>> [[EMPLOYER|Willowwords Pediatric Speech]]

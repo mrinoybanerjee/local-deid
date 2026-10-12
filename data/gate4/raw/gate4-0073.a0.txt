@@ -1,0 +1,20 @@
+Nota diaria de terapia del habla y lenguaje
+
+Fecha: [[DATE|09/10/2026]]. Horario: [[TIME|3:15 p. m.]] a [[TIME|3:45 p. m.]]
+Profesional: [[PROVIDER|Elena Rivas]], patologa bilingue del habla y lenguaje, [[EMPLOYER|Voces del Pinar]].
+Lugar: [[PLACE|Pinar Claro]], Carolina del Norte.
+Cliente: [[CHILD|Mateo Salgado]], llamado [[CHILD|Teo]], edad [[KEEP|4;2]].
+Expediente: [[ID|VP-604182]]. Medicaid: [[MEDICAID_ID|482736195B]].
+Servicio: [[KEEP|92507]], modificador [[KEEP|GN]]. Diagnostico: [[KEEP|F80.0]].
+
+Subjetivo:
+Su madre, [[PARENT|Guadalupe Salgado]], llamada [[PARENT|Lupita]], refiere que trabaja en [[ORG|MEC]] y [[ORG|Cocina Brisa Clara]]. Su padre, [[PARENT|Jesus Salgado]], llamado [[PARENT|Chuy]], practica durante la cena. La abuela [[FAMILY|Rosa Salgado]] cuida al cliente despues de la escuela [[SCHOOL|Escuela Primaria Cedro Azul]]. La maestra [[TEACHER|Marta Robles]] observa mayor participacion con el companero [[PEER|Jose Benitez]], llamado [[PEER|Pepe]].
+
+Objetivo:
+Se trabajo la palabra objetivo [[KEEP|"sol"]], que coincide con el nombre de su hermana [[SIBLING|Sol]]. Su hermano [[SIBLING|Juan Salgado]], llamado [[SIBLING|Juanito]], participo al cierre. Con [[KEEP|PROMPT]] y [[KEEP|mod cues]], el cliente produjo [[KEEP|/k/]] en [[KEEP|8/10]] intentos, equivalente a [[KEEP|80%]]. Sin apoyo, logro [[KEEP|3 de 5]] respuestas. Dijo [[KEEP|"tasa"]] por [[KEEP|"casa"]]. Durante juego espontaneo dijo "[[PET|Nube]] corre", mirando al perro familiar en una fotografia.
+
+Analisis:
+La evaluacion previa con [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], registro puntuacion estandar [[KEEP|78]], percentil [[KEEP|7]] e intervalo de confianza [[KEEP|73-83]]. Hoy mantuvo atencion durante actividades breves. La dificultad aumenta al retirar el modelo. La familia comprende la diferencia entre nombrar a la hermana y practicar la palabra. No se observaron molestias.
+
+Plan:
+Continuar practica con [[KEEP|min cues]] y turnos familiares. La [[AGENCY|Agencia de Desarrollo Infantil y Apoyo Familiar del Valle del Pinar (ADIAFVP)]] coordinara materiales; [[AGENCY|ADIAFVP]] recibira el resumen autorizado. Proxima sesion: [[DATE|16/10/2026]], [[TIME|3:15 p. m.]]. Contacto familiar: [[PHONE|919-555-0146]], [[EMAIL|familia.salgado@correo.example]]. Materiales: [[URL|https://vocesdelpinar.example/practica]]. Se entrego una hoja sencilla para registrar intentos y apoyos. La madre repetira las instrucciones con la abuela antes de iniciar la practica domiciliaria.

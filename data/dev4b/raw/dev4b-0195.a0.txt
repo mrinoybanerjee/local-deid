@@ -1,0 +1,20 @@
+nota de sesión diaria terapia del lenguaje bilingüe fecha de servicio [[DATE|October 9, 2026]] proveedora [[PROVIDER|Ana Torres]] CCC-SLP hora de inicio [[TIME|3:15 pm]] hora de salida [[TIME|4:00 pm]] ubicación hogar de la familia en [[PLACE|118 Marigold Court]] [[PLACE|Cary]] [[PLACE|27519]] empleadora [[EMPLOYER|Carolina Pediatric Therapy Partners]] correo [[EMAIL|ana.torres@carolinapedstherapy.com]]
+
+historia de nacimiento [[CHILD|Mateo Fernández]] nació a las [[KEEP|34 semanas]] de gestación con un peso de [[KEEP|4 lb 2 oz]] y un apgar de [[KEEP|7/9]] en [[HOSPITAL|WakeMed Cary Hospital]] y pasó [[KEEP|18 días]] en la NICU bajo el cuidado del Dr. [[PROVIDER|Samuel Osei]] neonatólogo y luego fue seguido por la Dra. [[PROVIDER|Rina Patel]] pediatra quien coordinó con la [[AGENCY|CDSA of Wake County]] para la referencia inicial a terapia del habla
+
+subjetivo su mamá [[PARENT|Lucía Fernández]] dijo que mateo ha estado diciendo mas palabras en casa y que ayer dijo [[KEEP|"más agua"]] sin que nadie se lo pidiera ella también mencionó que su hermana [[SIBLING|Valentina]] le ayuda a practicar en casa y que el perrito de la familia [[PET|Coco]] lo motiva mucho cuando dice [[KEEP|"ven Coco"]] y que la niñera [[FAMILY|Rosa Alvarado]] también practica frases cortas con el durante la semana
+
+objetivo trabajamos con [[KEEP|PECS]] para pedir mas y continuamos con el enfoque [[KEEP|Hanen]] y estrategias de [[KEEP|It Takes Two to Talk]] para ampliar el lenguaje en el hogar también usamos [[KEEP|PROMPT]] para la producción de [[KEEP|/k/]] y [[KEEP|/g/]] con apoyo táctil [[KEEP|mod cues]] en [[KEEP|8/10]] intentos produjo [[KEEP|[k]]] inicial correctamente y usamos el enfoque [[KEEP|Cycles]] para patrones fonológicos target [[KEEP|"gato"]] con [[KEEP|min cues]] en [[KEEP|3 of 5]] ensayos
+
+evaluación se revisaron resultados recientes del [[KEEP|Rossetti Infant-Toddler Language Scale]] y del [[KEEP|Goldman-Fristoe Test of Articulation]] puntaje estándar [[KEEP|73-83]] y del [[KEEP|Bayley-4]] y [[KEEP|Peabody Picture Vocabulary Test]] edad equivalente [[KEEP|2;6–3;0]] percentil [[KEEP|25th]] también se mencionó el programa [[KEEP|Kaufman]] como posible próximo paso si no hay progreso en los próximos [[KEEP|3 meses]]
+
+plan continuar dos veces por semana según horario abajo y reportar a la coordinadora de servicios [[PROVIDER|Marta Jiménez]] en [[AGENCY|CDSA of Wake County]] número de caso [[ID|WC-48219-T]] número de medicaid [[MEDICAID_ID|987654321B]] teléfono [[PHONE|(919) 555-0148]] también se coordinará con la maestra Sra. [[TEACHER|Donna Webb]] en [[DAYCARE|Little Sprouts Daycare]] ya que mateo comparte el grupo con su amigo [[PEER|Ethan]] quien también recibe terapia
+
+horario de sesiones
+
+| día | hora inicio | hora fin | ubicación |
+|---|---|---|---|
+| lunes | [[TIME|3:15 pm]] | [[TIME|4:00 pm]] | [[PLACE|118 Marigold Court]] [[PLACE|Cary]] |
+| jueves | [[TIME|10:00 am]] | [[TIME|10:45 am]] | [[DAYCARE|Little Sprouts Daycare]] [[PLACE|Morrisville]] |
+
+próxima revisión de IFSP [[DATE|January 15, 2027]] objetivo número [[KEEP|2]] enfocado en lenguaje expresivo

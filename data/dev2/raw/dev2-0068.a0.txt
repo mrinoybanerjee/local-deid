@@ -1,0 +1,20 @@
+Client: [[CHILD|Mateo Flores]]
+DOB: [[DATE|08/14/2023]] Age: [[KEEP|2;2]]
+Medicaid ID: [[MEDICAID_ID|7284910335B]]
+Date of Service: [[DATE|October 9, 2026]] Time: [[TIME|10:30 AM]]
+Provider: [[PROVIDER|Maria Fernanda Castillo]], MS, CCC-SLP
+Employer: [[EMPLOYER|Carolina Bilingual Therapy Services, PLLC]] ([[EMPLOYER|CBTS]])
+
+S (Subjetivo): Sesion en casa, [[PLACE|412 Willow Creek Lane]], [[PLACE|Burlington]], [[PLACE|Alamance County]], [[PLACE|27215]]. Abuela [[FAMILY|Rosa Ramirez]] abrio la puerta y dijo que mijo tuvo "una semana dificil" at [[DAYCARE|Little Sprouts Daycare Center]], donde su maestra [[TEACHER|Ms. Lopez]] reported two biting incidents with his classmate [[PEER|Ethan]] during free play. Mama [[PARENT|Lucia Rodriguez]] llamo durante la sesion para preguntar como iba todo; le dije que estaba on track. Papa [[PARENT|Carlos Flores]] trabaja en [[ORG|Piedmont Fabrication Inc.]] y no estuvo presente hoy. Su hermana mayor [[SIBLING|Camila]] estaba en la escuela. El perro [[PET|Luna]] ladro casi todo el warm-up pero se calmo cuando saque las galletas.
+
+Historia perinatal reviewed per chart: nacio en [[HOSPITAL|WakeMed Cary Hospital]], [[KEEP|34 weeks]] gestacion, peso al nacer [[KEEP|4 lbs 2 oz]], Apgar [[KEEP|6/9]], estancia en NICU de [[KEEP|18 days]] en [[HOSPITAL|WakeMed Cary Hospital NICU]]. El neonatologo [[PROVIDER|Dr. James Whitfield]] y la pediatra [[PROVIDER|Dr. Patricia Nguyen]] siguieron de cerca despues del alta por reflujo y bajo peso.
+
+El referral llego a traves de [[AGENCY|Western Piedmont CDSA]] despues de que mama contacto [[AGENCY|Alamance County DSS]] para la redeterminacion de WIC y menciono feeding concerns; staff de [[AGENCY|WIC]] la referieron a Child Find. La familia tambien se conecto con [[AGENCY|Alamance County Smart Start]] y [[AGENCY|Alamance County Early Head Start]] para apoyo de enrollment. La service coordinator [[PROVIDER|Jessica Martinez]] de [[AGENCY|Alamance Partnership for Children]] coordina los servicios del IFSP y estuvo en el ultimo review, [[DATE|September 2, 2026]].
+
+O (Objetivo): Trabajamos IFSP Outcome [[KEEP|#2]] (functional communication) usando estrategias de [[KEEP|PROMPT]] y [[KEEP|Hanen]]. En el [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]], standard score fue [[KEEP|78]] ([[KEEP|7th percentile]]) en la ultima eval; hoy probes informales mostraron gains. Mateo produjo /p/ en "pato" con [[KEEP|min cues]], 7 de 10 trials, y dijo "mas" claro sin apoyo visual, 4/5. Aproximo [[KEEP|[EW]]] con self-correction una vez. Los gestos pareados con vocalizaciones aumentaron; se tapo los oidos cuando el perro ladro, respuesta sensorial tipica para el.
+
+A (Analisis): El progreso hacia la meta es consistente con la trayectoria notada en age equivalent [[KEEP|18 months]] receptivo en el ultimo testing estandarizado. El comportamiento en daycare es probablemente frustracion-comunicacion segun reporte de la maestra; recomiendo visual supports en el salon.
+
+P (Plan): Continue weekly sessions, next session [[DATE|October 16, 2026]] a las [[TIME|10:30 AM]]. Facturado bajo CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.2]]. Voy a llamar a mama [[PARENT|Lucia Rodriguez]] al [[PHONE|(336) 555-0147]] para coordinar con la maestra y con [[AGENCY|CDSA]]. Reporte cc a [[PROVIDER|Jessica Martinez]], [[EMAIL|jmartinez@alamancepfc.org]].
+
+Firmado, [[PROVIDER|Maria Fernanda Castillo]], [[EMPLOYER|Carolina Bilingual Therapy]]

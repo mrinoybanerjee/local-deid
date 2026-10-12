@@ -1,0 +1,21 @@
+# Names that are also ordinary words (SPEC 4.3 roster, spanish_deid.md section 3).
+# A roster or gazetteer hit on one of these is decided per mention: it becomes
+# a check item (hidden by default), never an automatic keep. Folded forms
+# (lowercase, no accents) are matched.
+#
+# English given names
+hope will mark grace faith joy may june april august rose lily daisy iris ivy summer autumn dawn
+rich bill bob pat sue art frank earnest patience honor hunter mason taylor cooper carter parker
+chase brook brooke river sky sunny star angel max bear bo jack ray guy jay robin wren reed penny
+ruby amber jade pearl crystal destiny harmony trinity miracle precious king prince princess royal
+rocky sandy holly heather olive hazel violet sage rain storm blue gray grey miles don dean drew
+gene lane norman sterling story true willow forest page piper skye sol leo ana
+# Spanish given names
+rosa luz paz esperanza dolores pilar mercedes consuelo angel jesus guadalupe milagros victoria
+rocio amparo socorro soledad cruz rey reyes santos blanca clara alegria estrella celeste azul
+paloma lucero salvador trinidad concepcion asuncion natividad rosario gloria fe dulce perla
+flor linda nieves luna cielo marina alba aurora belen violeta
+# Surnames that are words
+moreno blanco delgado bravo rico calvo leal cortes franco prieto rubio rojo verde
+brown white black green young long short hall wood woods hill bell cook price little small
+strong swift baker miller fisher hunter carpenter mann love best gay

@@ -1,0 +1,35 @@
+Client Name: [[CHILD|María José Fernández Ortiz]]
+Record ID: [[ID|RC-48217-NC]]
+Medicaid #: [[MEDICAID_ID|9284716203B]]
+Date of Birth: [[DATE|04/11/2021]]
+Date of Service: [[DATE|October 9, 2026]]
+Session Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Location: Home visit, [[PLACE|118 Larkspur Lane, Asheboro, NC 27203]]
+Clinician: [[PROVIDER|Teresa Alvarado]], M.S., CCC-SLP, bilingual SLP
+Interpreter: [[PROVIDER|Nadia Cristales]], Spanish language interpreter
+Service Coordinator: [[PROVIDER|Hector Pineda]], [[AGENCY|Piedmont CDSA]]
+Employer: [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Referring Pediatrician: Dr. [[PROVIDER|Allison Whitcomb]], [[HOSPITAL|Randolph Children's Clinic]]
+OT: [[PROVIDER|Brianna Cole]], OTR/L
+PT: [[PROVIDER|Marcus Dunleavy]], PT, DPT
+IFSP Review Date: [[DATE|January 5, 2027]]
+Parent/Guardian: [[PARENT|Lucía Fernández Ortiz]] (mother)
+Contact Phone: [[PHONE|(336) 555-0182]]
+Contact Email: [[EMAIL|lucia.fernandez82@example.com]]
+Program Website: [[URL|www.carolinapediatrictherapy.com/portal]]
+
+Subjective:
+[[PARENT|Lucía]] reported that [[CHILD|María José]] has been using more two-word combinations at home, including "más agua" and "no quiero," since the last visit on [[DATE|September 25, 2026]]. She noted that [[CHILD|María José]]'s older brother, [[SIBLING|Tomás]], has been modeling phrases for her during play, and that the family dog, [[PET|Canela]], often becomes part of their games, which [[PARENT|Lucía]] says motivates [[CHILD|María José]] to request "more" or "go." [[PARENT|Lucía]] also mentioned that the babysitter, [[FAMILY|Rosa Alemán]], has started using a visual schedule provided during the last coaching session.
+
+Objective:
+With interpreter [[PROVIDER|Nadia Cristales]] present to support [[PARENT|Lucía]]'s participation, this clinician administered portions of the REEL-4 and elicited a 50-utterance language sample. [[CHILD|María José]] (age 5;5) produced spontaneous two-word combinations in 7/10 opportunities, improved from 4/10 at the prior session. Target production of /s/ in word-initial position was elicited in structured play; [[CHILD|María José]] produced "sol" correctly in 6/10 trials with moderate cues [SV]. Final consonant deletion persisted in multisyllabic words; "pelota" was produced as "peota" [EW] in 3/5 trials. Receptive vocabulary tasks showed a standard score of 82 (12th percentile) on the bilingual screening measure, consistent with prior testing.
+
+[[CHILD|María José]] engaged well with peer modeling via video of her daycare classmate, [[PEER|Isabella Marchetti]], whom [[PARENT|Lucía]] mentioned as a frequent playmate at [[DAYCARE|Little Sprouts Bilingual Daycare]]. [[CHILD|María José]]'s teacher there, Ms. [[TEACHER|Dana Whitfield]], sent a brief note (relayed by [[PARENT|Lucía]]) indicating similar progress in the classroom setting with two-word requests during snack time.
+
+Assessment:
+[[CHILD|María José]] continues to demonstrate steady progress in expressive language and phonological skills, consistent with goals established at the IFSP review on [[DATE|April 18, 2026]]. Coordination with OT [[PROVIDER|Brianna Cole]] and PT [[PROVIDER|Marcus Dunleavy]] continues, as both have noted improved attention during joint motor-language activities. [[PARENT|Lucía]]'s employer, [[ORG|Randolph County School Nutrition Services]], has approved a flexible schedule allowing her to attend all sessions, which has supported consistency in carryover.
+
+Plan:
+Continue weekly bilingual home-based sessions, CPT code 92523, focusing on final consonant production and three-word combinations. Coordinate with [[AGENCY|Piedmont CDSA]] service coordinator [[PROVIDER|Hector Pineda]] regarding transition planning ahead of [[CHILD|María José]]'s third birthday. Recommend continued coaching for [[FAMILY|Rosa Alemán]] on visual supports. Next session scheduled for [[DATE|October 16, 2026]] at [[TIME|2:30 PM]]. Clinician will email updated home practice materials to [[PARENT|Lucía]] via [[EMAIL|lucia.fernandez82@example.com]] prior to the next visit, and will share printable resources from [[URL|www.carolinapediatrictherapy.com/portal]].
+
+Signed: [[PROVIDER|Teresa Alvarado]], M.S., CCC-SLP

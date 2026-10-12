@@ -1,0 +1,32 @@
+Fecha: [[DATE|8 de octubre de 2026]]
+
+Estimada senora [[PARENT|Elena Varela]]:
+
+Le escribo sobre la evaluacion de su hijo [[CHILD|Tomas Varela Soto]], realizada el [[DATE|6 de octubre de 2026]] en [[SCHOOL|Escuela Arroyo de Luna]], ubicada en [[PLACE|214 Calle del Roble Azul]], [[PLACE|Loma Serena]], Carolina del Norte, [[PLACE|27584]]. Su edad es [[KEEP|4;2]]. Usted y su esposo, [[PARENT|Diego Soto]], describieron dificultades para seguir instrucciones y contar lo ocurrido durante el dia. La evaluacion fue bilingue.
+
+Estos resultados de [[KEEP|PLS-5 Spanish]] orientan nuestra planificacion:
+
+| Subprueba | Fecha | Puntaje estandar | Percentil | Intervalo de confianza |
+|---|---|---|---|---|
+| [[KEEP|Comprension auditiva]] | [[DATE|6 de octubre de 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] |
+| [[KEEP|Comunicacion expresiva]] | [[DATE|6 de octubre de 2026]] | [[KEEP|82]] | [[KEEP|12]] | [[KEEP|76-89]] |
+
+Los puntajes muestran necesidades de apoyo, pero no describen todas sus habilidades. Durante el juego, el nino participo con interes y busco ayuda mediante gestos. Respondio mejor cuando presentamos instrucciones breves, objetos conocidos y tiempo suficiente para contestar. Consideramos ambos idiomas al interpretar sus respuestas.
+
+En actividades estructuradas, completo [[KEEP|8/10]] instrucciones, equivalente a [[KEEP|80%]], con [[KEEP|mod cues]]. Produjo [[KEEP|"quiero agua"]] espontaneamente y practico [[KEEP|"casa"]] con el sonido [[KEEP|/k/]]. Una muestra incluyo [[KEEP|[w]]] y el codigo [[KEEP|[EW]]] de [[KEEP|SALT]]. Tambien dijo "[[PET|Nube]] corre" al mirar una foto de su perro. Usaremos estrategias de [[KEEP|Hanen]] para ampliar frases durante rutinas familiares.
+
+La interprete [[PROVIDER|Mariela Navas]] apoyo la entrevista. Compartiremos recomendaciones con la terapeuta ocupacional [[PROVIDER|Ines Prado]], el fisioterapeuta [[PROVIDER|Bruno Salcedo]] y la pediatra [[PROVIDER|Clara Montal]], de [[HOSPITAL|Hospital Sendero del Alba]]. La maestra [[TEACHER|Julia Ferral]] puede ofrecer elecciones visuales y esperar una respuesta antes de repetir la pregunta.
+
+En casa, su hermana [[SIBLING|Alma Soto]] y su abuela [[FAMILY|Rosa Varela]] pueden turnarse para leer libros cortos. En [[DAYCARE|Guarderia Semillas del Rio]], sus companeros [[PEER|Nico Arven]] y [[PEER|Lia Treval]] pueden participar en juegos de turnos. Eviten pedir muchas repeticiones seguidas; respondan al mensaje y agreguen una palabra.
+
+La oficina de [[AGENCY|DSS]] del condado de [[PLACE|Pinar Claro]] puede orientar sobre apoyos familiares. Usted indico que trabaja en [[ORG|Telares Brisa Nueva]] y prefiere llamadas despues del turno. El conductor escolar [[PERSON|Samuel Leris]] recibira solamente las instrucciones necesarias para facilitar la transicion.
+
+Propongo revisar el progreso el [[DATE|29 de octubre de 2026]] a las [[TIME|3:15 p. m.]]. Registraremos el objetivo [[KEEP|2]] del IFSP mediante muestras de juego y observaciones del equipo. Practiquen unos minutos durante la merienda, sin convertir cada conversacion en una prueba.
+
+El expediente es [[ID|SLP-482731]] y el numero de Medicaid es [[MEDICAID_ID|684209173M]]. La documentacion incluye evaluacion [[KEEP|92523]], tratamiento [[KEEP|92507]], modificador [[KEEP|GN]] y diagnostico [[KEEP|F80.2]]. Puede contactarme al [[PHONE|919-555-0147]], escribir a [[EMAIL|paula@vocesdelprado.example]] o consultar [[URL|https://vocesdelprado.example/familias]].
+
+Atentamente,
+
+[[PROVIDER|Paula Meral]]
+Patologa bilingue del habla y lenguaje
+[[EMPLOYER|Voces del Prado]]

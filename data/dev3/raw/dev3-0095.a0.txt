@@ -1,0 +1,31 @@
+Nombre del paciente: [[CHILD|Mateo Hernández Cruz]]
+Fecha de nacimiento: [[DATE|14 de marzo de 2022]]
+Edad actual: [[KEEP|4;7]]
+ID de Medicaid: [[MEDICAID_ID|987654321A]]
+Número de expediente: [[ID|LD-30294]]
+Fecha de la sesión: [[DATE|9 de octubre de 2026]]
+Hora de la sesión: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+Lugar de servicio: domicilio, [[PLACE|1425 Calle Roxboro, Durham, NC 27704]]
+Proveedora: [[PROVIDER|Carolina Méndez]], [[KEEP|M.S., CCC-SLP]]
+Empleadora: [[EMPLOYER|Terapia Bilingüe Carolina, PLLC]]
+Teléfono de la clínica: [[PHONE|(919) 555-0142]]
+Correo electrónico: [[EMAIL|cmendez@terapiabilinguecarolina.com]]
+Agencia de referencia: [[AGENCY|CDSA del Triángulo]]
+Guardería: [[DAYCARE|Daycare Pequeños Pasos]]
+
+Subjetivo:
+La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Hernández]], estuvo presente durante toda la sesión. Reporta que esta semana [[CHILD|Mateo]] dijo espontáneamente "[[SIBLING|Sofía]] y [[PET|Rocky]] corren" mientras jugaba en el patio con su hermana mayor y el perro de la familia. [[PARENT|Lucía]] comenta que los fines de semana asisten a la [[ORG|Iglesia Bautista Monte Sión]] y que [[CHILD|Mateo]] participa cada martes en el programa "Cuentos Bilingües" de la [[ORG|Biblioteca Pública de Durham]], donde interactúa con otros niños, incluyendo a su amigo [[PEER|Diego]]. Según la maestra de [[CHILD|Mateo]] en [[DAYCARE|Daycare Pequeños Pasos]], la [[TEACHER|señorita Ramos]], el niño ha mostrado más intentos de comunicación verbal en el salón. La abuela materna, [[FAMILY|Rosa Cruz]], también cuida a [[CHILD|Mateo]] dos tardes por semana y refuerza las actividades de lenguaje en casa.
+
+Objetivo:
+Se trabajaron los objetivos 2 y 3 del [[KEEP|IFSP]] enfocados en vocabulario expresivo y articulación. Se revisaron resultados parciales del [[KEEP|Rossetti Infant-Toddler Language Scale]], administrado el mes pasado, que mostró una edad equivalente de lenguaje expresivo de [[KEEP|24-30 meses]]. En la sesión de hoy se re-evaluó la producción de /k/ y /g/ usando ítems del [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]; [[CHILD|Mateo]] produjo correctamente /k/ en posición inicial en [[KEEP|7/10]] ensayos con [[KEEP|mod cues]] ("[[KEEP|gato]]" → [[KEEP|[gato]]]). También se incorporaron estrategias del enfoque [[KEEP|Hanen]] para ampliar enunciados de dos palabras. Para contexto de desarrollo cognitivo, se mencionó el resultado previo del [[KEEP|Bayley-4]], escala cognitiva, puntaje compuesto [[KEEP|82]], y del [[KEEP|Peabody Picture Vocabulary Test]], puntaje estándar [[KEEP|79]], percentil [[KEEP|8]].
+
+Durante el juego simbólico, [[CHILD|Mateo]] señaló una foto y dijo "[[KEEP|[gato]]] come" de forma espontánea, logrando una oración de dos palabras sin modelo. Se usó refuerzo del programa [[KEEP|PROMPT]] para la colocación labial de /p/ y /b/.
+
+Evaluación:
+[[CHILD|Mateo]] continúa mostrando progreso lento pero constante en vocabulario expresivo y articulación de sonidos tempranos. La inconsistencia entre el entorno de la [[DAYCARE|Daycare Pequeños Pasos]] y el hogar sugiere la necesidad de mayor coordinación con la [[TEACHER|señorita Ramos]] y la coordinadora de servicios de la [[AGENCY|CDSA del Triángulo]], [[PROVIDER|Ana Lourdes Pacheco]].
+
+Plan:
+Continuar sesiones semanales de 45 minutos. Se recomienda seguimiento con la pediatra, [[PROVIDER|Dra. Teresa Villanueva]], para evaluación auditiva antes de la próxima revisión del IFSP, programada para el [[DATE|12 de diciembre de 2026]]. Se enviará resumen a [[PARENT|Lucía Hernández]] por correo electrónico y se coordinará con [[AGENCY|CDSA del Triángulo]].
+
+---
+Documento preparado por [[PROVIDER|Carolina Méndez]], [[KEEP|CCC-SLP]], [[EMPLOYER|Terapia Bilingüe Carolina, PLLC]].

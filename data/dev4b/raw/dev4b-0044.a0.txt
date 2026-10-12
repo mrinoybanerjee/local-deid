@@ -1,0 +1,95 @@
+[[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]]
+[[PLACE|2210 Kildaire Farm Road]], [[PLACE|Cary]], NC [[PLACE|27518]]
+Tel: [[PHONE|(919) 555-0142]] | Fax: [[PHONE|(919) 555-0143]]
+
+EVALUACIÓN DE HABLA Y LENGUAJE
+
+Paciente: [[CHILD|Mateo Hernández Cruz]]
+Fecha de nacimiento: [[DATE|14 de agosto de 2021]]
+Edad cronológica al momento de la evaluación: [[KEEP|4;2]]
+Fecha de evaluación: [[DATE|9 de octubre de 2025]]
+N.º de expediente: [[ID|LP-20395]]
+N.º de Medicaid: [[MEDICAID_ID|684213957B]]
+Padres/tutores: [[PARENT|Lucía Rodríguez]] (madre) y [[PARENT|Daniel Hernández]] (padre)
+Dirección del hogar: [[PLACE|142 Maple Ridge Court]], [[PLACE|Apex]], NC [[PLACE|27502]], [[PLACE|Condado de Wake]]
+Teléfono de contacto: [[PHONE|(919) 555-0187]]
+Correo electrónico: [[EMAIL|lucia.hernandez85@gmail.com]]
+Escuela: [[SCHOOL|Escuela Primaria Pine Hollow]]
+Distrito escolar: [[SCHOOL|Distrito Escolar de las Escuelas Públicas del Condado de Chatham]]
+Maestra / salón: Srta. [[TEACHER|Patterson]], salón de Pre-K n.º 4
+Evaluadora: [[PROVIDER|Carla Jiménez]], M.S., CCC-SLP, patóloga del habla-lenguaje bilingüe español/inglés
+Médico de cabecera: Dr. [[PROVIDER|Alan Kim]], Pediatría General
+Coordinadora de servicios, [[AGENCY|CDSA del Triángulo]]: [[PROVIDER|Diana Álvarez]]
+Intérprete presente en la sesión: [[PROVIDER|Rosa Fernández]]
+
+S:
+
+Entrevista clínica realizada con la madre, [[PARENT|Lucía Rodríguez]], el [[DATE|9 de octubre de 2025]] de [[TIME|9:15 a.m.]] a [[TIME|10:00 a.m.]], en la oficina de [[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]]. Refiere preocupación persistente por el lenguaje expresivo de su hijo [[CHILD|Mateo]], de [[KEEP|4;2]] años, quien asiste a Pre-K en [[SCHOOL|Escuela Primaria Pine Hollow]], salón de la Srta. [[TEACHER|Patterson]], dentro del [[SCHOOL|Distrito Escolar de las Escuelas Públicas del Condado de Chatham]]. Madre reporta que [[CHILD|Mateo]] usa principalmente gestos y palabras sueltas, con inteligibilidad reducida tanto para familiares como para desconocidos.
+
+Hx de embarazo y parto: embarazo a término, sin complicaciones prenatales reportadas. Parto vaginal en [[HOSPITAL|Cary Regional Hospital]] el [[DATE|14 de agosto de 2021]]. Edad gestacional al nacer [[KEEP|39 semanas]]. Peso al nacer [[KEEP|3,220 g]]. Apgar [[KEEP|8]] al minuto 1 y [[KEEP|9]] a los 5 minutos. No requirió ingreso a UCIN. Hitos motores dentro de límites normales (se sentó ~6m, caminó ~13m). Hx médica: sin convulsiones, sin cirugías, sin hospitalizaciones previas. Dos episodios de otitis media en el último año, tratados con antibiótico oral; madre no reporta tubos de ventilación. Audición evaluada por última vez en consulta de Dr. [[PROVIDER|Alan Kim]] en [[DATE|marzo de 2025]], resultado normal bilateral.
+
+Hx familiar y de lenguaje: hogar bilingüe español-inglés; español predomina en casa, inglés en la escuela. Madre, [[PARENT|Lucía Rodríguez]], trabaja turno nocturno en [[ORG|Carolina Foods Processing]], en [[PLACE|Sanford]], NC; padre, [[PARENT|Daniel Hernández]], trabaja en construcción con horario variable. Durante el día, [[CHILD|Mateo]] queda al cuidado de su niñera, [[FAMILY|Marisol Gómez]], quien habla solo español con él. Hermana mayor, [[SIBLING|Sol Hernández]], de [[KEEP|7 años]], le habla principalmente en inglés y reporta que a veces se frustra porque "no le entiende" a su hermano. Madre refiere que la abuela materna, [[FAMILY|Juana Pérez]], vive aún en el pueblo de [[PLACE|San Lucas Tolimán]], Guatemala, y llama por videollamada casi todos los domingos; [[CHILD|Mateo]] la saluda con gestos pero rara vez produce palabras durante esas llamadas. En casa hay un perro, [[PET|Max]], con quien [[CHILD|Mateo]] juega e intenta imitar sonidos ("gua gua").
+
+No hx previa de terapia de habla-lenguaje formal, aunque madre menciona que una amiga le recomendó el enfoque [[KEEP|Hanen]] y el programa [[KEEP|It Takes Two to Talk]] para estimulación en casa, que ha intentado seguir de manera informal viendo videos en línea. Madre reporta que [[CHILD|Mateo]] disfruta jugar con su amigo [[PEER|Liam]] en la escuela, pero la Srta. [[TEACHER|Patterson]] ha notado que [[CHILD|Mateo]] se aísla durante actividades de círculo cuando no logra hacerse entender.
+
+Queja principal: producción limitada de palabras, omisión de consonantes finales, inteligibilidad reducida (~30% para desconocidos, ~60% para familia). Sin preocupaciones de comprensión reportadas por la madre; [[CHILD|Mateo]] sigue instrucciones de 2 pasos en ambos idiomas.
+
+O:
+
+Evaluación realizada el [[DATE|9 de octubre de 2025]], de [[TIME|9:15 a.m.]] a [[TIME|11:30 a.m.]], con descanso de [[TIME|10:30 a.m.]] a [[TIME|10:40 a.m.]]. Administración bilingüe con apoyo de intérprete, [[PROVIDER|Rosa Fernández]], para confirmación de ítems en inglés. Niño cooperador, buen contacto visual, transiciones sin dificultad entre tareas. Nivel de atención adecuado para su edad.
+
+Pruebas administradas:
+
+[[KEEP|Preschool Language Scales-5 (PLS-5), versión en español]]: Comprensión Auditiva, puntuación estándar [[KEEP|78]] ([[KEEP|7.º percentil]]); Expresión Verbal, puntuación estándar [[KEEP|65]] ([[KEEP|1.er percentil]]); Puntuación Total de Lenguaje [[KEEP|70]] ([[KEEP|2.º percentil]]), IC 95% [[KEEP|64-76]]. Edad equivalente de lenguaje expresivo: [[KEEP|2;6–3;0]].
+
+[[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]], subprueba [[KEEP|Estructura de Oraciones]]: puntuación escalar [[KEEP|6]] ([[KEEP|9.º percentil]]); subprueba [[KEEP|Vocabulario Expresivo]]: puntuación escalar [[KEEP|5]] ([[KEEP|5.º percentil]]).
+
+[[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]: puntuación estándar [[KEEP|62]] ([[KEEP|1.er percentil]]), IC 95% [[KEEP|57-67]]. Proceso fonológico predominante: omisión de consonante final en el [[KEEP|85%]] de las palabras objetivo; frontalización de velares observada en [[KEEP|6 de 10]] ítems; reducción de grupos consonánticos en [[KEEP|8/10]] ítems.
+
+Tabla de resultados resumida:
+
+| Prueba | Área | Puntuación estándar | Percentil |
+|---|---|---|---|
+| [[KEEP|PLS-5]] | [[KEEP|Comprensión Auditiva]] | [[KEEP|78]] | [[KEEP|7.º]] |
+| [[KEEP|PLS-5]] | [[KEEP|Expresión Verbal]] | [[KEEP|65]] | [[KEEP|1.er]] |
+| [[KEEP|CELF Preschool-3]] | [[KEEP|Estructura de Oraciones]] | [[KEEP|6 (escalar)]] | [[KEEP|9.º]] |
+| [[KEEP|CELF Preschool-3]] | [[KEEP|Vocabulario Expresivo]] | [[KEEP|5 (escalar)]] | [[KEEP|5.º]] |
+| [[KEEP|GFTA-3]] | [[KEEP|Articulación]] | [[KEEP|62]] | [[KEEP|1.er]] |
+
+Muestra de habla espontánea (15 minutos, juego libre con bloques y figuras de animales): longitud media de enunciado [[KEEP|1.8 palabras]]; inventario fonético consistente con /m, n, p, b, t, d, w/; ausencia de /k, g, s, ɾ/ en posición inicial y final. Produjo "[[KEEP|pape]]" por "pan", "[[KEEP|tete]]" por "leche", y al señalar una figura del sol dijo "[[KEEP|"o"]]" como aproximación a "[[KEEP|sol]]", target fonológico trabajado durante la sesión con [[KEEP|mod cues]] táctiles-visuales, estilo [[KEEP|PROMPT]]. Respondió a 8 de 10 preguntas de sí/no con gesto apropiado; produjo [[KEEP|3 de 5]] combinaciones de dos palabras cuando se le dio modelo ("[[KEEP|más agua]]", "[[KEEP|no quiero]]").
+
+Praxis oral motora dentro de límites normales; sin hallazgos sugestivos de apraxia del habla infantil. Estructuras orofaciales simétricas, movilidad adecuada de lengua y labios. Resonancia y voz dentro de parámetros normales.
+
+A:
+
+[[CHILD|Mateo]] presenta un trastorno fonológico de moderado a severo con retraso concomitante en lenguaje expresivo, en el contexto de desarrollo bilingüe típico (sin evidencia de confusión por bilingüismo; patrones consistentes con trastorno primario de habla-lenguaje presentes en ambos idiomas). Perfil compatible con [[KEEP|ICD-10 F80.1]] (trastorno del desarrollo del lenguaje, tipo expresivo) y [[KEEP|F80.0]] (trastorno fonológico). Comprensión relativamente mejor conservada que expresión, patrón típico en este perfil. No se observan banderas rojas de trastorno del espectro autista; interacción social e intención comunicativa adecuadas dado el nivel de frustración esperado por limitación expresiva.
+
+Pronóstico favorable con intervención intensiva temprana dado nivel de comprensión, cooperación en la sesión, y motivación familiar alta. Riesgo de impacto académico si no se aborda antes del ingreso a kindergarten, considerando calendario del [[SCHOOL|Distrito Escolar de las Escuelas Públicas del Condado de Chatham]].
+
+P:
+
+1. Se recomienda terapia de habla-lenguaje individual, 2 veces por semana, 45 minutos por sesión, [[KEEP|CPT 92523]] (evaluación) y [[KEEP|CPT 92507]] (tratamiento individual), facturado bajo Medicaid [[MEDICAID_ID|684213957B]].
+
+2. Enfoque fonológico tipo [[KEEP|Cycles]] para abordar procesos de omisión de consonante final y frontalización velar, con listas de palabras objetivo rotadas cada 4-6 semanas.
+
+3. Incorporar estrategias de [[KEEP|PROMPT]] para apoyo táctil-cinestésico en la producción de secuencias motoras del habla, dado el patrón de simplificación observado.
+
+4. Entrenamiento a la familia en el modelo [[KEEP|Hanen]], usando el programa [[KEEP|It Takes Two to Talk]], con enfoque en expansión de enunciados y espera estructurada ("OWL"); se proveerá material en español a [[PARENT|Lucía Rodríguez]] y [[PARENT|Daniel Hernández]].
+
+5. Considerar sistema de comunicación aumentativa de respaldo tipo [[KEEP|PECS]] si la frustración comunicativa persiste durante el próximo trimestre, para reducir conductas de evitación en el salón de la Srta. [[TEACHER|Patterson]].
+
+6. Protocolo [[KEEP|Kaufman]] para apraxia del habla como plan alternativo si no se observa progreso adecuado en inteligibilidad tras 8-10 semanas de tratamiento con el enfoque actual.
+
+7. Continuar seguimiento con [[PROVIDER|Diana Álvarez]], coordinadora de servicios en [[AGENCY|CDSA del Triángulo]], para explorar elegibilidad de servicios adicionales en el hogar.
+
+8. Se recomienda nueva evaluación auditiva de rutina con Dr. [[PROVIDER|Alan Kim]] dado historial de otitis media recurrente.
+
+9. Compartir resumen de resultados con Srta. [[TEACHER|Patterson]] para apoyo en el aula, incluyendo estrategias de modelado de lenguaje durante actividades de círculo y juego con compañeros como [[PEER|Liam]].
+
+10. Próxima sesión programada para el [[DATE|16 de octubre de 2025]], de [[TIME|9:00 a.m.]] a [[TIME|9:45 a.m.]], en la oficina de [[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]], [[PLACE|2210 Kildaire Farm Road]], [[PLACE|Cary]], NC. Re-evaluación formal sugerida en 6 meses para monitorear progreso respecto a línea base documentada en este informe.
+
+Se discutieron resultados y plan con la madre al final de la sesión, de [[TIME|11:15 a.m.]] a [[TIME|11:30 a.m.]], con apoyo de intérprete [[PROVIDER|Rosa Fernández]]. Madre verbaliza comprensión y acuerdo con el plan propuesto. Se proporcionó información de contacto de la clínica y se programó la próxima cita antes de salir.
+
+Informe preparado por: [[PROVIDER|Carla Jiménez]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Speech & Language Services, PLLC]]
+Fecha del informe: [[DATE|10 de octubre de 2025]]

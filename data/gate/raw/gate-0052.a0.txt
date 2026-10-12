@@ -1,0 +1,58 @@
+IFSP REVIEW / Revisión del IFSP
+North Carolina Infant-Toddler Services — FICTIONAL TEST RECORD
+
+S:
+
+Family information / Información familiar: Client [[CHILD|Nicolás Arenval]], preferred name [[CHILD|Nico]]; DOB [[DATE|06/03/2024]]; age [[KEEP|2;4]]. Review date [[DATE|10/08/2026]]. Home: [[PLACE|184 Lantern Finch Lane, Meadowbend, NC 27900]]. Child ID [[ID|ITP-62084]]; Medicaid ID [[MEDICAID_ID|483920761Q]]. Parents/legal guardians: mother [[PARENT|Elena Arenval]] and father [[PARENT|Tomás Arenval]]. Mother’s phone [[PHONE|919-555-0146]]; father’s phone [[PHONE|919-555-0182]]. Family email [[EMAIL|arenval.family@example.com]]. Preferred contact: text mother after [[TIME|3:30 PM]]; Spanish voicemail acceptable. Both parents authorize bilingual service planning.
+
+Household includes sister [[SIBLING|Luz]], age [[KEEP|6 years]], and maternal grandmother [[FAMILY|Inés Valdoro]], who provides afternoon care. Dog [[PET|Miga]] participates in familiar play routines. Spanish predominates at home; English predominates at daycare. Parents request Spanish explanations with written English summaries. No interpreter requested today; clinician provides services directly in both languages.
+
+Service coordinator: [[PROVIDER|J. Orvena]], [[AGENCY|Meadowbend River CDSA]], [[PLACE|72 Copperleaf Court, Meadowbend, NC 27900]], [[PHONE|252-555-0138]]. Treating bilingual pediatric SLP: [[PROVIDER|Mara Velquín]], MA, CCC-SLP, employed by [[EMPLOYER|Two Voices Pediatric Speech]]. Review held at home; father joined by telephone. Family information confirmed verbally; no demographic changes reported.
+
+Preocupaciones, family’s own words: Mother states, “Cuando quiere algo, me jala la mano. I understand him, pero afuera se frustra porque nadie sabe.” Father states, “I want him to tell us before he cries. No queremos quitarle el español.” Grandmother states, “Conmigo señala la taza, pero si espero mucho, se enoja.” Family reports recent hitting during interrupted play; brief episodes resolve with adult support. No injury reported.
+
+Prioridades: “Primero pedir ayuda y agua; después jugar con otros niños.” Mother wants easier breakfast and daycare pickup. Father prioritizes shared book reading without pressure to repeat. Sister [[SIBLING|Luz]] says, “I want him to tell me which truck.” Family prefers practical coaching embedded in existing routines. No preference for English over Spanish targets; meaningful communication in either language counts.
+
+Rutinas diarias: Wake approximately [[TIME|6:45 AM]]; breakfast [[TIME|7:15 AM]]. Child reaches toward yogurt, pushes away unfamiliar textures, and accepts choices when objects are visible. Daycare drop-off [[TIME|8:10 AM]], lunch [[TIME|11:30 AM]], nap [[TIME|12:15 PM]] to [[TIME|1:45 PM]]. Pickup [[TIME|3:20 PM]]; grandmother supervises snack and patio play. Dinner [[TIME|6:15 PM]], bath [[TIME|7:00 PM]], books [[TIME|7:30 PM]], bedtime [[TIME|8:00 PM]]. Weekend routines vary.
+
+Other agencies/supports: [[DAYCARE|Little Kite Early Learning]] provides weekday care; teacher Ms. [[TEACHER|Rita Belvera]] shares observations with permission. [[AGENCY|Meadowbend Family WIC]] supports nutrition access. [[AGENCY|Copperleaf Smart Start]] supplies bilingual books. PCP Dr. [[PROVIDER|Noel Mirvena]] practices at [[HOSPITAL|Copper Fern Children’s Hospital]]. Father’s workplace, [[ORG|Pine Thread Parcelworks]], permits telephone participation during breaks. Family reports no current DSS involvement. Program information URL: [[URL|https://meadowbend-cdsa.example.com/familias]].
+
+O:
+
+Session start [[TIME|9:05 AM]]; stop [[TIME|10:00 AM]]. Direct SLP intervention [[TIME|9:05 AM]]–[[TIME|9:50 AM]]; IFSP discussion [[TIME|9:50 AM]]–[[TIME|10:00 AM]]. Present: child, mother, grandmother, SLP, and coordinator; father participated remotely during review. Home language sampling used Spanish and English without requiring translation or repeated responses. Child alert, ambulatory, and interested in vehicles.
+
+Prior evaluation dated [[DATE|09/17/2026]]: [[KEEP|REEL-4]] caregiver interview yielded receptive language standard score [[KEEP|83]], expressive language standard score [[KEEP|74]], and language ability standard score [[KEEP|75]]. Results describe performance under that interview’s conditions. English-based norms do not fully represent this bilingual child’s experience. Functional observations and caregiver reports inform planning alongside scores; no score alone determines an outcome.
+
+Juego/comunicación: Child initiated requests by pointing, reaching, vocalizing, or using words in [[KEEP|8/10]] arranged opportunities. Independent spoken requests occurred in [[KEEP|3/10]] opportunities; gestures remained effective. Productions included [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"go"]], [[KEEP|"mío"]], and [[KEEP|"all done"]]. Child said [[KEEP|"awa"]] for [[KEEP|"agua"]] and [[KEEP|"ka"]] for [[KEEP|"car"]]. SLP acknowledged meaning, then modeled a short expansion without correction demands.
+
+Comprensión: Followed familiar single-step directions in context in [[KEEP|7/10]] opportunities with [[KEEP|min cues]]. Performance decreased to [[KEEP|4/10]] when materials were unfamiliar or adult gestures were removed. Located named familiar objects in [[KEEP|6/8]] opportunities across languages. Accepted the instruction [[KEEP|"dame el carro"]] after an initial pause. Transition from trucks to snack required [[KEEP|mod cues]], a visual object cue, and caregiver proximity.
+
+Shared engagement: Sustained reciprocal vehicle play for approximately [[KEEP|4 minutes]]. Completed [[KEEP|5]] turn exchanges with mother when she copied his actions. During book sharing, looked between adult and picture, pointed to a dog, and produced [[KEEP|"guau"]]. No requirement to maintain eye contact. SLP modeled waiting, following the child’s lead, and offering choices at his response pace.
+
+Habla: Limited sample included [w] as [[KEEP|[w]]], plus [[KEEP|/m/]], [[KEEP|/p/]], and [[KEEP|/k/]] in familiar productions. No structured articulation assessment completed. Brief language sample retained [[KEEP|SALT]] code [[KEEP|[EW]]] for an extra-word event; coding describes the sample and does not establish impairment. Speech intelligibility varied with context; unfamiliar-listener percentage was not calculated.
+
+Coaching: Mother practiced pause, gesture acceptance, and one-word expansion with [[KEEP|min cues]] by session end. Grandmother practiced a visible choice during snack. Child selected water through pointing plus [[KEEP|"agua"]]. Caregivers identified waiting too long as a frustration trigger. SLP adjusted pauses to maintain successful exchanges. No coughing, choking, or wet voice observed during this snack; feeding assessment was outside today’s scope.
+
+A:
+
+Clinical impression / Impresión: Functional receptive-expressive language delay remains supported by converging caregiver report and observation. Working diagnosis [[KEEP|F80.2]]. Spanish-English exposure is part of the child’s communication environment; bilingual exposure does not explain the observed difficulty independently. Skills vary by familiarity, partner responsiveness, and routine demands. Single-language scores require cautious interpretation.
+
+Strengths: Intentional gestures, emerging words across languages, imitation during motivating play, and responsive caregivers. Child uses adults effectively to obtain assistance. Frustration increases when an adult anticipates repetition or withholds a desired item after a clear request. Accepting gestures and approximations improved participation today. No evidence today supports requiring spoken responses before meeting basic needs.
+
+Progress since initial IFSP dated [[DATE|07/09/2026]]: Family reports more spontaneous requests at home. Observed requesting now includes several meaningful words; previous session notes described primarily reaching and vocalization. Cross-session conditions differ, so improvement is descriptive. Generalization to daycare remains incompletely verified. Teacher report mentions emerging peer interest with classmates [[PEER|Teo]] and [[PEER|Amaya]], but clinician has not observed that setting.
+
+Family priorities remain appropriate for intervention in natural routines. No additional formal testing indicated solely to document this review. Continue bilingual coaching, support caregiver consistency, and obtain direct daycare observations. Consider additional assessment if progress stalls or new concerns emerge. Family agrees that participation and successful message exchange are the primary measures of change.
+
+P:
+
+Outcome uno — Requests during meals: By [[DATE|01/08/2027]], child will communicate a food, drink, help, or stopping message using a word, approximation, sign, or gesture in [[KEEP|8/10]] opportunities across breakfast and snack for [[KEEP|3 consecutive days]]. Strategies: Place two choices within view; model [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"help"]], or [[KEEP|"ya"]]; pause briefly; accept the message immediately. Do not withhold water to elicit speech.
+
+Outcome dos — Shared play: By [[DATE|01/08/2027]], child and a familiar partner will complete [[KEEP|4]] reciprocal turns during trucks, blocks, or books in [[KEEP|4/5]] opportunities, with [[KEEP|min cues]]. Parents and grandmother will imitate first, add one simple action, and model [[KEEP|"mi turno"]]/[[KEEP|"your turn"]]. Sister may join voluntarily. End or modify play when the child signals disengagement.
+
+Outcome tres — Transitions: By [[DATE|12/10/2026]], child will participate in daycare cleanup and departure using a visual cue plus a communicative response in [[KEEP|80%]] of documented opportunities across [[KEEP|2 weeks]]. Response may include pointing, handing over an object, or saying [[KEEP|"bye"]]. Teacher will preview the transition, offer one manageable action, and allow processing time. Family will use similar cues at pickup.
+
+Services / Fechas: Speech-language intervention, individual, home or daycare, [[KEEP|45 minutes weekly]], start [[DATE|10/15/2026]], projected end [[DATE|01/07/2027]]; provider [[PROVIDER|Mara Velquín]]. Planned visit window [[TIME|9:00 AM]]–[[TIME|9:45 AM]]. Billing, when applicable: [[KEEP|CPT 92507]]; authorization [[ID|SLP-26371]]. Make-up visits require family agreement. Coordinator contact monthly and as needed, beginning [[DATE|10/12/2026]]. Next IFSP review [[DATE|01/08/2027]].
+
+Coordination: With documented parental consent, coordinator will request daycare routine notes and arrange observation on [[DATE|10/22/2026]]. Transit scheduler [[PERSON|Ada Fenrel]] at [[AGENCY|Meadowbend Family Ride Service]] will receive only information needed for transportation after separate consent. Discussion of possible future attendance at [[SCHOOL|Lantern Grove Preschool]] remains informational; no referral sent today. PCP hearing follow-up scheduled [[DATE|11/04/2026]], per mother.
+
+Seguimiento: Caregivers will note successful messages during one chosen routine; no lengthy homework assigned. SLP will review examples, adjust cueing, and record participation by language and partner. Family received Spanish explanations of consent and review procedures. Both parents expressed agreement with these outcomes and service dates. Electronic acknowledgment pending; services follow existing authorization. Documented by [[PROVIDER|M.V.]], bilingual pediatric SLP, on [[DATE|10/08/2026]] at [[TIME|12:10 PM]].

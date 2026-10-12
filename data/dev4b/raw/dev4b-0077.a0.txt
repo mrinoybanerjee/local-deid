@@ -1,0 +1,95 @@
+PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP) - REVISION DE SEIS MESES
+Programa de Infantes y Ninos Pequenos de Carolina del Norte
+
+Oficina del CDSA: [[AGENCY|CDSA Piedmont Triad]]
+Fecha de esta reunion de revision: [[DATE|12 de marzo de 2026]]
+IFSP inicial: [[DATE|20 de agosto de 2025]]
+Revision anterior: [[DATE|15 de septiembre de 2025]]
+
+INFORMACION DE LA NINA
+
+Nombre: [[CHILD|Maria Jose Hernandez Flores]]
+Nombre con el que la familia la llama en casa: [[CHILD|Majo]]
+Fecha de nacimiento: [[DATE|4 de enero de 2024]]
+Edad cronologica en la fecha de esta revision: [[KEEP|26 meses]]
+Edad gestacional al nacer: [[KEEP|35 semanas]]
+Peso al nacer: [[KEEP|2,350 gramos]]
+Nacio en [[HOSPITAL|Forsyth Medical Center]]
+Numero de Medicaid: [[MEDICAID_ID|9876543210A]]
+Numero de caso del CDSA: [[ID|CDSA-00482]]
+Direccion: [[PLACE|214 Calle Mimosa]], [[PLACE|Kernersville]], Condado de [[PLACE|Forsyth]], NC [[PLACE|27284]]
+Telefono de la casa: [[PHONE|(336) 555-0147]]
+Correo electronico de la familia: [[EMAIL|flores.familia26@example.com]]
+
+PARTICIPANTES EN LA REUNION
+
+Madre: [[PARENT|Lucia Flores Mendez]]
+Padre: [[PARENT|Raul Hernandez Castillo]]
+Hermano mayor de [[CHILD|Majo]]: [[SIBLING|Sol Hernandez Flores]], [[KEEP|4;8]]
+Abuela materna, quien cuida a [[CHILD|Majo]] tres dias a la semana mientras los padres trabajan: doña [[FAMILY|Lupe]]
+Coordinadora de servicios del CDSA: [[PROVIDER|Yesenia Ortiz]]
+Patologa del habla y lenguaje bilingue (quien escribe este informe): [[PROVIDER|Diana Lopez]], M.S., CCC-SLP, de [[EMPLOYER|Carolina Bilingual Therapy Services]]
+Fisioterapeuta: [[PROVIDER|Mark Sullivan]], DPT
+Maestra de la clase de intervencion temprana en la guarderia: Miss [[TEACHER|Ana]]
+
+El padre, [[PARENT|Raul Hernandez Castillo]], trabaja en [[ORG|Mueblerias Triad]] y no pudo asistir a toda la reunion, pero participo por telefono durante la primera parte.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA
+
+La madre, [[PARENT|Lucia Flores Mendez]], comparti sus preocupaciones en sus propias palabras: "Lo que mas me preocupa es que [[CHILD|Majo]] todavia no combina palabras. Ella dice como diez palabras sueltas, pero no hace frases como su hermano [[SIBLING|Sol]] las hacia a esta edad. En la guarderia, Miss [[TEACHER|Ana]] me dice que [[CHILD|Majo]] se frustra mucho cuando los demas ninos no la entienden, y que otro nino, [[PEER|Diego]], a veces se aleja de ella cuando no sabe que quiere. A veces [[CHILD|Majo]] muerde o empuja cuando se frustra."
+
+La madre tambien dijo: "Quiero que [[CHILD|Majo]] pueda decirle a su abuela doña [[FAMILY|Lupe]] lo que necesita sin llorar. Y me gustaria que cuando empiece el programa de la escuela el proximo ano, ella ya tenga mas palabras."
+
+El padre agrego por telefono: "Para mi es importante que aprenda tanto espanol como ingles, porque en casa hablamos los dos."
+
+La familia identifico las siguientes prioridades:
+1. Que [[CHILD|Majo]] aumente su vocabulario expresivo en espanol e ingles.
+2. Que disminuyan los comportamientos de frustracion (morder, empujar) relacionados con la comunicacion.
+3. Que la familia, incluyendo a doña [[FAMILY|Lupe]], aprenda estrategias para apoyar el lenguaje en casa.
+4. Preparar a [[CHILD|Majo]] para la transicion al preescolar en el otono de 2026.
+
+RUTINAS DIARIAS
+
+[[CHILD|Majo]] vive con su mama, su papa y su hermano [[SIBLING|Sol]] en una casa en [[PLACE|Kernersville]]. Entre lunes y miercoles, [[CHILD|Majo]] pasa el dia con su abuela, doña [[FAMILY|Lupe]], quien vive a dos cuadras y la recoge a las [[TIME|7:30 a.m.]]. Los martes y jueves, [[CHILD|Majo]] asiste a la guarderia [[DAYCARE|Pequenos Pasos Bilingual Daycare]], en el salon de Miss [[TEACHER|Ana]], de las [[TIME|8:00 a.m.]] a las [[TIME|3:00 p.m.]].
+
+En la manana, la familia tiene una rutina de desayuno en la que [[CHILD|Majo]] senala lo que quiere comer. A la hora del bano, a [[CHILD|Majo]] le gusta jugar con su patito de goma mientras su hermano [[SIBLING|Sol]] canta canciones. Por las noches, la madre lee libros con dibujos y [[CHILD|Majo]] intenta nombrar los animales.
+
+La familia tambien mencionó que la mascota de la casa, un perro llamado [[PET|Toby]], ayuda a motivar a [[CHILD|Majo]] a usar palabras como "agua" cuando le quiere dar agua al perro. Los fines de semana, la familia visita a menudo a los abuelos y [[SIBLING|Sol]] juega con [[CHILD|Majo]] en el patio.
+
+OTRAS AGENCIAS INVOLUCRADAS
+
+La familia recibe apoyo nutricional de [[AGENCY|WIC]] en la oficina de [[PLACE|Winston-Salem]]. Una trabajadora de caso de [[AGENCY|DSS]] del Condado de [[PLACE|Forsyth]] tambien hace seguimiento de la familia por motivos no relacionados con este IFSP. La familia participa en un grupo de juego de [[AGENCY|Smart Start]] los viernes.
+
+Para el proximo ano escolar, la coordinadora de servicios, [[PROVIDER|Yesenia Ortiz]], ayudara a la familia a solicitar servicios de preescolar publico a traves de [[SCHOOL|Winston-Salem/Forsyth County Schools]]. La familia tiene la esperanza de que [[CHILD|Majo]] pueda asistir a [[SCHOOL|Kernersville Elementary School]], en el salon de intervencion temprana de la maestra [[TEACHER|Carmen]].
+
+RESULTADOS DEL IFSP CON ESTRATEGIAS
+
+Resultado [[KEEP|1]]: [[CHILD|Majo]] combinara dos palabras para pedir, comentar o rechazar, en espanol o ingles, en [[KEEP|8 de 10]] oportunidades observadas durante actividades de rutina.
+
+Estado actual: En la evaluacion con el [[KEEP|PLS-5]], forma en espanol, [[CHILD|Majo]] obtuvo una puntuacion estandar de [[KEEP|76]] en Comunicacion Auditiva ([[KEEP|percentil 5]]) y [[KEEP|79]] en Comunicacion Expresiva ([[KEEP|percentil 8]]), con un intervalo de confianza de [[KEEP|70-82]]. Produce combinaciones de dos palabras en aproximadamente [[KEEP|3 de 10]] oportunidades, principalmente con claves [[KEEP|mod cues]].
+
+Estrategias: Se usara el enfoque [[KEEP|Hanen]], especificamente el programa [[KEEP|It Takes Two to Talk]], para entrenar a la madre y a doña [[FAMILY|Lupe]] en tecnicas de expansion de lenguaje durante las rutinas diarias. Tambien se incorporaran elementos de [[KEEP|PROMPT]] para apoyar la produccion motora de palabras como [[KEEP|"agua"]] y [[KEEP|"mas"]], que actualmente produce como [[KEEP|[a]]] y [[KEEP|[ma]]].
+
+Resultado [[KEEP|2]]: [[CHILD|Majo]] disminuira los comportamientos de frustracion (morder, empujar) usando un sistema de comunicacion funcional, con una reduccion del [[KEEP|50%]] en la frecuencia reportada por la familia y por Miss [[TEACHER|Ana]] en la guarderia.
+
+Estrategias: Se introducira un sistema basado en [[KEEP|PECS]] (sistema de comunicacion por intercambio de imagenes) con tarjetas de [[KEEP|"mas"]], [[KEEP|"ayuda"]] y [[KEEP|"terminar"]]. La guarderia [[DAYCARE|Pequenos Pasos Bilingual Daycare]] usara las mismas tarjetas que la casa para dar consistencia.
+
+Resultado [[KEEP|3]]: Dado el patron fonologico de [[CHILD|Majo]] de omitir consonantes finales (observado en [[KEEP|"ga"]] por [[KEEP|"gato"]] y [[KEEP|"pa"]] por [[KEEP|"pan"]]), se trabajara la produccion de consonantes finales usando el enfoque de [[KEEP|Cycles]], con meta de [[KEEP|70%]] de precision en palabras monosilabicas durante sesiones estructuradas.
+
+Resultado [[KEEP|4]]: Para apoyar la generalizacion de vocabulario basico, se considerara el uso de materiales del programa [[KEEP|Kaufman]] si [[CHILD|Majo]] no muestra progreso suficiente con las estrategias anteriores en un periodo de [[KEEP|3 meses]].
+
+FECHAS Y HORARIO DE SERVICIOS
+
+Terapia de habla y lenguaje: dos sesiones por semana, los lunes y miercoles a las [[TIME|10:00 a.m.]], en la casa de la familia, provistas por [[PROVIDER|Diana Lopez]].
+
+Fisioterapia: una sesion quincenal, los jueves a las [[TIME|2:00 p.m.]], provista por [[PROVIDER|Mark Sullivan]].
+
+Coordinacion de servicios: visitas mensuales de [[PROVIDER|Yesenia Ortiz]], con la proxima visita programada para el [[DATE|9 de abril de 2026]].
+
+Fecha de inicio de los servicios actualizados: [[DATE|20 de marzo de 2026]]
+Fecha de la proxima revision del IFSP: [[DATE|10 de septiembre de 2026]]
+
+La familia firmo su consentimiento para continuar los servicios segun lo descrito arriba. Se les entrego una copia en espanol de este IFSP y los numeros de contacto de la oficina del CDSA, [[PHONE|(336) 555-0199]], y del correo [[EMAIL|cdsa.piedmonttriad@example.org]], en caso de preguntas.
+
+Preparado por: [[PROVIDER|Diana Lopez]], M.S., CCC-SLP, bilingue, [[EMPLOYER|Carolina Bilingual Therapy Services]]
+Fecha del informe: [[DATE|12 de marzo de 2026]]

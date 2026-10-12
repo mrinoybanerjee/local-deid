@@ -1,0 +1,28 @@
+Nota de sesión diaria – Terapia del Habla y Lenguaje
+
+Niño/a: [[CHILD|Guadalupe "Lupita" Martínez Ríos]]  Fecha de nacimiento: [[DATE|12 de enero de 2021]]  Edad: [[KEEP|4;2]]
+ID de expediente: [[ID|NC-884215L]]  Medicaid: [[MEDICAID_ID|990214567A]]
+Fecha de la sesión: [[DATE|3 de marzo de 2025]]  Hora: [[TIME|9:30 a.m.]] – [[TIME|10:15 a.m.]]
+
+Ubicación: [X] Daycare  [ ] Hogar  [ ] Clínica
+Programa: [[DAYCARE|Little Learners Daycare]], salón de [[TEACHER|Sra. Pérez]]
+
+S: Según su mamá, [[PARENT|Lucía Ríos Martínez]], [[CHILD|Lupita]] durmió bien el [[DATE|martes 4 de marzo de 2025]] y llegó contenta. Su hermano mayor, [[SIBLING|Jesús "Chuy" Martínez]], la ayudó a practicar palabras en casa. La niñera, [[FAMILY|Rosa Delgado]], reportó que [[CHILD|Lupita]] jugó con su compañero [[PEER|Pepito]] y con su amiga [[PEER|Sofía]] durante el recreo.
+
+O: Se trabajó el [[KEEP|Programa Little Learners]] de lenguaje expresivo usando [[KEEP|PROMPT]] y [[KEEP|Hanen]]. [[CHILD|Lupita]] produjo /[[KEEP|k]]/ en posición inicial con [[KEEP|mod cues]], diciendo "[[KEEP|casa]]" correctamente [[KEEP|8/10]] intentos. Meta IFSP [[KEEP|#2]] revisada.
+
+Tabla de puntajes (sesiones previas):
+| Fecha | Prueba | Puntaje | IC |
+|---|---|---|---|
+| [[DATE|14/01/2025]] | [[KEEP|PLS-5]] Comprensión Auditiva | [[KEEP|78]] | [[KEEP|73-83]] |
+| [[DATE|02/11/2025]] | [[KEEP|CELF-5]] Expresivo | [[KEEP|85]] | [[KEEP|79-91]] |
+| [[DATE|2025-03-03]] | Producción de /[[KEEP|ɾ]]/ | [[KEEP|8/10]] | [[KEEP|3 of 5]] sesiones |
+
+Se consultó con el coordinador de servicios, [[PROVIDER|José "Pepe" Hernández]], de la agencia [[AGENCY|CDSA del Piedmont]], sobre la transición. También se contactó al Dr. [[PROVIDER|Teodoro "Teo" Salinas]], pediatra en [[HOSPITAL|Centro Médico Carolina del Este]], ubicado en [[PLACE|145 Oak Street, Durham, NC 27701]].
+
+A: [[CHILD|Lupita]] (también conocida como [[CHILD|Juanito]]'s hermana en casa, apodo cariñoso) avanza con [[KEEP|mod-max cues]]; ganancia desde la eval del [[DATE|el 14 de enero de 2025]].
+
+P: Continuar [[KEEP|Cycles]] 2x/semana. Próxima revisión IFSP: [[DATE|4 de junio de 2025]]. Contactar a la mamá al [[PHONE|(919) 555-0142]] o [[EMAIL|lucia.rios.martinez@example.com]].
+
+Terapeuta: [[PROVIDER|Marisol Tapia, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Intérprete presente: [[PROVIDER|Ana Beltrán]]

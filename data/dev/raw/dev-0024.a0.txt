@@ -1,0 +1,64 @@
+Programa_ID: [[ID|ITP-884521]]
+Medicaid_ID: [[MEDICAID_ID|967452310B]]
+Nombre_del_niño: [[CHILD|Santiago Alexander Peña Ruiz]]
+Fecha_de_nacimiento: [[DATE|04/12/2023]]
+Edad_actual: 2;6
+Fecha_del_IFSP: [[DATE|October 2, 2026]]
+Fecha_de_revisión: [[DATE|April 2, 2027]]
+Coordinadora_de_servicios: [[PROVIDER|Yanira Collazo]]
+Oficina_CDSA: [[AGENCY|CDSA del Piamonte Central]], [[PLACE|Hillsborough]], [[PLACE|Condado de Orange]]
+Teléfono_CDSA: [[PHONE|(919) 555-2184]]
+Patóloga_del_habla_y_lenguaje: [[PROVIDER|Marisol Fuentes, MS, CCC-SLP]]
+Empresa: [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Correo_electrónico: [[EMAIL|m.fuentes@carolinapedstherapy.com]]
+Sitio_web: [[URL|www.carolinapedstherapy.com]]
+Intérprete: [[PROVIDER|Rosa Elena Méndez]]
+Madre: [[PARENT|Daniela Ruiz Soto]]
+Padre: [[PARENT|Alexander Peña Vargas]]
+Dirección: [[PLACE|412 Calle Maple, Apt. 3B, Mebane, 27302]]
+Teléfono_familiar: [[PHONE|(336) 555-7709]]
+Hermana: [[SIBLING|Valentina Peña Ruiz]]
+Abuela_materna: [[FAMILY|Rosario Soto]]
+
+RESUMEN DE LA FAMILIA Y PRIORIDADES
+
+[[CHILD|Santiago]] vive con su mamá, [[PARENT|Daniela Ruiz Soto]], su papá, [[PARENT|Alexander Peña Vargas]], y su hermana mayor, [[SIBLING|Valentina Peña Ruiz]], de 5 años, en [[PLACE|Mebane]]. Su abuela, [[FAMILY|Rosario Soto]], lo cuida tres tardes a la semana mientras los padres trabajan. El padre trabaja en [[ORG|Durham Steel Fabricators]] y la madre trabaja medio tiempo en [[ORG|Mebane Family Dental]].
+
+Durante la entrevista inicial el [[DATE|15 de septiembre de 2026]], la madre compartió, en sus propias palabras: "Siento que [[CHILD|Santiago]] entiende todo lo que le decimos, pero casi no habla. Dice 'mamá', 'papá' y 'agua', pero nada más. Mi otra hija, [[SIBLING|Valentina]], hablaba mucho más a esta edad. Me preocupa que se quede atrás cuando empiece la escuela." El padre añadió: "Yo trabajo mucho y no estoy tanto en casa, pero cuando estoy, veo que se frustra y empieza a gritar porque no lo entendemos."
+
+Las prioridades de la familia son: (1) que [[CHILD|Santiago]] use más palabras para pedir lo que necesita, (2) reducir las rabietas por frustración de comunicación, y (3) prepararlo para la transición a servicios escolares antes de cumplir 3 años.
+
+RUTINAS DIARIAS
+
+[[CHILD|Santiago]] se despierta a las [[TIME|6:45 a.m.]] y desayuna con la familia hasta las [[TIME|7:30 a.m.]] Su abuela [[FAMILY|Rosario]] llega a las [[TIME|8:00 a.m.]] y se queda hasta las [[TIME|5:00 p.m.]] los lunes, miércoles y viernes. Asiste al programa de [[AGENCY|Early Head Start]] en el centro de [[PLACE|Mebane]] los martes y jueves de [[TIME|9:00 a.m.]] a [[TIME|1:00 p.m.]], donde su maestra, [[TEACHER|Brenda Tyson]], reporta que juega cerca de otros niños pero rara vez se comunica con ellos, incluyendo su compañero favorito, [[PEER|Mason]]. La siesta es de [[TIME|1:30 p.m.]] a [[TIME|3:00 p.m.]] La cena familiar es a las [[TIME|6:00 p.m.]] y la rutina de baño y cuento comienza a las [[TIME|7:15 p.m.]], terminando con la hora de dormir a las [[TIME|8:00 p.m.]]
+
+OTRAS AGENCIAS INVOLUCRADAS
+
+La familia recibe apoyo nutricional de [[AGENCY|WIC]] en la oficina de [[PLACE|Hillsborough]] y está inscrita en el programa [[AGENCY|Smart Start del Condado de Orange]] para actividades de desarrollo temprano. [[AGENCY|DSS del Condado de Orange]] mantiene un caso abierto de seguimiento preventivo (no relacionado con custodia), con la trabajadora social [[PROVIDER|Teresa Obando]] como contacto. El pediatra de [[CHILD|Santiago]], [[PROVIDER|Dr. Andrés Villalobos]], en [[HOSPITAL|UNC Children's Clinic de Hillsborough]], refirió al niño al programa ITP tras notar el retraso de lenguaje durante su visita de los 24 meses.
+
+EVALUACIÓN
+
+La evaluación se realizó el [[DATE|20 de septiembre de 2026]] de [[TIME|10:00 a.m.]] a [[TIME|12:15 p.m.]] en el hogar familiar, con la intérprete [[PROVIDER|Rosa Elena Méndez]] presente para apoyar a la familia en español.
+
+Se administró la Escala Rossetti de Lenguaje Infantil, obteniendo un desempeño por debajo del nivel esperado para su edad en las áreas de pragmática (6;2 meses equivalente) y vocabulario expresivo (9 meses equivalente). En la prueba de articulación Goldman-Fristoe 3, [[CHILD|Santiago]] produjo únicamente /m/, /p/ y /a/ de manera consistente, con un inventario fonético muy limitado para su edad cronológica. Las Escalas Bayley de Desarrollo Infantil (Bayley-4) mostraron una puntuación compuesta de comunicación de 70 (percentil 2), mientras que el dominio cognitivo estuvo dentro de límites normales (puntuación compuesta de 95). En el Test de Vocabulario en Imágenes Peabody (adaptado para evaluación informal dado su edad), [[CHILD|Santiago]] identificó 4/10 ítems correctamente cuando se le pidió señalar.
+
+Durante la sesión, [[CHILD|Santiago]] produjo las palabras "aba" para "agua" y "mamá" de forma clara, pero no combinó palabras. Mostró comprensión de instrucciones simples de un paso con apoyo gestual 8/10 veces.
+
+RESULTADOS DESEADOS (OUTCOMES) Y ESTRATEGIAS
+
+Resultado 1: [[CHILD|Santiago]] usará al menos 20 palabras funcionales de manera espontánea para pedir objetos y actividades preferidas en el hogar y en [[AGENCY|Early Head Start]].
+Estrategia: Modelado de lenguaje aumentado durante rutinas de comida y juego; uso de apoyos visuales; sesiones de terapia del habla dos veces por semana, [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]], los martes, y [[TIME|4:00 p.m.]] a [[TIME|4:45 p.m.]], los jueves, con [[PROVIDER|Marisol Fuentes, MS, CCC-SLP]].
+
+Resultado 2: La familia usará estrategias de comunicación funcional (señalar, gestos, palabras aproximadas) para reducir las rabietas relacionadas con la frustración comunicativa.
+Estrategia: Entrenamiento a los padres mediante el modelo "Hanen - Más Que Palabras" adaptado, con visitas de coaching el primer miércoles de cada mes de [[TIME|5:30 p.m.]] a [[TIME|6:15 p.m.]]
+
+Resultado 3: [[CHILD|Santiago]] completará la transición a servicios de preescolar especial antes de los 3 años, con evaluación de elegibilidad coordinada por [[AGENCY|Orange County Schools, Programa de Intervención Temprana]].
+Estrategia: Reunión de transición programada para [[DATE|January 15, 2027]]; la coordinadora de servicios [[PROVIDER|Yanira Collazo]] facilitará el intercambio de documentación con el equipo escolar.
+
+FECHAS DE SERVICIO Y FIRMAS
+
+Servicios de terapia del habla y lenguaje iniciaron el [[DATE|28 de septiembre de 2026]] y continuarán hasta la revisión semestral programada para el [[DATE|April 2, 2027]]. El plan fue firmado por [[PARENT|Daniela Ruiz Soto]] y [[PARENT|Alexander Peña Vargas]] el [[DATE|October 2, 2026]], y por la coordinadora de servicios [[PROVIDER|Yanira Collazo]] en la misma fecha.
+
+Para preguntas sobre este plan, contactar a [[PROVIDER|Marisol Fuentes, MS, CCC-SLP]] en [[EMAIL|m.fuentes@carolinapedstherapy.com]] o visitar [[URL|www.carolinapedstherapy.com]] para recursos adicionales en español sobre el desarrollo del lenguaje infantil.
+
+Nota de seguimiento: la próxima visita domiciliaria está programada para el [[DATE|November 4, 2026]] a las [[TIME|2:00 p.m.]], con reprogramación posible si la abuela [[FAMILY|Rosario Soto]] no puede estar presente para traducir instrucciones adicionales a los otros miembros de la familia.

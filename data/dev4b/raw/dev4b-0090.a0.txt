@@ -1,0 +1,71 @@
++ Nombre: [[CHILD|Mateo Hernández Silva]] ("[[CHILD|Teo]]")
++ CA: [[KEEP|2;3]]
++ Contexto: Revisión semestral del IFSP (Plan Individualizado de Servicios para la Familia) realizada en el hogar de la familia el [[DATE|14 de septiembre de 2026]], con interpretación simultánea en español e inglés. Participantes: la madre [[PARENT|Daniela Silva Ponce]], el padre [[PARENT|Jorge Hernández Ruiz]], la coordinadora de servicios [[PROVIDER|Patricia Gómez]] de la [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Durham (ASDIC)]], y la patóloga del habla y lenguaje bilingüe [[PROVIDER|Laura Jiménez, M.S., CCC-SLP]], contratada por [[EMPLOYER|Carolina Pediatric Therapy Services]].
+
+Resumen: [[CHILD|Mateo]] es un niño de [[KEEP|2;3]] años, bilingüe receptivo (español/inglés), referido por retraso significativo en el habla y el lenguaje expresivo. La evaluación más reciente confirma un diagnóstico de [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo). La familia solicita servicios continuos de terapia del habla y lenguaje dos veces por semana, apoyo en el hogar y coordinación con la guardería. Este informe documenta la información familiar, las prioridades de la familia, las rutinas diarias, las agencias involucradas, los resultados actuales de desarrollo y los resultados (outcomes) del IFSP con sus estrategias.
+
+INFORMACIÓN FAMILIAR
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Daniela Silva Ponce]]; su padre, [[PARENT|Jorge Hernández Ruiz]]; su hermana mayor, [[SIBLING|Camila]], de 5 años; y su abuela materna, [[FAMILY|Rosa Ponce]], quien cuida a los niños algunas tardes. La familia reside en [[PLACE|412 Avery Pines Court]], [[PLACE|Durham]], [[PLACE|Condado de Durham]], código postal [[PLACE|27703]]. El número de teléfono de contacto principal es [[PHONE|(919) 555-0148]] y el correo electrónico de la familia es [[EMAIL|dsilvaponce26@gmail.com]]. La madre, [[PARENT|Daniela]], trabaja medio tiempo como asistente administrativa en [[ORG|Triangle Auto Parts Distribution]]; el padre, [[PARENT|Jorge]], trabaja turnos variables en [[ORG|Carolina Freight Logistics]]. En casa, la familia tiene un perro llamado [[PET|Rocky]], al cual [[CHILD|Mateo]] adora y menciona con frecuencia durante las sesiones.
+
+[[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación, con un peso al nacer de [[KEEP|3,100 gramos]] y un Apgar de [[KEEP|8/9]]. No hubo complicaciones perinatales reportadas. La familia indica que [[CHILD|Mateo]] comenzó a caminar a los [[KEEP|13 meses]], dentro de los parámetros esperados, pero el lenguaje expresivo se ha retrasado de forma notable en comparación con el de su hermana [[SIBLING|Camila]] a la misma edad.
+
+COORDINACIÓN DE SERVICIOS Y OFICINA DEL CDSA
+
+La coordinadora de servicios asignada es [[PROVIDER|Patricia Gómez]], de la [[AGENCY|ASDIC]], ubicada en [[PLACE|2200 Chalmette Drive, Suite 110]], [[PLACE|Durham]]. El número de caso con la agencia es [[ID|ASD-2026-30487]]. [[PROVIDER|Patricia]] puede ser contactada al [[PHONE|(919) 555-0271]] o por correo electrónico a [[EMAIL|pgomez@asdic-nc.org]]. El número de identificación de Medicaid de [[CHILD|Mateo]] es [[MEDICAID_ID|NC487201635B]]. La [[AGENCY|ASDIC]] supervisa la elegibilidad continua del niño bajo la Parte C y revisa este IFSP cada seis meses, con la próxima revisión programada para el [[DATE|12 de marzo de 2027]].
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (EN SUS PROPIAS PALABRAS)
+
+La madre, [[PARENT|Daniela]], expresó: "Lo que más nos preocupa es que [[CHILD|Mateo]] no puede decirnos lo que quiere. Solo señala o grita, y a veces se frustra mucho y empieza a llorar. Su hermana [[SIBLING|Camila]] a esta edad ya hablaba en oraciones completas, y la comparación nos asusta un poco." Añadió: "Queremos que él pueda pedir las cosas, aunque sea con pocas palabras, para que no se frustre tanto en casa ni en la guardería."
+
+El padre, [[PARENT|Jorge]], comentó: "Yo trabajo turnos rotativos, así que no siempre estoy en las sesiones, pero cuando estoy en casa trato de jugar con él y repetir las palabras que la terapeuta nos enseña. Lo que más queremos es que [[CHILD|Mateo]] pueda decir 'mamá' y 'papá' claramente, y que pueda decir el nombre del perro, porque ahora solo dice algo como '[[KEEP|[EW]]] oco' cuando quiere jugar con [[PET|Rocky]]."
+
+Durante la observación directa, [[CHILD|Mateo]] produjo varios enunciados espontáneos documentados por la terapeuta. Al ver a su hermana entrar al cuarto, dijo "más [[SIBLING|Camila]]" pidiendo que ella se quedara jugando con él. Cuando el perro ladró afuera, [[CHILD|Mateo]] señaló la puerta y dijo "[[PET|Rocky]] fuera." Más adelante, al pedir agua, produjo una aproximación de la palabra con sustitución fonológica: dijo "[[KEEP|agua]]" como "[[KEEP|awa]]", omitiendo el sonido [[KEEP|/g/]]. La familia reportó que estas producciones de dos palabras son típicas en casa, pero que su inteligibilidad sigue siendo baja fuera del contexto familiar, estimada por los padres en aproximadamente [[KEEP|30%]] para oyentes desconocidos.
+
+Las prioridades de la familia, en orden de importancia, son: (1) aumentar el vocabulario funcional expresivo de [[CHILD|Mateo]] en ambos idiomas; (2) reducir las conductas de frustración relacionadas con la comunicación; (3) apoyar la transición a un salón de clases más estructurado el próximo año escolar.
+
+RUTINAS DIARIAS
+
+[[CHILD|Mateo]] asiste a la guardería [[DAYCARE|Pequeños Soñadores Daycare]] de lunes a viernes, de [[TIME|7:30 a.m.]] a [[TIME|5:00 p.m.]]. Su maestra principal es la Sra. [[TEACHER|Marisol Ortiz]], quien reporta que [[CHILD|Mateo]] juega bien en paralelo pero rara vez inicia intercambios verbales con sus compañeros, incluido su amigo cercano [[PEER|Diego]], de 2 años, con quien comparte mesa durante la merienda de las [[TIME|9:15 a.m.]].
+
+La rutina típica en casa incluye desayuno a las [[TIME|6:45 a.m.]], recogida de la guardería alrededor de las [[TIME|5:30 p.m.]], tiempo de juego con [[SIBLING|Camila]] y [[PET|Rocky]] hasta la cena a las [[TIME|6:30 p.m.]], baño a las [[TIME|7:15 p.m.]] y rutina de sueño que comienza a las [[TIME|7:45 p.m.]]. La familia indica que los momentos de mayor comunicación espontánea ocurren durante el baño y antes de dormir, cuando [[CHILD|Mateo]] está más relajado y produce más intentos verbales.
+
+Las sesiones de terapia del habla y lenguaje se realizan los martes y jueves, de [[TIME|10:00 a.m.]] a [[TIME|10:45 a.m.]], en el hogar de la familia, con la asistencia frecuente de la abuela, [[FAMILY|Rosa Ponce]], cuando los padres no pueden estar presentes.
+
+OTRAS AGENCIAS INVOLUCRADAS
+
+La familia recibe apoyo nutricional del programa [[AGENCY|WIC del Condado de Durham]], y la madre, [[PARENT|Daniela]], indicó que la nutricionista asignada ha sido útil para hablar sobre las texturas de alimentos y la aversión sensorial leve de [[CHILD|Mateo]]. La familia también ha sido referida al [[AGENCY|Departamento de Servicios Sociales del Condado de Durham (DSS)]] para evaluar elegibilidad de asistencia de vivienda, y participa en talleres de crianza ofrecidos por [[AGENCY|Smart Start del Condado de Durham]].
+
+El pediatra de [[CHILD|Mateo]], el Dr. [[PROVIDER|Esteban Méndez]], de [[HOSPITAL|Duke Children's Primary Care Clinic]], realizó la referencia inicial a la [[AGENCY|ASDIC]] después de notar el retraso de lenguaje durante la visita de los [[KEEP|24 meses]]. No se han identificado preocupaciones auditivas; una prueba de audición realizada el [[DATE|2 de junio de 2026]] resultó normal bilateralmente.
+
+NIVELES ACTUALES DE DESARROLLO (RESULTADOS DE EVALUACIÓN)
+
+La evaluación comprensiva más reciente, realizada el [[DATE|18 de agosto de 2026]], incluyó los siguientes instrumentos administrados de forma bilingüe con apoyo de intérprete:
+
+La [[KEEP|Rossetti Infant-Toddler Language Scale]] ubicó a [[CHILD|Mateo]] en un nivel de lenguaje receptivo equivalente a [[KEEP|18-20 meses]] y un nivel de lenguaje expresivo equivalente a [[KEEP|14-16 meses]], indicando un retraso significativo en ambos dominios, más marcado en el área expresiva.
+
+En las [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition (Bayley-4)]], [[CHILD|Mateo]] obtuvo una puntuación compuesta de comunicación receptiva de [[KEEP|76]] (percentil [[KEEP|5]]) y una puntuación compuesta de comunicación expresiva de [[KEEP|70]] (percentil [[KEEP|2]]), ambas dentro del rango deficiente. Las habilidades motoras gruesas y finas estuvieron dentro de límites normales, con puntuaciones compuestas de [[KEEP|95]] y [[KEEP|91]] respectivamente.
+
+El [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]] arrojó una puntuación estándar de [[KEEP|72]] (intervalo de confianza [[KEEP|65-79]]), percentil [[KEEP|3]], reflejando un inventario fonético reducido para la edad. Se observaron procesos fonológicos de omisión de consonante final y reducción de grupos consonánticos. Los fonemas [[KEEP|/s/]], [[KEEP|/k/]] y [[KEEP|/ɾ/]] estuvieron ausentes del repertorio espontáneo observado.
+
+El [[KEEP|Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)]], administrado en español con normas de referencia apropiadas, arrojó una puntuación estándar de [[KEEP|74]], equivalente de edad de [[KEEP|19 meses]], consistente con los hallazgos de la [[KEEP|Rossetti]].
+
+En muestras estructuradas de denominación, [[CHILD|Mateo]] identificó correctamente objetos familiares con [[KEEP|8/10]] aciertos cuando se le dio una opción de dos imágenes, pero su producción espontánea de dos palabras combinadas ocurrió solo en [[KEEP|3 de 15]] oportunidades observadas durante una muestra de juego de 20 minutos, equivalente a [[KEEP|20%]].
+
+RESULTADOS DEL IFSP CON ESTRATEGIAS
+
+Resultado [[KEEP|1]]: [[CHILD|Mateo]] combinará dos palabras de forma espontánea para solicitar objetos o acciones deseadas en el [[KEEP|80%]] de las oportunidades observadas en el hogar y en la guardería, durante tres sesiones consecutivas. Estrategias: modelado con expansión lingüística usando el enfoque [[KEEP|Hanen]] ("It Takes Two to Talk"); los padres recibirán entrenamiento para seguir el interés comunicativo de [[CHILD|Mateo]] y expandir sus intentos verbales en ambos idiomas; uso de claves [[KEEP|mod cues]] (señalamiento visual más modelo verbal) durante el juego dirigido.
+
+Resultado [[KEEP|2]]: [[CHILD|Mateo]] producirá de forma precisa los sonidos [[KEEP|/k/]] y [[KEEP|/s/]] en posición inicial de palabra en el [[KEEP|70%]] de los intentos, usando palabras funcionales como "[[KEEP|casa]]" y "[[KEEP|sopa]]", con apoyo de claves táctiles-cinestésicas del enfoque [[KEEP|PROMPT]]. Estrategias: práctica estructurada con [[KEEP|min]] a [[KEEP|mod cues]] según respuesta; generalización en rutinas de comida y baño; refuerzo de la familia en casa mediante juego con [[PET|Rocky]] y objetos preferidos.
+
+Resultado [[KEEP|3]]: La familia aumentará su confianza y conocimiento de estrategias de comunicación en el hogar, según lo reportado en una escala de autoevaluación familiar, pasando de un nivel bajo a un nivel moderado-alto en un período de seis meses. Estrategias: visitas domiciliarias quincenales con la coordinadora de servicios [[PROVIDER|Patricia Gómez]]; materiales bilingües proporcionados por [[PROVIDER|Laura Jiménez, M.S., CCC-SLP]]; coordinación con la maestra [[TEACHER|Marisol Ortiz]] en [[DAYCARE|Pequeños Soñadores Daycare]] para alinear estrategias de aula y hogar; uso del programa de comunicación por intercambio de imágenes ([[KEEP|PECS]]) como apoyo visual complementario en momentos de alta frustración.
+
+FECHAS Y CÓDIGOS DE SERVICIO
+
+El IFSP inicial fue desarrollado el [[DATE|15 de marzo de 2026]], con la primera revisión semestral completada el [[DATE|14 de septiembre de 2026]], según se documenta en este informe. La próxima revisión está programada para el [[DATE|12 de marzo de 2027]], y la evaluación anual completa deberá realizarse antes del [[DATE|15 de marzo de 2027]] para mantener la elegibilidad continua bajo la Parte C.
+
+Los servicios de terapia del habla y lenguaje se facturan bajo los códigos [[KEEP|CPT 92507]] (tratamiento individual del habla, lenguaje y/o comunicación) y [[KEEP|CPT 92523]] (evaluación de producción de sonidos del habla con evaluación del lenguaje), ambos con el modificador [[KEEP|GN]] correspondiente a servicios de patología del habla y lenguaje. El diagnóstico primario que sustenta estos servicios es [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo del desarrollo).
+
+La frecuencia autorizada de servicio es de dos sesiones semanales de 45 minutos cada una, realizadas los martes y jueves de [[TIME|10:00 a.m.]] a [[TIME|10:45 a.m.]], por un total de 36 sesiones durante el período de autorización actual, que se extiende desde el [[DATE|14 de septiembre de 2026]] hasta el [[DATE|12 de marzo de 2027]]. La autorización fue aprobada por la [[AGENCY|ASDIC]] bajo el número de referencia [[ID|AUTH-2026-8847]].
+
+Este informe fue preparado y firmado por [[PROVIDER|Laura Jiménez, M.S., CCC-SLP]], patóloga del habla y lenguaje bilingüe de [[EMPLOYER|Carolina Pediatric Therapy Services]], el [[DATE|14 de septiembre de 2026]], y revisado conjuntamente con la coordinadora de servicios [[PROVIDER|Patricia Gómez]] de la [[AGENCY|ASDIC]] antes de su distribución a la familia [[PARENT|Daniela Silva Ponce]] y [[PARENT|Jorge Hernández Ruiz]].

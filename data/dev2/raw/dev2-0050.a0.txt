@@ -1,0 +1,110 @@
+Patient Name: [[CHILD|Mateo Hernández Cruz]]
+Preferred Name: [[CHILD|Mateo]]
+Date of Birth: [[DATE|April 3, 2022]]
+Chronological Age at Evaluation: [[KEEP|4;2]]
+Medical Record Number: [[ID|MR-204871]]
+Medicaid Member ID: [[MEDICAID_ID|100873542D]]
+Date of Evaluation: [[DATE|June 9, 2026]]
+Date of Report: [[DATE|June 14, 2026]]
+Referral Source: Dr. [[PROVIDER|Anne Castellanos]], pediatrician, [[HOSPITAL|Sandhills Regional Medical Center]]
+Evaluating Clinician: [[PROVIDER|Grace M. Thornton]], MS, CCC-SLP
+Clinic: [[EMPLOYER|Sandhills Pediatric Therapy Associates, PLLC]]
+Interpreter: [[PROVIDER|Diana Castillo]], certified Spanish-English medical interpreter
+Home Address: [[PLACE|214 Birchwood Lane]], [[PLACE|Fayetteville]], NC [[PLACE|28301]]
+County: [[PLACE|Cumberland County]]
+Home Phone: [[PHONE|(910) 555-2847]]
+Primary Caregiver(s): [[PARENT|Lucía Hernández Martínez]] (mother), [[PARENT|Héctor Hernández Pineda]] (father)
+Primary Language(s) in the Home: Spanish and English
+Service Coordinator: [[PROVIDER|Patricia Núñez]], [[AGENCY|Cumberland County CDSA]]
+IFSP Review Date: [[DATE|August 1, 2026]]
+
+**Reason for Referral**
+
+[[CHILD|Mateo]] is a [[KEEP|4;2]]-year-old bilingual (Spanish/English) boy referred for a comprehensive speech-language evaluation by Dr. [[PROVIDER|Castellanos]] due to parental and teacher concern regarding limited intelligibility, reduced expressive vocabulary, and difficulty following multi-step directions in both languages. [[CHILD|Mateo]] currently receives early intervention services through [[AGENCY|Cumberland County CDSA]] under [[KEEP|IFSP Outcome 2]], and this evaluation was requested to inform the [[DATE|August 1, 2026]] annual IFSP review.
+
+**Background and Family History**
+
+[[CHILD|Mateo]] lives with his parents, [[PARENT|Lucía Hernández Martínez]] and [[PARENT|Héctor Hernández Pineda]], and his older sister, [[SIBLING|Sol Hernández Martínez]] ([[KEEP|age 7]]), at [[PLACE|214 Birchwood Lane]] in [[PLACE|Fayetteville]]. The family also includes [[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Carmen Martínez Soto]], who provides after-school and weekend childcare for both children and lives nearby.
+
+[[PARENT|Lucía Hernández Martínez]] works at [[ORG|Restaurante El Buen Sabor]], a family-style Mexican restaurant, where she works evening shifts as a server. [[PARENT|Héctor Hernández Pineda]] is employed by [[ORG|Pinewood Construction Company]] as a framing crew lead. Both parents describe long and variable work hours, and both report that [[CHILD|Mateo]] spends significant time in his grandmother's care in addition to attending [[DAYCARE|Sunshine Steps Child Development Center]] on weekdays from [[TIME|7:30 AM]] to [[TIME|5:30 PM]].
+
+The family attends services at [[AGENCY|Iglesia Bautista Nueva Vida]] most Sundays, where [[CHILD|Mateo]] also attends the children's program. [[CHILD|Mateo]] and his sister, [[SIBLING|Sol Hernández Martínez]], attend the bilingual story-time program hosted by [[AGENCY|Manos Unidas Family Resource Center]] on Thursday evenings, which the family has found helpful for building English vocabulary in a low-pressure setting alongside other bilingual families in the community.
+
+[[PARENT|Lucía Hernández Martínez]] was born and raised in [[PLACE|La Esperanza]], Honduras, a small village in the western highlands, and moved to the United States in 2015. She reports that Spanish was the only language spoken in her childhood home and that she did not learn English until adulthood. [[PARENT|Héctor Hernández Pineda]] was born in [[PLACE|Comayagua]], Honduras, and came to [[PLACE|Fayetteville]] in 2017 to join extended family already working in the area. Both parents report feeling comfortable using Spanish with [[CHILD|Mateo]] and prefer that he maintain strong Spanish skills alongside English.
+
+**Birth and Medical History**
+
+[[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestation via vaginal delivery at [[HOSPITAL|Sandhills Regional Medical Center]]. Birth weight was [[KEEP|6 lbs 11 oz]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes. There were no complications noted in the neonatal period, and [[CHILD|Mateo]] was discharged home with his mother on day two of life. His mother reports an uncomplicated pregnancy with regular prenatal care.
+
+Medical history is significant for recurrent otitis media, with [[KEEP|4]] documented episodes between [[KEEP|12 months]] and [[KEEP|24 months]] of age, each treated with oral antibiotics. [[CHILD|Mateo]] underwent bilateral myringotomy with tube placement ([[KEEP|CPT 69436]]) on [[DATE|November 12, 2024]], performed by Dr. [[PROVIDER|Samuel Okafor]], pediatric otolaryngologist. Tubes extruded spontaneously by approximately [[KEEP|30 months]] of age, and a follow-up audiogram on [[DATE|March 3, 2025]] showed hearing within normal limits bilaterally, with no evidence of conductive loss at the time of this evaluation. No other significant medical history, hospitalizations, or surgeries are reported, and [[CHILD|Mateo]] takes no regular medications. Vision screening at his most recent well-child visit was within normal limits.
+
+Diagnostic coding associated with the current referral includes [[KEEP|ICD-10 F80.9]] (developmental disorder of speech and language, unspecified), with [[KEEP|F80.2]] (mixed receptive-expressive language disorder) and [[KEEP|F80.0]] (phonological disorder) also under consideration pending the results of this evaluation.
+
+**Family and Language History**
+
+Spanish is the primary language used in the home between [[CHILD|Mateo]] and both parents and his grandmother, [[FAMILY|Carmen Martínez Soto]]. English is used increasingly with his sister, [[SIBLING|Sol Hernández Martínez]], who is more English-dominant following two years in the [[PLACE|Cumberland County]] school system, and with peers and staff at [[DAYCARE|Sunshine Steps Child Development Center]]. Parents estimate [[CHILD|Mateo]]'s current exposure as approximately [[KEEP|70%]] Spanish and [[KEEP|30%]] English, though this ratio has shifted toward more English exposure over the past year as his sister has entered school.
+
+There is a family history of late talking: [[PARENT|Héctor Hernández Pineda]] reports that he did not combine words until after age [[KEEP|3]], and a paternal uncle received speech therapy as a child in Honduras. No other family history of hearing loss, autism, intellectual disability, or genetic syndromes is reported.
+
+**Educational History**
+
+[[CHILD|Mateo]] has attended [[DAYCARE|Sunshine Steps Child Development Center]] since [[DATE|January 2024]]. His classroom teacher, [[TEACHER|Jennifer Lopez]], reports that [[CHILD|Mateo]] is social and affectionate with peers but is frequently difficult to understand, relies heavily on gesture, and becomes frustrated when he cannot make himself understood. Ms. [[TEACHER|Lopez]] also notes that he follows one-step directions reliably but struggles with two-step directions, particularly in English. His classroom peers, including [[PEER|Isabella Cho]] and [[PEER|Jayden Brooks]], reportedly include him in play but sometimes speak for him when he is not understood, which Ms. [[TEACHER|Lopez]] feels may be reducing his opportunities to practice independent communication.
+
+**Behavioral Observations**
+
+[[CHILD|Mateo]] presented as a friendly, cooperative child who separated easily from his mother and engaged readily with the examiner and with the interpreter, [[PROVIDER|Diana Castillo]]. He demonstrated adequate attention for structured tasks lasting approximately 20 minutes before requiring a brief movement break, and transitioned well between activities when given advance warning. Hearing and vision were grossly screened and appeared adequate for testing purposes. Oral-motor examination revealed structures and function within normal limits for speech production, with adequate range of motion, strength, and coordination of the lips, tongue, and jaw observed during both speech and non-speech tasks.
+
+**Standardized Test Results**
+
+The [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], the [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]], and the [[KEEP|Bilingual English Spanish Assessment (BESA)]] were administered, along with select subtests of the [[KEEP|Clinical Evaluation of Language Fundamentals, Fifth Edition (CELF-5)]] on a qualitative basis.
+
+| Measure | Score | Percentile | Age Equivalent |
+|---|---|---|---|
+| [[KEEP|PLS-5]] Auditory Comprehension | Standard Score [[KEEP|76]] | [[KEEP|5th percentile]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5]] Expressive Communication | Standard Score [[KEEP|71]] | [[KEEP|3rd percentile]] | [[KEEP|2;6]] |
+| [[KEEP|PLS-5]] Total Language Score | [[KEEP|73]] | [[KEEP|4th percentile]] | — |
+| [[KEEP|GFTA-3]] | Standard Score [[KEEP|68]] | [[KEEP|2nd percentile]] | — |
+| [[KEEP|BESA]] Morphosyntax Index (Spanish) | Standard Score [[KEEP|82]] | [[KEEP|12th percentile]] | — |
+| [[KEEP|BESA]] Morphosyntax Index (English) | Standard Score [[KEEP|74]] | [[KEEP|4th percentile]] | — |
+
+[[KEEP|CELF-5]] was administered on a supplemental, qualitative basis only, given [[CHILD|Mateo]]'s age falls below the normed range for several subtests; formal scores are not reported, though observations from administered items are consistent with findings on the [[KEEP|PLS-5]] and [[KEEP|BESA]].
+
+**Speech Sound Production**
+
+[[CHILD|Mateo]]'s connected speech was estimated to be approximately [[KEEP|40%]] intelligible to unfamiliar listeners in English and approximately [[KEEP|55%]] intelligible in Spanish, with context available to the listener. Single-word intelligibility in Spanish was higher, at approximately [[KEEP|8/10]] words understood by the examiner without the gloss, compared with roughly [[KEEP|5/10]] in English.
+
+Phonological processes observed in Spanish included final consonant deletion, stopping of fricatives, and liquid simplification, including gliding of /ɾ/ to [w] and deletion of /s/ in consonant clusters. On a single-word Spanish articulation probe, [[CHILD|Mateo]] was shown a picture of the sun and asked to name it; his target word was [[KEEP|"sol"]], which he produced as [[KEEP|"to"]], omitting the final liquid consistent with the pattern noted above. The clinician noted that this target happens to be homophonous with the name of [[CHILD|Mateo]]'s sister, [[SIBLING|Sol Hernández Martínez]], and confirmed with the family, through the interpreter, [[PROVIDER|Diana Castillo]], that [[CHILD|Mateo]] did not appear to confuse the word with his sister's name during testing, nor did he reference her when prompted for the target.
+
+In English, [[CHILD|Mateo]] demonstrated fronting of /k/ and /g/ to [t] and [d] respectively (for example, "cat" produced as [[KEEP|"tat"]]), cluster reduction, and final consonant deletion. He produced /θ/ as [f], consistent with common developmental patterns among English learners of his age. Stimulability testing showed that [[CHILD|Mateo]] could produce /k/ in isolation with [[KEEP|moderate cues]] and /s/ in the initial position with [[KEEP|minimal cues]], suggesting good candidacy for direct therapy using a [[KEEP|Cycles]] approach targeting phonological patterns across both languages.
+
+**Language Sample**
+
+A spontaneous language sample was collected in both languages during structured play with toy animals and a farm set, with [[PROVIDER|Diana Castillo]] interpreting for the Spanish portions. In Spanish, [[CHILD|Mateo]] produced primarily single words and occasional two-word combinations (for example, "más agua," "no quiero"), with a mean length of utterance of approximately [[KEEP|1.8 morphemes]]. In English, his utterances were almost exclusively single words, with a mean length of utterance of approximately [[KEEP|1.2 morphemes]]. He used gesture and pointing extensively to supplement verbal output in both languages, particularly when frustrated or when a listener did not understand him on the first attempt.
+
+[[CHILD|Mateo]] demonstrated understanding of basic spatial concepts (in, on, under) and several body part names in both languages, but had difficulty with multi-step directions, temporal concepts (before, after), and quantitative concepts (more, less) in formal testing, consistent with teacher report from Ms. [[TEACHER|Lopez]]. He initiated communication with the examiner and interpreter spontaneously but relied on single words or short phrases rather than extended utterances, even when given models.
+
+**Impressions**
+
+Based on standardized testing, parent and teacher report, and clinical observation, [[CHILD|Mateo]] presents with a moderate-to-severe mixed receptive-expressive language disorder affecting both Spanish and English ([[KEEP|ICD-10 F80.2]]), along with a moderate speech sound disorder affecting both languages ([[KEEP|ICD-10 F80.0]]). His difficulties are present across both languages and cannot be attributed solely to the process of bilingual acquisition, supporting a true disorder rather than typical second-language learning differences. Reduced intelligibility, limited expressive vocabulary, and difficulty with multi-step directions are consistent with, and likely contributing to, the concerns raised by his family and by his teacher, [[TEACHER|Jennifer Lopez]].
+
+[[CHILD|Mateo]]'s strengths include social engagement, appropriate use of compensatory gesture, and stimulability for several error sounds with cueing, all of which are favorable prognostic indicators for intervention. His history of recurrent otitis media during a key period of early language development is also a relevant contributing factor to consider in the overall clinical picture, though current hearing is within normal limits.
+
+**Recommendations**
+
+1. [[CHILD|Mateo]] is recommended to continue speech-language therapy services under his IFSP, with a change in frequency from once weekly to twice weekly, [[KEEP|30]]-minute sessions, to address both expressive and receptive language goals and speech sound production goals in both Spanish and English.
+2. Therapy should employ a [[KEEP|Cycles]] phonological approach for speech sound goals and incorporate [[KEEP|Hanen]]-based strategies to support parent-implemented language facilitation in the home.
+3. The family should continue to use Spanish as the primary home language. Bilingual input supports rather than hinders [[CHILD|Mateo]]'s language development, and both languages should be targeted and supported in intervention rather than restricted to one language.
+4. Coordination with Ms. [[TEACHER|Lopez]] and [[DAYCARE|Sunshine Steps Child Development Center]] staff is recommended to support carryover of therapy targets in the classroom setting.
+5. Referral to [[AGENCY|Cumberland County CDSA]] for an IFSP update reflecting these new goals is recommended, with review by service coordinator [[PROVIDER|Patricia Núñez]] at the [[DATE|August 1, 2026]] annual review.
+6. A repeat audiological evaluation is recommended within the next 12 months given [[CHILD|Mateo]]'s history of recurrent otitis media, to be coordinated through Dr. [[PROVIDER|Samuel Okafor]]'s office.
+7. The family may benefit from continued participation in the bilingual story-time program at [[AGENCY|Manos Unidas Family Resource Center]], which supports informal English language exposure for [[CHILD|Mateo]] and [[SIBLING|Sol Hernández Martínez]] in a supportive community setting.
+
+This evaluation and these recommendations were discussed with [[PARENT|Lucía Hernández Martínez]] and [[PARENT|Héctor Hernández Pineda]] in Spanish, with interpretation provided by [[PROVIDER|Diana Castillo]]. Both parents voiced agreement with the plan and expressed interest in strategies they can use at home, during family gatherings, and through the children's program at [[AGENCY|Iglesia Bautista Nueva Vida]], which [[CHILD|Mateo]] also attends on Sunday mornings with his sister.
+
+Report completed by:
+[[PROVIDER|Grace M. Thornton]], MS, CCC-SLP
+[[EMPLOYER|Sandhills Pediatric Therapy Associates, PLLC]]
+[[PLACE|Fayetteville]], NC
+Phone: [[PHONE|(910) 555-7102]]
+Email: [[EMAIL|gthornton@sandhillspeds-example.com]]
+Date: [[DATE|June 14, 2026]]

@@ -1,0 +1,100 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE  
+Documento ficticio para pruebas de desidentificación. Todos los datos personales, institucionales y clínicos son inventados.
+
+Paciente: [[CHILD|María Elena Valdés Cifuentes]]  
+Nombre usado en casa: [[CHILD|Mariel]]  
+Fecha de nacimiento: [[DATE|6 de agosto de 2022]]  
+Edad cronológica: [[KEEP|4;2]]  
+Fecha de evaluación: [[DATE|8 de octubre de 2026]]  
+Horario: [[TIME|8:15 a. m.]] a [[TIME|10:05 a. m.]]  
+Fecha del informe: [[DATE|11 de octubre de 2026]]  
+Expediente: [[ID|LLP-260184]]  
+Medicaid: [[MEDICAID_ID|482716395R]]  
+Autorización: [[ID|NC-SP-6048291]]  
+Madre: [[PARENT|Adriana Cifuentes Salazar]]  
+Padre: [[PARENT|Esteban Valdés Molina]]  
+Domicilio: [[PLACE|1846 Sendero del Laurel, apartamento 3B]], [[PLACE|Pinar del Este]], Carolina del Norte, [[PLACE|27864]]  
+Teléfono familiar: [[PHONE|919-555-0146]]  
+Correo familiar: [[EMAIL|adriana.cifuentes@example.com]]  
+Evaluadora: [[PROVIDER|Camila Serrano Ledesma]], M.A., CCC-SLP, patóloga bilingüe del habla y del lenguaje  
+Empleador: [[EMPLOYER|Senderos Bilingües Terapia Pediátrica, PLLC]]  
+Teléfono profesional: [[PHONE|984-555-0173]]  
+Portal: [[URL|https://senderosbilingues.example.com]]  
+Servicio: evaluación del habla y del lenguaje, [[KEEP|CPT 92523]]  
+Diagnósticos considerados: [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 F80.0]]
+
+**Antecedentes y motivo de consulta**
+
+La familia solicitó esta evaluación por dificultades para comprender instrucciones nuevas y expresar necesidades con claridad. La madre indicó que [[CHILD|María Elena]] comunica muchas ideas mediante gestos, palabras aisladas y frases cortas. Cuando el adulto no entiende, la niña repite el mismo mensaje con mayor volumen. A veces abandona la conversación y busca el objeto por sí misma. La familia desea comprender sus habilidades en ambos idiomas y recibir estrategias que pueda usar durante las actividades diarias.
+
+La niña asiste a [[DAYCARE|Little Learners Daycare]] en [[PLACE|Pinar del Este]]. Su maestra principal, la Sra. [[TEACHER|Yolanda Lopez]], informó que participa con interés en canciones, juegos de cocina y actividades con animales. El salón aparece en los registros del centro como “Ms. [[TEACHER|Lopez]]'s room”. Según el informe docente, necesita demostraciones para seguir instrucciones de grupo y suele esperar a que otra niña empiece antes de actuar. También tiene dificultad para explicar qué ocurrió durante un conflicto.
+
+La coordinadora [[PROVIDER|Rebeca Montes Aranda]] remitió el caso desde [[AGENCY|Smart Start Puentes de Infancia]] del condado de [[PLACE|Cedral]]. La familia también recibe orientación de [[AGENCY|Oficina de WIC Senderos del Valle]] del condado de [[PLACE|Cedral]]. Estos servicios apoyan la participación familiar y el acceso a recursos comunitarios. No se atribuyó a ninguna agencia una conclusión diagnóstica. La evaluación actual reúne observaciones directas, entrevista familiar, información docente y procedimientos clínicos apropiados para una niña bilingüe.
+
+La madre acompañó a [[CHILD|Mariel]] durante toda la visita. El padre participó por teléfono durante la entrevista inicial. La evaluadora explicó en español el propósito de las actividades y la diferencia entre una evaluación y una sesión de tratamiento. La familia autorizó el intercambio del informe con la pediatra y el centro infantil. La niña pudo elegir materiales y solicitar descansos. No se necesitó intérprete porque la evaluadora realizó directamente la entrevista y las actividades en español e inglés.
+
+Antes de esta visita, la familia había recibido una consulta de orientación con la terapeuta [[PROVIDER|Daniela Pardo Vives]]. No había comenzado tratamiento regular. La consulta ocurrió el [[DATE|17 de septiembre de 2026]] y se centró en turnos comunicativos. La familia conserva un IFSP previo, fechado el [[DATE|14 de junio de 2025]], cuyo resultado [[KEEP|2]] abordaba pedir ayuda durante rutinas. Ese documento se revisó como antecedente; sus observaciones no sustituyeron la evaluación actual ni se usaron como puntuaciones vigentes.
+
+**Historia de nacimiento, salud, familia e idiomas**
+
+Según la entrevista, el embarazo tuvo seguimiento regular y no presentó complicaciones importantes. [[CHILD|María Elena Valdés Cifuentes]] nació a las [[KEEP|39 semanas y 2 días]] de gestación, mediante parto vaginal, en [[HOSPITAL|Hospital Materno Infantil Brisas del Roble]]. El peso al nacer fue de [[KEEP|3,240 gramos]]. La madre reportó puntuaciones Apgar de [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. La niña permaneció con su madre después del nacimiento y no requirió cuidados intensivos.
+
+La familia describió alimentación inicial sin dificultades persistentes. La niña se sentó sin apoyo a los [[KEEP|7 meses]] y comenzó a caminar a los [[KEEP|14 meses]]. Las primeras palabras reconocibles aparecieron alrededor de los [[KEEP|19 meses]]. Las combinaciones espontáneas de palabras se hicieron frecuentes después de los [[KEEP|32 meses]]. Estas edades proceden del recuerdo familiar y no de registros contemporáneos. La madre señaló que el vocabulario siguió aumentando, pero las frases permanecieron cortas frente a las demandas cotidianas.
+
+La pediatra [[PROVIDER|Elisa Benavides Rojas]] atiende a la niña en [[HOSPITAL|Centro Pediátrico Alameda Clara]]. El expediente remitido describe episodios de otitis media durante la primera infancia, sin colocación de tubos. No se reportaron convulsiones, lesiones neurológicas ni hospitalizaciones posteriores al nacimiento. La familia informó sueño generalmente estable y alimentación variada. La niña acepta alimentos sólidos habituales y bebe de vaso abierto. No se observaron tos, cambios de voz ni dificultad respiratoria durante la merienda ofrecida.
+
+La audióloga [[PROVIDER|Natalia Fuentes Prado]] realizó una evaluación el [[DATE|25 de septiembre de 2026]]. El resumen entregado por la familia informa respuestas auditivas dentro de los límites esperados en ambos oídos. Este informe no reproduce umbrales ni sustituye el documento audiológico. Durante la visita, [[CHILD|María Elena]] respondió a su nombre y a sonidos ambientales suaves. Estas respuestas fueron compatibles con el resumen recibido, aunque la observación clínica por sí sola no descarta una dificultad auditiva.
+
+La niña vive con ambos padres y su hermano [[SIBLING|Gabriel Valdés Cifuentes]], de [[KEEP|7;6]]. El hermano asiste a [[SCHOOL|Escuela Primaria Bosque de la Luna]]. La abuela materna [[FAMILY|Teresa Salazar Mena]] cuida a la niña algunas tardes. Una tía, [[FAMILY|Lorena Cifuentes Salazar]], participa en las comidas familiares de los fines de semana. La familia tiene una perra llamada [[PET|Nube]], que suele aparecer en el juego y en las conversaciones. No se identificaron cambios recientes de vivienda o cuidadores.
+
+El español es el idioma principal del hogar. La madre estimó que corresponde aproximadamente al [[KEEP|75%]] de las interacciones de la niña fuera del centro infantil. El padre usa español con sus hijos y algo de inglés durante juegos compartidos. Trabaja en [[ORG|Taller Mecánico Rueda Serena]], en [[PLACE|Arroyo Claro]]. La madre trabaja en [[ORG|Mercado Familiar Las Jacarandas]]. Los horarios laborales permiten que un familiar conocido acompañe la mayoría de las rutinas. Estas circunstancias describen oportunidades comunicativas, sin establecer relaciones causales.
+
+La exposición regular al inglés comenzó con la asistencia al centro infantil a los [[KEEP|2;8]]. En ese ambiente predominan las instrucciones en inglés, aunque una auxiliar bilingüe, la Sra. [[TEACHER|Marisol Vega]], ofrece apoyo en español. La familia informó que la niña reconoce canciones y vocabulario de ambos idiomas. A veces combina palabras de español e inglés en una misma frase. Esa combinación se consideró parte de su experiencia bilingüe y no se interpretó, por sí sola, como un signo de trastorno.
+
+Durante el juego familiar, [[CHILD|Mariel]] suele buscar a su hermano para construir torres o representar comidas. La madre describe intercambios recíprocos y disfrute compartido. En el centro infantil, juega con [[PEER|Emma Solís Duarte]] y [[PEER|Nicolás Hart Vera]]. La maestra señaló que acepta invitaciones al juego, pero necesita ayuda para negociar materiales. La familia no reportó pérdida de habilidades. Sus principales preocupaciones son la comprensión verbal, la longitud de las frases y la claridad del habla para personas menos conocidas.
+
+**Procedimientos y resultados**
+
+La evaluación incluyó entrevista, revisión de antecedentes, juego observado, exploración oral y una muestra de lenguaje en ambos idiomas. También se administró [[KEEP|PLS-5 Spanish]], con sus subpruebas [[KEEP|Comprensión auditiva]] y [[KEEP|Comunicación expresiva]], y el compuesto [[KEEP|Lenguaje total]]. Se respetaron los procedimientos indicados para los reactivos utilizados. Las oportunidades de enseñanza posteriores se registraron por separado y no modificaron las puntuaciones estandarizadas. Los resultados se interpretaron junto con el contexto lingüístico, la participación y los ejemplos funcionales.
+
+[[CHILD|María Elena]] se mostró curiosa y aceptó la mayoría de los materiales. Buscó contacto visual para compartir sorpresa, señaló objetos de interés y respondió a comentarios sociales. La participación disminuyó cuando aumentó la longitud de las instrucciones o cuando debía explicar una respuesta sin apoyo visual. Dos pausas breves permitieron recuperar la atención. No se observó una conducta que invalidara globalmente los resultados. Sin embargo, las tareas estructuradas representan una parte limitada de su comunicación diaria.
+
+| Instrumento o área | Puntuación estándar | Percentil | Intervalo de confianza del 90% | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|75–89]] | [[KEEP|3;2]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|70–85]] | [[KEEP|2;10]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]] | [[KEEP|77]] | [[KEEP|6]] | [[KEEP|72–84]] | [[KEEP|3;0]] |
+
+Las edades equivalentes describen el punto de referencia del instrumento y no representan una edad global de desarrollo. Tampoco deben utilizarse para decidir por sí solas la intensidad del tratamiento. La diferencia entre comprensión y expresión fue pequeña frente a la variabilidad esperada. No se interpretó como una separación definitiva entre capacidades. El perfil mostró necesidades en ambas áreas, con mayor dificultad al formular mensajes. Los intervalos de confianza se incluyeron para mostrar la incertidumbre de las puntuaciones.
+
+En comprensión, la niña identificó objetos familiares, acciones básicas y partes del cuerpo. Respondió correctamente a [[KEEP|8/10]] instrucciones sencillas con objetos visibles. Al combinar dos acciones relacionadas, respondió a [[KEEP|3/5]] oportunidades sin demostración. Reconoció relaciones espaciales concretas cuando podía manipular los materiales, pero confundió referencias menos evidentes. Las preguntas sobre causas y acontecimientos anteriores requirieron repetición. Durante el juego, la instrucción “[[KEEP|pon el oso debajo de la mesa]]” produjo una respuesta correcta después de una demostración.
+
+En expresión, predominaban frases cortas con nombres y verbos frecuentes. La niña utilizó “[[KEEP|quiero más agua]]” y “[[KEEP|bebé está dormido]]” de manera espontánea. También dijo “[[KEEP|yo no puede]]” al abrir un recipiente. Usó pronombres y algunas marcas de plural, pero omitió elementos gramaticales cuando el mensaje se alargaba. Sus respuestas a preguntas abiertas fueron breves. Cuando se le pidió describir una escena, nombró objetos sin relacionar de forma clara las acciones, los participantes y el lugar.
+
+La muestra contenía sesenta enunciados analizables. Se excluyeron repeticiones inmediatas y fragmentos completamente ininteligibles. En el registro de [[KEEP|SALT]], se empleó el código [[KEEP|[EW]]] para señalar errores de palabra cuando correspondía. Las observaciones se describieron sin convertir la muestra en una puntuación normativa. La niña sostuvo intercambios de varios turnos cuando el adulto siguió su interés. Durante el juego con animales dijo “quiero [[PET|Nube]] aquí”. Esa producción se registró como un mensaje espontáneo referido a una experiencia familiar.
+
+La observación del habla mostró simplificaciones que reducían la claridad. Se escuchó “[[KEEP|tasa]]” para “[[KEEP|casa]]”, con sustitución de [[KEEP|/k/]] por [[KEEP|/t/]]. También produjo “[[KEEP|pato]]” para “[[KEEP|plato]]”, con reducción del grupo consonántico. La vibrante simple [[KEEP|/ɾ/]] fue variable. No se estableció una meta aislada para ese sonido sin considerar edad, contexto y dialecto. La producción de [[KEEP|/s/]] cambió según la posición de la palabra y no se interpretó automáticamente como un error.
+
+En diez palabras que incluían [[KEEP|/k/]], logró [[KEEP|2/10]] producciones iniciales correctas sin ayuda y [[KEEP|7/10]] después de un modelo y [[KEEP|mod cues]]. Para grupos consonánticos, respondió en [[KEEP|3 de 5]] ensayos con [[KEEP|max cues]]. La inteligibilidad estimada fue del [[KEEP|65%]] para la evaluadora en conversación con contexto disponible. Esa estimación fue descriptiva y no una puntuación estandarizada. La voz, la resonancia y la fluidez no mostraron dificultades persistentes durante la muestra obtenida.
+
+La exploración oral mostró simetría facial y movimientos funcionales durante actividades sencillas. La niña pudo cerrar los labios, elevar la lengua y alternar movimientos cuando comprendió la consigna. No se observaron signos suficientes para concluir un trastorno motor del habla. En una actividad de enseñanza, mejoró la comprensión de una instrucción nueva después de observar una demostración y practicarla. Ese cambio apoya el uso de enseñanza explícita, aunque no elimina las necesidades encontradas en la evaluación.
+
+**Impresiones y recomendaciones**
+
+El conjunto de resultados es compatible con un trastorno mixto del lenguaje receptivo y expresivo, identificado mediante [[KEEP|ICD-10 F80.2]]. También se observaron dificultades fonológicas funcionales, consideradas bajo [[KEEP|ICD-10 F80.0]]. La conclusión se apoya en dificultades descritas en ambos idiomas, observaciones directas y limitaciones en actividades habituales. La exposición bilingüe no explica por sí sola el perfil. Las variaciones dialectales y las diferencias de experiencia se consideraron antes de interpretar las producciones como errores.
+
+[[CHILD|María Elena Valdés Cifuentes]] presenta fortalezas en intención comunicativa, juego simbólico, interés social y respuesta a modelos. Sus dificultades afectan la participación cuando una actividad exige comprender mensajes largos, explicar acontecimientos o reparar un malentendido. El pronóstico funcional es favorable con intervención constante y práctica integrada en rutinas. La evolución deberá medirse con ejemplos de participación y datos de tratamiento, además de cualquier evaluación posterior. Este informe no establece conclusiones sobre inteligencia, aprendizaje escolar futuro ni otras condiciones fuera del alcance examinado.
+
+Se recomienda iniciar terapia bilingüe mediante [[KEEP|Little Learners Program]], ofrecido por [[EMPLOYER|Senderos Bilingües Terapia Pediátrica, PLLC]]. La propuesta inicial es de dos sesiones semanales de treinta minutos, con participación familiar periódica. La frecuencia podrá cambiar según respuesta, asistencia y necesidades funcionales. Se propone una revisión el [[DATE|12 de enero de 2027]]. El tratamiento debe permitir el uso de ambos idiomas y mantener el español como recurso familiar. No se recomienda sustituir las conversaciones del hogar por actividades exclusivamente en inglés.
+
+La meta [[KEEP|1]] será seguir instrucciones con dos acciones relacionadas en [[KEEP|8/10]] oportunidades, con [[KEEP|min cues]], durante juego y rutinas. La meta [[KEEP|2]] será formular mensajes que incluyan participante, acción y un detalle relevante en [[KEEP|4/5]] oportunidades. La meta [[KEEP|3]] será reparar un mensaje mediante otra palabra, un gesto o una descripción en [[KEEP|3 de 5]] oportunidades. Cada objetivo se ajustará después de establecer una línea de base y revisar las prioridades familiares.
+
+Para el habla, la meta [[KEEP|4]] será producir [[KEEP|/k/]] en palabras funcionales con una precisión del [[KEEP|80%]] y [[KEEP|min cues]]. Se seleccionarán palabras útiles, como “[[KEEP|casa]]”, “[[KEEP|cama]]” y “[[KEEP|comer]]”, según los intereses de la niña. El enfoque [[KEEP|Cycles]] podrá organizar la práctica de patrones cuando la muestra ampliada confirme su pertinencia. La selección de objetivos debe considerar la claridad del mensaje y evitar trabajar variaciones lingüísticas que sean aceptables en la comunidad familiar.
+
+La orientación a cuidadores puede incorporar estrategias de [[KEEP|Hanen]], como seguir la iniciativa, esperar una respuesta y ampliar el mensaje infantil. Durante la merienda, el adulto puede responder a “[[KEEP|más jugo]]” con “[[KEEP|quieres más jugo frío]]”, sin exigir repetición inmediata. Se recomienda ofrecer elecciones claras y describir acciones presentes. Los libros con imágenes y los juegos de cocina permiten practicar vocabulario y relaciones entre ideas. Las actividades deben ser breves y agradables, con oportunidades reales para comunicar.
+
+En [[DAYCARE|Little Learners Daycare]], se recomienda acompañar instrucciones nuevas con objetos, imágenes o demostraciones. La Sra. [[TEACHER|Yolanda Lopez]] puede verificar la comprensión mediante una acción concreta, en lugar de pedir únicamente una respuesta afirmativa. Durante el juego con [[PEER|Emma Solís Duarte]], un adulto puede modelar peticiones y turnos sin hablar continuamente por la niña. Conviene ofrecer tiempo suficiente para responder y reconocer cualquier intento de reparar el mensaje. La coordinación debe compartir ejemplos útiles y respetar los idiomas de cada interacción.
+
+La madre [[PARENT|Adriana Cifuentes Salazar]] eligió como prioridades pedir ayuda y contar una experiencia del día. El padre [[PARENT|Esteban Valdés Molina]] propuso practicar durante la preparación de alimentos. Ambos recibieron una explicación de los resultados y pudieron describir las estrategias con sus propias palabras. Se acordó registrar ejemplos breves de mensajes logrados y situaciones difíciles, sin convertir la práctica en una prueba diaria. La familia recibirá una copia del informe y una propuesta de objetivos para revisar al comenzar el servicio.
+
+Informe elaborado y firmado electrónicamente por [[PROVIDER|Camila Serrano Ledesma]], M.A., CCC-SLP, patóloga bilingüe del habla y del lenguaje, de [[EMPLOYER|Senderos Bilingües Terapia Pediátrica, PLLC]], el [[DATE|11 de octubre de 2026]] a las [[TIME|4:40 p. m.]].

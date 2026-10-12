@@ -1,0 +1,120 @@
+Triangle Bilingual Speech & Language Services, PLLC
+3105 Spring Forest Road, Suite 220, Raleigh, NC 27616
+Phone: (919) 555-0199 | Email: info@trianglebilingualspeech.com
+
+SPEECH-LANGUAGE EVALUATION REPORT
+
+Client Name: [[CHILD|Mateo Ramírez-Torres]] ("[[CHILD|Teo]]")
+Date of Birth: [[DATE|June 14, 2022]]
+Chronological Age: [[KEEP|4;3]]
+Date of Evaluation: [[DATE|September 22, 2026]]
+Report Date: [[DATE|September 29, 2026]]
+Evaluator: [[PROVIDER|Maria Fernández]], M.S., CCC-SLP
+Referral Source: [[PROVIDER|Dr. Angela Patel]], pediatrician
+Case/Record ID: [[ID|CDSA-2026-04471]]
+Medicaid ID: [[MEDICAID_ID|784215930B]]
+Primary Language(s) at Home: Spanish and English
+Interpreter Present: [[PROVIDER|Carlos Medina]] (consecutive interpretation, English-Spanish)
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a comprehensive bilingual speech-language evaluation by [[PROVIDER|Dr. Angela Patel]] following concerns raised at his four-year well-child visit about limited intelligibility and difficulty following multi-step directions in both English and Spanish. His mother, [[PARENT|Lucía de la Cruz]], reported that unfamiliar listeners, including his teacher at [[DAYCARE|Sunshine Beginnings Daycare]], frequently ask [[CHILD|Mateo]] to repeat himself. [[CHILD|Mateo]]'s service coordinator at [[AGENCY|Wake County CDSA]], [[PROVIDER|Jennifer Ortiz]], requested this evaluation to determine eligibility for ongoing early intervention services prior to his transition to the public school system.
+
+BACKGROUND INFORMATION
+
+[[CHILD|Mateo]] lives with his mother, [[PARENT|Lucía de la Cruz]]; his father, [[PARENT|Javier Ramírez]]; and his older sister, [[SIBLING|Camila Ramírez-Torres]], age 7, at [[PLACE|1428 Holly Spring Court, Garner, NC 27529]], in [[PLACE|Wake County]]. The family's dog, [[PET|Luna]], is frequently mentioned in [[CHILD|Mateo]]'s spontaneous speech. [[PARENT|Lucía]] works in the warehouse at the [[ORG|Food Lion]] distribution center in [[PLACE|Garner]], and [[PARENT|Javier]] is employed as a technician at [[ORG|Cisco Systems]] in [[PLACE|Research Triangle Park]]. [[CHILD|Mateo]]'s maternal grandmother, [[FAMILY|Elena Torres]], lives nearby and provides care two afternoons per week. A babysitter, [[FAMILY|Rosa Fuentes]], watches [[CHILD|Mateo]] and [[SIBLING|Camila]] on Friday evenings; her son, [[FAMILY|Diego Fuentes]], is [[CHILD|Mateo]]'s cousin and frequent playmate.
+
+The family attends weekly playgroup sessions at the [[ORG|Hola Family Resource Center]], a bilingual nonprofit serving Spanish-speaking families in [[PLACE|southeast Raleigh]], and [[PARENT|Lucía]] reports that [[CHILD|Mateo]] enjoys the group's music and movement activities but tends to stay at the edge of the circle rather than joining peers.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[HOSPITAL|WakeMed Cary Hospital]] on [[DATE|June 14, 2022]], at [[KEEP|38 weeks]] gestation, with a birth weight of [[KEEP|6 lbs 11 oz]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes, respectively. [[PARENT|Lucía]] reported an uncomplicated pregnancy with no prenatal substance exposure. [[CHILD|Mateo]] passed his newborn hearing screening and has had no reported ear infections requiring tubes. He is up to date on immunizations per [[PROVIDER|Dr. Patel]]'s records. There is no history of head injury, seizure, or hospitalization beyond birth. [[PARENT|Lucía]] noted a maternal family history of late talking: [[PARENT|Lucía]]'s brother did not combine words until after [[KEEP|3 years]] of age, though his later language development was reportedly unremarkable.
+
+DEVELOPMENTAL HISTORY
+
+Per parent report, [[CHILD|Mateo]] sat independently at [[KEEP|6 months]], walked at [[KEEP|13 months]], and said his first words (Spanish "mamá" and "agua") around [[KEEP|14 months]]. Word combinations emerged closer to [[KEEP|30 months]], later than [[SIBLING|Camila]]'s reported milestones. Gross and fine motor skills are age-appropriate; [[CHILD|Mateo]] can pedal a tricycle, climb playground equipment, and use child-safe scissors with [[KEEP|min cues]]. [[PARENT|Lucía]] denies any feeding difficulties in infancy, though she notes [[CHILD|Mateo]] remains a selective eater and prefers soft textures.
+
+FAMILY AND LANGUAGE HISTORY
+
+Spanish is the primary language used in the home between [[CHILD|Mateo]] and his parents and grandmother, [[FAMILY|Elena Torres]]. English is used increasingly between [[CHILD|Mateo]] and his sister, [[SIBLING|Camila]], who attends second grade at [[SCHOOL|Oak Hill Elementary School]] in the [[SCHOOL|Wake County Public School System]] and is now largely English-dominant. [[PARENT|Lucía]] estimates [[CHILD|Mateo]]'s current exposure at approximately 70% Spanish and 30% English, with English exposure increasing through daycare and television. [[PARENT|Javier]]'s extended family in [[PLACE|Monterrey, Mexico]] speaks exclusively Spanish, and the family visits during summer breaks, which [[PARENT|Lucía]] feels supports [[CHILD|Mateo]]'s Spanish vocabulary.
+
+[[CHILD|Mateo]] has attended [[DAYCARE|Sunshine Beginnings Daycare]] since age two, currently in [[TEACHER|Ms. Lopez]]'s room, where instruction is delivered primarily in English with some Spanish support. [[TEACHER|Ms. Lopez]] reports that [[CHILD|Mateo]] is well-liked by peers but often plays alongside rather than with classmates [[PEER|Ethan Walsh]] and [[PEER|Sofia Nguyen]] during free play. [[CHILD|Mateo]] is slated to begin pre-kindergarten next fall in [[TEACHER|Mr. Alvarez]]'s Pre-K classroom at [[SCHOOL|Oak Hill Elementary School]].
+
+EDUCATIONAL AND MEDICAL CONTACTS
+
+Name	Role	Phone	Email
+[[PROVIDER|Dr. Angela Patel]]	Pediatrician	[[PHONE|(919) 555-0164]]	[[EMAIL|apatel@trianglepeds.example.com]]
+[[PROVIDER|Jennifer Ortiz]]	CDSA Service Coordinator	[[PHONE|(919) 555-0188]]	[[EMAIL|jortiz@wakecdsa.example.gov]]
+[[TEACHER|Ms. Lopez]]	Daycare Teacher	[[PHONE|(919) 555-0121]]	[[EMAIL|mlopez@sunshinebeginnings.example.com]]
+[[PROVIDER|Rebecca Simmons]], OTR/L	Occupational Therapist	[[PHONE|(919) 555-0177]]	[[EMAIL|rsimmons@wakecdsa.example.gov]]
+
+BEHAVIORAL OBSERVATIONS
+
+The evaluation was conducted in English and Spanish across two sessions, on [[DATE|September 15, 2026]] and [[DATE|September 22, 2026]], at the clinic's [[PLACE|Raleigh]] office. [[CHILD|Mateo]] separated easily from his mother and engaged readily with toys and testing materials. He demonstrated adequate attention for structured tasks of up to [[KEEP|15 minutes]] with [[KEEP|mod cues]] to remain seated. Rapport was established quickly, and [[CHILD|Mateo]] was cooperative throughout, though he occasionally code-switched mid-utterance, producing phrases such as "quiero el toy rojo." Hearing and vision were reported as within normal limits per recent screenings. Oral-motor structures and function appeared adequate for speech production; no overt feeding or swallowing concerns were observed, consistent with ICD-10 code [[KEEP|F80.9]] (unspecified developmental disorder of speech and language) under consideration pending today's results, and CPT code [[KEEP|92523]] with modifier [[KEEP|-59]] used for billing of this combined evaluation.
+
+ASSESSMENT RESULTS
+
+Standardized measures were administered in both English and Spanish where available, with results interpreted in light of [[CHILD|Mateo]]'s bilingual language exposure. The [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]) was administered in English, and the [[KEEP|Bilingual English Spanish Assessment]] ([[KEEP|BESA]]) was administered to capture both languages. Informal measures of articulation, phonology, and pragmatics supplemented standardized testing.
+
+Score Summary
+
+Measure	Subtest	Standard Score	Percentile	Age Equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|76]]	[[KEEP|5th]]	[[KEEP|2;9]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	[[KEEP|71]]	[[KEEP|3rd]]	[[KEEP|2;6]]
+[[KEEP|PLS-5]]	[[KEEP|Total Language Score]]	[[KEEP|72]]	[[KEEP|3rd]]	[[KEEP|2;7]]
+[[KEEP|BESA]]	[[KEEP|Semantics - Spanish]]	[[KEEP|8]] (scaled score)	[[KEEP|25th]]	--
+[[KEEP|BESA]]	[[KEEP|Semantics - English]]	[[KEEP|5]] (scaled score)	[[KEEP|5th]]	--
+[[KEEP|BESA]]	[[KEEP|Morphosyntax - Spanish]]	[[KEEP|7]] (scaled score)	[[KEEP|16th]]	--
+[[KEEP|BESA]]	[[KEEP|Morphosyntax - English]]	[[KEEP|4]] (scaled score)	[[KEEP|2nd]]	--
+[[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]])	Sounds-in-Words	[[KEEP|68]]	[[KEEP|2nd]]	--
+
+[[CHILD|Mateo]]'s overall language scores fall within the [[KEEP|73-83]] confidence interval range at the 90% confidence level for the [[KEEP|PLS-5]] Total Language Score, placing him significantly below age expectations in English. Spanish performance on the [[KEEP|BESA]] was comparatively stronger but still below typical limits for semantics and morphosyntax, suggesting a language impairment present across both of [[CHILD|Mateo]]'s languages rather than a difference attributable solely to bilingual exposure.
+
+ARTICULATION AND PHONOLOGY
+
+On the [[KEEP|GFTA-3]], [[CHILD|Mateo]] demonstrated multiple sound errors affecting intelligibility, particularly in connected speech. He substituted [[KEEP|[w]]] for [[KEEP|/r/]] in word-initial position (e.g., "wabbit" for "rabbit") and demonstrated final consonant deletion in both English and Spanish (e.g., "ga[[KEEP|t]]o" produced as "ga_o," deleting the final [[KEEP|/o/]] syllable boundary cue). He also produced the trilled [[KEEP|/ɾ/]] inconsistently in Spanish words such as "perro," often substituting a tap for the full trill. When asked to imitate target words, [[CHILD|Mateo]] produced "[[KEEP|sun]]" as "[[KEEP|tun]]" and "[[KEEP|flower]]" as "[[KEEP|fower]]," both consistent with developmental phonological patterns but delayed relative to age expectations.
+
+During a play-based language sample, [[CHILD|Mateo]] referred to his dog by name, saying "[[PET|Luna]] run fast," demonstrating omission of the third-person singular -s marker, a pattern noted across both English and Spanish utterances (e.g., omission of gender agreement markers in Spanish noun phrases). SALT coding of the sample flagged several utterances with the [[KEEP|[EW]]] code for word-level errors, and mean length of utterance in morphemes (MLU-m) was calculated at [[KEEP|2.8]], below the expected range for his chronological age.
+
+Connected speech intelligibility was estimated at approximately [[KEEP|60%]] to unfamiliar listeners and [[KEEP|85%]] to familiar listeners, consistent with parent and teacher report. On a structured repetition task, [[CHILD|Mateo]] correctly imitated [[KEEP|6 of 10]] multisyllabic words, and on a following-directions subtask he correctly completed [[KEEP|3 of 5]] two-step commands without visual cues, improving to [[KEEP|4 of 5]] with [[KEEP|moderate cues]].
+
+PRAGMATICS AND SOCIAL COMMUNICATION
+
+[[CHILD|Mateo]] demonstrated adequate eye contact, joint attention, and turn-taking during structured play but showed reduced initiation of conversational exchanges, particularly in English. He relied heavily on gestures and single-word utterances when vocabulary retrieval appeared effortful. [[PARENT|Lucía]] and [[TEACHER|Ms. Lopez]] both reported that [[CHILD|Mateo]] becomes frustrated when peers do not understand him, occasionally resorting to pushing or withdrawing from group activities. No concerns were raised regarding social reciprocity, restricted interests, or repetitive behaviors suggestive of an autism spectrum presentation; however, continued monitoring is recommended given overlapping features with language impairment.
+
+FAMILY-REPORTED FUNCTIONAL CONCERNS
+
+[[PARENT|Lucía]] and [[PARENT|Javier]] both expressed concern that [[CHILD|Mateo]]'s limited intelligibility affects his participation at the [[ORG|Hola Family Resource Center]] playgroup and at family gatherings, where cousin [[FAMILY|Diego Fuentes]] sometimes speaks for him to adults. [[PARENT|Lucía]] reported that extended family members, including [[FAMILY|Elena Torres]], have begun asking her to "interpret" [[CHILD|Mateo]]'s speech even within Spanish-speaking contexts, which she finds distressing. The family hopes intervention will help [[CHILD|Mateo]] communicate independently before beginning Pre-K.
+
+IMPRESSIONS
+
+Based on standardized testing, parent and teacher report, and clinical observation, [[CHILD|Mateo]] presents with a speech sound disorder and a language disorder affecting both Spanish and English, consistent with a diagnosis of Developmental Language Disorder with concomitant speech sound disorder. Scores fall consistently below the 10th percentile across both languages on standardized measures, ruling out second-language acquisition alone as the explanation for his difficulties. His speech intelligibility, phonological patterns, and expressive language deficits are likely to impact academic readiness, peer interaction, and family communication without intervention. [[CHILD|Mateo]]'s strengths include good attention to structured tasks, responsiveness to visual and verbal cueing, and an affectionate, motivated temperament that should support progress in therapy.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] is eligible for continued speech-language intervention services through [[AGENCY|Wake County CDSA]] under his current IFSP, Outcome [[KEEP|#3]] (expressive language) and Outcome [[KEEP|#4]] (speech intelligibility), to be updated to reflect today's findings.
+2. Individual speech-language therapy twice weekly, delivered bilingually, targeting expressive vocabulary, sentence structure (subject-verb agreement, gender/number agreement in Spanish), and articulation of [[KEEP|/r/]], final consonants, and consonant clusters.
+3. Continued use of a [[KEEP|Hanen]]-based coaching model for [[PARENT|Lucía]] and [[PARENT|Javier]] to support language facilitation strategies at home in both languages.
+4. Consultation with [[TEACHER|Ms. Lopez]] and future [[TEACHER|Mr. Alvarez]] regarding classroom-based supports, including visual schedules and repetition of multi-step directions, to support [[CHILD|Mateo]]'s transition to [[SCHOOL|Oak Hill Elementary School]].
+5. Referral for a developmental-behavioral follow-up with [[PROVIDER|Dr. Angela Patel]] to monitor social communication given mild pragmatic concerns noted above.
+6. Continued occupational therapy consultation with [[PROVIDER|Rebecca Simmons]] regarding fine motor and self-regulation strategies that may support attention during structured language tasks.
+7. Family encouraged to continue rich language exposure through the weekly playgroup at the [[ORG|Hola Family Resource Center]] and through shared reading in both Spanish and English at home.
+8. Re-evaluation recommended in [[KEEP|6 months]] or prior to kindergarten entry to reassess progress and school-based eligibility.
+
+PROPOSED SERVICE SCHEDULE
+
+Day	Time	Service	Provider	Location
+Tuesday	[[TIME|9:00 AM]]	Individual Speech Therapy	[[PROVIDER|Maria Fernández]], M.S., CCC-SLP	[[PLACE|Raleigh clinic]]
+Thursday	[[TIME|2:30 PM]]	Individual Speech Therapy	[[PROVIDER|Maria Fernández]], M.S., CCC-SLP	[[PLACE|Raleigh clinic]]
+Friday	[[TIME|11:00 AM]]	Occupational Therapy Consult	[[PROVIDER|Rebecca Simmons]], OTR/L	[[DAYCARE|Sunshine Beginnings Daycare]]
+
+This evaluation was conducted in accordance with best practices for bilingual assessment, including the use of both formal and informal measures in [[CHILD|Mateo]]'s two languages, consideration of language exposure history, and collaboration with family and caregivers to distinguish language disorder from typical second-language acquisition patterns. Results were shared with [[PARENT|Lucía de la Cruz]] and [[PARENT|Javier Ramírez]] in both English and Spanish with the assistance of interpreter [[PROVIDER|Carlos Medina]], and both parents verbally agreed with the recommendations outlined above. A written copy of this report was provided to the family and will be forwarded to [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|Jennifer Ortiz]] for IFSP update purposes.
+
+Please contact the clinic at [[PHONE|(919) 555-0199]] or [[EMAIL|info@trianglebilingualspeech.com]] with any questions regarding this report.
+
+Respectfully submitted,
+
+[[PROVIDER|Maria Fernández]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Triangle Bilingual Speech & Language Services, PLLC]]
+License #[[ID|SLP-24187]]

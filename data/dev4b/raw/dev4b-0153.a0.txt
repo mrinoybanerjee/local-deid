@@ -1,0 +1,25 @@
+nota de progreso terapia de lenguaje y habla fecha de sesión [[DATE|14 de octubre de 2026]] hora de inicio [[TIME|3:30 pm]] hora de fin [[TIME|4:15 pm]] paciente [[CHILD|Mateo Hernández Cruz]] también conocido como [[CHILD|Teo]] fecha de nacimiento [[DATE|02/09/2022]] edad [[KEEP|4;8]] número de medicaid [[MEDICAID_ID|987654321A]] número de expediente [[ID|SLP-2026-00456]]
+
+mamá [[PARENT|Lucía Rodríguez]] trabaja de noche en [[ORG|Panadería La Esperanza]] como encargada de turno y por eso casi nunca puede llegar a las sesiones de la tarde y papá [[PARENT|Carlos Hernández]] trabaja en construcción y llega tarde casi siempre así que la abuela [[FAMILY|Rosa Cruz]] es quien lo cuida la mayoría de las tardes y lo trae a sesión cuando los papás no pueden
+
+hoy seguimos con los objetivos del ifsp numero [[KEEP|2]] y [[KEEP|3]] usando el programa [[KEEP|PECS]] para pedir mas galletas y usando también estrategias de [[KEEP|Hanen]] y el libro [[KEEP|It Takes Two to Talk]] que le dimos a la mamá para practicar en casa además seguimos con [[KEEP|PROMPT]] para las claves táctiles en los sonidos /k/ y /g/ [[CHILD|teo]] produjo "[[KEEP|gato]]" con [[KEEP|clave moderada]] y dijo "[[PET|rocky]] come" imitando a su perro [[PET|Rocky]] que andaba en la sala mientras trabajábamos
+
+también usamos el enfoque [[KEEP|Cycles]] para los procesos fonológicos y el método [[KEEP|Kaufman]] para las secuencias motoras del habla logró [[KEEP|8/10]] ensayos correctos en la sílaba final y [[KEEP|3 de 5]] en combinaciones consonánticas con [[KEEP|claves mínimas]]
+
+hablamos con la maestra Ms. [[TEACHER|Lopez]] del salón en [[DAYCARE|Centro de Desarrollo Infantil Sunshine]] en [[PLACE|Cary]] sobre cómo [[CHILD|teo]] interactúa con sus compañeros [[PEER|Diego]] y [[PEER|Sofía]] durante el recreo y ella dice que usa más gestos que palabras
+
+el horario de sesiones de esta semana quedó asi
+
+lunes | [[TIME|9:00 am]] | [[TIME|9:45 am]] | [[PLACE|4521 Maple Grove Lane]], [[PLACE|Cary]], NC [[PLACE|27519]]
+miércoles | [[TIME|2:00 pm]] | [[TIME|2:45 pm]] | [[DAYCARE|Centro de Desarrollo Infantil Sunshine]], [[PLACE|Cary]]
+viernes | [[TIME|3:30 pm]] | [[TIME|4:15 pm]] | domicilio de la familia [[PLACE|118 Birchwood Court]], [[PLACE|Apex]], NC
+
+la mamá pide que la próxima cita se cambie porque sale del trabajo tarde y pidió que la llamemos al [[PHONE|(919) 555-2847]] o al celular [[PHONE|919.555.0192]] también dejó el número de la abuela en méxico por si no contesta que es [[PHONE|+52 55 1234 5678]] y el del tío en guatemala [[PHONE|+502 5555 6789]] por cualquier emergencia
+
+la coordinadora de servicios de la agencia [[AGENCY|CDSA del Condado de Wake]] [[PROVIDER|Marisol Díaz]] va a llamar para reprogramar la revisión del ifsp que está programada para el [[DATE|3 de noviembre de 2026]]
+
+el pediatra Dr. [[PROVIDER|Patel]] del [[HOSPITAL|WakeMed Children's Hospital]] quiere una copia de esta nota para la cita de seguimiento la hermana de [[CHILD|teo]] [[SIBLING|Camila]] también está en terapia con otra colega así que coordinamos horarios para no chocar
+
+plan continuar con [[KEEP|PECS]] [[KEEP|PROMPT]] y [[KEEP|Hanen]] la próxima sesión es el [[DATE|21 de octubre de 2026]] a las [[TIME|9:00 am]]
+
+nota escrita por [[PROVIDER|Ana Gómez]] terapeuta del habla y lenguaje de [[EMPLOYER|Carolina Speech Partners]] correo [[EMAIL|agomez@carolinaspeechpartners.com]]

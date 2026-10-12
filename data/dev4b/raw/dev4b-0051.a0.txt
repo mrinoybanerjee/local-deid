@@ -1,0 +1,22 @@
+Patient: [[CHILD|Mateo Hernández Cruz]]
+DOB: [[DATE|April 12, 2022]]
+Date of Service: [[DATE|October 9, 2026]]
+Age: [[KEEP|4;6]]
+Provider: [[PROVIDER|Ana Beltrán, M.S., CCC-SLP]]
+Clinic: [[HOSPITAL|Atrium Health Levine Children's Speech-Language Pathology, Elizabeth Campus]]
+MRN: [[ID|AH-884213]]
+Medicaid ID: [[MEDICAID_ID|992217384A]]
+IFSP Outcome: [[KEEP|Outcome 2]]
+
+SUBJECTIVE: Mother [[PARENT|Lucía Hernández]] reports [[CHILD|Mateo]] continues mixing Spanish and English jargon at home and becomes frustrated when his sister [[SIBLING|Sol]] cannot understand him. [[CHILD|Mateo]] was born at [[KEEP|28 weeks]] gestation at [[HOSPITAL|Atrium Health Levine Children's Hospital]] in [[PLACE|Charlotte]] and spent six weeks in the [[HOSPITAL|Levine Children's NICU]] under neonatologist Dr. [[PROVIDER|Grace Whitfield]]. Birth weight [[KEEP|2 lbs 9 oz]]; Apgar scores [[KEEP|6/9]]. Pulmonology follow-up continues with Dr. [[PROVIDER|Samuel Okafor]] at [[HOSPITAL|Novant Health Pediatric Pulmonology, Ballantyne]].
+
+Recent testing:
+Test                          Date                Standard Score    95% CI
+[[KEEP|PLS-5 Auditory Comprehension]]    [[DATE|08/14/2026]]    [[KEEP|73]]    [[KEEP|68-78]]
+[[KEEP|PLS-5 Expressive Communication]]  [[DATE|08/14/2026]]    [[KEEP|70]]    [[KEEP|65-75]]
+
+OBJECTIVE: In bilingual session targeting word-initial /s/, [[CHILD|Mateo]] attempted the target "[[SIBLING|sol]]" (chosen because it is his sister [[SIBLING|Sol]]'s name) with [[KEEP|minimal cues]], substituting [[KEEP|[θ]]] for [[KEEP|/s/]] in [[KEEP|3 of 5]] trials. He also produced "[[KEEP|casa]]" with [[KEEP|moderate cues]], achieving [[KEEP|8/10]] accuracy for [[KEEP|/k/]]. [[KEEP|Hanen]] strategies were modeled for [[PARENT|Lucía Hernández]] during the session.
+
+ASSESSMENT: [[CHILD|Mateo]] presents with a moderate bilingual phonological disorder consistent with his NICU history. Stimulability for [[KEEP|/s/]] improved from [[KEEP|baseline]].
+
+PLAN: Continue twice-weekly therapy. Referral to Dr. [[PROVIDER|Okafor]]'s office for airway clearance update. Next review scheduled [[DATE|November 6, 2026]] at [[TIME|2:30 PM]]. Discussed goals with service coordinator [[PROVIDER|Marisol Peña]] at [[AGENCY|Mecklenburg County CDSA]].

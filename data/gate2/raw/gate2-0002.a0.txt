@@ -1,0 +1,28 @@
++ Name: [[CHILD|Elian Maravela]]
++ CA: [[KEEP|26 months]]
++ Context: Individual bilingual speech-language session at [[DAYCARE|Velvet Acorn Moonhouse]], [[PLACE|Fernettle]], North Carolina; English summary with Spanish language sampling.
++ Date: [[DATE|October 8, 2026]]
++ Time: [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]
++ Clinician: [[PROVIDER|Camila Virello]], MS, CCC-SLP, bilingual pediatric speech-language pathologist, [[EMPLOYER|Little Lantern Speech Partners]]
++ Identifiers: Medicaid ID [[MEDICAID_ID|482705196R]]; insurance member ID [[ID|NCP-641830275]]; NC ITP child ID [[ID|ITP-26-084173]]; record number [[ID|SLP-2026-03184]]; authorization number [[ID|AUTH-77190462]].
++ Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+Summary:
+
+S: Mother [[PARENT|Ines Maravela]] attended and reported more spontaneous requests during meals. Father [[PARENT|Tomas Quirales]] reported that [[CHILD|Elian]] uses gestures when unfamiliar adults do not understand him. Spanish remains the primary home language; classroom routines use English and occasional Spanish supports. Older sister [[SIBLING|Liora Maravela]], age [[KEEP|4;2]], models pretend play. Grandmother [[FAMILY|Nelia Quirales]] provides afternoon care and practices turn-taking with the family dog, [[PET|Tavi]]. No new hearing concerns, medication changes, or feeding difficulties were reported.
+
+The family recently moved to [[PLACE|284 Mossbell Lane]], [[PLACE|Fernettle]], North Carolina [[PLACE|28947]]. Mother’s telephone is [[PHONE|828-555-0146]]; her email is [[EMAIL|ines.maravela@example.invalid]]. Mother works at [[ORG|Copper Kite Textiles]] and requested morning appointments. The family attends [[ORG|Juniper Lantern Community Chapel]] and its playgroup. Program volunteer [[PERSON|Oren Bellwick]] helps distribute picture books. The program website is [[URL|https://juniperlantern.example.invalid]].
+
+O: Teacher Ms. [[TEACHER|Brisa Norell]] joined the opening routine. Classroom assistant [[TEACHER|Omar Pelwick]] arranged a quiet play area. Classmates [[PEER|Demi Solven]] and [[PEER|Arlo Merrit]] participated briefly in a shared bubble activity. [[CHILD|Elian]] stayed engaged with an adult, shifted attention between toys and faces, and tolerated a peer taking a turn.
+
+Using naturalistic language intervention and [[KEEP|Hanen]] strategies, the clinician modeled [[KEEP|"more bubbles"]], [[KEEP|"my turn"]], [[KEEP|"help me"]], and [[KEEP|"abre"]]. [[CHILD|Elian]] requested with a word or gesture in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He combined words in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Spontaneous productions included [[KEEP|"mas agua"]], [[KEEP|"baby go"]], and [[KEEP|"no shoe"]]. Final consonants occurred in [[KEEP|40%]] of sampled English words. Initial [[KEEP|/k/]] was replaced by [[KEEP|[t]]]; initial [[KEEP|/ɾ/]] was inconsistently realized as [[KEEP|[w]]]. These observations describe the sample and do not establish a speech sound diagnosis.
+
+A short SALT sample contained [[KEEP|"baby go"]][[KEEP|[EW]]] after an adult model. The clinician retained the code for later review of the elicitation context. No standardized test was administered today.
+
+A: The evaluation dated [[DATE|September 16, 2026]] documented [[KEEP|PLS-5]] findings: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], age equivalent [[KEEP|1;9]], and confidence interval [[KEEP|74–86]]; [[KEEP|Expressive Communication]] standard score [[KEEP|81]], percentile [[KEEP|10th]], age equivalent [[KEEP|1;10]], and confidence interval [[KEEP|76–89]]. Interpretation considered bilingual exposure and relied on caregiver interview, observation, and language samples alongside standardized results.
+
+The pediatric history from Dr. [[PROVIDER|Mara Celdin]] at [[HOSPITAL|Willowglass Children’s Hospital]] records gestational age [[KEEP|36 weeks]], birth weight [[KEEP|2,540 g]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. Today’s performance supports continued work on functional combinations and communication repair. Generalization remains limited when materials or communication partners change.
+
+P: Continue weekly intervention under IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Mother will model a short phrase, pause, and accept a gesture or word before expanding it. Classroom staff will use the same routine during snack and cleanup.
+
+Service coordinator [[PROVIDER|Selma Orwick]] at [[AGENCY|Brindle County CDSA Office]] will coordinate the review on [[DATE|November 12, 2026]]. The family also receives support through [[AGENCY|Brindle County DSS]], [[AGENCY|Fernettle WIC Office]], [[AGENCY|Brindle Smart Start Partnership]], and [[AGENCY|Mossbell Early Head Start]]. With documented caregiver consent, the clinician will share a brief progress summary through the established service coordination process. Mother demonstrated the home routine and agreed to bring examples of successful requests to the next session.

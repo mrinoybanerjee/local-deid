@@ -1,0 +1,29 @@
+Daily Pediatric Speech-Language Therapy Note — Fictional Test Record
+Field	Value
+Client	[[CHILD|Mateo Ríos]] ([[CHILD|Teo]]), age [[KEEP|4;2]]
+Service date	[[DATE|October 8, 2026]]
+Location	[[SCHOOL|Willow Lantern Preschool]], [[PLACE|Brindle Creek]], North Carolina
+Clinician	[[PROVIDER|Elena Maravilla]], MS, CCC-SLP, bilingual English/Spanish
+Employer	[[EMPLOYER|Little Lantern Speech Therapy]]
+Record	[[ID|LL-260184]]
+Medicaid	[[MEDICAID_ID|482731906K]]
+
+S: Mother [[PARENT|Guadalupe Ríos]] ([[PARENT|Lupita]]) reported clearer requests during breakfast at [[TIME|7:30 a.m.]]. Father [[PARENT|Jesús Ríos]] ([[PARENT|Chuy]]) described continued frustration when listeners request repetition. Brother [[SIBLING|José Ríos]] ([[SIBLING|Pepe]]) practiced picture naming at home. Mother requested Spanish examples for the home routine. No pain or illness was reported.
+
+O: Therapy used bilingual play, picture naming, and short conversational turns. Classmate [[PEER|Juan Mendoza]] ([[PEER|Juanito]]) joined the final activity. Teacher Ms. [[TEACHER|Nora Salceda]] observed transitions. The child benefited from visual placement prompts and slower models. English and Spanish responses were accepted. Attention improved after a movement break.
+
+Measure	Result	Support
+Initial [[KEEP|/k/]]	[[KEEP|8/10]]; [[KEEP|80%]]	[[KEEP|mod cues]]
+Two-word requests	[[KEEP|6/10]]; [[KEEP|60%]]	[[KEEP|min cues]]
+Prior [[KEEP|PLS-5 Spanish]]	Standard score [[KEEP|78]]; percentile [[KEEP|7]]	Evaluation [[DATE|September 17, 2026]]
+
+A: Performance suggests improving velar placement with continued support for spontaneous carryover. One production, [[KEEP|"tat"]], replaced the target [[KEEP|"cat"]]. A language sample included [[KEEP|"more ball"]] and one [[KEEP|[EW]]] annotation. These observations support continued treatment; bilingual exposure was considered when interpreting responses. Structured accuracy exceeded conversational accuracy today. The child repaired two communication breakdowns after a modeled request for clarification. Participation remained steady throughout shared play.
+
+P: Continue weekly sessions under [[KEEP|CPT 92507]] for [[KEEP|ICD-10 F80.2]]. Send five picture targets home. Review independent productions next visit.
+
+Contact	Details
+Mother	[[PHONE|(919) 555-0146]]; [[EMAIL|lupita.rios@example.com]]
+Home	[[PLACE|418 Lantern Finch Lane]], [[PLACE|Brindle Creek]], North Carolina [[PLACE|27500]]
+
+Service schedule	Start	Stop	Next visit
+Individual therapy	[[TIME|9:10 a.m.]]	[[TIME|9:40 a.m.]]	[[DATE|October 15, 2026]]

@@ -1,0 +1,89 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+Individualized Family Service Plan (IFSP) — Six-Month Review
+
+Child: [[CHILD|Mateo Flores Rodríguez]] ("[[CHILD|Teo]]")
+DOB: [[DATE|04/02/2024]]   Age at review: [[KEEP|2;6]]
+Child ID: [[ID|NC-ITP-88214]]   Medicaid #: [[MEDICAID_ID|914772630A]]
+Address: [[PLACE|1420 Sardis Lane]], [[PLACE|Charlotte]], [[PLACE|Mecklenburg County]], NC [[PLACE|28270]]
+Home phone: [[PHONE|(704) 555-0148]]
+Mother: [[PARENT|Lucía Rodríguez]], cell [[PHONE|(704) 555-0162]]
+Father: [[PARENT|Javier Flores]], cell [[PHONE|(704) 555-0179]]
+Service Coordinator: [[PROVIDER|Brenda Walsh]], [[AGENCY|Piedmont Regional CDSA, Charlotte Office]]
+CDSA phone: [[PHONE|(704) 555-0120]]   CDSA email: [[EMAIL|bwalsh@piedmontregionalcdsa.org]]
+CDSA website: [[URL|www.piedmontregionalcdsa.org]]
+Initial IFSP: [[DATE|November 14, 2024]]   Review date: [[DATE|May 9, 2026]]
+Interpreter: [[PROVIDER|Marisol Nuñez]] (Spanish, in person)
+SLP: [[PROVIDER|Ana Castillo]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+SLP email: [[EMAIL|ana.castillo@carolinapedstherapy.com]]
+
+BACKGROUND / HISTORIA MÉDICA
+
+Pt born [[KEEP|34]] wks gestation at [[HOSPITAL|Novant Health Presbyterian Medical Center – Dilworth Campus]], Level III NICU, [[DATE|04/02/2024]], b/c maternal preeclampsia. Birth wt [[KEEP|4 lbs 1 oz]], Apgar [[KEEP|6]]/[[KEEP|8]]. [[CHILD|Teo]] spent approx [[KEEP|3]] wks in the NICU, d/c'd [[DATE|04/23/2024]] per neonatologist [[PROVIDER|Dr. Anil Patel]]. Mother [[PARENT|Lucía Rodríguez]] reports pt had feeding tube x 10 days, "no quería comer, lloraba mucho" (did not want to eat, cried a lot). Pediatrician [[PROVIDER|Dr. Sarah Kim]] at [[HOSPITAL|Atrium Health Pineville Pediatric Associates]] followed closely for weight gain thru approx [[KEEP|9]] mo. No other significant hx; hearing screen passed at birth, repeat screen ordered at [[KEEP|18]] mo 2/2 parental concern re: speech delay.
+
+ENT/AUDIOLOGÍA
+
+[[CHILD|Teo]] seen [[DATE|02/11/2026]] at [[HOSPITAL|Duke Health Ear, Nose & Throat and Audiology – Matthews Campus]] for f/u audiologic eval, ordered by [[PROVIDER|Dr. Robert Chen]] (ENT). Audiologist [[PROVIDER|Dr. Lindsey Moore]] completed [[KEEP|VRA]] (visual reinforcement audiometry); results WNL bilaterally, no hx of recurrent OM reported by CG. Tympanometry type A bilaterally. No surgical intervention recommended. Father [[PARENT|Javier Flores]] drove pt to appt, arrived [[TIME|9:40 AM]], seen [[TIME|10:00 AM]]–[[TIME|10:45 AM]].
+
+FAMILY CONCERNS, PRIORITIES, AND RESOURCES / PREOCUPACIONES DE LA FAMILIA
+
+Reviewed w/ [[PARENT|Lucía Rodríguez]] and [[PARENT|Javier Flores]] via interpreter [[PROVIDER|Marisol Nuñez]]. Mother states, "Lo que más me preocupa es que [[CHILD|Teo]] no usa palabras, solo señala y grita cuando quiere algo" (what worries me most is that Teo doesn't use words, he just points and screams when he wants something). She added "en la guardería dicen que se frustra mucho, pero en casa yo lo entiendo casi todo" (at daycare they say he gets very frustrated, but at home I understand him almost everything). Father reports concern is mainly "que hable en las dos idiomas, inglés y español, para la escuela" (that he speak in both languages, English and Spanish, for school). Family priority remains functional communication at home and daycare; CG also requested more strategies for mealtime, as pt "avienta la comida cuando está frustrado" (throws food when he's frustrated).
+
+Family resources: maternal grandmother [[FAMILY|Rosa Delgado]] lives nearby and provides care approx 3 days/wk while parents work; sitter [[FAMILY|Yolanda Pérez]] covers evenings 2x/wk. Older sister [[SIBLING|Camila Flores]] ([[KEEP|5]] yo) attends kindergarten and is described as "muy paciente con su hermanito" (very patient with her little brother) per mother. Family dog, [[PET|Luna]], is a favorite motivator during home practice per report.
+
+DAILY ROUTINES / RUTINAS DIARIAS
+
+Wake approx [[TIME|7:00 AM]]; breakfast w/ CG [[FAMILY|Rosa Delgado]] at home. Daycare drop-off at [[DAYCARE|Little Explorers Daycare & Preschool]] by [[TIME|8:15 AM]]; pick-up by mother [[PARENT|Lucía Rodríguez]] or father [[PARENT|Javier Flores]] approx [[TIME|5:30 PM]]. Teacher [[TEACHER|Jennifer Thompson]] reports pt plays alongside peers, esp [[PEER|Emma]] and [[PEER|Josue]], but uses mostly gestures; 1:1 support offered during circle time. Lunch at daycare [[TIME|11:30 AM]]; nap [[TIME|12:30 PM]]–[[TIME|2:00 PM]]. Dinner at home approx [[TIME|6:00 PM]], bath [[TIME|7:00 PM]], bed [[TIME|7:30 PM]]. Mother notes bedtime routine incl. 2-3 books, mix of English/Spanish; pt enjoys pointing to pictures and vocalizing. Weekend routine less structured; family attends iglesia (church) Sun mornings where [[CHILD|Teo]] is often w/ [[FAMILY|Rosa Delgado]] in the nursery.
+
+OTHER AGENCIES / OTRAS AGENCIAS INVOLUCRADAS
+
+Family receives WIC benefits thru [[AGENCY|Mecklenburg County WIC]] (nutrition support, formula supplement to [[KEEP|18]] mo). [[AGENCY|Smart Start of Mecklenburg County]] provided one-time childcare subsidy referral [[DATE|01/2025]]. No DSS involvement reported. Pt is not enrolled w/ any other EI provider at this time. Neighbor [[PERSON|Carmen]] occasionally drives [[PARENT|Lucía Rodríguez]] to appts when father [[PARENT|Javier Flores]] is at work; father employed full-time at [[ORG|Carolina Logistics Group]], mother works part-time at [[ORG|Sunrise Cleaning Services]], schedule variable.
+
+ASSESSMENT RESULTS / RESULTADOS DE LA EVALUACIÓN
+
+Standardized and informal measures re-administered to track progress toward outcomes. Administered in clinic by [[PROVIDER|Ana Castillo]], bilingual administration w/ parent report supplementing direct testing per best practice for sequential bilingual toddlers.
+
+Date | Measure | Score | CI | Percentile
+[[DATE|05/02/2026]] | [[KEEP|PLS-5 Auditory Comprehension]] | SS [[KEEP|73]] | [[KEEP|68-79]] | [[KEEP|4th]]
+[[DATE|05/02/2026]] | [[KEEP|PLS-5 Expressive Communication]] | SS [[KEEP|65]] | [[KEEP|60-71]] | [[KEEP|1st]]
+[[DATE|05/02/2026]] | [[KEEP|REEL-3 (Spanish form)]] | SS [[KEEP|70]] | [[KEEP|64-76]] | [[KEEP|2nd]]
+[[DATE|11/08/2024]] | [[KEEP|PLS-5 Expressive Communication]] | SS [[KEEP|58]] | [[KEEP|52-64]] | [[KEEP|<1st]]
+
+Progress noted in expressive SS from [[KEEP|58]] to [[KEEP|65]] over [[KEEP|6]] mo interval, still below avg range (avg [[KEEP|85-115]]). Informal bilingual lang sample ([[KEEP|50]] utterance SALT sample, both langs combined) yielded MLU [[KEEP|1.4]] morphemes; most utterances single-word or unintelligible vocalization coded [[KEEP|[EW]]]. Oral mech exam WNL; no concerns for structural etiology. Dx consistent w/ expressive lang delay, ICD-10 [[KEEP|F80.1]]; CPT code for eval [[KEEP|92523]], modifier [[KEEP|GN]].
+
+PRESENT LEVELS OF DEVELOPMENT
+
+Receptive: pt follows [[KEEP|1-step]] directions approx [[KEEP|7/10]] trials w/ [[KEEP|mod cues]] (gestural + visual); understands significantly more than he produces per parent report, consistent w/ expressive-receptive gap typical of toddlers w/ expressive delay.
+
+Expressive: approx [[KEEP|10]] words/approximations noted across both langs: "[[KEEP|mamá]]," "[[KEEP|agua]]" (approximated [[KEEP|[awa]]]), "[[KEEP|up]]," "[[KEEP|more]]," "[[KEEP|no]]," "[[KEEP|Luna]]" (dog's name, approximated [[KEEP|[una]]] — note: here the target itself is the pet's name, marked below). When attempting [[PET|Luna]]'s name pt produces [[KEEP|[una]]], omitting initial consonant /l/. Pt attempted "[[KEEP|pelota]]" (ball) → [[KEEP|[bota]]], substitution of /p/ for /b/ and deletion of medial syllable. Phonetic inventory limited to approx [[KEEP|8]] consonants incl [[KEEP|/m/]], [[KEEP|/b/]], [[KEEP|/n/]], [[KEEP|/d/]]; stimulable for [[KEEP|/k/]] in isolation w/ [[KEEP|max cues]].
+
+During session [[DATE|04/28/2026]] (clinic, [[TIME|3:15 PM]]–[[TIME|4:00 PM]]), pt used [[KEEP|PECS]]-style picture exchange to request "más galletas" independently [[KEEP|3]] of [[KEEP|5]] opportunities, a notable gain from baseline [[KEEP|0/5]] at IFSP start. Pragmatics: eye contact variable, joint attention emerging w/ [[KEEP|mod cues]], some protesting behaviors (throwing, screaming) when communication breaks down, consistent w/ parent-reported mealtime frustration above.
+
+Social-emotional: pt interacts w/ sister [[SIBLING|Camila Flores]] frequently at home; CG [[FAMILY|Rosa Delgado]] reports pt "se ríe mucho con su hermana" (laughs a lot with his sister). At daycare, teacher [[TEACHER|Jennifer Thompson]] notes improved tolerance for group activities over past [[KEEP|3]] mo.
+
+IFSP OUTCOMES AND STRATEGIES
+
+Outcome [[KEEP|1]]: [[CHILD|Teo]] will use [[KEEP|15]] functional words/word approximations across English and Spanish to request and comment, observed by CG during 3 consecutive home visits.
+Strategies: Modeling target words in both langs during daily routines (meals, bath, play); CG trained in [[KEEP|Hanen]] "OWL" (Observe, Wait, Listen) strategy during [[DATE|02/2026]] coaching session; continue [[KEEP|PECS]] picture exchange at home and daycare; SLP to provide bilingual word list to [[TEACHER|Jennifer Thompson]] at [[DAYCARE|Little Explorers Daycare & Preschool]] for consistency across settings.
+
+Outcome [[KEEP|2]]: [[CHILD|Teo]] will combine 2 words ("more juice," "mamá up") in 4 of 5 opportunities across 2 consecutive sessions, to support emerging syntax in both langs.
+Strategies: Expansion technique (adult repeats + adds 1 word to child's utterance); [[KEEP|PROMPT]] tactile-kinesthetic cueing during artic/motor planning practice for CV and CVC shapes; continue following child's lead per [[KEEP|Hanen]] principles; home practice log reviewed at each session.
+
+Outcome [[KEEP|3]]: Family will report decreased mealtime frustration behaviors (throwing, screaming) from current baseline of approx [[KEEP|4-5x/week]] to [[KEEP|1-2x/week]] or fewer, measured by parent log.
+Strategies: Teach CG to offer 2 visual choices at mealtime rather than open-ended questions; model simple requesting phrases ("quiero más," "all done") paired w/ gesture; coordinate w/ pediatrician [[PROVIDER|Dr. Sarah Kim]] re: any feeding/sensory concerns if behaviors persist past [[KEEP|3]] mo; SLP to check in w/ family by phone at [[KEEP|6]]-wk mark.
+
+SERVICE DELIVERY
+
+Direct SLP services continue 1x/wk, [[KEEP|30]] min, in home, provided by [[PROVIDER|Ana Castillo]] thru [[EMPLOYER|Carolina Pediatric Therapy Partners]]. Session example [[DATE|05/05/2026]]: arrived [[TIME|4:00 PM]], began [[TIME|4:05 PM]] (brief delay, CG finishing phone call w/ [[PROVIDER|Brenda Walsh]] re: review paperwork), ended [[TIME|4:35 PM]]. CG [[PARENT|Lucía Rodríguez]] present for full session, implemented modeling strategy independently 2x w/o prompt from SLP — positive sign for carryover. Service coordination visits by [[PROVIDER|Brenda Walsh]] quarterly; next SC visit scheduled [[DATE|08/11/2026]].
+
+Transition planning: family informed that pt will transition from Infant-Toddler Program services around [[KEEP|36]] mo per state guidelines; SC [[PROVIDER|Brenda Walsh]] to begin transition conference planning approx [[KEEP|90]] days prior to [[KEEP|3rd]] birthday. Family verbalized understanding; mother asked clarifying question re: preschool options, referred to [[AGENCY|Mecklenburg County Schools Exceptional Children's Division]] for future eval request.
+
+SIGNATURES
+
+Reviewed and agreed to by:
+
+[[PARENT|Lucía Rodríguez]], Mother — Date: [[DATE|05/09/2026]]
+[[PARENT|Javier Flores]], Father — Date: [[DATE|05/09/2026]]
+[[PROVIDER|Ana Castillo]], M.S., CCC-SLP — Date: [[DATE|05/09/2026]]
+[[PROVIDER|Brenda Walsh]], Service Coordinator, [[AGENCY|Piedmont Regional CDSA, Charlotte Office]] — Date: [[DATE|05/09/2026]]
+
+Next review scheduled: [[DATE|November 9, 2026]]. Questions prior to next review may be directed to SLP at [[EMAIL|ana.castillo@carolinapedstherapy.com]] or CDSA at [[PHONE|(704) 555-0120]] / [[URL|www.piedmontregionalcdsa.org]].

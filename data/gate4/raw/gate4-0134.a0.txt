@@ -1,0 +1,28 @@
+Daily Session Note / Nota diaria
+Client: [[CHILD|Emilio Navarro]]  Nickname: [[CHILD|Milo]]  Age: [[KEEP|4;2]]  DOB: [[DATE|August 9, 2022]]
+Service date: [[DATE|October 11, 2026]]  Record: [[ID|CL-684209]]  Medicaid: [[MEDICAID_ID|684209731Q]]
+Clinician: [[PROVIDER|Marina Valdés]], MS, CCC-SLP  Employer: [[EMPLOYER|Cedar Lantern Speech Therapy PLLC]]
+Office: [[PLACE|418 Lantern Finch Lane]], [[PLACE|Cedar Vale]], North Carolina  ZIP: [[PLACE|27593]]
+Phone: [[PHONE|919-555-0146]]  Email: [[EMAIL|marina@cedarlantern.example]]  Portal: [[URL|https://cedarlantern.example]]
+Service: Individual bilingual treatment  CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+
+Horario / Session schedule
+
+| Day | Start | Stop | Location |
+| Monday | [[TIME|9:10 AM]] | [[TIME|9:40 AM]] | [[SCHOOL|Juniper Kite Preschool]] |
+| Wednesday | [[TIME|2:00 PM]] | [[TIME|2:30 PM]] | [[EMPLOYER|Cedar Lantern Therapy]] |
+| Sunday | [[TIME|10:15 AM]] | [[TIME|10:45 AM]] | [[EMPLOYER|CLST]] |
+
+S / Subjetivo: Mom [[PARENT|Teresa Navarro]] attended; dad [[PARENT|Óscar Navarro]] joined by telephone. Mom works nights at [[ORG|Silver Heron Packaging]] as a machine operator. She reported, “Cuando llego, quiere contarme todo, pero se frustra.” Sister [[SIBLING|Sol]] practiced picture cards with him. Abuela [[FAMILY|Inés Duarte]] provides afternoon care. Teacher Ms. [[TEACHER|Celia Montes]] described better participation beside classmate [[PEER|Beto Ríos]]. No pain or new illness reported.
+
+O / Objetivo: [[CHILD|Emilio]] transitioned with a visual schedule and selected animal figures. During [[KEEP|Cycles]] activities, initial [[KEEP|/k/]] accuracy reached [[KEEP|8/10]] with [[KEEP|mod cues]]; independent accuracy was [[KEEP|60%]]. He produced “[[KEEP|to]]” for target “[[KEEP|sol]],” the sunlight vocabulary item. This word also matches his sister’s name; the naming task referred to the picture. In family play he said, “[[SIBLING|Sol]] ven,” and later, “[[PET|Chispa]] run.” Neither utterance was elicited from the sunlight card.
+
+Using [[KEEP|Hanen]] strategies, the clinician modeled waiting and expansions. Two-step directions were completed in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. A language sample included “[[KEEP|yo want agua]]” and one [[KEEP|[EW]]] annotation. Code-switching supported communication and was accepted.
+
+Prior evaluation dated [[DATE|September 18, 2026]] documented [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These results provide context; no standardized testing occurred today.
+
+A / Análisis: [[CHILD|Milo]] showed improved engagement when familiar routines preceded structured trials. Errors remained consistent across languages, while spontaneous requests increased with wait time. Current performance supports continued practice under [[KEEP|IFSP outcome 2]]. Family feedback suggests carryover during snack routines; home accuracy remains unmeasured.
+
+P / Plan: Continue bilingual treatment and caregiver coaching. Practice target “[[KEEP|sol]]” using weather pictures, then target “[[KEEP|casa]]” during pretend play. Mom will model a short phrase, pause, and accept either language. Coordinate classroom visuals with Ms. [[TEACHER|Montes]]. Review progress on [[DATE|November 8, 2026]].
+
+Firma: [[PROVIDER|Marina Valdés]]  Status: Signed  Family copy: Requested

@@ -1,0 +1,37 @@
+De: [[PROVIDER|Elisa Naredo]] <[[EMAIL|elisa.naredo@hablaviva.example]]>
+Para: [[PARENT|Marina Solvero]] <[[EMAIL|marina.solvero@correo.example]]>
+Fecha: [[DATE|11 de octubre de 2026]], [[TIME|16:40]]
+Asunto: Nota diaria de [[CHILD|Nicolás Solvero]]; expediente [[ID|SL-628419]]; Medicaid [[MEDICAID_ID|482761935K]]
+
+S: Su mamá [[PARENT|Marina Solvero]] informó que [[CHILD|Nico]], de [[KEEP|4;2]], pidió ayuda durante el desayuno. Durmió bien y llegó tranquilo. Su hermana [[SIBLING|Inés Solvero]] acompañó la transición.
+
+O: Realicé terapia bilingüe mediante [[KEEP|Hanen]] y [[KEEP|PROMPT]]. Produjo /[[KEEP|k]]/ en palabras con [[KEEP|mod cues]], logrando [[KEEP|8/10]] intentos y [[KEEP|80%]] de precisión. Dijo «[[KEEP|tasa]]» ante el objetivo «[[KEEP|casa]]». Registré [[KEEP|[EW]]] en la muestra. También dijo «[[PET|Pipo]] corre».
+
+Resumen de la evaluación previa:
+
+| Prueba y subprueba | Fecha | Puntuación estándar | Percentil | IC del [[KEEP|95%]] | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]]; [[KEEP|Auditory Comprehension]] | [[DATE|1 de octubre de 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+
+A: Mejoró la participación con apoyos visuales. La maestra [[TEACHER|Sara Belneda]] observó peticiones espontáneas con su compañero [[PEER|Diego Lurena]] en [[SCHOOL|Escuela Infantil Brisaluz]]. Persiste dificultad para generalizar sonidos. La atención disminuyó durante tareas largas, pero respondió a pausas breves. No presentó dolor ni fatiga.
+
+P: Continuar el objetivo [[KEEP|2]] del IFSP. Practicar peticiones durante juegos familiares, con [[KEEP|min cues]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+| Día | Inicio | Fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|09:00]] | [[TIME|09:30]] | [[DAYCARE|Guardería Semillitas del Alba]] |
+| Jueves | [[TIME|14:15]] | [[TIME|14:45]] | [[PLACE|418 Calle Robledal, Valdeloma, 27563]], Carolina del Norte |
+
+[[PROVIDER|Elisa Naredo]]
+Patóloga bilingüe del habla y lenguaje
+[[EMPLOYER|Habla Viva Pediátrica]]
+[[PHONE|919-555-0146]] · [[URL|https://hablaviva.example]]
+
+> De: [[PARENT|Marina Solvero]]
+> Fecha: [[DATE|10 de octubre de 2026]]
+>
+> Antecedentes: nació el [[DATE|3 de agosto de 2022]], a las [[KEEP|35 semanas]], con [[KEEP|2250 g]]; Apgar [[KEEP|7]] y [[KEEP|9]]. Permaneció en la UCIN del [[HOSPITAL|Hospital Infantil Luminara]], atendido por los doctores [[PROVIDER|Tomás Virela]] y [[PROVIDER|Alma Cedrón]].
+>
+> Nuestra familia procede de [[PLACE|Santa Brumelia]], Honduras. Su abuela [[FAMILY|Rosa Talvera]] cuida al niño. Trabajo en [[ORG|Textiles Claror]]. La coordinadora [[PROVIDER|Eva Rosnel]], de [[AGENCY|CDSA de Valdeloma]], confirmó el transporte con el conductor [[PERSON|Luis Bareda]].
+>
+> [[PARENT|Marina Solvero]]

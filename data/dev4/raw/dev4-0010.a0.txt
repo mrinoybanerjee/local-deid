@@ -1,0 +1,36 @@
+Mrinoy Flores Pediatric Speech-Language Therapy — Daily Session Note / Nota de Sesión Diaria
+
+Fecha de la sesión: [[DATE|October 9, 2026]]
+Clínica: [[PROVIDER|Sarah Whitfield]], CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+
+Child/Niño: [[CHILD|Mateo Flores]], DOB [[DATE|June 2, 2022]], age [[KEEP|4;2]]
+Medicaid ID: [[MEDICAID_ID|NC5839201-K]] | Case ID: [[ID|CDSA-77214]]
+Parents: [[PARENT|Lucía Rodríguez]] (madre), [[PARENT|Carlos Flores]] (padre)
+Sibling present today: [[SIBLING|Valentina Flores]] (hermana mayor)
+Caregiver at pickup: [[FAMILY|Abuela Rosa Vidal]]
+Daycare: [[DAYCARE|Little Sprouts Early Learning Center]], lead teacher [[TEACHER|Ms. Lopez]]
+Service Coordinator: [[PROVIDER|Diana Martinez]], [[AGENCY|CDSA of the Triangle]]
+Agencies involved: [[AGENCY|Wake County DSS]], [[AGENCY|Wake County WIC]], [[AGENCY|Partnership for Children of Wake County]]
+Location: [[PLACE|412 Hollyfield Lane, Raleigh, NC 27601]]
+Contact: [[PHONE|(919) 555-0148]] / [[EMAIL|swhitfield@carolinapedstherapy.com]]
+
+S: Mamá [[PARENT|Lucía Rodríguez]] reportó, "[[CHILD|Mateo]] dice más palabras en casa, pero todavía se frustra." Dad added mid-sentence, "he said 'quiero jugo' yesterday — that's new para él." Sister [[SIBLING|Valentina Flores]] said he called out "[[PET|Luna]] ven" to their dog during breakfast.
+
+O: Session ran from [[TIME|9:00 AM]] to [[TIME|9:45 AM]] at [[DAYCARE|Little Sprouts Early Learning Center]]. Administered [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest; standard score [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. Expressive Communication scaled score improved to [[KEEP|7]], [[KEEP|16th percentile]]. Articulation probe: [[KEEP|8/10]] correct productions of /k/ in initial position; target word "copa" produced as "[[KEEP|topa]]" with [[KEEP|mod cues]]. Used [[KEEP|PROMPT]] and [[KEEP|Hanen]] strategies throughout; [[KEEP|3 of 5]] trials achieved spontaneous [[KEEP|/ɾ/]] approximation.
+
+A: Steady progress since IFSP review. Continued phonological delay (ICD-10 [[KEEP|F80.0]]) with mild-moderate severity.
+
+P: Continue weekly PROMPT-based sessions; recommend WIC nutrition follow-up and Smart Start playgroup referral through [[AGENCY|Partnership for Children of Wake County]].
+
+IFSP Outcome Review (por fila):
+Outcome 1 — Expressive language	PROMPT, modeling, parent coaching con [[PARENT|Carlos Flores]]	3 of 5 trials independent	[[DATE|October 9, 2026]]
+Outcome 2 — Articulation /k/, /ɾ/	Mod cues, Hanen strategies	8/10 accuracy	[[DATE|October 9, 2026]]
+Outcome 3 — Social communication con pares	Group play, turn-taking cues	Emerging, needs support	[[DATE|October 9, 2026]]
+
+Weekly Session Schedule:
+Day	Start	Stop	Location
+Monday	[[TIME|9:00 AM]]	[[TIME|9:45 AM]]	[[DAYCARE|Little Sprouts Early Learning Center]]
+Wednesday	[[TIME|1:30 PM]]	[[TIME|2:15 PM]]	[[PLACE|412 Hollyfield Lane, Raleigh, NC 27601]]
+Friday	[[TIME|10:15 AM]]	[[TIME|11:00 AM]]	[[AGENCY|CDSA of the Triangle]]
+
+Next IFSP review scheduled [[DATE|January 15, 2027]]; [[PROVIDER|Diana Martinez]] will coordinate with [[AGENCY|Wake County DSS]] and [[AGENCY|Wake County WIC]] for continued services. Mamá preguntó sobre referral a Early Head Start; se proporcionó información de contacto.

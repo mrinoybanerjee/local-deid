@@ -1,0 +1,112 @@
+speech-language evaluation / evaluación del habla y lenguaje
+
+client: [[CHILD|Nicolás Valle Moreno]]  
+preferred name: [[CHILD|Nico]]  
+date of birth: [[DATE|August 9, 2022]]  
+evaluation date: [[DATE|October 11, 2026]]  
+chronological age: [[KEEP|4;2]]  
+record number: [[ID|SLP-260411-0827]]  
+Medicaid member number: [[MEDICAID_ID|000482761Q]]  
+authorization: [[ID|AUTH-68420719]]  
+visit time: [[TIME|9:10 a.m.]] to [[TIME|10:35 a.m.]]  
+parent: [[PARENT|Mariela Valle Moreno]]  
+parent: [[PARENT|Tomás Moreno Castillo]]  
+address: [[PLACE|418 Lantern Fern Lane]] in [[PLACE|Pineveil]] North Carolina [[PLACE|27000]]  
+telephone: [[PHONE|919-555-0148]]  
+email: [[EMAIL|mariela.valle@example.com]]  
+school district: [[SCHOOL|Mossridge County Schools]]  
+school: [[SCHOOL|Lantern Fern Early Learning School]]  
+classroom: [[SCHOOL|Little Acorns Classroom]]  
+teacher: Ms. [[TEACHER|Elena Rivas]]  
+evaluating clinician: [[PROVIDER|Camila Serrano Voss]] bilingual pediatric speech-language pathologist  
+employer: [[EMPLOYER|Puente Claro Pediatric Communication]]  
+practice website: [[URL|https://puenteclaro.example.com]]  
+referring physician: Dr. [[PROVIDER|Adrian Bellora]]  
+billing: [[KEEP|CPT 92523]] modifier [[KEEP|GN]]
+
+motivo de consulta / background
+
+[[CHILD|Nicolás]] was referred because family and classroom staff report short messages reduced speech clarity and difficulty explaining what happened during play the family wants him to communicate necesidades y sentimientos without adults guessing his meaning this evaluation included parent interview classroom information play observation bilingual language sampling and structured testing with breaks as needed
+
+su mamá [[PARENT|Mariela]] said "en casa sabe mucho pero cuando quiere explicar se queda atorado" and his father [[PARENT|Tomás]] reported that unfamiliar adults often ask for repetition the family described stronger communication during familiar routines and less speech when questions come quickly they did not report loss of previously acquired words
+
+the referral packet came from service coordinator [[PROVIDER|Daniela Paredes]] at [[AGENCY|Mossridge Children's Developmental Services Agency]] an earlier IFSP dated [[DATE|September 6, 2024]] listed outcome [[KEEP|2]] for requesting during everyday routines the current school referral dated [[DATE|September 18, 2026]] requests clarification of language needs and classroom supports
+
+Ms. [[TEACHER|Rivas]] reports that [[CHILD|Nico]] joins pretend kitchen play with classmates [[PEER|Iris Salcedo]] and [[PEER|Owen Meral]] but usually points when a peer misunderstands classroom assistant [[TEACHER|Daria Quill]] reports better participation when an adult models a short phrase before group activities attendance has been consistent according to the submitted classroom summary
+
+historia de nacimiento y salud
+
+pregnancy history was provided by [[PARENT|Mariela Valle Moreno]] she reported delivery at [[KEEP|35 weeks 4 days]] at [[HOSPITAL|Mossridge Valley Women's Hospital]] in [[PLACE|Pineveil]] North Carolina birth weight was [[KEEP|5 lb 3 oz]] and Apgar scores were [[KEEP|7]] and [[KEEP|9]] the neonatal physician was Dr. [[PROVIDER|Leena Corvalis]]
+
+[[CHILD|Nicolás]] stayed in the NICU at [[HOSPITAL|Mossridge Valley Women's Hospital]] for feeding observation and temperature support mother recalled brief oxygen support but no prolonged ventilation the family reported discharge on [[DATE|August 20, 2022]] and follow-up with pediatrician Dr. [[PROVIDER|Adrian Bellora]] no original neonatal records were available today so these details remain caregiver reported
+
+medical history includes recurrent ear infections and tube placement on [[DATE|February 14, 2025]] by Dr. [[PROVIDER|Sonia Arvelo]] at [[HOSPITAL|Cedar Lantern Children's Hospital]] the family supplied an audiology summary from [[PROVIDER|Jonah Pelren]] dated [[DATE|April 8, 2026]] which described hearing adequate for speech access under the conditions tested
+
+mother reported no current daily medication no known swallowing difficulty and no recent seizures sleep is sometimes interrupted after congestion feeding now includes varied textures the family denied coughing with meals occupational therapist [[PROVIDER|Mina Delsaro]] previously addressed dressing and sensory regulation through [[EMPLOYER|Puente Claro Pediatric Communication]] those services ended after the family reported improved participation
+
+familia e idiomas
+
+[[CHILD|Nicolás Valle Moreno]] lives with both parents and his sister [[SIBLING|Sol Moreno Valle]] who is [[KEEP|7 years]] old maternal grandmother [[FAMILY|Luz Valle Serrat]] provides care after school and maternal uncle [[FAMILY|Will Serrat]] visits on weekends the family dog is [[PET|Miga]] mother reported that talking to the dog often brings longer spontaneous messages
+
+Spanish is the main language used by [[PARENT|Mariela]] and grandmother [[FAMILY|Luz]] father [[PARENT|Tomás]] uses Spanish during meals and English during games sister [[SIBLING|Sol]] uses both languages with [[CHILD|Nico]] English is the main classroom language with Spanish available from Ms. [[TEACHER|Elena Rivas]]
+
+the family estimated current exposure as [[KEEP|60%]] Spanish and [[KEEP|40%]] English these are caregiver estimates rather than measured language use mother works at [[ORG|Fernlight Packaging Cooperative]] father works at [[ORG|Cedar Loom Repair Works]] both described flexible opportunities for home practice and requested instructions in Spanish with English examples for school carryover
+
+a neighbor caregiver [[FAMILY|Hope Lareda]] sometimes provides evening care in [[PLACE|Brindlewick]] the family participates in activities through [[AGENCY|Mossridge Family Smart Start Partnership]] mother said "no queremos quitarle el español queremos que tenga palabras en los dos idiomas" no interpreter participated because the evaluating clinician conducted the interview and activities in both languages
+
+observación clínica / participación
+
+[[CHILD|Nico]] entered with his mother and watched the room before selecting toy food he accepted a visual schedule and moved between activities with brief movement breaks he used eye gaze gestures and speech together to share interest and ask for assistance engagement improved when the clinician followed his play theme
+
+during pretend cooking he produced [[KEEP|"más sopa"]]] and [[KEEP|"I want spoon"]]] without a direct model when the toy dog fell he said "[[PET|Miga]] cayó" later he called "[[SIBLING|Sol]] come aquí" these messages show functional code-switching and were accepted as meaningful communication rather than corrected for language choice
+
+he answered familiar choice questions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]] and answered open questions about an unfamiliar picture in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]] he sometimes repeated the last part of a question before answering and benefited from additional wait time
+
+the clinician collected a bilingual sample during play and picture description grammatical analysis considered the language of each utterance and the intended message SALT codes [[KEEP|[EW]]] and [[KEEP|[EU]]] identified extra words and utterance-level errors where applicable code-switching alone did not receive an error code a quieter voice appeared during structured tasks but oral movement was sufficient for the activities observed
+
+evaluación formal / resultados
+
+the [[KEEP|PLS-5 Spanish]] provided the primary structured language measure administration followed the manual's bilingual procedures where applicable performance on [[KEEP|Auditory Comprehension]] reflected difficulty with longer directions quantity concepts and questions requiring inference performance on [[KEEP|Expressive Communication]] reflected limited sentence elaboration and inconsistent grammatical marking
+
+the [[KEEP|Goldman-Fristoe Test of Articulation-3]] was used descriptively for English speech elicitation the [[KEEP|Sounds-in-Words]] score is included for reference and requires caution because language experience affects comparison with the normative sample Spanish productions were examined separately through a clinician-created probe no Spanish standard score was calculated
+
+the [[KEEP|Rossetti Infant-Toddler Language Scale]] organized caregiver descriptions of earlier skills only the measure does not provide an age-appropriate norm comparison for today's chronological age prior [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] and [[KEEP|Peabody Developmental Motor Scales, Second Edition]] results were summarized from supplied reports and were not readministered
+
+| measure or subtest | score type | score | percentile | confidence interval | age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish Auditory Comprehension]] | standard score | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] | [[KEEP|3;0–3;5]] |
+| [[KEEP|PLS-5 Spanish Expressive Communication]] | standard score | [[KEEP|74]] | [[KEEP|4th]] | [[KEEP|69–81]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5 Spanish Total Language]] | standard score | [[KEEP|75]] | [[KEEP|5th]] | [[KEEP|70-82]] | [[KEEP|2;9–3;3]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3 Sounds-in-Words]] | standard score | [[KEEP|72]] | [[KEEP|3rd]] | [[KEEP|67-79]] | [[KEEP|2;4–2;8]] |
+| [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition Receptive Communication]] | prior scaled score | [[KEEP|7]] | not reported | not reported | [[KEEP|20–23 months]] |
+| [[KEEP|Peabody Developmental Motor Scales, Second Edition Grasping]] | prior scaled score | [[KEEP|8]] | [[KEEP|25th]] | not reported | [[KEEP|24–27 months]] |
+
+the historical developmental reports were dated [[DATE|October 7, 2024]] and [[DATE|November 12, 2024]] respectively historical scores describe earlier performance and do not establish current motor or cognitive functioning confidence intervals in the language rows represent [[KEEP|90%]] intervals age equivalents are descriptive estimates and should not determine placement or treatment intensity by themselves
+
+habla / speech findings
+
+speech included fronting of /k/ and /g/ replacement of /ɾ/ and inconsistent consonant deletion in longer words the observed productions included [[KEEP|[t]]] for [[KEEP|/k/]]] and [[KEEP|[w]]] in some English liquid contexts Spanish tap production varied by word position and task demand
+
+during the word [[KEEP|"casa"]]] he produced [[KEEP|"tasa"]]] and during [[KEEP|"carro"]]] he produced [[KEEP|"cao"]]] the English target [[KEEP|"spoon"]]] became [[KEEP|"poon"]]] these examples were considered with expected cross-language differences and the child's exposure history rather than counted automatically as equivalent errors across languages
+
+initial [[KEEP|/k/]]] accuracy increased from [[KEEP|2/10]] independently to [[KEEP|7/10]] with [[KEEP|max cues]] during stimulability tasks listener understanding was estimated at [[KEEP|65%]] for unfamiliar English messages and [[KEEP|75%]] for Spanish messages in shared play context these estimates came from this session and may change with listener familiarity background noise and message length
+
+impresiones / clinical interpretation
+
+the combined findings support a mixed receptive-expressive language disorder with speech sound needs affecting everyday participation diagnostic coding for this report is [[KEEP|ICD-10 F80.2]] and [[KEEP|ICD-10 F80.0]] clinical judgment rests on functional difficulty across languages caregiver information classroom information and observed response to support
+
+bilingual exposure does not explain the full pattern of difficulty [[CHILD|Nicolás]] showed strengths in shared attention pretend play persistence and use of gestures his language skills improved with familiar context but difficulty remained with understanding longer messages and producing clear detailed explanations across both languages
+
+results do not establish a motor speech diagnosis attention diagnosis or broader developmental diagnosis the available sample was insufficient for those conclusions oral examination showed no obvious structural concern during this visit family priorities should guide treatment and the school team should consider these findings with educational observations and its own eligibility procedures
+
+recomendaciones / plan de apoyo
+
+begin bilingual speech-language therapy with sessions in both languages as needed for family and classroom participation use [[KEEP|focused stimulation]] and [[KEEP|Hanen]] strategies during routines consider selected [[KEEP|Cycles]] activities for consistent speech patterns and use [[KEEP|recasts]] to expand messages without requiring repeated corrections
+
+proposed goal [[KEEP|1]] is following related directions in play with [[KEEP|80%]] accuracy given [[KEEP|min cues]] proposed goal [[KEEP|2]] is producing expanded functional messages in [[KEEP|8/10]] opportunities with [[KEEP|min cues]] proposed goal [[KEEP|3]] is producing selected velar targets in practiced words with [[KEEP|70%]] accuracy given [[KEEP|mod cues]]
+
+at home model useful phrases such as [[KEEP|"ayúdame por favor"]]] and [[KEEP|"I need help"]]] pause before supplying an answer and acknowledge the message first at school provide visual choices reduce competing noise and allow responses in either language Ms. [[TEACHER|Rivas]] can share successful phrases with the family through the established school communication process
+
+schedule a progress review for [[DATE|January 12, 2027]] and coordinate with Dr. [[PROVIDER|Bellora]] if hearing concerns return mother [[PARENT|Mariela]] demonstrated the home strategies during this visit and reported that the proposed goals match family priorities the family received a Spanish summary and an English copy for school discussion
+
+electronically signed by [[PROVIDER|Camila Serrano Voss]] on [[DATE|October 11, 2026]] at [[TIME|2:45 p.m.]]

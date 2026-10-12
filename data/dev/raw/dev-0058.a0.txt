@@ -1,0 +1,38 @@
+Pediatric Speech-Language Therapy Session Note
+
+Date of Service: [[DATE|October 8, 2026]]
+Client: [[CHILD|Mateo Alvarez]] (age 4;2)
+Medicaid ID: [[MEDICAID_ID|MC402918733B]]
+Session Time: [[TIME|9:15 AM]] – [[TIME|10:00 AM]]
+Location: [[DAYCARE|Sunny Days Early Learning Center]], Ms. [[TEACHER|Lopez]]'s room, [[PLACE|412 Maple Street]], [[PLACE|Cary]], NC [[PLACE|27511]]
+Clinician: [[PROVIDER|Hannah Reyes]], M.S., CCC-SLP, [[EMPLOYER|Bilingual Pediatric Therapy Partners]]
+
+S: [[CHILD|Mateo]] arrived from circle time at [[TIME|9:10 AM]], escorted by Ms. [[TEACHER|Lopez]]. His mother, [[PARENT|Lucía Alvarez]], called this morning to report that [[CHILD|Mateo]] slept poorly after a visit from his abuela, [[FAMILY|Rosa Fernández]], who is staying with the family this week. His older sister, [[SIBLING|Camila]], walked him to the classroom door.
+
+O: Session targeted /k/ and /g/ in word-initial position, with bilingual targets in English and Spanish. [[CHILD|Mateo]] produced "cup" and "casa" with mod cues at 7/10 trials. He self-corrected "gato" twice without cues and imitated [k] in "key" independently 8/10.
+
+Score Table (tab-separated):
+Skill	Score	Target
+Goldman-Fristoe 2 (GFTA-2)	Standard Score 82	≥85
+PLS-5 Spanish-English	Percentile 25	≥30
+/k/ initial accuracy	70%	80%
+
+He played briefly with peer [[PEER|Noah Simmons]] during a turn-taking game, trading a stuffed dog named [[PET|Biscuit]] that he brought from home as a motivator.
+
+A: [[CHILD|Mateo]] continues to show stimulable gains for velar sounds in structured drills, but limited carryover into spontaneous speech. Family reports that home practice has been inconsistent given recent household changes.
+
+P: Continue biweekly sessions targeting velars and bilingual vocabulary. Will coordinate with [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|Denise Walker]] before the IFSP review scheduled [[DATE|November 3, 2026]].
+
+Contact Table (tab-separated):
+Name	Role	Phone	Email
+[[PARENT|Lucía Alvarez]]	Mother	[[PHONE|(919) 555-0148]]	[[EMAIL|lucia.alvarez82@gmail.com]]
+[[PROVIDER|Hannah Reyes]]	SLP	[[PHONE|(919) 555-0177]]	[[EMAIL|hreyes@bptpartners.com]]
+
+Service Schedule (tab-separated):
+Day	Time	Service
+Tuesday	[[TIME|9:15 AM]]	Speech therapy
+Thursday	[[TIME|2:30 PM]]	Speech therapy
+
+For caregiver home activities, see the client portal at [[URL|www.bptpartners.com/portal]].
+
+Next session: [[DATE|October 13, 2026]] at [[TIME|9:15 AM]].

@@ -1,0 +1,170 @@
+{
+ "artifacts": {
+  "pf-onnx-q4": {
+   "repo": "openai/privacy-filter",
+   "revision": "7ffa9a043d54d1be65afb281eddf0ffbe629385b",
+   "license": "Apache-2.0",
+   "files": {
+    "onnx/model_q4.onnx": {
+     "size": 160219,
+     "sha256": "8f7dee8b46d096f052b359375dfba5d983cc4d18c44a783bf548615c472f8dea"
+    },
+    "onnx/model_q4.onnx_data": {
+     "size": 917120144,
+     "sha256": "f30998e28c71c5374cc7e8b7de8f0f83e981592c0c2d652d2ad4928454dbb496"
+    },
+    "tokenizer.json": {
+     "size": 27868174,
+     "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3"
+    },
+    "config.json": {
+     "size": 3039,
+     "sha256": "b2b26a4a4a000639ad30b0c264adbefe365bdb567fbd7bb27303b8c438375bd1"
+    },
+    "viterbi_calibration.json": {
+     "size": 372,
+     "sha256": "bbc8611ef08a55ed72d64856cbbbb9a91db8dfa881f0a92e2afbad6e4bbc775a"
+    }
+   }
+  },
+  "pf-mlx-8bit": {
+   "repo": "OpenMed/privacy-filter-mlx-8bit",
+   "revision": "f244d23379e440f2a7ec9f0832c049d92a44295c",
+   "license": "Apache-2.0",
+   "files": {
+    "weights.safetensors": {
+     "size": 1488841579,
+     "sha256": "22c4e8323b5a39bd6ab42b8cf9f8920f7676158b7375759d28d053616fbd7d6e"
+    },
+    "tokenizer.json": {
+     "size": 27868174,
+     "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3"
+    },
+    "config.json": {
+     "size": 3414,
+     "sha256": "0a17c3fa16404dd4322e704bb8ada2ae9bbb988e4ba18bcb37a101c60f36ea07"
+    },
+    "id2label.json": {
+     "size": 845,
+     "sha256": "82ec14dd6f97ce46c227689a06507f258919e48235591a90bfc1cb73f97f5a32"
+    },
+    "openmed-mlx.json": {
+     "size": 757,
+     "sha256": "32d12cdb17ef880f76bfe9e8ad20434ae197627f9ad186c687891f1b3fae59d3"
+    },
+    "tokenizer_config.json": {
+     "size": 255,
+     "sha256": "56b69495a8baf36b6b6107ecf16677d4bf892c3f6edca454eaf12dfc0c7018a8"
+    }
+   }
+  },
+  "pf-onnx-fp32-ref": {
+   "repo": "openai/privacy-filter",
+   "revision": "7ffa9a043d54d1be65afb281eddf0ffbe629385b",
+   "license": "Apache-2.0",
+   "dev_only": true,
+   "files": {
+    "onnx/model.onnx": {
+     "size": 137674,
+     "sha256": "6aafae8037498c8785816e4c43014d8a693090fa4ed5bb225234a294595cb436"
+    },
+    "onnx/model.onnx_data": {
+     "size": 1822721024,
+     "sha256": "26bfdd86ff0794f92a0164fb8d4cc4a2ff63f1912866355da530a8757dfe9877"
+    },
+    "onnx/model.onnx_data_1": {
+     "size": 1907131392,
+     "sha256": "b5f641c184d5caf50ad9c026efbc019c14cc528a07491a1c500fd34c983d548f"
+    },
+    "onnx/model.onnx_data_2": {
+     "size": 1901636608,
+     "sha256": "4c12392ea557a904af3ced6f7c736d1a68b265e65e4a1b310fe0cec5c9e7424c"
+    },
+    "config.json": {
+     "size": 3039,
+     "sha256": "b2b26a4a4a000639ad30b0c264adbefe365bdb567fbd7bb27303b8c438375bd1"
+    },
+    "tokenizer.json": {
+     "size": 27868174,
+     "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3"
+    }
+   }
+  },
+  "o200k-bpe": {
+   "repo": "openaipublic",
+   "revision": "encodings",
+   "license": "MIT (tiktoken)",
+   "base_url": "https://openaipublic.blob.core.windows.net/encodings",
+   "files": {
+    "o200k_base.tiktoken": {
+     "size": 3613922,
+     "sha256": "446a9538cb6c348e3516120d7c08b09f57c36495e2acfffe59a5bf8b0cfb1a2d"
+    }
+   }
+  },
+  "gliner-x-base-src": {
+   "repo": "knowledgator/gliner-x-base",
+   "revision": "a6c7a8fbfe2066c68d12c0480418504fde6d91d1",
+   "license": "Apache-2.0",
+   "dev_only": true,
+   "note": "setup source for tools/derive_gliner.py and the tokenizer parity test; not loaded by the app",
+   "files": {
+    "onnx/model_quantized.onnx": {
+     "size": 302646302,
+     "sha256": "9850feb5ecd7ccfa3e4f1802b7c7d404f1b357cb7b6198cc014fb441e91ace43"
+    },
+    "tokenizer.json": {
+     "size": 16335050,
+     "sha256": "619d3790cf59a0e50afdf04239db19093568fbd8d806963e35d54a8fb71d099c"
+    },
+    "gliner_config.json": {
+     "size": 3525,
+     "sha256": "70bdc897e45538685f79309af9dc97e5d35eeee3f2c385db75d5865689613c14"
+    }
+   }
+  },
+  "gliner-x-base-q8": {
+   "repo": "knowledgator/gliner-x-base",
+   "revision": "a6c7a8fbfe2066c68d12c0480418504fde6d91d1",
+   "license": "Apache-2.0",
+   "experiment": true,
+   "files": {
+    "gliner_config.json": {
+     "size": 3525,
+     "sha256": "70bdc897e45538685f79309af9dc97e5d35eeee3f2c385db75d5865689613c14"
+    },
+    "spiece.model": {
+     "size": 4309802,
+     "sha256": "ef78f86560d809067d12bac6c09f19a462cb3af3f54d2b8acbba26e1433125d6"
+    },
+    "model_quantized.onnx": {
+     "size": 707286,
+     "sha256": "fb5302c42e0dcfc5625bf3b15d873f4e30e85eaa10a3d9be30668fafa4cba995",
+     "derived_by": "tools/derive_gliner.py"
+    },
+    "model_quantized.onnx_data": {
+     "size": 301948416,
+     "sha256": "a8c029901b2dbdde695267c56c414bc21e0633415bdb1d42c7a05297b514a33f",
+     "derived_by": "tools/derive_gliner.py"
+    }
+   }
+  },
+  "pf-mlx-8bit-ft1": {
+   "repo": "local: tools/finetune_pf.py on pf-mlx-8bit",
+   "revision": "8683772",
+   "license": "Apache-2.0 (adapters of OpenMed/privacy-filter-mlx-8bit)",
+   "files": {
+    "adapters.safetensors": {
+     "size": 4293292,
+     "sha256": "4cdb87186ef60e3c058ffff91d0c2ddb46f6e420817451ce56829f2f4299b110",
+     "derived_by": "tools/finetune_pf.py train"
+    },
+    "config.json": {
+     "size": 3944,
+     "sha256": "9ea54fe4ed0ae22cb2448b09c1e3bd4aace210480285b691df51eeaba2f87f4d",
+     "derived_by": "tools/finetune_pf.py train"
+    }
+   }
+  }
+ }
+}

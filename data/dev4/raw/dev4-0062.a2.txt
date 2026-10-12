@@ -1,0 +1,127 @@
+SUNRISE PEDIATRIC THERAPY CLINIC (EMPLOYER)
+[[EMPLOYER|Sunrise Pediatric Therapy Clinic]]
+214 Birchwood Lane, Suite 3, [[PLACE|Maple Grove]], NC [[PLACE|27591]]
+Phone: [[PHONE|919-555-0148]] | Fax: [[PHONE|919-555-0149]]
+
+SPEECH-LANGUAGE EVALUATION REPORT
+
+Child's Name: [[CHILD|Mateo Alejandro Flores Nuñez]] ("[[CHILD|Teo]]")
+Date of Birth: [[DATE|February 14, 2022]]
+Chronological Age at Evaluation: [[KEEP|4;2]]
+Evaluation Dates: [[DATE|April 9, 2026]] and [[DATE|April 16, 2026]]
+Report Date: [[DATE|April 22, 2026]]
+Record Number: [[ID|SP-20394]]
+Medicaid ID: [[MEDICAID_ID|503218764A]]
+County of Residence: [[PLACE|Piedmont County]]
+
+Parents/Guardians: [[PARENT|Lucía Rodríguez Flores]] (mother), [[PARENT|Carlos Flores Medina]] (father)
+Home Address: [[PLACE|214 Birchwood Lane]], [[PLACE|Maple Grove]], NC [[PLACE|27591]]
+Home Phone: [[PHONE|919-555-0172]]
+Mother's Email: [[EMAIL|lucia.rflores88@mailbasket.com]]
+
+Referring Pediatrician: [[PROVIDER|Dr. Angela Stewart]], [[HOSPITAL|Carolina Pines Medical Center]] Pediatrics
+Evaluating Clinician: [[PROVIDER|Jennifer Marsh]], M.S., CCC-SLP
+Spanish Language Interpreter: [[PROVIDER|Patricia Núñez]], Certified Medical Interpreter
+Service Coordinator: [[PROVIDER|Brenda Hall]], [[AGENCY|Piedmont County Children's Developmental Services Agency]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] ("[[CHILD|Teo]]") is a [[KEEP|4;2]]-year-old bilingual (Spanish/English) boy referred for a comprehensive speech-language evaluation by [[PROVIDER|Dr. Angela Stewart]] following a well-child visit in which his parents, [[PARENT|Lucía Rodríguez Flores]] and [[PARENT|Carlos Flores Medina]], raised concerns about unclear speech, limited expressive vocabulary in both languages, and difficulty being understood by unfamiliar listeners, including his teachers at [[DAYCARE|Little Sprouts Daycare]]. This evaluation was completed with the assistance of interpreter [[PROVIDER|Patricia Núñez]] to support full participation of both parents, whose primary language is Spanish. [[CHILD|Teo]] is currently enrolled in the Infant-Toddler Program through [[AGENCY|Piedmont County Children's Developmental Services Agency]] and receives occupational therapy services; this evaluation was requested to determine eligibility for speech-language services under his Individualized Family Service Plan (IFSP), with a review scheduled for [[DATE|May 1, 2026]].
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Teo]] was born at [[KEEP|38]] weeks gestation at [[HOSPITAL|Carolina Pines Medical Center]] via uncomplicated vaginal delivery. Birth weight was [[KEEP|6 lbs 9 oz]], and Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes, respectively. [[PARENT|Lucía Rodríguez Flores]] reported an uneventful pregnancy with routine prenatal care. [[CHILD|Teo]] experienced three episodes of otitis media between [[KEEP|8 months]] and [[KEEP|18 months]] of age, treated with antibiotics; a pressure-equalizing tube placement was recommended by his pediatrician but was not ultimately pursued after a follow-up hearing screening at [[KEEP|22 months]] returned within normal limits. He has no history of seizures, significant illness, or hospitalization beyond birth. Gross and fine motor milestones were reported as age-appropriate, though occupational therapy was initiated at [[KEEP|30 months]] to address mild fine motor delays and sensory sensitivities, provided by [[PROVIDER|Megan Price]], OTR/L. A physical therapy consultation with [[PROVIDER|David Chen]], PT, DPT, at [[KEEP|3 years]] of age ruled out any gross motor concerns, and [[CHILD|Teo]] was discharged from physical therapy services after two sessions.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Teo]] lives at home with his parents, [[PARENT|Lucía Rodríguez Flores]] and [[PARENT|Carlos Flores Medina]], and his older sister, [[SIBLING|Valentina Flores]], age [[KEEP|7]]. The family reports that Spanish is the primary language spoken in the home, with English introduced through [[DAYCARE|Little Sprouts Daycare]] and extended family interactions. [[PARENT|Lucía Rodríguez Flores]] works part-time at [[ORG|Carver Textile Mills]], and [[PARENT|Carlos Flores Medina]] works full-time as a delivery driver. The family's regular childcare support includes [[FAMILY|Rosa Guzmán]], a family friend who provides after-school babysitting several days per week, and frequent visits from [[CHILD|Teo]]'s cousins, [[FAMILY|Diego Ramírez]] and [[FAMILY|Sofía Ramírez]], who live nearby and speak primarily Spanish. [[PARENT|Lucía Rodríguez Flores]] reported that [[CHILD|Teo]] is very attached to the family dog, [[PET|Rocky]], and frequently narrates the dog's activities during play.
+
+Developmental language milestones were reported as mildly delayed: first words around [[KEEP|16 months]], two-word combinations around [[KEEP|28 months]]. Both parents denied any family history of speech, language, or learning disorders, though [[PARENT|Carlos Flores Medina]] noted that he himself was a "late talker" as a child. [[PARENT|Lucía Rodríguez Flores]] reported that unfamiliar adults and even some family members, including [[FAMILY|Rosa Guzmán]], frequently ask [[CHILD|Teo]] to repeat himself. At [[DAYCARE|Little Sprouts Daycare]], his primary teacher, Ms. [[TEACHER|Hannah Lopez]], and the assistant teacher, Mr. [[TEACHER|Dawson]], both report that [[CHILD|Teo]] is social and well-liked by peers but is sometimes left out of pretend play with classmates [[PEER|Ethan]] and [[PEER|Ava]] because they struggle to understand his requests.
+
+During the session, [[CHILD|Teo]] pointed to a photograph of his dog and said, "[[PET|Rocky]] run," reducing the final consonants in both words, consistent with phonological process patterns noted below.
+
+ASSESSMENT PROCEDURES
+
+The following standardized and informal measures were administered across two sessions, in both English and Spanish as appropriate, with interpretation support from [[PROVIDER|Patricia Núñez]]:
+
+- [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], English and Spanish editions
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]
+- [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF-P3)]]
+- [[KEEP|Bilingual English-Spanish Assessment (BESA)]], Phonology subtest
+- Oral-motor examination
+- Language sample analysis (spontaneous speech, both languages)
+- Parent interview and classroom observation at [[DAYCARE|Little Sprouts Daycare]]
+
+TEST RESULTS
+
+Test/Subtest	Standard Score	Percentile	Confidence Interval	Date Administered
+[[KEEP|PLS-5 Auditory Comprehension]]	[[KEEP|76]]	[[KEEP|5th]]	[[KEEP|70-82]]	[[DATE|April 9, 2026]]
+[[KEEP|PLS-5 Expressive Communication]]	[[KEEP|71]]	[[KEEP|3rd]]	[[KEEP|65-77]]	[[DATE|April 9, 2026]]
+[[KEEP|PLS-5 Total Language Score]]	[[KEEP|72]]	[[KEEP|3rd]]	[[KEEP|67-77]]	[[DATE|April 9, 2026]]
+[[KEEP|CELF-P3 Core Language Score]]	[[KEEP|74]]	[[KEEP|4th]]	[[KEEP|69-79]]	[[DATE|April 16, 2026]]
+[[KEEP|GFTA-3 Standard Score]]	[[KEEP|68]]	[[KEEP|2nd]]	[[KEEP|62-74]]	[[DATE|April 16, 2026]]
+[[KEEP|BESA Phonology Score]]	[[KEEP|70]]	[[KEEP|2nd]]	[[KEEP|63-77]]	[[DATE|April 16, 2026]]
+
+Age equivalent scores on the [[KEEP|PLS-5]] placed [[CHILD|Teo]]'s receptive language skills at approximately [[KEEP|2;6–3;0]] and expressive language skills at approximately [[KEEP|2;3–2;9]], representing a significant delay relative to his chronological age of [[KEEP|4;2]].
+
+ARTICULATION AND PHONOLOGY
+
+Oral-motor examination revealed adequate structure and function of the oral mechanism, with mild reduced diadochokinetic rate noted. Connected speech intelligibility was estimated at approximately [[KEEP|40%]] for unfamiliar listeners and [[KEEP|65%]] for familiar listeners, including his parents and teachers.
+
+Phonological process analysis identified consistent patterns of final consonant deletion (e.g., "[[KEEP|ca]]" for target "[[KEEP|cat]]"), cluster reduction (e.g., "[[KEEP|poon]]" for target "[[KEEP|spoon]]"), and fronting of velar sounds (e.g., substitution of [[KEEP|/t/]] for [[KEEP|/k/]], as in "[[KEEP|tootie]]" for target "[[KEEP|cookie]]"). Gliding of liquids was also noted, with [[KEEP|[w]]] substituted for [[KEEP|/ɾ/]] in Spanish productions, such as "[[KEEP|cawo]]" for target "[[KEEP|carro]]." These patterns were consistent across both English and Spanish samples, supporting a diagnosis of a primary speech sound disorder rather than a feature of typical bilingual phonological development.
+
+During structured probes, [[CHILD|Teo]] produced target words with [[KEEP|8/10]] accuracy ([[KEEP|80%]]) when given moderate cueing ([[KEEP|mod cues]]) for single syllable CV and CVC words, but accuracy dropped to [[KEEP|3 of 10]] ([[KEEP|30%]]) for multisyllabic words without support. With maximal cueing ([[KEEP|max cues]]), accuracy on multisyllabic targets improved to [[KEEP|7/10]] ([[KEEP|70%]]).
+
+LANGUAGE SAMPLE
+
+A 50-utterance spontaneous language sample was collected in both English and Spanish during structured play. Mean length of utterance was [[KEEP|2.8]] morphemes in English and [[KEEP|3.1]] morphemes in Spanish, both below expected ranges for his age. [[CHILD|Teo]] relied heavily on gesture and single-word utterances to communicate needs, and was coded using SALT conventions where overgeneralized word forms were marked [[KEEP|[EW]]]. He demonstrated emerging use of early semantic relations (agent + action, e.g., "[[CHILD|Teo]] go") but limited use of grammatical morphemes, including plural -s, past tense -ed, and copula "is/está."
+
+IMPRESSIONS
+
+Based on standardized testing, parent and teacher report, and clinical observation, [[CHILD|Teo]] presents with a mixed receptive-expressive language disorder and a moderate speech sound disorder affecting intelligibility in both English and Spanish. His difficulties are consistent across both languages, confirming a primary disorder rather than second-language acquisition variability. This is consistent with a diagnosis of [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder). His reduced intelligibility, phonological process patterns, and delayed grammatical development are significantly impacting his functional communication at home, at [[DAYCARE|Little Sprouts Daycare]], and in social interactions with peers such as [[PEER|Ethan]] and [[PEER|Ava]].
+
+[[CHILD|Teo]] qualifies for speech-language services under North Carolina's Infant-Toddler Program eligibility criteria based on a delay of 25% or greater in two developmental domains. His current OT services with [[PROVIDER|Megan Price]] should continue concurrently, as sensory and fine motor factors may be contributing to feeding and oral-motor coordination patterns relevant to speech production.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Teo]] is recommended for individual speech-language therapy twice weekly, targeting phonological awareness, articulation accuracy, and expressive/receptive language in both English and Spanish, using a bilingual service delivery model.
+
+2. Recommended therapy approaches include [[KEEP|Cycles]] phonological approach for the targeted phonological processes, and principles from [[KEEP|Hanen]] "It Takes Two to Talk" to support caregiver-implemented language strategies at home. A trial of [[KEEP|PROMPT]] tactile-kinesthetic cueing may also be considered given the oral-motor component of his presentation.
+
+3. Billing for individual treatment sessions should use CPT code [[KEEP|92507]] (treatment of speech, language, voice, communication, and/or auditory processing disorder, individual). Sessions incorporating evaluation of swallowing or oral-motor function may additionally use CPT code [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression).
+
+4. Continued coordination with [[PROVIDER|Megan Price]] (occupational therapy), [[PROVIDER|Dr. Angela Stewart]] (pediatrician), and service coordinator [[PROVIDER|Brenda Hall]] is recommended to support an integrated IFSP, with the next formal review scheduled for [[DATE|May 1, 2026]].
+
+5. Parent coaching sessions with [[PARENT|Lucía Rodríguez Flores]] and [[PARENT|Carlos Flores Medina]] are recommended monthly to reinforce home carryover strategies, with interpreter [[PROVIDER|Patricia Núñez]] present as needed.
+
+6. A hearing re-screening is recommended given his history of recurrent otitis media, to rule out any fluctuating conductive component contributing to his language delay.
+
+PROPOSED SESSION SCHEDULE
+
+Day	Start Time	End Time	Location
+Monday	[[TIME|9:30 AM]]	[[TIME|10:15 AM]]	[[EMPLOYER|Sunrise Pediatric Therapy Clinic]], Room 2
+Wednesday	[[TIME|2:00 PM]]	[[TIME|2:45 PM]]	[[DAYCARE|Little Sprouts Daycare]], [[PLACE|Maple Grove]]
+Friday	[[TIME|9:30 AM]]	[[TIME|10:15 AM]]	[[EMPLOYER|Sunrise Pediatric Therapy Clinic]], Room 2
+
+CARE TEAM CONTACTS
+
+Name	Role	Phone	Email
+[[PROVIDER|Jennifer Marsh]], M.S., CCC-SLP	Speech-Language Pathologist	[[PHONE|919-555-0148]]	[[EMAIL|jmarsh@sunrisepedtherapy.com]]
+[[PROVIDER|Megan Price]], OTR/L	Occupational Therapist	[[PHONE|919-555-0163]]	[[EMAIL|mprice@sunrisepedtherapy.com]]
+[[PROVIDER|David Chen]], PT, DPT	Physical Therapist	[[PHONE|919-555-0190]]	[[EMAIL|dchen@carolinapinespt.com]]
+[[PROVIDER|Dr. Angela Stewart]]	Pediatrician	[[PHONE|919-555-0211]]	[[EMAIL|astewart@carolinapinesmc.com]]
+[[PROVIDER|Brenda Hall]]	Service Coordinator	[[PHONE|919-555-0237]]	[[EMAIL|bhall@piedmontcdsa.gov]]
+[[PROVIDER|Patricia Núñez]]	Interpreter	[[PHONE|919-555-0254]]	[[EMAIL|pnunez@interpretlink.com]]
+
+TRANSITION AND SCHOOL PLANNING
+
+As [[CHILD|Teo]] approaches kindergarten eligibility, the family has indicated interest in enrolling him at [[SCHOOL|Maple Grove Elementary School]] for the [[DATE|2027]]–2028 school year. It is recommended that a transition meeting be held approximately six months prior to his anticipated start date, including [[PARENT|Lucía Rodríguez Flores]], [[PARENT|Carlos Flores Medina]], [[PROVIDER|Brenda Hall]], and school-based speech-language staff, to ensure continuity of services and appropriate evaluation for school-based eligibility under IDEA criteria. Given his sister [[SIBLING|Valentina Flores]]'s positive experience at the same school, the family is hopeful that a similar support structure can be established for [[CHILD|Teo]].
+
+SUMMARY
+
+[[CHILD|Mateo Alejandro Flores Nuñez]] presents with a mixed receptive-expressive language disorder and moderate speech sound disorder impacting intelligibility and functional communication across English and Spanish. Services are recommended twice weekly at [[KEEP|92507]]/[[KEEP|92523]] billing codes, with continued interdisciplinary coordination among [[PROVIDER|Jennifer Marsh]], [[PROVIDER|Megan Price]], [[PROVIDER|David Chen]], [[PROVIDER|Dr. Angela Stewart]], and [[AGENCY|Piedmont County Children's Developmental Services Agency]]. Caregiver involvement, including with [[PARENT|Lucía Rodríguez Flores]], [[PARENT|Carlos Flores Medina]], and extended support from [[FAMILY|Rosa Guzmán]], will be essential to generalization of skills across home, daycare, and community settings.
+
+Report prepared by:
+[[PROVIDER|Jennifer Marsh]], M.S., CCC-SLP
+[[EMPLOYER|Sunrise Pediatric Therapy Clinic]]
+Date: [[DATE|April 22, 2026]]

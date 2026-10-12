@@ -1,0 +1,38 @@
+NOTA DE SESIÓN DIARIA / Daily Session Note
+
+Client: [[CHILD|Jesús "Chuy" Alvarado]]
+DOB: [[DATE|April 8, 2021]]  Age: [[KEEP|4;6]]
+Medicaid ID: [[MEDICAID_ID|NC4487213B]]
+Case ID: [[ID|CDSA-00982]]
+Date of service: [[DATE|October 9, 2026]]  Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+CPT: [[KEEP|92507]]  ICD-10: [[KEEP|F80.1]]
+
+S (Subjetivo): Mamá [[PARENT|María Alvarado]] reports [[CHILD|Chuy]] had a good week. "Está diciendo más palabras en casa," she said. Papá [[PARENT|Pedro Alvarado]] stayed ten minutes before returning to work at [[ORG|Triangle Poultry Processing]]. La niñera, [[FAMILY|Guadalupe "Lupita" Hernández]], also attended. Hermanita [[SIBLING|Paz]] sat quietly while the family's dog, [[PET|Rocky]], barked at the door. Maestra [[TEACHER|Ms. Lopez]] at [[DAYCARE|Sunshine Bilingual Daycare]] noted [[CHILD|Chuy]] said "no" less during circle time with his friend [[PEER|Pepe Ramírez]].
+
+O (Objetivo): Administered [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]] subtests.
+
+Subtest	Standard Score	Percentile
+[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]
+[[KEEP|Expressive Communication]]	[[KEEP|81]]	[[KEEP|10th]]
+[[KEEP|Total Language Score]]	[[KEEP|79]]	[[KEEP|8th]]
+
+[[CHILD|Chuy]] produced "[[KEEP|pato]]" as [[KEEP|/pato/]] with [[KEEP|min cues]] and approximated "[[KEEP|casa]]" at [[KEEP|8/10]] trials.
+
+A (Análisis): Comprehension remains [[KEEP|below average]] ([[KEEP|73-83]] CI). Responds well to [[KEEP|PROMPT]] cueing.
+
+P (Plan): Continue weekly sessions. Discussed IFSP [[KEEP|Outcome 2]] with service coordinator [[PROVIDER|Ana Gutiérrez]] from la [[AGENCY|Agencia de Coordinación de Servicios Tempranos del Condado de Wake]] ([[AGENCY|ACSTW]]), who coordinates with el [[AGENCY|Centro de Desarrollo y Servicios para la Niñez del Piamonte Central]] ([[AGENCY|CDSA Piamonte]]).
+
+Contactos:
+Name	Role	Phone
+[[PARENT|María Alvarado]]	Madre	[[PHONE|(919) 555-0148]]
+[[PROVIDER|Ana Gutiérrez]]	Service Coordinator	[[PHONE|(919) 555-0212]]
+[[PROVIDER|Laura Jiménez, CCC-SLP]]	SLP	[[PHONE|(984) 555-0391]]
+
+Horario de servicio:
+Day	Time	Location
+Thursday	[[TIME|2:30 PM]]	Home, [[PLACE|412 Birchwood Lane, Cary, NC 27511]]
+Monday	[[TIME|10:00 AM]]	[[DAYCARE|Sunshine Bilingual Daycare]]
+
+Session conducted by [[PROVIDER|Laura Jiménez, CCC-SLP]] of [[EMPLOYER|Carolina Bilingual Speech & Language Therapy Services, PLLC]] ([[EMPLOYER|Carolina Bilingual Speech]], [[EMPLOYER|CBSLT]]). Email: [[EMAIL|ljimenez@carolinabilingualspeech.com]].
+
+Next IFSP review: [[DATE|January 15, 2027]].

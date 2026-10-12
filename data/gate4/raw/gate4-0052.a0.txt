@@ -1,0 +1,77 @@
+Document: [[AGENCY|NC Infant-Toddler Program]] IFSP Review  Record status: Fictional training document  Review date: [[DATE|October 8, 2026]]  Meeting format: Home visit with telephone participation
+
+Child: [[CHILD|Elian Mercado Vela]]  Preferred name: [[CHILD|Eli]]  Birth date: [[DATE|April 12, 2024]]  Age at review: [[KEEP|29 months]]  NC ITP child ID: [[ID|NCITP-6042817]]  Record number: [[ID|IFSP-26-093184]]
+
+Parent: [[PARENT|Marisol Vela]]  Parent: [[PARENT|Andrés Mercado]]  Sibling: [[SIBLING|Nora Mercado Vela]]  Household language: Spanish and English  Mailing address: [[PLACE|418 Willow Lantern Drive]], [[PLACE|Alder Cove]], North Carolina [[PLACE|27500]]  County: [[PLACE|Briarfen County]]
+
+Primary telephone: [[PHONE|919-555-0148]]  Alternate telephone: [[PHONE|984-555-0172]]  Parent email: [[EMAIL|marisol.vela@example.invalid]]  Medicaid ID: [[MEDICAID_ID|804731926Q]]  Insurance member ID: [[ID|FCP-782640193]]  Authorization number: [[ID|AUTH-ST-261008-4421]]
+
+Service coordinator: [[PROVIDER|M.R.]]  CDSA office: [[AGENCY|Briarfen Children’s Developmental Services Agency]]  Office telephone: [[PHONE|919-555-0116]]  Coordinator email: [[EMAIL|mr.coordination@example.invalid]]  Review participants: Both parents, the service coordinator, and the treating clinician participated.
+
+Clinician: [[PROVIDER|Camila Ríos Bennett]], bilingual pediatric speech-language pathologist  Employer: [[EMPLOYER|Little Lantern Pediatric Communication Services]]  Clinician telephone: [[PHONE|919-555-0183]]  Clinician email: [[EMAIL|crb.speech@example.invalid]]  Documentation language: English  Family discussion language: Spanish, with English summaries when requested.
+
+Family information: The family rents a ground-floor apartment and shares childcare with grandmother doña [[FAMILY|Lupe]].  Parent employment: [[PARENT|Marisol Vela]] works at [[ORG|Moonbranch Packaging Cooperative]]. [[PARENT|Andrés Mercado]] works at [[ORG|Alder Lantern Bicycle Works]]. Their rotating shifts affect appointment availability.
+
+Family voice: “We want [[CHILD|Eli]] to tell us what he needs before he gets upset. Spanish matters because our family uses it every day. We also want him to understand the words at childcare. Please show us things we can use while we cook and get ready.”
+
+Family priorities: “First, help with asking for food, help, and another turn. Second, help him join play without grabbing. Third, help us understand what he says. We do not want practice to become another argument. We need a small plan that everyone can remember.”
+
+Family strengths: Both parents notice communication attempts and respond warmly. Grandmother uses familiar songs and predictable household routines. The sibling enjoys pretend cooking and brings materials within reach. The family has stable transportation and prefers home visits, where the clinician can observe communication during ordinary activities.
+
+Health history: Pregnancy and delivery history are parent-reported. Gestational age was [[KEEP|38 weeks 2 days]]; birth weight was [[KEEP|6 lb 14 oz]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. The family reports no current swallowing concerns, hospital admissions, or loss of previously acquired communication skills.
+
+Medical contacts: Pediatrician Dr. [[PROVIDER|Sonia Bellamy]] practices at [[HOSPITAL|Willow Compass Children’s Hospital]]. A hearing screening on [[DATE|September 15, 2026]] was documented as passed. The coordinator will request the written result. No medical diagnosis is inferred from the family’s description of frustration during communication breakdowns.
+
+Assessment context: Evaluation occurred on [[DATE|September 24, 2026]] in the home. The clinician used caregiver interviews, play observation, language sampling, and [[KEEP|PLS-5 Spanish]]. Results reflect combined language knowledge and the conditions of that visit. The clinician reviewed the test’s interpretation limits with the family.
+
+Assessment results: [[KEEP|Auditory Comprehension]] standard score: [[KEEP|78]]  Confidence interval: [[KEEP|73-83]]  Percentile: [[KEEP|7th percentile]]  Age equivalent: [[KEEP|2;6–3;0]]. [[KEEP|Expressive Communication]] standard score: [[KEEP|74]]  Confidence interval: [[KEEP|69–79]]  Percentile: [[KEEP|4th percentile]]  Age equivalent: [[KEEP|1;9–2;1]]. These estimates support planning alongside observed participation.
+
+Interpretation: The [[KEEP|PLS-5 Spanish]] findings suggest greater difficulty expressing messages than understanding familiar routines. Age equivalents do not describe a developmental ceiling or predict progress. Attention varied with materials and caregiver proximity. The team will judge change through daily participation and repeated samples across both languages.
+
+Communication sample: The child used pointing, reaching, single words, and occasional combinations. Productions included [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"help"]], and [[KEEP|"mama up"]]. He also said “[[PET|Chispa]] run” while watching the family dog. The clinician recorded one word error with the [[KEEP|SALT]] code [[KEEP|[EW]]].
+
+Speech observations: Familiar listeners understood approximately [[KEEP|60%]] of sampled messages when context was available. Productions showed variable use of /p/ and /k/: [[KEEP|/p/]] was more consistent than [[KEEP|/k/]]. One attempt contained [[KEEP|[w]]]. These observations do not establish a separate speech sound diagnosis or justify isolated sound drills.
+
+Morning routine: The family wakes near [[TIME|6:45 a.m.]]. Dressing becomes difficult when adults move quickly. The child can choose between two shirts by pointing but seldom asks for assistance. The family wants to pause before helping and accept a gesture, word, or picture as a meaningful request.
+
+Meals: Breakfast usually begins at [[TIME|7:20 a.m.]]. The child sits with a caregiver and reaches toward preferred foods. Adults sometimes anticipate requests before a message occurs. The family will place a small portion within reach, wait briefly, and model [[KEEP|"more"]], [[KEEP|"más"]], or [[KEEP|"all done"]] without withholding needed food.
+
+Childcare routine: Attendance at [[DAYCARE|Pebble Nest Early Learning House]] occurs on three mornings each week. Teacher Miss [[TEACHER|Ana]] reports that transitions improve with a picture and a familiar song. Classroom aide [[TEACHER|J. Ortiz]] will offer choices during arrival and record brief examples with family consent.
+
+Peer play: Classmates [[PEER|Lina Moss]] and [[PEER|Owen Vale]] often approach the block area. The child watches, then takes materials without a clear request. Adults will model a simple turn request and support shared play. Success means participation with peers, including gesture-based messages, rather than requiring speech before access.
+
+Afternoon routine: Grandmother doña [[FAMILY|Lupe]] provides care after childcare. She reads short picture books and lets the child turn pages. The family prefers books showing food, animals, and household actions. Adults will comment, pause, and follow the child’s interest instead of asking repeated identification questions.
+
+Evening routine: Bath starts around [[TIME|6:30 p.m.]], followed by books and bedtime near [[TIME|8:00 p.m.]]. The sibling [[SIBLING|Nora]] can offer a towel or toy but will not be responsible for practice. Adults will use predictable words and acknowledge requests to stop, continue, or change an activity.
+
+Community participation: Neighbor Mr. [[PERSON|Tom]] sometimes helps carry groceries but does not provide childcare. Outings to the library are easier when the family previews the activity. The child becomes upset when leaving preferred spaces. The team will develop a portable choice board and a brief transition routine.
+
+Other agencies: [[AGENCY|Centro Comunitario de Apoyo Integral para Familias y Desarrollo Infantil del Río Claro (CCAIFDIRC)]] offers bilingual caregiver groups. [[AGENCY|CCAIFDIRC]] currently provides scheduling support only. [[AGENCY|Briarfen Family Nutrition Office]] provides nutrition assistance, and [[AGENCY|Lantern County Smart Start Partnership]] offers books. No agency will receive this review without consent.
+
+Existing supports: The family has a childcare release valid through [[DATE|April 30, 2027]]. The coordinator will confirm its scope before sharing strategies. The family declined an additional transportation referral because current arrangements meet its needs. This choice can be reconsidered if work schedules or access change.
+
+Outcome: [[KEEP|1]]  Family priority: Request help and preferred items during everyday routines  Target date: [[DATE|January 8, 2027]]. During meals, dressing, and play, the child will communicate a request through a word, gesture, sign, or picture in [[KEEP|8/10]] naturally occurring opportunities across two consecutive weekly caregiver records.
+
+Strategies for outcome [[KEEP|1]]: The clinician will demonstrate [[KEEP|routines-based coaching]] and [[KEEP|milieu teaching]] during one selected routine. Caregivers will pause, offer a meaningful choice, and respond to the message. Models may include [[KEEP|"help"]], [[KEEP|"ayuda"]], and [[KEEP|"open"]]. Initial support may include [[KEEP|max cues]], reduced as participation becomes easier.
+
+Progress for outcome [[KEEP|1]]: Current caregiver observations show requests in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. The clinician will check whether adults offer sufficient time and accessible materials. A request counts when the message serves its purpose, regardless of language. Repeated imitation alone will not establish generalization.
+
+Outcome: [[KEEP|2]]  Family priority: Join play with another child  Target date: [[DATE|January 8, 2027]]. During childcare and home play, the child will exchange an item or request a turn in [[KEEP|4/5]] opportunities with [[KEEP|min cues]], across three observed routines documented by a caregiver or classroom staff member.
+
+Strategies for outcome [[KEEP|2]]: Adults will arrange short, enjoyable exchanges using duplicate toys when helpful. [[KEEP|Hanen]]-informed interaction strategies will support waiting, following the child’s lead, and balanced turns. The clinician will model [[KEEP|"my turn"]], [[KEEP|"tu turno"]], and [[KEEP|"again"]]. Adults will accept pointing or offering an object as an entry into play.
+
+Progress for outcome [[KEEP|2]]: The child currently completes exchanges in [[KEEP|2/5]] opportunities with [[KEEP|max cues]]. Staff will note whether noise, crowding, or a preferred object affects participation. Adults will support regulation before prompting. The team will avoid interpreting quiet observation as refusal when the child remains comfortably engaged.
+
+Outcome: [[KEEP|3]]  Family priority: Make daily messages easier to understand  Target date: [[DATE|February 8, 2027]]. During familiar routines, the child will produce or supplement meaningful messages so that a caregiver understands the intended meaning in [[KEEP|80%]] of sampled opportunities, with [[KEEP|mod cues]] or less, across two consecutive samples.
+
+Strategies for outcome [[KEEP|3]]: The clinician will use [[KEEP|focused stimulation]] with useful words selected by the family. Adults will model a clear word, accept an approximation, and add a gesture or picture when needed. [[KEEP|PROMPT]] is not included in the current service plan. Practice will support messages without requiring a specific pronunciation.
+
+Service plan: Speech-language services begin [[DATE|October 15, 2026]] and continue through [[DATE|April 8, 2027]]. Frequency: One visit weekly  Length: Forty-five minutes  Setting: Home and occasional childcare visits  Method: Individual family coaching  Billing reference: [[KEEP|CPT 92507]]  Modifier: [[KEEP|GO]]  Diagnostic reference: [[KEEP|ICD-10 F80.2]].
+
+Coordination plan: Service coordination continues monthly through [[DATE|April 8, 2027]]. The next contact is scheduled for [[DATE|November 5, 2026]] at [[TIME|10:00 a.m.]]. The coordinator will confirm provider availability, hearing documentation, and family satisfaction. Insurance authorization does not replace the IFSP team’s decisions about needed services.
+
+Review method: Caregivers will record brief examples during existing routines. The clinician will review participation, cueing, and caregiver workload monthly. The team will revise strategies when they do not fit daily life. Miss [[TEACHER|Ana]] will provide classroom observations through the coordinator after the family approves the communication method.
+
+Transition planning: The coordinator will discuss preschool options before the child’s third birthday. The family has expressed interest in [[SCHOOL|Willow Lantern Community Preschool]]. This interest does not establish placement or eligibility. Planning will address language access, classroom routines, and information the family wants the receiving team to understand.
+
+Consent and next review: Both parents stated that the priorities reflect their concerns. The clinician explained voluntary participation, record access, and the option to request another meeting. Next review: [[DATE|January 8, 2027]]  Clinician signature: [[PROVIDER|Camila Ríos Bennett]]  Coordinator signature: [[PROVIDER|M.R.]]  Parent signatures: [[PARENT|Marisol Vela]] and [[PARENT|Andrés Mercado]].

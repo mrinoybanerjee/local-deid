@@ -1,0 +1,44 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE
+[X] Synthetic training record; all details fictional
+[X] Preschool  [ ] Home  [ ] Telepractice
+Site: [[DAYCARE|The Velvet Acorn Lantern]]
+Address: [[PLACE|1847 Paperleaf Lane]], [[PLACE|Lunaford]], North Carolina [[PLACE|27900]]
+Service date: [[DATE|October 8, 2026]]
+Start: [[TIME|9:15 AM]]  End: [[TIME|10:00 AM]]
+
+Client: [[CHILD|María José Solano Viedra]]
+DOB: [[DATE|August 8, 2024]]  Age: [[KEEP|26 months]]
+Record: [[ID|SLP-804271]]
+Medicaid: [[MEDICAID_ID|582406193Q]]
+Clinician: [[PROVIDER|Elena Marisol Cueto]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Firefly Bridge Speech Services]]
+CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]
+ICD-10: [[KEEP|F80.2]]
+
+Coordination:
+CDSA office: [[AGENCY|Agencia de Servicios de Desarrollo Infantil de la Cuenca del Río Nublado]]; short form: [[AGENCY|CDSA-RN]].
+Service coordinator: [[PROVIDER|Inés Valcárcel]], with [[AGENCY|Red Comunitaria de Coordinación y Apoyo Temprano para Familias del Condado de Brindle]]; short form: [[AGENCY|RCCAT-Brindle]].
+Office phone: [[PHONE|919-555-0147]]
+Coordinator email: [[EMAIL|ines.valcarcel@rccat-brindle.example]]
+Family resources: [[URL|https://rccat-brindle.example/resources]]
+
+S:
+[X] Parent report  [X] Teacher report  [ ] Interpreter
+Mother [[PARENT|Lucía Viedra]] reported that [[CHILD|María José]] requested snacks more often during the week. Father [[PARENT|Tomás Solano]] described successful turn taking with brother [[SIBLING|Diego Solano Viedra]]. Cousins [[FAMILY|Alma Ríos]] and [[FAMILY|Nicolás Ríos]] visited yesterday. Babysitter [[FAMILY|Rosa Beltrán]] practiced waiting before offering toys. The family pet, [[PET|Miga]], frequently interrupted play. Mother requested strategies that fit meals and cleanup without adding separate homework.
+
+O:
+[X] English  [X] Spanish  [X] Play-based activities
+Teacher Ms. [[TEACHER|Pilar Navas]] supported transition from breakfast. Classmates [[PEER|Noelia Paz]] and [[PEER|Samuel Orta]] joined the pretend kitchen activity. [[CHILD|María José Solano Viedra]] initially watched peers, then approached the table independently. No distress occurred during shared play.
+
+The clinician used [[KEEP|focused stimulation]] and [[KEEP|milieu teaching]]. Requests occurred in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], compared with [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]] during cleanup. Independent requesting reached [[KEEP|60%]]. Productions included [[KEEP|"más pan"]], [[KEEP|"my turn"]], and [[KEEP|"agua"]]. Targets included [[KEEP|"open"]], [[KEEP|"ayuda"]], and [[KEEP|"more"]]. Final consonants remained inconsistent; initial [[KEEP|/k/]] improved after a model. A spontaneous substitution used [[KEEP|[w]]]. The language sample contained [[KEEP|[EW]]] on an omitted article.
+
+Prior evaluation dated [[DATE|September 17, 2026]] documented [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] standard score [[KEEP|82]], percentile [[KEEP|12]], and confidence interval [[KEEP|77–89]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|79]], with age equivalent [[KEEP|1;9]].
+
+A:
+Functional requests increased when adults paused and kept materials visible. Performance varied with attention and task familiarity. Responses across English and Spanish supported continued bilingual intervention. Classroom noise reduced participation near cleanup; a quieter corner restored engagement. Teacher feedback matched the observed benefit of wait time.
+
+P:
+[X] Continue current frequency  [X] Caregiver coaching
+Address IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Practice requests during snacks and shared books using [[KEEP|min cues]]. Teacher and mother demonstrated the pause-and-wait routine. Next session: [[DATE|October 15, 2026]], at [[TIME|9:15 AM]].
+
+Signed: [[PROVIDER|Elena Marisol Cueto]], CCC-SLP.

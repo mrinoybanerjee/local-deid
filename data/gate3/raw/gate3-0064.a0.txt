@@ -1,0 +1,29 @@
+NOTA DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+Cliente: [[CHILD|Nicolás Prado]]  Apodo: [[CHILD|Nico]]  Edad: [[KEEP|4;2]]  Expediente: [[ID|NP-58204]]
+Fecha: [[DATE|3 de marzo de 2025]]  Nacimiento: [[DATE|01/03/2021]]  Medicaid: [[MEDICAID_ID|583027164Q]]
+Profesional: [[PROVIDER|Mariela Solís Vega]], MS, CCC-SLP  Empresa: [[EMPLOYER|Terapia Bilingüe Sendero Claro]]
+Domicilio: [[PLACE|184 Calle Brisa Suave]]  Ciudad: [[PLACE|Valle Cedrino]]  Estado: Carolina del Norte  Código postal: [[PLACE|27863]]
+Teléfono: [[PHONE|919-555-0146]]  Correo: [[EMAIL|mariela@senderoclaro.example]]  Sitio: [[URL|https://senderoclaro.example]]
+Escuela: [[SCHOOL|Escuela Primaria Roble Sereno]]  Guardería: [[DAYCARE|Guardería Nube Pequeña]]
+Hospital: [[HOSPITAL|Hospital Infantil Valle Cedrino]]  Agencia: [[AGENCY|CDSA de Valle Cedrino]]
+
+Empleos maternos actuales y anteriores: tienda [[ORG|Store Willow Basket]], restaurante [[ORG|Restaurant Golden Spoon]], servicio de limpieza [[ORG|Cleaning Service Bright Nest]].
+Empleos paternos actuales y anteriores: planta [[ORG|Plant Amber Thread]], granja [[ORG|Farm Blue Meadow]], empresa constructora [[ORG|Construction Company Silver Beam]].
+
+Horario de sesiones:
+
+Día | Inicio | Fin | Lugar
+Lunes | [[TIME|9:00 a. m.]] | [[TIME|9:30 a. m.]] | [[SCHOOL|Escuela Primaria Roble Sereno]]
+Jueves | [[TIME|2:15 p. m.]] | [[TIME|2:45 p. m.]] | [[EMPLOYER|Terapia Bilingüe Sendero Claro]]
+
+S: Su mamá [[PARENT|Elisa Prado]] informó mejor participación. Su papá [[PARENT|Tomás Prado]] practicó turnos. Su hermana [[SIBLING|Lina Prado]] y su abuela [[FAMILY|Rosa Montalvo]] participaron. La maestra [[TEACHER|Julia Castañeda]] observó peticiones espontáneas con su compañero [[PEER|Samuel Ríos]]. Dijo “[[PET|Milo]] corre”. El conductor [[PERSON|Bruno Ledesma]] confirmó el traslado.
+
+O: Antecedentes: gestación de [[KEEP|39 semanas]], peso de [[KEEP|3,2 kg]], Apgar [[KEEP|8 y 9]]. Evaluación del [[DATE|2025-02-24]]: [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]], equivalente de edad [[KEEP|2;6–3;0]]. Con [[KEEP|Hanen]] y [[KEEP|mod cues]], produjo [[KEEP|/k/]] en [[KEEP|8/10]] ensayos, [[KEEP|80%]]. Dijo [[KEEP|"casa"]] y [[KEEP|"quiero agua"]]. Se registró [[KEEP|[EW]]].
+
+A: Progreso funcional hacia la meta IFSP [[KEEP|2]]. Persisten dificultades para ampliar frases durante juegos nuevos. Respondió mejor después de una pausa y un modelo verbal breve. La atención fue adecuada.
+
+P: Continuar práctica familiar durante meriendas. Revisar el [[DATE|03/10/2025]]. Comparar con el registro de [[DATE|el martes 4 de junio de 2024]]. La pediatra [[PROVIDER|Andrea Vela]] recibirá un borrador.
+
+Facturación: CPT [[KEEP|92507]]  Modificador: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Firma: [[PROVIDER|Mariela Solís Vega]], MS, CCC-SLP

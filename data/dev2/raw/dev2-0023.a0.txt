@@ -1,0 +1,22 @@
+NOTA DE SESION DIARIA - TERAPIA DE HABLA Y LENGUAJE
+
+Fecha de servicio: [[DATE|3 de marzo de 2026]]
+Paciente: [[CHILD|María José Fuentes Alvarado]] ([[CHILD|MJ]])
+Fecha de nacimiento: [[DATE|14/08/2021]]
+Edad: [[KEEP|4;6]]
+ID de caso: [[ID|NC-884215-SP]]
+Numero Medicaid: [[MEDICAID_ID|774213659A]]
+
+Lugar: [[HOSPITAL|Novant Health Charlotte Pediatric ENT and Audiology Clinic]], campus [[HOSPITAL|Novant Health Presbyterian Medical Center]]
+Proveedora: [[PROVIDER|Yesenia Campos]], M.S., CCC-SLP, bilingue espanol-ingles
+Compania: [[EMPLOYER|Carolina Pediatric Speech and Language Therapy, PLLC]], tambien conocida como [[EMPLOYER|Carolina Pediatric Speech]] o [[EMPLOYER|CPSL]]
+
+S: La mama, [[PARENT|Lucia Fuentes Alvarado]], reporta que [[CHILD|María José]] tuvo una semana con mejoras en casa. El hermano mayor, [[SIBLING|Diego]], ayudo a practicar las tarjetas de PECS que se enviaron la semana pasada. La abuela, [[FAMILY|Rosa Alvarado]], cuido a la nina el lunes 2 de marzo mientras la mama fue a trabajar en [[ORG|Compass Group Carolinas]].
+
+O: Sesion de 45 minutos el martes 3 de marzo de 2026 a las [[TIME|2:30 PM]]. Se administro el [[KEEP|CELF-5]], subprueba de [[KEEP|Comprension Auditiva]], puntaje estandar [[KEEP|82]], percentil [[KEEP|12]]. En produccion de habla, [[CHILD|MJ]] logro el fonema [[KEEP|/k/]] en posicion inicial con [[KEEP|mod cues]], 7/10 ensayos correctos. Produjo la palabra meta "casa" como [[KEEP|[tasa]]] en linea base, mejorando a [[KEEP|[kasa]]] con [[KEEP|min cues]] en 6 de 8 intentos. Se uso el enfoque [[KEEP|PROMPT]] para apoyar la secuencia motora oral.
+
+A: [[CHILD|María José]] continua progresando hacia el objetivo 2 del IFSP. La interprete, [[PROVIDER|Carla Nunez]], ayudo a traducir instrucciones para la maestra [[TEACHER|Jennifer Davis]] de la guarderia [[DAYCARE|Sunshine Bilingual Daycare]].
+
+P: Continuar sesiones dos veces por semana. Proxima cita el viernes 6 de marzo de 2026 a las [[TIME|10:00 AM]]. Se coordinara con la coordinadora de servicios de [[AGENCY|Mecklenburg County CDSA]], [[PROVIDER|Pamela Ortiz]], al [[PHONE|(704) 555-8821]].
+
+Firma: [[PROVIDER|Yesenia Campos]], CCC-SLP

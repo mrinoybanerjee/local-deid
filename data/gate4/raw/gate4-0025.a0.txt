@@ -1,0 +1,45 @@
+Document: Daily speech-language therapy note
+Client: [[CHILD|Nicolás Virello]]
+Preferred name: [[CHILD|Nico]]
+DOB: [[DATE|August 9, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Session: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Record: [[ID|SLP-60842]]
+Medicaid: [[MEDICAID_ID|684029173R]]
+Authorization: [[ID|AUTH-260941]]
+Clinician: [[PROVIDER|Marina Velasco]], MS, CCC-SLP, bilingual English/Spanish
+Employer: [[EMPLOYER|Willow Lantern Speech Partners]]
+Location: [[PLACE|418 Fernwheel Lane]], [[PLACE|Bellwick]], North Carolina [[PLACE|27800]]
+County: [[PLACE|Cresswell County]]
+Diagnosis: [[KEEP|F80.2]]
+Service: [[KEEP|92507]]; modifier [[KEEP|GN]]
+Previous evaluation: [[KEEP|92523]], [[DATE|September 18, 2026]]
+School district: [[SCHOOL|Cresswell Valley Schools]]
+School: [[SCHOOL|Fernwheel Elementary School]]
+Classroom: Ms. [[TEACHER|Elena Solvera]]’s preschool classroom
+Preschool: [[DAYCARE|The Copper Acorn Observatory]]
+
+Subjective
+
+[[CHILD|Nicolás]] arrived with his mother, [[PARENT|Adela Virello]], who reported more spontaneous requests during meals. His father, [[PARENT|Tomás Virello]], observed by telephone. Mother prefers calls to [[PHONE|(919) 555-0146]]; father uses [[PHONE|919.555.0183]]. Grandmother [[FAMILY|Rosa Mendaro]] can receive Spanish-language updates at [[PHONE|+52 55 5555 0148]] with documented parental consent.
+
+Mother reported that sister [[SIBLING|Lina Virello]] models short phrases during play. At home, [[CHILD|Nico]] reportedly said, “[[PET|Pepo]] run,” while watching the family dog. Mother also described successful turn-taking with cousin [[FAMILY|Bruno Mendaro]]. No illness or medication change was reported.
+
+Objective
+
+Treatment addressed receptive language, functional requests, and speech clarity through play in English and Spanish. [[CHILD|Nicolás]] followed related two-step directions in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. He identified pictured actions in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. Independent requests occurred in [[KEEP|60%]] of opportunities.
+
+Productions included [[KEEP|"quiero más"]], [[KEEP|"open box"]], and [[KEEP|"me want truck"]]. Targets were [[KEEP|"my turn"]], [[KEEP|"help me"]], and [[KEEP|"put it in"]]. During pretend play, he said, “[[PEER|Ivo]] go,” referring to classmate [[PEER|Ivo Serrano]]. Another classmate, [[PEER|Mila Corven]], participated in a brief supported exchange.
+
+The clinician used [[KEEP|Hanen]] strategies for responsive interaction and selected [[KEEP|PROMPT]] supports with assent. Initial [[KEEP|/k/]] occurred accurately in [[KEEP|70%]] of elicited trials with [[KEEP|max cues]]. A glide substitution, [[KEEP|[w]]], remained evident in connected speech. Spanish [[KEEP|/ɾ/]] was sampled without adding a treatment target. The language sample included [[KEEP|[EW]]] coding for an extraneous word.
+
+Prior [[KEEP|PLS-5]] findings included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These results support the treatment history; bilingual observations remain central to interpretation.
+
+Assessment
+
+[[CHILD|Nicolás]] showed improved participation when adults paused and offered meaningful choices. Performance decreased during rapid transitions. Spanish requests appeared more spontaneous than English requests today. Differences across languages were described without treating bilingual exposure as a deficit. Caregiver coaching focused on recasting, wait time, and accepting either language.
+
+Plan
+
+Continue weekly therapy and address [[KEEP|IFSP outcome 2]]. Send the approved practice sheet to [[EMAIL|adela.virello@example.com]]. Coordinate classroom practice with Ms. [[TEACHER|Solvera]] through [[PHONE|919-555-0162]]. Service coordinator [[PROVIDER|Tessa Orlen]] at [[AGENCY|Cresswell Early Connections CDSA]] will review progress on [[DATE|November 6, 2026]]. Pediatrician Dr. [[PROVIDER|Owen Talver]] at [[HOSPITAL|Bellwick Children’s Pavilion]] remains the referral provider. Mother demonstrated the home routine and agreed to practice during snack and cleanup.

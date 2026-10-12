@@ -1,0 +1,34 @@
+NOTA DIARIA / DAILY SPEECH-LANGUAGE SESSION
+
+Service date: [[DATE|October 8, 2026]]  Start: [[TIME|9:10 AM]]  End: [[TIME|9:55 AM]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+Client: [[CHILD|María José Valdés Pineda]]  Age: [[KEEP|4;2]]
+DOB: [[DATE|August 8, 2022]]  Record: [[ID|SLP-628419]]
+Medicaid: [[MEDICAID_ID|583027164R]]  Authorization: [[ID|AUTH-904718]]
+Address: [[PLACE|427 Lantern Finch Lane]], [[PLACE|Piedraluna]], North Carolina [[PLACE|28764]]
+Clinician: [[PROVIDER|Elena Montes Arce]], MS, CCC-SLP
+Employer: [[EMPLOYER|Luna Puente Pediatric Therapy PLLC]]
+Contact: [[PHONE|(919) 555-0137]]  [[EMAIL|emontes@lunapuente.example.invalid]]
+Website: [[URL|https://lunapuente.example.invalid]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+S / Subjetivo
+[X] Parent present  [ ] New concerns  [X] Spanish preferred
+Mom, [[PARENT|Daniela Pineda Cruz]], reported, “En casa habla más cuando nadie la apura.” Mom works nights at [[ORG|Silver Heron Packaging Cooperative]] as a packing-line technician. Dad, [[PARENT|Tomás Valdés Ríos]], practices during breakfast. Abuela [[FAMILY|Inés Cruz Medina]] supervises afternoons. Brother [[SIBLING|Nicolás Valdés Pineda]] joined the closing activity. Family described better requests but continued frustration cuando cambia la rutina. No pain or illness reported. Sleep was shorter after a family gathering; participation improved with predictable breaks.
+
+O / Objetivo
+[X] Play-based tasks  [X] Caregiver coaching  [X] Bilingual materials
+[[CHILD|María José]] selected kitchen toys and animal pictures. Using [[KEEP|Hanen]] strategies and a visual choice board, she requested [[KEEP|“más agua”]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. She produced [[KEEP|“quiero abrir”]] in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Independent requests reached [[KEEP|60%]]. For [[KEEP|/k/]], accuracy was [[KEEP|70%]] with [[KEEP|max cues]]; substitutions included [[KEEP|[t]]]. The target [[KEEP|“casa”]] became [[KEEP|“tasa”]]. Final consonants remained variable across both languages.
+
+During pretend feeding, [[CHILD|Mari]] said “[[PET|Chispa]] come” while pointing toward the family dog. She then produced [[KEEP|“baby eat”]] without a model. Clinician accepted both languages and expanded meaning without requiring translation. Language-sample annotation included [[KEEP|[EW]]] for an extra word. Shared reading supported pointing, turn taking, and repair after misunderstood messages.
+
+Prior evaluation dated [[DATE|September 17, 2026]] included [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These results provide background only; today's observations were functional probes. Interpretation considered bilingual exposure and caregiver report.
+
+A / Análisis
+[[CHILD|María José Valdés Pineda]] showed stronger initiation when adults waited and offered choices. Performance decreased with rapid questions. Spanish vocabulary supported English participation, especialmente durante juego simbólico. Teacher Ms. [[TEACHER|Rosa Beltrán]] at [[SCHOOL|Willow Kite Preschool]] reported that classmate [[PEER|Alma Serrano]] helps model turn taking. This report was not directly observed. Progress supports continued intervention for functional communication across home and classroom routines.
+
+P / Plan y práctica
+Continue weekly sessions through [[EMPLOYER|Luna Puente Therapy]]; scheduling remains with [[EMPLOYER|LPPT]]. Address IFSP [[KEEP|goal 2]] using snack requests and shared books. Family will model [[KEEP|“ayuda”]] and [[KEEP|“help me”]], then pause. Service coordinator [[PROVIDER|Beatriz Solano]] at [[AGENCY|Piedraluna Early Steps CDSA]] will receive the caregiver-approved summary. Review date: [[DATE|November 5, 2026]].
+
+[X] Caregiver demonstrated strategy  [X] Home practice discussed
+Signature: [[PROVIDER|Elena Montes Arce]], MS, CCC-SLP

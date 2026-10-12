@@ -1,0 +1,83 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN — ANNUAL REVIEW
+Plan de Servicio Familiar Individualizado — Revisión Anual
+
+1. IDENTIFYING INFORMATION / INFORMACIÓN DE IDENTIFICACIÓN
+
+Child's Name: [[CHILD|Mateo Alejandro Reyes Flores]]
+Date of Birth: [[DATE|March 3, 2024]]
+Current Age: [[KEEP|2;7]]
+NC ITP Child ID: [[ID|ITP-00482913]]
+Medicaid ID: [[MEDICAID_ID|9087654321A]]
+Insurance Member ID: [[ID|BCB123456789]]
+Record/Authorization Number: [[ID|AUTH-2026-00457]]
+Home Address: [[PLACE|214 Maple Hollow Drive]], [[PLACE|Burlington]], [[PLACE|27215]]
+County of Residence: [[PLACE|Alamance County]]
+
+Mother/Madre: [[PARENT|Lucía Rodríguez Flores]], employed at [[ORG|Cone Health]]
+Father/Padre: [[PARENT|Carlos Reyes Ibarra]], employed at [[ORG|Honda Aircraft Company]]
+Primary language spoken in home: Spanish; both parents and child are bilingual.
+
+CDSA Office: [[AGENCY|Piedmont Regional CDSA]]
+Service Coordinator: [[PROVIDER|Jennifer Stokes]], phone [[PHONE|(336) 555-0142]]
+
+Report prepared by: [[PROVIDER|Patricia Gómez]], MS, CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Carolina Bilingual Therapy Services]]
+Email: [[EMAIL|patricia.gomez@carolinabilingual.org]]
+Date of this review: [[DATE|October 8, 2026]]
+Initial IFSP date: [[DATE|September 15, 2025]]
+Evaluation date: [[DATE|September 2, 2025]]
+
+2. SERVICE COORDINATION
+
+[[PROVIDER|Jennifer Stokes]], the family's service coordinator through [[AGENCY|Piedmont Regional CDSA]], convened this annual review with [[PARENT|Lucía Rodríguez Flores]] and [[PARENT|Carlos Reyes Ibarra]] on [[DATE|October 8, 2026]] at [[TIME|9:30 AM]]. [[PROVIDER|Patricia Gómez]] conducted the session in Spanish and English per the family's preference, with [[PROVIDER|Jennifer Stokes]] taking notes in English. The family's pediatrician, [[PROVIDER|Dr. Amanda Chen]], and the program's audiologist, [[PROVIDER|Dr. Robert Kim]], were consulted by phone but did not attend in person.
+
+3. FAMILY CONCERNS AND PRIORITIES — PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA
+
+La mamá, [[PARENT|Lucía Rodríguez Flores]], shared: "Lo que más me preocupa es que [[CHILD|Mateo]] no me dice lo que quiere. Él solo señala y hace sonidos, pero no usa palabras como su hermano [[SIBLING|Diego]] a esa edad." She continued in English, "At home he says things like, '[[PET|Rocky]] no' when the dog barks, or he'll point and say '[[SIBLING|Diego]] go' when his brother leaves the room, but he doesn't combine many other words."
+
+[[PARENT|Carlos Reyes Ibarra]] added, "En la guardería dicen que se frustra mucho. Quiero que pueda decirle a su maestra qué necesita, not just cry or grab things."
+
+The family's priorities, in their own words, include: (1) "que hable más para que no se frustre," (2) that [[CHILD|Mateo]] be understood by his grandmother, [[FAMILY|Rosa Martínez]], who provides afternoon childcare, and (3) that services continue in both languages so [[CHILD|Mateo]] does not lose Spanish "porque es la lengua de la familia."
+
+4. PRESENT LEVELS OF DEVELOPMENT
+
+Birth history: [[CHILD|Mateo]] was born at [[KEEP|39 weeks]] gestation via cesarean delivery, birth weight [[KEEP|3,400 grams]], with Apgar scores of [[KEEP|8]] and [[KEEP|9]].
+
+[[CHILD|Mateo]] was assessed using the [[KEEP|Rossetti Infant-Toddler Language Scale]] and the [[KEEP|Preschool Language Scale-5]] ([[KEEP|PLS-5]]), administered bilingually by [[PROVIDER|Patricia Gómez]]. On the [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest, [[CHILD|Mateo]] earned a standard score within [[KEEP|73-83]] (confidence interval), placing him at the [[KEEP|9th percentile]], with an age equivalent of [[KEEP|2;6–3;0]]. Expressive Communication fell lower, with an age equivalent range of [[KEEP|1;8–2;0]].
+
+A diagnosis consistent with [[KEEP|ICD-10]] code [[KEEP|F80.2]] (mixed receptive-expressive language disorder) was confirmed. Articulation sampling showed [[CHILD|Mateo]] produces [[KEEP|/b/]], [[KEEP|/m/]], and [[KEEP|/p/]] consistently, but substitutes [[KEEP|[w]]] for [[KEEP|/ɾ/]] in words like "carro" → "[[KEEP|[kawo]]]." Spontaneous productions sampled during the session included "[[PET|Rocky]] agua" (wanting water for the dog) and "mamá arriba," both coded [[KEEP|[EW]]] for emerging word combinations.
+
+With [[KEEP|mod cues]], [[CHILD|Mateo]] imitated two-word combinations in [[KEEP|8/10]] trials ([[KEEP|80%]] accuracy); without cues, accuracy dropped to [[KEEP|3 of 5]] trials.
+
+5. DAILY ROUTINES / RUTINAS DIARIAS
+
+[[CHILD|Mateo]] wakes around [[TIME|7:00 AM]] and is cared for by his grandmother, [[FAMILY|Rosa Martínez]], until he attends [[DAYCARE|Little Sprouts Early Learning Center]] in the afternoons, where his teacher, [[TEACHER|Ms. Lopez]], reports similar frustration during snack time and circle time. His brother [[SIBLING|Diego]], age 8, plays with him after school and often "translates" his wants to their parents. The family dog, [[PET|Rocky]], is a frequent motivator during play-based routines; [[PARENT|Lucía Rodríguez Flores]] noted [[CHILD|Mateo]] will attempt new words to ask for [[PET|Rocky]]'s leash or food.
+
+6. OTHER AGENCIES INVOLVED
+
+The family receives nutrition support through [[AGENCY|WIC]] and has been connected to [[AGENCY|Alamance County DSS]] for housing assistance. [[CHILD|Mateo]] was previously enrolled in [[AGENCY|Early Head Start]] before transitioning to [[DAYCARE|Little Sprouts Early Learning Center]], and the family participates in parenting workshops through [[AGENCY|Alamance Smart Start]]. [[PROVIDER|Jennifer Stokes]] coordinates information sharing across [[AGENCY|WIC]], [[AGENCY|Alamance County DSS]], and [[AGENCY|Piedmont Regional CDSA]] with the family's written consent.
+
+7. OUTCOMES AND STRATEGIES
+
+Outcome 1: [[CHILD|Mateo]] will use two- to three-word combinations in Spanish and English to request and comment during daily routines, increasing from current baseline to [[KEEP|80%]] accuracy across 3 consecutive sessions.
+Strategy: Use [[KEEP|Hanen]] "It Takes Two to Talk" strategies; family-coached sessions bilingually by [[PROVIDER|Patricia Gómez]]; incorporate [[PET|Rocky]] and [[SIBLING|Diego]] as motivating communication partners.
+
+Outcome 2: [[CHILD|Mateo]] will increase intelligibility of early-developing consonants in both languages, moving from [[KEEP|[w]]] substitutions toward accurate [[KEEP|/ɾ/]] production in at least [[KEEP|8/10]] trials with [[KEEP|min cues]].
+Strategy: [[KEEP|PROMPT]]-informed tactile cueing during snack and play routines; collaboration with [[TEACHER|Ms. Lopez]] at [[DAYCARE|Little Sprouts Early Learning Center]] to reinforce target sounds.
+
+Outcome 3: Family will report increased confidence identifying [[CHILD|Mateo]]'s communication attempts at home and at [[DAYCARE|Little Sprouts Early Learning Center]], as measured by parent interview at next review.
+Strategy: Monthly coaching visits in the home at [[PLACE|214 Maple Hollow Drive]]; written strategies provided in Spanish and English; consultation with grandmother [[FAMILY|Rosa Martínez]] during a portion of each visit.
+
+8. SERVICES AND SERVICE DATES
+
+Speech-language therapy (individual), billed under [[KEEP|CPT 92507]], twice weekly, beginning [[DATE|October 15, 2025]] and continuing through this review.
+Speech-language evaluation services, billed under [[KEEP|CPT 92523]], completed [[DATE|September 2, 2025]].
+Service coordination visits occur quarterly, most recently [[DATE|July 14, 2026]] and next scheduled for [[DATE|January 12, 2027]].
+Provider: [[PROVIDER|Patricia Gómez]], [[EMPLOYER|Carolina Bilingual Therapy Services]], under contract with [[AGENCY|Piedmont Regional CDSA]].
+
+9. SIGNATURES
+
+Parent/Guardian: [[PARENT|Lucía Rodríguez Flores]] ___________________ Date: [[DATE|October 8, 2026]]
+Parent/Guardian: [[PARENT|Carlos Reyes Ibarra]] ___________________ Date: [[DATE|October 8, 2026]]
+Service Coordinator: [[PROVIDER|Jennifer Stokes]] ___________________ Date: [[DATE|October 8, 2026]]
+Speech-Language Pathologist: [[PROVIDER|Patricia Gómez]], MS, CCC-SLP ___________________ Date: [[DATE|October 8, 2026]]

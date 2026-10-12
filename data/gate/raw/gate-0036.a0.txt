@@ -1,0 +1,18 @@
+Daily bilingual SLP note — DOS [[DATE|October 8, 2026]]
+Client: [[CHILD|Nicolás Vega]], alias [[CHILD|Nico]]; age [[KEEP|4;2]].
+Record [[ID|SLP-640281]]; Medicaid [[MEDICAID_ID|482716903Q]].
+Clinician: [[PROVIDER|Elena Prado]], SLP, [[EMPLOYER|Colibrí Speech Services]], North Carolina.
+Location: [[SCHOOL|Juniper Lantern Preschool]], [[PLACE|417 Willowbell Lane]], [[PLACE|Cedar Finch]], [[PLACE|Bellflower County]], [[PLACE|27900]].
+Session: [[TIME|9:05 a.m.]]–[[TIME|9:35 a.m.]]; individual.
+
+S: Familia reports
+Su mamá [[PARENT|Marisol Vega]]: “En casa habla más, pero se frustra cuando no entendemos.” Abuela doña [[FAMILY|Lupe]] attended; interpreter [[PROVIDER|Iván Solís]] supported caregiver discussion. Hermana [[SIBLING|Alina]] reportedly models requests during breakfast at [[TIME|7:30 a.m.]]. Miss [[TEACHER|Ana]] noted quieter participation after arrival. La maestra [[TEACHER|Carmen]] reports improved turn-taking with classmates [[PEER|Damián]] and [[PEER|Lila]]. Family dog [[PET|Chispa]] used as familiar conversation topic. Volunteer Mr. [[PERSON|Tom]] escorted family. No pain reported; caregiver denied recent illness. Caregiver requested Spanish home practice; English classroom targets remain appropriate.
+
+O: Datos
+Play-based language and articulation tasks completed in both languages. Requests: [[KEEP|8/10]] independently; expanded utterances: [[KEEP|6/10]] with [[KEEP|mod cues]]. Followed two-step directions at [[KEEP|70%]] with [[KEEP|min cues]]. Initial [[KEEP|/k/]]: [[KEEP|5/10]]; occasional [[KEEP|[t]]] substitution. Target [[KEEP|"casa"]]: production [[KEEP|"tasa"]]. Target [[KEEP|"quiero agua"]]: production [[KEEP|"quielo agua"]]; SALT notation [[KEEP|[EW]] applied. Shared book supported verb labeling, [[KEEP|7/10]]. Visual schedule effective; two brief movement breaks. Prior [[KEEP|PLS-5 Spanish]] results from [[DATE|September 18, 2026]] reviewed: total language standard score [[KEEP|78]], percentile [[KEEP|7]]. CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]].
+
+A: Impresión
+Mixed receptive-expressive deficits persist across languages. [[CHILD|Nico]] benefits from wait time, visual choices, and familiar routines. Code-switching functional; language choice accepted. Accuracy decreased during rapid naming. Caregiver demonstrated recast strategy with [[KEEP|min cues]]. Progress evident; generalization remains variable.
+
+P: Próximos pasos
+Continue weekly bilingual therapy. Coordinate with OT [[PROVIDER|Marta Cevallos]], PT [[PROVIDER|Owen Brisa]], pediatrician Dr. [[PROVIDER|Sofía Valle]] at [[HOSPITAL|Moonfern Children’s Hospital]], and [[AGENCY|Bellflower CDSA]]. Confirm pickup via [[DAYCARE|Little Comet Daycare]]. Parent’s workplace, [[ORG|Willowkite Printing]], affects scheduling. Home practice: five minutes after dinner at [[TIME|6:45 p.m.]]. Contact [[PHONE|919-555-0146]]; [[EMAIL|mvega@example.invalid]]; resources [[URL|https://colibri.example.invalid/practica]]. Review [[DATE|November 5, 2026]].

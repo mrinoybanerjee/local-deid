@@ -1,0 +1,34 @@
++ Name: [[CHILD|Elías Marín Varela]]
++ CA: [[KEEP|4;2]]
++ Context: Sesión individual de lenguaje en español, con apoyo bilingüe, en [[EMPLOYER|Voces del Laurel Pediatría]], [[PLACE|Villa Cedruna]], Carolina del Norte.
++ Fecha: [[DATE|7 de octubre de 2026]]
++ Inicio: [[TIME|9:10 a. m.]]
++ Fin: [[TIME|9:50 a. m.]]
+
+**Resumen de la sesión**
+
+La patóloga del habla y lenguaje, [[PROVIDER|Natalia Cárdenas Soler]], atendió al niño durante cuarenta minutos. Se confirmó la identidad con su mamá, [[PARENT|Rocío Varela Montes]], y el expediente [[ID|SLP-604827]]. La fecha de nacimiento registrada es [[DATE|7 de agosto de 2022]]. El número de Medicaid ficticio del expediente es [[MEDICAID_ID|684209731Q]]. Se documentó tratamiento individual con CPT [[KEEP|92507]] y diagnóstico ICD-10 [[KEEP|F80.2]].
+
+**S: Información subjetiva**
+
+Su mamá [[PARENT|Rocío]] informó que trabaja de noche como técnica de inventario en [[ORG|Laboratorios Brisa de Ámbar]], desde las [[TIME|10:00 p. m.]] hasta las [[TIME|6:00 a. m.]]. Su papá, [[PARENT|Tomás Marín Rueda]], prepara el desayuno y practica instrucciones antes de salir. La abuela [[FAMILY|Inés Montes Rivas]] recoge al niño de [[DAYCARE|Centro Infantil Nube de Cobre]]. Su hermana [[SIBLING|Alma Marín Varela]] suele responder por él. La familia acordó darle tiempo para contestar.
+
+La maestra [[TEACHER|Mireya Ponce]] de [[SCHOOL|Escuela Preescolar Sendero de Luciérnagas]] reportó que el niño participa más cuando juega con [[PEER|Bruno Cerezo]] y [[PEER|Nadia Ferral]]. En casa, llama a su perro [[PET|Miso]] para mostrarle juguetes. Hoy llegó descansado y aceptó la transición sin llorar.
+
+**O: Observaciones y actividades**
+
+[[CHILD|Elías]] eligió una caja de animales y mantuvo la atención durante bloques de ocho minutos. Siguió instrucciones de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Sin apoyo visual, completó [[KEEP|5/10]]. Identificó acciones en fotografías con [[KEEP|80 %]] de precisión. Produjo frases espontáneas de tres a cuatro palabras durante el juego, incluyendo [[KEEP|"el perro está dormido"]] y [[KEEP|"yo quiero otro carro"]].
+
+Para pedir objetos, utilizó [[KEEP|"dame la pelota"]] después de un modelo verbal. En una muestra breve, produjo [[KEEP|"dos perro [EW]"]]; el código se conservó para revisar la marca plural. La terapeuta modeló [[KEEP|"dos perros"]] sin exigir repetición inmediata. El niño repitió el objetivo en [[KEEP|6/8]] oportunidades con [[KEEP|claves mínimas]].
+
+Se trabajó el fonema [[KEEP|/k/]] en las palabras [[KEEP|"casa"]], [[KEEP|"copa"]] y [[KEEP|"queso"]]. Logró [[KEEP|7/10]] producciones iniciales con apoyo visual y táctil consentido. Se observó sustitución por [[KEEP|[t]]] en habla espontánea. La producción de [[KEEP|[w]]] apareció en una aproximación durante el juego. No se administraron pruebas estandarizadas hoy. Como referencia, la evaluación del [[DATE|18 de septiembre de 2026]] registró [[KEEP|PLS-5 Spanish]], puntuación estándar de lenguaje total [[KEEP|83]] y percentil [[KEEP|13]].
+
+**A: Interpretación clínica**
+
+El niño mostró mejor respuesta cuando recibió modelos breves y opciones concretas. La comprensión disminuyó al retirar las imágenes. Las frases aumentaron durante actividades elegidas por él, pero todavía necesitó apoyo para plurales y secuencias. La participación familiar favoreció la práctica. Los resultados de hoy reflejan desempeño en esta sesión y no constituyen una nueva evaluación. El pediatra [[PROVIDER|Darío Beltrán]] de [[HOSPITAL|Hospital Infantil Prado de Ágata]] mantiene seguimiento del desarrollo.
+
+**P: Plan**
+
+Continuar semanalmente y revisar avances el [[DATE|4 de noviembre de 2026]]. Practicar cinco minutos después de la merienda, a las [[TIME|4:30 p. m.]], usando turnos y espera. La coordinadora [[PROVIDER|Eva Luján]] de [[AGENCY|CDSA del Condado de Valdelirio]] recibirá el resumen cuando exista autorización familiar documentada.
+
+El contacto registrado es [[EMAIL|rocio.varela@example.com]], teléfono [[PHONE|919-555-0146]]. Los materiales están en [[URL|https://voces-laurel.example.org/familias]]. La dirección ficticia es [[PLACE|284 Calle del Zafiro]], [[PLACE|Villa Cedruna]], Carolina del Norte, [[PLACE|27688]]. El conductor [[PERSON|Fabián Trejo]] confirmó la recogida al terminar. La mamá comprendió las recomendaciones y demostró la estrategia de espera.

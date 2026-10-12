@@ -1,0 +1,137 @@
+**PROGRAMA INFANTIL Y DE PÁRVULOS DE CAROLINA DEL NORTE**
+**Plan Individualizado de Servicios para la Familia (IFSP) — Revisión de los 6 meses**
+
+Agencia Local de Coordinación de Entrada: [[AGENCY|Centro de Servicios para el Desarrollo Infantil del Condado de Wake (CDSA de Wake)]]
+Expediente No. [[ID|20-4471]]  |  ID de Medicaid del niño: [[MEDICAID_ID|987654321B]]
+
+**Niño:** [[CHILD|Mateo Fernández de la Cruz]] (apodo "[[CHILD|Teo]]")
+**Fecha de nacimiento:** [[DATE|10 de enero de 2024]] (también escrita [[DATE|01/10/2024]])
+**Lugar de nacimiento:** [[HOSPITAL|Hospital WakeMed Cary]]
+**Domicilio:** [[PLACE|Calle Roble 482]], [[PLACE|Cary]], [[PLACE|Condado de Wake]], NC [[PLACE|27511]]
+
+**Fecha del IFSP inicial:** [[DATE|15 de agosto de 2025]] (escrita también [[DATE|15/08/2025]])
+**Fecha de esta revisión:** [[DATE|3 de marzo de 2026]] (escrita también [[DATE|03-03-2026]])
+**Próxima revisión programada:** [[DATE|el martes 4 de junio de 2026]] (escrita también [[DATE|04/06/2026]])
+
+---
+
+**I. INFORMACIÓN DE LA FAMILIA**
+
+Madre/Guardiana: [[PARENT|Ana María de la Cruz]]
+Padre/Guardián: [[PARENT|Carlos Fernández-Gómez]]
+Idioma del hogar: [X] Español  [ ] Inglés  [X] Ambos
+¿Se necesita intérprete en las reuniones? [X] Sí  [ ] No — intérprete asignada: [[PROVIDER|Patricia Soto]]
+
+Hermanos en el hogar: [[SIBLING|Camila Fernández de la Cruz]], 5 años [[KEEP|4;2]] no aplica aquí; edad de la hermana no se marca como clínica.
+Otros miembros del hogar: [[FAMILY|Rosa Gómez Herrera]] (abuela materna, cuida a [[CHILD|Teo]] tres tardes por semana)
+Mascota de la familia: el perro de la familia, "[[PET|Rex]]", participa en los juegos de [[CHILD|Mateo]] durante la terapia en casa.
+
+Empleo de la madre: [[ORG|Walmart Supercenter de Cary]], turno de tarde.
+Empleo del padre: [[ORG|Compañía Constructora Hermanos Ruiz]].
+
+Coordinadora de Servicios: [[PROVIDER|Sandra Patricia Jiménez Ruiz]], de [[AGENCY|Servicios de Coordinación Familiar e Infantil del Triángulo (SCFIT)]]. Toda comunicación posterior con la coordinadora se hace a través de [[AGENCY|SCFIT]].
+Teléfono de la coordinadora: [[PHONE|(919) 555-0148]]
+Correo de la coordinadora: [[EMAIL|sjimenez@scfit-nc.org]]
+
+Médico pediatra: Dr. [[PROVIDER|Esteban Núñez]]
+Terapeuta ocupacional: [[PROVIDER|Marisol Vega Torres]], contratada a través de la [[AGENCY|Asociación para el Desarrollo Integral del Niño y la Familia (ADINF)]]. Los servicios de terapia física también se facturan a través de [[AGENCY|ADINF]].
+Fisioterapeuta: [[PROVIDER|Brandon Lee]]
+Patóloga del habla y lenguaje que redacta este informe: [[PROVIDER|Katherine Brooks]], M.S., CCC-SLP, de [[EMPLOYER|Servicios Terapéuticos Pediátricos de Carolina del Norte, LLC]].
+Guardería que asiste el niño: [X] Guardería  [ ] Hogar únicamente — [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]]
+
+---
+
+**II. PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en las propias palabras de la familia)**
+
+La madre, [[PARENT|Ana María de la Cruz]], dijo en la reunión: "Nos preocupa que [[CHILD|Teo]] todavía no dice frases completas. Él solo dice una palabra a la vez, como '[[KEEP|agua]]' o '[[KEEP|más]]', y a veces se frustra porque no lo entendemos."
+
+El padre, [[PARENT|Carlos Fernández-Gómez]], añadió: "Queremos que pueda jugar con su hermana [[SIBLING|Camila]] sin pelear tanto, porque ella le quita los juguetes cuando él no puede decir lo que quiere."
+
+La abuela, [[FAMILY|Rosa Gómez Herrera]], comentó a través de la intérprete [[PROVIDER|Patricia Soto]]: "Cuando lo cuido yo, él me señala las cosas, pero no intenta decir las palabras. Me preocupa que dependa demasiado de señalar."
+
+Prioridades identificadas por la familia:
+1. Que [[CHILD|Mateo]] combine dos palabras para pedir cosas.
+2. Que use más consonantes al inicio de las palabras, especialmente [[KEEP|/s/]] y [[KEEP|/r/]].
+3. Que la guardería [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]] reciba estrategias para usar en el salón.
+
+---
+
+**III. RUTINAS DIARIAS Y PARTICIPACIÓN**
+
+Entorno principal del niño:
+[X] Hogar  [X] Guardería  [ ] Otro
+
+Horario típico de un día:
+A las [[TIME|7:00 a.m.]] el niño se despierta y desayuna con la familia. A las [[TIME|8:30 a.m.]] [[PARENT|Ana María de la Cruz]] lo lleva a [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]]. Durante el día participa en actividades de grupo con otros niños, incluyendo su compañero de clase [[PEER|Diego Salazar]] y su amiga [[PEER|Valentina Ríos]]. La maestra, [[TEACHER|Brianna Holt]], reporta que [[CHILD|Mateo]] observa a los otros niños pero rara vez inicia el juego verbalmente.
+
+A las [[TIME|5:00 p.m.]] [[PARENT|Carlos Fernández-Gómez]] lo recoge y la familia cena junta. Los martes y jueves por la tarde, alrededor de las [[TIME|4:00 p.m.]], [[CHILD|Mateo]] recibe la sesión de terapia del habla en casa con [[PROVIDER|Katherine Brooks]].
+
+Comidas: [X] Come solo con cuchara  [ ] Necesita asistencia total  [X] Prefiere alimentos blandos
+Sueño: [X] Duerme toda la noche  [ ] Se despierta con frecuencia
+Juego: [X] Juego independiente  [X] Juego con adultos  [ ] Juego con pares de forma consistente
+Transiciones: [ ] Sin dificultad  [X] Necesita apoyo visual y verbal
+
+---
+
+**IV. OTRAS AGENCIAS Y APOYOS INVOLUCRADOS**
+
+La familia también recibe apoyo de:
+[X] Programa de WIC
+[X] [[AGENCY|Smart Start del Condado de Wake]] (clases de crianza)
+[ ] [[AGENCY|Departamento de Servicios Sociales (DSS)]] — referido pero sin servicios activos todavía
+
+El pediatra, Dr. [[PROVIDER|Esteban Núñez]], confirmó el diagnóstico médico asociado: [[KEEP|F80.1]] (trastorno del desarrollo del habla expresiva), y continúa monitoreando el desarrollo general en las citas de rutina.
+
+Historial de nacimiento relevante para el expediente: [[CHILD|Mateo]] nació con [[KEEP|34 semanas]] de gestación, con un peso al nacer de [[KEEP|2.1 kg]] y puntuación de Apgar de [[KEEP|8/9]].
+
+---
+
+**V. EVALUACIÓN ACTUAL DEL HABLA Y LENGUAJE**
+
+Se administró el [[KEEP|PLS-5]] en español el [[DATE|20 de febrero de 2026]]. Resultados:
+- Subprueba de [[KEEP|Comunicación Auditiva]]: puntuación estándar de [[KEEP|73]], percentil [[KEEP|4]], equivalente de edad de [[KEEP|1;8]].
+- Subprueba de [[KEEP|Comunicación Expresiva]]: puntuación estándar de [[KEEP|68]], percentil [[KEEP|2]].
+- Intervalo de confianza del 95%: [[KEEP|65-75]].
+
+Durante la muestra de lenguaje espontáneo, [[CHILD|Mateo]] produjo la palabra meta "[[KEEP|pelota]]" como [[KEEP|[peo]]], omitiendo la consonante final. En [[KEEP|3 de 10]] intentos produjo el sonido [[KEEP|/s/]] correctamente en posición inicial, equivalente al [[KEEP|30%]] de precisión. Con [[KEEP|claves moderadas]], logró combinar dos palabras en [[KEEP|25%]] de las oportunidades durante la sesión.
+
+Se recomienda continuar monitoreando el progreso usando el [[KEEP|CELF Preschool-2]] en la próxima evaluación formal, prevista cuando el niño alcance la edad de [[KEEP|2;6]].
+
+---
+
+**VI. RESULTADOS DEL IFSP Y ESTRATEGIAS**
+
+**[[KEEP|Resultado 1]]:** [[CHILD|Mateo]] combinará dos palabras para pedir objetos y acciones en el hogar y en la guardería.
+Estrategia: Se usará el enfoque [[KEEP|Hanen]] con la familia para modelar combinaciones de dos palabras durante las rutinas de comida y juego. [[PROVIDER|Katherine Brooks]] capacitará a [[PARENT|Ana María de la Cruz]] y a [[FAMILY|Rosa Gómez Herrera]] en técnicas de expansión verbal.
+
+**[[KEEP|Resultado 2]]:** [[CHILD|Mateo]] producirá los sonidos [[KEEP|/s/]] y [[KEEP|/r/]] en posición inicial con precisión de al menos [[KEEP|80%]] en palabras de una sílaba.
+Estrategia: Se integrará el enfoque [[KEEP|PROMPT]] en las sesiones directas, con práctica motora de los sonidos meta. La guardería [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]] recibirá una hoja de estrategias para reforzar la producción durante el círculo de canciones.
+
+**[[KEEP|Resultado 3]]:** [[CHILD|Mateo]] iniciará interacciones de juego con pares, incluyendo su compañera [[PEER|Valentina Ríos]], usando al menos una palabra o gesto comunicativo.
+Estrategia: La terapeuta ocupacional [[PROVIDER|Marisol Vega Torres]] y el fisioterapeuta [[PROVIDER|Brandon Lee]] coordinarán actividades sensoriomotoras de grupo para aumentar las oportunidades de interacción social dentro del salón de la maestra [[TEACHER|Brianna Holt]].
+
+---
+
+**VII. SERVICIOS Y FRECUENCIA**
+
+Terapia del habla y lenguaje: 2 sesiones por semana de 45 minutos, en el hogar, código de facturación [[KEEP|92507]].
+Terapia ocupacional: 1 sesión por semana de 30 minutos, a través de [[AGENCY|ADINF]].
+Fisioterapia: 1 sesión cada dos semanas, en la guardería.
+Coordinación de servicios: contacto mensual por parte de [[PROVIDER|Sandra Patricia Jiménez Ruiz]], de [[AGENCY|SCFIT]].
+
+Fecha de inicio de los servicios actuales: [[DATE|1 de septiembre de 2025]] (escrita también [[DATE|09/01/2025]]).
+Fecha de la próxima reunión de equipo: [[DATE|el jueves 14 de mayo de 2026]].
+
+---
+
+**VIII. CONSENTIMIENTO Y FIRMAS**
+
+Entiendo y acepto el plan descrito en este documento. Se me explicaron mis derechos bajo las políticas del [[AGENCY|CDSA de Wake]] con la ayuda de la intérprete [[PROVIDER|Patricia Soto]].
+
+Firma de la madre: [[PARENT|Ana María de la Cruz]] ___________________ Fecha: [[DATE|3 de marzo de 2026]]
+Firma del padre: [[PARENT|Carlos Fernández-Gómez]] ___________________ Fecha: [[DATE|3 de marzo de 2026]]
+Firma de la coordinadora de servicios: [[PROVIDER|Sandra Patricia Jiménez Ruiz]] ___________________ Fecha: [[DATE|3 de marzo de 2026]]
+Firma de la patóloga del habla y lenguaje: [[PROVIDER|Katherine Brooks]], CCC-SLP ___________________ Fecha: [[DATE|3 de marzo de 2026]]
+
+Correo de contacto de la clínica: [[EMAIL|kbrooks@stp-nc.com]]
+Teléfono de la clínica: [[PHONE|(919) 555-0177]]

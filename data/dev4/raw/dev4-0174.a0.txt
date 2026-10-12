@@ -1,0 +1,27 @@
++ Nombre: [[CHILD|Mateo Alejandro Cruz Hernández]]
++ EC: [[KEEP|4;2]]
++ Contexto: Nota de sesión diaria de terapia de habla y lenguaje, enfoque en fonología y lenguaje expresivo, en el hogar y en clínica.
+
+Resumen:
+
+El [[DATE|6 de octubre de 2026]], a las [[TIME|3:30 p.m.]], [[CHILD|Mateo]] recibió su sesión semanal de terapia de habla con la [[PROVIDER|Dra. Patricia Gómez-Reyes, CCC-SLP]], patóloga del habla y lenguaje bilingüe de [[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]]. La sesión tuvo lugar en el domicilio de la familia en [[PLACE|214 Willow Bend Lane]], [[PLACE|Cary]], Carolina del Norte [[PLACE|27511]]. Antes de la sesión, [[CHILD|Mateo]] fue evaluado en el [[HOSPITAL|UNC Health – UNC Children's Hospital, Campus Chapel Hill]] en el área de otorrinolaringología y audiología pediátrica, donde el Dr. [[PROVIDER|Samuel Ortiz]] confirmó audición normal bilateral. [[CHILD|Mateo]] nació prematuro y pasó tres semanas en la [[HOSPITAL|NICU del WakeMed Children's Hospital, Campus Raleigh]]; su peso al nacer fue de [[KEEP|1,800 gramos]] y su [[KEEP|Apgar]] fue de [[KEEP|7/9]].
+
+Horario de sesiones de esta semana:
+
+| Día | Hora inicio | Hora fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Little Sprouts Daycare]], [[PLACE|Cary]] |
+| Miércoles | [[TIME|3:30 p.m.]] | [[TIME|4:15 p.m.]] | domicilio, [[PLACE|Cary]] |
+| Viernes | [[TIME|10:00 a.m.]] | [[TIME|10:45 a.m.]] | [[HOSPITAL|Triangle Pediatric Clinic]], consultorio |
+
+Durante la sesión, trabajamos los sonidos [[KEEP|/k/]] y [[KEEP|/g/]] en posición inicial. [[CHILD|Mateo]] produjo "[[KEEP|gato]]" con [[KEEP|mod cues]], logrando [[KEEP|8/10]] ensayos correctos, comparado con [[KEEP|3 de 5]] la semana pasada. En la prueba [[KEEP|Goldman-Fristoe Test of Articulation-3]], obtuvo una puntuación estándar de [[KEEP|78]] ([[KEEP|8th percentile]]), con un intervalo de confianza de [[KEEP|73-83]]. También se usó el enfoque [[KEEP|Cycles]] para generalización fonológica.
+
+Su hermana mayor, [[SIBLING|Valentina Cruz Hernández]], participó brevemente en la sesión para modelar turnos conversacionales. La madre, [[PARENT|Rosa Hernández Mejía]], trabaja en [[ORG|Cary Toyota]] y reportó que [[CHILD|Mateo]] jugó con su perrito, "[[PET|Toby]]", diciendo "[[PET|Toby]] corre" de forma espontánea. La maestra de [[CHILD|Mateo]], [[TEACHER|Sra. Carla López]], en [[DAYCARE|Little Sprouts Daycare]], comentó avances similares en el salón.
+
+Se coordinó con la [[AGENCY|Oficina del CDSA de Wake County]] para la revisión del IFSP [[KEEP|Meta 2]], programada para el [[DATE|15 de noviembre de 2026]]. La coordinadora de servicios, [[PROVIDER|Yesenia Martínez]], puede contactarse al [[PHONE|(919) 555-0148]]. El padre, [[PARENT|Eduardo Cruz]], reside temporalmente en Guatemala y puede contactarse al [[PHONE|+502 5512-3344]] para videollamadas. También se puede llamar a la oficina principal al [[PHONE|919.555.0199]] o a la clínica al [[PHONE|1-800-555-0172]].
+
+Número de caso Medicaid: [[MEDICAID_ID|NC4482910B]]. ID de expediente: [[ID|LD-33021]].
+
+Próxima sesión: [[DATE|13 de octubre de 2026]], [[TIME|3:30 p.m.]], domicilio.
+
+Firma: [[PROVIDER|Patricia Gómez-Reyes, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Speech Therapy, PLLC]].

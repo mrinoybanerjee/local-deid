@@ -1,0 +1,44 @@
+**Nota diaria de terapia del habla y lenguaje con reevaluación focal**
+
+Fecha: [[DATE|8 de octubre de 2026]]. Horario: [[TIME|09:10]]–[[TIME|10:00]].
+Paciente: [[CHILD|Samuel Iván Ledesma]], edad [[KEEP|4;2]].
+Expediente: [[ID|SL-2601847]]. Medicaid: [[MEDICAID_ID|684219753Q]].
+Lugar: [[EMPLOYER|Senderos del Lenguaje Pediátrico]], [[PLACE|418 Calle del Robledal]], [[PLACE|Pinar Claro]], Carolina del Norte, [[PLACE|27500]].
+Servicio: [[KEEP|CPT 92507]], modificador [[KEEP|GO]]; diagnóstico [[KEEP|ICD-10 F80.2]].
+
+**S — Información familiar**
+
+Su mamá [[PARENT|Daniela Ledesma]] acompañó a [[CHILD|Samuel]]. Su papá [[PARENT|Óscar Pineda]] participó por teléfono desde su trabajo, [[ORG|Talleres Horizonte de Madera]]. La familia reportó más peticiones espontáneas durante la merienda, pero dificultad para explicar lo ocurrido en el salón. Su hermana [[SIBLING|Inés Pineda]] suele anticipar sus necesidades. Su abuela [[FAMILY|Celia Montes]] pidió estrategias para esperar una respuesta antes de ayudar.
+
+Según la mamá, nació con edad gestacional de [[KEEP|35 semanas]], peso de [[KEEP|2,340 gramos]] y puntuaciones Apgar de [[KEEP|8]] y [[KEEP|9]], en el [[HOSPITAL|Hospital Infantil Los Cedros]]. Estos antecedentes fueron reportados; hoy no se revisaron documentos hospitalarios.
+
+La maestra [[TEACHER|Mariela Soto]], de la [[SCHOOL|Escuela Primaria Arroyo de Luna]], informó dificultad para iniciar conversaciones con su compañero [[PEER|Bruno Salcedo]]. También asiste a la [[DAYCARE|Guardería Pequeños Faroles]].
+
+**O — Evaluación y desempeño**
+
+La sesión se realizó en español, con apoyo de la intérprete [[PROVIDER|Elisa Navarro]] para aclarar información previa registrada en inglés. Se combinaron observación, juego compartido y una muestra breve de lenguaje. Se revisaron resultados anteriores de [[KEEP|PLS-5]]; las puntuaciones corresponden a aquella administración y no constituyen una nueva evaluación normativa.
+
+| Prueba o subprueba | Fecha de evaluación | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5: Comprensión auditiva]] | [[DATE|17/09/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|2;10–3;2]] |
+| [[KEEP|PLS-5: Comunicación expresiva]] | [[DATE|17/09/2026]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–82]] | [[KEEP|2;8–3;0]] |
+| [[KEEP|PLS-5: Lenguaje total]] | [[DATE|17/09/2026]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69–81]] | [[KEEP|2;9–3;1]] |
+
+Los intervalos corresponden al nivel de confianza del [[KEEP|90%]]. Las edades equivalentes se presentan como referencia descriptiva; no determinan por sí solas la selección de objetivos.
+
+Durante el juego, [[CHILD|Samuel]] siguió instrucciones con objetos en [[KEEP|8/10]] oportunidades con [[KEEP|claves mínimas]]. Produjo combinaciones de palabras en [[KEEP|3 de 5]] oportunidades con [[KEEP|claves moderadas]]. La precisión inicial de [[KEEP|/k/]] fue [[KEEP|60%]]; se observó sustitución por [[KEEP|/t/]]. Para [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Durante una conversación sobre su perro, dijo “[[PET|Chispa]] ven”; después añadió [[KEEP|"quiero jugar"]].
+
+Se aplicaron estrategias de [[KEEP|Hanen]]: seguir su iniciativa, esperar y ampliar sus mensajes. La transcripción incluyó el código [[KEEP|[EW]]]. El visitante administrativo [[PERSON|Julián Varela]] permaneció fuera del espacio terapéutico.
+
+**A — Impresión clínica**
+
+Se observaron avances en intención comunicativa y participación. Persisten necesidades en comprensión de instrucciones, expansión de frases y claridad del habla. La atención mejoró con pausas y materiales elegidos por el niño. La comparación entre lenguas requiere información adicional; los errores observados hoy no permiten atribuir las dificultades al bilingüismo.
+
+**P — Plan y coordinación**
+
+Continuar intervención semanal y práctica familiar durante rutinas. Mantener el objetivo [[KEEP|2]] del IFSP: pedir ayuda con frases funcionales. La coordinadora [[PROVIDER|Patricia Solís]] pertenece a la [[AGENCY|Red Comunitaria de Coordinación de Servicios Infantiles de Pinar Claro]] ([[AGENCY|RCCSI Pinar Claro]]). Se preparó un resumen para la [[AGENCY|Oficina de la Agencia de Servicios de Desarrollo Infantil de Valle Brumoso]] ([[AGENCY|CDSA Valle Brumoso]]).
+
+Coordinar recomendaciones con la terapeuta ocupacional [[PROVIDER|Lorena Vidal]], el fisioterapeuta [[PROVIDER|Andrés Beltrán]] y la pediatra [[PROVIDER|Natalia Cordero]]. Revisión prevista: [[DATE|22 de octubre de 2026]].
+
+Firma: [[PROVIDER|Camila Duarte]], MS, CCC-SLP, patóloga bilingüe del habla y lenguaje, [[EMPLOYER|Senderos del Lenguaje Pediátrico]].
+Contacto: [[PHONE|919-555-0146]]; [[EMAIL|camila.duarte@senderoslenguaje.example]]; [[URL|https://senderoslenguaje.example]].

@@ -1,0 +1,114 @@
+Child Name: [[CHILD|Mateo Alejandro Vargas Cruz]]
+Preferred Name: [[CHILD|Teo]]
+Date of Birth: [[DATE|November 14, 2021]]
+Chronological Age at Evaluation: [[KEEP|4;10]]
+Evaluation Dates: [[DATE|September 22, 2026]] and [[DATE|September 24, 2026]]
+Report Date: [[DATE|September 29, 2026]]
+Parent/Guardian: [[PARENT|Lucía Vargas Rodríguez]] (mother), [[PARENT|Esteban Cruz Molina]] (father)
+Referring Provider: Dr. [[PROVIDER|Patricia Nguyen]], [[ORG|Carolina Pediatric Associates]]
+Primary Language(s): Spanish (home), English (daycare)
+Evaluator: [[PROVIDER|Ana Beltrán]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist
+Clinic/Program: [[EMPLOYER|Carolina Bilingual Speech & Language Services]]
+Clinic Phone: [[PHONE|(919) 555-0237]]
+Clinic Website: [[URL|www.carolinabilingualslp.com]]
+Record/Case #: [[ID|SLP-2026-0847]]
+Medicaid ID: [[MEDICAID_ID|784552913A]]
+Home Address: [[PLACE|214 Holly Ridge Lane]], [[PLACE|Apex]], NC [[PLACE|27502]]
+Family Phone: [[PHONE|(919) 555-0184]]
+Family Email: [[EMAIL|lucia.vargas84@gmail.com]]
+Service Coordinator: [[PROVIDER|Mónica Flores]], [[AGENCY|Piedmont Children's Developmental Services Agency]]
+
+REASON FOR REFERRAL / MOTIVO DE LA REMISIÓN
+
+[[CHILD|Teo]] was referred by Dr. [[PROVIDER|Patricia Nguyen]] at [[ORG|Carolina Pediatric Associates]] for a bilingual speech-language evaluation following parent and teacher concern about limited intelligibility in both Spanish and English, reduced expressive vocabulary, and delayed sentence structure. [[PARENT|Lucía Vargas Rodríguez]] reported, "Casi nadie afuera de la familia le entiende a [[CHILD|Teo]] cuando habla" ("Almost no one outside the family understands [[CHILD|Teo]] when he talks"). The classroom teacher at [[DAYCARE|Little Learners Daycare]], Ms. [[TEACHER|Jennifer Hodges]], echoed this concern in a written note sent home on [[DATE|August 11, 2026]].
+
+[[CHILD|Teo]] was previously enrolled in early intervention through [[AGENCY|Piedmont Children's Developmental Services Agency]] from [[DATE|March 2023]] through [[DATE|November 2024]], when he aged out of Part C services. He is currently receiving private speech-language therapy twice weekly and occupational therapy once weekly through [[ORG|Little Learners Program]] in [[PLACE|Cary]]. This evaluation was requested to update diagnostic impressions and determine continued medical necessity for CPT [[KEEP|92523]] and CPT [[KEEP|92522]] services.
+
+BACKGROUND / ANTECEDENTES
+
+[[CHILD|Teo]] lives at home with his mother, [[PARENT|Lucía Vargas Rodríguez]]; his father, [[PARENT|Esteban Cruz Molina]]; and his older sister, [[SIBLING|Sol Vargas Cruz]], age [[KEEP|8;3]]. His maternal grandmother, [[FAMILY|Carmen Molina]], lives nearby and provides after-school childcare for both children three days a week. [[PARENT|Lucía Vargas Rodríguez]] works part-time as a receptionist, and [[PARENT|Esteban Cruz Molina]] is employed in construction with [[ORG|Triangle Framing Solutions]]. The family receives support through the [[AGENCY|WIC]] nutrition program and reports stable housing.
+
+[[CHILD|Teo]] attends [[DAYCARE|Little Learners Daycare]] five days a week from [[TIME|7:30 AM]] to [[TIME|5:00 PM]]. His lead teacher is Ms. [[TEACHER|Jennifer Hodges]], and his classroom assistant is Ms. [[TEACHER|Marisol Peña]], who is bilingual and often supports [[CHILD|Teo]] during transitions. [[PARENT|Lucía Vargas Rodríguez]] described two close friends in the classroom, [[PEER|Jack]] and [[PEER|Ava]], noting that [[CHILD|Teo]] plays well with them but mostly uses gestures rather than words.
+
+BIRTH AND MEDICAL HISTORY / HISTORIA DE NACIMIENTO Y MÉDICA
+
+[[CHILD|Teo]] was born at [[KEEP|32 weeks gestation]] at [[HOSPITAL|Riverstone Medical Center]] in [[PLACE|Raleigh]] following preterm labor. Birth weight was [[KEEP|3 lbs, 10 oz]] (approximately [[KEEP|1,650 grams]]), and Apgar scores were [[KEEP|4 and 7]] at [[KEEP|1 and 5 minutes]]. He was admitted to the NICU at [[HOSPITAL|Riverstone Medical Center]] for [[KEEP|five weeks]] due to respiratory distress and feeding difficulty, under the care of neonatologist Dr. [[PROVIDER|Robert Kim]]. Obstetric delivery was managed by Dr. [[PROVIDER|Sandra Ellis]].
+
+Per maternal report, [[CHILD|Teo]] required supplemental oxygen for the first [[KEEP|10 days]] of life and had a nasogastric tube for feeding support for approximately [[KEEP|three weeks]]. He passed his newborn hearing screening bilaterally prior to discharge on [[DATE|December 19, 2021]]. Pediatric follow-up has been ongoing with Dr. [[PROVIDER|Patricia Nguyen]] since [[DATE|January 2022]].
+
+Medical history is otherwise significant for recurrent otitis media, with [[KEEP|six]] documented episodes between [[KEEP|18 months]] and [[KEEP|3 years]] of age. He underwent bilateral myringotomy with tube placement on [[DATE|June 2, 2024]], performed by Dr. [[PROVIDER|Omar Haddad]], ENT. Tubes extruded spontaneously by [[DATE|February 2025]], and his most recent hearing screening, conducted at this evaluation, showed pass bilaterally at [[KEEP|20 dB HL]] across frequencies.
+
+[[CHILD|Teo]]'s diagnostic history includes ICD-10 [[KEEP|F80.2]] (mixed receptive-expressive language disorder) and ICD-10 [[KEEP|F80.4]] (speech and language development delay due to hearing loss), assigned following his [[DATE|November 14, 2024]] IFSP review. No seizure history, no known allergies, and no current medications were reported.
+
+FAMILY AND LANGUAGE HISTORY / HISTORIA FAMILIAR Y DE LENGUAJE
+
+The home language is primarily Spanish. [[PARENT|Lucía Vargas Rodríguez]] reported, "En casa hablamos español casi siempre, pero [[SIBLING|Sol]] le habla más en inglés porque así aprendió en la escuela" ("At home we speak Spanish almost always, but [[SIBLING|Sol]] speaks to him more in English because that is how she learned it at school"). [[PARENT|Esteban Cruz Molina]] communicates with [[CHILD|Teo]] in a mix of Spanish and English depending on the activity, and extended family, including the paternal grandmother in [[PLACE|Durham]], speak exclusively Spanish with him during visits.
+
+[[PARENT|Lucía Vargas Rodríguez]] estimated that [[CHILD|Teo]] produces roughly [[KEEP|50]] intelligible words total across both languages, with greater use of nouns than verbs. She reported first words around [[KEEP|18 months]] and noted that two-word combinations did not emerge until approximately [[KEEP|3;0]]. She stated, "Antes pensábamos que era solo porque es bilingüe, pero ahora con [[SIBLING|Sol]] vemos que no es igual" ("Before we thought it was only because he is bilingual, but now comparing him with [[SIBLING|Sol]] we see it's not the same").
+
+[[SIBLING|Sol]] is described as typically developing and attends [[SCHOOL|Holly Ridge Elementary School]]. There is no reported family history of speech, language, or learning disability on either side, though [[FAMILY|Carmen Molina]] mentioned that a cousin, [[FAMILY|Rosa Molina]], received speech therapy as a young child in Mexico.
+
+DAYCARE AND THERAPY SCHEDULE / HORARIO ESCOLAR Y TERAPÉUTICO
+
+[[CHILD|Teo]] currently receives speech-language therapy and occupational therapy through [[ORG|Little Learners Program]], distinct from his daycare, [[DAYCARE|Little Learners Daycare]], though the family notes the similar names cause occasional confusion when scheduling. His occupational therapist is [[PROVIDER|Jake Thompson, OTR/L]]. Current weekly schedule:
+
+| Day | Start Time | Stop Time | Location |
+|---|---|---|---|
+| Monday | [[TIME|3:30 PM]] | [[TIME|4:15 PM]] | [[ORG|Little Learners Program]], [[PLACE|Cary]] office |
+| Wednesday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | Home visit, [[PLACE|214 Holly Ridge Lane]] |
+| Friday | [[TIME|1:00 PM]] | [[TIME|1:45 PM]] | [[DAYCARE|Little Learners Daycare]] |
+
+ASSESSMENT PROCEDURES / PROCEDIMIENTOS DE EVALUACIÓN
+
+Assessment was conducted bilingually by the undersigned, who is fluent in both English and Spanish; no interpreter was required. Procedures included parent interview, classroom observation, standardized testing in both languages, a spontaneous language sample coded in SALT format, oral mechanism examination, and a hearing screening. [[PARENT|Lucía Vargas Rodríguez]] was present for both sessions and provided informal translation checks for home vocabulary.
+
+RESULTS / RESULTADOS
+
+Standardized Testing
+
+| Measure | Domain | Standard Score | Percentile | 95% CI | Age Equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|CELF Preschool-2]] | [[KEEP|Core Language Score]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|73-83]] | [[KEEP|3;2]] |
+| [[KEEP|CELF Preschool-2]] | [[KEEP|Receptive Language Index]] | [[KEEP|81]] | [[KEEP|10th percentile]] | [[KEEP|76-86]] | [[KEEP|3;4]] |
+| [[KEEP|CELF Preschool-2]] | [[KEEP|Expressive Language Index]] | [[KEEP|74]] | [[KEEP|4th percentile]] | [[KEEP|68-80]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5 Spanish Edition]] | [[KEEP|Auditory Comprehension]] | [[KEEP|71]] | [[KEEP|3rd percentile]] | [[KEEP|65-77]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5 Spanish Edition]] | [[KEEP|Expressive Communication]] | [[KEEP|68]] | [[KEEP|2nd percentile]] | [[KEEP|62-74]] | [[KEEP|2;4]] |
+| [[KEEP|GFTA-3]] | [[KEEP|Sounds-in-Words]] | [[KEEP|82]] | [[KEEP|12th percentile]] | [[KEEP|77-87]] | — |
+| [[KEEP|MB-CDI]] (Spanish, parent report) | [[KEEP|Vocabulary Checklist]] | — | [[KEEP|9th percentile]] | — | [[KEEP|26 months]] |
+
+Articulation and Phonology
+
+Oral mechanism examination revealed adequate structure and mobility for speech; no evidence of apraxia was noted. In single-word testing, [[CHILD|Teo]] produced word-final consonant deletion and cluster reduction across both languages. He substituted [[KEEP|/t/]] for [[KEEP|/k/]] in initial position (e.g., "[[KEEP|"tasa" for "casa"]]") and devoiced final [[KEEP|/g/]] (e.g., "[[KEEP|"pego" for "perro"]]" with final consonant omitted). He produced [[KEEP|/ɾ/]] inconsistently, achieving the target in [[KEEP|3 of 10]] trials with [[KEEP|moderate cues]]. In English, he substituted [[KEEP|[w]]] for [[KEEP|/l/]] (e.g., "[[KEEP|"wion" for "lion"]]") and demonstrated stimulability for isolated [[KEEP|/k/]] with [[KEEP|minimal cues]] in [[KEEP|8/10]] attempts.
+
+Connected speech intelligibility was estimated at [[KEEP|60%]] to familiar listeners and [[KEEP|30%]] to unfamiliar listeners, consistent with parent and teacher report.
+
+Language Sample
+
+A 20-minute spontaneous language sample was collected during structured play with [[CHILD|Teo]] and [[PARENT|Lucía Vargas Rodríguez]], then rescored by SALT convention. Mean length of utterance was [[KEEP|1.8 morphemes]] in English and [[KEEP|2.1 morphemes]] in Spanish, both below expected range. One representative utterance was coded [[KEEP|[EW]]] for an English-word intrusion during a Spanish utterance ("quiero [[KEEP|[EW]]] car"). [[CHILD|Teo]] relied heavily on single words and gestures, producing few two- and three-word combinations.
+
+Receptive and Social Communication
+
+During classroom observation at [[DAYCARE|Little Learners Daycare]], [[CHILD|Teo]] followed one-step directions reliably but required repetition or gesture for two-step directions. He engaged in parallel play with [[PEER|Jack]] and [[PEER|Ava]] and initiated joint attention using pointing and eye gaze more often than verbal bids. Ms. [[TEACHER|Jennifer Hodges]] reported that [[CHILD|Teo]] becomes frustrated when peers do not understand him, occasionally resulting in pushing or walking away.
+
+Hearing
+
+Pure-tone screening passed bilaterally at [[KEEP|20 dB HL]] for [[KEEP|1000, 2000, and 4000 Hz]].
+
+CLINICAL IMPRESSIONS / IMPRESIONES CLÍNICAS
+
+[[CHILD|Teo]] presents with a moderate-to-severe mixed receptive-expressive language disorder affecting both Spanish and English, consistent with a true bilingual language impairment rather than typical second-language acquisition. This impression is supported by below-average performance across both home and school language measures, history of prematurity and recurrent otitis media, and converging parent and teacher report. Co-occurring speech sound disorder affecting both languages is also present, with difficulty at the phoneme level in [[KEEP|/k/, /g/, /ɾ/]], and [[KEEP|/l/]].
+
+[[PARENT|Lucía Vargas Rodríguez]] shared, "Nos preocupa que empiece kínder el año que viene y nadie le entienda" ("We worry that he will start kindergarten next year and no one will understand him"), underscoring the family's concern about school readiness. [[PARENT|Esteban Cruz Molina]] added, "Queremos que siga hablando español en casa, pero también que le vaya bien en inglés en la escuela" ("We want him to keep speaking Spanish at home, but also do well in English at school"), which was incorporated into recommendations below.
+
+RECOMMENDATIONS / RECOMENDACIONES
+
+1. Continue bilingual speech-language therapy twice weekly through [[ORG|Little Learners Program]], targeting both Spanish and English expressive language, syntax, and the identified phoneme targets, with ongoing coordination between [[PROVIDER|Ana Beltrán]] and classroom staff at [[DAYCARE|Little Learners Daycare]].
+2. Continue occupational therapy with [[PROVIDER|Jake Thompson, OTR/L]] to address frustration tolerance and fine motor skills supporting communication.
+3. Reconvene the IFSP/educational team, including Service Coordinator [[PROVIDER|Mónica Flores]] of [[AGENCY|Piedmont Children's Developmental Services Agency]], to review IFSP Outcome [[KEEP|#3]] and determine eligibility for preschool exceptional children's services prior to kindergarten entry.
+4. Encourage continued use of Spanish at home while introducing targeted English vocabulary through shared book reading, using [[KEEP|PROMPT]]-informed cueing strategies modeled during today's session.
+5. Repeat audiological monitoring in [[KEEP|six months]] given history of recurrent otitis media.
+6. Family should contact the clinic at [[PHONE|(919) 555-0237]] or [[EMAIL|lucia.vargas84@gmail.com]] to schedule the next progress review, tentatively planned for [[DATE|March 2027]].
+
+Report prepared by [[PROVIDER|Ana Beltrán]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Bilingual Speech & Language Services]]
+[[URL|www.carolinabilingualslp.com]]

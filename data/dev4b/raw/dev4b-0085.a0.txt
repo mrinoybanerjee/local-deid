@@ -1,0 +1,188 @@
+SPEECH-LANGUAGE EVALUATION REPORT
+
+HEADER INFORMATION
+
+- Client: [[CHILD|Mateo Hernández Soto]] (called "[[CHILD|Teo]]" at home and at daycare)
+- Date of Birth: [[DATE|June 14, 2022]]
+- Chronological Age at Evaluation: [[KEEP|4;2]]
+- Date of Evaluation: [[DATE|August 18, 2026]], [[TIME|9:00 a.m.]] to [[TIME|10:30 a.m.]]
+- Date of Report: [[DATE|August 22, 2026]]
+- Medical Record Number: [[ID|WR-884215]]
+- Medicaid ID: [[MEDICAID_ID|920374851B]]
+- CDSA Case Number: [[ID|2025-00417]]
+- Home Address: [[PLACE|118 Magnolia Trace Lane]], [[PLACE|Cary]], [[PLACE|Wake County]], NC [[PLACE|27513]]
+- Primary Home Language: Spanish; Secondary/Daycare Language: English
+- Parents: [[PARENT|Daniela Soto]] (mother) and [[PARENT|Ricardo Hernández]] (father)
+- Parent Contact Phone: [[PHONE|(919) 555-0231]]
+- Sibling in Home: [[SIBLING|Camila Hernández]], age six, called "[[SIBLING|Cami]]"
+- Household Pet: dog named [[PET|Rocky]]
+- Interpreter Present for Evaluation: [[PROVIDER|Marisol Vega]], Spanish Medical Interpreter
+- Evaluating Clinician: [[PROVIDER|Jennifer Walsh]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist
+- Practice: [[EMPLOYER|Carolina Pediatric Speech & Language Services]]
+- Clinic Address: [[PLACE|4820 Kildaire Farm Road, Suite 220]], [[PLACE|Cary]], [[PLACE|Wake County]], NC [[PLACE|27518]]
+- Clinic Phone: [[PHONE|(919) 555-0148]]
+- Clinic Email: [[EMAIL|intake@carolinapedspeech.com]]
+- Referral Source: [[PROVIDER|Dr. Amanda Chen]], Pediatrician, [[HOSPITAL|WakeMed Pediatric Specialists – North Raleigh Campus]]
+- CDSA Service Coordinator: [[PROVIDER|Monica Alvarado]], [[AGENCY|Wake County CDSA]]
+- CPT Codes Billed This Visit: [[KEEP|92523]] (speech sound and language evaluation), [[KEEP|92507]] (individual treatment, trial session)
+- ICD-10 Codes: [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder), [[KEEP|F80.0]] (Phonological Disorder), [[KEEP|H65.93]] (recurrent otitis media with effusion, unspecified ear)
+
+BACKGROUND AND REASON FOR REFERRAL
+
+- [[CHILD|Teo]] was referred for a comprehensive bilingual speech-language evaluation by [[PROVIDER|Dr. Amanda Chen]] of [[HOSPITAL|WakeMed Pediatric Specialists – North Raleigh Campus]] on [[DATE|July 9, 2026]].
+- The referral noted parental and daycare concern about reduced speech intelligibility and limited expressive vocabulary in both Spanish and English.
+- His mother, [[PARENT|Daniela Soto]], reports that [[CHILD|Teo]] is "hard to understand even for us, and strangers almost never get what he's trying to say."
+- [[PARENT|Daniela Soto]] estimates that unfamiliar listeners understand [[KEEP|about 50%]] of [[CHILD|Teo]]'s speech, while family members understand closer to [[KEEP|80%]].
+- His father, [[PARENT|Ricardo Hernández]], reports that [[CHILD|Teo]] becomes frustrated and sometimes hits or cries when he cannot make himself understood, particularly at mealtimes and during play with his sister.
+- [[CHILD|Teo]]'s daycare teacher, Ms. [[TEACHER|María Lopez]], of the classroom known informally as "Ms. [[TEACHER|Lopez]]'s room" at [[DAYCARE|Little Sprouts Early Learning Center]], also raised concerns in a note sent home in [[DATE|May 2026]].
+- Ms. [[TEACHER|Lopez]] reported that [[CHILD|Teo]] often gestures or points instead of using words to communicate with peers, including his frequent playmate [[PEER|Sofia Ramirez]].
+- [[CHILD|Teo]] is currently enrolled in Part C early intervention services coordinated through the [[AGENCY|Wake County CDSA]], with an active Individualized Family Service Plan.
+- The family's current IFSP, dated [[DATE|March 3, 2025]] and last reviewed [[DATE|March 10, 2026]], includes [[KEEP|Outcome #2]] targeting expressive communication and [[KEEP|Outcome #3]] targeting speech intelligibility.
+- A full annual review is scheduled for [[DATE|September 3, 2026]], and this evaluation was requested to inform that review.
+
+BIRTH AND MEDICAL HISTORY
+
+- [[CHILD|Teo]] was born at [[KEEP|34 weeks]] gestational age at [[HOSPITAL|WakeMed Health & Hospitals – Raleigh Campus]] on [[DATE|June 14, 2022]].
+- Birth weight was recorded as [[KEEP|2,100 grams]] ([[KEEP|4 lb 10 oz]]), and Apgar scores were [[KEEP|6]] at one minute and [[KEEP|8]] at five minutes.
+- [[CHILD|Teo]] was admitted to the Neonatal Intensive Care Unit at [[HOSPITAL|WakeMed Health & Hospitals – Raleigh Campus NICU]] for a stay of approximately [[KEEP|three weeks]] due to prematurity and respiratory distress.
+- [[PARENT|Daniela Soto]] reports that [[CHILD|Teo]] required supplemental oxygen during the NICU stay but did not require a feeding tube at discharge.
+- Developmental milestones were reportedly mildly delayed: [[CHILD|Teo]] sat independently at [[KEEP|9 months]], walked at [[KEEP|17 months]], and said his first words around [[KEEP|20 months]].
+- Medical history is significant for recurrent otitis media, with at least five documented ear infections between [[KEEP|12]] and [[KEEP|30 months]] of age.
+- [[CHILD|Teo]] was seen by [[PROVIDER|Dr. Samuel Patel]], audiologist, at [[HOSPITAL|Duke Health Ear, Nose & Throat and Audiology – Duke Raleigh Campus]] on [[DATE|February 11, 2026]].
+- That audiologic evaluation documented mild conductive hearing loss in the left ear, attributed to persistent middle ear effusion, with normal hearing in the right ear.
+- Bilateral tympanostomy tube placement was performed by an ENT surgeon affiliated with [[HOSPITAL|Duke Health Ear, Nose & Throat and Audiology – Duke Raleigh Campus]] on [[DATE|March 4, 2026]].
+- [[PARENT|Daniela Soto]] reports no infections or ear drainage since the tube placement, and a recheck is scheduled for [[DATE|November 2026]].
+- No history of seizures, head trauma, or significant illness aside from the above is reported.
+- [[CHILD|Teo]] is followed for routine pediatric care by [[PROVIDER|Dr. Amanda Chen]] at [[HOSPITAL|WakeMed Pediatric Specialists – North Raleigh Campus]], with well-child visits current through [[DATE|June 2026]].
+- [[CHILD|Teo]] currently receives occupational therapy with [[PROVIDER|Katie Reyes]], OTR/L, and physical therapy with [[PROVIDER|Brian Moyer]], PT, DPT, both through the CDSA-coordinated early intervention team.
+- [[PROVIDER|Katie Reyes]] notes mild fine motor delays affecting utensil use and pencil grasp; [[PROVIDER|Brian Moyer]] reports gross motor skills are now within age expectations following six months of physical therapy.
+
+FAMILY AND LANGUAGE HISTORY
+
+- [[CHILD|Teo]] lives at home with his mother, [[PARENT|Daniela Soto]]; his father, [[PARENT|Ricardo Hernández]]; and his older sister, [[SIBLING|Camila Hernández]] ("[[SIBLING|Cami]]").
+- The family's household dog, [[PET|Rocky]], is frequently mentioned by [[CHILD|Teo]] during play and in spontaneous speech samples.
+- [[PARENT|Daniela Soto]] was born in Veracruz, Mexico, and reports Spanish as her first and dominant language; she speaks limited English.
+- [[PARENT|Ricardo Hernández]] was born in Guadalajara, Mexico, and reports functional but non-fluent English, used primarily at work.
+- [[PARENT|Ricardo Hernández]] works as a network technician at [[ORG|Cisco Systems]], where meetings are conducted in English.
+- [[PARENT|Daniela Soto]] works part-time as a dental assistant at [[ORG|Cary Family Dental]], a position that requires basic conversational English.
+- The home language is estimated at [[KEEP|90%]] Spanish and [[KEEP|10%]] English, primarily driven by [[SIBLING|Cami]]'s use of English learned at school.
+- [[CHILD|Teo]]'s maternal grandmother, [[FAMILY|Rosa Delgado]], provides childcare two days per week while [[PARENT|Daniela Soto]] is at work; she speaks only Spanish with [[CHILD|Teo]].
+- [[FAMILY|Rosa Delgado]] reports that [[CHILD|Teo]] understands her instructions well but that his spoken responses are often unintelligible to her as well.
+- [[PARENT|Daniela Soto]] reports that [[CHILD|Teo]]'s receptive language in Spanish is stronger than his expressive language in either language.
+- No other family members in the home report speech, language, or learning concerns, though [[PARENT|Daniela Soto]] notes that her own brother was "a late talker" as a child.
+- [[SIBLING|Cami]] is described as verbal and talkative, frequently speaking for [[CHILD|Teo]] or interpreting his requests for adults, which the family was counseled to reduce.
+- During the interview, conducted with [[PROVIDER|Marisol Vega]] interpreting for [[PARENT|Daniela Soto]], the family indicated a strong preference for continued services in Spanish, with English support introduced gradually.
+
+EDUCATIONAL AND DAYCARE HISTORY
+
+- [[CHILD|Teo]] has attended [[DAYCARE|Little Sprouts Early Learning Center]] since [[DATE|January 2024]], currently enrolled four days per week in Ms. [[TEACHER|Lopez]]'s room.
+- The daycare program is conducted primarily in English, with limited Spanish support provided by a bilingual aide.
+- Ms. [[TEACHER|María Lopez]] reports that [[CHILD|Teo]] participates in circle time and follows simple routines but rarely initiates verbal interaction with classmates.
+- [[CHILD|Teo]]'s closest peer relationship at daycare is with [[PEER|Sofia Ramirez]], who reportedly assists him by fetching items he points to rather than waiting for a verbal request.
+- Ms. [[TEACHER|Lopez]] has implemented visual supports and modeled simple phrases in the classroom at the recommendation of the early intervention team.
+- No formal preschool special education evaluation has yet been completed, as [[CHILD|Teo]] remains under Part C services pending this evaluation and the upcoming IFSP review.
+
+BEHAVIORAL OBSERVATIONS AND ORAL MECHANISM EXAMINATION
+
+- [[CHILD|Teo]] separated easily from his mother and engaged readily with the examiner and the interpreter throughout the session.
+- Attention and engagement were adequate for standardized testing, with brief breaks offered approximately every fifteen minutes.
+- [[CHILD|Teo]] demonstrated appropriate eye contact, joint attention, and turn-taking during structured and unstructured play.
+- No unusual sensory behaviors, repetitive movements, or atypical social communication patterns were observed during this session.
+- Oral mechanism examination revealed symmetrical facial structure, adequate lip and tongue strength and range of motion, and no evidence of structural abnormality.
+- Dentition was within normal limits for age; no overt signs of tongue-tie or craniofacial anomaly were noted.
+- Diadochokinetic rates were judged mildly reduced for age but within functional limits for connected speech production.
+
+ASSESSMENT TOOLS ADMINISTERED
+
+- [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]), Spanish and English editions, administered in both languages with interpreter support
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]])
+- [[KEEP|Clinical Evaluation of Language Fundamentals Preschool, Third Edition]] ([[KEEP|CELF Preschool-3]]), selected subtests, English
+- Spontaneous language sample, approximately [[KEEP|100 utterances]], analyzed using [[KEEP|SALT]] (Systematic Analysis of Language Transcripts)
+- Oral mechanism examination
+- Informal bilingual phonological screening in Spanish and English
+- Parent and teacher interview and questionnaire review
+
+TEST RESULTS
+
+PLS-5 (Spanish Edition)
+
+- Auditory Comprehension: [[KEEP|Standard Score 78]], [[KEEP|9th percentile]], [[KEEP|95% confidence interval]] [[KEEP|73-83]]
+- Expressive Communication: [[KEEP|Standard Score 70]], [[KEEP|2nd percentile]], confidence interval [[KEEP|65-75]]
+- Total Language Score: [[KEEP|Standard Score 73]], [[KEEP|4th percentile]]
+- Age Equivalent, Auditory Comprehension: [[KEEP|2;9]]
+- Age Equivalent, Expressive Communication: [[KEEP|2;3]]
+
+PLS-5 (English Edition)
+
+- Auditory Comprehension: [[KEEP|Standard Score 71]], [[KEEP|3rd percentile]]
+- Expressive Communication: [[KEEP|Standard Score 65]], [[KEEP|1st percentile]]
+- Total Language Score: [[KEEP|Standard Score 67]], [[KEEP|1st percentile]]
+
+Composite Bilingual Interpretation
+
+- Using the higher score obtained across both languages for each domain, consistent with bilingual scoring guidelines, [[CHILD|Teo]]'s best-performance composite falls at [[KEEP|Standard Score 76]] overall, in the moderately delayed range.
+- This pattern reflects a true language impairment present across both languages rather than a language difference attributable to bilingual exposure alone.
+
+GFTA-3 Results
+
+- Raw Score: [[KEEP|38]]; Standard Score: [[KEEP|72]]; Percentile Rank: [[KEEP|3rd percentile]]
+- Sounds-in-Words subtest revealed consistent error patterns affecting both English and Spanish phoneme inventories.
+
+CELF Preschool-3 Selected Subtests (English)
+
+- Sentence Structure: [[KEEP|Scaled Score 5]], [[KEEP|5th percentile]]
+- Word Structure: [[KEEP|Scaled Score 6]], [[KEEP|9th percentile]]
+- Expressive Vocabulary: [[KEEP|Scaled Score 4]], [[KEEP|2nd percentile]]
+
+SPEECH SOUND PRODUCTION AND INTELLIGIBILITY
+
+- Connected speech intelligibility was judged at approximately [[KEEP|50%]] for unfamiliar listeners and [[KEEP|80%]] for familiar listeners, consistent with parent report.
+- Consistent phonological processes included final consonant deletion, fronting of velars, and cluster reduction, observed in both Spanish and English samples.
+- [[CHILD|Teo]] produced /k/ as [t] in word-initial position in English, saying "tookie" for "cookie" and "tat" for "cat."
+- In Spanish, [[CHILD|Teo]] substituted /ɾ/ with [d] in medial position, producing "pedo" for "perro," though no dog-related confusion was noted in context.
+- During play, [[CHILD|Teo]] pointed at the family dog in a photograph and said "[[PET|Rocky]] due," an apparent attempt at "[[PET|Rocky]] runs," omitting the final consonant cluster.
+- When shown a family photo, [[CHILD|Teo]] pointed to his sister and said "[[SIBLING|Cami]] go," demonstrating early two-word combination with consistent final consonant deletion on "go" for "going."
+- Gliding of liquids was noted, with /r/ and /l/ both realized as [w] in English, for example "wabbit" for "rabbit" and "yewwow" for "yellow."
+- Stimulability testing showed that [[CHILD|Teo]] could approximate /k/ in isolation with [[KEEP|moderate cues]], achieving [[KEEP|6 of 10]] correct productions, but the target did not generalize to the word level without continued [[KEEP|maximal cues]].
+- Target word probes for /s/ clusters showed [[KEEP|3 of 10]] correct productions in English and [[KEEP|4 of 10]] in Spanish, both below age expectations.
+- Repetition of multisyllabic words resulted in syllable deletion, for example "[[KEEP|"nana"]]" for "banana" and "[[KEEP|"puter"]]" for "computer."
+- Overall phonological inventory is reduced relative to age expectations in both languages, consistent with a phonological disorder rather than an isolated articulation disorder.
+
+LANGUAGE SAMPLE ANALYSIS
+
+- Mean length of utterance in morphemes (MLU-m) was calculated at [[KEEP|2.1]], falling well below the expected range of [[KEEP|3.0-4.0]] for his age.
+- SALT analysis coded frequent omission of grammatical morphemes, tagged [EW] for word-level errors and [EO] for omissions throughout the transcript.
+- [[CHILD|Teo]] relied heavily on single-word utterances and two-word combinations, with only occasional three-word utterances observed, such as "[[SIBLING|Cami]] no go," intended to mean that his sister should not leave.
+- Pronoun use was inconsistent, with frequent omission of subject pronouns and substitution of "me" for "I" in English utterances.
+- Spanish utterances showed similarly reduced grammatical complexity, with verb conjugation errors and omission of articles noted throughout the sample.
+- Narrative and sequencing skills could not be formally assessed due to limited expressive output but appeared emerging based on gesture-supported storytelling about a recent family outing.
+- Pragmatic skills, including requesting, commenting, and protesting, were present but frequently achieved through gesture or vocalization rather than words.
+
+CLINICAL IMPRESSIONS
+
+- [[CHILD|Teo]] presents with a moderate-to-severe mixed receptive-expressive language disorder affecting both Spanish and English, consistent with [[KEEP|F80.2]].
+- Speech sound production is significantly impaired in both languages, consistent with a phonological disorder, [[KEEP|F80.0]], rather than a language difference secondary to bilingual exposure.
+- History of recurrent otitis media with effusion, [[KEEP|H65.93]], and documented mild conductive hearing loss likely contributed to delayed phonological development, though the current presentation exceeds what hearing history alone would explain.
+- Language and speech sound deficits are present across both of [[CHILD|Teo]]'s languages, confirming a true impairment rather than typical second-language acquisition or dialectal variation.
+- Reduced intelligibility, limited MLU, and inconsistent grammatical morpheme use place [[CHILD|Teo]] at significant risk for continued academic and social-emotional impact without intervention.
+- Family engagement is a strength: [[PARENT|Daniela Soto]] and [[PARENT|Ricardo Hernández]] are motivated, consistent with home practice recommendations from the early intervention team, and responsive to coaching from [[PROVIDER|Katie Reyes]] and [[PROVIDER|Brian Moyer]].
+- Continued coordination between this practice, [[HOSPITAL|Duke Health Ear, Nose & Throat and Audiology – Duke Raleigh Campus]], and [[PROVIDER|Dr. Amanda Chen]]'s office is recommended given the medical complexity of this case.
+
+RECOMMENDATIONS
+
+- [[CHILD|Teo]] qualifies for and is recommended to receive individual speech-language therapy twice weekly, 30-minute sessions, billed under [[KEEP|92507]], with bilingual service delivery in Spanish and English.
+- Therapy should prioritize phonological process remediation using a [[KEEP|Cycles approach]], targeting final consonant deletion and velar fronting as initial targets in both languages.
+- Incorporation of [[KEEP|minimal pairs]] treatment is recommended to establish the /k/-/t/ and /ɾ/-/d/ contrasts identified during testing.
+- A core vocabulary and early grammar program informed by [[KEEP|Hanen]] principles, specifically [[KEEP|It Takes Two to Talk]], is recommended to coach [[PARENT|Daniela Soto]] and [[PARENT|Ricardo Hernández]] in naturalistic language facilitation strategies at home.
+- [[KEEP|PROMPT]] techniques are recommended as a tactile-kinesthetic support for articulatory placement, given [[CHILD|Teo]]'s reliance on visual and gestural cues during stimulability testing.
+- Continued audiological monitoring is recommended through [[HOSPITAL|Duke Health Ear, Nose & Throat and Audiology – Duke Raleigh Campus]], with the scheduled recheck in [[DATE|November 2026]] prioritized given the history of conductive hearing loss.
+- Continued coordination with occupational therapy ([[PROVIDER|Katie Reyes]]) and physical therapy ([[PROVIDER|Brian Moyer]]) is recommended to address overlapping fine motor needs that may affect augmentative gesture use and classroom participation.
+- Continued use of a qualified Spanish interpreter, such as [[PROVIDER|Marisol Vega]], is recommended for all family meetings, including the upcoming IFSP review on [[DATE|September 3, 2026]].
+- Daycare staff, including Ms. [[TEACHER|Lopez]], should continue to model simple two- to three-word phrases in English during classroom routines and should coordinate with the family regarding core vocabulary targets used in therapy.
+- The family is encouraged to continue structured home practice in Spanish, including supported turn-taking with [[SIBLING|Cami]] rather than allowing her to speak on [[CHILD|Teo]]'s behalf.
+- [[FAMILY|Rosa Delgado]] should be included in home-practice coaching sessions when feasible, given her significant caregiving role two days per week.
+- It is recommended that [[KEEP|IFSP Outcome #3]] be revised at the upcoming review to reflect updated speech intelligibility targets based on these results, and that [[KEEP|IFSP Outcome #2]] be continued with updated expressive language benchmarks.
+- Re-evaluation of speech and language skills is recommended in approximately six months, or sooner if progress toward IFSP outcomes is not observed, to determine continued eligibility and appropriate transition planning as [[CHILD|Teo]] approaches preschool special education eligibility age.
+- This report and its recommendations should be shared with [[PROVIDER|Dr. Amanda Chen]] and the [[AGENCY|Wake County CDSA]] service coordination team, [[PROVIDER|Monica Alvarado]], to support integrated service planning.
+
+Report prepared by [[PROVIDER|Jennifer Walsh]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist, [[EMPLOYER|Carolina Pediatric Speech & Language Services]], with interpretation provided by [[PROVIDER|Marisol Vega]] throughout the evaluation and parent interview.

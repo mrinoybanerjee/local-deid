@@ -1,0 +1,47 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+INFORMACIÓN DEL CASO
+- Niño: [[CHILD|Mateo Fernández]], edad [[KEEP|4;2]]
+- ID de caso: [[ID|NC-88214-SP]]
+- Medicaid: [[MEDICAID_ID|774529831B]]
+- Fecha de sesión: [[DATE|9 de octubre de 2026]]
+- Lugar: [[AGENCY|CDSA del Triángulo]], oficina en [[PLACE|Durham]]
+- Clínica: [[PROVIDER|Laura Jiménez]], patóloga del habla-lenguaje bilingüe, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+
+HORARIO
+- Inicio de sesión: [[TIME|9:00 a.m.]]
+- Fin de sesión: [[TIME|9:45 a.m.]]
+- Próxima cita: [[TIME|8:30 a.m.]] del [[DATE|16 de octubre de 2026]]
+
+ANTECEDENTES Y CONTEXTO FAMILIAR
+- Mamá, [[PARENT|Rocío Fernández]], trabaja de noche en [[ORG|DSS del Condado de Durham]]
+- Papá, [[PARENT|Héctor Fernández]], trabaja dos empleos; el segundo se conoce solo como "[[EMPLOYER|PTO]]" en los documentos del caso
+- La abuela materna, [[FAMILY|Carmen Ríos]], cuida a [[CHILD|Mateo]] en las tardes
+- Hermana mayor, [[SIBLING|Valentina Fernández]], asiste a [[SCHOOL|Escuela Primaria Riverside]]
+- Mascota de la familia: [[PET|Toby]], un perro pequeño que [[CHILD|Mateo]] menciona con frecuencia en sesión
+
+RESULTADOS DE EVALUACIÓN (TABLA DE PUNTAJES)
+- [[DATE|15 de abril de 2026]]: [[KEEP|PLS-5]], Comprensión Auditiva, puntaje estándar [[KEEP|78]], IC [[KEEP|73-83]]
+- [[DATE|15 de abril de 2026]]: [[KEEP|PLS-5]], Expresión del Lenguaje, puntaje estándar [[KEEP|81]], IC [[KEEP|75-87]]
+- [[DATE|10 de octubre de 2025]]: [[KEEP|CELF-5]], Puntaje Core, percentil [[KEEP|12]], edad equivalente [[KEEP|2;6–3;0]]
+
+S (SUBJETIVO)
+- Mamá reporta que [[CHILD|Mateo]] dijo "[[PET|Toby]] come" esta semana en casa
+- La abuela, [[FAMILY|Carmen Ríos]], indica que practica en las tardes después de la escuela
+
+O (OBJETIVO)
+- Producción de /k/ en posición inicial: [[KEEP|8/10]] con [[KEEP|mod cues]]
+- Producción del fonema /ɾ/: [[KEEP|3 of 5]] ensayos correctos, [[KEEP|min cues]]
+- Enfoque usado: [[KEEP|Cycles]], complementado con estrategias de [[KEEP|Hanen]]
+- Durante el juego, [[CHILD|Mateo]] imitó a su compañero [[PEER|Diego]] diciendo "quiero más"
+- Interacción con intérprete [[PROVIDER|Marisol Vega]] para confirmar instrucciones con la familia
+
+A (ANÁLISIS)
+- Progreso notable desde [[DATE|abril de 2026]]; cumple [[KEEP|Meta 2]] del IFSP en un [[KEEP|70%]]
+- Maestra de preescolar, [[TEACHER|Sra. Padilla]] de [[DAYCARE|Little Steps Daycare]], reporta generalización limitada en el aula
+
+P (PLAN)
+- Continuar sesiones semanales los martes a las [[TIME|9:00 a.m.]]
+- Coordinar con el coordinador de servicios, [[PROVIDER|David Ortiz]], sobre revisión del IFSP el [[DATE|3 de diciembre de 2026]]
+- Enviar recordatorio a [[PARENT|Rocío Fernández]] al teléfono [[PHONE|(919) 555-0148]]
+- Correo de contacto de la familia: [[EMAIL|fernandezfamilia26@example.com]]

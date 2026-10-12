@@ -1,0 +1,174 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Nombre: [[CHILD|Mateo del Río-Salazar]]  
+Nombre familiar: [[CHILD|Teo]]  
+Fecha de nacimiento: [[DATE|8 de mayo de 2022]]  
+Edad durante la evaluación: [[KEEP|4;2]]  
+Fecha de evaluación: [[DATE|8 de julio de 2026]]  
+Horario: de [[TIME|9:10 a. m.]] a [[TIME|10:35 a. m.]]  
+Fecha del informe: [[DATE|15 de julio de 2026]]  
+Expediente: [[ID|FIC-EV-260708-017]]  
+Medicaid: [[MEDICAID_ID|000000000F]]  
+Autorización: [[ID|FIC-AUT-260701-028]]  
+Madre: [[PARENT|Lucía de la Cruz]]  
+Padre: [[PARENT|José Salazar]]  
+Profesional: [[PROVIDER|Elena Márquez-Castañeda]], patóloga bilingüe del habla y del lenguaje  
+Empresa: [[EMPLOYER|Puente Claro Terapia Infantil]]  
+Dirección: [[PLACE|184 Sendero del Jacarandá, suite 210]], [[PLACE|Villa Níspero]], Carolina del Norte, [[PLACE|27000]]  
+Teléfono: [[PHONE|919-555-0146]]  
+Correo: [[EMAIL|elena.marquez@puenteclaro.example.invalid]]  
+Página: [[URL|https://puenteclaro.example.invalid]]  
+Servicio: evaluación del habla y del lenguaje, [[KEEP|CPT 92523]], modificador [[KEEP|GN]]
+
+Estimada señora [[PARENT|Lucía de la Cruz]] y estimado señor [[PARENT|José Salazar]]:
+
+Gracias por compartir sus preguntas y las actividades que disfruta su hijo. Este informe explica qué observamos, cómo interpretamos los resultados y qué apoyos recomendamos. Queremos que ustedes puedan usar esta información en casa y compartirla con las personas que participan en su cuidado.
+
+[[CHILD|Mateo]] mostró interés en los carros, los animales y un libro con ventanas para abrir. Buscó la compañía de su mamá y aceptó mi participación después de explorar el cuarto. Sus sonrisas, gestos y esfuerzos para comunicarse fueron una parte importante de la evaluación.
+
+Motivo de consulta y antecedentes
+
+Ustedes solicitaron la evaluación porque a veces resulta difícil entender lo que [[CHILD|Teo]] quiere decir. También les preocupa que necesite ayuda para seguir instrucciones, contar algo que pasó y explicar por qué está molesto. Desean que pueda pedir ayuda y participar con otros niños sin tanta frustración.
+
+La maestra [[TEACHER|Marisol Paredes]] informó preocupaciones similares desde [[DAYCARE|Little Learners Daycare]]. Según su descripción, el niño participa mejor cuando puede mirar una demostración. Durante actividades con instrucciones verbales largas, suele observar a sus compañeros antes de empezar o espera que un adulto le señale el material.
+
+El referido llegó de la doctora [[PROVIDER|Ana Beltrán]], de [[HOSPITAL|Centro Médico Robledal]]. Revisamos el resumen del referido y conversamos con ustedes sobre sus prioridades. La evaluación incluyó información familiar, observación del juego, tareas estructuradas y una muestra de comunicación espontánea.
+
+No buscamos que el niño deje de usar ninguno de sus idiomas. La meta es que tenga más herramientas para expresar sus ideas en español y en inglés. También buscamos distinguir las diferencias esperadas por aprender dos idiomas de las dificultades que necesitan apoyo clínico.
+
+Antecedentes del nacimiento y de salud
+
+Según la entrevista familiar, el embarazo transcurrió sin complicaciones importantes. [[CHILD|Mateo del Río-Salazar]] nació en [[HOSPITAL|Hospital Arroyo Sereno]], en [[PLACE|Puerto Arrayán]], Carolina del Norte. El nacimiento ocurrió a las [[KEEP|38 semanas y 4 días]] de gestación, mediante parto vaginal.
+
+El peso al nacer fue de [[KEEP|3,180 gramos]]. Los puntajes de Apgar fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. Ustedes indicaron que no necesitó cuidados intensivos ni apoyo prolongado para respirar. La alimentación inicial no presentó problemas que requirieran una evaluación especializada.
+
+La familia recuerda que las primeras palabras claras aparecieron alrededor de los [[KEEP|20 meses]]. Las combinaciones de palabras se hicieron más frecuentes cerca de los [[KEEP|32 meses]]. Estas edades proceden del recuerdo familiar. No contamos con registros contemporáneos que permitan precisar el momento de cada cambio.
+
+La madre reportó dos episodios de infección del oído durante la primera infancia. No reportó cirugías, convulsiones, pérdida de habilidades ni lesiones importantes. Actualmente no toma medicamentos de uso diario. Come alimentos de distintas texturas y bebe de un vaso abierto con supervisión habitual.
+
+El audiólogo [[PROVIDER|Diego Ferrer]] realizó una evaluación el [[DATE|18 de junio de 2026]]. El informe revisado describió respuestas auditivas dentro de los límites esperados en ambos oídos. Este resultado permite interpretar las observaciones actuales con mayor confianza, aunque cualquier cambio auditivo futuro necesitaría atención.
+
+Durante esta visita, la respiración, la voz y el movimiento visible de labios y lengua no mostraron dificultades evidentes. Esta observación fue breve y no sustituye otros exámenes médicos. Ustedes no describieron tos frecuente al comer, dolor al hablar ni preocupación por la deglución.
+
+Historia familiar y de los idiomas
+
+[[CHILD|Teo]] vive con su mamá, [[PARENT|Lucía]], y su papá, [[PARENT|José]], a quien la familia llama [[PARENT|Pepe]]. También vive con sus hermanos. La hermana mayor, [[SIBLING|Guadalupe Salazar]], llamada [[SIBLING|Lupita]], tiene [[KEEP|7;6]] y disfruta leerle cuentos.
+
+Su hermano [[SIBLING|Jesús Salazar]], llamado [[SIBLING|Chuy]], tiene [[KEEP|6;0]]. El hermano menor, [[SIBLING|Juan del Río-Salazar]], llamado [[SIBLING|Juanito]], tiene [[KEEP|2;8]]. Los juegos entre hermanos ofrecen muchas oportunidades para pedir objetos, turnarse y negociar, aunque a veces los mayores responden por el niño.
+
+La madre trabaja en dos empleos: [[ORG|Lavandería Brisa Cobre]] y [[ORG|MNC]]. Sus horarios cambian durante la semana. Por eso, la familia necesita recomendaciones breves que puedan incorporarse a actividades habituales. El plan no debe depender de ejercicios largos ni de materiales costosos.
+
+El padre suele acompañar los juegos con bloques y las rutinas de comida. La abuela [[FAMILY|Rosa de la Cruz]] participa en el cuidado algunos días. La niñera [[FAMILY|Celia Montoro]] también ayuda cuando coinciden los horarios laborales. Ambas usan principalmente español al hablar con el niño.
+
+En casa, el español es el idioma más frecuente. Los hermanos usan tanto español como inglés durante el juego. En la guardería, predominan las instrucciones en inglés, con apoyo en español cuando está disponible. La exposición a cada idioma cambia según la persona, la actividad y el día.
+
+Los primos [[FAMILY|Inés del Río]] y [[FAMILY|Tomás Salcedo]] visitan a la familia con frecuencia. Durante esos encuentros, el niño participa en juegos de cocina y carreras de carros. La familia también tiene una perrita llamada [[PET|Canela]], que suele aparecer en sus conversaciones y dibujos.
+
+Ustedes indicaron que [[CHILD|Mateo]] entiende más español que inglés y busca palabras en ambos idiomas. Puede empezar una idea en español y añadir una palabra inglesa conocida. Esta combinación es esperada en muchos niños bilingües. Por sí sola, no indica confusión ni un trastorno.
+
+Experiencias educativas y apoyos anteriores
+
+En [[DAYCARE|Little Learners Daycare]], la maestra [[TEACHER|Marisol]] y el asistente [[TEACHER|Óscar Ledesma]] han empezado a usar fotografías de las actividades. Ambos describieron una mejor participación cuando anticipan la siguiente rutina y permiten tiempo adicional para responder.
+
+Sus compañeros [[PEER|Alma Rivas]] y [[PEER|Bruno Montalvo]] suelen invitarlo a jugar. Según el reporte escolar, a veces ellos interpretan sus gestos correctamente y otras veces el intercambio termina sin resolver lo que quería. La familia desea que pueda aclarar su mensaje con menos ayuda.
+
+La coordinadora [[PROVIDER|Nadia Soler]], de [[AGENCY|CDSA de Valle Cedrillo]], acompañó a la familia durante una etapa anterior de intervención temprana. Revisamos un IFSP fechado el [[DATE|8 de febrero de 2025]], cuando el niño tenía [[KEEP|2;9]].
+
+El resultado [[KEEP|2]] del IFSP proponía aumentar las peticiones durante las rutinas familiares. El documento registraba avances con gestos y palabras aisladas. Ese resultado aporta antecedentes, pero no representa una meta vigente. El plan actual debe responder a sus necesidades presentes.
+
+Cómo realizamos la evaluación
+
+Yo, [[PROVIDER|Elena Márquez-Castañeda]], realicé la visita en español y obtuve ejemplos complementarios en inglés. La madre estuvo presente. Alternamos tareas de mesa con juego para reducir el cansancio. Permitimos descansos breves y observamos cómo cambiaba el desempeño con distintas ayudas.
+
+Administramos [[KEEP|PLS-5 Spanish]] siguiendo las instrucciones pertinentes del instrumento. Los ejemplos adicionales, las repeticiones fuera del procedimiento estándar y las actividades de enseñanza se analizaron por separado. Esas ayudas no se incorporaron como respuestas correctas al calcular los puntajes estandarizados.
+
+También examinamos la producción de sonidos mediante palabras, conversación y una muestra de juego. Usamos categorías de [[KEEP|SALT]] para organizar algunos ejemplos de lenguaje. La muestra fue breve, por lo que describe esta visita y no todas las habilidades que el niño puede mostrar.
+
+Resultados de las pruebas
+
+Los siguientes resultados corresponden a [[KEEP|PLS-5 Spanish]]. Los intervalos expresan la incertidumbre habitual de la medición. Los equivalentes de edad son descripciones aproximadas del desempeño en ciertas tareas; no representan la edad mental del niño.
+
+| Prueba o subprueba | Puntaje bruto | Puntaje estándar | Percentil | Intervalo de confianza del [[KEEP|90 %]] | Equivalente de edad |
+|---|---:|---:|---:|---:|---:|
+| [[KEEP|Comprensión auditiva]] | [[KEEP|35]] | [[KEEP|77]] | [[KEEP|6]] | [[KEEP|73-83]] | [[KEEP|2;11]] |
+| [[KEEP|Comunicación expresiva]] | [[KEEP|32]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|70-81]] | [[KEEP|2;8]] |
+| [[KEEP|Lenguaje total]] | [[KEEP|67]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|70-80]] | [[KEEP|2;9]] |
+
+El puntaje estándar de [[KEEP|77]] en [[KEEP|Comprensión auditiva]] indica dificultad en comparación con la referencia del instrumento. Observamos mayor facilidad para reconocer objetos y acciones familiares. Las tareas con relaciones espaciales, preguntas menos concretas e instrucciones con varios elementos fueron más difíciles.
+
+El puntaje estándar de [[KEEP|74]] en [[KEEP|Comunicación expresiva]] coincide con las preocupaciones sobre frases cortas y dificultad para explicar ideas. El niño nombró objetos conocidos y expresó algunas necesidades. Necesitó más apoyo para describir acciones, responder preguntas y conectar información.
+
+El resultado de [[KEEP|Lenguaje total]], con puntaje estándar de [[KEEP|74]], resume ambas áreas. Ningún puntaje aislado establece el diagnóstico. Consideramos también la historia, las oportunidades de aprendizaje, las respuestas durante el juego y los ejemplos aportados por la familia y la guardería.
+
+Comprensión durante las actividades
+
+[[CHILD|Mateo]] siguió instrucciones familiares de un paso en [[KEEP|8/10]] oportunidades sin demostración. Cuando la instrucción tenía dos pasos relacionados, respondió en [[KEEP|3/5]] oportunidades. Con [[KEEP|claves moderadas (mod cues)]], su desempeño aumentó a [[KEEP|4/5]].
+
+Reconoció acciones comunes en fotografías y encontró objetos usados durante la merienda. Le costó más distinguir algunas posiciones y responder preguntas sobre situaciones imaginadas. Al simplificar la frase y mostrar el contexto, participó con mayor seguridad. Esto sugiere que el apoyo visual puede facilitar el aprendizaje.
+
+En inglés respondió a varias expresiones conocidas de la guardería. Sin embargo, también necesitó ayuda en tareas semejantes realizadas en español. La dificultad observada no se limitó a palabras inglesas nuevas. Este patrón respalda la necesidad de apoyo en el desarrollo del lenguaje.
+
+Expresión y comunicación social
+
+Durante el juego, [[CHILD|Teo]] usó palabras, gestos y frases breves para pedir, protestar y compartir interés. Produjo [[KEEP|"quiero carro"]], [[KEEP|"aquí está"]] y [[KEEP|"no cabe"]]. Cuando faltaba una palabra, señaló o llevó el objeto hasta un adulto.
+
+Al mirar una fotografía familiar, dijo "aquí [[SIBLING|Lupita]]". Después señaló la puerta y expresó "quiero [[PET|Canela]] aquí". Estas producciones mostraron intención clara de comunicar. También mostraron que necesita ampliar las frases para explicar relaciones, acciones y detalles con mayor precisión.
+
+En una actividad con animales produjo [[KEEP|"dos perro"]]. Registramos el marcador [[KEEP|[EW]]] en ese ejemplo para señalar una omisión gramatical según las convenciones usadas en la muestra. El código describe esa producción específica y no constituye por sí solo una conclusión diagnóstica.
+
+El niño respondió a su nombre, compartió objetos y buscó que el adulto mirara lo que hacía. Mantuvo varios intercambios cuando el tema le interesaba. La frustración aumentó cuando su mensaje no se entendió. Una pausa, una elección visual y una respuesta tranquila ayudaron a retomar la actividad.
+
+Habla y claridad del mensaje
+
+En la muestra, una persona poco familiar con su habla comprendió aproximadamente el [[KEEP|65 %]] de las palabras dentro de frases. Esta estimación depende del contexto y del tamaño de la muestra. Ustedes describieron mayor comprensión en casa porque conocen sus rutinas y palabras habituales.
+
+Observamos sustituciones de [[KEEP|/k/]] por [[KEEP|/t/]] en varias palabras. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Para [[KEEP|"gato"]], produjo [[KEEP|"dato"]]. También simplificó grupos de consonantes; ante [[KEEP|"plato"]], dijo [[KEEP|"pato"]].
+
+La producción de [[KEEP|/ɾ/]] fue variable. En una palabra inglesa apareció [[KEEP|[w]]] donde el modelo contenía [[KEEP|/ɹ/]]. Interpretamos cada sonido según el idioma y la palabra. No contamos las diferencias propias del español y del inglés como errores automáticos.
+
+Con un modelo lento y [[KEEP|claves máximas (max cues)]], produjo [[KEEP|/k/]] en [[KEEP|3/5]] intentos. Con [[KEEP|claves mínimas (min cues)]], lo produjo en [[KEEP|1/5]]. Estos resultados muestran una respuesta inicial al apoyo, pero todavía no una producción estable en conversación.
+
+Impresiones clínicas
+
+Los resultados son compatibles con un trastorno del lenguaje receptivo y expresivo, [[KEEP|ICD-10 F80.2]]. Las dificultades afectan la comprensión de mensajes más complejos y la capacidad para desarrollar ideas. La conclusión se apoya en varias fuentes y no solamente en los puntajes.
+
+También observamos un trastorno de los sonidos del habla, [[KEEP|ICD-10 F80.0]], con patrones que reducen la claridad del mensaje. La selección de sonidos para tratamiento debe considerar ambos idiomas. No recomendamos corregir cada palabra durante una conversación ni exigir repeticiones continuas.
+
+[[CHILD|Mateo del Río-Salazar]] mostró fortalezas importantes: interés social, juego funcional, búsqueda de ayuda y respuesta a modelos claros. Estas habilidades ofrecen una buena base para la intervención. La evolución deberá revisarse con ejemplos funcionales y datos recogidos durante el tratamiento.
+
+Recomendaciones para la familia y la guardería
+
+1. Inicien terapia del habla y del lenguaje dos veces por semana, durante treinta minutos por visita. Ajustaremos la frecuencia según la participación, las prioridades familiares y el progreso. La propuesta combina trabajo directo con orientación a los cuidadores.
+
+2. Consideren [[KEEP|Little Learners Program]], un programa terapéutico de [[EMPLOYER|Puente Claro Terapia Infantil]]. Su nombre se parece al de [[DAYCARE|Little Learners Daycare]], pero corresponde al servicio de intervención. La coordinación ayudará a usar estrategias semejantes durante distintas actividades.
+
+3. Mantengan el español en las conversaciones familiares. Usen también el inglés cuando resulte natural. No hace falta traducir cada frase ni pedir que el niño elija un solo idioma. Un modelo claro en cualquiera de sus idiomas puede apoyar la comunicación.
+
+4. Sigan el interés del niño y amplíen su mensaje. Si dice [[KEEP|"carro rojo"]], pueden responder [[KEEP|"el carro rojo corre"]]. Después hagan una pausa. No es necesario que repita el modelo para que la interacción sea útil.
+
+5. Presenten instrucciones breves y acompañen las más difíciles con una fotografía o un gesto. Comprueben la comprensión mediante la acción. Preguntar repetidamente si entendió puede dar poca información sobre lo que necesita.
+
+6. Reserven pequeños momentos de juego durante actividades que ya realizan. La merienda, el baño y guardar juguetes permiten practicar peticiones y comentarios. Para una familia con dos empleos, la constancia en momentos breves puede ser más viable que una tarea extensa.
+
+7. Podemos incorporar estrategias de [[KEEP|Hanen]] para orientar a los cuidadores y elementos de [[KEEP|Cycles]] para los patrones del habla. La selección dependerá de la respuesta clínica. Explicaremos cada actividad antes de pedir que la practiquen en casa.
+
+8. Soliciten una reunión con el equipo de [[SCHOOL|Escuela Preescolar Senderos de Azahar]] para explorar apoyos educativos. La evaluación escolar determinará qué servicios corresponden en ese entorno. Este informe puede aportar información sobre las necesidades observadas.
+
+Metas iniciales y seguimiento
+
+La meta [[KEEP|1]] del plan será seguir instrucciones de dos pasos relacionados en [[KEEP|4/5]] oportunidades, con [[KEEP|claves mínimas (min cues)]]. Practicaremos primero con objetos conocidos y después cambiaremos el material para comprobar que comprende la instrucción.
+
+La meta [[KEEP|2]] será producir frases para pedir ayuda, comentar o explicar una acción en [[KEEP|8/10]] oportunidades, con [[KEEP|claves moderadas (mod cues)]] o menos. Aceptaremos respuestas en español, en inglés o combinadas cuando comuniquen la idea.
+
+La meta [[KEEP|3]] será producir [[KEEP|/k/]] en palabras seleccionadas con una precisión del [[KEEP|80 %]], usando [[KEEP|claves mínimas (min cues)]]. Revisaremos si el sonido aparece también fuera de las tareas practicadas antes de aumentar la dificultad.
+
+La revisión está prevista para el [[DATE|8 de octubre de 2026]], a las [[TIME|3:30 p. m.]]. Compararemos datos de terapia y ejemplos familiares. Si el horario laboral cambia, podremos buscar una alternativa. Ustedes deben poder participar sin que el plan añada una carga innecesaria.
+
+Gracias por ayudarnos a conocer las fortalezas de [[CHILD|Teo]] y las situaciones que le cuestan más. Nuestra prioridad será que pueda expresar sus necesidades, compartir sus ideas y disfrutar la comunicación con las personas importantes de su vida.
+
+Atentamente,
+
+[[PROVIDER|Elena Márquez-Castañeda]]  
+Patóloga bilingüe del habla y del lenguaje  
+[[EMPLOYER|Puente Claro Terapia Infantil]]  
+Licencia de Carolina del Norte: [[ID|FIC-SLP-48271]]

@@ -1,0 +1,39 @@
+Para: su mamá [[PARENT|Elena Vargas]]
+Asunto: resumen escolar de [[CHILD|Tomás Vargas]]
+
+Estimada señora [[PARENT|Vargas]]:
+
+Soy [[PROVIDER|Marina Solís]], patóloga bilingüe del habla y del lenguaje de [[EMPLOYER|Comunicación Infantil del Roble]], en Carolina del Norte. Comparto el resumen de la evaluación realizada el [[DATE|8 de octubre de 2026]]. Su hijo [[CHILD|Tomás]] tiene [[KEEP|4;2]] y asiste a [[SCHOOL|Escuela Infantil Sendero Azul]], en [[PLACE|Valle del Cedro]]. Su maestra, Ms. [[TEACHER|Lopez]], nos recibió en el aula «Ms. [[TEACHER|Lopez]]'s room».
+
+Este documento reúne observaciones para coordinar apoyos entre la familia y la escuela. Su papá [[PARENT|Diego Vargas]] explicó que el niño usa español en casa e inglés durante algunas actividades escolares. Su hermana [[SIBLING|Paula Vargas]] participa en juegos de turnos. Su abuela [[FAMILY|Teresa Molina]] ayuda con las rutinas de lectura. El perro [[PET|Nube]] aparece con frecuencia en sus relatos.
+
+Datos administrativos	Valor
+Medicaid ID	[[MEDICAID_ID|731864209Q]]
+ID de miembro del seguro	[[ID|NC584203761]]
+NC ITP child ID	[[ID|ITP-26041873]]
+Número de expediente	[[ID|EXP-2026-09317]]
+Autorización	[[ID|AUT-92507-6482]]
+Diagnóstico ICD-10	[[KEEP|F80.2]]
+
+En la sesión, [[CHILD|Tomás]] siguió instrucciones de dos pasos con [[KEEP|mod cues]]. Durante el juego con su compañero [[PEER|Nicolás Peña]], pidió materiales y esperó su turno. Dijo [[KEEP|“yo quiere carro”]]; el modelo adulto fue [[KEEP|“yo quiero el carro”]]. Para la palabra objetivo [[KEEP|“casa”]], produjo [[KEEP|/k/]] correctamente en [[KEEP|8/10]] oportunidades, equivalente a [[KEEP|80%]]. También observamos [[KEEP|[w]]] en una muestra breve.
+
+Prueba o medida	Resultado	Observación
+[[KEEP|PLS-5 Spanish]]	Puntuación estándar [[KEEP|78]]	Percentil [[KEEP|7]]
+Muestra narrativa	Longitud media [[KEEP|3.1]]	Código SALT [[KEEP|[EW]]]
+Comprensión de instrucciones	[[KEEP|6/10]]	[[KEEP|60%]]
+
+Los resultados describen esta muestra y deben interpretarse junto con la exposición a cada idioma. La maestra [[TEACHER|Lopez]] informó que las imágenes facilitan la participación. Recomendamos ofrecer dos opciones, esperar una respuesta y ampliar sus frases sin exigir repeticiones. Estas estrategias pueden incorporarse al juego, la merienda y la lectura compartida.
+
+Servicio	Código	Horario	Lugar
+Evaluación	[[KEEP|92523]]	[[DATE|8 de octubre de 2026]], [[TIME|9:00 a. m.]]	[[SCHOOL|Escuela Infantil Sendero Azul]]
+Terapia individual	[[KEEP|92507]]	Martes, [[TIME|10:15 a. m.]]	[[SCHOOL|Escuela Infantil Sendero Azul]]
+
+La coordinadora [[PROVIDER|Adriana Ríos]], de [[AGENCY|CDSA de Valle del Cedro]], revisará la disponibilidad. La próxima reunión será el [[DATE|22 de octubre de 2026]]. Lleve ejemplos de palabras nuevas o situaciones difíciles. El equipo revisará el progreso mediante muestras comparables y acordará ajustes con ustedes. Puede responder por correo para confirmar su asistencia o compartir preguntas antes de la reunión.
+
+Contacto	Dato
+Clínica	[[PLACE|1846 Calle del Junco]], [[PLACE|Valle del Cedro]], NC [[PLACE|27963]]
+Teléfono	[[PHONE|(919) 555-0148]]
+Correo	[[EMAIL|marina.solis@roble.example]]
+
+Atentamente,
+[[PROVIDER|Marina Solís]]

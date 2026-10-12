@@ -1,0 +1,28 @@
+SESSION DETAILS
+- Service date: [[DATE|October 8, 2026]]; session time: [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]. Client: [[CHILD|Emilio Varela]], age [[KEEP|4;2]]; DOB: [[DATE|August 8, 2022]].
+- Clinician: [[PROVIDER|Marisol Castañeda]], bilingual English–Spanish pediatric speech-language pathologist, employed by [[EMPLOYER|Willow Lantern Pediatric Therapy, PLLC]], also called [[EMPLOYER|Willow Lantern Therapy]] or [[EMPLOYER|WLPT]].
+- Record: [[ID|WL-604281]]; Medicaid: [[MEDICAID_ID|482761903Q]]. Diagnosis: [[KEEP|F80.2]]. Today’s billing: [[KEEP|92507]], modifier [[KEEP|GN]]; prior evaluation: [[KEEP|92523]].
+- Location: [[PLACE|214 Lanternberry Lane]], [[PLACE|Fernhollow]], North Carolina [[PLACE|27863]], [[PLACE|Briarvale County]].
+
+SUBJECTIVE
+- Mother [[PARENT|Lucía Varela]] reported that [[CHILD|Emilio]] requested snacks more often at home. Father [[PARENT|Tomás Varela]] practiced picture choices after returning from [[ORG|Copper Finch Packaging]].
+- Sister [[SIBLING|Inés Varela]] modeled turn-taking. Grandmother [[FAMILY|Rosa Beltrán]] described improved requests to feed the family dog, [[PET|Chispa]].
+- At [[DAYCARE|Acorn Lantern Learning Center]], Ms. [[TEACHER|Lopez]] reported participation in [[TEACHER|Lopez]]’s room. Peers [[PEER|Nora Pike]] and [[PEER|Caleb Rowan]] joined pretend cooking.
+- Family contact: [[PHONE|919-555-0147]]; [[EMAIL|lucia.varela@example.com]]. Caregiver reported restful sleep and no illness.
+
+OBJECTIVE
+- Prior [[KEEP|PLS-5]] testing on [[DATE|September 17, 2026]] yielded [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], age equivalent [[KEEP|3;0]], and confidence interval [[KEEP|73–85]].
+- During play, [[CHILD|Emilio]] followed related directions in [[KEEP|8/10]] trials, or [[KEEP|80%]], with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities.
+- Used [[KEEP|Hanen]] strategies and [[KEEP|PECS]] supports. Productions included [[KEEP|"quiero agua"]], [[KEEP|"my turn"]], and [[KEEP|"tat"]] for [[KEEP|"cat"]]. Practiced [[KEEP|/k/]] with [[KEEP|max cues]]; observed [[KEEP|[w]]] substitution during imitation.
+- Language sampling included [[KEEP|[EW]]] coding. Engagement improved with movement breaks, visual choices, and additional response time. No distress occurred during transitions.
+
+ASSESSMENT
+- [[CHILD|Emilio]] demonstrated emerging functional communication across languages. Performance improved when adults paired gestures with spoken models. Mixed-language responses served clear communicative purposes.
+- Referral notes from [[HOSPITAL|Larkhaven Health System, Moonbrook Campus]] NICU documented gestational age [[KEEP|35 weeks]], birth weight [[KEEP|2,180 g]], and Apgar scores [[KEEP|7]] and [[KEEP|9]].
+- Dr. [[PROVIDER|Anika Sen]] at [[HOSPITAL|Larkhaven Health System, Moonbrook Campus Pediatric Clinic]] requested audiology follow-up. Hearing status remains caregiver-reported.
+
+PLAN
+- Continue weekly therapy toward IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Coach caregivers to model [[KEEP|"help"]] and [[KEEP|"more"]] with [[KEEP|min cues]], then pause for a response.
+- Service coordinator [[PROVIDER|Dalia Mercer]] from [[AGENCY|Briarvale Children’s Developmental Services Agency]] will coordinate follow-up. Share practice ideas with Ms. [[TEACHER|Lopez]] after consent.
+- Next visit: [[DATE|October 15, 2026]], [[TIME|9:15 a.m.]]. Employer resource page: [[URL|https://willowlantern.example.com/practice]].
+- Mother [[PARENT|Lucía Varela]] demonstrated the routine accurately and selected snack time for daily practice. Review generalization and caregiver questions at the next session.

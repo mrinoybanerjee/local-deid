@@ -1,0 +1,26 @@
+[[DATE|11 de octubre de 2026]]
+
+Estimada señora [[PARENT|Guadalupe Serrano Vidal]]:
+
+Le comparto la nota de la sesión de hoy de su hijo [[CHILD|Mateo Serrano Vidal]], a quien ustedes llaman [[CHILD|Teo]]. Soy [[PROVIDER|Elena Marín Solano]], patóloga bilingüe del habla y del lenguaje de [[EMPLOYER|Palabras del Colibrí]]. Trabajamos en español durante la visita en [[DAYCARE|El Paraguas de las Luciérnagas]], en [[PLACE|Cedraluna]], Carolina del Norte.
+
+La sesión comenzó a las [[TIME|9:15 a. m.]] y terminó a las [[TIME|9:55 a. m.]]. El expediente es [[ID|SL-604218]]; el número de Medicaid registrado es [[MEDICAID_ID|731604928Q]]. La edad actual es [[KEEP|4;2]]. Registré el servicio con CPT [[KEEP|92507]], modificador [[KEEP|GN]], y diagnóstico ICD-10 [[KEEP|F80.2]].
+
+Usted, señora [[PARENT|Lupita]], comentó que trabaja en [[ORG|RVC]] por las mañanas y en [[ORG|Panadería Brisa de Canela]] por las tardes. Su pareja, [[PARENT|Jesús Vidal Robles]], conocido como [[PARENT|Chuy]], acompaña la rutina nocturna. La abuela [[FAMILY|Rosa Serrano Ávila]] recoge al niño algunos días. Su hermano [[SIBLING|José Vidal Serrano]], llamado [[SIBLING|Pepe]], disfruta mirar cuentos con él. Estas rutinas ofrecen oportunidades para practicar sin añadir tareas largas.
+
+La maestra [[TEACHER|Nora Beltrán Ponce]] informó que hoy pidió materiales con más claridad. Al entrar, [[CHILD|Mateo]] saludó a su compañero [[PEER|Juan Ortega Ledesma]], conocido como [[PEER|Juanito]], y aceptó compartir bloques. Mostró interés por los animales de juguete. Necesitó una pausa breve cuando el salón tuvo mucho ruido, pero regresó tranquilo después de elegir un asiento junto a la ventana.
+
+Revisé los resultados previos de [[KEEP|PLS-5]], obtenidos el [[DATE|24 de septiembre de 2026]]. En [[KEEP|Comprensión auditiva]], la puntuación estándar fue [[KEEP|78]], con percentil [[KEEP|7]] e intervalo de confianza [[KEEP|73-83]]. La edad equivalente fue [[KEEP|2;6–3;0]]. Estos resultados orientan el tratamiento; también consideramos lo que logra en sus actividades diarias y en ambos idiomas.
+
+Hoy seguimos el objetivo [[KEEP|2]] del plan familiar de servicios: pedir ayuda o materiales mediante palabras combinadas. Con estrategias de [[KEEP|Hanen]], esperé antes de entregar objetos, ofrecí opciones y amplié sus mensajes. Produjo [[KEEP|"quiero agua"]] y [[KEEP|"dame carro"]] con [[KEEP|apoyo mínimo]]. Combinó palabras en [[KEEP|8/10]] oportunidades, equivalente al [[KEEP|80%]]. Al principio necesitó [[KEEP|apoyo moderado]]; al final inició varias peticiones por sí mismo.
+
+También practicamos el sonido [[KEEP|/k/]] con la palabra [[KEEP|"casa"]]. Dijo [[KEEP|"tasa"]] en algunos intentos y logró el sonido esperado en [[KEEP|3 de 5]] oportunidades con [[KEEP|apoyo máximo]]. Aceptó mirar mi boca y repetir durante el juego. En la muestra de lenguaje registré [[KEEP|[EW]]] para una palabra adicional. Al hablar de su mascota, dijo: “[[PET|Mochi]] corre”. Esa frase surgió espontáneamente.
+
+Para casa, recomiendo elegir un momento corto durante la merienda. Ofrezcan dos opciones, esperen y respondan a cualquier intento de comunicación. Si dice una palabra, añadan otra. Eviten pedir repeticiones cuando esté cansado. La participación fue buena y no observé señales de dolor ni malestar.
+
+En la próxima sesión practicaremos pedir turnos y seguir instrucciones sencillas durante juegos compartidos. La coordinadora [[PROVIDER|M. R.]] recibirá esta nota en el expediente interno. La próxima visita está prevista para el [[DATE|18 de octubre de 2026]] a las [[TIME|9:15 a. m.]]. Puede llamarme al [[PHONE|(919) 555-0146]] o escribir a [[EMAIL|elena@palabrascolibri.example]]. Gracias por compartir los avances de casa.
+
+Con cariño,
+
+[[PROVIDER|Elena Marín Solano]]
+Patóloga del habla y del lenguaje

@@ -1,0 +1,33 @@
+1. INFORMACIÓN GENERAL
+
+1.1. Identificación y servicio  
+Fecha: [[DATE|8 de octubre de 2026]]. Horario: [[TIME|09:15]] a [[TIME|10:00]]. Paciente: [[CHILD|Nicolás del Río-Monteluz]], edad [[KEEP|4;2]]. Expediente: [[ID|SLP-704286]]. Medicaid: [[MEDICAID_ID|583027164Q]]. Servicio: [[KEEP|CPT 92507]]; diagnóstico registrado: [[KEEP|ICD-10 F80.2]].
+
+1.2. Profesional y entorno  
+La sesión fue realizada en español por la patóloga bilingüe del habla y del lenguaje [[PROVIDER|Elena de la Cruz]], de [[EMPLOYER|Servicios Terapéuticos Brote Claro]], en Carolina del Norte. El paciente asiste a [[SCHOOL|Escuela Preescolar Sendero Azul]]. La maestra [[TEACHER|Marina Valcera]] remitió observaciones escritas.
+
+2. INFORMACIÓN SUBJETIVA
+
+2.1. Reporte familiar  
+Su mamá [[PARENT|Adriana Monteluz]] informó mayor iniciativa para pedir materiales. Su hermana [[SIBLING|Sol]] participó en la práctica domiciliaria. La abuela [[FAMILY|Teresa del Río]] utiliza canciones; el perro [[PET|Chispa]] aparece frecuentemente en los relatos familiares.
+
+2.2. Contexto y contacto  
+Domicilio informado: [[PLACE|418 Willow Lantern Drive]], [[PLACE|Pinar del Este]], Carolina del Norte, [[PLACE|27900]]. La familia refiere procedencia de [[PLACE|Aldea Los Naranjillos]], Honduras. Contacto: [[PHONE|(919) 555-0146]]; correo: [[EMAIL|adriana.monteluz@example.com]]. La madre trabaja en [[ORG|Cooperativa Textil Nube Serena]].
+
+3. OBSERVACIONES OBJETIVAS
+
+3.1. Lenguaje y habla  
+Durante juego estructurado, produjo solicitudes de tres palabras en [[KEEP|8/10]] oportunidades con [[KEEP|ayudas moderadas]]. Identificó acciones con [[KEEP|80 %]] de precisión. Para la palabra objetivo [[KEEP|«sol»]], obtuvo [[KEEP|6/10]] respuestas independientes. Esta palabra se trabajó como vocabulario meteorológico.
+
+3.2. Muestra y antecedentes  
+Produjo [[KEEP|«yo quiere pelota»]] y [[KEEP|«el perro corre»]]. Se registró [[KEEP|[EW]]] en la muestra SALT. La producción de [[KEEP|/k/]] alcanzó [[KEEP|70 %]] con [[KEEP|ayudas mínimas]]; apareció [[KEEP|[w]]] durante una aproximación espontánea. La evaluación del [[DATE|17 de septiembre de 2026]] mediante [[KEEP|PLS-5 Spanish]] documentó [[KEEP|puntuación estándar 82]] y [[KEEP|percentil 12]].
+
+4. ANÁLISIS CLÍNICO
+
+4.1. Interpretación  
+Se observó mejor organización de solicitudes y persistencia ante tareas nuevas. El compañero [[PEER|Emilio Barcena]] facilitó turnos conversacionales. Persisten dificultades de concordancia verbal y generalización fonológica. No se observaron signos de fatiga.
+
+5. PLAN Y COORDINACIÓN
+
+5.1. Seguimiento  
+Continuar intervención semanal y práctica familiar breve con imágenes. Revisar avances el [[DATE|15 de octubre de 2026]]. La coordinadora [[PROVIDER|Paula Lureda]], de [[AGENCY|Centro de Desarrollo Infantil Valle Claro]], recibirá el resumen mediante el canal autorizado. Se propone registrar respuestas independientes y ajustar las ayudas según desempeño.

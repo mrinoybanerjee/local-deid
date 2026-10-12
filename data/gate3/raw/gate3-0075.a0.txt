@@ -1,0 +1,33 @@
+**Nota diaria de terapia y evaluación breve**
+
+Fecha: [[DATE|8 de octubre de 2026]]. Horario: [[TIME|9:15 a. m.]]–[[TIME|10:00 a. m.]]  
+Paciente: [[CHILD|Emilio Vargas Soto]], edad [[KEEP|4;2]]. Expediente: [[ID|NC-482613]]. Medicaid: [[MEDICAID_ID|583927461Q]].  
+Profesional: [[PROVIDER|Natalia Beltrán]], patóloga bilingüe del habla y lenguaje, [[EMPLOYER|Comunicación Infantil del Roble]], [[PLACE|Arroyo Claro]], Carolina del Norte.  
+Contacto familiar: [[PHONE|919-555-0146]].
+
+**S — Información familiar**
+
+Su mamá, [[PARENT|Mariela Soto]], acompañó a [[CHILD|Emilio]]. Informó que su hermana [[SIBLING|Rosa]] facilita los turnos durante el juego. Su abuela [[FAMILY|Luz]] practica las actividades en casa. La familia usa español principalmente. La intérprete [[PROVIDER|Celia Montoya]] apoyó la conversación sobre los servicios escolares en inglés.
+
+La maestra [[TEACHER|Patricia Ledesma]], de [[SCHOOL|Centro Preescolar Lucero Azul]], informó dificultades para pedir materiales al compañero [[PEER|Darío]]. La madre describió mayor participación después de dormir bien.
+
+**O — Observación y resultados**
+
+Se revisaron resultados ficticios de la evaluación del [[DATE|1 de octubre de 2026]]. La tabla documenta puntuaciones estándar, intervalos de confianza del [[KEEP|90 %]] y equivalencias de edad.
+
+| Prueba y subprueba | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–80]] | [[KEEP|2;4–2;9]] |
+
+Durante el juego, [[CHILD|Emilio]] siguió instrucciones en [[KEEP|8/10]] oportunidades con [[KEEP|apoyos moderados]]. Produjo el objetivo [[KEEP|"quiero agua"]] en [[KEEP|3 de 5]] ensayos. Dijo "[[PET|Tito]] ven" mientras miraba una fotografía de su perro. Se registró [[KEEP|[EW]]] en la muestra espontánea.
+
+La precisión de [[KEEP|/k/]] fue [[KEEP|60 %]]; apareció [[KEEP|[w]]] como sustitución. Se aplicaron [[KEEP|Cycles]], [[KEEP|PROMPT]] y estrategias de [[KEEP|Kaufman]]. Se usó [[KEEP|PECS]] para apoyar peticiones. La orientación familiar integró [[KEEP|Hanen]] e [[KEEP|It Takes Two to Talk]].
+
+**A — Interpretación**
+
+[[CHILD|Emilio]] mostró mayor iniciativa con elecciones visuales y pausas. Las equivalencias de edad describen el desempeño en estas tareas; no representan todas sus capacidades. La atención fluctuó al cambiar de actividad. El diagnóstico registrado es [[KEEP|F80.2]]. La sesión corresponde a [[KEEP|92507]], modificador [[KEEP|GN]].
+
+**P — Plan**
+
+Continuar el [[KEEP|objetivo 2]] del IFSP con peticiones funcionales. Coordinar con la terapeuta ocupacional [[PROVIDER|Elena Pardo]], el fisioterapeuta [[PROVIDER|Samuel Acosta]] y la pediatra Dra. [[PROVIDER|Inés Cabrera]]. La coordinadora [[PROVIDER|Beatriz Navas]], de [[AGENCY|CDSA de Arroyo Claro]], revisará los apoyos familiares. Próxima sesión: [[DATE|15 de octubre de 2026]], a las [[TIME|9:15 a. m.]].

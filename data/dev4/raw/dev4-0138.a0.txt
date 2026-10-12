@@ -1,0 +1,32 @@
+Daily Session Note
+
+Client: [[CHILD|Mateo Fernández Cruz]] (DOB [[DATE|03/14/2021]]), age [[KEEP|4;2]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:00 PM]]
+Location: [[PLACE|412 Juniper Lane]], [[PLACE|Cary]], [[PLACE|27518]]
+
+S: [[PARENT|Lucía Fernández]] reports [[CHILD|Mateo]] has been practicing [[KEEP|/k/]] at home with his older sister, [[SIBLING|Valentina]]. His babysitter, [[FAMILY|Rosa Jiménez]], noted he said "[[KEEP|caca]]" clearly during snack time. Father, [[PARENT|Diego Fernández]], joined for the last ten minutes and reported no new concerns. The family's dog, [[PET|Coco]], stayed calm throughout. [[CHILD|Mateo]] attends [[DAYCARE|Little Explorers Nest]] three mornings a week, where his teacher, Ms. [[TEACHER|Owens]], reports improved turn-taking with classmate [[PEER|Dylan]].
+
+Birth/Medical History: [[CHILD|Mateo]] was born at [[KEEP|32 weeks]] gestation ([[KEEP|32w2d]]) at [[HOSPITAL|WakeMed Cary Hospital]], Apgar [[KEEP|6/9]], birth weight [[KEEP|1,680 grams]]. He spent 18 days in the NICU under [[PROVIDER|Dr. Anand Patel]] and neonatologist [[PROVIDER|Dr. Grace Osei]]. Case coordination continues through the [[AGENCY|Agencia de Servicios Infantiles y Familiares de Carolina del Norte (ASIFCN)]]; his coordinator, [[PROVIDER|M.R.]], confirmed the IFSP review for [[DATE|November 18, 2026]].
+
+O:
+
+Subtest	Standard Score	Percentile
+[[KEEP|Receptive Language]]	[[KEEP|78]]	[[KEEP|9th]]
+[[KEEP|Expressive Language]]	[[KEEP|82]]	[[KEEP|12th]]
+[[KEEP|Core Language Score]]	[[KEEP|79]]	[[KEEP|8th]]
+
+Administered [[KEEP|CELF-5]], confidence interval [[KEEP|73-83]]. Articulation probe: [[KEEP|/k/]] produced correctly [[KEEP|8/10]] trials with [[KEEP|mod cues]]; [[KEEP|/g/]] remains in error, stimulable with [[KEEP|max cues]]. Used [[KEEP|PROMPT]] hierarchy throughout session.
+
+A: Progress toward IFSP [[KEEP|Outcome 2]]; stimulability for [[KEEP|/g/]] suggests readiness for cueing fade.
+
+P: [[AGENCY|ASIFCN]] authorized an increase to twice-weekly sessions. Continue schedule below.
+
+Day	Time	Provider
+Monday	[[TIME|9:00 AM]]	[[PROVIDER|Jenna Alvarez, SLP]]
+Wednesday	[[TIME|2:30 PM]]	[[PROVIDER|Jenna Alvarez, SLP]]
+
+Contact: [[PHONE|(919) 555-0148]], [[EMAIL|lfernandez22@fakemail.com]]
+
+Signed, [[PROVIDER|Jenna Alvarez, M.S., CCC-SLP]]

@@ -1,0 +1,67 @@
+PROGRAMA INFANTIL Y PARA NIÑOS PEQUEÑOS DE CAROLINA DEL NORTE
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+
+Fecha de la revisión: [[DATE|10 de octubre de 2026]]
+Fecha del IFSP inicial: [[DATE|12 de abril de 2026]]
+Fecha de la evaluación inicial: [[DATE|2 de abril de 2026]]
+
+INFORMACIÓN DEL NIÑO Y DE LA FAMILIA
+
+Niño: [[CHILD|Mateo Hernández Rodríguez]] (conocido en casa como "[[CHILD|Teo]]"), fecha de nacimiento [[DATE|3 de enero de 2024]], número de expediente [[ID|NC-ITP-240317-M]], número de Medicaid [[MEDICAID_ID|8827341905K]].
+
+Madre: [[PARENT|Lucía Rodríguez Paz]], teléfono [[PHONE|(919) 555-0148]], correo electrónico [[EMAIL|lucia.rodriguezpaz@gmail.com]].
+Padre: [[PARENT|Carlos Hernández Vega]], teléfono [[PHONE|(919) 555-0162]].
+Hermana mayor: [[SIBLING|Camila Hernández Rodríguez]], de [[KEEP|6 años]], quien asiste a kínder.
+Abuela materna y cuidadora principal durante el día: [[FAMILY|Rosa Paz]], quien vive con la familia en [[PLACE|214 Calle Mimosa]], [[PLACE|Durham]], Carolina del Norte, [[PLACE|27703]], [[PLACE|Condado de Durham]].
+Perro de la familia: [[PET|Rocky]], muy querido por [[CHILD|Teo]], quien lo señala cada vez que lo ve en el patio.
+
+Coordinadora de servicios: [[PROVIDER|Marisol Jiménez]], de la [[AGENCY|Agencia de Coordinación de Servicios para la Primera Infancia del Condado de Durham]] (en adelante "[[AGENCY|ACSPI Durham]]"), teléfono [[PHONE|(919) 555-0177]], correo [[EMAIL|marisol.jimenez@acspidurham.org]].
+
+Oficina del CDSA: [[AGENCY|Centro de Desarrollo Infantil y Servicios para Niños del Triángulo]] (en adelante "[[AGENCY|CDSA del Triángulo]]"), ubicada en [[PLACE|4420 Avenida Roxboro]], [[PLACE|Durham]], Carolina del Norte, [[PLACE|27704]].
+
+Patóloga del habla y lenguaje bilingüe que redacta este informe: [[PROVIDER|Ana Beltrán]], contratada por [[EMPLOYER|Terapias Pediátricas Bilingües del Triángulo]].
+Terapeuta ocupacional: [[PROVIDER|Jennifer Smith]].
+Fisioterapeuta: [[PROVIDER|David Chen]].
+Pediatra de cabecera: [[PROVIDER|Dr. Raúl Fernández]], de la [[HOSPITAL|Clínica Pediátrica Valle Verde]].
+
+HISTORIA MÉDICA Y DE DESARROLLO
+
+[[CHILD|Teo]] nació a las [[KEEP|34 semanas]] de gestación, con un peso al nacer de [[KEEP|2,100 gramos]] y un [[KEEP|Apgar]] de [[KEEP|7]] al minuto y [[KEEP|9]] a los cinco minutos. El tamizaje auditivo neonatal fue normal, y una evaluación audiológica de seguimiento el [[DATE|15 de mayo de 2025]] confirmó audición dentro de límites normales en ambos oídos. El [[PROVIDER|Dr. Fernández]] refirió a la familia al programa de intervención temprana tras notar un retraso significativo en el lenguaje durante la revisión de los [[KEEP|18 meses]].
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en las palabras de la familia)
+
+La madre, [[PARENT|Lucía]], expresó: "Lo que más me preocupa es que [[CHILD|Teo]] no nos dice lo que quiere. Él señala y hace sonidos, pero no usa palabras como su hermana [[SIBLING|Camila]] las usaba a esta edad." Agregó: "Yo trabajo de noche en el [[ORG|Centro de Distribución Horizonte Logística]], de [[TIME|11:00 p.m.]] a [[TIME|7:00 a.m.]], y mi mamá [[FAMILY|Rosa]] se queda con él. Me gustaría que él pudiera decirle a mi mamá cuando tiene hambre o cuando le duele algo, porque ella solo habla español y a veces la guardería no entiende lo que él necesita."
+
+El padre, [[PARENT|Carlos]], dijo: "Para mí es importante que pueda jugar con otros niños en la guardería. A veces se frustra y llora porque no lo entienden, y eso me rompe el corazón." [[PARENT|Carlos]] trabaja en construcción con [[ORG|Construcciones Vega Hermanos]] y llega a casa después de las [[TIME|6:00 p.m.]]
+
+La familia priorizó, en orden: (1) que [[CHILD|Teo]] use palabras o señas para pedir comida y atención; (2) que juegue junto a otros niños sin frustrarse; (3) que la familia, incluyendo a la abuela [[FAMILY|Rosa]], aprenda estrategias para usar en casa en español.
+
+RUTINAS DIARIAS
+
+[[CHILD|Teo]] se despierta alrededor de las [[TIME|7:30 a.m.]] y desayuna con su abuela [[FAMILY|Rosa]]. Tres días a la semana asiste a [[DAYCARE|Little Learners Daycare]], en el salón de la [[TEACHER|Maestra Teresa López]], de [[TIME|9:00 a.m.]] a [[TIME|1:00 p.m.]]. Los otros dos días se queda en casa con [[FAMILY|Rosa]] y su hermana [[SIBLING|Camila]], quien asiste a [[SCHOOL|Escuela Primaria Hope Valley]]. Por la tarde, [[CHILD|Teo]] toma una siesta de aproximadamente una hora y luego juega en el patio con [[PEER|Diego]], el niño vecino de la misma edad, y con [[PET|Rocky]]. La hora del baño es a las [[TIME|7:00 p.m.]], seguida de un cuento antes de dormir. La cena es en familia cuando el padre llega del trabajo; la madre, [[PARENT|Lucía]], duerme durante la tarde antes de salir a su turno nocturno.
+
+OTRAS AGENCIAS INVOLUCRADAS
+
+La familia recibe apoyo nutricional de [[AGENCY|WIC]] y participa en actividades de alfabetización temprana con [[AGENCY|Smart Start del Condado de Durham]]. El [[AGENCY|Departamento de Servicios Sociales del Condado de Durham]] ("[[AGENCY|DSS de Durham]]") ayudó a la familia a solicitar la subvención de cuidado infantil que cubre parte de la mensualidad de [[DAYCARE|Little Learners Daycare]]. La familia también fue referida al [[ORG|Little Learners Program]], un programa comunitario de terapia de grupo para el desarrollo del lenguaje, sitio web [[URL|www.littlelearnersprogram.org]], que no está afiliado a la guardería a pesar del nombre similar.
+
+RESUMEN DEL PROGRESO DESDE LA EVALUACIÓN INICIAL
+
+En la evaluación inicial, a la edad de [[KEEP|2;3]], [[CHILD|Teo]] obtuvo en el [[KEEP|PLS-5]], subprueba de Comprensión Auditiva, una puntuación estándar de [[KEEP|73]] ([[KEEP|percentil 4]]), con un intervalo de confianza de [[KEEP|68-78]]; en Comunicación Expresiva, una puntuación estándar de [[KEEP|71]] ([[KEEP|percentil 3]]), equivalente a una edad de desarrollo de [[KEEP|14-16 meses]].
+
+En la sesión de hoy, [[CHILD|Teo]], ahora de [[KEEP|2;9]], produjo de forma espontánea las palabras "mamá", "más" y "agua" (esta última como "[[KEEP|awa]]", omitiendo el fonema [[KEEP|/g/]]). También imitó la palabra meta "[[KEEP|pan]]" sustituyendo [[KEEP|/p/]] por [[KEEP|[b]]] con [[KEEP|claves mínimas]]. Produjo "[[KEEP|tete]]" por "leche" con [[KEEP|claves moderadas]]. En el área motora gruesa, [[CHILD|Teo]] caminó de forma independiente en la evaluación de hoy y subió escalones alternando los pies con [[KEEP|claves moderadas]], según observó [[PROVIDER|David Chen]].
+
+El equipo usó estrategias del enfoque [[KEEP|Hanen]] y técnicas de [[KEEP|PROMPT]] para apoyar la producción de consonantes iniciales, con buena respuesta de [[CHILD|Teo]] a las claves táctiles. Las sesiones de habla ocurrieron los martes a las [[TIME|10:00 a.m.]] en el hogar, con interpretación no necesaria dado que la terapeuta, [[PROVIDER|Ana Beltrán]], es bilingüe. La familia reportó que las estrategias en español han sido más fáciles de aplicar que el material en inglés recibido anteriormente.
+
+TABLA DE RESULTADOS DEL IFSP
+
+Resultado	Estrategias	Progreso	Fecha
+Resultado 1: [[CHILD|Teo]] usará al menos 10 palabras o aproximaciones para pedir comida, juguetes o atención durante las rutinas diarias.	Modelado de palabras durante las comidas; uso de [[KEEP|PROMPT]] para claves táctiles en consonantes iniciales; la abuela [[FAMILY|Rosa]] practica el modelado en español durante el desayuno y la merienda.	Logro parcial: [[CHILD|Teo]] usa ahora [[KEEP|6 de 10]] palabras meta de forma espontánea, un aumento desde [[KEEP|2 de 10]] en la revisión anterior.	[[DATE|10 de octubre de 2026]]
+Resultado 2: [[CHILD|Teo]] jugará junto a otro niño durante al menos 5 minutos sin llorar ni alejarse, con apoyo mínimo del adulto.	Juego estructurado en parejas en [[DAYCARE|Little Learners Daycare]] con [[PEER|Diego]]; la [[TEACHER|Maestra Teresa López]] facilita los turnos con apoyo visual; práctica adicional una vez por semana en el [[ORG|Little Learners Program]].	Logrado de forma consistente: juega [[KEEP|8-10 minutos]] con [[KEEP|claves mínimas]], observado por [[PROVIDER|Jennifer Smith]] y la [[TEACHER|Maestra Teresa López]].	[[DATE|10 de octubre de 2026]]
+Resultado 3: [[CHILD|Teo]] caminará de forma independiente en superficies irregulares del patio de recreo.	Práctica de equilibrio en el patio de [[DAYCARE|Little Learners Daycare]]; ejercicios de fuerza en el tronco guiados por [[PROVIDER|David Chen]] durante visitas quincenales en el hogar.	Logrado: camina de forma independiente en césped y superficies desiguales con supervisión distante únicamente.	[[DATE|10 de octubre de 2026]]
+Resultado 4: La familia, incluyendo a la abuela [[FAMILY|Rosa]], usará dos estrategias de comunicación aumentada (señas simples y un tablero de imágenes) en casa.	Entrenamiento familiar en español sobre señas básicas ("más", "ayuda", "terminado"); tablero de imágenes bilingüe enviado a casa; seguimiento telefónico con [[PARENT|Lucía]] y [[FAMILY|Rosa]] cada dos semanas.	En progreso: la familia usa las señas de forma consistente; el tablero de imágenes se usa [[KEEP|3 de 5]] días según reporte de [[PARENT|Lucía]].	[[DATE|10 de octubre de 2026]]
+
+FECHAS DE SERVICIOS Y PRÓXIMOS PASOS
+
+El equipo acordó continuar la terapia de habla y lenguaje una vez por semana, terapia ocupacional cada dos semanas y fisioterapia cada dos semanas, con la próxima revisión del IFSP programada para el [[DATE|8 de abril de 2027]]. La coordinadora de servicios, [[PROVIDER|Marisol Jiménez]], enviará la documentación actualizada a la [[AGENCY|CDSA del Triángulo]] antes del [[DATE|24 de octubre de 2026]]. Se recomienda una nueva evaluación con el [[KEEP|PLS-5]] en la próxima revisión anual para documentar el progreso continuo en comprensión auditiva y comunicación expresiva.
+
+La familia puede comunicarse con cualquier pregunta a través del correo de la [[AGENCY|ACSPI Durham]], [[EMAIL|marisol.jimenez@acspidurham.org]], o visitando el sitio web del [[AGENCY|CDSA del Triángulo]] en [[URL|www.cdsatriangulo.org]] para más información sobre los servicios disponibles en el [[PLACE|Condado de Durham]]. La familia firmó su consentimiento para continuar los servicios según lo descrito en este plan revisado.

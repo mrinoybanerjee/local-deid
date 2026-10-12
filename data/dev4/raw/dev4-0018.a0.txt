@@ -1,0 +1,31 @@
++ Name: [[CHILD|Mateo Alejandro Flores Rodríguez]] ("[[CHILD|Teo]]")
++ CA: [[KEEP|3;4]]
++ Context: Home visit, bilingual EN/ES session; mother [[PARENT|Lucía Rodríguez]] present; sister [[SIBLING|Camila Flores]] observing
+
+Session note — [[EMPLOYER|Carolina Bilingual Speech & Language Therapy, PLLC]] ([[EMPLOYER|Carolina Bilingual Speech & Language Therapy]], "[[EMPLOYER|CBSLT]]")
+Clinician: [[PROVIDER|Ana Belén Castillo]], M.S., CCC-SLP
+Date: [[DATE|October 9, 2026]]
+
+Antecedentes / Background: [[CHILD|Mateo]] fue referido por su pediatra, [[PROVIDER|Dr. Michael Chen]], tras nacer a las [[KEEP|34 semanas]] de gestación en [[HOSPITAL|WakeMed Raleigh Campus]], donde pasó 11 días en la UCIN bajo el cuidado de [[PROVIDER|Dra. Sarah Whitfield]]. Peso al nacer: [[KEEP|4 lbs 6 oz]]; Apgar [[KEEP|6/9]]. Diagnóstico actual: trastorno fonológico ([[KEEP|ICD-10 F80.1]]). Nació el [[DATE|July 3, 2023]].
+
+Agencias involucradas: [[AGENCY|Wake County CDSA]], [[AGENCY|Wake County Department of Social Services]] (DSS), [[AGENCY|WIC]], [[AGENCY|Wake Smart Start]], y [[AGENCY|Early Head Start]]. Coordinadora de servicios: [[PROVIDER|Jasmine Torres]].
+
+[[CHILD|Teo]] asiste a [[DAYCARE|Little Sprouts Early Head Start Center]], con la maestra [[TEACHER|Patricia Lopez]] y el auxiliar [[TEACHER|Daniel Ortiz]]. Su mamá [[PARENT|Lucía Rodríguez]] trabaja en [[ORG|Food Lion]]; su papá [[PARENT|Carlos Flores]] también apoya en casa. La abuela [[FAMILY|Rosa Delgado]] cuida a [[CHILD|Teo]] los miércoles.
+
+Horario de sesiones:
+
+| Día | Hora inicio | Hora fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | Casa, [[PLACE|412 Birchwood Lane]], [[PLACE|Raleigh]] |
+| Miércoles | [[TIME|1:00 PM]] | [[TIME|1:45 PM]] | [[DAYCARE|Little Sprouts Early Head Start Center]] |
+| Viernes | [[TIME|10:30 AM]] | [[TIME|11:15 AM]] | Casa |
+
+S: Mamá reporta, "[[CHILD|Teo]] dice más palabras pero todavía confundimos lo que dice." Dice que su hermana [[SIBLING|Camila Flores]] lo entiende mejor que los demás.
+
+O: Administré [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], [[KEEP|standard score 78]] ([[KEEP|73-83]], [[KEEP|9th percentile]]). [[CHILD|Teo]] produjo [[KEEP|"pa"]] para [[KEEP|"papá"]], sustituyendo [[KEEP|/p/]] por [[KEEP|[t]]] en posición final. Con [[KEEP|mod cues]] logró [[KEEP|8/10]] en targets usando [[KEEP|PROMPT]]. Jugó con su perro de peluche, "[[PET|Max]] corre," y mencionó a su amigo [[PEER|Liam Johnson]] en la guardería.
+
+A: Progreso leve en inteligibilidad; continúa calificando para servicios bajo [[KEEP|IFSP Outcome 2]].
+
+P: Continuar [[KEEP|Hanen]] en casa; próxima revisión de IFSP el [[DATE|January 15, 2027]]. CPT [[KEEP|92507]].
+
+Contacto: [[PHONE|(919) 555-0148]]; [[EMAIL|acastillo@cbslt.com]]; ID Medicaid [[MEDICAID_ID|784512093A]]; Case ID [[ID|WC-33281]].

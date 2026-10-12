@@ -1,0 +1,38 @@
+Document: Daily pediatric speech-language therapy note
+Client: [[CHILD|Nicolás Varela]]
+Preferred name: [[CHILD|Nico]]
+DOB: [[DATE|February 10, 2024]]
+Age: [[KEEP|2;8]]
+Service date: [[DATE|October 10, 2026]]
+Session time: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Location: [[EMPLOYER|Little Lantern Speech Partners]], [[PLACE|427 Willowglass Lane]], [[PLACE|Fernwick]], North Carolina [[PLACE|27964]]
+Clinician: [[PROVIDER|Elena Montalvo]], MS, CCC-SLP, bilingual English/Spanish
+Parent present: [[PARENT|Marisol Varela]]
+Medicaid ID: [[MEDICAID_ID|937264815M]]
+Insurance member ID: [[ID|NCF482719630]]
+NC ITP child ID: [[ID|ITP-26-583104]]
+Record number: [[ID|SLP-008427]]
+Authorization number: [[ID|AUTH-61930582]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GO]]
+Diagnosis: ICD-10 [[KEEP|F80.2]]
+Service coordinator: [[PROVIDER|Camila Serrano]]
+Referring agency: [[AGENCY|Fernwick Area CDSA]]
+School district: [[SCHOOL|Willowglass County Schools]]
+Transition school: [[SCHOOL|Alder Lantern Elementary School]]
+Classroom contact: Ms. [[TEACHER|Brianna Soler]], Little Acorns classroom
+
+Subjective
+
+Mother reported that [[CHILD|Nico]] used [[KEEP|"más agua"]] at home after watching his sister, [[SIBLING|Inés Varela]], request a drink. Father, [[PARENT|Tomás Varela]], practices turn-taking after shifts at [[ORG|Willowglass Packaging Works]]. Grandmother [[FAMILY|Rosa Beltrán]] provides afternoon care. The family attends [[ORG|Fernwick Neighborhood Reading Circle]], where volunteer [[PERSON|Jules Merrin]] leads songs. Mother described increased participation beside friend [[PEER|Luca Paredes]]. The family dog, [[PET|Miga]], remains a useful motivator during picture activities. Mother reported birth at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3,120 g]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]].
+
+Objective
+
+Treatment addressed [[KEEP|IFSP outcome 2]] through play, shared books, and caregiver coaching using [[KEEP|Hanen]] strategies. Clinician modeled [[KEEP|"more bubbles"]], [[KEEP|"my turn"]], and [[KEEP|"abre"]] across English and Spanish routines. [[CHILD|Nicolás]] requested with two-word combinations in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], compared with [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]] during the previous session. He followed familiar directions at [[KEEP|80%]] accuracy with [[KEEP|min cues]]. Initial [[KEEP|/k/]] appeared in [[KEEP|4/10]] trials with [[KEEP|max cues]]; [[KEEP|[t]]] substitutions remained frequent. The production [[KEEP|"tato"]] for [[KEEP|"gato"]] was recorded. A language sample included [[KEEP|[EW]]] annotations for omitted function words.
+
+Assessment
+
+Previous [[KEEP|PLS-5]] results showed [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], age equivalent [[KEEP|2;1]], and [[KEEP|90%]] confidence interval [[KEEP|73–85]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|75]], percentile [[KEEP|5]], with age equivalent [[KEEP|1;11]]. These results support continued intervention when considered alongside caregiver report and observation in both languages. Today’s spontaneous requests increased during familiar routines. Performance declined when materials changed. Mother accurately demonstrated waiting and expansion after coaching. Speech sound findings remain descriptive; this session did not establish a separate diagnosis. Language exposure alone does not explain the observed difficulties.
+
+Plan
+
+Continue weekly therapy and practice requests during meals and reading. Mother will share strategies with grandmother. [[PROVIDER|Camila Serrano]] will coordinate transition observations with Ms. [[TEACHER|Soler]]. With existing caregiver consent, coordination includes [[AGENCY|Willowglass County DSS]], [[AGENCY|Fernwick Family WIC]], [[AGENCY|Willowglass Smart Start Partnership]], and [[AGENCY|Alder Path Early Head Start]]. Next session: [[DATE|October 17, 2026]], [[TIME|9:10 AM]]. Caregiver contact: [[PHONE|252-555-0148]]; [[EMAIL|marisol.varela@example.invalid]]. Home resources: [[URL|https://littlelantern.example.invalid/home]]. No new standardized testing was completed today. Mother selected snack time as the first home practice routine.

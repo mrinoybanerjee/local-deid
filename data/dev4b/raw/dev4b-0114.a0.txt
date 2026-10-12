@@ -1,0 +1,50 @@
+DAILY SESSION NOTE
+
+1. IDENTIFYING INFORMATION
+
+1.1 Child: [[CHILD|Mateo Sánchez-Ortiz]] (also called [[CHILD|Teo]])
+1.2 Date of birth: [[DATE|9 de marzo de 2021]]
+1.3 Date of service: [[DATE|el martes 4 de junio de 2026]]
+1.4 Session time: [[TIME|3:15 PM]]–[[TIME|4:00 PM]]
+1.5 Age at session: [[KEEP|5;2]]
+1.6 Medicaid ID: [[MEDICAID_ID|987654321A]]
+1.7 Record ID: [[ID|LLD-00213]]
+1.8 Daycare: [[DAYCARE|Little Learners Daycare]]
+1.9 Therapy program: [[PROVIDER|Little Learners Program]]
+1.10 Clinician: [[PROVIDER|Sarah del Río]], M.S., CCC-SLP, bilingual provider, [[EMPLOYER|Carolina Bilingual Speech Partners]]
+
+2. SUBJECTIVE
+
+2.1 [[CHILD|Mateo]]'s mother, [[PARENT|Isabel de la Cruz]], reported that [[CHILD|Teo]] slept poorly the night before the session, per phone call at [[TIME|8:40 AM]] on [[DATE|6/4/2026]].
+2.2 She stated he has been imitating his older sister, [[SIBLING|Camila Sánchez-Ortiz]], saying "[[KEEP|más leche]]" at breakfast.
+2.3 Teacher [[TEACHER|Ms. Patterson]] at [[DAYCARE|Little Learners Daycare]] noted peer interaction with classmate [[PEER|Ethan]] improved this week.
+2.4 Grandmother [[FAMILY|Rosa de la Cruz]] transported the child today due to a scheduling conflict.
+
+3. OBJECTIVE
+
+3.1 Standardized testing: [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|73-83]], [[KEEP|Expressive Communication]] standard score [[KEEP|79]], percentile [[KEEP|9th]].
+3.2 Age equivalent range noted: [[KEEP|2;6–3;0]].
+3.3 Articulation probe: target [[KEEP|/k/]] produced as [[KEEP|[t]]] in 3 of 5 trials; child said "[[KEEP|tat]]" for "[[KEEP|cat]]" with [[KEEP|mod cues]].
+3.4 [[KEEP|PROMPT]] and [[KEEP|Hanen]] strategies used throughout session.
+3.5 Accuracy on targeted phonemes: [[KEEP|8/10]] for /s/ in word-initial position.
+3.6 Birth history reviewed: [[KEEP|Apgar]] score [[KEEP|9/9]], gestational age [[KEEP|38 weeks]], birth weight [[KEEP|6 lbs 4 oz]].
+3.7 CPT code [[KEEP|92507]], ICD-10 code [[KEEP|F80.1]].
+
+4. ASSESSMENT
+
+4.1 [[CHILD|Teo]] continues to demonstrate delayed expressive language skills consistent with prior [[KEEP|CELF-5]] findings (standard score [[KEEP|68-78]]).
+4.2 Interpreter [[PROVIDER|Marco Fuentes]] assisted with caregiver communication during parent check-in.
+4.3 Service coordinator [[PROVIDER|Diane Whitfield]] from [[AGENCY|Wake County CDSA]] was consulted by phone regarding IFSP Outcome [[KEEP|#3]].
+
+5. PLAN
+
+5.1 Continue biweekly sessions targeting [[KEEP|/k/]], [[KEEP|/s/]], and [[KEEP|[w]]] production using [[KEEP|Cycles]] approach.
+5.2 Next IFSP review scheduled for [[DATE|3 de marzo de 2027]].
+5.3 Family address on file: [[PLACE|412 Magnolia Ridge Lane]], [[PLACE|Cary]], [[PLACE|27511]].
+5.4 Contact: [[PHONE|(919) 555-0148]], [[EMAIL|isabel.delacruz@example.com]].
+5.5 Referral pending to [[HOSPITAL|UNC Children's Hospital]] for audiology follow-up.
+5.6 Father, [[PARENT|Daniel Sánchez]], employed at [[ORG|Triangle Manufacturing Co.]], requested evening appointment availability.
+
+6. SIGNATURE
+
+[[PROVIDER|Sarah del Río]], CCC-SLP — [[DATE|6/4/2026]]

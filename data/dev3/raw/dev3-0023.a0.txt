@@ -1,0 +1,95 @@
+CAROLINA BILINGUAL SPEECH & HEARING ASSOCIATES, PLLC
+Serving Children and Families Across the Triangle
+
+SPEECH-LANGUAGE EVALUATION REPORT
+
+1. IDENTIFYING INFORMATION
+
+Client Name: [[CHILD|Mateo Hernández Rodríguez]]
+Date of Birth: [[DATE|August 14, 2021]]
+Chronological Age at Evaluation: [[KEEP|4;2]]
+Dates of Evaluation: [[DATE|October 2, 2025]] and [[DATE|October 9, 2025]]
+Date of Report: [[DATE|October 16, 2025]]
+Parents/Guardians: [[PARENT|Lucía Rodríguez Pérez]] (mother) and [[PARENT|Carlos Hernández Flores]] (father)
+Home Address: [[PLACE|412 Chestnut Ridge Lane]], [[PLACE|Durham]], NC [[PLACE|27705]]
+Home Phone: [[PHONE|(919) 555-0148]]
+Medicaid ID: [[MEDICAID_ID|748203561B]]
+Case/Record Number: [[ID|AD-10492]]
+Referral Source: [[PROVIDER|Dr. Nguyen]], pediatrician
+Evaluating Clinician: [[PROVIDER|Jennifer Alvarez]], M.S., CCC-SLP, [[EMPLOYER|Carolina Bilingual Speech & Hearing Associates, PLLC]]
+Service Coordinator: Miss [[PROVIDER|Ana]], [[AGENCY|Agencia de Desarrollo Infantil y Servicios de Intervención Temprana del Triángulo (ADISIT)]]
+
+2. REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a comprehensive speech-language evaluation by [[PROVIDER|Dr. Nguyen]] following concerns raised at his four-year well-child visit. His mother, [[PARENT|Lucía]], reported that [[CHILD|Mateo]] is difficult to understand even by familiar listeners, and that his teacher at [[DAYCARE|Little Sprouts Early Learning Center]] noted limited participation during circle time and group songs. The family currently receives early intervention support coordinated through [[AGENCY|ADISIT]], and this evaluation was requested both to document current functioning and to update [[CHILD|Mateo]]'s Individualized Family Service Plan (IFSP) ahead of his annual review.
+
+3. BACKGROUND AND DEVELOPMENTAL HISTORY
+
+3.1 Birth and Medical History
+
+[[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestation at [[HOSPITAL|Pinewood Regional Medical Center]] following an uncomplicated pregnancy and vaginal delivery. Birth weight was [[KEEP|6 lbs, 14 oz]], and Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes, respectively. [[PARENT|Lucía]] reported no maternal illness, medication use, or substance exposure during pregnancy. [[CHILD|Mateo]] passed his newborn hearing screening prior to discharge and has had no hospitalizations or surgeries since birth. Between [[KEEP|12 months]] and [[KEEP|18 months]] of age he experienced three episodes of otitis media, each treated successfully with oral antibiotics; no tympanostomy tubes were placed, and no episodes have recurred since [[DATE|March 2023]]. A recent audiological evaluation completed on [[DATE|September 20, 2025]] confirmed hearing within normal limits bilaterally, with normal tympanometry. [[PARENT|Lucía]] also reported that [[CHILD|Mateo]] is a picky eater but has no diagnosed feeding or swallowing concerns, and that gross and fine motor milestones were met within expected ranges.
+
+3.2 Family and Language History
+
+[[CHILD|Mateo]] lives at home with his parents and his older sister, [[SIBLING|Sol]], age [[KEEP|7]], who attends [[SCHOOL|Riverside Elementary School]] in [[PLACE|Durham]]. The household is bilingual: [[PARENT|Lucía]] and the family's longtime babysitter, doña [[FAMILY|Lupe]], speak primarily Spanish with [[CHILD|Mateo]], while [[PARENT|Carlos]] and [[SIBLING|Sol]] frequently speak English with him at home. [[PARENT|Lucía]] estimated that [[CHILD|Mateo]]'s daily language exposure is roughly balanced between Spanish and English. She described his early milestones as delayed relative to his sister's: his first words emerged around [[KEEP|22 months]], and he was not reliably combining two words until approximately [[KEEP|3 years]] of age. [[PARENT|Carlos]] added that [[CHILD|Mateo]] often uses gestures and pulls family members toward objects he wants rather than naming them.
+
+Doña [[FAMILY|Lupe]], a neighbor who has cared for the children since infancy, provides childcare three afternoons each week while [[PARENT|Carlos]] works at [[ORG|Triangle Builders Construction LLC]] and [[PARENT|Lucía]] attends evening nursing classes. [[CHILD|Mateo]] sees his cousins, [[FAMILY|Diego]] and [[FAMILY|Valentina]], most weekends at extended-family gatherings, where [[PARENT|Lucía]] reports he tends to play alongside rather than with the other children. The family's dog, [[PET|Rocky]], a golden retriever, is described as [[CHILD|Mateo]]'s constant companion and reportedly sits beside him during home practice of speech homework.
+
+4. ASSESSMENT PROCEDURES AND TEST RESULTS
+
+Assessment procedures included standardized testing, a spontaneous language sample, an oral-motor examination, parent interview, and clinical observation across both evaluation sessions. Testing was conducted primarily in English with Spanish supports offered as needed given [[CHILD|Mateo]]'s bilingual exposure; no significant difference in performance was noted across languages. [[CHILD|Mateo]] was cooperative and engaged throughout both sessions, though he required frequent redirection to task.
+
+4.1 Standardized Test Results
+
+| Measure | Standard Score | Percentile Rank | Descriptive Range |
+|---|---|---|---|
+| [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] – Auditory Comprehension | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|Below Average]] |
+| [[KEEP|PLS-5]] – Expressive Communication | [[KEEP|71]] | [[KEEP|3rd]] | [[KEEP|Below Average]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]] | [[KEEP|68]] | [[KEEP|2nd]] | [[KEEP|Below Average]] |
+| [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]] – Core Language | [[KEEP|73]] | [[KEEP|4th]] | [[KEEP|Below Average]] |
+
+Ninety-five percent confidence intervals for the [[KEEP|PLS-5]] composite scores ranged from [[KEEP|65-79]] for Expressive Communication and [[KEEP|69-83]] for Auditory Comprehension. Age-equivalent scores for receptive language fell within the [[KEEP|2;6–3;0]] range, roughly [[KEEP|18-20 months]] below his chronological age.
+
+4.2 Speech Sound Production
+
+Analysis of the [[KEEP|GFTA-3]] revealed multiple sound errors affecting overall intelligibility, estimated at approximately [[KEEP|40%]] intelligible to unfamiliar listeners in connected speech. [[CHILD|Mateo]] demonstrated final consonant deletion, stopping of fricatives, and cluster reduction across both English and Spanish productions. He produced [[KEEP|/k/]] as [[KEEP|[t]]] in word-initial position and consistently omitted [[KEEP|/s/]] in consonant clusters. During a stimulability probe, [[CHILD|Mateo]] attempted the target word for "sun" and said "[[KEEP|tol]]" for the target [[KEEP|"sol"]], substituting [[KEEP|/t/]] for [[KEEP|/s/]]. With [[KEEP|moderate cues]], he self-corrected to an approximation closer to [[KEEP|[soʊ]]]. He produced [[KEEP|8/10]] trials of word-final [[KEEP|/n/]] correctly but only [[KEEP|3 of 10]] trials of word-initial [[KEEP|/s/]] clusters, and [[KEEP|5/10]] trials of the liquid [[KEEP|/ɾ/]] in medial position.
+
+4.3 Language Sampling
+
+A fifty-utterance language sample was collected during play-based interaction with blocks and a toy kitchen set. Mean length of utterance was [[KEEP|2.4]] morphemes, below expectations for his age. [[CHILD|Mateo]] relied primarily on two- and three-word combinations and supplemented limited verbal output with gesture and pointing. He required [[KEEP|minimal to moderate cues]] to answer wh-questions accurately and demonstrated notable difficulty retelling a simple three-step sequence of events, managing only [[KEEP|1 of 3]] steps independently.
+
+5. BEHAVIORAL OBSERVATIONS
+
+[[CHILD|Mateo]] separated easily from his mother at both sessions and engaged readily with [[PROVIDER|Jennifer Alvarez]] throughout testing. He brought a stuffed dinosaur from [[DAYCARE|Little Sprouts Early Learning Center]] to the second session, which he reported his classmates [[PEER|Emily]] and [[PEER|Jayden]] had given him for his birthday. His teacher, la maestra [[TEACHER|Carmen]], and classroom aide, Mr. [[TEACHER|Tom]], both report by phone consultation that [[CHILD|Mateo]] is social and affectionate but becomes frustrated when peers do not understand his requests, occasionally resulting in grabbing toys or pushing. At home, [[PARENT|Lucía]] and doña [[FAMILY|Lupe]] note similar frustration when [[CHILD|Mateo]] cannot make himself understood to his sister, [[SIBLING|Sol]], during play.
+
+6. CURRENT SERVICE SCHEDULE
+
+[[CHILD|Mateo]] currently receives speech-language therapy twice weekly through [[AGENCY|ADISIT]], per the schedule below.
+
+| Day | Start Time | End Time | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[DAYCARE|Little Sprouts Early Learning Center]] |
+| Wednesday | [[TIME|3:30 PM]] | [[TIME|4:15 PM]] | [[EMPLOYER|Carolina Bilingual Speech & Hearing Associates, PLLC]] clinic, [[PLACE|Chapel Hill]] |
+| Friday | [[TIME|10:00 AM]] | [[TIME|10:30 AM]] | [[AGENCY|ADISIT]] community office, [[PLACE|Durham]] |
+
+7. CLINICAL IMPRESSIONS
+
+Results of this evaluation indicate that [[CHILD|Mateo]] presents with a Mixed Receptive-Expressive Language Disorder and a Speech Sound Disorder affecting intelligibility in both English and Spanish. His standardized scores fall more than [[KEEP|1.5]] standard deviations below the mean across receptive and expressive domains, and his articulation skills are significantly delayed relative to age expectations. Diagnostic impressions are consistent with [[KEEP|ICD-10]] code [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder) and [[KEEP|F80.0]] (Phonological Disorder). Billing for this evaluation is reflected under CPT code [[KEEP|92523]].
+
+[[CHILD|Mateo]]'s bilingual exposure does not account for the magnitude of his delays, as difficulties are present across both languages per parent report and classroom observation from la maestra [[TEACHER|Carmen]]. Family and caregiver involvement, including from doña [[FAMILY|Lupe]] and [[PARENT|Carlos]], remains a clear strength supporting ongoing intervention, as does [[CHILD|Mateo]]'s motivation during structured play tasks.
+
+8. RECOMMENDATIONS
+
+1. Continue individual speech-language therapy twice weekly, transitioning toward a [[KEEP|Hanen]]-based coaching model so [[PARENT|Lucía]] and [[PARENT|Carlos]] can embed language stimulation strategies into daily routines.
+2. Introduce [[KEEP|PROMPT]] techniques to address motor-based articulation errors, particularly cluster reduction and stopping of fricatives.
+3. Consider a brief [[KEEP|Cycles]] approach trial targeting final consonant deletion given its persistence across both languages.
+4. Update IFSP Outcome [[KEEP|1]] (expressive language) and IFSP Outcome [[KEEP|3]] (speech intelligibility) to reflect current present levels; Outcome [[KEEP|2]] (social play with peers) may be discontinued given adequate progress noted by [[PROVIDER|Jennifer Alvarez]].
+5. Coordinate with [[DAYCARE|Little Sprouts Early Learning Center]] staff, including la maestra [[TEACHER|Carmen]] and Mr. [[TEACHER|Tom]], to implement visual supports during circle time and structured turn-taking opportunities with peers such as [[PEER|Emily]] and [[PEER|Jayden]].
+6. Encourage continued Spanish-language modeling from [[PARENT|Lucía]] and doña [[FAMILY|Lupe]], as bilingual exposure should be supported rather than reduced.
+7. Re-evaluate in [[KEEP|6 months]] to monitor progress and determine continued eligibility for services through [[AGENCY|ADISIT]].
+
+9. IFSP OUTCOMES
+
+The family's current IFSP, last reviewed on [[DATE|April 11, 2025]], includes three outcomes. IFSP Outcome [[KEEP|1]] addresses expressive vocabulary growth across both languages; IFSP Outcome [[KEEP|2]] addresses turn-taking in play with peers, including [[PEER|Emily]] and [[PEER|Jayden]]; and IFSP Outcome [[KEEP|3]] addresses speech sound intelligibility for familiar and unfamiliar listeners. The next IFSP review is scheduled for [[DATE|April 11, 2026]].
+
+This report was prepared by [[PROVIDER|Jennifer Alvarez]], M.S., CCC-SLP, and may be shared with [[AGENCY|ADISIT]], [[PROVIDER|Dr. Nguyen]], and [[DAYCARE|Little Sprouts Early Learning Center]] with parental consent. Questions may be directed to [[EMPLOYER|Carolina Bilingual Speech & Hearing Associates, PLLC]] at [[PHONE|(919) 555-0172]] or [[EMAIL|jalvarez@carolinabilingualslp.com]].

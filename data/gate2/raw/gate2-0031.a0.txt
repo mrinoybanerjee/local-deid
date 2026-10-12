@@ -1,0 +1,132 @@
+PROGRAMA DE INFANTES Y NIÑOS PEQUEÑOS DE NORTH CAROLINA
+Plan Individualizado de Servicios para la Familia (IFSP): revisión periódica
+DOCUMENTO SINTÉTICO. Todos los datos personales, institucionales y clínicos son ficticios.
+
+Información del expediente
+
+Campo	Dato
+Nombre de la niña	[[CHILD|María José Cárdenas Villaseñor]]
+Fecha de nacimiento	[[DATE|18 de julio de 2024]]
+Edad al revisar el plan	[[KEEP|26 meses]]
+Expediente	[[ID|IFSP-482761]]
+Número de Medicaid	[[MEDICAID_ID|482761903Q]]
+Fecha del IFSP inicial	[[DATE|14 de abril de 2026]]
+Fecha de esta revisión	[[DATE|22 de septiembre de 2026]]
+Próxima revisión prevista	[[DATE|22 de diciembre de 2026]]
+Lugar de reunión	[[AGENCY|CDSA de Arroyo Claro]]
+Domicilio familiar	[[PLACE|284 Calle del Roble Azul]], [[PLACE|Arroyo Claro]], North Carolina [[PLACE|27984]]
+Condado de residencia	[[PLACE|Condado de Montebrisa]]
+Idioma familiar preferido	Español; exposición al inglés en el centro infantil
+Modalidad de reunión	Presencial, con participación telefónica del centro infantil
+
+Información familiar y contactos
+
+Relación	Nombre	Contacto	Participación
+Madre	[[PARENT|Lucía Villaseñor Paredes]]	[[PHONE|919-555-0146]]	Cuidadora principal; participa en las visitas
+Padre	[[PARENT|Andrés Cárdenas Molina]]	[[PHONE|984-555-0172]]	Participa cuando termina su jornada
+Hermano	[[SIBLING|Diego Cárdenas Villaseñor]]	Sin contacto independiente	Comparte juegos y rutinas
+Abuela materna	[[FAMILY|Teresa Paredes Luna]]	[[PHONE|252-555-0161]]	Cuida a la niña los miércoles
+Correo autorizado	[[PARENT|Lucía Villaseñor Paredes]]	[[EMAIL|lucia.villasenor@correo.example]]	Recibe resúmenes en español
+Contacto de emergencia	[[FAMILY|Teresa Paredes Luna]]	[[PHONE|252-555-0161]]	Autorizada por ambos padres
+
+La familia vive en una casa rentada. El padre trabaja en [[ORG|Empaques Luna del Este]]. La madre organiza las citas y el transporte. El hermano tiene [[KEEP|6 años]] y disfruta enseñar canciones. La abuela usa español durante el cuidado. La perrita [[PET|Canela]] permanece en otra habitación durante las visitas cuando interfiere con el juego.
+
+Equipo y coordinación
+
+Función	Nombre	Organización	Contacto
+Coordinadora de servicios	[[PROVIDER|Elena Duarte Salcedo]]	[[AGENCY|CDSA de Arroyo Claro]]	[[PHONE|919-555-0128]]
+Patóloga bilingüe del habla y lenguaje	[[PROVIDER|Natalia Ríos Benavides]]	[[EMPLOYER|Puentes de Voz Pediátrica]]	[[EMAIL|nrios@puentesdevoz.example]]
+Pediatra	Dr. [[PROVIDER|Samuel Ortega Ledesma]]	[[HOSPITAL|Hospital Infantil del Sauce]]	[[PHONE|252-555-0137]]
+Maestra principal	[[TEACHER|Rosa Méndez Alvarado]]	[[DAYCARE|El Nido del Ajolote Violeta]]	[[PHONE|984-555-0119]]
+Asistente del salón	[[TEACHER|Clara Solís Navarro]]	[[DAYCARE|El Nido del Ajolote Violeta]]	Contacto mediante la maestra
+Sitio informativo del proveedor	[[EMPLOYER|Puentes de Voz Pediátrica]]	[[URL|https://puentesdevoz.example/familias]]	Materiales familiares en español
+
+La coordinadora confirmó quién puede recibir información. La familia autorizó intercambios sobre comunicación, asistencia y estrategias. Cada agencia conserva sus propios formularios. Este plan reúne decisiones familiares y observaciones funcionales. La clínica redactó todo el documento en español. No se necesitó intérprete porque la profesional y los participantes pudieron comunicarse directamente.
+
+Preocupaciones y prioridades expresadas por la familia
+
+La mamá [[PARENT|Lucía Villaseñor Paredes]] expresó: “Entendemos lo que quiere por sus gestos, pero otras personas no siempre entienden. Cuando tiene hambre, nos lleva hasta la cocina. Queremos que pueda pedir comida y ayuda sin llorar tanto”.
+
+El papá [[PARENT|Andrés Cárdenas Molina]] añadió: “No queremos que deje el español. Queremos aprender maneras de hablarle que podamos usar mientras cenamos. Necesitamos ideas sencillas que funcionen cuando llegamos cansados”.
+
+La abuela [[FAMILY|Teresa Paredes Luna]] comentó: “Le gustan mis canciones. Quiero darle tiempo para responder y saber cuándo ayudar. A veces todos hablamos por ella”.
+
+La familia priorizó pedir necesidades básicas, participar en juegos compartidos y comprender instrucciones dentro de rutinas conocidas. También desea recibir mensajes breves del centro infantil. Prefiere practicar durante actividades existentes. No desea añadir tareas largas al final del día. Estas prioridades guían los resultados del plan.
+
+Antecedentes y estado actual
+
+Según el resumen pediátrico ficticio, el nacimiento ocurrió a [[KEEP|39 semanas de gestación]], con peso de [[KEEP|3,240 g]]. Los puntajes Apgar fueron [[KEEP|8]] y [[KEEP|9]]. No se informaron hospitalizaciones posteriores. La familia describió sueño estable y variedad limitada de alimentos, sin episodios de atragantamiento. El seguimiento alimentario corresponde al pediatra y al equipo nutricional.
+
+La evaluación auditiva del [[DATE|8 de abril de 2026]] informó respuestas compatibles con acceso auditivo funcional. La familia no observó cambios recientes. Se recomienda comunicar cualquier nueva preocupación al pediatra. La niña combina gestos, vocalizaciones y palabras aisladas. Busca interacción, imita acciones y disfruta turnos breves. La comunicación disminuye cuando hay ruido o prisa.
+
+Resumen de evaluación y observación
+
+Las tareas se realizaron en español, con información sobre exposición al inglés. Los puntajes describen esta evaluación ficticia. El equipo consideró también la entrevista, el juego y las oportunidades comunicativas. Una respuesta ausente durante una tarea no demuestra por sí sola que la habilidad esté ausente en casa.
+
+Prueba o medida	Área	Resultado	Interpretación funcional
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Comprensión auditiva]]	[[KEEP|Puntuación estándar 82]]; [[KEEP|percentil 12]]; [[KEEP|intervalo de confianza de 90%: 77–89]]	Comprende mejor con objetos presentes
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Comunicación expresiva]]	[[KEEP|Puntuación estándar 76]]; [[KEEP|percentil 5]]; [[KEEP|intervalo de confianza de 90%: 71–84]]	Usa palabras aisladas y gestos
+[[KEEP|PLS-5 Spanish]]	[[KEEP|Lenguaje total]]	[[KEEP|Puntuación estándar 78]]; [[KEEP|percentil 7]]; [[KEEP|intervalo de confianza de 90%: 73–85]]	Necesita apoyo funcional continuado
+Observación durante merienda	Peticiones dirigidas	[[KEEP|3 de 5 oportunidades]]	Combina mirada y gesto
+Observación durante juego	Turnos compartidos	[[KEEP|4/10 oportunidades]]	Responde mejor con materiales preferidos
+Registro familiar	Palabras usadas espontáneamente	[[KEEP|12 palabras]]	Varían según la rutina
+
+La muestra incluyó [[KEEP|“agua”]], [[KEEP|“más”]], [[KEEP|“mamá”]] y [[KEEP|“ato”]] para [[KEEP|“gato”]]. Se escuchó [[KEEP|[w]]] en una aproximación a [[KEEP|“agua”]]. La producción de [[KEEP|/k/]] fue inconsistente. No se estableció un objetivo articulatorio separado. El plan favorece mensajes útiles y participación. La impresión clínica registrada corresponde a [[KEEP|ICD-10 F80.2]].
+
+Rutinas y ambientes naturales
+
+Rutina	Horario habitual	Fortalezas	Oportunidad de apoyo
+Desayuno	[[TIME|7:15 a. m.]]	Señala alimentos y mira al adulto	Ofrecer elecciones y esperar una respuesta
+Entrada al centro infantil	[[TIME|8:20 a. m.]]	Reconoce el salón y busca juguetes	Usar una despedida breve y predecible
+Juego con compañeros	[[TIME|10:00 a. m.]]	Observa e imita movimientos	Facilitar turnos con objetos duplicados
+Merienda	[[TIME|3:10 p. m.]]	Anticipa la secuencia	Practicar peticiones funcionales
+Cena familiar	[[TIME|6:30 p. m.]]	Permanece cerca de sus familiares	Modelar palabras durante acciones
+Lectura antes de dormir	[[TIME|7:45 p. m.]]	Elige libros con animales	Seguir su interés y ampliar mensajes
+
+En [[DAYCARE|El Nido del Ajolote Violeta]], comparte el salón con [[PEER|Inés Cabrera Vidal]] y [[PEER|Tomás Nieto Salas]]. La maestra [[TEACHER|Rosa Méndez Alvarado]] informó que la niña observa primero y participa después. El equipo practicará invitaciones breves. Los compañeros tendrán oportunidades de responder sin asumir funciones terapéuticas. En casa, el hermano [[SIBLING|Diego Cárdenas Villaseñor]] puede modelar juegos, con supervisión adulta.
+
+Otras agencias y recursos
+
+Agencia	Servicio actual	Acuerdo de coordinación
+[[AGENCY|DSS del Condado de Montebrisa]]	Orientación sobre beneficios y transporte	La familia solicitará revisión de opciones
+[[AGENCY|WIC del Condado de Montebrisa]]	Apoyo nutricional y alimentos suplementarios	Compartir preguntas sobre variedad alimentaria
+[[AGENCY|Smart Start del Condado de Montebrisa]]	Recursos para juego y desarrollo	Ofrecer préstamo de libros en español
+[[AGENCY|Early Head Start del Condado de Montebrisa]]	Consulta sobre inscripción	La familia decidirá si desea solicitar ingreso
+[[AGENCY|CDSA de Arroyo Claro]]	Coordinación y seguimiento del IFSP	Revisar avances y necesidades de acceso
+
+La trabajadora de enlace [[PERSON|Beatriz Navas Correa]] facilitará información general sobre transporte. Ninguna solicitud de inscripción queda aprobada por este documento. La coordinadora dará seguimiento a las decisiones familiares y registrará las respuestas de las agencias.
+
+Resultados funcionales y estrategias
+
+Resultado [[KEEP|1]]: pedir durante actividades cotidianas.
+
+Para el [[DATE|22 de diciembre de 2026]], [[CHILD|María José]] comunicará una petición mediante palabra, aproximación, gesto o combinación en [[KEEP|8/10 oportunidades]], durante desayuno y merienda, con [[KEEP|apoyos mínimos]].
+
+Los adultos colocarán opciones visibles y accesibles. Harán una pausa breve, aceptarán el mensaje y responderán de inmediato. Modelarán [[KEEP|“más”]], [[KEEP|“agua”]] y [[KEEP|“ayuda”]] sin exigir repetición. La profesional demostrará estrategias de [[KEEP|Hanen]] durante la rutina. La familia elegirá una estrategia semanal. El registro incluirá contexto, respuesta y apoyo utilizado.
+
+Resultado [[KEEP|2]]: comprender indicaciones útiles.
+
+Para el [[DATE|22 de diciembre de 2026]], [[CHILD|María José Cárdenas Villaseñor]] seguirá una indicación familiar en [[KEEP|4 de 5 oportunidades]], durante recoger juguetes y prepararse para salir, con [[KEEP|apoyos moderados]] como máximo.
+
+Los adultos usarán frases breves y objetos disponibles. Presentarán [[KEEP|“dame”]], [[KEEP|“pon aquí”]] y [[KEEP|“vamos”]] dentro de acciones reales. Reducirán los gestos cuando la respuesta sea consistente. La familia observará si el ruido, el cansancio o los materiales cambian la participación. El equipo ajustará el ambiente antes de aumentar las demandas.
+
+Resultado [[KEEP|3]]: participar en interacción compartida.
+
+Para el [[DATE|22 de diciembre de 2026]], [[CHILD|María José]] mantendrá intercambios de juego durante [[KEEP|3 de 5 oportunidades]], con familiares o compañeros, con [[KEEP|apoyos mínimos]].
+
+Los adultos seguirán el interés de la niña y alternarán acciones con pelotas, animales y libros. Modelarán [[KEEP|“mi turno”]], [[KEEP|“tu turno”]] y [[KEEP|“otra vez”]]. La maestra anotará ejemplos breves. La familia comentará qué juegos resultan agradables. El equipo aceptará pausas y señales de terminar.
+
+Calendario de servicios acordados
+
+Servicio	Responsable	Lugar	Frecuencia y duración	Inicio	Fin previsto	Código
+Habla y lenguaje	[[PROVIDER|Natalia Ríos Benavides]]	Hogar	Una visita semanal de 45 minutos	[[DATE|29 de septiembre de 2026]]	[[DATE|22 de diciembre de 2026]]	[[KEEP|CPT 92507]]; [[KEEP|modificador GN]]
+Consulta al personal	[[PROVIDER|Natalia Ríos Benavides]]	[[DAYCARE|El Nido del Ajolote Violeta]]	Una consulta mensual de 30 minutos	[[DATE|6 de octubre de 2026]]	[[DATE|15 de diciembre de 2026]]	Incluida en coordinación clínica
+Coordinación de servicios	[[PROVIDER|Elena Duarte Salcedo]]	Hogar o teléfono	Contacto mensual y según necesidad	[[DATE|22 de septiembre de 2026]]	[[DATE|22 de diciembre de 2026]]	Según autorización del programa
+
+La visita semanal se propone los martes a las [[TIME|4:15 p. m.]]. La familia confirmará cambios mediante el contacto autorizado. Una ausencia no elimina el servicio. El equipo ofrecerá otra fecha cuando sea posible.
+
+Revisión, acuerdos y participación
+
+El equipo revisará registros familiares, ejemplos del salón y observación directa. Cada resultado se calificará como iniciado, en progreso o alcanzado. La revisión considerará participación y comodidad familiar. Las estrategias se modificarán si no ayudan dentro de las rutinas.
+
+La madre [[PARENT|Lucía Villaseñor Paredes]] y el padre [[PARENT|Andrés Cárdenas Molina]] participaron en las decisiones. Recibieron explicación en español sobre servicios, consentimiento y revisión del plan. La coordinadora [[PROVIDER|Elena Duarte Salcedo]] enviará una copia por el medio autorizado. La profesional [[PROVIDER|Natalia Ríos Benavides]] documentó los acuerdos el [[DATE|22 de septiembre de 2026]]. Las firmas quedan pendientes de registro en el expediente ficticio.

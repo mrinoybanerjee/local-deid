@@ -1,0 +1,27 @@
+Document: Daily bilingual speech-language therapy note
+Client: [[CHILD|Nicolás Salcedo]]
+DOB: [[DATE|August 9, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Session: [[TIME|3:15 PM]]–[[TIME|4:00 PM]]
+Clinician: [[PROVIDER|Marisol Vega]], MS, CCC-SLP
+Employer: [[EMPLOYER|Firefly Pediatric Communication]]
+Location: [[PLACE|Lunavista]], North Carolina
+Record: [[ID|SLP-602184]]
+Medicaid: [[MEDICAID_ID|583027416M]]
+CPT: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.2]]
+Contact: [[PHONE|919-555-0147]]
+Email: [[EMAIL|mvega@fireflycommunication.invalid]]
+
+Subjetivo / Family report:
+Su mamá [[PARENT|Elena Salcedo]] attended and reported, “Ya pide ayuda, pero se frustra cuando no entendemos.” Mom works nights at [[ORG|Moonbridge Packaging]] as a machine operator; grandmother [[FAMILY|Rosa Benítez]] practices during evening routines. Brother [[SIBLING|Tomás]] joins picture games. The family uses [[ORG|Lunavista Community Center]] for bilingual story activities. At [[DAYCARE|Acorn Harbor Preschool]], Ms. [[TEACHER|Lopez]] reports more participation in Ms. [[TEACHER|Lopez]]’s room, especially alongside classmate [[PEER|Ivo]]. Mom requested strategies that fit changing caregivers without adding worksheets.
+
+Objetivo / Intervención:
+[[CHILD|Nicolás]] transitioned with a picture schedule and selected shared play. Used [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]]: observe, wait, and follow the child’s lead. Requests occurred in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Productions included “[[KEEP|más agua]]” and “[[KEEP|my turn]]”; clinician expanded both naturally, sin exigir repetición. Trialed [[KEEP|PECS]] exchanges in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Brief [[KEEP|Cycles]] practice targeted [[KEEP|/k/]]; accuracy reached [[KEEP|60%]] with [[KEEP|max cues]]. Used [[KEEP|Kaufman]] shaping for syllable transitions. Considered [[KEEP|PROMPT]]; tactile input was deferred when assent was absent. During pretend play, [[CHILD|Niqui]] said “[[PET|Chispa]] run,” referring to the family dog.
+
+Análisis:
+Prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] results showed standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. Today’s functional requests improved when adults paused. Speech clarity decreased with longer utterances. Spanish and English samples showed similar support needs; language difference alone does not explain observed difficulty. Engagement improved when familiar routines supported choice. No distress occurred after tactile input was deferred.
+
+Plan / Próximos pasos:
+Continue weekly therapy addressing [[KEEP|IFSP outcome 2]]. Coach caregivers to model “[[KEEP|ayuda]]” and “[[KEEP|help]]” during snack and dressing. Mom demonstrated waiting, then acknowledged each attempt. Send a bilingual practice sheet home. Ask the teacher to track spontaneous requests during centers. Next session will compare independent requests across familiar and new activities and review caregiver observations.

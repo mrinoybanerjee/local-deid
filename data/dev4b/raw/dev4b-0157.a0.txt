@@ -1,0 +1,66 @@
+Child Name/Nombre del Niño:  [[CHILD|Mateo Alejandro Cruz Hernández]] ("[[CHILD|Teo]]")  Date of Birth:  [[DATE|June 2, 2024]]  Gestational Age at Birth:  [[KEEP|35 weeks]]  Birth Weight:  [[KEEP|5 lbs 2 oz]]  Apgar Scores:  [[KEEP|7/9]]
+
+IFSP Type:  Annual Review  IFSP Review Date:  [[DATE|October 6, 2026]]  Child ID:  [[ID|NCITP-884215]]  Medicaid ID:  [[MEDICAID_ID|990231847B]]  County of Residence:  [[PLACE|Robeson County]]
+
+Family Information
+
+Mother/Madre:  [[PARENT|Lucía Rodríguez Martínez]]  Home Language:  Spanish  Phone:  [[PHONE|(910) 555-2134]]
+Father/Padre:  [[PARENT|Jesús Cruz Ramírez]] ("[[PARENT|Chuy]]")  Home Language:  Spanish  Phone:  [[PHONE|910-555-9087]]
+Home Address:  [[PLACE|412 Maple Hollow Lane]], [[PLACE|Lumberton]], [[PLACE|28358]]
+Household Members:  [[CHILD|Mateo]] ("[[CHILD|Teo]]"), older brother [[SIBLING|Juan Cruz Rodríguez]] ("[[SIBLING|Juanito]]"), maternal grandmother [[FAMILY|Guadalupe Hernández Soto]] ("[[FAMILY|Lupita]]"), and family dog [[PET|Rocky]].
+
+Household Employment:  [[PARENT|Lucía]] works at a poultry processing plant, [[ORG|Carolina Poultry Processors]] ("trabaja en la planta de pollo [[ORG|Carolina Poultry Processors]]"). [[PARENT|Chuy]] works for a construction company, [[ORG|Robeson Builders Construction Company]] ("trabaja en la compañía de construcción [[ORG|Robeson Builders]]"). [[FAMILY|Lupita]] works part-time for a cleaning service, [[ORG|Sparkle Clean Services]] ("trabaja en el servicio de limpieza [[ORG|Sparkle Clean]]"). [[Family|Lupita]]'s nephew, [[FAMILY|Pedro Hernández]] ("[[FAMILY|Pepe]]"), who also lives nearby and helps with child care, works on a blueberry farm, [[ORG|Blue Ridge Berry Farm]] ("trabaja en la granja de arándanos [[ORG|Blue Ridge Berry]]").
+
+Service Coordinator:  [[PROVIDER|Maritza Oyola, CSC]]  Phone:  [[PHONE|(910) 555-4471]]  Email:  [[EMAIL|m.oyola@robesoncdsa.org]]
+CDSA Office:  [[AGENCY|Southeastern Regional CDSA, Lumberton Office]]  Phone:  [[PHONE|(910) 555-6600]]
+
+Family Concerns and Priorities (in the family's own words, interpreted from Spanish by [[PROVIDER|Dalia Pérez, Qualified Bilingual Interpreter]]):
+
+"[[CHILD|Teo]] no habla como su hermano [[SIBLING|Juanito]] a su edad. Él señala las cosas que quiere pero no dice palabras." ("[[CHILD|Teo]] does not talk like his brother [[SIBLING|Juanito]] did at his age. He points to what he wants but does not say words.")
+
+"Queremos que [[CHILD|Teo]] pueda decir 'mamá' y 'más' antes de empezar la guardería el año que viene." ("We want [[CHILD|Teo]] to be able to say 'mama' and 'more' before he starts daycare next year.")
+
+"También nos preocupa que se frustra mucho y a veces se golpea la cabeza cuando no lo entendemos." ("We are also worried that he gets very frustrated and sometimes hits his head when we don't understand him.")
+
+Daily Routines:  [[CHILD|Teo]] wakes around [[TIME|7:00 AM]], eats breakfast with [[FAMILY|Lupita]] while his parents are at work, and watches cartoons in Spanish until mid-morning. [[FAMILY|Lupita]] reports he enjoys playing with [[PET|Rocky]] in the backyard and with a set of stacking cups. He naps from about [[TIME|1:00 PM]] to [[TIME|3:00 PM]]. [[PARENT|Lucía]] returns from the plant around [[TIME|4:30 PM]] and bathes him before dinner; [[PARENT|Chuy]] is often not home until [[TIME|6:30 PM]] or [[TIME|7:00 PM]]. On weekends the family attends services at [[AGENCY|Iglesia Bautista Nueva Esperanza]], where [[CHILD|Teo]] plays briefly with other toddlers, including a classmate's younger sibling named [[PEER|Isa]].
+
+Other Agencies Involved:  Family receives nutrition support through [[AGENCY|WIC, Robeson County office]]. [[PARENT|Lucía]] has also applied for subsidized child care through [[AGENCY|Smart Start of Robeson County]]. The family's older son, [[SIBLING|Juanito]], is enrolled at [[SCHOOL|Southside Elementary School]] and receives speech services there through [[PROVIDER|Mr. Daniel Osei]]. The family's pediatrician, [[PROVIDER|Dr. Renata Alvídrez]], at [[HOSPITAL|Lumberton Pediatric Associates]], referred the family for evaluation after noting limited expressive language at the [[KEEP|18-month]] well-child visit.
+
+Present Levels of Development (summarized from evaluation by [[PROVIDER|Mrinoy Banerjee, M.S., CCC-SLP, Bilingual Spanish-English]], of [[EMPLOYER|Carolina Bilingual Therapy Partners]]):
+
+Receptive language was assessed using [[KEEP|PLS-5 Spanish/English Auditory Comprehension]], yielding a standard score of [[KEEP|73-83]] (90% confidence interval), corresponding to an age equivalent of [[KEEP|14-18 months]], well below the chronological age of [[KEEP|28 months]]. Expressive Communication on the [[KEEP|PLS-5]] fell in the standard score range of [[KEEP|65-75]], age equivalent [[KEEP|12-15 months]]. [[CHILD|Teo]] used [[KEEP|3 of 5]] gestures targeted (pointing, reaching, waving) and produced only [[KEEP|two]] intelligible words, "[[KEEP|mamá]]" and "[[KEEP|agua]]," both with [[KEEP|mod cues]]. On the [[KEEP|CELF Preschool-2 Spanish]] screening, he scored at the [[KEEP|2nd percentile]] overall. Oral-motor exam was within normal limits; no concerns for dysphagia. Hearing screening passed bilaterally. Social communication, assessed informally, showed [[KEEP|8/10]] joint attention bids initiated by the examiner were followed, but spontaneous initiation by [[CHILD|Teo]] occurred in only [[KEEP|2 of 10]] opportunities.
+
+[[PARENT|Chuy]] reported during the home visit, speaking in Spanish, that [[CHILD|Teo]]'s cousin on his side of the family, [[FAMILY|Ernesto Cruz]] ("[[FAMILY|Neto]]"), also had a late talker history as a toddler and now speaks fluently in both languages, which gave the family some reassurance.
+
+Diagnosis/ICD-10:  [[KEEP|F80.1]], Expressive Language Disorder  CPT:  [[KEEP|92523]] (evaluation), [[KEEP|92507]] modifier [[KEEP|GN]] (treatment)
+
+IFSP Outcomes and Strategies:
+
+Outcome 1:  [[CHILD|Teo]] will use [[KEEP|10]] functional words or approximations (e.g., "más," "mamá," "agua," "no") across home and community settings to request and reject, as measured by caregiver log and direct observation, by the next review on [[DATE|April 6, 2027]].
+Strategy:  Caregiver coaching using [[KEEP|Hanen - It Takes Two to Talk]] strategies; modeling target words during snack and bath routines; following [[CHILD|Teo]]'s lead during play with [[PET|Rocky]] and stacking cups; use of visual supports modeled on [[KEEP|PECS]] Phase I.
+
+Outcome 2:  [[CHILD|Teo]] will initiate joint attention with a caregiver at least [[KEEP|5 times]] per 15-minute play session, reducing head-hitting behavior during communication breakdowns, as measured by caregiver report and session data, by [[DATE|April 6, 2027]].
+Strategy:  Reinforce initiation attempts immediately with eye contact, praise, and the requested item; teach [[PARENT|Lucía]] and [[PARENT|Chuy]] to recognize early frustration cues; introduce a simple "more/finished" sign set bilingually.
+
+Outcome 3:  The family will report increased confidence supporting bilingual language development at home, as measured by a caregiver satisfaction survey at each visit, by [[DATE|April 6, 2027]].
+Strategy:  Provide bilingual handouts in Spanish on dual-language myths; coach [[FAMILY|Lupita]], who provides most daytime care, in the same strategies used by the parents in the evening; coordinate with [[PROVIDER|Mr. Daniel Osei]] at [[SCHOOL|Southside Elementary School]] regarding strategies used with [[SIBLING|Juanito]] that the family found helpful, to maintain consistency.
+
+Service Delivery
+
+Service:  Speech-Language Therapy, individual, home-based
+Frequency/Duration:  [[KEEP|60 minutes]], weekly
+Provider:  [[PROVIDER|Mrinoy Banerjee, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Therapy Partners]]  Phone:  [[PHONE|(910) 555-7823]]  Email:  [[EMAIL|mbanerjee@carolinabilingualtherapy.com]]
+Service Start Date:  [[DATE|October 20, 2026]]  Projected End Date:  [[DATE|April 6, 2027]]
+Payor Source:  Medicaid, authorization number [[ID|AUTH-0045591-RC]]
+
+Service:  Developmental Service Coordination
+Frequency/Duration:  Monthly contact, minimum
+Provider:  [[PROVIDER|Maritza Oyola, CSC]], [[AGENCY|Southeastern Regional CDSA]]
+
+Transition Planning Note:  Because the family's older child, [[SIBLING|Juanito]], transitioned successfully from the same CDSA caseload at age three, the service coordinator, [[PROVIDER|Maritza Oyola]], will begin preliminary transition conversations with [[PARENT|Lucía]] and [[PARENT|Chuy]] regarding preschool special education eligibility approximately six months before [[CHILD|Teo]] turns three.
+
+Additional Contact Note:  [[CHILD|Teo]]'s paternal grandmother, who remains in [[PLACE|Comitán, Chiapas, Mexico]], requested updates by phone; the family provided her number as [[PHONE|+52 963 123 4567]] for occasional calls during review meetings, though she is not a primary caregiver and does not participate in sessions.
+
+Team Signatures:  [[PARENT|Lucía Rodríguez Martínez]] (Mother)  [[PARENT|Jesús Cruz Ramírez]] (Father)  [[PROVIDER|Maritza Oyola, CSC]] (Service Coordinator)  [[PROVIDER|Mrinoy Banerjee, M.S., CCC-SLP]] (Speech-Language Pathologist)  Date Signed:  [[DATE|October 6, 2026]]
+
+Next Review Due:  [[DATE|April 6, 2027]]  Form Completed By:  [[PROVIDER|Mrinoy Banerjee, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Therapy Partners]]

@@ -1,0 +1,41 @@
+**Nota diaria de terapia y evaluación del desempeño**
+
+Paciente: [[CHILD|María José Valcárcel Peñalosa]]  
+Nacimiento: [[DATE|08/09/2022]]. Edad: [[KEEP|4;2]].  
+Servicio: [[DATE|10/09/2026]], de [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]]  
+Lugar: centro preescolar [[DAYCARE|El Nido del Colibrí Violeta]], [[PLACE|184 Calle Bruma]], [[PLACE|Robledal Claro]], Carolina del Norte, [[PLACE|27500]].  
+Profesional: [[PROVIDER|Elena Marisol Tovar]], patóloga bilingüe del habla y lenguaje, de [[EMPLOYER|Voces del Sendero Pediátrico]].  
+Expediente: [[ID|SLP-482731]]. Medicaid: [[MEDICAID_ID|583194726L]].  
+Diagnóstico: [[KEEP|F80.2]]. Procedimiento: [[KEEP|92507]]. Modificador: [[KEEP|GN]].
+
+**S — Información subjetiva**
+
+Su mamá, [[PARENT|Lucía Peñalosa]], informó que [[CHILD|María José]] usa más combinaciones espontáneas durante la merienda. En casa predomina el español; en el salón escucha español e inglés. Su papá, [[PARENT|Darío Valcárcel]], pidió practicar solicitudes que pueda entender toda la familia. La maestra [[TEACHER|Nora Beltrán]] describió dificultad para seguir instrucciones durante las transiciones, especialmente cuando varios niños hablan.
+
+Su hermana [[SIBLING|Sol]] participó al inicio. La madre aclaró que la palabra objetivo «[[KEEP|sol]]» aparece en un libro favorito y coincide con el nombre de la hermana. Esta coincidencia se consideró al interpretar las respuestas. La familia no informó cambios de audición, sueño ni medicamentos.
+
+**O — Observación y evaluación**
+
+Se revisaron resultados previos de [[KEEP|PLS-5 Spanish]] para orientar la sesión. La tabla conserva la fecha de administración junto a cada puntuación. Los intervalos corresponden al nivel de confianza de [[KEEP|90%]]. Hoy no se volvió a administrar la prueba estandarizada.
+
+| Subprueba o índice | Fecha | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|Comprensión auditiva]] | [[DATE|09/18/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|3;0–3;4]] |
+| [[KEEP|Comunicación expresiva]] | [[DATE|09/18/2026]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–82]] | [[KEEP|2;10–3;2]] |
+| [[KEEP|Lenguaje total]] | [[DATE|09/18/2026]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|71–82]] | [[KEEP|2;11–3;3]] |
+
+Durante el juego, [[CHILD|María José]] siguió instrucciones relacionadas en [[KEEP|8/10]] oportunidades con [[KEEP|claves mínimas]]. Produjo combinaciones de palabras en [[KEEP|6/10]] oportunidades con [[KEEP|claves moderadas]]. Dijo «[[KEEP|quiero más agua]]» y «[[KEEP|bebé está dormido]]». Al llamar a su hermana, dijo «[[SIBLING|Sol]] ven»; esa emisión se registró como uso de un nombre propio.
+
+Se practicaron los objetivos «[[KEEP|sol]]», «[[KEEP|sopa]]» y «[[KEEP|silla]]». La precisión inicial de [[KEEP|/s/]] fue de [[KEEP|60%]] con [[KEEP|claves máximas]]. Se emplearon modelado, expansión y estrategias de [[KEEP|Hanen]]. Con su compañero [[PEER|Iker Monteluz]], sostuvo turnos en [[KEEP|3 de 5]] oportunidades. Aceptó pausas visuales y regresó a la actividad sin malestar observable.
+
+**A — Análisis clínico**
+
+[[CHILD|María José]] mostró mayor participación cuando la adulta presentó objetos concretos y esperó antes de repetir la pregunta. Las respuestas disminuyeron con ruido del salón. La comprensión durante el juego fue más consistente que la expresión espontánea. Las puntuaciones previas apoyan la necesidad de intervención, pero deben interpretarse junto con las muestras en ambos idiomas.
+
+La respuesta al dibujo del objetivo no demuestra por sí sola conocimiento del sustantivo común. La asociación con [[SIBLING|Sol]] puede facilitar la producción. Se distinguirán las respuestas al dibujo y las llamadas a la hermana en el registro.
+
+**P — Plan**
+
+Continuar terapia semanal. Practicar solicitudes durante rutinas y reducir gradualmente las [[KEEP|claves moderadas]]. La maestra [[TEACHER|Nora Beltrán]] ofrecerá opciones visuales antes de las transiciones. La familia practicará «[[KEEP|sol]]» con dibujos variados. La próxima sesión será el [[DATE|10/16/2026]].
+
+Firma: [[PROVIDER|Elena Marisol Tovar]].

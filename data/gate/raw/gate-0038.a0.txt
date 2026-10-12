@@ -1,0 +1,22 @@
+Daily ST / Nota de sesión — fictional training record
+DOS: [[DATE|October 8, 2026]]; [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]
+Pt: [[CHILD|Nicolás Varela Soto]], aka [[CHILD|Nico]]; age [[KEEP|4;2]]
+Record: [[ID|ST-60428]]; Medicaid: [[MEDICAID_ID|734082619Q]]
+SLP: [[PROVIDER|Marina Cendal]], MS, CCC-SLP
+Employer: [[EMPLOYER|Brisa Bridge Pediatric Therapy]]
+Location: [[PLACE|418 Lantern Fern Lane, Brumacrest, NC 27904]]
+Tx: [[KEEP|CPT 92507]]; dx [[KEEP|ICD-10 F80.2]]
+
+S / Subjetivo:
+Pt arrived w/ mamá [[PARENT|Elisa Varela]]; papá [[PARENT|Tomás Soto]] joined by phone. CG reported, “En casa habla más español, pero when tired, se queda callado.” Sister [[SIBLING|Sol]] helped practice yesterday. Abuela [[FAMILY|Inés Varela]] visits from [[PLACE|Avenida Nube Clara 18, Carrizalito de Bruma]], Mexico. Family requested home materials by email: [[EMAIL|elisa.varela@buzonfamilia.example]]. CG works at [[ORG|Fern Lantern Textiles]]; rotating shifts affect carryover. Pt attends [[DAYCARE|Casita Cometa Childcare]] and preschool at [[SCHOOL|Willow Lantern Academy]]. Ms. [[TEACHER|Belén Arcos]] reported easier transitions w/ picture schedule. Pt talked about friend [[PEER|Dalia]] and dog [[PET|Miso]]. No pain reported; CG described sleep as “más o menos.”
+
+O / Objetivo:
+Session used play, shared reading, and snack routine. Prior [[KEEP|PLS-5 Spanish]] results: auditory comprehension SS [[KEEP|78]], percentile [[KEEP|7]]; expressive communication SS [[KEEP|81]], percentile [[KEEP|10]]. Scores provided background only; no standardized testing today. Pt followed spatial directions in [[KEEP|8/10]] opportunities w/ [[KEEP|mod cues]], improving after clinician paired gesture w/ Spanish model. Two-step directions remained difficult when toys moved. Functional requests occurred in [[KEEP|70%]] of opportunities w/ [[KEEP|min cues]]. Pt produced “[[KEEP|quiero carro]]” and “[[KEEP|more bubbles]]”; spontaneous language alternated by activity, sin presión para escoger idioma.
+
+Picture naming included target word “[[KEEP|Sol]],” printed with initial capital on the card. This lexical target matched sister [[SIBLING|Sol]]'s name; clinician clarified referent using a sun picture. Pt produced “[[KEEP|tol]]” for “[[KEEP|Sol]]” in [[KEEP|3/5]] trials, then “[[KEEP|Sol]]” after [[KEEP|max cues]]. Initial [[KEEP|/k/]] accuracy was [[KEEP|6/10]] w/ [[KEEP|mod cues]]. One production contained [[KEEP|[w]]]. SALT notation included [[KEEP|[EW]]] for an extra word. Peer [[PEER|Iker]] participated briefly; turn-taking improved when each child held a visual turn card. No adverse response observed during practice.
+
+A / Análisis:
+Pt showed better participation during predictable routines, especially when CG modeled short phrases. Code-switching supported communication; errors occurred across both languages. Pt needed processing time and repetition b/c longer directions increased task demands. Today's small sample supports continued functional language work; it does not establish a new diagnosis. CG accurately demonstrated expansion strategy after coaching. Pediatrician Dr. [[PROVIDER|Rafael Neris]] at [[HOSPITAL|Brumacrest Children's Hospital]] remains the referring provider. Coordination contact: [[PROVIDER|Ada Peralta]], [[AGENCY|North Lantern CDSA]].
+
+P / Plan:
+Continue weekly ST. Practice requests during meals and picture directions during cleanup, approx five minutes daily. CG will share examples next visit on [[DATE|October 15, 2026]]. Home handout: [[URL|https://brisabridge.example/familias]]. Scheduling phone: [[PHONE|919-555-0147]]. Family neighbor [[PERSON|Óscar Téllez]] may provide transportation; CG will confirm pickup arrangements directly. Next session will compare supported versus spontaneous requests and probe generalization with familiar materials. Clinician will review caregiver observations before adjusting targets. Signed: [[PROVIDER|Marina Cendal]], MS, CCC-SLP.

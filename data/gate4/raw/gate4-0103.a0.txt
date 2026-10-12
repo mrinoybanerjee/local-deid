@@ -1,0 +1,125 @@
+IFSP INICIAL — INFORMACIÓN FAMILIAR, EVALUACIÓN Y PLAN DE SERVICIOS
+
+Documento clínico sintético; todos los datos personales, lugares, organizaciones y números administrativos son ficticios. Redactado íntegramente en español por una SLP pediátrica bilingüe. Abrev.: pt = paciente; CG = cuidador; SLP = patóloga del habla y lenguaje; SC = coordinadora de servicios; w/ = con; b/c = porque; approx = aproximadamente.
+
+Fecha del IFSP: [[DATE|3 de marzo de 2025]]. Evaluación: [[DATE|02/24/2025]]. Inicio previsto: [[DATE|2025-03-10]]. Revisión: [[DATE|06/04/2025]]. Modalidad: visita domiciliaria w/ participación familiar y observación de rutinas. Idioma preferido para entrevista, explicación de resultados y documentos: español estadounidense. La familia solicita ejemplos breves, instrucciones visuales y oportunidades para practicar durante actividades habituales.
+
+INFORMACIÓN DEL PT Y LA FAMILIA
+
+Pt: [[CHILD|Nicolás Arvelo Castañeda]], llamado [[CHILD|Nico]] por sus CG. Fecha de nacimiento: [[DATE|3 de enero de 2023]]. Edad al IFSP: [[KEEP|26 meses]], equivalente a [[KEEP|2;2]]. Domicilio: [[PLACE|1847 Calle del Lirio, apartamento 6]], [[PLACE|Valle Encina]], Carolina del Norte, [[PLACE|27591]]. Condado: [[PLACE|Condado de Arbolena]]. Medicaid ID: [[MEDICAID_ID|583174926Q]]. ID infantil NC ITP: [[ID|NCITP-25-604183]]. Expediente: [[ID|IFSP-250303-7186]]. Autorización: [[ID|AUT-SLP-250310-4629]].
+
+Mamá: [[PARENT|Mariela Castañeda Ruiz]]; teléfono [[PHONE|919-555-0142]]; correo [[EMAIL|mariela.castaneda@example.com]]. Papá: [[PARENT|Esteban Arvelo Paz]]; teléfono [[PHONE|984-555-0168]]. Ambos son tutores legales según declaración familiar. Seguro secundario: [[ORG|Plan Familiar Sendero Claro]], miembro [[ID|SFC-NC-482761903]]. La familia prefiere recibir llamadas en español y documentos por correo electrónico.
+
+Viven también la hermana [[SIBLING|Alma Arvelo Castañeda]], de [[KEEP|6 años]], y la abuela materna [[FAMILY|Celia Ruiz Montelago]]. El tío [[FAMILY|Darío Castañeda Ruiz]] ayuda con transporte cuando su horario lo permite. La niñera [[FAMILY|Rosa Beltrán Niebla]] cuida al pt durante cambios de turno. Mascota familiar: perro [[PET|Chispa]]. Los CG identifican como fortalezas la cercanía familiar, el juego compartido y la disposición del pt para imitar movimientos.
+
+COORDINACIÓN Y CONTACTOS
+
+SC: [[PROVIDER|Elena Pardo Montalvo]], [[AGENCY|CDSA de Valle Encina]], oficina de [[PLACE|230 Avenida del Robledal]], [[PLACE|Valle Encina]], Carolina del Norte, [[PLACE|27591]]. Teléfono [[PHONE|919-555-0119]]; correo [[EMAIL|elena.pardo@example.com]]. La SC coordinará autorizaciones, transporte y seguimiento de servicios. La familia puede solicitar una reunión adicional si cambian sus prioridades o la disponibilidad de los CG.
+
+SLP responsable: [[PROVIDER|Inés Valcárcel Soria]], patóloga del habla y lenguaje pediátrica bilingüe, de [[EMPLOYER|Habla y Juego del Piedemonte]]. Teléfono [[PHONE|984-555-0126]]; correo [[EMAIL|ines.valcarcel@example.com]]. Portal informativo: [[URL|https://hablayjuego.example.com/familias]]. No se necesitó intérprete durante esta visita. La intérprete [[PROVIDER|Marta Ledesma Ruiloba]] figura como contacto disponible para reuniones con profesionales que atienden principalmente en inglés.
+
+ANTECEDENTES MÉDICOS Y AUDITIVOS
+
+Según entrevista y registros ficticios del expediente, el pt nació en [[HOSPITAL|Sistema de Salud Brisaluz, Hospital Infantil Campus Robledal]]. Edad gestacional: [[KEEP|35 semanas y 4 días]]. Peso al nacer: [[KEEP|2.180 g]]. Apgar al primer minuto: [[KEEP|7]]; a los cinco minutos: [[KEEP|9]]. Permaneció en NICU por apoyo inicial de alimentación y vigilancia respiratoria. Alta: [[DATE|01/15/2023]]. Los CG no reportan soporte respiratorio actual.
+
+Pediatra: Dra. [[PROVIDER|Lucía Farías Ocampo]], de [[HOSPITAL|Sistema de Salud Brisaluz, Clínica Pediátrica Campus Sauceda]]. Último control registrado: [[DATE|18 de febrero de 2025]]. Derivación por retraso del lenguaje: [[DATE|2025/02/19]]. Diagnóstico de referencia: [[KEEP|F80.2]]. La SLP describe necesidades funcionales de comunicación; la determinación de elegibilidad y servicios corresponde al equipo.
+
+Evaluación audiológica realizada en [[HOSPITAL|Sistema de Salud Brisaluz, Audiología y Otorrinolaringología Campus Sauceda]], por [[PROVIDER|Bruno Salcedo Naranjo]], el [[DATE|02-20-2025]]. El informe documenta respuestas compatibles con acceso auditivo para tareas realizadas. El pt necesitó pausas y apoyo del CG. Se recomienda seguimiento según indicación de audiología. La mamá recuerda una consulta previa el [[DATE|martes 4 de junio de 2024]] por molestias de oído.
+
+No se reportan alergias alimentarias conocidas. Los CG describen selectividad por textura y preferencia por alimentos blandos. Durante la observación no hubo tos ni cambios respiratorios asociados con los bocados ofrecidos. Esta visita no incluyó evaluación instrumental de deglución.
+
+PREOCUPACIONES Y PRIORIDADES: PALABRAS DE LA FAMILIA
+
+Mamá: “Quiero que [[CHILD|Nico]] pueda decirme qué necesita antes de llorar. Cuando llego del trabajo, a veces señala todo y yo tengo que adivinar. No busco que hable perfecto. Quiero entender si pide agua, comida o ayuda. También quiero que pueda decir cuando algo le molesta”.
+
+Papá: “En el parque veo que quiere acercarse a otros niños. Les lleva un carrito, pero cuando ellos se lo quitan, se queda quieto o grita. Me gustaría enseñarle una forma sencilla de pedir turno. Yo puedo practicar cuando lo baño y cuando guardamos los juguetes”.
+
+Abuela: “Yo lo entiendo bastante porque estamos juntos durante el día. Pero quiero que otras personas también lo entiendan. Necesito que me enseñen cómo esperar y qué hacer cuando repite solamente el final de una palabra. Si me dan muchas instrucciones juntas, se me olvidan”.
+
+La mamá trabaja de noche como técnica de empaque en [[ORG|Empaques Lumbre del Este]], en [[PLACE|Puerto Fresno]]. Su turno habitual comienza a las [[TIME|10:30 p. m.]] y termina a las [[TIME|6:30 a. m.]]. Solicita visitas después de descansar. El papá trabaja como auxiliar de mantenimiento en [[ORG|Servicios del Molino Azul]], en [[PLACE|Valle Encina]], con horario variable.
+
+Prioridades acordadas: pedir necesidades básicas, participar en juego con turnos y facilitar transiciones. Los CG prefieren integrar estrategias en rutinas existentes b/c el horario familiar cambia. No solicitan ejercicios largos ni tareas escritas diarias.
+
+RUTINAS: MAÑANA Y COMIDAS
+
+El pt despierta approx a las [[TIME|7:15 a. m.]]. La abuela ofrece dos prendas y espera una elección. Actualmente, el pt toca una prenda o la acerca al cuerpo. Puede rechazar empujando la mano del adulto. CG interpretan el gesto, aunque a veces ofrecen varias opciones seguidas. La SLP propone reducir lenguaje, mostrar objetos y esperar una respuesta observable.
+
+Desayuno habitual a las [[TIME|8:00 a. m.]]. El pt se sienta w/ CG, acepta cuchara y busca el vaso. Producciones registradas: [[KEEP|"agua"]], [[KEEP|"ma"]], [[KEEP|"pan"]] y [[KEEP|"no"]]. Para pedir repetición usa mirada más gesto en [[KEEP|4/10]] oportunidades observadas; añade vocalización en [[KEEP|3/10]]. Con [[KEEP|mod cues]], combina gesto y palabra aproximada en [[KEEP|6/10]].
+
+La familia desea mantener las comidas tranquilas. La estrategia será colocar pequeñas porciones accesibles, ofrecer elecciones reales y responder a cualquier intento claro. No se retendrá comida para provocar palabras. CG podrán modelar [[KEEP|"más pan"]], [[KEEP|"agua, por favor"]] y [[KEEP|"ya terminé"]], según el contexto y la tolerancia del pt.
+
+RUTINAS: JUEGO, SALIDAS Y DESCANSO
+
+El pt disfruta carros, burbujas y canciones con movimientos. Busca al adulto para activar juguetes y comparte objetos brevemente. Durante juego libre mantiene actividad conjunta por approx dos minutos, con variación según cansancio. La hermana participa en canciones y suele responder por él. CG practicarán dejar un espacio para su turno sin exigir repetición.
+
+Asiste a [[DAYCARE|Centro Infantil Semillitas del Arroyo]] en [[PLACE|Villa Laurel]] durante parte de la semana. Maestra principal: Sra. [[TEACHER|Patricia Solano Varela]]; auxiliar: Sr. [[TEACHER|Hugo Benítez Lora]]. Compañeros frecuentes: [[PEER|Mila Cordero]] y [[PEER|Teo Navas]]. La maestra reporta que el pt sigue al grupo con apoyo visual y busca ayuda llevando objetos al adulto.
+
+La salida de la guardería ocurre approx a las [[TIME|3:20 p. m.]]. Las transiciones generan llanto cuando el adulto guarda un objeto sin aviso. Funcionan mejor una canción breve, una imagen de la siguiente actividad y una elección limitada. El baño comienza approx a las [[TIME|7:00 p. m.]]; sueño nocturno, a las [[TIME|8:15 p. m.]]. CG desean usar las mismas señales en casa y guardería.
+
+EVALUACIÓN DEL LENGUAJE
+
+La SLP administró [[KEEP|PLS-5 Spanish]] con participación del CG y observación de respuestas en español. Se incluyeron [[KEEP|Comprensión auditiva]], [[KEEP|Comunicación expresiva]] y [[KEEP|Lenguaje total]]. Se documentaron también muestras espontáneas, juego y entrevista. Las respuestas en inglés comunicadas por la guardería se consideraron dentro del perfil bilingüe; no se atribuyeron dificultades al uso de dos idiomas.
+
+| Prueba o subprueba | Fecha | Puntuación estándar | Percentil | Intervalo de confianza [[KEEP|95%]] | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish: Comprensión auditiva]] | [[DATE|02/24/2025]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-86]] | [[KEEP|1;10]] |
+| [[KEEP|PLS-5 Spanish: Comunicación expresiva]] | [[DATE|24/02/2025]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69–83]] | [[KEEP|1;7]] |
+| [[KEEP|PLS-5 Spanish: Lenguaje total]] | [[DATE|2025-02-24]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-82]] | [[KEEP|1;8]] |
+
+Los resultados se interpretan junto con funcionamiento diario, exposición lingüística y participación. Las edades equivalentes describen rendimiento en esta administración; no representan una edad global del pt. Hubo fatiga al final y se ofrecieron pausas. La SLP no convirtió respuestas enseñadas durante práctica en respuestas independientes.
+
+MUESTRA FUNCIONAL E INTERPRETACIÓN
+
+En órdenes habituales con objetos presentes, el pt respondió en [[KEEP|7/10]] oportunidades w/ gesto y en [[KEEP|4/10]] sin gesto. Identificó objetos familiares en [[KEEP|6/8]] intentos. En juego, inició comunicación en [[KEEP|5/12]] oportunidades naturales. El repertorio observado incluyó palabras aproximadas, gestos, mirada y vocalizaciones. Estos datos describen una sesión y pueden variar entre rutinas.
+
+La muestra incluyó [[KEEP|"abre"]], [[KEEP|"dame"]], [[KEEP|"mamá agua"]] y [[KEEP|"no más"]]. Al llamar al perro, dijo “[[PET|Chispa]] ven”; CG confirmaron intención comunicativa. Se escucharon aproximaciones con [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/t/]] y [[KEEP|[w]]]. No se estableció una meta aislada para [[KEEP|/k/]] o [[KEEP|/ɾ/]], b/c la prioridad actual es comunicar mensajes funcionales.
+
+La transcripción exploratoria incluyó el código [[KEEP|[EW]]] para una palabra añadida sin función clara en la muestra. Ese código no constituye diagnóstico. El pt respondió mejor con [[KEEP|min cues]] durante canciones conocidas y necesitó [[KEEP|max cues]] para una tarea nueva de imitación. La familia reconoce más intentos en casa que durante visitas con personas nuevas.
+
+OTRAS AGENCIAS Y APOYOS
+
+La familia recibe orientación alimentaria de [[AGENCY|WIC de Arbolena]], con contacto [[PROVIDER|Nora Villaseca Pineda]]. Próxima llamada prevista: [[DATE|03/12/2025]]. También participa en [[AGENCY|Smart Start de Valle Encina]], que ofrece préstamo de libros y orientación sobre juego. Contacto: [[PROVIDER|Ángela Merino Cobal]]. La SC verificará disponibilidad de material en español antes de coordinar entrega.
+
+El expediente registra una consulta informativa con [[AGENCY|DSS de Arbolena]] sobre transporte; caso [[ID|DSS-2502-31874]]. No se reporta intervención de protección infantil. La familia autoriza coordinación relacionada con los objetivos acordados. El vecino [[PERSON|Samuel Ríos Calvera]] puede conducir en una emergencia, pero no figura como representante para consentimientos.
+
+La hermana asiste a [[SCHOOL|Escuela Primaria Monte Violeta]]. Sus horarios afectan transporte y disponibilidad familiar. La SC preguntará por apoyos de transición cuando corresponda, sin iniciar una derivación escolar antes de revisar necesidades y consentimiento con los padres.
+
+RESULTADO FUNCIONAL [[KEEP|1]]: PEDIR Y RECHAZAR
+
+La familia quiere que [[CHILD|Nicolás]] comunique necesidades durante comida, vestido y juego. Criterio acordado: usará palabra, aproximación o combinación de gesto y palabra en [[KEEP|8/10]] oportunidades naturales, con [[KEEP|min cues]], durante varias rutinas y con diferentes CG. Fecha objetivo: [[DATE|3 de junio de 2025]].
+
+Estrategias: seguir el interés del pt, ponerse a su altura, presentar dos opciones y esperar. CG modelará una frase breve después del intento, sin exigir una copia exacta. Ejemplos: [[KEEP|"quiero agua"]], [[KEEP|"ayuda"]], [[KEEP|"ese"]] y [[KEEP|"no quiero"]]. Se aceptará el rechazo claro y se confirmará su significado.
+
+La SLP utilizará elementos de [[KEEP|Hanen]] y [[KEEP|estimulación focalizada]] para enseñar a los CG a responder y ampliar mensajes. Se ofrecerá un tablero sencillo de elecciones como apoyo visual. [[KEEP|PECS]] no se inicia como programa formal en esta revisión; el equipo reconsiderará apoyos según acceso y preferencias familiares.
+
+Seguimiento: CG anotará una rutina exitosa y una dificultad entre visitas. La SLP observará intentos independientes antes de modelar. Si el criterio no mejora, revisará oportunidades, dificultad del mensaje y consistencia del apoyo.
+
+RESULTADO FUNCIONAL [[KEEP|2]]: PARTICIPAR EN TURNOS
+
+La familia quiere que el pt disfrute juego compartido con adultos, su hermana y compañeros. Criterio: mantendrá intercambios recíprocos de juego en [[KEEP|3 de 5]] oportunidades, usando gesto, objeto o palabra, con [[KEEP|mod cues]] o menos. Fecha objetivo: [[DATE|06/03/2025]].
+
+Estrategias: usar carros, bloques y burbujas; ofrecer un turno breve; pausar; responder a la iniciativa. CG modelará [[KEEP|"mi turno"]], [[KEEP|"tu turno"]], [[KEEP|"toma"]] y [[KEEP|"otra vez"]]. El adulto evitará preguntas repetidas sobre nombres de objetos cuando interrumpan el juego.
+
+La SLP enseñará [[KEEP|modelado naturalista]] y práctica dentro de actividades elegidas por el pt. La maestra podrá usar las mismas palabras durante juego con [[PEER|Mila]] y [[PEER|Teo]], después de recibir la información autorizada. No se pedirá a otros niños que actúen como terapeutas.
+
+Seguimiento: observar si el pt inicia, responde o sostiene un turno. Registrar el apoyo necesario y el contexto. Si pierde interés, cambiar material o acortar el intercambio. La familia considera éxito que el pt permanezca cómodo y vuelva a participar, aunque su producción verbal sea aproximada.
+
+RESULTADO FUNCIONAL [[KEEP|3]]: ANTICIPAR TRANSICIONES
+
+La familia quiere que el pt comprenda qué sigue al terminar una actividad. Criterio: participará en una transición habitual con una señal visual y una instrucción breve en [[KEEP|4/5]] oportunidades, con [[KEEP|min cues]]. Fecha objetivo: [[DATE|2025/06/03]].
+
+Estrategias: mostrar primero la actividad actual y después la siguiente; usar una canción consistente; permitir llevar un objeto seguro. Modelos: [[KEEP|"guardamos"]], [[KEEP|"vamos al baño"]], [[KEEP|"después, cuento"]] y [[KEEP|"terminé"]]. CG reconocerá el malestar y ofrecerá una alternativa comunicativa antes de repetir la instrucción.
+
+La familia seleccionará imágenes claras de sus propias rutinas. La SLP comprobará comprensión mediante acciones y elecciones, sin exigir señalar una imagen como única respuesta. El papá practicará durante baño y recogida; la abuela, durante desayuno y salida. La mamá practicará cuando esté descansada.
+
+Seguimiento: registrar qué señal ayudó, cuánto apoyo necesitó el pt y si pudo comunicar rechazo. Si aumenta el malestar, revisar duración, cansancio, ruido y claridad del aviso antes de añadir demandas.
+
+SERVICIOS, FECHAS Y REVISIÓN
+
+SLP individual w/ CG en entorno natural: semanal, sesión de cuarenta y cinco minutos, desde [[DATE|10 de marzo de 2025]] hasta [[DATE|09/02/2025]]. Lugar principal: domicilio; visitas en guardería según consentimiento y necesidad funcional. Primera cita: [[DATE|03-10-2025]], a las [[TIME|1:30 p. m.]]. CPT previsto: [[KEEP|92507]]; modificador: [[KEEP|GN]]. Diagnóstico de referencia: [[KEEP|F80.2]].
+
+Coordinación de servicios: contacto mensual y adicional según necesidad, desde [[DATE|03/03/2025]] hasta [[DATE|09/02/2025]]. Revisión del IFSP: [[DATE|4 de junio de 2025]], a las [[TIME|2:00 p. m.]]. La SC confirmará modalidad y participantes. Si hay cancelación, ofrecerá otra fecha compatible con turnos y transporte.
+
+La familia recibió explicación en español sobre consentimiento, confidencialidad y participación voluntaria. Ambos padres expresaron comprensión mediante ejemplos. Autorizaron los servicios descritos y el intercambio de información pertinente con los contactos indicados. La SLP dejó estrategias impresas y comprobó que los CG podían practicarlas durante juego.
+
+Firmas registradas: mamá [[PARENT|Mariela Castañeda Ruiz]], papá [[PARENT|Esteban Arvelo Paz]], SC [[PROVIDER|Elena Pardo Montalvo]] y SLP [[PROVIDER|Inés Valcárcel Soria]]. Fecha: [[DATE|3 de marzo de 2025]]. Próxima acción: confirmar autorización, realizar la primera visita y ajustar estrategias con la familia según respuesta funcional del pt.

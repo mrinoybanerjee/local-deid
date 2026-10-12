@@ -1,0 +1,47 @@
+Daily Speech-Language Therapy Note — Fictional Test Record
+
+Field	Value
+Client	[[CHILD|Nicolás Varela Soto]]
+Age	[[KEEP|4;2]]
+Service date	[[DATE|03/05/2025]]
+Birth date	[[DATE|01-05-2021]]
+Record	[[ID|NC-SLP-482731]]
+Medicaid	[[MEDICAID_ID|830572641K]]
+Clinician	[[PROVIDER|Elena Prado]], bilingual pediatric speech-language pathologist
+Employer	[[EMPLOYER|Willow Lantern Speech Services]]
+School district	[[SCHOOL|Silver Fern County Schools]]
+School	[[SCHOOL|Mossbridge Early Learning School]]
+Teacher	Ms. [[TEACHER|Celia Duarte]]
+
+Contact	Details
+Mother	[[PARENT|Marisol Soto]]; [[PHONE|919-555-0142]]; [[EMAIL|marisol.soto@example.com]]
+Home	[[PLACE|4826 Lantern Finch Lane]], [[PLACE|Mossbridge]], North Carolina [[PLACE|27593]]
+Maternal hometown	[[PLACE|El Jacarandalito]], Guatemala
+Mother’s workplace	[[ORG|Juniper Ribbon Textiles]]
+Referral agency	[[AGENCY|Silver Fern CDSA]]
+Pediatric practice	[[HOSPITAL|Mossbridge Children’s Hospital]]
+Resources	[[URL|https://willow-lantern.example/resources]]
+
+Service	Day	Time	Duration
+Individual speech therapy	Wednesday	[[TIME|9:10 a.m.]]–[[TIME|9:40 a.m.]]	30 minutes
+Parent coaching	Friday	[[TIME|2:15 p.m.]]	15 minutes
+
+S: Mother reported that [[CHILD|Nicolás]] requested breakfast using longer Spanish phrases after the home practice dated [[DATE|3 de marzo de 2025]]. Father [[PARENT|Andrés Varela]] noticed clearer requests during play with sister [[SIBLING|Inés]]. Grandmother [[FAMILY|Teresa Soto]] provided transportation. Mother recalled an earlier family visit on [[DATE|el martes 4 de junio]]; the year was unavailable. No illness or hearing concerns were reported. The child entered willingly and selected toy animals.
+
+Birth history remained parent-reported: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. No new medical records were reviewed.
+
+O: Historical scores below were copied from the fictional evaluation record. They provide context and were not administered today.
+
+Test	Subtest	Evaluation date	Standard score	Percentile	[[KEEP|95%]] confidence interval	Age equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[DATE|02/18/2025]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	[[DATE|2025-02-18]]	[[KEEP|81]]	[[KEEP|10th]]	[[KEEP|76–86]]	[[KEEP|2;9]]
+
+These results require cautious interpretation because the child uses both Spanish and English. Informal bilingual probes, caregiver examples, and observed participation informed treatment decisions.
+
+Using [[KEEP|Hanen]] strategies, the clinician modeled [[KEEP|"more bubbles"]] and [[KEEP|"quiero agua"]]. [[CHILD|Nicolás]] produced independent requests in [[KEEP|8/10]] opportunities and expanded phrases in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|70%]] with [[KEEP|min cues]]. Substitution of [[KEEP|[w]]] persisted during connected speech. Spanish [[KEEP|/ɾ/]] was observed without direct correction.
+
+During shared play, classmate [[PEER|Lidia]] offered a toy dog. The child said “[[PET|Chispa]] run,” referring to the family pet. Another sample, [[KEEP|"doggie goed home"]], received the [[KEEP|SALT]] code [[KEEP|[EW]]]. The clinician accepted both languages and modeled grammatical expansions without requiring repetition.
+
+A: Participation improved with predictable turns and visual choices. Requests generalized across two activities, but phrase expansion still required support. Speech errors reduced clarity during excited storytelling. The child tolerated feedback and returned to the activity after a brief movement break. Differences between languages were considered when selecting targets. Current performance supports continued functional communication treatment. Today’s observations describe session performance; they do not establish a new standardized score.
+
+P: Continue [[KEEP|IFSP goal 2]] and practice [[KEEP|"open"]], [[KEEP|"help"]], and [[KEEP|"my turn"]] during daily routines. Teacher will offer wait time before prompting. Mother will record brief examples in either language. Review progress on [[DATE|03/19/2025]]. Coordinate with service coordinator [[PROVIDER|Daniela Ríos]] if scheduling changes. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]], diagnosis [[KEEP|ICD-10 F80.2]]. Note completed by [[PROVIDER|Elena Prado]].

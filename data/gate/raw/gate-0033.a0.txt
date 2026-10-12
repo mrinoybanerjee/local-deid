@@ -1,0 +1,113 @@
+Tipo de documento: Revisión semestral del Plan Individualizado de Servicios para la Familia (IFSP)
+Marco: Programa estatal para bebés y niños pequeños de Carolina del Norte
+Carácter del registro: Documento completamente ficticio para pruebas
+Nombre del niño: [[CHILD|Nicolás Valverde Castañeda]]
+Nombre usado en casa: [[CHILD|Nico]]
+Fecha de nacimiento: [[DATE|10 de mayo de 2024]]
+Edad actual: [[KEEP|2;5]]
+Identificador del expediente: [[ID|NC-FIC-482716]]
+Número de Medicaid: [[MEDICAID_ID|739482615Q]]
+Fecha del IFSP inicial: [[DATE|10 de abril de 2026]]
+Fecha de revisión: [[DATE|10 de octubre de 2026]]
+Próxima revisión prevista: [[DATE|10 de abril de 2027]]
+Madre: [[PARENT|Elena Castañeda Ríos]]
+Padre: [[PARENT|Diego Valverde Soto]]
+Domicilio: [[PLACE|1846 Calle del Laurel Azul]], [[PLACE|Arroyo Claro]], Carolina del Norte, [[PLACE|27963]]
+Condado: [[PLACE|Condado de Saucedal]]
+Teléfono familiar: [[PHONE|919-555-0146]]
+Correo familiar: [[EMAIL|elena.valverde@example.com]]
+Coordinadora de servicios: [[PROVIDER|Inés Salgado]]
+Oficina responsable: [[AGENCY|CDSA Valle de los Pinos]]
+Dirección de la oficina: [[PLACE|320 Avenida del Molino Verde]], [[PLACE|Arroyo Claro]], Carolina del Norte, [[PLACE|27963]]
+Teléfono de coordinación: [[PHONE|919-555-0182]]
+Profesional que redacta: [[PROVIDER|Mariela Rivas]], patóloga bilingüe del habla y lenguaje
+Iniciales profesionales: [[PROVIDER|M.R.]]
+Empresa de la profesional: [[EMPLOYER|Puentes del Habla Pediátrica]]
+Sitio informativo ficticio: [[URL|https://puentesdelhabla.example.com/familias]]
+Diagnóstico registrado: [[KEEP|F80.2]]
+Código del servicio: [[KEEP|92507]]
+Autorización: [[ID|AUT-FIC-620184]]
+
+Información familiar y participación
+
+La reunión se realizó en español, idioma que la familia eligió para conversar y recibir este documento. Ambos padres participaron presencialmente. La hermana [[SIBLING|Sol]], de [[KEEP|4;2]], estuvo presente durante el juego inicial. La abuela doña [[FAMILY|Lupe]] participó por teléfono. La familia confirmó que comprende las propuestas y puede solicitar cambios durante el período del plan.
+
+En casa se habla principalmente español. El niño escucha inglés durante algunas actividades de la guardería. La familia desea mantener ambos idiomas y fortalecer primero la comunicación que necesita en sus rutinas. No se identificaron dificultades para acceder a una interpretación profesional. La información escrita se revisó oralmente, con pausas para preguntas.
+
+La madre trabaja en [[ORG|Panadería Trigal de Nube]]. El padre tiene horarios variables. La tía [[FAMILY|Rosa]] ayuda con el cuidado dos tardes por semana. El cuidador Mr. [[FAMILY|Tom]] acompaña ocasionalmente a la familia durante las recogidas.
+
+Preocupaciones y prioridades en palabras de la familia
+
+La madre expresó: “Queremos entender lo que pide antes de que llore. A veces sabemos que quiere algo, pero tenemos que adivinar. Nos gustaría que pudiera pedir agua, ayuda y descanso”.
+
+El padre agregó: “No queremos que deje de hablar español. Queremos que pueda jugar con su hermana y decir cuándo ya terminó. Podemos practicar mientras comemos y guardamos los juguetes”.
+
+La abuela dijo: “Yo necesito saber cuánto esperar. Si le pregunto muchas veces, se molesta. Quiero aprender a darle una oportunidad sin hacerle todo”.
+
+La familia eligió tres prioridades: pedir necesidades, participar en juegos compartidos y comprender instrucciones útiles. También pidió estrategias que funcionen cuando hay prisa. Prefiere actividades breves integradas en la vida diaria.
+
+Fortalezas y observaciones funcionales
+
+[[CHILD|Nicolás]] busca a los adultos conocidos, comparte objetos interesantes y disfruta los juegos de movimiento. Usa gestos, vocalizaciones y algunas palabras para comunicarse. Lleva una taza al adulto cuando quiere beber. En ocasiones combina una mirada con un gesto de señalar. Acepta mejor los turnos cuando el adulto sigue su interés.
+
+Durante la observación produjo [[KEEP|"más"]], [[KEEP|"agua"]] y [[KEEP|"mamá"]]. Para solicitar una pelota dijo [[KEEP|"ota"]]. Estas producciones se aceptaron como intentos comunicativos. La profesional amplió el mensaje sin exigir repetición inmediata.
+
+En una muestra breve se registraron [[KEEP|18]] actos comunicativos y [[KEEP|6]] palabras diferentes. Se utilizó el código de análisis [[KEEP|[EW]]] para una palabra con error. Estos datos describen esa muestra; no representan todo el lenguaje del niño.
+
+Evaluación y seguimiento
+
+La evaluación del [[DATE|24 de septiembre de 2026]] incluyó entrevista familiar, observación y [[KEEP|PLS-5 Spanish]]. Se registró una puntuación estándar de comprensión auditiva de [[KEEP|78]], percentil [[KEEP|7]], y una puntuación estándar de comunicación expresiva de [[KEEP|75]], percentil [[KEEP|5]]. La puntuación estándar total fue [[KEEP|76]], percentil [[KEEP|5]].
+
+La interpretación considera la exposición a ambos idiomas, las oportunidades de participación y la variación entre situaciones. Los resultados apoyan las necesidades descritas por la familia. No se usaron como único criterio para decidir servicios.
+
+La profesional observó una aproximación [[KEEP|[w]]] al intentar una palabra con [[KEEP|/l/]]. También documentó dificultad con [[KEEP|/k/]]. Estos sonidos se observarán dentro de palabras funcionales, sin convertir la precisión articulatoria en la prioridad actual.
+
+Rutinas diarias
+
+El desayuno empieza aproximadamente a las [[TIME|7:15 a. m.]]. La familia ofrece dos alimentos y permite señalar o nombrar. Los momentos difíciles aparecen cuando un alimento termina o el adulto cambia de actividad sin avisar.
+
+La entrada a [[DAYCARE|Guardería Jardín de las Cometas]] ocurre a las [[TIME|8:10 a. m.]]. Miss [[TEACHER|Ana]] recibe al niño. La maestra [[TEACHER|Carmen]] organiza el juego en pequeños grupos. Los compañeros [[PEER|Eva]] y [[PEER|Leo]] suelen acercarse al área de bloques. La familia desea que el niño pueda pedir un turno sin empujar.
+
+Después de la recogida, el niño juega con su hermana y con el perro [[PET|Chispa]]. Miran por la ventana y comentan el sol. Durante el baño, cerca de las [[TIME|7:00 p. m.]], disfrutan llenar y vaciar recipientes. La lectura funciona mejor antes de que aparezca cansancio.
+
+Otras agencias y apoyos
+
+La familia recibe orientación alimentaria de [[AGENCY|Centro Nutricional Semilla]]. La coordinadora verificará con los padres si desean compartir las estrategias de comunicación con ese servicio.
+
+El pediatra, Dr. [[PROVIDER|Samuel Varela]], atiende en [[HOSPITAL|Hospital Infantil Loma Serena]]. La familia informó que solicitará una revisión auditiva. La cita todavía no tiene fecha confirmada.
+
+La hermana asiste a [[SCHOOL|Escuela Sendero Alegre]]. El conductor [[PERSON|Esteban Cobo]] entrega avisos impresos sobre cambios de transporte. La familia pidió que los avisos importantes también se expliquen oralmente. La coordinadora registrará esa preferencia cuando los padres autoricen el contacto.
+
+Resultado familiar uno: expresar necesidades
+
+Para el [[DATE|10 de abril de 2027]], [[CHILD|Nico]] comunicará una necesidad durante comida, baño o juego mediante una palabra, una aproximación, un gesto claro o una combinación. La familia considerará logrado el resultado cuando lo observe en [[KEEP|8/10]] oportunidades naturales durante dos semanas.
+
+Los adultos colocarán objetos visibles y accesibles con ayuda, ofrecerán dos opciones y esperarán unos segundos. Modelarán [[KEEP|"más"]], [[KEEP|"ayuda"]] y [[KEEP|"abre"]] según la situación. Responderán al intento antes de ampliar el mensaje. Evitarán convertir cada petición en una prueba.
+
+La profesional demostrará la estrategia, observará al cuidador y ajustará la ayuda. Al inicio se permitirán [[KEEP|mod cues]], con reducción progresiva según la respuesta. La familia anotará ejemplos breves, incluidos los intentos que no funcionaron.
+
+Resultado familiar dos: compartir el juego
+
+Para el [[DATE|10 de abril de 2027]], el niño participará en cuatro turnos consecutivos con su hermana, un adulto o un compañero durante una actividad elegida. El criterio será participación en [[KEEP|80%]] de las oportunidades registradas durante dos semanas.
+
+Se usarán pelotas, bloques y canciones con pausas. El adulto describirá las acciones con frases cortas y modelará [[KEEP|"mi turno"]], [[KEEP|"tu turno"]] y [[KEEP|"otra vez"]]. La hermana podrá invitarlo, pero no será responsable de dirigir la práctica.
+
+En la guardería se ofrecerán materiales duplicados y turnos breves. El personal reconocerá las solicitudes con gestos. Si aumenta la frustración, reducirá la espera y ayudará a cerrar la actividad.
+
+Resultado familiar tres: comprender transiciones
+
+Para el [[DATE|10 de abril de 2027]], el niño seguirá instrucciones funcionales de un paso durante guardar, lavarse las manos y prepararse para salir. Se espera respuesta en [[KEEP|8/10]] oportunidades, con apoyo visual y hasta [[KEEP|min cues]].
+
+Los adultos usarán la misma frase, señalarán el objeto y mostrarán una imagen sencilla. Presentarán primero una instrucción y esperarán antes de repetirla. Modelarán los objetivos [[KEEP|"guarda"]], [[KEEP|"ven"]] y [[KEEP|"dame"]] dentro de acciones reales.
+
+La familia probará una canción breve para anticipar el final del juego. Revisará si esa señal facilita la transición o si necesita otra estrategia.
+
+Servicios, fechas y revisión
+
+La intervención del habla y lenguaje continuará desde el [[DATE|12 de octubre de 2026]] hasta el [[DATE|9 de abril de 2027]]. Se propone una visita semanal de 45 minutos en el hogar. Una visita mensual podrá realizarse en la guardería, con acuerdo familiar.
+
+La coordinación de servicios continuará durante el mismo período. La coordinadora revisará acceso, citas pendientes y prioridades familiares mediante contacto mensual.
+
+Los padres aceptaron los resultados y la frecuencia propuesta. La profesional revisará avances con ejemplos de las rutinas. La familia podrá solicitar una reunión antes de la fecha prevista si cambian sus necesidades.
+
+Registro final: [[PROVIDER|M.R.]] redactó y explicó el documento en español el [[DATE|10 de octubre de 2026]].

@@ -1,0 +1,88 @@
+PROGRAMA DE INTERVENCIÓN TEMPRANA DE CAROLINA DEL NORTE (NC INFANT-TODDLER PROGRAM)
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+
+CDSA: [[AGENCY|CDSA del Área Triángulo]]
+Oficina: [[PLACE|2109 Avenida Progreso]], [[PLACE|Durham]], NC [[PLACE|27703]]
+Teléfono de la oficina: [[PHONE|919-555-0148]]
+Coordinadora de Servicios: [[PROVIDER|Bianca Soto]]
+Correo electrónico de la coordinadora: [[EMAIL|bianca.soto@cdsatriangulo.org]]
+
+Fecha del IFSP inicial: [[DATE|24 de marzo de 2026]]
+Fecha de esta revisión: [[DATE|5 de octubre de 2026]]
+Fecha de la próxima revisión programada: [[DATE|5 de abril de 2027]]
+
+INFORMACIÓN DEL NIÑO
+Nombre: [[CHILD|Mateo Alejandro Vásquez Rodríguez]]
+Fecha de nacimiento: [[DATE|14 de febrero de 2024]]
+Edad actual: [[KEEP|2;7]]
+Número de expediente de la CDSA: [[ID|CDSA-2026-04521]]
+Número de Medicaid: [[MEDICAID_ID|784215693B]]
+Dirección: [[PLACE|118 Calle Esperanza]], [[PLACE|Durham]], NC [[PLACE|27704]]
+
+PADRES/TUTORES
+Madre: [[PARENT|Lucía Fernanda Rodríguez Paredes]], teléfono [[PHONE|919-555-0271]], correo [[EMAIL|lucia.rodriguezp@gmail.com]]
+Padre: [[PARENT|Carlos Andrés Vásquez Mendoza]], teléfono [[PHONE|984-555-0193]]
+
+Informe preparado por [[PROVIDER|Patricia Gómez, M.S., CCC-SLP]], patóloga del habla y lenguaje bilingüe (inglés/español), con [[EMPLOYER|Terapia Integral Pediátrica de Carolina]], bajo contrato con la [[AGENCY|CDSA del Área Triángulo]].
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+[[CHILD|Mateo]] nació el [[DATE|14 de febrero de 2024]] en el [[HOSPITAL|Hospital WakeMed Raleigh]], con una edad gestacional de [[KEEP|34 semanas]] y un peso al nacer de [[KEEP|1,980 gramos]]. Sus puntuaciones de Apgar fueron de [[KEEP|6]] al minuto uno y [[KEEP|8]] a los cinco minutos. Pasó [[KEEP|19 días]] en la unidad de cuidados intensivos neonatales de ese mismo hospital, donde fue atendido por la neonatóloga [[PROVIDER|Dra. Patricia Lin]]. Durante su estancia presentó dificultades de succión-deglución y recibió alimentación por sonda nasogástrica durante [[KEEP|9 días]] antes de lograr alimentación oral completa. Su pediatra de seguimiento, [[PROVIDER|Dr. Samuel Ortiz]], lo refirió al programa de intervención temprana a los [[KEEP|11 meses]] de edad por preocupaciones sobre el retraso en el desarrollo del lenguaje receptivo y expresivo. No se reportan otros diagnósticos médicos activos ni hospitalizaciones adicionales desde el alta de la unidad neonatal.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en sus propias palabras)
+La madre, [[PARENT|Lucía]], comparte: "Queremos que [[CHILD|Mateo]] pueda decirnos lo que necesita sin frustrarse tanto. Ahora solo señala y grita, y a veces se tira al piso porque no lo entendemos. También nos preocupa que cuando empiece el preescolar grande no pueda seguir instrucciones como los demás niños de su edad."
+El padre, [[PARENT|Carlos]], añade: "Yo quiero aprender qué hacer en la casa para ayudarlo, porque casi no estoy los fines de semana por el trabajo. Cuando llego cansado, a veces es más fácil darle lo que pide con señas que esperar a que hable, y sé que eso no lo ayuda."
+Ambos padres coinciden en que su prioridad principal es que [[CHILD|Mateo]] pueda comunicarse con palabras funcionales antes de iniciar el preescolar público el próximo otoño.
+
+RUTINAS DIARIAS
+[[CHILD|Mateo]] se despierta alrededor de las [[TIME|6:30 a.m.]] y desayuna con su hermana mayor, [[SIBLING|Isabela Vásquez Rodríguez]], de [[KEEP|6 años]]. A las [[TIME|7:45 a.m.]] su padre lo lleva al centro [[DAYCARE|Mundo de Semillitas]], donde pasa el día bajo el cuidado de su maestra, [[TEACHER|Srta. Dayana Flores]], junto a sus compañeritos [[PEER|Ian]] y [[PEER|Sofía]]. Por las tardes, cuando ninguno de los padres puede recogerlo a tiempo, lo cuida su niñera, [[FAMILY|Carmen Luz Pérez]], hasta las [[TIME|6:00 p.m.]]. En casa, [[CHILD|Mateo]] juega mucho con la perrita de la familia, [[PET|Luna]], y disfruta especialmente de las visitas de su prima, [[FAMILY|Valentina Paredes]], los fines de semana. La hora del baño, a las [[TIME|7:30 p.m.]], y el cuento antes de dormir son los momentos del día en que más intenta comunicarse verbalmente, según reporta la madre.
+
+OTROS ORGANISMOS INVOLUCRADOS
+La familia recibe apoyo de varios programas comunitarios. El [[AGENCY|DSS]] del condado de [[PLACE|Durham]] mantiene el caso abierto para asistencia con vivienda y servicios de emergencia. La familia participa en [[AGENCY|WIC]] desde el nacimiento de [[CHILD|Mateo]] para recibir suplementos nutricionales. [[AGENCY|Smart Start]] del condado de [[PLACE|Durham]] refirió a la familia a un grupo de juego bilingüe para padres e hijos. La familia estuvo en lista de espera de [[AGENCY|Early Head Start]] antes de inscribir a [[CHILD|Mateo]] en [[DAYCARE|Mundo de Semillitas]], y permanece en esa lista para el próximo año escolar.
+
+EMPLEO DE LOS PADRES
+La madre, [[PARENT|Lucía]], trabaja de día como empacadora en [[ORG|Variedades El Sol]] y además hace turno nocturno los fines de semana en [[ORG|UPS]]. El padre, [[PARENT|Carlos]], trabaja en construcción para [[ORG|Techos y Concreto Hernández]], con horarios que a menudo se extienden hasta el anochecer.
+
+RESULTADOS DE LA EVALUACIÓN
+Se administraron la [[KEEP|Escala Rossetti del Lenguaje Infantil]] y la versión en español de la [[KEEP|Preschool Language Scale-5]] ([[KEEP|PLS-5 Español]]) el [[DATE|10 de marzo de 2026]], a la edad cronológica de [[KEEP|2;1]].
+
+Prueba	Área	Puntuación estándar	Percentil	Edad equivalente
+[[KEEP|PLS-5 Español]]	[[KEEP|Comprensión Auditiva]]	[[KEEP|70]]	[[KEEP|2do]]	[[KEEP|1;4-1;7]]
+[[KEEP|PLS-5 Español]]	[[KEEP|Comunicación Expresiva]]	[[KEEP|65]]	[[KEEP|1er]]	[[KEEP|1;2-1;5]]
+[[KEEP|PLS-5 Español]]	[[KEEP|Puntuación Total del Lenguaje]]	[[KEEP|66]]	[[KEEP|1er]]	—
+
+En el área de fonología, [[CHILD|Mateo]] sustituye [[KEEP|/k/]] por [[KEEP|/t/]] y omite consonantes finales de manera consistente. Por ejemplo, produce [[KEEP|"aba"]] en lugar de [[KEEP|"agua"]] y [[KEEP|"tete"]] en lugar de [[KEEP|"leche"]]. Con [[KEEP|mod cues]] logró producir el sonido [[KEEP|/k/]] en posición inicial en [[KEEP|3 de 10]] intentos. Su inventario fonético actual incluye las vocales y las consonantes [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/t/]] y [[KEEP|[w]]] como sustituto de [[KEEP|/l/]].
+
+Diagnóstico de trabajo: [[KEEP|trastorno mixto del lenguaje expresivo y receptivo]], código [[KEEP|ICD-10 F80.2]]. Código de procedimiento utilizado para la evaluación: [[KEEP|CPT 92523]].
+
+RESULTADOS DEL IFSP Y ESTRATEGIAS
+
+Resultado [[KEEP|1]]: [[CHILD|Mateo]] usará al menos [[KEEP|20]] palabras o combinaciones de dos palabras para pedir objetos y actividades preferidas en el hogar y en [[DAYCARE|Mundo de Semillitas]]. Estrategias: uso de tarjetas [[KEEP|PECS]], modelado de lenguaje según el enfoque [[KEEP|Hanen]], y práctica diaria durante las rutinas de comida y juego.
+
+Resultado [[KEEP|2]]: [[CHILD|Mateo]] seguirá instrucciones de un paso con apoyo visual en [[KEEP|8 de 10]] oportunidades durante las rutinas estructuradas del hogar y el centro. Estrategias: claves físicas de nivel [[KEEP|mod cues]], apoyo táctil-kinestésico con el enfoque [[KEEP|PROMPT]] para la producción de sonidos finales, y repetición espaciada de vocabulario funcional.
+
+Resultado [[KEEP|3]]: La familia reportará mayor confianza para apoyar la comunicación de [[CHILD|Mateo]] durante las rutinas diarias. Estrategias: visitas de coaching con [[PROVIDER|Patricia Gómez]] cada dos semanas, uso de estrategias del enfoque [[KEEP|Hanen]] en el hogar, y participación continua en el grupo de juego de [[AGENCY|Smart Start]].
+
+HORARIO DE SERVICIOS
+
+Servicio	Proveedor	Frecuencia	Duración	Lugar
+Terapia del habla y lenguaje	[[PROVIDER|Patricia Gómez, M.S., CCC-SLP]]	2 veces por semana	45 minutos	[[DAYCARE|Mundo de Semillitas]]
+Coordinación de servicios	[[PROVIDER|Bianca Soto]]	1 vez al mes	30 minutos	Hogar
+Terapia ocupacional	[[PROVIDER|Renata Ibáñez, OTR/L]]	1 vez por semana	30 minutos	Hogar
+
+Las sesiones comenzaron el [[DATE|7 de abril de 2026]] y continuarán hasta la próxima revisión del IFSP, programada para el [[DATE|5 de abril de 2027]].
+
+PERSONAS DE CONTACTO
+
+Nombre	Rol	Teléfono	Correo electrónico
+[[PARENT|Lucía Fernanda Rodríguez Paredes]]	Madre	[[PHONE|919-555-0271]]	[[EMAIL|lucia.rodriguezp@gmail.com]]
+[[PARENT|Carlos Andrés Vásquez Mendoza]]	Padre	[[PHONE|984-555-0193]]	—
+[[PROVIDER|Bianca Soto]]	Coordinadora de Servicios	[[PHONE|919-555-0148]]	[[EMAIL|bianca.soto@cdsatriangulo.org]]
+[[PROVIDER|Patricia Gómez, M.S., CCC-SLP]]	Patóloga del habla	[[PHONE|919-555-0387]]	[[EMAIL|patricia.gomez@terapiaintegralnc.com]]
+
+RESUMEN Y PRÓXIMOS PASOS
+El equipo, incluyendo a [[PARENT|Lucía Fernanda Rodríguez Paredes]] y [[PARENT|Carlos Andrés Vásquez Mendoza]], acordó continuar con los tres resultados vigentes y añadir una visita conjunta con la maestra, [[TEACHER|Srta. Dayana Flores]], para alinear estrategias entre el hogar y [[DAYCARE|Mundo de Semillitas]]. La familia expresó interés en recibir materiales en español sobre el enfoque [[KEEP|Hanen]] para usar durante los fines de semana, cuando el padre está más disponible. La coordinadora, [[PROVIDER|Bianca Soto]], confirmará con [[AGENCY|Early Head Start]] el estado de la lista de espera antes de la próxima revisión.
+
+Firmado:
+[[PARENT|Lucía Fernanda Rodríguez Paredes]], madre, [[DATE|5 de octubre de 2026]]
+[[PROVIDER|Bianca Soto]], Coordinadora de Servicios, [[AGENCY|CDSA del Área Triángulo]], [[DATE|5 de octubre de 2026]]
+[[PROVIDER|Patricia Gómez, M.S., CCC-SLP]], patóloga del habla y lenguaje, [[DATE|5 de octubre de 2026]]

@@ -1,0 +1,25 @@
+Patient Name: [[CHILD|Mateo Ruiz Delgado]]
+DOB: [[DATE|04/12/2022]]
+Date of Service: [[DATE|October 6, 2026]]
+Time: [[TIME|9:30 AM]]
+Medicaid ID: [[MEDICAID_ID|9028471635K]]
+Case/Record #: [[ID|CDSA-00457812]]
+Service Coordinator: [[PROVIDER|Yolanda Pérez]], [[AGENCY|Agencia de Coordinación de Servicios para la Niñez Temprana del Condado de Durham]] ([[AGENCY|ACSI]])
+CDSA: [[AGENCY|Centro de Desarrollo Infantil del Área de Piedmont]] ([[AGENCY|CDSA Piedmont]])
+Interpreter: [[PROVIDER|Rosa Martínez]]
+Clinician: [[PROVIDER|Marisol Fernández-Ortiz, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]] ([[EMPLOYER|Carolina Bilingual Speech]] / [[EMPLOYER|CBSLS]])
+
+Subjetivo/Subjective:
+Su mamá [[PARENT|Lucía Delgado]] reportó que [[CHILD|Mateo]] durmió bien y llegó a la sesión "muy contento." She said at home he has started saying "agua" more clearly but still drops final consonants. His hermanita [[SIBLING|Valentina]] was present and played nearby with their perrito, [[PET|Coco]]. [[PARENT|Lucía]] also mentioned [[CHILD|Mateo]] saw the pediatrician, Dr. [[PROVIDER|Andrés Collazo]], last week for a follow-up, and his OT, [[PROVIDER|Brianna Shaw]], and PT, [[PROVIDER|Kevin Nguyen]], both noted improved trunk control.
+
+Objetivo/Objective:
+Con la interpretación de [[PROVIDER|Rosa Martínez]], se administró una muestra de lenguaje. [[CHILD|Mateo]] ([[KEEP|3;10]]) produced /k/ in isolation with [[KEEP|mod cues]] (target "casa" → "[[KEEP|tasa]]"), improving to [[KEEP|6/10]] trials by end of session. On the [[KEEP|PLS-5]] Auditory Comprehension subtest administered [[DATE|September 22, 2026]], he scored a [[KEEP|standard score of 76]] ([[KEEP|5th percentile]]). Expressive productions showed stopping of /s/ ([[KEEP|[t]]] for [[KEEP|/s/]]) in [[KEEP|4 of 5]] words. We used [[KEEP|PROMPT]] cueing and elements of [[KEEP|Hanen]] strategies throughout.
+
+Análisis/Assessment:
+[[CHILD|Mateo]] continues to qualify under [[KEEP|ICD-10 F80.1]]; session billed under [[KEEP|CPT 92507]]. Progress toward IFSP [[KEEP|Outcome 2]] is steady; stimulability for /k/ and /s/ is improving with structured cueing.
+
+Plan:
+Continue weekly sessions at [[AGENCY|CDSA Piedmont]]. Recommend [[CHILD|Mateo]]'s teacher at [[DAYCARE|Little Sprouts Early Learning Center]], Ms. [[TEACHER|Dana Whitfield]], reinforce final consonants during snack time. Next IFSP review scheduled [[DATE|January 15, 2027]]. Service coordinator [[PROVIDER|Yolanda Pérez]] will update the family's address on file: [[PLACE|412 Willow Bend Lane, Durham, NC]]. Contact family at [[PHONE|(919) 555-0148]] or [[EMAIL|lucia.delgado82@fakemail.com]] with questions.
+
+Clinician: [[PROVIDER|Marisol Fernández-Ortiz, M.S., CCC-SLP]], [[EMPLOYER|CBSLS]]

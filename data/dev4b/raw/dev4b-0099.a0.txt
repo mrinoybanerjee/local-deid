@@ -1,0 +1,16 @@
+INFORME DE SESIÓN DIARIA DE TERAPIA DEL HABLA Y LENGUAJE
+
+1. Identificación del Niño y de la Sesión
+Niño: [[CHILD|Mateo Hernández]], [[KEEP|2;6]] años. Número de caso: [[ID|NC-48827-B]]. Medicaid: [[MEDICAID_ID|987654321A]]. Fecha: [[DATE|9 de octubre de 2026]], hora de inicio [[TIME|10:15 a.m.]], hora de finalización [[TIME|11:00 a.m.]]. Domicilio: [[PLACE|214 Willow Bend Lane, Lumberton, Carolina del Norte 28358]].
+
+2. Antecedentes Familiares y Empleo
+La madre, [[PARENT|Lucía Hernández]], trabaja dos empleos: en la planta [[ORG|Robeson Poultry Plant]] por las mañanas y por las tardes en un servicio de limpieza conocido solo por sus siglas, [[ORG|CMS]]. El padre, [[PARENT|Carlos Hernández]], trabaja en la [[ORG|Granja Sunrise]] y antes trabajó en la [[ORG|Constructora Del Valle]]. Puede ser contactado al [[PHONE|910-555-0210]]. La abuela materna, [[FAMILY|Rosa Pérez]], ayuda con el cuidado del niño, trabaja medio tiempo en el [[ORG|Restaurante El Fogón]] y también en la tienda [[ORG|Family Dollar Store]]. El hermano mayor, [[SIBLING|Diego Hernández]], asiste a la escuela [[SCHOOL|Lumberton Elementary School]].
+
+3. Agencias y Coordinación de Servicios
+El caso se maneja a través de la oficina del [[AGENCY|CDSA de Robeson County]], con apoyo de [[AGENCY|DSS]], el programa [[AGENCY|WIC]], [[AGENCY|Smart Start]] y [[AGENCY|Early Head Start]]. La coordinadora de servicios, [[PROVIDER|Ana Gutiérrez]], puede contactarse al [[PHONE|(910) 555-0142]] o al [[PHONE|910-555-0198]]. La intérprete bilingüe, [[PROVIDER|Elena Suárez]], asistió a la sesión para apoyar la comunicación con la familia. La familia también mantiene contacto con un tío en Guatemala al número [[PHONE|+502 5512-3456]] para asuntos de cuidado infantil durante viajes.
+
+4. Observaciones de la Sesión
+[[CHILD|Mateo]] participó en actividades de [[KEEP|PROMPT]] dirigidas a la producción de [[KEEP|/k/]] y [[KEEP|/g/]]. Produjo "[[KEEP|gato]]" con [[KEEP|mod cues]] en [[KEEP|3 de 5]] intentos. En la prueba [[KEEP|PLS-5]], obtuvo una puntuación estándar de [[KEEP|73-83]], percentil [[KEEP|9]]. Durante el grupo de juego, interactuó brevemente con su compañera [[PEER|Emma]], compartiendo bloques de construcción. Dijo claramente "mira el [[PET|Bongo]] corre" señalando a su perro.
+
+5. Plan
+Se continuará el programa [[KEEP|Hanen]] en casa. Próxima revisión de IFSP el [[DATE|15 de enero de 2027]]. Esta nota fue completada por la terapeuta [[PROVIDER|Marisol Castillo]], de [[EMPLOYER|Carolina Speech Kids, PLLC]]. Contactar al [[EMAIL|mcastillo@carolinaspeechkids.com]] o al [[PHONE|910.555.0173]].

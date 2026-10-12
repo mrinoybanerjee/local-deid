@@ -1,0 +1,43 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE — FICTIONAL TEST RECORD
+
+Field	Value
+Client	[[CHILD|María José Valdés Cordero]]
+Age	[[KEEP|4;2]]
+Service date	[[DATE|October 7, 2026]]
+Clinician	[[PROVIDER|Elena Marisol Varela]], bilingual pediatric speech-language pathologist
+Employer	[[EMPLOYER|Little Lantern Speech Services]]
+Location	[[PLACE|238 Willow Finch Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|27500]]
+Record	[[ID|LLS-260107-048]]
+Medicaid	[[MEDICAID_ID|000000048Q]]
+Billing	[[KEEP|92507]]; modifier [[KEEP|GN]]; diagnosis [[KEEP|F80.2]]
+
+S: Mother [[PARENT|Lucía Cordero]] attended and reported that [[CHILD|María José]] used longer requests during breakfast. Father [[PARENT|Tomás Valdés]] practiced picture descriptions after work at [[ORG|Copper Finch Packaging]]. Spanish remains the main home language; English is used during preschool routines. Mother requested examples in both languages and agreed that familiar vocabulary should support participation across settings.
+
+Classmates [[PEER|Nora Bellamy]] and [[PEER|Isaac Fenwick]] reportedly wait while the client finishes speaking. Cousins [[FAMILY|Camila Rosales]] and [[FAMILY|Diego Rosales]] joined a weekend pretend store. Sister [[SIBLING|Inés Valdés Cordero]] sometimes answers for the client. Babysitter [[FAMILY|Paula Neri]] observed one spontaneous request involving the family dog: “[[PET|Milo]] run.” Mother also described attendance at [[ORG|Willow Lantern Community Center]], where volunteer [[PERSON|June Hollis]] leads a family story program.
+
+O: The client entered calmly, selected a play kitchen, and completed the session with one movement break. The clinician alternated Spanish and English models according to activity and family preference. Previous evaluation results were reviewed for context; standardized testing was not repeated today.
+
+Measure	Recorded result	Source
+[[KEEP|PLS-5]]	Completed	[[DATE|September 16, 2026]]
+[[KEEP|Auditory Comprehension]]	Standard score [[KEEP|78]]; percentile [[KEEP|7]]; confidence interval [[KEEP|73-83]]	Prior evaluation
+[[KEEP|Expressive Communication]]	Standard score [[KEEP|80]]; percentile [[KEEP|9]]; age equivalent [[KEEP|2;6–3;0]]	Prior evaluation
+[[KEEP|IFSP outcome 2]]	Requests [[KEEP|8/10]]; [[KEEP|min cues]]	Play kitchen
+[[KEEP|IFSP goal 2.1]]	Initial [[KEEP|/k/]]: [[KEEP|6/10]]; [[KEEP|mod cues]]	Picture naming
+Two-step directions	[[KEEP|3 of 5]]; [[KEEP|60%]]; [[KEEP|mod cues]]	Cleanup routine
+
+Intervention used [[KEEP|Hanen]] interaction strategies and [[KEEP|Cycles]] practice. The clinician modeled [[KEEP|"cup"]], [[KEEP|"key"]], and [[KEEP|"quiero más"]]. The client produced [[KEEP|"I want cup"]] after a pause and [[KEEP|"tiero más"]] following a Spanish model. During an English sample, the clinician recorded [[KEEP|[EW]]] using [[KEEP|SALT]] conventions. Occasional [[KEEP|[w]]] substitutions occurred during connected speech. Models supported clear requests without requiring repetition of every error. The clinician documented responses separately by language to avoid treating vocabulary differences as errors.
+
+A: Functional requesting improved within supported play. Accuracy decreased when visual supports were removed or the activity changed. The client benefited from extra response time and predictable turns. Current observations support continued treatment for receptive and expressive language needs; language exposure alone does not explain the observed difficulties.
+
+History includes birth at [[KEEP|34 weeks]], birth weight [[KEEP|2100 g]], and Apgar scores of [[KEEP|7]] and [[KEEP|9]]. Records list NICU care at [[HOSPITAL|Pinecrest Health System — Briarhaven Campus]]. Audiologist [[PROVIDER|Owen Serrano]] documented hearing adequate for speech access on [[DATE|August 19, 2026]].
+
+P: Continue weekly individual therapy. Send teacher Ms. [[TEACHER|Marta Solano]] a draft classroom practice sheet for caregiver review. Use short choices, pauses, and shared play at home. Recheck generalization during the next visit.
+
+Contact	Role	Details
+[[PARENT|Lucía Cordero]]	Parent	[[PHONE|919-555-0148]]
+[[PROVIDER|Elena Marisol Varela]]	Clinician	[[EMAIL|elena.varela@example.invalid]]
+[[SCHOOL|Willow Finch Preschool]]	Classroom site	[[PHONE|984-555-0162]]
+
+Service	Day	Start	End
+Individual therapy	Wednesday	[[TIME|9:00 a.m.]]	[[TIME|9:45 a.m.]]
+Caregiver coaching	Wednesday	[[TIME|9:45 a.m.]]	[[TIME|10:00 a.m.]]

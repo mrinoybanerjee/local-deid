@@ -1,0 +1,25 @@
+S:
+Fecha: [[DATE|10 de octubre de 2026]], de [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]]. Nota de la Lic. [[PROVIDER|Elena Valcárcel Soto]], patóloga bilingüe del habla y lenguaje, empleada de [[EMPLOYER|Voces del Pinar Terapia Pediátrica, PLLC]], Carolina del Norte. Cliente: [[CHILD|Nicolás Arce Beltrán]], apodo [[CHILD|Nico]]; nacimiento [[DATE|10 de febrero de 2024]]; edad [[KEEP|2;8]]. Expediente [[ID|VPT-260418]]; Medicaid [[MEDICAID_ID|583726194K]]; autorización [[ID|AUT-682951]].
+
+Su mamá [[PARENT|Mariela Beltrán]] refiere más peticiones; su papá [[PARENT|Esteban Arce]] confirma frustración al repetir. Su hermana [[SIBLING|Inés Arce Beltrán]] modela turnos. Primos [[FAMILY|Bruno Salceda]] y [[FAMILY|Alma Salceda]] visitaron; niñera [[FAMILY|Celia Montoro]] practicó espera. Dijo "[[PET|Mota]] ven" al perro. Compañeros [[PEER|Damián Rosales]] y [[PEER|Lía Cifuentes]] participaron brevemente. Maestra Sra. [[TEACHER|Patricia Navas]] reporta mejor entrada al grupo; auxiliar [[TEACHER|Rebeca Solís]] facilita transiciones.
+
+Antecedentes referidos: gestación [[KEEP|38 semanas]], peso natal [[KEEP|3.120 kg]], Apgar [[KEEP|8/9]], nacimiento en [[HOSPITAL|Hospital Infantil Brisa Serena]]. Sin cambios médicos. Familia reside en [[PLACE|184 Calle Sauco]], [[PLACE|Pinar Claro]], [[PLACE|27594]]. Madre trabaja en [[ORG|Textiles Horizonte Azul]].
+
+O:
+Sesión en [[DAYCARE|Centro Infantil Semillas del Arroyo]], aula vinculada a [[SCHOOL|Escuela Comunitaria Senderos Nuevos]], [[PLACE|Valle Brumoso]]. Servicio de [[EMPLOYER|Voces del Pinar]]; registro interno [[EMPLOYER|VPTP]]. Intervención en español; comprobación breve de comprensión en inglés, sin exigir traducción.
+
+Evaluación del [[DATE|24 de septiembre de 2026]]: [[KEEP|PLS-5 Spanish]], subpruebas [[KEEP|Auditory Comprehension]], puntaje estándar [[KEEP|78]], percentil [[KEEP|7]], IC [[KEEP|73–83]], equivalente etario [[KEEP|2;6–3;0]]; [[KEEP|Expressive Communication]], puntaje estándar [[KEEP|81]], percentil [[KEEP|10]]. Resultados interpretados junto con muestra bilingüe y reporte familiar.
+
+Hoy: peticiones espontáneas [[KEEP|8/10]]; combinaciones verbales [[KEEP|3 de 5]]; seguimiento de instrucciones [[KEEP|80%]], con [[KEEP|claves mínimas]]. Produjo [[KEEP|"más agua"]], [[KEEP|"abre caja"]] y [[KEEP|"yo quiero"]]. Aproximación [[KEEP|[w]]] por [[KEEP|/ɾ/]]; objetivo [[KEEP|/k/]] logrado [[KEEP|6/10]] con [[KEEP|claves moderadas]]. Muestra SALT: [[KEEP|[EW]]] en reparación léxica.
+
+Se aplicaron [[KEEP|Hanen]] y [[KEEP|It Takes Two to Talk]] para espera y expansión; [[KEEP|PROMPT]] con consentimiento documentado; [[KEEP|Kaufman]] para secuencias funcionales; [[KEEP|Cycles]] para organización fonológica; [[KEEP|PECS]] como apoyo disponible. Alternó juego, merienda y lectura compartida. Aceptó pausa motora; regresó sin protesta. No tos ni dificultad respiratoria observadas.
+
+A:
+Progreso funcional hacia objetivo [[KEEP|2]] del IFSP fechado [[DATE|30 de septiembre de 2026]]. Persiste reducción de precisión articulatoria y longitud del enunciado. Desempeño mejora con modelo lento, elección visual y tiempo de respuesta. Variación entre idiomas compatible con exposición bilingüe; evitar atribuir diferencias lingüísticas a trastorno sin evidencia convergente.
+
+Diagnósticos registrados: [[KEEP|F80.2]] y [[KEEP|F80.0]]. Servicio [[KEEP|92507]], modificador [[KEEP|GN]]. Atención variable; participación suficiente. No se observa regresión.
+
+P:
+Continuar frecuencia semanal; abordar objetivo [[KEEP|3]] del IFSP. Familia practicará [[KEEP|"dame más"]] durante rutinas, con [[KEEP|claves mínimas]]. Coordinar con [[PROVIDER|Teresa Leal Campos]], coordinadora de servicios de [[AGENCY|Oficina CDSA de Valle Brumoso]]. Revisar apoyos de [[AGENCY|DSS del Condado de Roblequieto]], [[AGENCY|Programa WIC de Pinar Claro]], [[AGENCY|Smart Start de Roblequieto]] y [[AGENCY|Early Head Start Senderos Nuevos]]. Pediatra Dra. [[PROVIDER|Mónica Ferral]] recibirá borrador para revisión familiar.
+
+Contacto clínico: [[PHONE|919-555-0146]]; [[EMAIL|elena@vocesdelpinar.example]]; [[URL|https://vocesdelpinar.example]]. Próxima sesión: [[DATE|17 de octubre de 2026]], [[TIME|9:15 a. m.]]. Firma: Lic. [[PROVIDER|Elena Valcárcel Soto]].

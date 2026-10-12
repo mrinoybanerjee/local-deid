@@ -1,0 +1,31 @@
+Pediatric Speech-Language Pathology Daily Session Note
+
+Client: [[CHILD|María José Fernández Castillo]] ("[[CHILD|Pepe]]")
+DOB: [[DATE|April 2, 2022]]  Age: [[KEEP|4;6]]
+Medicaid ID: [[MEDICAID_ID|987654321B]]  Case ID: [[ID|GC-2026-0417]]
+Date of Service: [[DATE|October 9, 2026]]  Time: [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Setting: [X] Home  [ ] Daycare/Preschool  [ ] Clinic
+Address: [[PLACE|412 Willow Bend Court]], [[PLACE|Greensboro]], [[PLACE|Guilford County]]
+Provider: [[PROVIDER|Mariana Ibarra]], M.S., CCC-SLP, bilingual (English/Spanish)
+Agency: [[AGENCY|Piedmont CDSA]]
+Attendees: [X] Mother  [ ] Father  [ ] Other caregiver
+Present: su mamá [[PARENT|Rosa Castillo Díaz]]
+Billing: CPT [[KEEP|92507]]  ICD-10 [[KEEP|F80.1]]
+
+SUBJECTIVE:
+[[PARENT|Rosa Castillo Díaz]] reported that [[CHILD|Pepe]] attends [[DAYCARE|El Nido Feliz]] three mornings a week and that his teacher, Ms. [[TEACHER|Alicia Gómez]], notes continued gains in peer play with classmates [[PEER|Danilo]] and [[PEER|Camila]]. Mom reports [[CHILD|María José]] has been more talkative at home, especially with his older brother. During free play, [[CHILD|Pepe]] turned to his dog and said, "[[PET|Rocky]] corre," using the target [[KEEP|/k/]] sound with [[KEEP|minimal cues]]. He also called for his brother, saying "[[SIBLING|Tito]], ven," spontaneously combining two words.
+
+OBJECTIVE:
+Session focused on articulation and expressive language goals per IFSP [[KEEP|Outcome 2]]. Administered select items from the [[KEEP|GFTA-3]]; [[CHILD|Pepe]] produced [[KEEP|/s/]] correctly in [[KEEP|8/10]] trials with [[KEEP|mod cues]], an improvement from last session's [[KEEP|60%]]. On the [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] subtest, informal probes suggest performance near the [[KEEP|16th percentile]], age equivalent [[KEEP|2;9]]–[[KEEP|3;0]]. Used [[KEEP|PROMPT]] tactile cues to shape jaw grading for [[KEEP|/t/]] and [[KEEP|/d/]] in word-initial position; [[CHILD|Pepe]] imitated [[KEEP|"toma"]] and [[KEEP|"dame"]] with [[KEEP|mod cues]], clearly producing [[KEEP|/t/]] and [[KEEP|/d/]]. He also spontaneously said he wanted to show his cousin [[FAMILY|Teo]] his new toy. Introduced the [[KEEP|Cycles]] approach targeting final consonant deletion; [[CHILD|María José]] produced [[KEEP|"pato"]] with [[KEEP|max cues]], [[KEEP|3 of 5]] trials.
+
+Behavior: [X] Cooperative  [ ] Resistant  [ ] Required redirection
+Attention: [X] Good  [ ] Fair  [ ] Poor
+Caregiver coaching provided: [X] Yes  [ ] No
+
+ASSESSMENT:
+[[CHILD|Pepe]] continues to show steady progress toward IFSP [[KEEP|Outcome 2]] and [[KEEP|Outcome 3]]. Sibling and peer-mediated practice at [[DAYCARE|El Nido Feliz]] appears to support generalization of newly acquired sounds into spontaneous speech. Recommend continued coordination with [[TEACHER|Alicia Gómez]] and service coordinator [[PROVIDER|Denise Walcott]] at [[AGENCY|Piedmont CDSA]] regarding classroom carryover strategies for [[KEEP|/t/]], [[KEEP|/d/]], and [[KEEP|/s/]].
+
+PLAN:
+Continue weekly sessions, 30 minutes, in-home. Next IFSP review scheduled [[DATE|January 14, 2027]]. Will contact [[PARENT|Rosa Castillo Díaz]] at [[PHONE|(336) 555-0148]] or [[EMAIL|rosa.castillodiaz@example.com]] to confirm scheduling. Home practice: encourage [[CHILD|Pepe]] to request items from [[SIBLING|Tito]] and babysitter [[FAMILY|Juanito]] using two-word phrases, and continue modeling [[KEEP|PROMPT]] cues for [[KEEP|/t/]] and [[KEEP|/d/]] during mealtime routines.
+
+Signature: [[PROVIDER|Mariana Ibarra]], M.S., CCC-SLP

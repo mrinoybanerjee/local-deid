@@ -1,0 +1,111 @@
+INFORME DE EVALUACION DEL HABLA Y DEL LENGUAJE
+
+Documento sintetico para pruebas. Todos los datos personales, institucionales y clinicos de este informe son ficticios.
+
+Paciente: [[CHILD|Nico Cendaluz Vallebruma]]
+Nombre familiar: [[CHILD|Niqui]]
+Fecha de nacimiento: [[DATE|8 de febrero de 2024]]
+Edad cronologica: [[KEEP|2;8]], equivalente a [[KEEP|32 meses]]
+Fecha de evaluacion: [[DATE|8 de octubre de 2026]]
+Horario: [[TIME|9:10 a. m.]] a [[TIME|10:25 a. m.]]
+Lugar: [[EMPLOYER|Habla Puente Servicios Pediatricos]]
+Direccion: [[PLACE|418 Calle Junco, oficina 203]], [[PLACE|Villa Junco]], Carolina del Norte, [[PLACE|27900]]
+Telefono: [[PHONE|919-555-0146]]
+Correo: [[EMAIL|elena.miravela@hablapuente.invalid]]
+Sitio: [[URL|https://hablapuente.invalid]]
+Profesional: [[PROVIDER|Elena Miravela]], patologa bilingue del habla y del lenguaje
+Madre: [[PARENT|Ines Vallebruma]]
+Padre: [[PARENT|Tomas Cendaluz]]
+Medicaid ID: [[MEDICAID_ID|583901742Q]]
+Numero de miembro del seguro: [[ID|NCF-704892631]]
+NC ITP child ID: [[ID|ITP-26-083174]]
+Numero de expediente: [[ID|HP-2026-10482]]
+Numero de autorizacion: [[ID|AUT-62841097]]
+Servicio: evaluacion, CPT [[KEEP|92523]], modificador [[KEEP|GN]]
+
+MOTIVO Y ANTECEDENTES
+
+La madre solicito esta evaluacion porque [[CHILD|Nico]] usa pocas combinaciones de palabras y suele llevar al adulto hacia lo que necesita. La familia desea que pueda pedir ayuda, explicar molestias y participar en juegos con otros ninos. La coordinadora [[PROVIDER|Vera Campoluz]], de [[AGENCY|CDSA de Valle Nacar]], remitio al paciente despues de una entrevista sobre desarrollo. El consentimiento familiar se registro el [[DATE|29 de septiembre de 2026]].
+
+La familia informo que el nino entiende mejor cuando escucha frases breves y observa gestos. En casa, sigue rutinas conocidas, pero responde de manera variable a preguntas nuevas. Cuando alguien no comprende su mensaje, repite una palabra, aumenta el volumen o abandona la actividad. No se describieron perdidas recientes de habilidades. La evaluacion busca establecer necesidades funcionales y orientar apoyos dentro de sus actividades habituales.
+
+[[CHILD|Nico]] asiste a [[DAYCARE|Nido de Cometas Azules]] desde [[DATE|12 de mayo de 2026]]. Su educadora, la senora [[TEACHER|Mara Altonube]], observa que participa en canciones y juegos de movimiento. Durante el juego libre, suele mirar a sus companeros [[PEER|Lia Pocanube]] y [[PEER|Beto Suravela]] antes de acercarse. Necesita apoyo para pedir un turno y resolver desacuerdos por juguetes.
+
+HISTORIA DEL NACIMIENTO Y MEDICA
+
+El embarazo incluyo controles prenatales regulares, segun el relato materno. El nacimiento ocurrio en [[HOSPITAL|Hospital Infantil Rio de Lumbre]], en [[PLACE|Puerto Aliso]], Carolina del Norte. La edad gestacional fue de [[KEEP|38 semanas y 2 dias]]. El peso al nacer fue de [[KEEP|2,840 gramos]]. Los puntajes de Apgar fueron [[KEEP|8]] al primer minuto y [[KEEP|9]] a los cinco minutos. La familia no informo ingreso a cuidados intensivos.
+
+La madre describio alimentacion inicial sin dificultad persistente para succionar o tragar. El nino se sento sin apoyo a los [[KEEP|7 meses]] y camino a los [[KEEP|14 meses]]. Las primeras palabras reconocibles aparecieron aproximadamente a los [[KEEP|18 meses]]. Actualmente acepta diferentes texturas, bebe de vaso y come con ayuda limitada. No se informaron episodios frecuentes de tos durante las comidas.
+
+El pediatra [[PROVIDER|Dario Lentaviva]], de [[HOSPITAL|Centro Medico Brisa Clara]], documento dos episodios de otitis durante el ultimo invierno. La familia presento un resumen de una evaluacion auditiva realizada el [[DATE|17 de septiembre de 2026]]. Ese resumen describio respuestas compatibles con acceso auditivo suficiente para el habla. Esta evaluacion del lenguaje no sustituyo una evaluacion audiologica.
+
+No se informaron cirugias, convulsiones, alergias conocidas ni medicamentos diarios. La familia describio sueno variable cuando cambia la rutina. Durante la sesion, el paciente se mostro alerta, exploro materiales y acepto pausas. No hubo signos observables de dolor. La exploracion oral breve mostro movimientos funcionales para las tareas presentadas, aunque no permitio examinar todas las estructuras.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+El hogar incluye a la madre, al padre y a la hermana [[SIBLING|Sol Cendaluz Vallebruma]], de [[KEEP|6;1]]. La abuela [[FAMILY|Rosa Lunaverde]] cuida al nino dos tardes por semana. La familia vive en el condado de [[PLACE|Brisal]]. La madre trabaja en [[ORG|Taller Textil Aguja Serena]]. El padre trabaja en [[ORG|Mercado Cesta del Alba]]. Ambos participaron en la entrevista y aportaron ejemplos.
+
+La hermana [[SIBLING|Sol]] asiste a [[SCHOOL|Escuela Primaria Sendero de Pino]], del [[SCHOOL|Distrito Escolar de Brisal]]. Su maestra, la senora [[TEACHER|Nora Ventazul]], envio materiales visuales para facilitar juegos compartidos en casa. La familia tambien recibe apoyo de la voluntaria [[PERSON|Celia Rumaclara]], quien organiza actividades comunitarias. El perro familiar, [[PET|Miga]], suele participar en rutinas de juego supervisado.
+
+El espanol es el idioma principal del hogar. La familia estima una exposicion de [[KEEP|75%]] al espanol y [[KEEP|25%]] al ingles durante una semana habitual. El ingles aparece principalmente en el centro infantil y en juegos con la hermana. Estas cifras son estimaciones familiares. La madre desea mantener ambos idiomas y recibir explicaciones clinicas en espanol.
+
+La familia no informo antecedentes de diagnosticos del lenguaje. El padre recordo que comenzo a hablar mas tarde que otros familiares, pero no dispone de registros. La abuela describio interes del nino por libros, animales y canciones. Los adultos reconocen mas palabras que personas menos familiarizadas con su habla. No se interpreto la exposicion bilingue como causa de sus dificultades.
+
+PROCEDIMIENTOS Y CONDUCTA
+
+La patologa [[PROVIDER|Elena Miravela]] realizo entrevista, observacion de juego, tareas estructuradas y una muestra de lenguaje. Se administro [[KEEP|PLS-5 Spanish]] siguiendo sus procedimientos bilingues. Las respuestas aceptables en cualquiera de los dos idiomas recibieron credito conforme al instrumento. Los ejemplos familiares complementaron la observacion, pero no reemplazaron respuestas requeridas por las tareas estandarizadas.
+
+[[CHILD|Nico]] necesito tiempo para familiarizarse con el espacio. Despues, compartio materiales y busco al adulto para continuar actividades preferidas. La atencion disminuyo durante tareas verbales largas. Se ofrecieron descansos entre actividades. Las ayudas adicionales se reservaron para la observacion dinamica y no se usaron para aumentar los puntajes estandarizados. La cooperacion permitio completar la evaluacion.
+
+RESULTADOS ESTANDARIZADOS
+
+Instrumento: [[KEEP|PLS-5 Spanish]]
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]].
+
+| Prueba o subprueba | Puntaje estandar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|Comprension auditiva]] | [[KEEP|83]] | [[KEEP|13]] | [[KEEP|78-90]] | [[KEEP|2;4]] |
+| [[KEEP|Comunicacion expresiva]] | [[KEEP|79]] | [[KEEP|8]] | [[KEEP|74-86]] | [[KEEP|2;1]] |
+| [[KEEP|Lenguaje total]] | [[KEEP|80]] | [[KEEP|9]] | [[KEEP|75-87]] | [[KEEP|2;2]] |
+
+Los resultados muestran dificultades en comprension y expresion dentro de las condiciones examinadas. Las edades equivalentes describen el rendimiento en este instrumento; no representan una edad global del desarrollo. Los intervalos reflejan variacion esperada en la medicion. La interpretacion integra el contexto bilingue, las oportunidades de aprendizaje y la comunicacion cotidiana.
+
+OBSERVACIONES DEL LENGUAJE Y DEL HABLA
+
+En tareas informales, el nino identifico objetos familiares en [[KEEP|8/10]] oportunidades. Siguio instrucciones sencillas sin gesto en [[KEEP|6/10]] oportunidades y con gesto en [[KEEP|9/10]]. Comprendio acciones frecuentes durante el juego, pero tuvo dificultad con instrucciones que incluian ubicacion y dos elementos. Identifico relaciones espaciales en [[KEEP|3 de 5]] oportunidades con [[KEEP|mod cues]].
+
+La muestra expresiva incluyo palabras aisladas, gestos y combinaciones breves. Se escucharon las producciones [[KEEP|"mas agua"]], [[KEEP|"mama ven"]] y [[KEEP|"eto mio"]]. El nino uso una palabra o gesto para pedir en [[KEEP|7/10]] oportunidades espontaneas. Combino palabras durante [[KEEP|4/10]] oportunidades despues de un modelo. La variedad de verbos fue limitada durante esta muestra.
+
+La transcripcion siguio convenciones de [[KEEP|SALT]]. Se uso el codigo [[KEEP|[EW]]] cuando una palabra adicional interrumpio una estructura que el contexto permitia analizar. Estas anotaciones describen la muestra y no constituyen un diagnostico independiente. La cantidad de lenguaje obtenida fue suficiente para observar patrones funcionales, pero limitada para generalizar sobre todas las estructuras posibles.
+
+La inteligibilidad estimada para una persona poco familiarizada fue de [[KEEP|60%]] en contexto conocido. Se observaron omisiones de consonantes finales y sustituciones variables. La consonante [[KEEP|/k/]] aparecio en algunas palabras imitadas. La consonante [[KEEP|/s/]] fue inconsistente. Se registro una realizacion [[KEEP|[w]]] en una aproximacion durante el juego. Estas observaciones requieren seguimiento antes de establecer un diagnostico especifico del habla.
+
+Una actividad uso la palabra objetivo [[KEEP|"sol"]], representada por una imagen del cielo. El nino produjo [[KEEP|"to"]]. La hermana [[SIBLING|Sol]] comparte esa secuencia escrita como nombre propio. En esta tarea, [[KEEP|"sol"]] designaba el objeto de la imagen. La respuesta se analizo como produccion del habla y no como una referencia a la hermana.
+
+En la observacion dinamica, [[CHILD|Nico]] mejoro su participacion cuando el adulto espero y ofrecio modelos breves. Necesito [[KEEP|min cues]] para alternar turnos con bloques, [[KEEP|mod cues]] para ampliar peticiones y [[KEEP|max cues]] para responder preguntas abiertas. Las ayudas visuales facilitaron la comprension. El rendimiento disminuyo cuando se presentaron varios mensajes verbales sin pausa.
+
+IMPRESIONES CLINICAS
+
+Los hallazgos son compatibles con un trastorno mixto del lenguaje receptivo y expresivo, codigo ICD-10 [[KEEP|F80.2]]. Las dificultades aparecen en el relato familiar, la observacion y las tareas estructuradas. Afectan la capacidad de comprender mensajes nuevos, combinar palabras y resolver necesidades comunicativas. El uso de ambos idiomas constituye una fortaleza familiar y debe continuar.
+
+El paciente muestra interes social, busca ayuda y responde a modelos. Estas habilidades apoyan el aprendizaje. Las dificultades del habla pueden reducir la claridad de sus mensajes, pero esta sesion no establece un diagnostico separado de los sonidos del habla. Se recomienda observar patrones en ambos idiomas y ampliar la muestra durante las primeras sesiones.
+
+La interpretacion tiene limites. La atencion, la familiaridad con las tareas y la experiencia en cada idioma pueden influir en el rendimiento. Los puntajes no deben usarse solos para decidir apoyos. La familia y el equipo deben revisar el progreso mediante ejemplos funcionales, muestras repetidas y observaciones en distintos ambientes.
+
+RECOMENDACIONES Y PLAN
+
+Se recomienda intervencion individual una vez por semana durante 45 minutos, con participacion familiar. El plan inicial usara [[KEEP|Enhanced Milieu Teaching]] y estrategias de [[KEEP|Hanen]] adaptadas a las rutinas. La intervencion debe aceptar respuestas en ambos idiomas y priorizar mensajes utiles. El equipo revisara frecuencia y objetivos segun la respuesta al tratamiento.
+
+Objetivo del [[KEEP|IFSP]], numero [[KEEP|1]]: durante juego y comidas, el nino pedira objetos, ayuda o continuidad mediante palabras, gestos o combinaciones en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]].
+
+Objetivo del [[KEEP|IFSP]], numero [[KEEP|2]]: el nino seguira instrucciones nuevas que incluyan una accion y un objeto en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]].
+
+Objetivo del [[KEEP|IFSP]], numero [[KEEP|3]]: el nino producira combinaciones funcionales de palabras en [[KEEP|7/10]] oportunidades durante rutinas familiares con [[KEEP|mod cues]].
+
+En casa, los adultos deben seguir el interes del nino, esperar su respuesta y ampliar sus mensajes con una palabra adicional. Conviene practicar durante comidas, libros y juego. Las oportunidades deben ser breves y agradables. Se recomienda compartir estas estrategias con la educadora y registrar ejemplos espontaneos.
+
+La coordinadora [[PROVIDER|Vera Campoluz]] revisara el plan con la familia. La reunion del [[KEEP|IFSP]] esta prevista para [[DATE|22 de octubre de 2026]]. La revision clinica se programo para [[DATE|14 de enero de 2027]]. Si aparecen nuevas preocupaciones auditivas, la familia debe consultar al pediatra.
+
+Firma: [[PROVIDER|Elena Miravela]], patologa bilingue del habla y del lenguaje
+Licencia profesional ficticia: [[ID|NC-SLP-08372]]
+Fecha de firma: [[DATE|9 de octubre de 2026]]

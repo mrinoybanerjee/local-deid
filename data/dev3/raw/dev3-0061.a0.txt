@@ -1,0 +1,45 @@
+Daily Therapy Note
+
+Client: [[CHILD|Mateo Flores Cruz]]	DOB: [[DATE|04/18/2021]]	Age: [[KEEP|4;2]]
+Date of Service: [[DATE|October 9, 2026]]	Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Address: [[PLACE|118 Willow Bend Court]], [[PLACE|Cary]], NC [[PLACE|27518]]
+Medicaid ID: [[MEDICAID_ID|487219034B]]
+Clinician: [[PROVIDER|Marisol Peña]], M.S., CCC-SLP, [[EMPLOYER|Carolina Bilingual Speech Partners]]
+
+S (Subjective):
+Mamá [[PARENT|Lucía Rodríguez]] reports [[CHILD|Mateo]] continues to mix up morning and evening greetings at home, and he still points instead of talking when he gets frustrated. She said [[CHILD|Mateo]]'s older sister [[SIBLING|Sol]] has been helping him practice sounds after school each day. [[PARENT|Lucía]] also shared that the family's case is still open with the [[AGENCY|Asociación Carolina de Padres Hispanos para el Desarrollo Infantil (ACPHDI)]]. The [[AGENCY|ACPHDI]] service coordinator, [[PROVIDER|Diego Núñez]], called this week to confirm the IFSP review date of [[DATE|November 12, 2026]].
+
+O (Objective):
+Fifty-minute individual session, in-home, English/Spanish bimodal input per family preference. Session targeted [[KEEP|/s/]] in word-initial position and two-word combinations.
+
+Target	Trials	Correct	Cue Level
+"sol"	10	[[KEEP|8/10]]	[[KEEP|mod cues]]
+"sopa"	10	[[KEEP|7/10]]	[[KEEP|min cues]]
+"más agua"	8	[[KEEP|3 of 5]]	[[KEEP|max cues]]
+
+Target word [[KEEP|"sol"]] was chosen because [[CHILD|Mateo]] likes to say his sister [[SIBLING|Sol]]'s name during turn-taking games. He produced [[KEEP|[s]]] correctly in isolation and [[KEEP|/s/]] with [[KEEP|mod cues]] in simple syllables.
+
+Standardized scores on file, administered by [[PROVIDER|Dr. Hannah Ostrowski]] at [[HOSPITAL|UNC Children's Developmental Clinic]]:
+
+Measure	Standard Score	Percentile	Age Equivalent
+[[KEEP|PLS-5 Auditory Comprehension]]	[[KEEP|73-83]]	[[KEEP|9th]]	[[KEEP|2;6–3;0]]
+[[KEEP|PLS-5 Expressive Communication]]	[[KEEP|68-78]]	[[KEEP|5th]]	[[KEEP|2;3–2;9]]
+[[KEEP|GFTA-3]]	[[KEEP|71-81]]	[[KEEP|7th]]	--
+
+A (Assessment):
+[[CHILD|Mateo]] showed stimulable [[KEEP|/s/]] production with [[KEEP|mod cues]], consistent with a mild-moderate expressive delay, [[KEEP|ICD-10 F80.1]]. Teacher [[TEACHER|Rosa López]] at [[DAYCARE|Little Sprouts Bilingual Preschool]] reports similar gains during circle time; she shared this update by email this week at [[EMAIL|rlopez@littlesproutsnc.org]].
+
+P (Plan):
+Continue twice-weekly sessions using the [[KEEP|Cycles]] approach, keep [[SIBLING|Sol]] involved as a home practice partner, and check in with [[PROVIDER|Diego Núñez]] before the [[DATE|November 12, 2026]] IFSP review. The family can view session summaries through the clinic portal at [[URL|www.carolinabilingualspeech.com/portal]].
+
+Service Schedule
+Day	Time	Provider
+Monday	[[TIME|2:30 PM]]	[[PROVIDER|Marisol Peña]]
+Thursday	[[TIME|10:00 AM]]	[[PROVIDER|Marisol Peña]]
+
+Contacts
+Name	Role	Phone
+[[PARENT|Lucía Rodríguez]]	Mother	[[PHONE|(919) 555-0148]]
+[[PROVIDER|Diego Núñez]]	Service Coordinator ([[AGENCY|ACPHDI]])	[[PHONE|(919) 555-0271]]
+
+Next session will revisit [[KEEP|/s/]] clusters and introduce two new target words. [[PARENT|Lucía]] asked whether [[CHILD|Mateo]]'s preschool teacher could join by phone next time; coordinating with [[TEACHER|Rosa López]] and the [[AGENCY|ACPHDI]] coordinator for scheduling. No concerns reported regarding home safety or feeding at this time. Family continues to ask strong, engaged questions about [[CHILD|Mateo]]'s progress and carryover strategies for [[KEEP|/s/]] in daily routines, including bath time and bedtime stories read with [[SIBLING|Sol]].

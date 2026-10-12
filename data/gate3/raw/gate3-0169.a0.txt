@@ -1,0 +1,40 @@
+From: [[PROVIDER|Elena Marisol Vega]] <[[EMAIL|evega@example.org]]>
+To: [[PARENT|Lucía Solano]] <[[EMAIL|lsolano@example.net]]>
+Date: [[DATE|September 18, 2026]]
+Subject: [[CHILD|Nicolás Solano]]’s classroom communication
+
+Dear [[PARENT|Lucía Solano]],
+
+Thank you for sharing your family’s schedule. I am the bilingual pediatric speech-language pathologist at [[EMPLOYER|Little Lantern Speech Services]] in North Carolina. We can meet at [[TIME|3:45 p.m.]] on [[DATE|September 24, 2026]], after your shift at [[ORG|Willow Basket Store]], which you listed as [[ORG|Tienda Willow Basket]]. Your husband, [[PARENT|Diego Solano]], can join after work at [[ORG|Cedar Lantern Cleaning Service]], also listed as [[ORG|Servicio de Limpieza Cedar Lantern]].
+
+At age [[KEEP|4;2]], [[CHILD|Nicolás]] benefits from extra response time. On the [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest, the recorded standard score was [[KEEP|78]], with a confidence interval of [[KEEP|73-83]] and an age equivalent of [[KEEP|2;6–3;0]]. These results describe one assessment session; classroom observations and information about both languages remain essential.
+
+During play, he produced [[KEEP|"car"]] for the target [[KEEP|"car"]], attempted [[KEEP|/k/]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], and requested help in [[KEEP|3 of 5]] opportunities. We will use [[KEEP|Hanen]] strategies for [[KEEP|IFSP outcome 2]]. Please offer choices, pause, and respond to his message before modeling a longer phrase.
+
+The [[AGENCY|Mosswick Partnership for Children]] office in [[PLACE|Mosswick County]] can discuss transportation. Your contact there is [[PROVIDER|J. Bell]], at [[PHONE|919-555-0148]].
+
+Warmly,
+[[PROVIDER|E.M.V.]]
+[[EMPLOYER|Little Lantern Speech Services]]
+[[PLACE|218 Juniper Bell Lane]], [[PLACE|Mosswick]], North Carolina [[PLACE|27500]]
+[[PHONE|(919) 555-0126]]
+Record: [[ID|SLP-260918-047]]
+Medicaid: [[MEDICAID_ID|123456789Q]]
+
+> From: Ms. [[TEACHER|Rosa Velín]]
+> Date: [[DATE|September 17, 2026]]
+>
+> At [[SCHOOL|Juniper Bell Preschool]], [[CHILD|Nico]] joined [[PEER|Amaya Canto]] during blocks. He waited for a turn with [[KEEP|min cues]]. His sister, [[SIBLING|Inés Solano]], brought his picture folder at pickup.
+>
+> We can keep the folder beside the blocks and offer the same two choices each morning. Please send the family’s preferred words so our examples sound familiar. I will record whether he uses a gesture, a word, or both.
+>
+> Ms. [[TEACHER|Velín]]
+> Classroom: [[PHONE|919.555.0137]]
+
+>> From: [[PARENT|Lucía Solano]]
+>> Date: [[DATE|September 16, 2026]]
+>>
+>> His grandmother, [[FAMILY|Marina Solano]], can practice during evening play. Her number in Mexico is [[PHONE|+52 55 0000 0146]]. Yesterday he said "[[PET|Pipo]] run" while our dog crossed the kitchen. He seemed pleased that we understood.
+>>
+>> [[PARENT|L.S.]]
+>> Mobile: [[PHONE|+1 919 555 0162]]

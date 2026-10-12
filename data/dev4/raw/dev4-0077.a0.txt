@@ -1,0 +1,162 @@
+INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE
+
++ Nombre: [[CHILD|Mateo Alejandro Vásquez Rivas]]
++ Apodo: [[CHILD|Teo]]
++ CA: [[KEEP|4;3]]
++ Fecha de nacimiento: [[DATE|15 de junio de 2022]]
++ Fecha de evaluación: [[DATE|6 de octubre de 2026]]
++ Fecha del informe: [[DATE|9 de octubre de 2026]]
++ ID de caso: [[ID|DUR-2026-04471]]
++ ID de Medicaid: [[MEDICAID_ID|987654321A]]
++ Examinadora: [[PROVIDER|Patricia Núñez Soto]], M.S., CCC-SLP
++ Intérprete: [[PROVIDER|Gloria Esparza]]
++ Lugar: consultorio de [[EMPLOYER|Terapia Pediátrica del Triángulo, PLLC]], [[PLACE|Durham, NC]]
++ Context: evaluación individual, interacción espontánea con la madre y juego estructurado con la examinadora; sesión grabada en video con consentimiento firmado.
+
+RESUMEN
+
+[[CHILD|Mateo]] es un niño de [[KEEP|4;3]] años, referido por [[AGENCY|el Programa de Intervención Temprana y Apoyo Familiar del Condado de Durham (PITAFCD)]] para una reevaluación de habla y lenguaje como parte de la revisión anual de su Plan Individualizado de Servicios Familiares (IFSP). [[CHILD|Mateo]] presenta un retraso moderado en el lenguaje expresivo y un trastorno fonológico leve a moderado, consistentes con los hallazgos documentados en su evaluación inicial de [[DATE|3 de octubre de 2024]]. La familia es bilingüe español-inglés, con el español como idioma dominante en el hogar. Esta evaluación se realizó completamente en español, con la madre, [[PARENT|María Fernanda Rivas Gómez]], presente durante toda la sesión y sirviendo como informante principal.
+
+MOTIVO DE REFERENCIA
+
+[[CHILD|Mateo]] fue referido para esta reevaluación por su coordinadora de servicios, [[PROVIDER|Diana Castillo]], de [[AGENCY|PITAFCD]], debido a la proximidad de la revisión anual del IFSP, programada para [[DATE|20 de octubre de 2026]]. La maestra de la guardería, [[TEACHER|Alicia López]], también expresó preocupación en una nota enviada a la familia el [[DATE|28 de septiembre de 2026]], indicando que [[CHILD|Mateo]] continúa teniendo dificultad para que sus compañeros en [[DAYCARE|Guardería Pequeños Pasos]] entiendan sus producciones verbales, particularmente cuando intenta pedir turnos durante el juego.
+
+ANTECEDENTES Y DESARROLLO
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|María Fernanda Rivas Gómez]], su padre, [[PARENT|Carlos Alberto Vásquez Londoño]], y su hermana menor, [[SIBLING|Sol]], de 2 años, en una casa alquilada en [[PLACE|742 Calle Roble, Durham, NC 27703]]. La familia reside en el [[PLACE|condado de Durham]] desde 2021. La abuela paterna, [[FAMILY|Rosa]], vive con la familia y cuida a los niños tres días a la semana mientras los padres trabajan. [[PARENT|María]] trabaja de noche en [[ORG|la Planta de Empaque Avícola Carolina Fresh]], generalmente de [[TIME|11:00 p.m.]] a [[TIME|7:00 a.m.]], como empacadora de línea. [[PARENT|Carlos]] trabaja como operador de montacargas en [[ORG|Distribuidora de Materiales Builders Supply Co.]], con turno diurno. Debido a los horarios de ambos padres, [[FAMILY|Rosa]] y a veces una vecina ayudan con el cuidado de [[CHILD|Mateo]] y [[SIBLING|Sol]] durante las tardes.
+
+La familia también tiene un perro llamado [[PET|Max]], que según reporta la madre, es "el mejor amigo" de [[CHILD|Mateo]] y a menudo motiva al niño a hablar cuando juega con él en el patio.
+
+[[CHILD|Mateo]] asiste a [[DAYCARE|Guardería Pequeños Pasos]] de lunes a viernes, de [[TIME|8:00 a.m.]] a [[TIME|4:30 p.m.]], mientras sus padres trabajan. Su maestra actual es [[TEACHER|Alicia López]], y su maestra auxiliar es [[TEACHER|Yesenia Portillo]]. Según el reporte de [[TEACHER|López]], [[CHILD|Mateo]] es un niño sociable que busca jugar con sus compañeros, en particular con un amiguito llamado [[PEER|Josué]], pero con frecuencia se frustra cuando no logra hacerse entender.
+
+HISTORIAL DE NACIMIENTO Y MÉDICO
+
+Según el reporte materno, el embarazo de [[CHILD|Mateo]] fue a término, sin complicaciones significativas, aunque [[PARENT|María]] reporta haber tenido presión arterial elevada durante el tercer trimestre, monitoreada por su obstetra. [[CHILD|Mateo]] nació por parto vaginal en el [[HOSPITAL|Hospital Regional Duke de Durham]] el [[DATE|15 de junio de 2022]], con un peso al nacer de [[KEEP|3,400 gramos]] y una edad gestacional de [[KEEP|39 semanas]]. Los puntajes de Apgar fueron [[KEEP|8]] al minuto 1 y [[KEEP|9]] a los 5 minutos. No se reportaron complicaciones neonatales, y el niño fue dado de alta junto con su madre a los dos días.
+
+El pediatra de [[CHILD|Mateo]], [[PROVIDER|Dr. Héctor Ramírez]], de la Clínica Pediátrica [[HOSPITAL|Duke Children's Primary Care]], ha seguido su desarrollo desde el nacimiento. La madre reporta que [[CHILD|Mateo]] tuvo múltiples episodios de otitis media entre los [[KEEP|8]] y [[KEEP|18 meses]] de edad, con colocación de tubos de ventilación (miringotomía bilateral) el [[DATE|12 de enero de 2024]], realizada por el otorrinolaringólogo [[PROVIDER|Dr. Felipe Granados]]. Desde el procedimiento, la frecuencia de infecciones de oído ha disminuido notablemente. La audición de [[CHILD|Mateo]] fue evaluada más recientemente el [[DATE|3 de marzo de 2026]], con resultados dentro de límites normales bilateralmente.
+
+No hay antecedentes de hospitalizaciones significativas, cirugías mayores, convulsiones, ni lesiones craneales. El desarrollo motor grueso y fino se reporta dentro de límites normales: [[CHILD|Mateo]] caminó de forma independiente a los [[KEEP|13 meses]] y actualmente corre, salta y sube escaleras sin dificultad.
+
+HISTORIAL FAMILIAR Y DE LENGUAJE
+
+La madre, [[PARENT|María Fernanda Rivas Gómez]], nació en Guanajuato, México, y llegó a los Estados Unidos en 2015. El padre, [[PARENT|Carlos Alberto Vásquez Londoño]], nació en Medellín, Colombia, y llegó en 2012. Ambos padres hablan español con fluidez y un inglés funcional pero limitado, particularmente en contextos formales o médicos, razón por la cual se solicitó la presencia de una intérprete certificada, [[PROVIDER|Gloria Esparza]], para la evaluación inicial; en esta reevaluación no fue necesaria porque la examinadora es bilingüe.
+
+En el hogar se habla predominantemente español. [[PARENT|María]] reporta que ella y [[PARENT|Carlos]] le hablan a [[CHILD|Mateo]] casi exclusivamente en español, mientras que la exposición al inglés ocurre principalmente en la guardería y a través de la televisión. La hermana menor, [[SIBLING|Sol]], de 2 años, está comenzando a producir sus primeras palabras, también en español, y no presenta preocupaciones de desarrollo según el reporte materno.
+
+No hay antecedentes familiares reportados de trastornos del habla o lenguaje, pérdida auditiva, autismo, ni discapacidad intelectual en ningún lado de la familia. [[PARENT|María]] reporta que ella misma "hablaba tarde" de niña, según le contó su madre, pero no recuerda detalles adicionales.
+
+La madre indica que [[CHILD|Mateo]] dijo sus primeras palabras alrededor de los [[KEEP|18 meses]], más tarde de lo esperado, y que combinó palabras en frases de dos elementos cerca de los [[KEEP|30 meses]]. Actualmente, según el reporte materno, [[CHILD|Mateo]] usa oraciones de 4 a 6 palabras, pero comete errores gramaticales frecuentes y su habla es difícil de entender para personas fuera del círculo familiar inmediato, especialmente cuando habla rápido o está emocionado.
+
+HISTORIAL DE SERVICIOS
+
+[[CHILD|Mateo]] fue inscrito en [[AGENCY|PITAFCD]] después de una referencia de [[PROVIDER|Dr. Ramírez]] en [[DATE|agosto de 2024]], motivada por preocupaciones sobre el lenguaje expresivo observadas en su visita de los 2 años. La evaluación inicial de elegibilidad, completada el [[DATE|3 de octubre de 2024]] por [[PROVIDER|Patricia Núñez Soto]], confirmó un retraso significativo en el lenguaje expresivo, y [[CHILD|Mateo]] fue declarado elegible para servicios de intervención temprana bajo la Parte C.
+
+Desde entonces, [[CHILD|Mateo]] ha recibido terapia de habla y lenguaje una vez por semana, sesiones de 45 minutos, en su hogar, financiadas a través de [[AGENCY|PITAFCD]] en coordinación con el [[AGENCY|Centro de Servicios para el Desarrollo Infantil (CDSA)]] local. También recibió una evaluación de terapia ocupacional el [[DATE|15 de noviembre de 2024]], realizada por [[PROVIDER|Laura Fonseca]], que no identificó necesidad de servicios continuos en esa área.
+
+El IFSP inicial, firmado el [[DATE|20 de octubre de 2024]], incluyó dos resultados centrados en el lenguaje expresivo y la inteligibilidad del habla (Resultado [[KEEP|1]] y Resultado [[KEEP|2]]). La revisión semestral más reciente ocurrió el [[DATE|15 de abril de 2026]], con [[PROVIDER|Diana Castillo]] como coordinadora de servicios presente junto con [[PARENT|María]].
+
+COMPORTAMIENTO DURANTE LA EVALUACIÓN
+
+[[CHILD|Mateo]] se presentó a la sesión alerta, cooperador y fácilmente motivado por actividades de juego. Mantuvo atención conjunta apropiada para su edad y transicionó entre tareas sin dificultad significativa, aunque mostró breves momentos de frustración cuando no pudo expresar lo que quería decir, golpeando ligeramente la mesa en dos ocasiones. La examinadora utilizó refuerzo verbal y descansos breves para mantener el compromiso del niño. Con base en el nivel de cooperación, atención y esfuerzo observado, los resultados de esta evaluación se consideran una representación válida de las habilidades actuales de [[CHILD|Mateo]].
+
+EXAMEN DEL MECANISMO ORAL
+
+El examen del mecanismo oral periférico reveló estructura y función dentro de límites normales. Los labios, la lengua, el paladar duro y blando, y la dentición se observaron simétricos y funcionales para el habla y la alimentación. No se observaron indicadores de apraxia infantil del habla, como inconsistencia marcada en producciones repetidas o dificultad progresiva con la longitud del enunciado. Se observó un ligero patrón de respiración oral en reposo, posiblemente relacionado con alergias estacionales reportadas por la madre; se recomienda seguimiento con [[PROVIDER|Dr. Ramírez]] si persiste.
+
+RESULTADOS DE LAS PRUEBAS
+
+Se administraron las siguientes pruebas estandarizadas e informales. Debido a la edad de [[CHILD|Mateo]], no se administró el [[KEEP|CELF-5]] (apropiado a partir de los 5 años); en su lugar se utilizó el [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] para evaluar lenguaje receptivo y expresivo.
+
+| Prueba | Fecha de administración | Puntaje estándar | Percentil | IC 95% |
+|---|---|---|---|---|
+| [[KEEP|Rossetti Infant-Toddler Language Scale]] | [[DATE|28 de septiembre de 2026]] | [[KEEP|82]] | [[KEEP|12]] | [[KEEP|76-88]] |
+| [[KEEP|PLS-5]] — [[KEEP|Comprensión Auditiva]] | [[DATE|28 de septiembre de 2026]] | [[KEEP|79]] | [[KEEP|8]] | [[KEEP|73-85]] |
+| [[KEEP|PLS-5]] — [[KEEP|Comunicación Expresiva]] | [[DATE|28 de septiembre de 2026]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|65-77]] |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3]] | [[DATE|2 de octubre de 2026]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|68-80]] |
+| [[KEEP|Peabody Picture Vocabulary Test-5]] | [[DATE|2 de octubre de 2026]] | [[KEEP|88]] | [[KEEP|21]] | [[KEEP|81-95]] |
+| [[KEEP|Bayley Scales of Infant and Toddler Development-4]] — subescala de comunicación | [[DATE|6 de octubre de 2026]] | [[KEEP|85]] | [[KEEP|16]] | [[KEEP|78-92]] |
+
+LENGUAJE RECEPTIVO
+
+En el [[KEEP|PLS-5]], subescala de [[KEEP|Comprensión Auditiva]], [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|79]] (percentil [[KEEP|8]], IC 95% [[KEEP|73-85]]), ubicándolo dentro del rango de retraso leve a moderado comparado con sus compañeros de edad. Siguió instrucciones de dos pasos no relacionados en [[KEEP|7 de 10]] intentos y demostró comprensión de conceptos espaciales básicos ("[[KEEP|arriba]]", "[[KEEP|dentro]]") pero tuvo dificultad con conceptos temporales como "[[KEEP|antes]]" y "[[KEEP|después]]". Identificó correctamente [[KEEP|9 de 12]] categorías semánticas presentadas (por ejemplo, señalando la fruta cuando se le pidió).
+
+LENGUAJE EXPRESIVO
+
+En la subescala de [[KEEP|Comunicación Expresiva]] del [[KEEP|PLS-5]], [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|71]] (percentil [[KEEP|3]], IC 95% [[KEEP|65-77]]), reflejando un retraso moderado. Produjo una longitud media de enunciado (LME) de [[KEEP|3.2 morfemas]] en una muestra de lenguaje espontáneo de 50 enunciados, por debajo de lo esperado para su edad cronológica. Se observaron omisiones frecuentes de morfemas gramaticales, incluyendo el artículo determinado en contextos obligatorios y la concordancia de género (por ejemplo, "[[KEEP|el pelota]]" en lugar de "[[KEEP|la pelota]]"). En el [[KEEP|Peabody Picture Vocabulary Test-5]], una medida de vocabulario receptivo, obtuvo un puntaje estándar de [[KEEP|88]] (percentil [[KEEP|21]], IC 95% [[KEEP|81-95]]), dentro del rango bajo-promedio, sugiriendo que su vocabulario es relativamente más fuerte que su gramática expresiva.
+
+Durante el juego con [[PET|Max]] mencionado por la madre, [[CHILD|Mateo]] produjo espontáneamente la frase "[[PET|Max]] corre rápido", demostrando uso apropiado de verbo y adverbio pero omitiendo el artículo antes de "[[PET|Max]]" conforme a las reglas del español, lo cual es esperado dado que es un nombre propio.
+
+ARTICULACIÓN Y FONOLOGÍA
+
+En el [[KEEP|Goldman-Fristoe Test of Articulation-3]], adaptado informalmente para reflejar el inventario fonológico del español, [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|74]] (percentil [[KEEP|4]], IC 95% [[KEEP|68-80]]). Se identificaron los siguientes procesos fonológicos persistentes para su edad:
+
+- Simplificación de grupos consonánticos: "[[KEEP|poblema]]" por "[[KEEP|problema]]"
+- Sustitución de líquidas: [[KEEP|/ɾ/]] por [[KEEP|/l/]] en posición intervocálica, como en "[[KEEP|calo]]" por "[[KEEP|carro]]"
+- Posteriorización ocasional de [[KEEP|/t/]] y [[KEEP|/d/]] a [[KEEP|/k/]] y [[KEEP|/g/]] en sílabas finales de palabra
+
+El inventario de sonidos de [[CHILD|Mateo]] incluye todas las vocales del español y la mayoría de las consonantes tempranas ([[KEEP|/p/]], [[KEEP|/m/]], [[KEEP|/n/]]), con dificultad persistente en sonidos tardíos del desarrollo típico ([[KEEP|/r/]] vibrante, grupos consonánticos con [[KEEP|/ɾ/]] y [[KEEP|/l/]]). La inteligibilidad para oyentes familiares se estimó en aproximadamente [[KEEP|70%]] en contexto conversacional; para oyentes no familiares, la inteligibilidad se estimó en [[KEEP|40-50%]], consistente con el reporte de la maestra.
+
+Durante una tarea de nombrar imágenes, al mostrarle un dibujo de un perro jugando, [[CHILD|Mateo]] dijo "mi pelo coje a [[PET|Max]]" en lugar de "mi perro corre con [[PET|Max]]", ilustrando tanto la sustitución fonológica como dificultades morfosintácticas simultáneas.
+
+DESARROLLO COGNITIVO-COMUNICATIVO
+
+En la subescala de comunicación del [[KEEP|Bayley Scales of Infant and Toddler Development-4]], administrada como medida complementaria dado el perfil de desarrollo de [[CHILD|Mateo]], obtuvo un puntaje estándar de [[KEEP|85]] (percentil [[KEEP|16]], IC 95% [[KEEP|78-92]]), dentro del rango bajo-promedio. Esto es consistente con un perfil de retraso específico del lenguaje más que un retraso cognitivo generalizado, aunque se recomienda monitoreo continuo.
+
+En el [[KEEP|Rossetti Infant-Toddler Language Scale]], utilizado para evaluar precursores comunicativos y habilidades pragmáticas, [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|82]] (percentil [[KEEP|12]], IC 95% [[KEEP|76-88]]). Demostró atención conjunta consistente, uso de gestos comunicativos (señalar, mostrar) y capacidad de tomar turnos en una interacción breve de juego simbólico con la examinadora, usando una cuchara de juguete para "alimentar" a un muñeco mientras decía "[[KEEP|come, come]]".
+
+HABLA CONECTADA Y MUESTRA DE LENGUAJE
+
+Se obtuvo una muestra de lenguaje espontáneo durante el juego libre con bloques y figuras de animales. Ejemplos representativos de las producciones de [[CHILD|Mateo]] incluyen:
+
+- "Yo quiero ese" (producción espontánea apropiada)
+- "Mi papá tabaja" por "Mi papá trabaja" (simplificación de grupo consonántico)
+- "El nene tiene hambe" por "El nene tiene hambre" (omisión de [[KEEP|/ɾ/]] final de grupo)
+- "Sol no quiele" por "Sol no quiere", refiriéndose a su hermana [[SIBLING|Sol]] en una narración breve sobre el desayuno de esa mañana
+
+La muestra reveló un uso adecuado de pronombres personales y posesivos, con errores consistentes limitados a morfemas gramaticales específicos (artículos, concordancia de género) y procesos fonológicos descritos anteriormente, más que errores aleatorios o inconsistentes.
+
+IMPRESIONES CLÍNICAS
+
+Con base en los hallazgos de esta evaluación, [[CHILD|Mateo]] presenta un trastorno de lenguaje expresivo de leve a moderado y un trastorno fonológico de leve a moderado, consistentes con su perfil diagnóstico previo. Los puntajes en lenguaje receptivo, aunque dentro del rango bajo-promedio, se encuentran relativamente más fuertes que los del lenguaje expresivo, patrón típico de un trastorno de lenguaje con perfil expresivo-dominante. Las habilidades cognitivo-comunicativas no verbales y pragmáticas se encuentran apropiadas para la edad, lo cual apoya un perfil de trastorno específico del lenguaje más que un retraso del desarrollo generalizado.
+
+No se identificaron indicadores de apraxia infantil del habla, trastorno del espectro autista, ni pérdida auditiva funcionalmente significativa en el momento de esta evaluación. El patrón de errores fonológicos observado (simplificación de grupos consonánticos, sustitución de líquidas, posteriorización ocasional) es consistente con un desarrollo fonológico típico del español pero retrasado para la edad cronológica de [[CHILD|Mateo]].
+
+Dada la exposición bilingüe de [[CHILD|Mateo]], se consideró cuidadosamente la distinción entre diferencia de lenguaje (atribuible a la adquisición bilingüe normal) y trastorno de lenguaje verdadero. Los patrones de error observados en español —el idioma dominante y de mayor exposición en el hogar— no son explicables únicamente por la influencia del inglés ni por un proceso normal de adquisición bilingüe, dado que exceden lo esperado incluso para niños bilingües monolingües-dominantes en español de edad comparable. Por lo tanto, se confirma un trastorno de lenguaje verdadero, no una diferencia atribuible al bilingüismo.
+
+DIAGNÓSTICO
+
+Trastorno del desarrollo del lenguaje, expresivo-dominante (CIE-10: [[KEEP|F80.1]]); trastorno fonológico (CIE-10: [[KEEP|F80.0]]).
+
+RECOMENDACIONES
+
+1. Se recomienda que [[CHILD|Mateo]] continúe siendo elegible para servicios de intervención temprana a través de [[AGENCY|PITAFCD]], con continuación de terapia de habla y lenguaje individual, idealmente aumentando la frecuencia de una a dos sesiones de 45 minutos por semana, dado el perfil de retraso moderado documentado.
+
+2. Se recomienda la actualización del IFSP durante la revisión programada para el [[DATE|20 de octubre de 2026]], con resultados específicos dirigidos a: (a) aumento de la longitud media de enunciado y uso de morfemas gramaticales (artículos, concordancia de género); (b) reducción de procesos fonológicos específicos (simplificación de grupos consonánticos, sustitución de líquidas) para mejorar la inteligibilidad con oyentes no familiares a un mínimo del [[KEEP|70%]].
+
+3. Se recomienda continuar el enfoque de intervención en el idioma del hogar (español), consistente con las prácticas recomendadas para niños bilingües en intervención temprana, incorporando vocabulario y estructuras del inglés de manera complementaria conforme el niño se aproxime a la edad escolar.
+
+4. Se recomienda que la terapeuta incorpore el enfoque [[KEEP|Hanen]] "It Takes Two to Talk" para entrenar a los padres y a la abuela, [[FAMILY|Rosa]], en estrategias de facilitación del lenguaje en el hogar, dado el papel central de esta última en el cuidado diario del niño.
+
+5. Se recomienda el uso de claves de apoyo [[KEEP|visual y táctil]] y niveles de ayuda [[KEEP|mínima a moderada]] ([[KEEP|min-mod cues]]) durante la producción de grupos consonánticos con [[KEEP|/ɾ/]] y [[KEEP|/l/]], utilizando un enfoque basado en ciclos fonológicos ([[KEEP|Cycles Approach]]) dada la naturaleza sistemática de los procesos observados.
+
+6. Se recomienda coordinación continua entre la terapeuta y la maestra [[TEACHER|Alicia López]] en [[DAYCARE|Guardería Pequeños Pasos]], incluyendo el intercambio periódico de estrategias para apoyar la comunicación de [[CHILD|Mateo]] con sus compañeros, particularmente [[PEER|Josué]], durante el juego estructurado.
+
+7. Se recomienda monitoreo continuo de la audición dada la historia de otitis media recurrente, con seguimiento anual mínimo con audiología o según indicación de [[PROVIDER|Dr. Ramírez]].
+
+8. Se recomienda que la familia continúe exponiendo a [[CHILD|Mateo]] a actividades de lectura compartida en español en el hogar, aprovechando intereses motivadores como el juego con [[PET|Max]] y figuras de animales, para fomentar vocabulario y estructuras narrativas.
+
+9. Se recomienda reevaluación formal en aproximadamente [[KEEP|12 meses]], o antes si la familia o el equipo educativo observan cambios significativos en el progreso.
+
+Este informe fue preparado con base en la evaluación directa de [[CHILD|Mateo]], el reporte materno, y la revisión de registros disponibles de [[AGENCY|PITAFCD]] y [[AGENCY|CDSA]]. Se agradece la cooperación de la familia [[PARENT|Vásquez Rivas]] durante todo el proceso de evaluación.
+
+Si tiene preguntas sobre este informe, no dude en comunicarse conmigo al [[PHONE|(919) 555-0147]] o al correo electrónico [[EMAIL|pnunez@terapiatriangulo.com]].
+
+Atentamente,
+
+[[PROVIDER|Patricia Núñez Soto]], M.S., CCC-SLP
+Patóloga del Habla y Lenguaje Bilingüe
+[[EMPLOYER|Terapia Pediátrica del Triángulo, PLLC]]
+Licencia de Carolina del Norte #[[ID|SLP-08814]]
+
+cc: [[PROVIDER|Diana Castillo]], Coordinadora de Servicios, [[AGENCY|PITAFCD]]
+cc: [[PROVIDER|Dr. Héctor Ramírez]], Clínica Pediátrica Duke Children's Primary Care

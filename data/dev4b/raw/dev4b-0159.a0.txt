@@ -1,0 +1,26 @@
+Nota de Sesión – Terapia de Habla y Lenguaje
+
+Fecha de la sesión: [[DATE|11 de octubre de 2026]]
+Hora: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+Clínica: [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Terapeuta: [[PROVIDER|Erika Martínez]], M.S., CCC-SLP
+Intérprete presente: [[PROVIDER|Daniela Pérez]]
+
+Paciente: [[CHILD|Mateo Hernández Cruz]], fecha de nacimiento [[DATE|14 de marzo de 2022]]. ID de caso [[ID|MD-884271-C]]; Medicaid [[MEDICAID_ID|AB4827193NC]].
+
+**S (Subjetivo):** La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Rodríguez]], refiere que el niño usó más palabras espontáneas esta semana en casa, ubicada en [[PLACE|482 Juniper Lane]], [[PLACE|Raleigh]], [[PLACE|Wake County]], NC [[PLACE|27610]]. Su esposo, [[PARENT|Carlos Hernández]], trabaja turnos largos en [[ORG|Smithfield Foods]], así que la abuela, [[FAMILY|Rosa Cruz]], cuida a [[CHILD|Mateo]] y a su hermana [[SIBLING|Sofía]] por las tardes; la niñera ocasional, [[FAMILY|Yesenia Morales]], también apoya. La familia es originaria de la aldea [[PLACE|El Rosario]], cerca de [[PLACE|San Vicente]], El Salvador. [[PARENT|Lucía]] contó que, jugando con el perro, [[PET|Rocky]], [[CHILD|Mateo]] dijo [[KEEP|"quiero pelota"]]. La familia asiste al programa de catequesis infantil en la [[ORG|Iglesia Nuestra Señora de Guadalupe]] y participa en el club de lectura bilingüe de la [[ORG|Biblioteca Pública del Condado de Wake]].
+
+**O (Objetivo):** Se trabajó con el enfoque [[KEEP|Hanen]] ("[[KEEP|It Takes Two to Talk]]") para modelar lenguaje durante juego, combinado con señales [[KEEP|PROMPT]] para /k/ y /g/. [[CHILD|Mateo]] produjo [[KEEP|/k/]] inicial en [[KEEP|"casa"]] con [[KEEP|claves moderadas]], [[KEEP|8/10]] ensayos correctos. Se introdujo el enfoque [[KEEP|Cycles]] para el patrón de omisión final. Para comunicación funcional se usaron tarjetas [[KEEP|PECS]], y se repasó vocabulario con el método [[KEEP|Kaufman]] para secuencias motoras del habla.
+
+Resultados recientes ([[KEEP|CELF-5]], evaluado [[DATE|2 de septiembre de 2026]]):
+
+| Subprueba | Puntaje estándar | IC 95% | Percentil | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|Comprensión Auditiva]] | [[KEEP|76]] | [[KEEP|71–81]] | [[KEEP|5°]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|Formulación de Oraciones]] | [[KEEP|79]] | [[KEEP|73–85]] | [[KEEP|8°]] | [[KEEP|2;9–3;2]] |
+
+Diagnóstico: [[KEEP|F80.1]]. Código facturado: [[KEEP|92507]].
+
+**A (Análisis):** [[CHILD|Mateo]] avanza hacia el [[KEEP|Resultado 2]] del IFSP. Su maestra, Sra. [[TEACHER|López]], en [[SCHOOL|Escuela Primaria Roosevelt]], reporta ganancias similares en el aula.
+
+**P (Plan):** Continuar sesiones semanales. Coordinar con la coordinadora de servicios de [[AGENCY|CDSA del Piedmont]] y referir a [[AGENCY|WIC]] para apoyo nutricional. El pediatra, Dr. [[PROVIDER|Alan Kim]], solicitó actualización antes de la revisión del IFSP el [[DATE|18 de octubre de 2026]]. Contacto de la clínica: [[PHONE|(919) 555-2847]], [[EMAIL|erika.martinez@carolinapediatrictherapy.com]], [[URL|www.carolinapediatrictherapy.com]].

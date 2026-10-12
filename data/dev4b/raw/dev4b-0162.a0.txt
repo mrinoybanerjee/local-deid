@@ -1,0 +1,86 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+Individualized Family Service Plan (IFSP) – Six-Month Review
+
+Child: [[CHILD|Mateo Alejandro Flores]] ("[[CHILD|Mateo]]")
+Date of Birth: [[DATE|April 9, 2024]]
+NC ITP Child ID: [[ID|3402-8871-TC]]
+Medicaid ID: [[MEDICAID_ID|920456731A]]
+Insurance Member ID: [[ID|MCX778812340]]
+Authorization Number: [[ID|AUTH-2026-004471]]
+IFSP Review Date: [[DATE|October 3, 2026]]
+Initial IFSP Date: [[DATE|April 15, 2026]]
+
+Family Information
+Mother/Madre: [[PARENT|Lucia Rodriguez]]
+Father/Padre: [[PARENT|Carlos Flores]]
+Home Address: [[PLACE|418 Siler Creek Road]], [[PLACE|Siler City]], NC [[PLACE|27344]]
+Home Phone: [[PHONE|(919) 555-0187]]
+Mother's Cell/Celular de la Mama: [[PHONE|(919) 555-0243]]
+Email: [[EMAIL|lrodriguezflores@gmail.com]]
+
+Service Coordinator: [[PROVIDER|Denise Watkins]], CDSA Service Coordinator
+CDSA Office: [[AGENCY|Central Regional CDSA]], [[PLACE|Chatham County]] satellite office
+Report Written By: [[PROVIDER|Ana Maria Castillo]], MS, CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Interpreter: none required; evaluation and review conducted bilingually by [[PROVIDER|Ms. Castillo]]
+
+Present Levels / Preocupaciones de la Familia
+
+This review was completed in the home at [[TIME|4:00 PM]] on [[DATE|October 3, 2026]], with both parents present. [[PARENT|Lucia]] shared her concerns primarily in Spanish, with [[PROVIDER|Ms. Castillo]] translating as needed for [[PARENT|Carlos]].
+
+[[PARENT|Lucia]] stated, "[[CHILD|Mateo]] entiende casi todo lo que le decimos, pero todavia no habla mucho. El dice 'mama' y 'agua' pero no junta palabras." She reported that [[CHILD|Mateo]] has started to imitate the family dog's name, [[PET|Canela]], saying something close to "[[KEEP|Nela]]" when the dog comes near.
+
+[[PARENT|Carlos]] added, in English, "He gets frustrated when we don't understand him. He'll point and grunt, and sometimes he hits himself on the leg." Both parents agreed that [[CHILD|Mateo]]'s main need right now is funcional language — "necesitamos que el pueda decir lo que quiere," said [[PARENT|Lucia]]. She also mentioned, "en la noche se pone bien mal, llora y se pega en la cabeza cuando no lo entendemos."
+
+The family's priority for this review is increasing [[CHILD|Mateo]]'s expressive vocabulary and reducing frustration-related behaviors at daycare and at home. [[PARENT|Carlos]] also asked whether [[CHILD|Mateo]] might need a hearing recheck, since "a veces parece que no escucha bien cuando esta jugando."
+
+Daily Routines
+
+[[CHILD|Mateo]] wakes around [[TIME|6:30 AM]] and is dropped off at [[DAYCARE|Little Learners Daycare]] by [[TIME|7:15 AM]], where he is in [[TEACHER|Ms. Lopez]]'s room with seven other toddlers, including his friend [[PEER|Diego]]. His grandmother, [[FAMILY|Rosa Flores]], picks him up most days at [[TIME|5:30 PM]] because both parents work late.
+
+[[PARENT|Lucia]] works the evening shift at [[ORG|Servicios de Limpieza Estrella]] (Star Cleaning Services), typically from [[TIME|3:00 PM]] to [[TIME|11:00 PM]]. [[PARENT|Carlos]] trabaja en la compania de construccion [[ORG|Pinnacle Construction Company]], leaving the house before [[TIME|6:00 AM]] most mornings. Grandmother [[FAMILY|Rosa Flores]] works mornings at [[ORG|Restaurante El Fogon]] and is available for pickup in the afternoons. [[CHILD|Mateo]]'s uncle, [[FAMILY|Ernesto Rodriguez]], works night shift at [[ORG|Planta Procesadora Avicola Carolina]] and sometimes helps on weekends. [[CHILD|Mateo]]'s aunt, [[FAMILY|Marisol Rodriguez]], works at [[ORG|Mercado La Economica]] and brings groceries by on Sundays, when the whole family gathers. A family friend, [[FAMILY|Beto Hernandez]], works at [[ORG|Sunrise Farms]] and sometimes brings fresh vegetables for the family on weekends.
+
+Bath time is around [[TIME|7:00 PM]] and bedtime is [[TIME|8:00 PM]]. [[PARENT|Lucia]] reports that mealtimes are the hardest part of the day: "[[CHILD|Mateo]] se frustra mucho cuando quiere mas comida y no sabe pedirla." Weekends are usually spent at the grandmother's house, where [[CHILD|Mateo]] plays with his cousin, [[PEER|Isabela]], and the family dog, [[PET|Canela]].
+
+Other Agencies Involved
+
+The family also receives support from [[AGENCY|WIC]] through the [[PLACE|Chatham County]] office and has applied for services through [[AGENCY|Smart Start of Chatham County]]. [[AGENCY|Chatham County DSS]] assisted the family with the Medicaid renewal completed on [[DATE|September 12, 2026]]. The family's pediatrician, Dr. [[PROVIDER|Hannah Kim]], at [[HOSPITAL|Chatham Pediatrics]], referred [[CHILD|Mateo]] for the initial evaluation after noting limited expressive language at his 18-month well-child visit, and a follow-up hearing screen is pending at [[HOSPITAL|UNC Children's Hospital]].
+
+Evaluation Summary
+
+[[CHILD|Mateo]] ([[KEEP|2;6]]) was administered the [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]] in both English and Spanish, with scores reported using the higher of the two administrations per item, consistent with bilingual assessment guidelines. Auditory Comprehension standard score: [[KEEP|79]] ([[KEEP|8th percentile]]); Expressive Communication standard score: [[KEEP|65]] ([[KEEP|1st percentile]]); Total Language Score: [[KEEP|70]] ([[KEEP|2nd percentile]]), confidence interval [[KEEP|62-78]]. Age equivalent for expressive language: [[KEEP|14 months]]. A brief cognitive screen using the [[KEEP|Bayley-4]] Cognitive Scale yielded a scaled score of [[KEEP|9]], within the average range, suggesting the expressive delay is specific to language rather than global.
+
+Birth history is unremarkable: Apgar scores of [[KEEP|8]] and [[KEEP|9]], gestational age [[KEEP|39 weeks]], birth weight [[KEEP|7 lbs 2 oz]]. No significant medical history. Hearing screening at birth was [[KEEP|within normal limits]] bilaterally, though parents have requested a repeat screen given current concerns.
+
+During play-based observation, [[CHILD|Mateo]] used approximately [[KEEP|12]] single words consistently, including "[[KEEP|mas]]," "[[KEEP|agua]]," and "[[KEEP|up]]," and produced the phonemes [[KEEP|/m/]] and [[KEEP|/a/]] clearly, with limited production of [[KEEP|/p/]] and [[KEEP|/t/]] in word-initial position. He imitated "[[KEEP|arriba]]" with [[KEEP|moderate cues]] during a gross motor routine, and attempted "[[KEEP|bola]]" with [[KEEP|maximal cues]].
+
+Outcomes and Strategies
+
+Outcome 1 ([[KEEP|IFSP Outcome #1]]): [[CHILD|Mateo]] will use 2-word combinations to request desired items and activities in both English and Spanish, as reported by family and observed by provider, in [[KEEP|8 of 10]] opportunities across two consecutive sessions.
+Strategies: [[PROVIDER|Ms. Castillo]] will coach [[PARENT|Lucia]] and [[PARENT|Carlos]] using [[KEEP|Hanen]]-based strategies (It Takes Two to Talk) during mealtime and play routines, modeling expansion of single words into two-word phrases ("mas agua," "mama up"). Coaching sessions will occur in the home and will include [[FAMILY|Rosa Flores]] when available, since she provides significant daytime care.
+
+Outcome 2 ([[KEEP|IFSP Outcome #2]]): [[CHILD|Mateo]] will reduce frustration-related behaviors (hitting, self-directed aggression) by using a functional communication alternative (pointing paired with a word or approximation) in [[KEEP|3 of 5]] observed frustration events.
+Strategies: Visual supports and a core word board will be introduced at [[DAYCARE|Little Learners Daycare]] in coordination with [[TEACHER|Ms. Lopez]], and at home. [[PROVIDER|Ms. Castillo]] will train [[TEACHER|Ms. Lopez]] and classroom aide [[TEACHER|Mr. Davis]] on cueing hierarchy, prompting [[CHILD|Mateo]] to point before escalating, with [[KEEP|minimal to moderate cues]] as needed.
+
+Outcome 3 ([[KEEP|IFSP Outcome #3]]): [[CHILD|Mateo]] will increase his inventory of word-initial consonants in spontaneous speech, targeting [[KEEP|/p/]], [[KEEP|/t/]], and [[KEEP|/b/]], producing each in at least [[KEEP|3 of 5]] trials during structured play.
+Strategies: Speech sound stimulation using a modified [[KEEP|PROMPT]] approach, paired with high-frequency bilingual vocabulary (papa, bola, taza). Home practice sheet will be provided in Spanish and English.
+
+Transition Planning
+
+Because [[CHILD|Mateo]] turns three in [[DATE|April 2027]], the team briefly discussed transition options. [[PROVIDER|Denise Watkins]] explained the timeline for the transition conference and the family's rights regarding Child Find and preschool special education eligibility. [[PARENT|Lucia]] stated she would like [[CHILD|Mateo]] to stay at [[DAYCARE|Little Learners Daycare]] with [[TEACHER|Ms. Lopez]] as long as possible, "porque el ya la conoce y se siente comodo." A formal transition conference will be scheduled closer to [[CHILD|Mateo]]'s third birthday.
+
+Services
+
+[[CHILD|Mateo]] will continue to receive weekly developmental therapy through [[AGENCY|Little Learners Program]], the community-based early intervention therapy provider contracted through [[AGENCY|Central Regional CDSA]]. Sessions are held on Tuesdays from [[TIME|10:00 AM]] to [[TIME|10:45 AM]] at the family home, and on Thursdays from [[TIME|2:30 PM]] to [[TIME|3:15 PM]] at [[DAYCARE|Little Learners Daycare]], coordinated with [[TEACHER|Ms. Lopez]]'s schedule.
+
+Speech-language therapy with [[PROVIDER|Ms. Castillo]] will continue once weekly for [[KEEP|45 minutes]], on Mondays from [[TIME|9:00 AM]] to [[TIME|9:45 AM]], alternating between the home and [[DAYCARE|Little Learners Daycare]].
+
+Service Coordination visits with [[PROVIDER|Denise Watkins]] will continue monthly, with the next visit scheduled for [[DATE|November 7, 2026]].
+
+Next IFSP Review Date: [[DATE|April 3, 2027]]
+
+Signatures
+
+Parent/Guardian: [[PARENT|Lucia Rodriguez]] Date: [[DATE|October 3, 2026]]
+Parent/Guardian: [[PARENT|Carlos Flores]] Date: [[DATE|October 3, 2026]]
+Service Coordinator: [[PROVIDER|Denise Watkins]] Date: [[DATE|October 3, 2026]]
+Speech-Language Pathologist: [[PROVIDER|Ana Maria Castillo]], MS, CCC-SLP Date: [[DATE|October 3, 2026]]

@@ -1,0 +1,81 @@
+REVISIÓN DEL IFSP – Programa Infantil y de Infancia Temprana de Carolina del Norte (NC ITP)
+[[AGENCY|CDSA del Piedmont Triad]] – Oficina Regional
+Fecha de la revisión: [[DATE|9 de octubre de 2026]]
+Fecha del IFSP inicial: [[DATE|12 de abril de 2026]]
+ID de expediente: [[ID|PT-204871]]
+ID Medicaid: [[MEDICAID_ID|998213456K]]
+
+INFORMACIÓN DE LA FAMILIA
+Pt: [[CHILD|Mateo del Río Fernández]] ("[[CHILD|Teo]]"), varón, FDN [[DATE|3 de enero de 2023]] (edad cronológica [[KEEP|33 meses]] al momento de esta revisión).
+Madre/CG principal: [[PARENT|Lucía Fernández-Soto]], trabaja en [[ORG|Food Lion]] (turno de tarde, b/c conflictos de horario c/ terapia).
+Padre: [[PARENT|Javier del Río]], disponible la mayoría de las tardes.
+Hermana: [[SIBLING|Camila del Río Fernández]], [[KEEP|5 años]], en kínder en [[SCHOOL|Escuela Primaria Sedgefield]].
+Dirección: [[PLACE|1420 Calle Winbourne]], [[PLACE|Greensboro]], [[PLACE|Condado de Guilford]], NC [[PLACE|27406]].
+Tel: [[PHONE|(336) 555-0147]]. Correo: [[EMAIL|lucia.fsoto@gmail.com]].
+
+COORDINADORA DE SERVICIOS
+[[PROVIDER|Carla Jiménez]], coordinadora de servicios del [[AGENCY|CDSA del Piedmont Triad]], realizó la visita domiciliaria el [[DATE|1 de octubre de 2026]] junto c/ la terapeuta de habla-lenguaje.
+
+TERAPEUTA DE HABLA-LENGUAJE / PROVEEDORA
+[[PROVIDER|Ana Gómez]], SLP-CCC bilingüe, de [[EMPLOYER|Carolina Pediatric Therapy Services]], a cargo del tx directo desde [[DATE|20 de abril de 2026]].
+
+MÉDICO
+Pediatra: [[PROVIDER|Dra. Patel]], Clínica Pediátrica de Greensboro. Último chequeo [[DATE|15 de agosto de 2026]], sin hallazgos nuevos.
+
+OTRAS PERSONAS EN EL HOGAR / RUTINA
+Niñera: [[FAMILY|Rosa Martínez]], cuida a pt los lunes y miércoles 3-6 pm mientras CG trabaja.
+Mascota: perro llamado [[PET|Rocky]], pt disfruta jugar c/ él en el patio.
+Primos que visitan frecuentemente: [[FAMILY|Diego]] y [[FAMILY|Valentina]] (hijos de la tía materna), vienen los fines de semana.
+
+PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (palabras textuales de la madre)
+"[[CHILD|Teo]] todavía no me dice frases completas, solo palabras sueltas, y a veces se frustra y llora porque no lo entendemos." – [[PARENT|Lucía Fernández-Soto]]
+"Queremos que pueda jugar y hablar c/ su hermana [[SIBLING|Camila]] y c/ sus primos sin tanta frustración." – [[PARENT|Javier del Río]]
+"En la guardería dicen que se queda callado cuando los demás niños hablan, y queremos que participe más." – [[PARENT|Lucía Fernández-Soto]]
+
+RUTINAS DIARIAS
+Pt se despierta approx [[TIME|7:00 a.m.]], desayuna c/ hermana. Va a guardería [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] de [[TIME|8:30 a.m.]] a [[TIME|4:00 p.m.]] lunes a viernes. Maestra: [[TEACHER|Srta. Ortiz]]. Compañeros de clase: [[PEER|Sofía]] y [[PEER|Lucas]], c/ quienes pt juega mod ayuda de maestra p/ turnarse. Cena en familia approx [[TIME|6:30 p.m.]], rutina de baño y cuento approx [[TIME|7:30 p.m.]], a la cama approx [[TIME|8:00 p.m.]].
+
+PARTICIPACIÓN EN LA COMUNIDAD / OTRAS AGENCIAS
+Familia asiste a programa de lectura bilingüe los sábados en la [[ORG|Biblioteca Pública de Greensboro]] (sucursal Vandalia), donde pt participa en círculo de cuentos c/ otros niños. Familia también recibe apoyo nutricional de [[AGENCY|WIC]] y está inscrita c/ [[AGENCY|Smart Start]] p/ recursos de alfabetización temprana. Asisten ocasionalmente a servicios en la [[ORG|Iglesia Bautista Nueva Esperanza]], donde hay programa de guardería infantil los domingos que CG reporta como "buen lugar p/ que practique compartir c/ otros niños."
+
+HISTORIAL Y EVALUACIÓN (resumen, ver informe completo de evaluación del [[DATE|10 de abril de 2026]])
+Peso al nacer: [[KEEP|3,200 gramos]]. Apgar [[KEEP|8/9]]. Edad gestacional [[KEEP|39 semanas]]. Sin complicaciones perinatales reportadas.
+[[KEEP|PLS-5]]: Comunicación Expresiva puntaje estándar [[KEEP|68]] ([[KEEP|percentil 2]]); Comunicación Receptiva puntaje estándar [[KEEP|79]] ([[KEEP|percentil 8]]). Edad equivalente expresiva [[KEEP|18 meses]] (rango [[KEEP|16-20 meses]]).
+Inventario fonético: produce /[[KEEP|p]]/, /[[KEEP|m]]/, /[[KEEP|b]]/ consistentemente; /[[KEEP|k]]/ y /[[KEEP|g]]/ emergentes, sustituye /[[KEEP|t]]/ p/ /[[KEEP|k]]/ (ej. dice "[[KEEP|tasa]]" p/ "casa").
+Inteligibilidad approx [[KEEP|40%]] p/ oyente familiar, [[KEEP|20%]] p/ oyente no familiar.
+
+RESULTADOS Y ESTRATEGIAS DEL IFSP
+
+Resultado [[KEEP|1]]: [[CHILD|Teo]] usará frases de 2-3 palabras p/ pedir, comentar y protestar en rutinas diarias c/ familia y compañeros.
+Criterio: [[KEEP|8/10]] oportunidades observadas en 2 sesiones consecutivas.
+Estrategias: modelado c/ expansión lingüística durante comidas y juego; CG usará mod cues (modelo + espera de 5 seg) durante rutina de baño; uso de [[KEEP|Hanen]] "It Takes Two to Talk" en el hogar; apoyo visual tipo [[KEEP|PECS]] en guardería p/ transiciones.
+
+Resultado [[KEEP|2]]: [[CHILD|Teo]] producirá los sonidos /[[KEEP|k]]/ y /[[KEEP|g]]/ en posición inicial de palabra c/ [[KEEP|min-mod cues]] en contexto estructurado.
+Criterio: [[KEEP|3 de 5]] producciones correctas en palabras objetivo como "[[KEEP|casa]]," "[[KEEP|gato]]," "[[KEEP|cama]]."
+Estrategias: enfoque [[KEEP|Cycles]] c/ palabras meta semanales; práctica c/ [[KEEP|PROMPT]] táctil-kinestésico p/ posición de lengua; CG practicará 5 min/noche c/ tarjetas ilustradas.
+
+Resultado [[KEEP|3]]: Familia reportará aumento en participación social de [[CHILD|Teo]] c/ compañeros ([[PEER|Sofía]], [[PEER|Lucas]]) y c/ primos [[FAMILY|Diego]] y [[FAMILY|Valentina]] durante juego compartido.
+Criterio: CG reporta mejora subjetiva en 2 de 3 revisiones trimestrales.
+Estrategias: maestra [[TEACHER|Srta. Ortiz]] facilitará turnos estructurados en círculo de cuentos; familia seguirá asistiendo a programa de biblioteca los sábados; coordinadora [[PROVIDER|Carla Jiménez]] conectará a familia c/ grupo de juego bilingüe de [[AGENCY|Smart Start]].
+
+HORARIO DE SESIONES DE TERAPIA DIRECTA
+
+| Día       | Hora inicio | Hora fin | Lugar                                             |
+|-----------|-------------|----------|----------------------------------------------------|
+| Lunes     | [[TIME|9:00 a.m.]]   | [[TIME|9:45 a.m.]]  | [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]]       |
+| Miércoles | [[TIME|10:30 a.m.]]  | [[TIME|11:15 a.m.]] | Hogar – [[PLACE|1420 Calle Winbourne]]              |
+| Viernes   | [[TIME|9:00 a.m.]]   | [[TIME|9:45 a.m.]]  | [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]]       |
+
+Frecuencia: 3x/semana, 45 min/sesión, modelo directo c/ coaching a CG en sesión del hogar.
+Duración de servicios: desde [[DATE|20 de abril de 2026]] hasta la próxima revisión anual el [[DATE|12 de abril de 2027]].
+
+TRANSICIÓN Y COORDINACIÓN
+Equipo acordó que [[PROVIDER|Ana Gómez]] enviará actualización trimestral a [[PROVIDER|Dra. Patel]] vía correo seguro. Guardería [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] recibirá plan de estrategias p/ aula el [[DATE|15 de octubre de 2026]]. CG firmará consentimiento actualizado p/ compartir información c/ [[AGENCY|WIC]] y [[AGENCY|Smart Start]] en esta visita.
+
+CONSENTIMIENTO Y FIRMAS
+Padre/madre: [[PARENT|Lucía Fernández-Soto]] ____________________ Fecha: [[DATE|9 de octubre de 2026]]
+Padre: [[PARENT|Javier del Río]] ____________________ Fecha: [[DATE|9 de octubre de 2026]]
+Coordinadora de servicios: [[PROVIDER|Carla Jiménez]] ____________________ Fecha: [[DATE|9 de octubre de 2026]]
+Terapeuta: [[PROVIDER|Ana Gómez]], SLP-CCC ____________________ Fecha: [[DATE|9 de octubre de 2026]]
+
+Próxima revisión programada: [[DATE|9 de enero de 2027]]. Familia puede contactar a [[AGENCY|CDSA del Piedmont Triad]] al [[PHONE|(336) 555-0190]] c/ cualquier pregunta antes de esa fecha.

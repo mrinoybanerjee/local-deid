@@ -1,0 +1,18 @@
+Client: [[CHILD|Mateo de la Cruz]]
+DOB: [[DATE|04/12/2021]]
+Medicaid ID: [[MEDICAID_ID|9823451A7]]
+School: [[SCHOOL|Oak Grove Elementary School]]
+District: [[SCHOOL|Wake County Public School System]]
+Teacher: [[TEACHER|Jenna Rivera-Gómez]]
+Date of Report: [[DATE|October 9, 2026]]
+
+Dear [[PARENT|Rosa de la Cruz]],
+
+I'm writing to update you on [[CHILD|Mateo]]'s progress since our last visit to [[SCHOOL|Oak Grove Elementary School]], in [[TEACHER|Ms. Rivera-Gómez]]'s classroom. On [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]], [[CHILD|Mateo]] earned a standard score of [[KEEP|78]] (95% CI [[KEEP|73-83]]), a low-average range, with an age equivalent of [[KEEP|2;6–3;0]] at a chronological age of [[KEEP|4;2]]. His expressive language score rose to the [[KEEP|30th]] percentile, up from the [[KEEP|12th]] percentile six months ago. He now produces /k/ correctly in [[KEEP|8/10]] trials with [[KEEP|min cues]].
+
+Our interpreter, [[PROVIDER|Carmen Ibarra]], joined the session so your husband could ask questions in Spanish. [[CHILD|Mateo]]'s occupational therapist, [[PROVIDER|Dana Whitfield]], and his physical therapist, [[PROVIDER|Mark Feldman]], both report steady gains. I also spoke with his pediatrician, [[PROVIDER|Dr. Priya Nair]], about his feeding plan using [[KEEP|PROMPT]] strategies.
+
+Please call me at [[PHONE|(919) 555-0148]] or email [[EMAIL|slp.clinic@example.com]] with questions. Our next IFSP review is [[DATE|November 3, 2026]] at [[TIME|10:30 AM]], covering Outcome [[KEEP|2]].
+
+Warmly,
+[[PROVIDER|Grace Ndiaye]], M.S., CCC-SLP

@@ -1,0 +1,36 @@
+Daily therapy/session note
+Field	Value
+Client	[[CHILD|Mateo Tomás Vega]] ([[CHILD|Teo]])
+Age	[[KEEP|26 months]]
+Service date	[[DATE|March 3, 2026]]
+Session	[[TIME|9:10 a.m.]]–[[TIME|9:40 a.m.]]
+Clinician	[[PROVIDER|Elena Marín]], bilingual pediatric speech-language pathologist, North Carolina
+Employer	[[EMPLOYER|Willow Lantern Speech Services]]
+Record	[[ID|SLP-60418]]
+Medicaid	[[MEDICAID_ID|583027461K]]
+Billing	CPT [[KEEP|92507]]; modifier [[KEEP|GO]]; ICD-10 [[KEEP|F80.2]]
+
+S: Mother [[PARENT|Guadalupe Vega]] ([[PARENT|Lupita]]) reported more requests during breakfast. Sister [[SIBLING|Sol]] models vocabulary. Uncle [[FAMILY|Jesús Vega]] ([[FAMILY|Chuy]]) practiced picture choices. The family requested Spanish coaching materials. Mother works at [[ORG|Copper Finch Textiles]].
+
+Contact	Organization	Details
+Coordinator [[PROVIDER|Marisol Peña]]	[[AGENCY|Red de Coordinación de Servicios Familiares de Brisavalle]]; [[AGENCY|RCSF Brisavalle]]	[[PHONE|919-555-0146]]
+Referral office	[[AGENCY|Agencia de Servicios para el Desarrollo Infantil de Brisavalle]]; [[AGENCY|CDSA Brisavalle]]	[[PLACE|Brisavalle]], North Carolina
+Resource office	[[AGENCY|WIC]] in [[PLACE|Pinebrook County]]	[[EMAIL|intake@pinebrook.example.invalid]]
+Teacher Ms. [[TEACHER|Lucía Prado]]	[[DAYCARE|Acorn Moon Childcare]]	[[PLACE|42 Lantern Lane]], [[PLACE|Brisavalle]], [[PLACE|27500]]
+
+O: Play addressed IFSP outcome [[KEEP|2]] using [[KEEP|Hanen]] strategies. Target word [[KEEP|"sol"]] matched the sister’s name. The child produced [[KEEP|"to"]] for that target with [[KEEP|mod cues]]. During pretend play, he said "[[PET|Nube]] come". Peer [[PEER|Inés Mora]] joined briefly. Visual choices improved participation; no distress occurred.
+
+Measure	Result
+[[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]	Standard score [[KEEP|81]]; percentile [[KEEP|10]]
+Confidence interval	[[KEEP|73–89]]
+Age equivalent	[[KEEP|1;9–2;1]]
+Requests	[[KEEP|8/10]]; [[KEEP|80%]]; [[KEEP|min cues]]
+Initial [[KEEP|/s/]] attempts	[[KEEP|3 of 5]]; [[KEEP|mod cues]]
+
+A: Functional requesting improved with familiar routines. Speech approximations remained variable. Caregiver demonstrated responsive waiting and accepted coaching. Results describe supported performance; independent use still requires observation across settings.
+
+P: Continue play-based intervention and caregiver practice. Send picture choices through the established family portal. Review progress with the coordinator at the next visit. Mother agreed to practice during snack routines each afternoon.
+
+Service	Location	Schedule
+Speech therapy	Home	Weekly, [[TIME|9:10 a.m.]]
+Review	Daycare	[[DATE|March 17, 2026]], [[TIME|10:00 a.m.]]

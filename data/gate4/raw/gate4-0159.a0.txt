@@ -1,0 +1,97 @@
+DOCUMENT INFORMATION / INFORMACIÓN DEL PLAN
+
+- This fictional North Carolina Infant-Toddler Program IFSP review documents family routines, communication needs, agreed outcomes, and early intervention services. All names, organizations, locations, and identifiers are invented.
+- Child: [[CHILD|Nicolás Ríos Vega]], called [[CHILD|Nico]] at home. Date of birth: [[DATE|August 14, 2024]]. Age at review: [[KEEP|26 months]]. Home languages are Spanish and English.
+- Review date: [[DATE|October 14, 2026]]. Initial IFSP date: [[DATE|April 14, 2026]]. Record number: [[ID|ITP-0627419]]. Medicaid member number: [[MEDICAID_ID|000482731Q]].
+- The family chose a home visit with Spanish discussion and an English summary. Parents reviewed the wording together and requested practical strategies that fit their work schedules.
+
+FAMILY INFORMATION / NUESTRA FAMILIA
+
+- Mother: [[PARENT|Mariela Ríos]]. Father: [[PARENT|Esteban Vega]]. Both parents share caregiving decisions. The family lives at [[PLACE|4827 Plover Gate Lane, Apartment 6]], [[PLACE|Cedarmere]], North Carolina [[PLACE|27900]], in [[PLACE|Linden Shoal County]].
+- Sister [[SIBLING|Sol]] enjoys songs and picture books. Maternal aunt [[FAMILY|Dalia Ríos]] provides afternoon care. The household also includes a dog named [[PET|Chispa]], who often joins floor play.
+- Mom works nights at [[ORG|Moonbridge Packaging]] as a quality checker. She also works weekend mornings at [[ORG|NFS]]. Her second workplace is identified only by its acronym.
+- Dad repairs equipment at [[ORG|Tern Hollow Equipment Repair]]. Contact mother at [[PHONE|(919) 555-0146]] or [[EMAIL|mariela.rios@correo.example]]. Contact father at [[PHONE|(984) 555-0172]]. Text before calling because shifts change.
+
+SERVICE COORDINATION / COORDINACIÓN
+
+- Service coordinator Ms. [[PROVIDER|Elena Cruz]] works through [[AGENCY|Pine Lantern Children’s Developmental Services Agency]], the family’s CDSA office. Office address: [[PLACE|216 Willow Arch Road]], [[PLACE|Cedarmere]], North Carolina [[PLACE|27900]].
+- Coordinator contact: [[PHONE|(252) 555-0138]], [[EMAIL|elena.cruz@pinelantern.example]]. Family information website: [[URL|https://pinelantern.example/familias]]. Parents prefer Spanish messages and an English copy when a form requires a signature.
+- Reviewing clinician: [[PROVIDER|Adriana Montes]], MS, CCC-SLP, bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Little Lantern Pediatric Therapy]]. She conducted the visit in both languages and interpreted routine examples within her clinical role.
+- The coordinator will confirm appointments, support referrals, and review family satisfaction. The clinician will document language samples and coach caregivers. Parents may request a meeting whenever priorities change.
+
+FAMILY CONCERNS / LO QUE NOS PREOCUPA
+
+- Mother shared, “Cuando no lo entendemos, se tira al piso. I want him to tell us what he needs before everybody gets upset.” Frustration occurs most often during snacks and dressing.
+- Father stated, “Entiende más cuando hablamos despacio. At the playground he watches first, then follows. Queremos que pueda pedir ayuda without needing us to guess every time.”
+- Mother added, “Con mis dos trabajos, no puedo hacer worksheets every night. Necesitamos ideas durante la comida, el baño y cuando salimos.” The team agreed to use familiar routines.
+- Parents worry that daycare staff miss Spanish requests. They want shared examples across settings, without asking the family to stop Spanish. Both languages remain part of everyday interaction.
+
+FAMILY PRIORITIES / LO MÁS IMPORTANTE
+
+- The family’s first priority is successful requesting during meals, play, and transitions. Parents accept gestures, pictures, sounds, and words when the message is clear and the child remains engaged.
+- Their next priority is understanding familiar directions during dressing and cleanup. Father said, “Primero que participe con nosotros; después podemos trabajar en palabras más claras.” Participation will guide strategy selection.
+- The family wants enjoyable communication with sister [[SIBLING|Sol]]. Mother explained, “Ella quiere jugar, pero sometimes she answers for him.” Adults will model waiting without assigning the sibling responsibility for therapy.
+- Parents also want consistent daycare responses. The clinician will share brief examples with permission. Family priorities will determine practice opportunities; caregivers can decline a strategy that does not fit.
+
+DAILY ROUTINES / RUTINAS DIARIAS
+
+- Breakfast usually starts at [[TIME|7:15 a.m.]]. Father offers familiar foods while mother rests after work. Choices work best when both items are visible and the adult pauses before serving.
+- Afternoon care begins around [[TIME|2:30 p.m.]]. Aunt [[FAMILY|Dalia Ríos]] uses songs during handwashing. The child participates when gestures accompany the words, but becomes quiet when several people speak together.
+- Bath time is near [[TIME|7:00 p.m.]]. Pouring water supports turn taking. Parents report that short exchanges feel natural aquí, especially when adults follow the child’s interest instead of asking repeated questions.
+- Bedtime begins around [[TIME|8:15 p.m.]]. Sister [[SIBLING|Sol]] chooses a book, and father labels pictures. Weekend routines vary with mother’s shifts, so the plan includes flexible opportunities without a daily homework quota.
+
+CHILDCARE AND COMMUNITY PARTICIPATION
+
+- The child attends [[DAYCARE|Pebble Nest Early Learning Center]] on weekdays. Lead teacher Ms. [[TEACHER|Camila Duarte]] reports strong interest in blocks, vehicles, and songs with predictable gestures.
+- Classroom assistant Mr. [[TEACHER|Jonah Pike]] observes that peer [[PEER|Mila Torres]] often offers toys. Peer [[PEER|Owen Bell]] joins vehicle play. Adults will support exchanges without requiring spoken imitation.
+- Sister attends [[SCHOOL|Juniper Arc Primary School]]. School pickup sometimes overlaps with appointments. Community shuttle driver [[PERSON|Arlo Finch]] knows the family’s usual stop, but receives no clinical information.
+- Parents authorized a brief daycare communication summary. Staff may describe participation and helpful supports. They will contact the coordinator if routines change or the family requests a joint visit.
+
+HEALTH AND DEVELOPMENT / SALUD Y DESARROLLO
+
+- Parents report birth at [[HOSPITAL|Silver Heron Community Hospital]] at [[KEEP|38 weeks]] gestation, with birth weight [[KEEP|6 lb 14 oz]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]].
+- Pediatrician Dr. [[PROVIDER|Luciana Reed]] completed a well visit on [[DATE|September 18, 2026]]. Parents report no current feeding concerns. The team has not independently verified the birth history.
+- Audiologist [[PROVIDER|Micah Lane]] completed hearing screening on [[DATE|September 25, 2026]]. The available report describes responses within expected screening limits. Parents will report new concerns about hearing or ear discomfort.
+- Existing documentation lists [[KEEP|ICD-10 F80.2]]. Communication needs affect participation across routines. This review describes functional supports and does not establish a new medical diagnosis or replace ongoing pediatric care.
+
+ASSESSMENT / EVALUACIÓN BILINGÜE
+
+- On [[DATE|October 7, 2026]], the clinician reviewed prior [[KEEP|PLS-5]] results: [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]]; [[KEEP|Expressive Communication]] standard score [[KEEP|75]], percentile [[KEEP|5th]], confidence interval [[KEEP|70-82]].
+- These scores came from the earlier English administration and require cautious interpretation. Spanish caregiver interviews, play observation, and language sampling provided additional information. Scores alone did not determine the service plan.
+- During play, the child followed familiar directions in [[KEEP|6/10]] opportunities with [[KEEP|min cues]]. Requests occurred in [[KEEP|3 of 5]] supported opportunities. Independent spoken requests represented approximately [[KEEP|40%]] of observed requests.
+- Productions included [[KEEP|"ma"]], [[KEEP|"agua"]], and [[KEEP|"go"]]. Initial [ [KEEP|w] ] was transcribed as [[KEEP|[w]]]; emerging sounds included [[KEEP|/m/]] and [[KEEP|/b/]]. No speech sound drill was added to this review.
+
+OUTCOME [[KEEP|1]] / PEDIR LO QUE NECESITA
+
+- During meals and play, the child will communicate a choice or request using a gesture, picture, sound, or word in [[KEEP|8/10]] opportunities across familiar routines.
+- Adults will use [[KEEP|Enhanced Milieu Teaching]] and [[KEEP|focused stimulation]], offering choices and waiting. Models may include [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"help"]], and [[KEEP|"open"]], depending on the family’s language.
+- Start with [[KEEP|mod cues]] when needed, then reduce support as communication becomes easier. Adults will respond to the message before expanding it; food and essential items remain available.
+- Parents and daycare staff will share brief examples at monthly check-ins. Success means more effective participation across settings, with fewer guesses by adults and no requirement to use one language exclusively.
+
+OUTCOME [[KEEP|2]] / PARTICIPAR EN LAS RUTINAS
+
+- During dressing and cleanup, the child will follow a familiar direction with a gesture in [[KEEP|4 of 5]] opportunities, with [[KEEP|min cues]], across home and daycare routines.
+- Adults will pair short phrases with actions, using targets such as [[KEEP|"shoes on"]], [[KEEP|"pon aquí"]], and [[KEEP|"give me"]]. They will allow processing time before repeating the direction.
+- Use [[KEEP|routines-based intervention]] during actual activities. If the child becomes frustrated, simplify the step and reconnect. The family does not need to create a separate practice session.
+- Caregivers will note which directions work in each language. The clinician will review examples and adjust support when a direction depends on unfamiliar vocabulary, environmental noise, or a rushed transition.
+
+OUTCOME [[KEEP|3]] / JUGAR Y COMPARTIR
+
+- During sibling or peer play, the child will complete a reciprocal exchange in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]], using any clear communication form.
+- Adults will apply [[KEEP|Hanen]] interaction strategies during books, bubbles, and vehicle play. They will follow the child’s lead, pause, and model short language without requiring repetition.
+- Sister [[SIBLING|Sol]] may join when she wants. During observation, the child said, “[[SIBLING|Sol]] ven.” The clinician treated this as a meaningful invitation and supported the shared play.
+- Parents will report whether exchanges feel enjoyable and manageable. The team will adjust materials and adult support before increasing expectations. Progress includes staying engaged and communicating for another turn.
+
+OTHER AGENCIES / APOYOS EN LA COMUNIDAD
+
+- The family receives food support through [[AGENCY|Linden Shoal Family Nutrition Office]]. Staff contact [[PROVIDER|Nora Salcedo]] helps coordinate appointments. Parents requested evening reminder messages whenever that option is available.
+- [[AGENCY|Centro Comunitario de Acompañamiento Familiar y Recursos para la Primera Infancia (CCAFRPI)]] offers bilingual parent groups and transportation information. The family requested a referral, without sharing assessment scores.
+- [[AGENCY|CCAFRPI]] will receive only the approved contact details. [[AGENCY|Linden Shoal Family Assistance Department]] remains a possible resource for childcare scheduling support; the family has not requested an application.
+- The coordinator will confirm referral status at the next contact. Participation in community services is optional and does not change the family’s identified communication priorities or agreed early intervention schedule.
+
+SERVICES, DATES, AND FOLLOW-UP
+
+- Speech-language services: weekly home visits, beginning [[DATE|October 21, 2026]] through [[DATE|April 20, 2027]], delivered by [[PROVIDER|Adriana Montes]], MS, CCC-SLP, through [[EMPLOYER|Little Lantern Pediatric Therapy]].
+- Planned visit time: [[TIME|4:30 p.m.]]. Visits include caregiver coaching and direct observation. Billing reference: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]. Authorization number: [[ID|AUTH-261021-047]].
+- Service coordination continues monthly. Next family check-in: [[DATE|November 18, 2026]]. Formal review: [[DATE|April 14, 2027]]. The team will begin discussing transition preferences before the next review.
+- Parents agreed to the listed priorities and requested Spanish explanations of future forms. Signature acknowledgment was recorded on [[DATE|October 14, 2026]]. The coordinator will provide copies in the family’s preferred formats.

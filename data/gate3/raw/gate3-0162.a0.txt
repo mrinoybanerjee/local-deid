@@ -1,0 +1,48 @@
+NC Infant-Toddler Program — IFSP Review
+Synthetic training record; all people, organizations, locations, identifiers, and clinical findings are fictional.
+
+S: Información familiar / Family report
+
+Review date: [[DATE|October 8, 2026]]. Child: [[CHILD|Emilio Santos Vega]], DOB [[DATE|May 14, 2024]], chronological age [[KEEP|28 months]] / [[KEEP|2;4]]. Preferred name: [[CHILD|Milo]]. Home languages: Spanish and English. Family requests Spanish discussion with bilingual written summaries. Participants: mother [[PARENT|Marisol Vega]], father [[PARENT|Andrés Santos]], grandmother [[FAMILY|Teresa Vega]], and bilingual pediatric SLP [[PROVIDER|Julia Ortiz]]. Service coordinator [[PROVIDER|Nadia Fuentes]] joined by telephone; family consent documented.
+
+Home: [[PLACE|418 Willow Finch Lane]], [[PLACE|Cedarhaven]], North Carolina [[PLACE|27864]], [[PLACE|Juniper County]]. Mother’s telephone: [[PHONE|252-555-0146]]; father’s telephone: [[PHONE|252-555-0183]]. Family email: [[EMAIL|marisol.vega@example.com]]. Mailing address same as home. Sister [[SIBLING|Alma Santos Vega]], age [[KEEP|6 years]], participates in evening play. Grandmother provides afternoon care. Family dog: [[PET|Chispa]]. Emergency contact: aunt [[FAMILY|Rosa Vega]], [[PHONE|252-555-0162]]. Custody shared by parents; both authorize routine service coordination.
+
+Assigned CDSA office: [[AGENCY|Juniper Valley CDSA]], [[PLACE|72 Meadowglass Court]], [[PLACE|Cedarhaven]], North Carolina [[PLACE|27864]]; office [[PHONE|252-555-0117]]. Coordinator email: [[EMAIL|nadia.fuentes@example.org]]. Contracted therapy program and clinician employer: [[EMPLOYER|Little Learners Program]]. Child attends [[DAYCARE|Little Learners Daycare]], [[PLACE|93 Fernbridge Road]], [[PLACE|Cedarhaven]], North Carolina [[PLACE|27864]]. Lead teacher Ms. [[TEACHER|Elena Cruz]]; classroom assistant [[TEACHER|Wesley Hart]].
+
+Administrative identifiers: NC ITP child ID [[ID|NCITP-2648137]]; Medicaid ID [[MEDICAID_ID|731482690Q]]; insurance member ID [[ID|FHP-482716930]] through [[AGENCY|Fernwell Health Plan]]; therapy record [[ID|LLP-026-1842]]; authorization [[ID|AUTH-261008-573]]. Coverage verification dated [[DATE|October 7, 2026]] recorded in this fictional chart.
+
+Preocupaciones y prioridades: Mother states, “Quiero que [[CHILD|Milo]] pida ayuda sin llorar. At breakfast, he pulls my hand y no sé qué quiere.” Father states, “We need words or gestures that work con los dos idiomas. No queremos quitar el español.” Grandmother states, “Cuando cambia la rutina, se frustra; necesito una manera sencilla de avisarle.” Family prioritizes requesting, transitions, and joining familiar play. Parents prefer home practice embedded in routines; no additional worksheet homework.
+
+Rutinas diarias: Wake around [[TIME|6:45 a.m.]]; breakfast around [[TIME|7:15 a.m.]]. Mother offers cereal, fruit, and water. Daycare arrival [[TIME|8:10 a.m.]]; snack, outdoor play, lunch, and nap follow classroom schedule. Grandmother collects child at [[TIME|3:30 p.m.]]. Dinner [[TIME|6:00 p.m.]]; bath [[TIME|7:00 p.m.]]; bedtime [[TIME|7:45 p.m.]]. Dressing and cleanup produce most protest. Music, bubbles, and toy vehicles support engagement. Sister models choices but sometimes answers before child has a turn.
+
+Other agencies: [[AGENCY|Juniper County WIC]] supports nutrition access; [[AGENCY|Juniper Families Smart Start]] provides books and parent groups. Family reports no current DSS involvement. Mother works at [[ORG|Cedarhaven Textile Cooperative]]; father works at [[ORG|Fernbridge Auto Supply]]. Rotating shifts affect visit scheduling. Family requests coordination through mother before contacting outside agencies.
+
+O: Observaciones / Objective findings
+
+Reviewed prior IFSP dated [[DATE|April 9, 2026]], bilingual evaluation dated [[DATE|September 22, 2026]], caregiver interview, and current home observation. Evaluation billing: [[KEEP|92523]]; treatment billing: [[KEEP|92507]]. Recorded diagnosis: [[KEEP|F80.2]]. No modifier assigned for this encounter. SLP signature abbreviation: [[PROVIDER|J. Ortiz]], CCC-SLP.
+
+Medical history per caregiver and discharge summary: birth at [[KEEP|35 weeks 2 days]] gestation; birth weight [[KEEP|2240 g]]; Apgar scores [[KEEP|7]] and [[KEEP|9]]. Delivery hospital: [[HOSPITAL|Larkwell Health System, Cedarhaven Campus Hospital]]. NICU stay at [[HOSPITAL|Larkwell Health System, Cedarhaven Campus NICU]] for feeding and temperature support. Current pediatrician Dr. [[PROVIDER|Sofia Beltrán]] at [[HOSPITAL|Larkwell Health System, Fernbridge Campus Pediatric Clinic]]. Audiology referral: [[HOSPITAL|Larkwell Health System, Meadowglass Campus ENT and Audiology]]. Appointment scheduled [[DATE|October 20, 2026]]. Hearing status remains incompletely documented; no new hearing result available.
+
+Language assessment: [[KEEP|PLS-5 Spanish]] administered with bilingual procedures and caregiver input. [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-85]], age equivalent [[KEEP|1;11]]. [[KEEP|Expressive Communication]] standard score [[KEEP|74]], percentile [[KEEP|4]], confidence interval [[KEEP|69-82]], age equivalent [[KEEP|1;8]]. [[KEEP|Total Language]] standard score [[KEEP|75]], percentile [[KEEP|5]], confidence interval [[KEEP|70-83]]. Scores describe sampled performance; routines and bilingual language exposure informed interpretation. No English-only score used to determine language difference versus disorder.
+
+Observed functional requests: [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], equivalent to [[KEEP|80%]]. Independent requests: [[KEEP|3/10]], or [[KEEP|30%]]. Child used pointing, reaching, sign approximation, and words. Productions included “[[KEEP|más]],” “[[KEEP|agua]],” “[[KEEP|go]],” and “[[KEEP|open]].” Spontaneous phrase: “[[KEEP|más agua]].” While watching the dog, child said “[[PET|Chispa]] go.” Adult modeled targets “[[KEEP|ayuda]],” “[[KEEP|help]],” and “[[KEEP|my turn]].” No immediate spoken imitation required.
+
+Followed familiar directions in [[KEEP|6/10]] opportunities with gesture support and [[KEEP|min cues]]. Without gesture, followed [[KEEP|3/10]]. Transitioned from vehicles to snack in [[KEEP|4 of 5]] trials with picture preview and [[KEEP|mod cues]]. Shared attention sustained through short reciprocal play. Speech sample showed variable syllable shapes; observed [w] realization marked as [[KEEP|[w]]] and emerging [[KEEP|/k/]]. No formal articulation score assigned. Language sample included SALT code [[KEEP|[EW]]] for an extraneous word.
+
+Daycare report from Ms. [[TEACHER|Cruz]]: child watches peer [[PEER|Nora Bell]] during songs and hands blocks to peer [[PEER|Diego Moss]]. Child joins parallel play readily; requests adult help infrequently. Teacher demonstrated waiting and offering two choices during snack.
+
+A: Análisis / Clinical assessment
+
+Mixed receptive-expressive language needs affect access to help, predictable transitions, and reciprocal participation. Strengths: caregiver engagement, shared attention, gesture use, and meaningful vocabulary across languages. Spanish-English exposure does not explain the observed functional difficulty. Family reports align with direct observation. Hearing follow-up remains necessary for interpretation and planning.
+
+Progress toward prior IFSP [[KEEP|Outcome 1]] is evident in supported requesting; independence remains limited. Prior [[KEEP|Outcome 2]] shows improved transitions with visual preview. Coaching should emphasize responsive interaction, adequate wait time, and consistent access to both languages. Use [[KEEP|Hanen]] strategies and individualized visual supports; consider [[KEEP|PECS]] only after further assessment and family discussion. No requirement to replace gestures with speech. Family selected participation measures that fit existing routines.
+
+P: Plan / Resultados y estrategias
+
+IFSP [[KEEP|Outcome 1]]: During breakfast, play, and daycare snack, child will request an item or help using a word, gesture, sign, or picture in [[KEEP|8/10]] opportunities across three routine samples with [[KEEP|min cues]]. Target review: [[DATE|January 8, 2027]]. Strategies: offer meaningful choices, pause, respond to all communication, and model “[[KEEP|ayuda]]” or “[[KEEP|help]].” Mother and teacher will record brief examples.
+
+IFSP [[KEEP|Outcome 2]]: Child will move between familiar activities in [[KEEP|4 of 5]] opportunities using a picture preview and caregiver support. Target review: [[DATE|January 8, 2027]]. Strategies: show the next activity, use a short Spanish or English phrase, offer a transition object, and acknowledge protest. Grandmother will practice during afternoon cleanup.
+
+IFSP [[KEEP|Outcome 3]]: Child will participate in three reciprocal play turns with an adult or peer in [[KEEP|80%]] of sampled opportunities with [[KEEP|mod cues]]. Target review: [[DATE|January 8, 2027]]. Strategies: copy play, pause, model “[[KEEP|mi turno]],” and help sister leave space for a response.
+
+Speech-language service: weekly 45-minute home or daycare coaching visits, start [[DATE|October 15, 2026]], end [[DATE|April 8, 2027]]. Coordinator will confirm audiology attendance, obtain consent before exchanging records, and review scheduling barriers. Next IFSP review [[DATE|January 8, 2027]]. Parents received Spanish explanation, agreed with outcomes, and requested text reminders. Clinician: [[PROVIDER|Julia Ortiz]], bilingual pediatric SLP; signed [[DATE|October 8, 2026]].

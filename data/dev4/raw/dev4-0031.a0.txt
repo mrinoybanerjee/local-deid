@@ -1,0 +1,46 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+INFORMACIÓN GENERAL
+- Niño: [[CHILD|Mateo Fuentes]]
+- Fecha de la sesión: [[DATE|10/08/2026]]
+- Hora: [[TIME|3:30 p.m.]] a [[TIME|4:15 p.m.]]
+- ID de caso: [[ID|NC-884215]]
+- Número de Medicaid: [[MEDICAID_ID|739215864B]]
+- Proveedora: [[PROVIDER|Yesenia Cárdenas]], patóloga del habla-lenguaje bilingüe, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+- Lugar: domicilio familiar, [[PLACE|calle Maple Grove 212, Clayton]], condado de [[PLACE|Johnston]]
+
+ANTECEDENTES
+- La familia recibe apoyo de [[AGENCY|DSS del condado de Johnston]] y participa en el programa [[AGENCY|WIC]].
+- [[CHILD|Mateo]] fue remitido por [[AGENCY|Partnership for Children del condado de Johnston]] después de la evaluación inicial.
+- Su hermana mayor, [[SIBLING|Sol Fuentes]], asiste a [[SCHOOL|Clayton Elementary]].
+- Mamá trabaja de noche en [[ORG|Clayton Overnight Distribution Center]] como supervisora de bodega ("[[PARENT|mamá]] trabaja de noche en [[ORG|Clayton Overnight Distribution Center]]").
+- Papá, [[PARENT|Héctor Fuentes]], trabaja durante el día en [[ORG|Johnston Auto Parts]].
+- La cuidadora, [[FAMILY|Rosa Martínez]], estuvo presente durante la sesión.
+
+SUBJETIVO
+- [[PARENT|Héctor]] reporta que [[CHILD|Mateo]] dijo "[[PET|Luna]] come" en casa, refiriéndose a la perrita familiar.
+- La maestra, Sra. [[TEACHER|Pamela Ruiz]], indicó mejoría en la participación en el salón.
+
+OBJETIVO
+- Tabla de puntajes:
+  | Fecha | Prueba | Puntaje estándar | IC 95% |
+  |---|---|---|---|
+  | [[DATE|03/14/2025]] | [[KEEP|PLS-5]] [[KEEP|Comprensión Auditiva]] | [[KEEP|78]] | [[KEEP|73-83]] |
+  | [[DATE|10/08/2026]] | [[KEEP|PLS-5]] [[KEEP|Expresión del Lenguaje]] | [[KEEP|85]] | [[KEEP|80-90]] |
+- Edad cronológica: [[KEEP|4;2]]. Edad gestacional: [[KEEP|38 semanas]]. Peso al nacer: [[KEEP|3,100 g]].
+- Producción del fonema objetivo "[[KEEP|sol]]" (palabra meta, no relacionada con el nombre de la hermana [[SIBLING|Sol]]): logró [[KEEP|8/10]] ensayos con [[KEEP|mod cues]].
+- Produjo /s/ correctamente en posición inicial: "[[KEEP|[s]ol sale]]".
+- Precisión de consonantes: [[KEEP|73%]], percentil [[KEEP|25]].
+- ICD-10: [[KEEP|F80.1]]. CPT: [[KEEP|92507]].
+
+EVALUACIÓN
+- [[CHILD|Mateo]] mostró progreso en el objetivo de IFSP #[[KEEP|2]] usando el enfoque [[KEEP|Hanen]].
+- Comparado con el compañero de grupo [[PEER|Jacob Núñez]], [[CHILD|Mateo]] mostró mayor consistencia fonológica.
+
+PLAN
+- Continuar con [[KEEP|Cycles]] y reforzar /r/ en [[KEEP|[ɾ]]].
+- Próxima revisión de IFSP: [[DATE|01/15/2027]].
+- Coordinar con [[PROVIDER|Lucía Ortiz]], coordinadora de servicios de [[AGENCY|Early Head Start de Johnston County]].
+- Contacto: [[PHONE|(919) 555-2047]], [[EMAIL|yesenia.cardenas@carolinapedsp.com]].
+
+Firma: [[PROVIDER|Yesenia Cárdenas]], CCC-SLP

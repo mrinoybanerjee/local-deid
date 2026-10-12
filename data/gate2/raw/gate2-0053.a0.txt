@@ -1,0 +1,94 @@
+NC Infant-Toddler Program IFSP Review — Fictional Record
+Tipo de reunión: Revisión bilingüe  Document status: Synthetic testing document  Meeting date: [[DATE|3 de mayo de 2025]]
+Child: [[CHILD|Solina Vega]]  Preferred name: [[CHILD|Soli]]  Initials: [[CHILD|SV]]  DOB: [[DATE|3 de marzo de 2023]]
+Chronological age: [[KEEP|26 months]]  Child record: [[ID|ITP-580241]]  Medicaid: [[MEDICAID_ID|582741036R]]
+Review location: Family home  Address: [[PLACE|418 Lantern Plum Lane]]  Town: [[PLACE|Mossbridge]]  State: North Carolina  ZIP: [[PLACE|27843]]
+County: [[PLACE|Bellroot County]]  Home languages: Spanish and English  Family preference: Conversación en ambos idiomas, written summaries mainly in Spanish
+
+Información familiar
+Mother: [[PARENT|Anela Vega]]  Father: [[PARENT|Tomás Cárdenas]]  Legal guardians: Both parents  Contact preference: Text before calling
+Mother’s mobile: [[PHONE|(252) 555-0146]]  Father’s mobile: [[PHONE|252.555.0183]]  Family email: [[EMAIL|vega.family@example.test]]
+Emergency caregiver: abuela [[FAMILY|Maribel Vega]]  Local phone: [[PHONE|+1 252 555 0161]]
+Additional contact: tía [[FAMILY|Celina Duarte]]  Mexican phone: [[PHONE|+52 55 5555 0107]]  Contact permission: Emergencies only
+Sibling: hermano [[SIBLING|Nicolás Cárdenas]]  School: [[SCHOOL|Silver Acorn Elementary]]  Household pet: dog [[PET|Chispa]]
+Backup caregiver: babysitter [[FAMILY|Lidia Paredes]]  Transportation helper: neighbor [[PERSON|Bruno Almazán]]
+
+The family rents its home and shares evening meals when work schedules permit. Both parents attended this review. Abuela [[FAMILY|Maribel Vega]] joined by telephone with parental permission. The family wants familiar caregivers included in practice because each adult uses slightly different words during meals and play. Parents requested that staff pronounce [[CHILD|Solina Vega]]’s name as the family does.
+
+Trabajo de los padres
+Mother’s current workplace: store [[ORG|Copper Finch Market]]  Spanish description: la tienda [[ORG|Copper Finch Market]]
+Mother’s weekend workplace: restaurant [[ORG|Golden Spoon Patio]]  Spanish description: el restaurante [[ORG|Golden Spoon Patio]]
+Mother’s occasional workplace: cleaning service [[ORG|Clear Basket Cleaning]]  Spanish description: el servicio de limpieza [[ORG|Clear Basket Cleaning]]
+Father’s current workplace: factory [[ORG|River Lantern Packaging Plant]]  Spanish description: la planta [[ORG|River Lantern Packaging Plant]]
+Father’s seasonal workplace: farm [[ORG|Three Pear Rows Farm]]  Spanish description: la finca [[ORG|Three Pear Rows Farm]]
+Father’s occasional workplace: construction company [[ORG|Cedar Kite Construction]]  Spanish description: la compañía de construcción [[ORG|Cedar Kite Construction]]
+
+These entries describe current and occasional work, not simultaneous full-time jobs. Mother receives her schedule weekly. Father sometimes accepts short shifts when regular work ends early. The family prefers home visits after breakfast. Si cambia el turno, the coordinator should offer another appointment within the same week when available.
+
+Equipo y coordinación
+Service coordinator: Ms. [[PROVIDER|Nerea Valdés]]  CDSA office: [[AGENCY|Bellroot Infant Development CDSA]]
+Office address: [[PLACE|72 Sparrowglass Avenue]]  Town: [[PLACE|Mossbridge]]  State: North Carolina  ZIP: [[PLACE|27843]]
+Coordinator phone: [[PHONE|252-555-0128]]  Email: [[EMAIL|n.valdes@bellroot-cdsa.example.test]]
+Clinician: [[PROVIDER|Elisa Monteluz]], MS, CCC-SLP  Role: Bilingual pediatric speech-language pathologist
+Clinician employer: [[EMPLOYER|Little Estuary Speech Partners]]  Direct phone: [[PHONE|+1 (252) 555-0194]]
+Interpreter, if requested: [[PROVIDER|Dalia Benítez]]  Resource URL: [[URL|https://bellroot-cdsa.example.test/familias]]
+
+The coordinator will maintain the service calendar, explain notices in the family’s preferred language, and connect providers with parental consent. The clinician completed this review using Spanish and English. Parents confirmed that they understood the discussion and had time to describe priorities without interruption.
+
+Preocupaciones y prioridades de la familia
+Mother stated, “Quiero entender lo que necesita sin tener que adivinar. Cuando dice [[KEEP|"agua"]], sometimes she means the cup, sometimes the sink.”
+Father stated, “En la cena quiero que pueda pedir [[KEEP|"más"]], and tell us when she is done.”
+Both parents stated, “No queremos perder el español. Queremos que participe con otros niños y que nos mire cuando compartimos algo.”
+
+The family’s first priority is easier communication during meals. Its second priority is comfortable participation in group play. Its third priority is a calmer bedtime routine. Parents report frustration when adults ask repeated questions before helping. They want practical examples, con palabras que usamos nosotros, and practice that fits ordinary activities.
+
+Rutinas diarias
+Wake-up: [[TIME|6:45 a.m.]]  Breakfast: [[TIME|7:15 AM]]  Group arrival: [[TIME|08:10]]  Evening meal: [[TIME|6:20 p.m.]]
+Bath: [[TIME|19:05]]  Bedtime routine begins: [[TIME|7:40 PM]]  Typical lights-out: [[TIME|20:15]]
+
+At breakfast, [[CHILD|Soli]] chooses between oatmeal and fruit by reaching. An adult names each option and waits. During dressing, she brings shoes and enjoys a short song. At departure, she may cry when the routine changes. A picture of the next activity helps her approach the door.
+
+During group play, she watches classmates [[PEER|Ivo Salcedo]] and [[PEER|Mila Arce]] before joining. Teacher Ms. [[TEACHER|Renata Solís]] offers a nearby activity. Classroom assistant Mr. [[TEACHER|Omar Vela]] reports that gestures work well during cleanup. At home, hermano [[SIBLING|Nicolás Cárdenas]] rolls a ball and waits for another turn. The family will practice communication during these existing routines.
+
+Other agencies / Otros apoyos
+Early learning setting: [[DAYCARE|The Moon’s Blue Teacup]]  Attendance: Weekday mornings  Classroom contact: Ms. [[TEACHER|Renata Solís]]
+Nutrition support: [[AGENCY|Bellroot Family WIC]]  Community support: [[AGENCY|Mossbridge Little Steps Partnership]]
+Primary care clinic: [[HOSPITAL|Lantern Brook Children’s Center]]  Pediatrician: Dr. [[PROVIDER|Aurelio Paz]]
+Prior community visit: [[DATE|el martes 4 de junio de 2024]]  Records reviewed: [[DATE|04/29/2025]]
+
+Parents authorized coordination with these programs. No other active therapy was reported. The coordinator will request the latest hearing screening result and share the routine plan with classroom staff.
+
+Evaluación y observaciones
+Initial IFSP date: [[DATE|3 de marzo de 2025]]  Assessment date: [[DATE|2025-02-24]]  Review observation: [[DATE|05/03/2025]]
+Birth history, parent report: Gestational age [[KEEP|39 weeks, 2 days]]  Birth weight: [[KEEP|3,180 g]]
+Apgar at one minute: [[KEEP|8]]  Apgar at five minutes: [[KEEP|9]]
+
+Assessment: [[KEEP|PLS-5 Spanish]]  Subtest: [[KEEP|Auditory Comprehension]]  Standard score: [[KEEP|79]]  Percentile: [[KEEP|8th]]
+Subtest: [[KEEP|Expressive Communication]]  Standard score: [[KEEP|76]]  Percentile: [[KEEP|5th]]
+Total Language standard score: [[KEEP|77]]  Confidence level: [[KEEP|95%]]  Confidence interval: [[KEEP|73–83]]
+Reported age equivalent: [[KEEP|20 months]]  Clinical diagnosis: [[KEEP|F80.2]]
+
+Scores support the assessment discussion and do not alone define participation. The clinician considered language exposure, caregiver examples, gestures, and direct observation. During play, [[CHILD|Solina Vega]] followed familiar directions in [[KEEP|4/6]] opportunities with [[KEEP|min cues]]. She used [[KEEP|"mamá"]], [[KEEP|"no"]], and [[KEEP|"wa"]]. The last production referred to water. Speech included [w]-like movement, documented as [[KEEP|[w]]]. No isolated practice of [[KEEP|/k/]] or [[KEEP|/ɾ/]] is planned.
+
+Resultados y estrategias
+Outcome number: [[KEEP|1]]  Routine: Meals  Target date: [[DATE|08/03/2025]]
+Outcome: [[CHILD|Soli]] will request food, drink, or another serving using a gesture, picture, or word in [[KEEP|8/10]] opportunities across familiar meals.
+
+Adults will offer visible choices, pause, and respond to any clear attempt. Models include [[KEEP|"más"]], [[KEEP|"agua"]], and [[KEEP|"more"]]. Start with [[KEEP|mod cues]] and reduce assistance as participation increases. Parents will record one brief example after dinner. The clinician will coach through observation and feedback.
+
+Outcome number: [[KEEP|2]]  Routine: Shared play  Target date: [[DATE|August 3, 2025]]
+Outcome: [[CHILD|Solina Vega]] will exchange turns with an adult or peer in [[KEEP|3 of 5]] play opportunities with [[KEEP|min cues]].
+
+Use balls, blocks, and simple pretend play. Model [[KEEP|"mi turno"]], [[KEEP|"tu turno"]], and [[KEEP|"go"]]. Follow the child’s interest, imitate actions, and wait. Strategies from [[KEEP|Hanen]] will support caregiver responsiveness. Classroom staff will describe participation during ordinary play, including whether the child approaches, stays, and returns after a break.
+
+Outcome number: [[KEEP|3]]  Routine: Bedtime  Target date: [[DATE|2025/08/03]]
+Outcome: [[CHILD|Soli]] will communicate a choice or request help during the bedtime sequence in [[KEEP|80%]] of observed opportunities.
+
+Offer two books and show the next activity. Accept pointing, sounds, and words. Model [[KEEP|"ayuda"]], [[KEEP|"libro"]], and [[KEEP|"help"]]. Begin with [[KEEP|max cues]] only when needed. Parents will note which supports reduce frustration. The team will adjust strategies during visits.
+
+Servicios, fechas y seguimiento
+Speech-language service: Home coaching  Frequency: Weekly  Visit length: 45 minutes  Start: [[DATE|05/07/2025]]  End: [[DATE|08-06-2025]]
+Scheduled session start: [[TIME|9:00 a.m.]]  Scheduled session stop: [[TIME|9:45 a.m.]]  Procedure: [[KEEP|92507]]  Modifier: [[KEEP|GN]]
+Authorization: [[ID|AUTH-250507-SL84]]  Coordinator follow-up: [[DATE|21 de mayo de 2025]]  Next review: [[DATE|08/03/2025]]
+
+The family agreed to these outcomes and services. Providers will review progress through caregiver examples and routine observations. Parents may request changes when priorities or schedules change. A Spanish summary will accompany the completed review. Verbal agreement documented by [[PROVIDER|Elisa Monteluz]] on [[DATE|May 3, 2025]].

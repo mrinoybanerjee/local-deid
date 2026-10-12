@@ -1,0 +1,23 @@
+NOTA DE SESIÓN DIARIA / DAILY SESSION NOTE
+
+Fecha: [[DATE|March 3, 2026]]  Hora: [[TIME|10:30 AM]]
+Cliente: [[CHILD|Mateo del Río]], edad [[KEEP|4;2]]
+Medicaid ID: [[MEDICAID_ID|904271583A]]  Insurance Member ID: [[ID|YPK804521773]]
+NC ITP Child ID: [[ID|22-04871]]  Record/Auth #: [[ID|A2026-00317]]
+Provided via [[EMPLOYER|Triangle Pediatric Therapy Partners]].
+
+Setting: [X] Home  [ ] Daycare  [ ] Clinic
+
+S: Su mamá, [[PARENT|Lucía Gómez-Fernández]], reporta que [[CHILD|Mateo]] durmió bien y "comió todo el desayuno." She says he had a follow-up at [[HOSPITAL|Novant Health Pediatric ENT & Audiology – Mint Hill Campus]] last week, per referral from the [[HOSPITAL|Atrium Health Levine Children's Hospital]] NICU team. Su abuela, [[FAMILY|Carmen Torres]], was also present and helped with the transition.
+
+O: Session held at home, [[PLACE|412 Birchwood Lane, Garner]], NC [[PLACE|27529]]. Reviewed goals with interpreter [[PROVIDER|Ana Beltrán]] present for family communication. [[CHILD|Mateo]] produced [[KEEP|/k/]] in isolation with [[KEEP|mod cues]], [[KEEP|6/10]] trials, imitating "[[KEEP|casa]]" and "[[KEEP|key]]" using a [[KEEP|PROMPT]] approach. Articulation probe: target [[KEEP|/s/]] produced as [[KEEP|[t]]] in [[KEEP|3/5]] words.
+
+Referral coordination continues with the [[AGENCY|Agencia de Coordinación de Servicios para el Desarrollo Infantil Temprano del Condado de Wake (ACSDITCW)]] regarding IFSP Outcome [[KEEP|#2]], review scheduled [[DATE|April 2, 2026]]. Mother works at [[ORG|Carolina Linen & Uniform Supply]]; sibling [[SIBLING|Isabela del Río]] observed part of the session. Daycare teacher [[TEACHER|Mrs. Patterson]] sent a note re: peer [[PEER|Noah]] modeling turn-taking during group play.
+
+A: [[CHILD|Mateo]] shows emerging [[KEEP|/k/]] production with [[KEEP|mod cues]]; stimulable for [[KEEP|/s/]] with [[KEEP|max cues]]. Consistent with [[KEEP|Phonological Process Disorder]] per [[KEEP|ICD-10 F80.0]].
+
+P: Continue [[KEEP|2x/week]] per authorization; contact [[AGENCY|ACSDITCW]] service coordinator [[PROVIDER|Marcus Whitfield-Nguyen]] re: renewal. Next visit [[DATE|March 10, 2026]], [[TIME|2:00 PM]].
+
+Billed: [[KEEP|CPT 92507]].
+
+[[PROVIDER|Sarah Whitfield, MS, CCC-SLP]]

@@ -1,0 +1,93 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+Individualized Family Service Plan (IFSP) — Annual Review
+
+Child: [[CHILD|Mateo Alejandro Cruz Ramírez]] ("[[CHILD|Teo]]")
+Date of Birth: [[DATE|August 14, 2024]]
+Child ID: [[ID|NC-IT-884512]]
+Medicaid ID: [[MEDICAID_ID|745291638B]]
+IFSP Review Meeting Date: [[DATE|October 9, 2026]]
+Initial IFSP Date: [[DATE|November 18, 2025]]
+Most Recent Evaluation: [[DATE|September 22, 2026]]
+CDSA Office: [[AGENCY|CDSA of the Sandhills]], [[PLACE|Fayetteville]], [[PLACE|Cumberland County]]
+Service Coordinator: [[PROVIDER|Angela Byrd]], [[AGENCY|CDSA of the Sandhills]]
+Family Address: [[PLACE|1402 Cardinal Ridge Lane]], [[PLACE|Hope Mills]], NC [[PLACE|28348]]
+
+FAMILY INFORMATION
+
+[[CHILD|Teo]] lives with his mother, [[PARENT|Lucía Fernanda Torres Medina]], his father, [[PARENT|Carlos Andrés Torres Delgado]], his older sister, [[SIBLING|Rosa Isabel Torres Medina]] (age 6), and his younger brother, [[SIBLING|Sol]] (age 1). His maternal grandmother, [[FAMILY|Esperanza Medina Ruiz]], lives nearby and provides childcare three mornings a week. The family's dog, [[PET|Rocky]], is frequently referenced by [[CHILD|Teo]] during play-based sessions. [[PARENT|Lucía Fernanda Torres Medina]] works part-time at [[ORG|Fayetteville Regional Medical Billing]], and [[PARENT|Carlos Andrés Torres Delgado]] is employed at [[ORG|Butler Logistics Group]] in [[PLACE|Fayetteville]]. The family is bilingual, speaking Spanish at home and English with extended family and community members. [[CHILD|Teo]] was born at [[HOSPITAL|Cape Fear Valley Medical Center]]; his pediatrician is [[PROVIDER|Dr. Htet Aung]].
+
+CONTACT TABLE
+
+Name	Role	Phone	Email
+[[PARENT|Lucía Fernanda Torres Medina]]	Mother	[[PHONE|(910) 555-2847]]	[[EMAIL|lucia.torresmedina@example.com]]
+[[PARENT|Carlos Andrés Torres Delgado]]	Father	[[PHONE|(910) 555-9163]]	[[EMAIL|carlos.torres84@example.com]]
+[[FAMILY|Esperanza Medina Ruiz]]	Grandmother / Caregiver	[[PHONE|(910) 555-6630]]	N/A
+[[PROVIDER|Angela Byrd]]	Service Coordinator, [[AGENCY|CDSA of the Sandhills]]	[[PHONE|(910) 555-7420]]	[[EMAIL|angela.byrd@cdsasandhills.org]]
+[[PROVIDER|Maria Elena Vásquez]], M.S., CCC-SLP	Bilingual SLP, [[EMPLOYER|Carolina Bilingual Speech and Language Therapy, PLLC]]	[[PHONE|(910) 555-3301]]	[[EMAIL|mvasquez@carolinabilingualtherapy.com]]
+[[PROVIDER|Ana Beltrán]]	Spanish Interpreter	[[PHONE|(910) 555-4412]]	N/A
+[[TEACHER|Ms. Patterson]]	Lead Teacher, [[DAYCARE|Little Sprouts Bilingual Daycare]]	[[PHONE|(910) 555-8820]]	N/A
+
+FAMILY CONCERNS AND PRIORITIES
+
+At the review meeting, [[PARENT|Lucía Fernanda Torres Medina]] shared, "I worry that [[CHILD|Teo]] doesn't ask for things the way [[SIBLING|Rosa Isabel Torres Medina]] did at this age. He points and grunts, but he doesn't use many words yet, and strangers can't understand him at all." [[PARENT|Carlos Andrés Torres Delgado]] added, "At home we speak Spanish, and he understands everything we say to him. I want him to talk clearly in both languages so he doesn't fall behind when he starts school." The family's top priorities for this review period are: (1) increasing [[CHILD|Teo]]'s expressive vocabulary in both Spanish and English, (2) improving intelligibility of consonant sounds so that [[FAMILY|Esperanza Medina Ruiz]] and extended family can understand him, and (3) supporting turn-taking and play skills with [[SIBLING|Rosa Isabel Torres Medina]] and peers at [[DAYCARE|Little Sprouts Bilingual Daycare]].
+
+DAILY ROUTINES
+
+[[CHILD|Teo]] wakes around [[TIME|6:45 AM]] and eats breakfast with [[SIBLING|Rosa Isabel Torres Medina]] before [[PARENT|Lucía Fernanda Torres Medina]] drops both children at [[DAYCARE|Little Sprouts Bilingual Daycare]] by [[TIME|7:30 AM]]. He naps from approximately [[TIME|12:30 PM]] to [[TIME|2:00 PM]] and is picked up around [[TIME|5:15 PM]]. Dinner is a shared family routine around [[TIME|6:00 PM]], during which [[PARENT|Carlos Andrés Torres Delgado]] reports [[CHILD|Teo]] is most verbal, often naming foods and requesting more. Bath time at [[TIME|7:30 PM]] and bedtime stories at [[TIME|8:00 PM]] are also noted as high-engagement routines for language targets.
+
+OTHER AGENCIES INVOLVED
+
+The family receives nutrition support through the [[AGENCY|Cumberland County WIC Program]] and has an open case with [[AGENCY|Cumberland County Department of Social Services]] for housing assistance referrals. [[PARENT|Lucía Fernanda Torres Medina]] also attends parenting workshops through [[AGENCY|Smart Start of Cumberland County]]. [[CHILD|Teo]]'s hearing was most recently screened by [[PROVIDER|Dr. Htet Aung]] at [[HOSPITAL|Cape Fear Valley Medical Center]] and was within normal limits bilaterally.
+
+PRESENT LEVELS OF DEVELOPMENT — SPEECH-LANGUAGE
+
+[[CHILD|Teo]] was assessed using the [[KEEP|Preschool Language Scale, Fifth Edition]] ([[KEEP|PLS-5]], English and Spanish forms) and the [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]]). Diagnostic impression: [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder).
+
+Score Table
+
+Subtest	Standard Score	Percentile	Age Equivalent
+[[KEEP|Auditory Comprehension]] (English)	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|20 months]]
+[[KEEP|Expressive Communication]] (English)	[[KEEP|71]]	[[KEEP|3rd]]	[[KEEP|18 months]]
+[[KEEP|Auditory Comprehension]] (Spanish)	[[KEEP|83]]	[[KEEP|13th]]	[[KEEP|22 months]]
+[[KEEP|Expressive Communication]] (Spanish)	[[KEEP|76]]	[[KEEP|5th]]	[[KEEP|19 months]]
+[[KEEP|GFTA-3]] Sounds-in-Words	[[KEEP|65]]	[[KEEP|1st]]	N/A
+
+[[CHILD|Teo]] is currently [[KEEP|2;2]] (chronological age), functioning in the [[KEEP|18–22 month]] range expressively across both languages, consistent with a dual diagnosis of language delay and a motor speech component. Phonemic inventory is limited primarily to [[KEEP|/m/]], [[KEEP|/b/]], [[KEEP|/p/]], and [[KEEP|/w/]], with frequent [[KEEP|gliding]] and [[KEEP|final consonant deletion]]. During the session on [[DATE|September 22, 2026]], [[CHILD|Teo]] produced word-initial [[KEEP|/k/]] correctly in [[KEEP|8/10]] trials ([[KEEP|80%]]) with [[KEEP|minimal cues]], a notable gain from baseline.
+
+Play-based language sampling captured spontaneous productions. When reaching for the family dog toy, [[CHILD|Teo]] said, "[[PET|Rocky]] go," approximating the target and demonstrating emerging two-word combinations. Later, imitating a video of his brother, he attempted the phrase "[[SIBLING|Sol]] wun," gliding [[KEEP|/r/]] to [[KEEP|/w/]] in the target. These samples were coded using SALT conventions, including [[KEEP|[EW]]] for an early word attempt and [[KEEP|[CS]]] to mark a code-switch between Spanish and English within the same utterance.
+
+Receptively, [[CHILD|Teo]] followed [[KEEP|2-step]] directions in Spanish in [[KEEP|9/10]] trials and in English in [[KEEP|6/10]] trials, suggesting stronger comprehension in his home language, consistent with typical bilingual development patterns rather than a language-specific deficit.
+
+IFSP OUTCOMES AND STRATEGIES
+
+Outcome [[KEEP|1]]: [[CHILD|Teo]] will increase expressive vocabulary to 50+ words across Spanish and English, used spontaneously during daily routines, as measured by parent report and direct observation, by [[DATE|April 9, 2027]].
+
+Strategies: Use core vocabulary boards during meals and bath time; model two-word combinations ("[[KEEP|more juice]]," "[[KEEP|Rocky go]]") in both languages; encourage [[PARENT|Lucía Fernanda Torres Medina]] and [[PARENT|Carlos Andrés Torres Delgado]] to narrate routines aloud; coach [[FAMILY|Esperanza Medina Ruiz]] on expectant pausing strategies during caregiving.
+
+Outcome [[KEEP|2]]: [[CHILD|Teo]] will produce word-initial [[KEEP|/k/]], [[KEEP|/g/]], and [[KEEP|/t/]] in single words with 80% accuracy across three consecutive sessions, as measured by SLP data collection, by [[DATE|April 9, 2027]].
+
+Strategies: Use [[KEEP|minimal pair]] contrast drills; incorporate [[KEEP|PROMPT]] tactile cueing for placement; practice target sounds embedded in high-frequency words such as names of family members and preferred toys; home practice sheet shared with family in Spanish and English.
+
+Outcome [[KEEP|3]]: [[CHILD|Teo]] will engage in reciprocal 3–4 turn play exchanges with [[SIBLING|Rosa Isabel Torres Medina]] and peers at [[DAYCARE|Little Sprouts Bilingual Daycare]], as measured by classroom observation, by [[DATE|April 9, 2027]].
+
+Strategies: Implement [[KEEP|Hanen]]-based "OWL" (observe, wait, listen) strategies during free play; use visual supports for turn-taking; collaborate with [[TEACHER|Ms. Patterson]] on embedding target vocabulary into circle time; use peer modeling with classmate [[PEER|Jayden Oliveira]], who demonstrates strong turn-taking skills.
+
+SERVICE SCHEDULE
+
+Service	Frequency/Duration	CPT Code	Provider	Start Date	Session Time
+Speech-Language Treatment (home)	2x/week, 30 min	[[KEEP|92507]]	[[PROVIDER|Maria Elena Vásquez]]	[[DATE|October 14, 2026]]	[[TIME|9:00 AM]]–[[TIME|9:30 AM]]
+Speech-Language Treatment (daycare)	1x/week, 30 min	[[KEEP|92507]]	[[PROVIDER|Maria Elena Vásquez]]	[[DATE|October 15, 2026]]	[[TIME|1:15 PM]]–[[TIME|1:45 PM]]
+Speech-Language Evaluation (annual)	1x/year	[[KEEP|92523]]	[[PROVIDER|Maria Elena Vásquez]]	[[DATE|September 22, 2026]]	[[TIME|10:00 AM]]–[[TIME|11:00 AM]]
+Service Coordination	Monthly contact	N/A	[[PROVIDER|Angela Byrd]]	[[DATE|November 18, 2025]]	[[TIME|3:00 PM]]
+Interpreter Support	As scheduled	N/A	[[PROVIDER|Ana Beltrán]]	[[DATE|October 14, 2026]]	[[TIME|9:00 AM]]
+
+Service delivery location: family home at [[PLACE|1402 Cardinal Ridge Lane]], [[PLACE|Hope Mills]], NC [[PLACE|28348]], and [[DAYCARE|Little Sprouts Bilingual Daycare]], located at [[PLACE|215 Persimmon Street]], [[PLACE|Hope Mills]], NC [[PLACE|28348]].
+
+ADDITIONAL NOTES
+
+[[PARENT|Lucía Fernanda Torres Medina]] requested that all written home-practice materials be provided bilingually, as she reports more confidence modeling Spanish targets with [[CHILD|Teo]] and [[SIBLING|Sol]] during daily caregiving. [[PROVIDER|Maria Elena Vásquez]] will continue co-treating sessions in both languages consistent with the family's communication priorities, in coordination with [[AGENCY|CDSA of the Sandhills]] and [[DAYCARE|Little Sprouts Bilingual Daycare]] staff.
+
+Next IFSP Review scheduled for [[DATE|April 9, 2027]] at [[TIME|10:00 AM]] at the [[AGENCY|CDSA of the Sandhills]] office, [[PLACE|Fayetteville]].
+
+Report prepared by: [[PROVIDER|Maria Elena Vásquez]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist, [[EMPLOYER|Carolina Bilingual Speech and Language Therapy, PLLC]] ("[[EMPLOYER|Carolina Bilingual Therapy]]," [[EMPLOYER|CBSLT]])
+Date of Report: [[DATE|October 9, 2026]]

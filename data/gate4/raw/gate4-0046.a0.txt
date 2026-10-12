@@ -1,0 +1,133 @@
+NC Infant-Toddler Program  
+Individualized Family Service Plan Review and Communication Evaluation
+
+Child: [[CHILD|Elian Mateo Serrano]], called [[CHILD|Eli]] at home  
+Birth date: [[DATE|January 14, 2024]]  
+Age at evaluation: [[KEEP|32 months]]  
+Evaluation date: [[DATE|September 18, 2026]]  
+IFSP review date: [[DATE|October 2, 2026]]  
+Next review: [[DATE|April 2, 2027]]  
+Child record: [[ID|ITP-260918-0472]]  
+Medicaid member number: [[MEDICAID_ID|845731206Q]]
+
+This fictional review describes communication, participation, and family priorities. All personal details, organizations, locations, and clinical results are invented for testing.
+
+The evaluation occurred at the family home in [[PLACE|Willowmere]], North Carolina. The session began at [[TIME|9:10 a.m.]] and ended at [[TIME|10:25 a.m.]]. The family approved observation during breakfast, play, dressing, and a transition outside.
+
+The clinician was [[PROVIDER|Marisol Vega]], MS, CCC-SLP, a bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Little Lantern Pediatric Communication]]. The clinician used English and Spanish during play. Interpreter [[PROVIDER|Celia Duarte]] supported the review discussion and checked the meaning of family statements.
+
+Family information
+
+Parents [[PARENT|Lucía Serrano]] and [[PARENT|Andrés Molina]] share care of [[CHILD|Elian]]. The family lives at [[PLACE|418 Juniper Lantern Lane]], [[PLACE|Willowmere]], North Carolina [[PLACE|27547]], in [[PLACE|Pine Harbor County]]. The preferred telephone number is [[PHONE|919-555-0147]]. The family email is [[EMAIL|lucia.serrano@example.com]].
+
+Mother [[PARENT|Lucía Serrano]] works two jobs: an early shift at [[ORG|RVC]] and evening laundry work at [[ORG|Sunbasket Linen Services]]. The first workplace is recorded only by its acronym. Father [[PARENT|Andrés Molina]] works variable daytime shifts at [[ORG|Copper Finch Packaging]].
+
+Sister [[SIBLING|Inés Molina]] joins evening play. Grandmother [[FAMILY|Rosa Serrano]] provides care when the parents’ shifts overlap. Babysitter [[FAMILY|Nadia Ponce]] helps on some Saturdays. The family dog, [[PET|Tavi]], often joins floor play.
+
+Spanish is the main home language. English is common at daycare. The family wants services that support both languages and does not want either language removed from daily routines.
+
+Service coordinator and CDSA office
+
+Service coordinator [[PROVIDER|Daniela Ríos]] works through [[AGENCY|Pine Harbor Children’s Developmental Services Agency]], the local CDSA office. The office address is [[PLACE|72 Meadowglass Court]], [[PLACE|Willowmere]], North Carolina [[PLACE|27547]]. Its telephone number is [[PHONE|984-555-0126]].
+
+The coordinator will arrange visits, check access to services, and help the family prepare for transition planning. The family prefers telephone contact after [[TIME|1:30 p.m.]]. Written reminders may go to the family email. Visits should avoid the mother’s work changeover.
+
+Background and health information
+
+The parents reported a birth at [[HOSPITAL|Meadowglass Women’s and Children’s Hospital]] following [[KEEP|38 weeks, 2 days]] of gestation. Birth weight was [[KEEP|6 lb 14 oz]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. These details came from family history and were not verified against hospital records.
+
+Pediatrician Dr. [[PROVIDER|Owen Bell]] at [[HOSPITAL|Willowmere Children’s Health Center]] last saw [[CHILD|Elian]] on [[DATE|August 21, 2026]]. The family reported no current feeding restrictions or prescribed mobility equipment. They described occasional ear infections and requested help arranging hearing follow-up.
+
+Occupational therapist [[PROVIDER|Priya Nand]] reviewed sensory participation during dressing. Physical therapist [[PROVIDER|Marcus Hale]] reviewed playground access and stair use. Their observations support routine planning but do not constitute new standardized motor evaluations.
+
+Family concerns and priorities
+
+Mother [[PARENT|Lucía Serrano]] said, “I want him to tell us what hurts and what he needs. When I come home tired, I guess too much.”
+
+Father [[PARENT|Andrés Molina]] said, “He understands our usual things, but new instructions are hard. I want him to ask for help before he throws something.”
+
+Grandmother [[FAMILY|Rosa Serrano]] said, “I want breakfast to feel calm. He points at the cupboard, and I bring the wrong cup.”
+
+The parents identified three priorities: clearer requests, easier transitions, and participation with other children. They want practical activities that fit work schedules. They prefer short practice within existing routines instead of separate homework.
+
+The family values shared meals, music, outdoor play, and visits with relatives. They want adults to recognize communication through gestures, sounds, and words. They also want daycare staff to use familiar Spanish words when those words help participation.
+
+The family requested an interpreter for planning meetings involving unfamiliar terms. They asked providers to explain recommendations in ordinary language and demonstrate them before leaving written instructions.
+
+Daily routines and participation
+
+Breakfast usually begins at [[TIME|6:45 a.m.]]. [[CHILD|Elian]] chooses between cups by reaching or pointing. He sometimes says “[[KEEP|más]]” and “[[KEEP|agua]]”. Adults often anticipate his request before he finishes communicating. The family plans to pause briefly and accept any clear attempt.
+
+Daycare arrival is near [[TIME|8:20 a.m.]]. [[CHILD|Elian]] attends [[DAYCARE|Bright Acorn Early Learning House]], in Ms. [[TEACHER|Lopez]]’s room. Teacher [[TEACHER|Alicia Lopez]] reported that familiar arrival steps help him separate from caregivers.
+
+Classroom assistant [[TEACHER|Benita Cole]] helps with coat storage and handwashing. Classmates [[PEER|Milo Chen]] and [[PEER|Sofia Patel]] often offer toy vehicles. [[CHILD|Elian]] watches them closely but may take a vehicle without looking toward its owner.
+
+Lunch occurs near [[TIME|11:30 a.m.]]. He feeds himself familiar foods and requests preferred items through pointing. A rest period begins around [[TIME|12:15 p.m.]]. Transitions improve when adults show the next object and give time to respond.
+
+Evening play starts around [[TIME|6:10 p.m.]]. Sister [[SIBLING|Inés Molina]] likes pretend cooking. [[CHILD|Elian]] brings her plates and copies stirring. During dog play, he said, “[[PET|Tavi]] go.” The family understood this as a request to continue the game.
+
+Bath begins near [[TIME|7:20 p.m.]], followed by books. Dressing can be difficult when sleeves catch on his hands. He pulls away instead of asking for assistance. Bedtime is usually [[TIME|8:15 p.m.]], with songs in both languages.
+
+Evaluation procedures and score summary
+
+The clinician completed the [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]), caregiver interview, a bilingual play sample, and routine observation. English standardized administration preceded supported Spanish exploration. Spanish responses helped describe skills but did not replace standardized scoring rules.
+
+The table presents fictional descriptive results. Confidence intervals use the [[KEEP|90%]] level.
+
+| Test or subtest | Standard score | Percentile | Confidence interval | Age-equivalent range |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|73-83]] | [[KEEP|1;10–2;2]] |
+| [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] | [[KEEP|74]] | [[KEEP|4th percentile]] | [[KEEP|69–81]] | [[KEEP|1;6–1;10]] |
+| [[KEEP|PLS-5]] [[KEEP|Total Language]] | [[KEEP|75]] | [[KEEP|5th percentile]] | [[KEEP|70-82]] | [[KEEP|1;8–2;0]] |
+
+Age equivalents describe test performance and do not define the child’s overall developmental age. The ranges above are planning descriptors. They should not guide placement by themselves.
+
+During supported pretend play, performance resembled tasks commonly associated with [[KEEP|2;6–3;0]], although this was not a standardized age-equivalent result. The clinician considered both languages, learning opportunities, caregiver reports, and observed participation when interpreting the scores.
+
+Communication findings
+
+[[CHILD|Elian]] followed familiar directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Novel directions were completed in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. He identified familiar objects more consistently when adults used gestures and allowed processing time.
+
+He communicated requests in [[KEEP|60%]] of observed opportunities through a word, sound, point, or combined gesture. Spoken combinations occurred less often than single words. Examples included “[[KEEP|more car]]”, “[[KEEP|mamá ven]]”, and “[[KEEP|no shoe]]”.
+
+A brief speech sample included “[[KEEP|wa]]” for “[[KEEP|water]]” and “[[KEEP|tat]]” for “[[KEEP|cat]]”. The clinician heard [​[[KEEP|w]]​] in several word attempts. Production of [[KEEP|/k/]] varied across familiar words. Spanish [[KEEP|/ɾ/]] was not a treatment priority.
+
+A transcript included the [[KEEP|SALT]] code [[KEEP|[EW]]] for an extra word. This transcription detail did not determine eligibility.
+
+Familiar adults understood approximately [[KEEP|70%]] of the observed sample. The interpreter understood approximately [[KEEP|45%]] without routine context. These estimates describe this visit and are not standardized scores.
+
+The pattern supports communication intervention addressing functional understanding, expression, and repair. Working diagnosis: [[KEEP|ICD-10 F80.2]]. Billing references include [[KEEP|CPT 92523]], [[KEEP|CPT 92507]], and modifier [[KEEP|GN]].
+
+Outcomes and strategies
+
+Outcome [[KEEP|1]]: During meals and play, [[CHILD|Elian]] will communicate a request or refusal in [[KEEP|8/10]] opportunities across three routine observations, with [[KEEP|min cues]].
+
+Adults will offer meaningful choices, wait, and respond to gestures as well as words. Models may include “[[KEEP|help]]”, “[[KEEP|more]]”, “[[KEEP|all done]]”, and “[[KEEP|ayuda]]”. Providers will use responsive interaction strategies informed by [[KEEP|Hanen]]. Picture choices may supplement speech without requiring imitation before access to an item.
+
+Outcome [[KEEP|2]]: During dressing and daycare transitions, [[CHILD|Elian]] will follow a familiar two-step routine in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]].
+
+Adults will show a simple picture sequence, name the immediate step, and allow a pause. The occupational therapist will help adapt sleeves and seating. The physical therapist will review stable positioning when shoes go on. Staff will reduce spoken instructions when the child appears overwhelmed.
+
+Outcome [[KEEP|3]]: During shared play, [[CHILD|Elian]] will initiate or respond to a peer in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]].
+
+Adults will arrange brief vehicle games and pretend cooking. Teacher Ms. [[TEACHER|Lopez]] will model “[[KEEP|my turn]]” and “[[KEEP|your turn]]”. Staff will support exchanges with [[PEER|Milo Chen]] and other willing classmates. Adults will accept pointing, offering an object, or looking toward a partner as participation.
+
+Outcome [[KEEP|4]]: During frustrating routines, [[CHILD|Elian]] will seek assistance or use a repair strategy in [[KEEP|80%]] of observed opportunities with [[KEEP|min cues]].
+
+Adults will model “[[KEEP|help me]]” and “[[KEEP|otra vez]]”. They will acknowledge the difficulty, offer a choice, and wait. Providers will record whether the child repeats, points, shows an object, or changes his message. The family will select examples that reflect useful progress.
+
+Services and dates
+
+Speech-language services will begin on [[DATE|October 5, 2026]] and continue through [[DATE|April 1, 2027]]. Visits will occur weekly for 45 minutes in the home or daycare. The usual session will run from [[TIME|9:00 a.m.]] to [[TIME|9:45 a.m.]].
+
+Occupational therapy consultation will begin on [[DATE|October 12, 2026]], monthly for 30 minutes. Physical therapy consultation will begin on [[DATE|October 19, 2026]], monthly for 30 minutes. The team will adjust consultation frequency through a documented IFSP review if participation needs change.
+
+Service coordination will continue from [[DATE|October 2, 2026]] through [[DATE|April 2, 2027]]. Interpreter support will accompany planning meetings and visits when requested. The coordinator will confirm scheduling before each unfamiliar provider attends.
+
+Other agencies and transition planning
+
+The family receives nutrition support from [[AGENCY|Pine Harbor Family Nutrition Office]]. [[AGENCY|Willowmere Early Connections Partnership]] offers library playgroups. [[AGENCY|Pine Harbor Family Support Services]] provided information about childcare assistance; no application outcome was verified.
+
+With family consent, the coordinator will contact [[SCHOOL|Meadowglass Primary School]] about transition planning. Proposed planning date: [[DATE|December 4, 2026]]. Consent permits sharing this review with named providers and daycare staff for coordination. Any additional release requires family authorization.
+
+The team will review routine examples, family satisfaction, and progress toward each outcome. The family approved this plan verbally with interpreter support. Their highest priority remains communication that works during ordinary family life.

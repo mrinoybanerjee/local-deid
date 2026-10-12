@@ -1,0 +1,107 @@
+MEMBER PROFILE: [[AGENCY|Carolina Piedmont Children's Developmental Services Agency]] (CDSA)  Referral Source:  Dra. [[PROVIDER|Patricia Núñez]], Pediatra  Report Date:  [[DATE|September 18, 2026]]
+
+Child's Name:  [[CHILD|María José Fuentes Alvarado]]  Preferred Name:  [[CHILD|Majo]]  Date of Birth:  [[DATE|April 2, 2022]]  Age at Evaluation:  [[KEEP|4;5]]  Sex:  Female  Medicaid ID:  [[MEDICAID_ID|WX48217639K]]  Case/Record ID:  [[ID|CPCDSA-2026-01184]]
+
+Parent/Guardian:  [[PARENT|Lucía Fuentes Beltrán]]  Relationship:  Madre biológica  Address:  [[PLACE|214 Willowbrook Lane]], [[PLACE|Siler City]], [[PLACE|NC]] [[PLACE|27344]]  Phone (home):  [[PHONE|(919) 555-0167]]  Phone (cell):  [[PHONE|(919) 555-8842]]  Email:  [[EMAIL|lucia.fuentes84@example.com]]
+
+Father:  [[PARENT|Héctor Fuentes Beltrán]]  Occupation:  Supervisor at [[ORG|Piedmont Poultry Processing]]  Primary Language(s):  Español, some English
+
+Evaluating Clinician:  [[PROVIDER|Marisol Castellanos-Reyes]], M.S., CCC-SLP, bilingual SLP  Employer (full legal name):  [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]  Employer (short form):  [[EMPLOYER|Carolina Bilingual Therapy]]  Employer (abbreviation):  [[EMPLOYER|CBTP]]  Interpreter Present:  No (clinician bilingual, Spanish-dominant evaluation conducted directly)  Evaluation Location:  [[AGENCY|CPCDSA]] satellite office, [[PLACE|Pittsboro]], [[PLACE|NC]]  Evaluation Date(s):  [[DATE|September 10, 2026]] and [[DATE|September 12, 2026]]  Evaluation Time:  [[TIME|9:30 AM]] to [[TIME|11:15 AM]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Majo]] was referred by her pediatrician, Dra. [[PROVIDER|Patricia Núñez]], after her mother [[PARENT|Lucía]] reported, en la cita de los [[KEEP|4 años]], que "mi hija casi no habla, y cuando habla nadie le entiende, ni yo." [[PARENT|Lucía]] noted that [[CHILD|Majo]]'s cousin [[FAMILY|Yamileth]], who is the same age, "ya habla oraciones completas" and that the family has started to worry about the gap. [[PARENT|Héctor Fuentes Beltrán]] added during intake that at home [[CHILD|Majo]] "se frustra mucho, llora y nos jala la ropa" when she cannot make herself understood. The family requested evaluation in both languages because [[CHILD|Majo]] is cared for primarily in Spanish at home but hears English from her older half-sister [[SIBLING|Daniela Beltrán]] and at the nonprofit after-school program she attends.
+
+BACKGROUND INFORMATION
+
+Historia de nacimiento y desarrollo (Birth and Developmental History): [[PARENT|Lucía Fuentes Beltrán]] reported an uncomplicated pregnancy with routine prenatal care at [[HOSPITAL|Chatham Regional Medical Center]]. [[CHILD|Majo]] was born at [[KEEP|39 weeks gestation]] via spontaneous vaginal delivery, birth weight [[KEEP|6 lbs 14 oz]], Apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes. No NICU stay was required. [[PARENT|Lucía]] reported that [[CHILD|Majo]] met early gross motor milestones within expected limits (sat sin apoyo around [[KEEP|6 months]], walked independently around [[KEEP|13 months]]) but that first words were delayed; mother recalls first recognizable word ("mamá") around [[KEEP|22 months]], with no combination of two words noted until closer to [[KEEP|3;6]].
+
+Historia médica (Medical History): [[CHILD|Majo]] had recurrent otitis media between ages [[KEEP|18]] and [[KEEP|30 months]], with pressure equalization (PE) tubes placed by Dr. [[PROVIDER|Randall Okafor]], ENT, at [[HOSPITAL|UNC Children's Specialty Clinic]] on [[DATE|March 3, 2025]]. Tubes extruded naturally and no further infections have been reported since early [[KEEP|2026]], per mother's report and confirmed in a letter from Dr. [[PROVIDER|Okafor]] dated [[DATE|June 11, 2026]]. Vision screening at the pediatrician's office was within normal limits on [[DATE|August 5, 2026]]. No seizure history, no significant illnesses, and family denies any genetic syndrome diagnosis. [[CHILD|Majo]] is up to date on immunizations per [[PARENT|Lucía]]'s report.
+
+Historia familiar y lingüística (Family and Language History): The household includes [[PARENT|Lucía]], [[PARENT|Héctor]], [[CHILD|Majo]], her half-sister [[SIBLING|Daniela Beltrán]] (age [[KEEP|11]]), and periodically the paternal grandmother [[FAMILY|Rosalba Beltrán Soto]], who helps with childcare "cuando yo trabajo turno de noche," per [[PARENT|Lucía]]. The family identifies Spanish as the primary home language; [[PARENT|Héctor]] reports limited English proficiency, while [[PARENT|Lucía]] described herself as "medio medio" — able to manage basic conversational English from working part-time at a local daycare laundry service. [[SIBLING|Daniela]] is reportedly fluent in both languages and often translates for her mother at medical appointments. The family regularly attends services at [[ORG|Iglesia Bautista Nueva Esperanza]] in [[PLACE|Siler City]], where [[CHILD|Majo]] participates in a toddler Sunday school class led by [[PERSON|Hermana Flor Patiño]]. The family also uses the [[AGENCY|Chatham County Smart Start]] home-visiting program, and a home visitor, [[PROVIDER|Araceli Domínguez, M.Ed.]], has been coming monthly since [[DATE|January 2026]] to support early literacy. [[CHILD|Majo]] additionally attends a twice-weekly bilingual playgroup at the [[AGENCY|Siler City Public Library]] run through a community literacy grant, where staff member [[PERSON|B. Hinton]] has noted that [[CHILD|Majo]] "mostly plays alone or points instead of talking to the other kids."
+
+Historia educativa (Educational History): [[CHILD|Majo]] does not currently attend a formal daycare or preschool program. The family had considered enrolling her at [[DAYCARE|Little Sprouts Bilingual Daycare]] in [[PLACE|Pittsboro]] but deferred enrollment pending this evaluation. She has had informal playdates with a neighbor's child, [[PEER|Esmeralda Chávez]], age [[KEEP|4]], whose mother reports that the two girls "communicate fine with gestures but Majo doesn't really talk even in Spanish with her."
+
+Pets: The family has a small dog named [[PET|Canela]], and [[PARENT|Lucía]] reported that [[CHILD|Majo]] often says "nene" when pointing at the dog, which the family believes may be an attempt at "Canela" or possibly a generalized word for animals; this was explored further during testing (see Articulation/Phonology section below).
+
+PROCEDURES ADMINISTERED
+
+Testing was conducted across two sessions at the [[AGENCY|CPCDSA]] satellite office in [[PLACE|Pittsboro]]. Session one focused on receptive and expressive language testing in Spanish; session two focused on English screening, articulation/phonology, and oral-motor examination. [[PARENT|Lucía]] was present for both sessions and provided informal translation checks when requested, though the clinician, [[PROVIDER|Marisol Castellanos-Reyes]], is fully bilingual and administered all Spanish-language measures directly without need for an interpreter.
+
+The following measures were administered:
+
+Preescolar Language Scale, Fifth Edition — Spanish Edition ([[KEEP|PLS-5 Spanish]])
+Clinical Evaluation of Language Fundamentals, Fifth Edition ([[KEEP|CELF-5]]) — select English subtests for cross-linguistic comparison
+Goldman-Fristoe Test of Articulation, Third Edition ([[KEEP|GFTA-3]]) — administered in Spanish with phonemic transcription
+Oral-motor and feeding screening (informal, clinician-developed checklist)
+Parent interview and language sample analysis (Spanish, [[KEEP|50]]-utterance sample)
+Hearing screening referral (deferred; recent audiological results reviewed from [[DATE|July 22, 2026]] visit at [[HOSPITAL|UNC Children's Specialty Clinic]], within normal limits bilaterally)
+
+TEST RESULTS
+
+Preescolar Language Scale-5 Spanish Edition ([[KEEP|PLS-5 Spanish]])
+
+Subtest                           Raw Score    Standard Score    Percentile Rank
+Auditory Comprehension            [[KEEP|18]]          [[KEEP|71]]               [[KEEP|3rd]]
+Expressive Communication          [[KEEP|14]]          [[KEEP|65]]               [[KEEP|1st]]
+Total Language Score              --           [[KEEP|66]]               [[KEEP|1st]]
+
+[[CHILD|Majo]]'s performance on the [[KEEP|PLS-5 Spanish]] fell within the severely delayed range for both receptive and expressive language, with a Total Language Score of [[KEEP|66]] ([[KEEP|1st percentile]]), consistent with a confidence interval of [[KEEP|61-71]]. During testing, [[CHILD|Majo]] was able to identify [[KEEP|6 of 10]] common objects by name receptively but used primarily single words and some gestures expressively. She produced phrases such as "[[KEEP|mas agua]]" (quiero más agua) and "[[KEEP|no quero]]" (no quiero) spontaneously, but struggled to combine more than two words consistently. Age equivalent for Expressive Communication was calculated at [[KEEP|24 months]], a gap of approximately [[KEEP|29 months]] from her chronological age of [[KEEP|4;5]].
+
+Clinical Evaluation of Language Fundamentals-5 ([[KEEP|CELF-5]]) — English Screening
+
+Given that [[CHILD|Majo]] has limited English exposure, only the Sentence Structure and Word Structure subtests were administered as a screening measure, with results interpreted cautiously given exposure history.
+
+Subtest                  Standard Score    Percentile
+Sentence Structure       [[KEEP|68]]               [[KEEP|2nd]]
+Word Structure            [[KEEP|70]]               [[KEEP|2nd]]
+
+These English scores are considered an underestimate of true ability given minimal English language exposure, and are included here only to document current functioning at the time of referral, not as evidence of a second, independent impairment.
+
+Goldman-Fristoe Test of Articulation-3 ([[KEEP|GFTA-3]]), administered in Spanish
+
+Raw Score: [[KEEP|34]]  Standard Score: [[KEEP|72]]  Percentile: [[KEEP|3rd]]
+
+Phonemic inventory analysis revealed inconsistent production of /r/ and /ɾ/ sounds, with frequent substitution of [[KEEP|[d]]] for [[KEEP|/ɾ/]] (e.g., "[[KEEP|do]]" for "[[KEEP|dos]]"... note: distinct from the error on "carro," below). Majo also demonstrated final consonant deletion in multisyllabic words, e.g., producing "[[KEEP|pa]]" for "[[KEEP|pan]]" and "[[KEEP|sol]]" correctly but "[[KEEP|flo]]" for "[[KEEP|flor]]." Cluster reduction was noted on words with /tr/ and /pl/ clusters, e.g., "[[KEEP|tes]]" for "[[KEEP|tres]]." She produced "[[KEEP|cao]]" for "[[KEEP|carro]]," reflecting liquid simplification of medial /r/. Stimulability testing showed that with [[KEEP|moderate cues]] (mod cues), [[CHILD|Majo]] could approximate [[KEEP|/ɾ/]] in isolation but not consistently within words. Intelligibility was judged to be approximately [[KEEP|40%]] to unfamiliar listeners and [[KEEP|65%]] to familiar listeners (per parent report), consistent with mother's comment that "solo yo le entiendo, y a veces ni yo."
+
+Oral-Motor and Feeding Screening
+
+Informal oral-motor examination revealed adequate lip closure, mildly reduced tongue lateralization, and age-appropriate dentition. No significant feeding concerns were reported by [[PARENT|Lucía]], though she noted that [[CHILD|Majo]] "es bien quisquillosa" (picky) with textured foods, preferring purees and soft foods over items requiring more chewing, such as raw vegetables. This pattern will be monitored but does not currently meet criteria for a separate feeding diagnosis.
+
+Language Sample Analysis
+
+A [[KEEP|50]]-utterance spontaneous language sample was collected during play-based interaction using toy animals and a dollhouse. Mean length of utterance (MLU) in morphemes was calculated at [[KEEP|1.8]], which falls well below the expected range of [[KEEP|3.0-3.5]] for her chronological age. [[CHILD|Majo]] used primarily single-word and two-word combinations (e.g., "[[KEEP|mamá agua]]," "[[KEEP|no quero]]," "[[KEEP|mas leche]]"), with occasional use of possessive constructions ("[[KEEP|mío]]"). She demonstrated use of the SALT code [[KEEP|[EW]]] (word-finding/exact word) at several points where she appeared to search for a label before abandoning the attempt and pointing instead. Pragmatically, [[CHILD|Majo]] initiated interaction by pointing and vocalizing but rarely used verbal bids spontaneously; most verbal output was elicited by direct questions from the clinician or mother.
+
+IMPRESSIONS
+
+[[CHILD|Majo]] presents with a severe mixed receptive-expressive language disorder in her primary language (Spanish), as evidenced by standard scores on the [[KEEP|PLS-5 Spanish]] falling more than [[KEEP|2 standard deviations]] below the mean across both receptive and expressive domains (Total Language Score [[KEEP|66]], [[KEEP|1st percentile]], CI [[KEEP|61-71]]). Given that English exposure is minimal and that the family's stated goal is for [[CHILD|Majo]] to communicate effectively first in Spanish at home, her English screening scores are not interpreted as evidence of a distinct, separate disorder but rather reflect limited current exposure overlaid on an underlying primary language impairment. Co-occurring speech sound disorder is present, with articulation/phonology standard score of [[KEEP|72]] ([[KEEP|3rd percentile]]) on the [[KEEP|GFTA-3]] (Spanish administration), characterized by cluster reduction, final consonant deletion, and liquid simplification patterns consistent with a phonological process disorder rather than a purely articulatory/motor-based disorder. These findings are consistent with the diagnostic impression of a Language Disorder with accompanying Speech Sound Disorder (ICD-10: [[KEEP|F80.2]], Mixed Receptive-Expressive Language Disorder; ICD-10: [[KEEP|F80.0]], Phonological Disorder), warranting continued intervention per IFSP.
+
+History of recurrent otitis media and PE tube placement is a relevant contributing factor to the speech sound disorder, though the persistence of errors well past the resolution of middle ear issues (confirmed otitis-free since early [[KEEP|2026]]) suggests the disorder is not solely attributable to fluctuating hearing history and warrants treatment independent of medical status. Family's bilingual environment should be supported and not viewed as causative or contributory to the disorder; rather, intervention should proceed bilingually, consistent with best practice for dual-language learners, honoring the home language of Spanish while supporting emerging English exposure through [[SIBLING|Daniela]], the library playgroup, and eventual preschool enrollment.
+
+[[CHILD|Majo]]'s pragmatic communication style — primarily gesture- and pointing-based with limited spontaneous verbal initiation — combined with parent-reported frustration behaviors (crying, pulling at clothing) suggests communication breakdown is contributing to behavioral frustration at home, which should improve as expressive language skills develop through intervention.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Majo]] qualifies for ongoing early intervention services through [[AGENCY|Carolina Piedmont Children's Developmental Services Agency]] (CDSA) under an active IFSP, with speech-language therapy services continuing at a frequency of twice weekly, 45-minute sessions, delivered in the home language (Spanish), consistent with IFSP Outcome [[KEEP|#2]] (functional communication) and IFSP Outcome [[KEEP|#3]] (speech sound intelligibility).
+
+2. Therapy approach should incorporate [[KEEP|Hanen]] "It Takes Two to Talk" strategies to support parent-implemented language facilitation, given [[PARENT|Lucía]]'s stated interest in learning strategies she can use "todo el día, no solo en terapia." The clinician will also incorporate elements of the [[KEEP|Cycles]] approach to target phonological patterns (final consonant deletion, cluster reduction, liquid simplification) in a developmentally sequenced manner.
+
+3. Continue to monitor otitis media history; family should follow up with Dr. [[PROVIDER|Okafor]] or primary pediatrician Dra. [[PROVIDER|Patricia Núñez]] if any recurrence of ear infection symptoms occurs, given the historical contribution to early language delay.
+
+4. Family is encouraged to continue attending the bilingual playgroup at the [[AGENCY|Siler City Public Library]] and the toddler class at [[ORG|Iglesia Bautista Nueva Esperanza]], as both provide valuable peer language models and community support; staff member [[PERSON|B. Hinton]] at the library program may be a helpful source of informal progress observations given her familiarity with [[CHILD|Majo]] in a naturalistic peer setting.
+
+5. Consider formal preschool enrollment, ideally at a bilingual program such as [[DAYCARE|Little Sprouts Bilingual Daycare]], to provide structured peer interaction and additional language modeling in both Spanish and English; this recommendation should be revisited closer to [[CHILD|Majo]]'s third birthday transition planning timeline given her upcoming transition out of [[AGENCY|CPCDSA]] services.
+
+6. Recommend continued collaboration with the [[AGENCY|Chatham County Smart Start]] home visiting program; home visitor [[PROVIDER|Araceli Domínguez, M.Ed.]] should be included in care coordination communications going forward with family consent, given her ongoing monthly contact with the family and potential to reinforce therapy strategies between sessions.
+
+7. Re-evaluate in approximately [[KEEP|6 months]] (target: [[DATE|March 2027]]) to assess progress and determine continued eligibility and service intensity under the IFSP, or sooner if significant concerns arise.
+
+8. Family should be connected, if not already, with [[AGENCY|Chatham County WIC]] office for nutritional guidance given reported feeding selectivity, and this clinician will coordinate with the IFSP service coordinator, [[PROVIDER|Noelia Campos]], to ensure this referral is documented in the care plan.
+
+9. This clinician recommends that all providers working with the family copy initials-only identifiers where appropriate in shared records per agency practice; for instance, this report references the home visitor by full credential but future shared summaries may refer to her as [[PROVIDER|A.D.]] per family preference discussed at the close of this evaluation. Similarly, the family requested that correspondence sent to the home use initials for the older sibling, who is sometimes referred to in agency paperwork as [[SIBLING|D.B.]] to minimize confusion with another client in the CDSA caseload with a similar name.
+
+This evaluation was completed by [[PROVIDER|Marisol Castellanos-Reyes]], M.S., CCC-SLP, bilingual speech-language pathologist, of [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]] ([[EMPLOYER|CBTP]]), under contract with [[AGENCY|Carolina Piedmont Children's Developmental Services Agency]]. Questions regarding this report may be directed to the undersigned at [[EMPLOYER|Carolina Bilingual Therapy]] offices, phone [[PHONE|(919) 555-7310]], or by email at [[EMAIL|mcastellanos@carolinabilingualtherapy.example.com]]. Report finalized and electronically signed on [[DATE|September 18, 2026]].
+
+Firma / Signature: [[PROVIDER|Marisol Castellanos-Reyes, M.S., CCC-SLP]]
+Credenciales de Licencia: NC Board of Examiners for Speech and Language Pathologists, License [[ID|SLP-NC-048822]]
+cc: [[AGENCY|CPCDSA]] Service Coordinator [[PROVIDER|Noelia Campos]]; Pediatrician Dra. [[PROVIDER|Patricia Núñez]]; Family copy to [[PARENT|Lucía Fuentes Beltrán]] and [[PARENT|Héctor Fuentes Beltrán]]

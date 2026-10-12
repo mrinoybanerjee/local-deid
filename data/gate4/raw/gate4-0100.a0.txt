@@ -1,0 +1,123 @@
+Tipo de documento: Revisión del Plan Individualizado de Servicios para la Familia (IFSP)
+Programa: [[AGENCY|Programa de Apoyo Infantil Sendero Azul de Carolina del Norte]]
+Oficina CDSA: [[AGENCY|CDSA Sendero Azul]]
+Condado de residencia: [[PLACE|Loma Clara]]
+Nombre del niño: [[CHILD|Mateo Julián Robles Vega]]
+Nombre usado en casa: [[CHILD|Teíto]]
+Fecha de nacimiento: [[DATE|12 de agosto de 2024]]
+Edad cronológica: [[KEEP|26 meses]]
+Fecha de revisión: [[DATE|12 de octubre de 2026]]
+Período del plan: [[DATE|19 de octubre de 2026]] a [[DATE|19 de abril de 2027]]
+Expediente: [[ID|ITP-LC-026-4817]]
+Medicaid: [[MEDICAID_ID|864205731Q]]
+Autorización: [[ID|SLP-26098-143]]
+Madre: [[PARENT|Lucía Vega Santos]]
+Padre: [[PARENT|Andrés Robles Molina]]
+Domicilio: [[PLACE|1847 Calle del Arrayán]], [[PLACE|Villa Cedral]], Carolina del Norte [[PLACE|27864]]
+Teléfono familiar: [[PHONE|919-555-0146]]
+Correo familiar: [[EMAIL|lucia.vega47@example.invalid]]
+Coordinadora de servicios: [[PROVIDER|Marisol Peña Duarte]]
+Teléfono de coordinación: [[PHONE|919-555-0182]]
+Profesional que redacta: [[PROVIDER|Elena Cruz Salvatierra]], patóloga bilingüe del habla y del lenguaje
+Empresa de la profesional: [[EMPLOYER|Comunicación Infantil Puente de Luz]]
+Correo profesional: [[EMAIL|ecruz@example.invalid]]
+Sitio de la oficina: [[URL|https://cdsa-sendero-azul.example.invalid]]
+Idioma del documento y de la reunión: español
+Modalidad de revisión: reunión presencial en el domicilio
+
+INFORMACIÓN FAMILIAR Y PARTICIPACIÓN
+
+Participaron ambos padres, la coordinadora y la profesional del habla y del lenguaje. La familia eligió conversar y recibir documentos en español. El niño escucha español en casa e inglés durante algunas actividades de la guardería. La evaluación consideró ambos idiomas y aceptó respuestas mediante palabras, sonidos, gestos y señalamientos.
+
+En el hogar viven los padres, [[CHILD|Mateo]] y su hermana [[SIBLING|Inés Robles Vega]], de [[KEEP|7 años]]. La abuela materna, [[FAMILY|Rosa Santos Leiva]], cuida al niño dos tardes por semana. La tía [[FAMILY|Celia Vega Santos]] ofrece transporte cuando los horarios laborales coinciden. El perro [[PET|Tilo]] participa en juegos familiares supervisados.
+
+La madre trabaja en [[ORG|Panadería Molino del Alba]]. El padre trabaja en [[ORG|Servicios Mecánicos Valle Sereno]]. Ambos solicitaron visitas durante rutinas reales y explicaciones breves que puedan compartir con la abuela. La familia cuenta con transporte propio, vivienda estable y acceso a alimentos. Prefiere recibir recordatorios por teléfono.
+
+ANTECEDENTES Y SALUD
+
+Según el informe familiar, [[CHILD|Mateo]] nació a las [[KEEP|39 semanas]] de gestación, con un peso de [[KEEP|3240 g]]. Los puntajes de [[KEEP|Apgar]] fueron [[KEEP|8]] y [[KEEP|9]]. El nacimiento ocurrió en [[HOSPITAL|Hospital Comunitario Estrella del Valle]]. No se reportaron hospitalizaciones posteriores.
+
+La pediatra [[PROVIDER|Nadia Ferrer Campos]] remitió al niño por dificultades para expresar necesidades. La familia informó una revisión auditiva el [[DATE|18 de septiembre de 2026]], sin preocupaciones comunicadas por el evaluador. La coordinadora solicitará el informe escrito. La información auditiva permanece como reporte familiar hasta recibir ese documento.
+
+El diagnóstico registrado para el servicio es [[KEEP|F80.2]]. La profesional explicó que el uso de dos idiomas no constituye un trastorno. Los apoyos deben permitir que el niño participe con las personas y en los idiomas de su vida diaria.
+
+PREOCUPACIONES Y PRIORIDADES EN LAS PALABRAS DE LA FAMILIA
+
+La madre expresó: “Quiero saber qué necesita antes de que se enoje. A veces abre el refrigerador y llora. Yo adivino, pero quisiera que pudiera decirme o mostrarme lo que quiere”.
+
+El padre agregó: “Mi prioridad es jugar juntos después del trabajo. Cuando no entiendo, él se va. Quiero aprender a esperar y darle una manera sencilla de pedirme ayuda”.
+
+La abuela comentó durante una llamada previa: “En la comida quiero que disfrute estar con nosotros. No quiero hacerlo repetir muchas veces. Quiero entender sus señales”.
+
+La familia acordó priorizar pedir ayuda, elegir durante la merienda y participar en juegos compartidos. También desea que la guardería use señales similares. Los padres prefieren estrategias que puedan integrar sin comprar materiales especiales ni convertir cada actividad en una tarea.
+
+FORTALEZAS Y RUTINAS DIARIAS
+
+[[CHILD|Mateo]] busca a los adultos para compartir objetos interesantes. Sonríe durante canciones con movimientos y anticipa juegos de esconderse. Lleva zapatos a la puerta cuando desea salir. Usa gestos claros para rechazar y disfruta imitar acciones con carros y animales.
+
+El desayuno comienza cerca de las [[TIME|7:15 a. m.]]. La madre coloca dos alimentos disponibles sobre la mesa. El niño suele alcanzar uno, pero necesita apoyo para comunicar una elección cuando ambos quedan lejos. La familia puede practicar sin retrasar la comida.
+
+La llegada a la guardería ocurre aproximadamente a las [[TIME|8:10 a. m.]]. Durante la despedida, el niño necesita una secuencia predecible. Una fotografía familiar y un saludo breve facilitan la transición. La merienda ofrece oportunidades para pedir, abrir recipientes y compartir atención.
+
+Por la tarde, la abuela realiza juegos de carros en el piso. La hermana suele dirigir el juego; los adultos desean ayudarla a dejar espacio para las iniciativas del niño. El baño empieza alrededor de las [[TIME|7:00 p. m.]]. Los libros y canciones forman parte de la preparación para dormir.
+
+GUARDERÍA Y OTRAS AGENCIAS
+
+El niño asiste a [[DAYCARE|Centro Infantil Semillas del Arroyo]], en [[PLACE|Villa Cedral]]. Su maestra es la señora [[TEACHER|Lopez]]. El aula figura en el registro como “Ms. [[TEACHER|Lopez]]'s room”. La auxiliar [[TEACHER|Teresa Navas]] apoya las transiciones. La familia autorizó intercambiar información sobre estrategias y avances.
+
+Durante el juego, [[PEER|Mila Torres]] y [[PEER|Leo Paredes]] suelen acercarse al mismo recipiente de bloques. El niño observa y toma materiales, pero necesita ayuda para iniciar intercambios. El personal ofrecerá turnos breves y aceptará gestos como participación.
+
+La familia recibe orientación alimentaria de [[AGENCY|WIC de Loma Clara]], en el condado de [[PLACE|Loma Clara]]. También mantiene contacto con [[AGENCY|DSS de Loma Clara]] para consultar beneficios. [[AGENCY|Alianza para la Infancia de Loma Clara]] proporcionó información sobre actividades comunitarias. Ninguna de estas agencias presta actualmente terapia del lenguaje al niño.
+
+EVALUACIÓN Y OBSERVACIONES FUNCIONALES
+
+La evaluación se completó el [[DATE|6 de octubre de 2026]] mediante entrevista, observación de rutinas y [[KEEP|PLS-5]], con materiales en español. Los resultados describen el desempeño observado; deben interpretarse junto con la exposición lingüística y la participación cotidiana. Los intervalos corresponden a un nivel de confianza del [[KEEP|90%]].
+
+| Prueba o subprueba | Fecha | Puntaje estándar | Percentil | Intervalo de confianza | Equivalente de edad |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Comprensión auditiva]] | [[DATE|6 de octubre de 2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|20 meses]] |
+| [[KEEP|PLS-5]]: [[KEEP|Comunicación expresiva]] | [[DATE|6 de octubre de 2026]] | [[KEEP|82]] | [[KEEP|12]] | [[KEEP|76-89]] | [[KEEP|22 meses]] |
+| [[KEEP|PLS-5]]: [[KEEP|Lenguaje total]] | [[DATE|6 de octubre de 2026]] | [[KEEP|79]] | [[KEEP|8]] | [[KEEP|74-86]] | [[KEEP|21 meses]] |
+
+Durante la merienda, [[CHILD|Mateo]] comunicó una elección en [[KEEP|4 de 10]] oportunidades con [[KEEP|apoyos moderados (mod cues)]]. Produjo [[KEEP|«agua»]], [[KEEP|«ma»]] y [[KEEP|«no»]]. Al buscar al perro, dijo “[[PET|Tilo]] ven”. La profesional registró [[KEEP|[EW]]] cuando una emisión incluyó una palabra adicional respecto del modelo presentado.
+
+Se observaron aproximaciones con [[KEEP|[w]]] y dificultad variable para imitar [[KEEP|/k/]]. Estos hallazgos no serán objetivos aislados. La prioridad será aumentar mensajes funcionales y participación, sin exigir pronunciación exacta para responder a una petición.
+
+RESULTADO [[KEEP|1]]: COMUNICAR NECESIDADES EN LA MERIENDA
+
+La familia desea que [[CHILD|Mateo]] pida un alimento, una bebida o ayuda mediante una palabra, un gesto o una combinación. Se considerará alcanzado cuando comunique una petición en [[KEEP|8/10]] oportunidades durante tres rutinas observadas, con [[KEEP|apoyos mínimos (min cues)]].
+
+La línea inicial es [[KEEP|4/10]] con [[KEEP|apoyos moderados (mod cues)]]. Los adultos colocarán opciones visibles y esperarán antes de ayudar. Ofrecerán modelos breves, como [[KEEP|«más»]], [[KEEP|«agua»]] y [[KEEP|«ayuda»]]. Responderán de inmediato a una señal comprensible y ampliarán el mensaje sin exigir repetición.
+
+La profesional empleará estrategias de [[KEEP|Hanen]] adaptadas a la rutina familiar. Si el niño necesita otro medio, probará fotografías sencillas. El uso formal de [[KEEP|PECS]] no está indicado actualmente. La familia registrará ejemplos útiles, sin contar cada petición del día.
+
+RESULTADO [[KEEP|2]]: PARTICIPAR EN EL JUEGO COMPARTIDO
+
+La familia desea que el niño mantenga un intercambio con un adulto o con su hermana durante juegos de carros, bloques o canciones. El criterio será completar tres turnos recíprocos en [[KEEP|3 de 5]] oportunidades, con [[KEEP|apoyos mínimos (min cues)]].
+
+Actualmente completa un intercambio en [[KEEP|1 de 5]] oportunidades con [[KEEP|apoyos máximos (max cues)]]. El adulto seguirá su interés, imitará una acción y esperará una respuesta. Podrá modelar [[KEEP|«mi turno»]], [[KEEP|«va»]] o [[KEEP|«otra vez»]].
+
+La hermana recibirá orientación mediante demostraciones breves. No tendrá responsabilidad de hacer terapia. El equipo evitará retener juguetes necesarios para provocar una respuesta. En la guardería, la maestra organizará intercambios con un compañero y apoyará cualquier intento de compartir atención.
+
+RESULTADO [[KEEP|3]]: SEGUIR LAS TRANSICIONES FAMILIARES
+
+La familia desea que el niño participe en guardar juguetes, lavarse las manos y sentarse a comer. El criterio será responder a una indicación familiar en [[KEEP|80%]] de las oportunidades, con [[KEEP|apoyos mínimos (min cues)]] y objetos disponibles.
+
+La línea inicial es [[KEEP|40%]] con [[KEEP|apoyos moderados (mod cues)]]. Los adultos presentarán una indicación breve, señalarán el objeto y darán tiempo para responder. Usarán modelos consistentes, como [[KEEP|«guarda el carro»]] y [[KEEP|«vamos a comer»]]. Reducirán el apoyo cuando el niño anticipe la secuencia.
+
+SERVICIOS, FECHAS Y RESPONSABILIDADES
+
+La intervención del habla y del lenguaje comenzará el [[DATE|19 de octubre de 2026]] y finalizará el [[DATE|19 de abril de 2027]]. Se realizará una visita semanal de 45 minutos en el domicilio o la guardería, según la rutina acordada. La profesional responsable será [[PROVIDER|Elena Cruz Salvatierra]]. La facturación utilizará [[KEEP|CPT 92507]] y el modificador [[KEEP|GN]].
+
+La coordinación continuará mensualmente durante el mismo período. [[PROVIDER|Marisol Peña Duarte]] verificará horarios, acceso y comunicación entre participantes. El pediatra [[PROVIDER|J. Ortiz]] cubrirá consultas generales cuando la pediatra habitual no esté disponible.
+
+El equipo revisará avances el [[DATE|18 de enero de 2027]]. La siguiente revisión formal será el [[DATE|19 de abril de 2027]]. Cada revisión incluirá ejemplos familiares, observaciones de la guardería y necesidad de ajustar apoyos.
+
+ACUERDOS Y CIERRE
+
+La familia aceptó los resultados y solicitó copias en español. Los padres confirmaron que pueden pedir una revisión antes de la fecha prevista. La profesional verificó comprensión mediante explicación en las palabras de la familia.
+
+No quedan servicios pendientes de inicio distintos de los descritos. Permanece pendiente recibir el informe auditivo. La coordinadora dará seguimiento y comunicará cualquier cambio relevante.
+
+Firma de la profesional: [[PROVIDER|Elena Cruz Salvatierra]]
+Fecha de firma: [[DATE|12 de octubre de 2026]]

@@ -1,0 +1,169 @@
+{
+"spans": [
+{
+"start": 8,
+"end": 20,
+"type": "PERSON"
+},
+{
+"start": 42,
+"end": 51,
+"type": "DATE"
+},
+{
+"start": 65,
+"end": 82,
+"type": "PERSON"
+},
+{
+"start": 93,
+"end": 105,
+"type": "PHONE"
+},
+{
+"start": 115,
+"end": 135,
+"type": "SCHOOL"
+},
+{
+"start": 148,
+"end": 158,
+"type": "ID"
+},
+{
+"start": 347,
+"end": 366,
+"type": "DATE"
+},
+{
+"start": 487,
+"end": 491,
+"type": "PERSON"
+},
+{
+"start": 614,
+"end": 636,
+"type": "DATE"
+},
+{
+"start": 751,
+"end": 768,
+"type": "PERSON"
+},
+{
+"start": 772,
+"end": 784,
+"type": "PHONE"
+},
+{
+"start": 812,
+"end": 831,
+"type": "DATE"
+},
+{
+"start": 928,
+"end": 944,
+"type": "PERSON"
+},
+{
+"start": 958,
+"end": 962,
+"type": "PERSON"
+},
+{
+"start": 1056,
+"end": 1060,
+"type": "PERSON"
+},
+{
+"start": 1118,
+"end": 1122,
+"type": "PERSON"
+},
+{
+"start": 1210,
+"end": 1214,
+"type": "PERSON"
+},
+{
+"start": 1301,
+"end": 1305,
+"type": "PERSON"
+},
+{
+"start": 1425,
+"end": 1429,
+"type": "PERSON"
+},
+{
+"start": 1487,
+"end": 1491,
+"type": "PERSON"
+},
+{
+"start": 1588,
+"end": 1601,
+"type": "PERSON"
+},
+{
+"start": 1615,
+"end": 1619,
+"type": "PERSON"
+},
+{
+"start": 1689,
+"end": 1705,
+"type": "PERSON"
+},
+{
+"start": 1719,
+"end": 1723,
+"type": "PERSON"
+},
+{
+"start": 2022,
+"end": 2041,
+"type": "DATE"
+},
+{
+"start": 2076,
+"end": 2080,
+"type": "PERSON"
+},
+{
+"start": 2165,
+"end": 2169,
+"type": "PERSON"
+},
+{
+"start": 2226,
+"end": 2230,
+"type": "PERSON"
+},
+{
+"start": 2350,
+"end": 2354,
+"type": "PERSON"
+},
+{
+"start": 2532,
+"end": 2536,
+"type": "PERSON"
+},
+{
+"start": 2603,
+"end": 2615,
+"type": "PERSON"
+},
+{
+"start": 2629,
+"end": 2633,
+"type": "PERSON"
+},
+{
+"start": 2813,
+"end": 2817,
+"type": "PERSON"
+}
+]
+}

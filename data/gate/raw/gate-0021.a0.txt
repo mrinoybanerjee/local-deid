@@ -1,0 +1,39 @@
+Nota diaria de terapia del habla y lenguaje
+Documento ficticio para pruebas. Atención bilingüe en Carolina del Norte.
+
+Campo	Valor
+Paciente	[[CHILD|María José Castañeda Beltrán]]
+Edad	[[KEEP|4;2]]
+Nacimiento	[[DATE|03-01-2021]]
+Servicio	[[DATE|3 de marzo de 2025]]
+Evaluación	[[DATE|2025-02-17]]
+Expediente	[[ID|SLP-004827]]
+Medicaid	[[MEDICAID_ID|000684219Q]]
+Diagnóstico	[[KEEP|F80.0]]
+Procedimiento	[[KEEP|92507]]
+
+Contacto	Función	Teléfono
+[[PROVIDER|Adriana Solís Mercado]]	Patóloga del habla y lenguaje	[[PHONE|919-555-0147]]
+[[PARENT|Lucía Beltrán Varela]]	Mamá	[[PHONE|984-555-0162]]
+
+Correo	[[EMAIL|adriana.solis@vocesclaras.example]]
+Sitio	[[URL|https://vocesclaras.example/terapia]]
+Empresa	[[EMPLOYER|Voces Claras del Pinar]]
+Domicilio	[[PLACE|428 Calle del Trébol]], [[PLACE|Pinar del Arroyo]], [[PLACE|28796]]
+
+Servicio	Fecha	Horario	Lugar
+Individual	[[DATE|03/03/2025]]	[[TIME|9:15 a. m.]]–[[TIME|9:45 a. m.]]	[[SCHOOL|Preescolar Senderos del Roble]]
+Seguimiento	[[DATE|03/10/2025]]	[[TIME|9:15 a. m.]]	[[SCHOOL|Preescolar Senderos del Roble]]
+
+S: Su mamá [[PARENT|Lucía Beltrán Varela]] informó que [[CHILD|María José]] pide ayuda con frases más largas. Su hermano [[SIBLING|Tomás Castañeda Beltrán]] practica turnos durante el juego. Su abuela [[FAMILY|Inés Varela Montes]] escucha las tareas. La familia notó dificultades desde el [[DATE|martes 4 de junio de 2024]]. Hoy llegó tranquila y eligió animales.
+
+O: La sesión se realizó en español, con apoyos visuales y demostración breve. La maestra [[TEACHER|Nora Alcázar]] observó los últimos cinco minutos. Su compañero [[PEER|Diego Ponce Rivas]] participó en dos turnos. Se registraron respuestas independientes antes de ofrecer modelos. No se contaron imitaciones inmediatas como respuestas espontáneas.
+
+Medida	Resultado	Apoyo
+[[KEEP|PLS-5 Spanish]]	[[KEEP|81]] puntuación estándar; percentil [[KEEP|10]]	Evaluación previa
+[[KEEP|/k/]] inicial	[[KEEP|8/10]]; [[KEEP|80%]]	[[KEEP|mod cues]]
+Frases funcionales	[[KEEP|6/10]]	[[KEEP|min cues]]
+
+A: [[CHILD|María José Castañeda Beltrán]] mostró mejor colocación lingual con claves visuales. Produjo [[KEEP|"tato"]] por [[KEEP|"gato"]] y [[KEEP|"quiero gato"]] tras una expansión. Se documentó una sustitución [[KEEP|[w]]] y una omisión mediante [[KEEP|[EW]]]. La precisión bajó al retirar las claves. Mantiene interés y tolera correcciones breves.
+
+P: Continuar práctica de [[KEEP|/k/]] en palabras y frases. La mamá hará cinco minutos diarios con imágenes, sin exigir repeticiones cuando aparezca cansancio. Usarán el nombre de su perro [[PET|Chispa]] para practicar peticiones. Revisar generalización con la maestra en la próxima sesión. Compartir únicamente el registro autorizado con la coordinadora [[PROVIDER|Elena Prado Sáenz]], de [[AGENCY|CDSA del Valle Sereno]]. La familia recibió instrucciones escritas y explicó correctamente cómo ofrecer el modelo. Se acordó registrar ejemplos espontáneos durante la merienda y revisar las respuestas antes de aumentar la dificultad.

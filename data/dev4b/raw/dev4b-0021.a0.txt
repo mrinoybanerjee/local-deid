@@ -1,0 +1,25 @@
++ Name: [[CHILD|Mateo del Río]]
++ CA: [[KEEP|4;2]]
++ Context: Bilingual (Spanish/English) speech-language therapy session conducted by [[PROVIDER|Daniela Fuentes-Marín]], MS, CCC-SLP, of [[EMPLOYER|Triangle Bilingual Speech & Language Therapy, PLLC]] ([[EMPLOYER|Triangle Bilingual Speech & Language]], "[[EMPLOYER|TBSLT]]"). Session held at the family home, [[PLACE|118 Cedar Hollow Court]], [[PLACE|Apex]], [[PLACE|27502]]. Date: [[DATE|October 6, 2026]]. Time: [[TIME|9:00 AM]]–[[TIME|9:45 AM]].
+
+[[CHILD|Mateo]] was seen for his weekly bilingual articulation and language session per IFSP [[KEEP|Outcome 2]]. His mother, [[PARENT|Carmen Vásquez]], was present throughout and reported that [[CHILD|Mateo]] has been practicing [[KEEP|/k/]] and [[KEEP|/g/]] sounds at home with his older sister, [[SIBLING|Valentina del Río]], who models target words during play. His father, [[PARENT|Esteban del Río]], was unable to attend due to a shift at [[ORG|Precision AutoWorks]] in [[PLACE|Morrisville]]. Interpreter [[PROVIDER|Rosa Jiménez]] assisted with parent communication in Spanish for portions of the session.
+
+[[CHILD|Mateo]] attends [[DAYCARE|Little Sprouts Bilingual Daycare]] three days a week, where his teacher, Ms. [[TEACHER|Ortiz]], reports he is beginning to combine two words in English with peers, including his classmate [[PEER|Noah]]. His case is also followed by his service coordinator, [[PROVIDER|Grace Thompson]], at the [[AGENCY|Wake County CDSA]].
+
+Session Schedule:
+Day | Start | Stop | Location
+Monday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[PLACE|118 Cedar Hollow Court]], [[PLACE|Apex]]
+Wednesday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[EMPLOYER|TBSLT]] clinic, [[PLACE|4500 Chapel Hill Road, Suite 220]], [[PLACE|Durham]]
+Friday | [[TIME|10:00 AM]] | [[TIME|10:45 AM]] | [[DAYCARE|Little Sprouts Bilingual Daycare]], [[PLACE|Cary]]
+
+Case identifiers: Medicaid ID [[MEDICAID_ID|987654321A]]; insurance member ID [[ID|TBC-4471920]]; NC ITP child ID [[ID|ITP-0045821]]; authorization number [[ID|AUTH-2026-03318]].
+
+**S:** Per [[PARENT|Carmen Vásquez]], [[CHILD|Mateo]] said "[[KEEP|quiero jugo]]" spontaneously at breakfast, a notable increase in spontaneous Spanish utterances. She also noted he called the family dog, [[PET|Canela]], by name consistently this week, saying "[[PET|Canela]] ven" during play.
+
+**O:** Administered select subtests of the [[KEEP|PLS-5]] Spanish/English edition. [[CHILD|Mateo]] earned a standard score of [[KEEP|78]] (percentile [[KEEP|7th]]) on Auditory Comprehension and [[KEEP|82]] (percentile [[KEEP|12th]]) on Expressive Communication, age equivalent [[KEEP|2;6–3;0]]. Articulation probe: [[KEEP|/k/]] produced correctly in [[KEEP|8/10]] trials with [[KEEP|min cues]]; [[KEEP|/g/]] produced in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Target word "[[KEEP|gato]]" was produced as "[[KEEP|dato]]"; stimulability improved following modeling. SALT code [[KEEP|[EW]]] noted for one utterance expansion.
+
+**A:** [[CHILD|Mateo]] continues to demonstrate a moderate bilingual expressive-receptive language delay consistent with ICD-10 [[KEEP|F80.9]]; CPT [[KEEP|92507]] billed for individual treatment, modifier [[KEEP|GN]]. Progress toward IFSP [[KEEP|Goal 1]] and [[KEEP|Goal 2]] is steady. [[PROVIDER|Fuentes-Marín]] recommends continued use of [[KEEP|PROMPT]] tactile cueing alongside [[KEEP|Hanen]] strategies coached with [[PARENT|Carmen Vásquez]].
+
+**P:** Continue twice-weekly direct sessions and one consultative daycare visit monthly. Next IFSP review is scheduled for [[DATE|January 14, 2027]] at the [[AGENCY|Wake County CDSA]] office, [[PLACE|3300 Woodland Pond Drive]], [[PLACE|Raleigh]], [[PLACE|27604]]. Contact [[PROVIDER|Fuentes-Marín]] at [[PHONE|(919) 555-0148]] or [[EMAIL|d.fuentes@tbslt-therapy.com]] with questions. Scheduling is also available at [[URL|www.tbslt-therapy.com]].
+
+Signed, [[PROVIDER|Daniela Fuentes-Marín]], MS, CCC-SLP, [[EMPLOYER|Triangle Bilingual Speech & Language Therapy, PLLC]].

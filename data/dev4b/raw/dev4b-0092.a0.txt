@@ -1,0 +1,17 @@
+S: La mamá, [[PARENT|Carmen Rodríguez Torres]], reporta que [[CHILD|María José]] durmió bien y comió un buen desayuno antes de la sesión del [[DATE|October 9, 2026]]. Dice que en casa [[CHILD|María José]] jugó con su hermano [[SIBLING|Diego Fernández Rodríguez]] y con el perro de la familia, [[PET|Canela]], y practicó nombrar animales. El papá, [[PARENT|Luis Fernández Ortiz]], no pudo asistir porque trabaja en [[ORG|Triad Furniture Manufacturing]] hasta tarde. La mamá mencionó también que llevan a [[CHILD|María José]] cada sábado al programa de lectura bilingüe de la [[ORG|Biblioteca Pública del Condado de Guilford]], donde la niña participa con otros niños.
+
+O: Sesión en [[DAYCARE|Little Sprouts Bilingüe]], en el salón de la [[TEACHER|Srta. López]], de [[TIME|9:00 a.m.]] a [[TIME|9:45 a.m.]]. La [[TEACHER|Srta. López]] comentó que [[CHILD|María José]] compartió juguetes con su compañera [[PEER|Sofía]] sin apoyo verbal. Se trabajó [[KEEP|Hanen]] y claves de [[KEEP|mod cues]] para producción de /s/ en posición inicial. [[CHILD|María José]] produjo "[[KEEP|sol]]" y "[[KEEP|sopa]]" con [[KEEP|min cues]], logrando [[KEEP|8/10]] ensayos correctos. En narrativa dijo "[[PEER|Sofía]] corre rápido" sustituyendo /ɾ/ por [w]. Se administró screening con [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], puntaje estándar [[KEEP|82]], percentil [[KEEP|12]].
+
+A: [[CHILD|María José]], edad [[KEEP|4;2]], progresa en /s/ inicial con apoyo mínimo; generalización emergente en juego con pares. Edad gestacional al nacer [[KEEP|37 semanas]], peso al nacer [[KEEP|2800 gramos]], no afecta el plan actual. Cuadro consistente con [[KEEP|F80.0]].
+
+P: Continuar [[KEEP|PROMPT]] para /ɾ/; coordinar con [[TEACHER|Srta. López]] generalización en el salón de [[DAYCARE|Little Sprouts Bilingüe]]. Contactar a la mamá al [[PHONE|(336) 555-0147]] o correo [[EMAIL|carmen.rodrigueztorres@example.com]] para confirmar la próxima revisión del IFSP, objetivo [[KEEP|2.3]], el [[DATE|November 4, 2026]]. La familia también asiste a un grupo de apoyo en la [[ORG|Iglesia Nuestra Señora de Guadalupe]] los domingos. Coordinadora de servicios: [[PROVIDER|Marisol Peña]], [[AGENCY|CDSA del Piedmont Triad]].
+
+Horario de sesiones esta semana:
+
+| Día | Hora inicio | Hora fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Little Sprouts Bilingüe]], [[PLACE|Greensboro]] |
+| Miércoles | [[TIME|2:30 p.m.]] | [[TIME|3:15 p.m.]] | Casa de la familia, [[PLACE|412 Willow Oak Drive, Greensboro, NC 27403]] |
+| Viernes | [[TIME|10:15 a.m.]] | [[TIME|11:00 a.m.]] | [[DAYCARE|Little Sprouts Bilingüe]], [[PLACE|Greensboro]] |
+
+Terapeuta: [[PROVIDER|Ana Gómez]], SLP-CCC, bilingüe, [[EMPLOYER|Carolina Pediatric Speech Partners]]. Caso: [[CHILD|María José Fernández Rodríguez]], ID [[ID|NC-48217-SLP]], Medicaid [[MEDICAID_ID|987654321A]].

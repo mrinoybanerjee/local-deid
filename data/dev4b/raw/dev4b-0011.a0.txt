@@ -1,0 +1,23 @@
+Clinic: [[EMPLOYER|Carolina Bilingual Speech Services]]
+Clinician: [[PROVIDER|Jennifer Sánchez, M.S., CCC-SLP]]
+Phone: [[PHONE|(919) 555-0148]]
+Email: [[EMAIL|jsanchez@carolinabilingualspeech.com]]
+Website: [[URL|www.carolinabilingualspeech.com]]
+Interpreter: [[PROVIDER|Diego Torres]]
+Date of Service: [[DATE|October 7, 2026]]
+Session Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Client: [[CHILD|Jose Luis Fernández Ortiz]] ("[[CHILD|Pepe]]")
+DOB: [[DATE|April 2, 2024]]
+Age: [[KEEP|2;6]]
+Record #: [[ID|LD-20394]]
+Medicaid ID: [[MEDICAID_ID|904827561A]]
+Location: [[DAYCARE|Little Learners Daycare]], [[PLACE|118 Hollyview Lane]], [[PLACE|Durham]], [[PLACE|27703]]
+IFSP Outcome #: [[KEEP|2]]
+
+**Subjetivo:** Session held at [[DAYCARE|Little Learners Daycare]] during naptime transition. Su mamá [[PARENT|Lucía Fernández]] reported through interpreter [[PROVIDER|Diego Torres]] that [[CHILD|Pepe]] slept poorly, "no quería comer el desayuno," and seemed congestionado. Abuela [[FAMILY|Rosa Ortiz]], who watches him on Tuesdays, said he was "muy inquieto" after his sister [[SIBLING|Ana Fernández]] ("[[SIBLING|Anita]]") left for school. Mother noted he still follows their dog, [[PET|Rocky]], around the yard saying "perro ven" with [[KEEP|mod cues]]. Pediatrician [[PROVIDER|Dr. Patel]] cleared him for therapy per last week's call.
+
+**Objetivo:** [[CHILD|Pepe]] participated in 30 minutes of structured play targeting CV and CVC shapes. Using [[KEEP|PROMPT]] and [[KEEP|Hanen]] strategies, he produced "[[KEEP|más]]" unprompted [[KEEP|3 of 5]] trials and imitated [[KEEP|/p/]] in "[[KEEP|papá]]" with [[KEEP|min cues]] in [[KEEP|4/5]] attempts. He labeled [[PET|Rocky]] correctly when shown a photo, saying "[[KEEP|Oki]]" (approximating [[PET|Rocky]]); this is a target production, not a renamed referent. He imitated the classroom routine with his friend [[PEER|Teo]], exchanging a ball and vocalizing "[[KEEP|mío]]." Teacher [[TEACHER|Carmen López]] reported he used two-word combinations ("[[KEEP|más agua]]") spontaneously during snack this week. Administered partial [[KEEP|Rosetti Infant-Toddler Language Scale]] items; receptive raw score [[KEEP|34]], expressive raw score [[KEEP|19]], placing expressive skills at the [[KEEP|9th percentile]] (age equivalent [[KEEP|14-16 months]]).
+
+**Análisis:** [[CHILD|Pepe]] continues to show a moderate expressive language delay with emerging two-word utterances, consistent with prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score of [[KEEP|78]] ([[KEEP|73-83]] CI) and [[KEEP|Expressive Communication]] score of [[KEEP|71]]. Phonologically he favors fronting, substituting [[KEEP|[t]]] for [[KEEP|/k/]] in words like "[[KEEP|taza]]" for "casa." Family engagement remains strong; mother reports practicing vocabulary during the weekly [[ORG|Programa de Cuentos Bilingües]] at the [[ORG|Biblioteca Regional de Durham County]], and plans to enroll [[CHILD|Pepe]] in the [[AGENCY|Little Learners Program]] for additional early intervention hours starting next month, per service coordinator referral from [[AGENCY|CDSA of the Triangle]].
+
+**Plan:** Continue biweekly sessions targeting CVC words and two-word combinations using [[KEEP|Hanen]] and [[KEEP|PROMPT]]. Recommend repeat [[KEEP|Rosetti]] screening in [[KEEP|3 months]]. Will coordinate with [[AGENCY|Little Learners Program]] staff once enrollment begins and request updated records from [[HOSPITAL|Duke Regional Hospital]] regarding his [[KEEP|Apgar scores]] of [[KEEP|8]] and [[KEEP|9]] for the file. IFSP review scheduled [[DATE|January 15, 2027]]; mother to confirm transportation with grandmother [[FAMILY|Rosa Ortiz]]. CPT code [[KEEP|92507]], ICD-10 [[KEEP|F80.1]].

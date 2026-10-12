@@ -1,0 +1,27 @@
+Nombre del niño: [[CHILD|Mateo Hernández Cruz]]
+Fecha de nacimiento: [[DATE|15 de mayo de 2022]]
+Edad actual: [[KEEP|3;5]]
+Número de expediente: [[ID|AL-2026-00847]]
+Número de Medicaid: [[MEDICAID_ID|987654321A]]
+Fecha de la sesión: [[DATE|9 de octubre de 2026]]
+Hora de la sesión: [[TIME|10:00 a.m.]]
+Lugar de servicio: [[SCHOOL|Escuela Primaria Oak Hill]], [[AGENCY|Escuelas Públicas del Condado de Guilford]]
+Patóloga del habla y lenguaje: [[PROVIDER|Laura Martínez, MS, CCC-SLP]]
+Empleadora de la terapeuta: [[EMPLOYER|Terapias Pediátricas Carolina, PLLC]]
+Oficina CDSA: [[AGENCY|Centro de Desarrollo y Discapacidades Infantiles del Piedmont]] ([[AGENCY|CDSA del Piedmont]])
+Coordinadora de servicios: [[PROVIDER|Ana Gómez]], [[AGENCY|Agencia Comunitaria de Coordinación de Servicios Tempranos del Condado de Alamance]] ([[AGENCY|ACCSTA]])
+Dirección del hogar: [[PLACE|142 Maple Street, Burlington, NC 27215]], [[PLACE|Condado de Alamance]]
+Teléfono de contacto: [[PHONE|(336) 555-0148]]
+Correo electrónico de la familia: [[EMAIL|lucia.rodriguez84@example.com]]
+
+SUBJETIVO:
+La mamá de [[CHILD|Mateo]], [[PARENT|Lucía Rodríguez]], reporta que durante la semana [[CHILD|Mateo]] estuvo en casa de su niñera, [[FAMILY|Yolanda Pérez]], mientras ella trabajaba en [[ORG|Laboratorios Textiles Alamance]]. [[PARENT|Lucía]] comenta que [[CHILD|Mateo]] jugó con su primo [[FAMILY|Emiliano]] y su prima [[FAMILY|Sofía]] el fin de semana, y que imitó varias palabras nuevas durante el juego. También menciona que el perro de la familia, [[PET|Rocky]], y la gata, [[PET|Luna]], parecen motivar a [[CHILD|Mateo]] a vocalizar más cuando juega con ellos en el patio. El papá, [[PARENT|Carlos Hernández]], no pudo asistir a la sesión de hoy por motivo de trabajo. El hermano mayor de [[CHILD|Mateo]], [[SIBLING|Diego Hernández]], de [[KEEP|7 años]], estuvo presente brevemente antes de irse a la escuela.
+
+OBJETIVO:
+La sesión se llevó a cabo en el salón de la maestra [[TEACHER|Jennifer López]], conocido entre los niños como el Salón de las Mariposas, en presencia de dos compañeros de clase, [[PEER|Ethan]] y [[PEER|Camila]], quienes participaron en actividades de turnos con [[CHILD|Mateo]]. Se administraron partes de la [[KEEP|Rossetti Infant-Toddler Language Scale]] y de la [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] como parte del monitoreo trimestral. [[CHILD|Mateo]] obtuvo un puntaje estándar de [[KEEP|78]] en el área receptiva y [[KEEP|72]] en el área expresiva, ubicándolo en el percentil [[KEEP|9]]. En la subprueba de articulación, produjo correctamente [[KEEP|8 de 10]] palabras objetivo, con dificultad persistente en los fonemas [[KEEP|/s/]] y [[KEEP|/ɾ/]]. Al pedirle que repitiera la palabra objetivo [[KEEP|"pato"]], produjo [[KEEP|"paɾo"]], mejorando a [[KEEP|"pato"]] con [[KEEP|claves moderadas]]. También se revisaron resultados previos de la [[KEEP|Bayley Scales of Infant Development-4 (Bayley-4)]] y de la [[KEEP|Peabody Picture Vocabulary Test-5 (PPVT-5)]], administradas en [[DATE|agosto de 2026]] por el equipo del [[AGENCY|CDSA del Piedmont]].
+
+ANÁLISIS:
+[[CHILD|Mateo]] continúa mostrando progreso lento pero constante hacia el objetivo [[KEEP|2]] del IFSP, relacionado con el aumento del vocabulario expresivo y la inteligibilidad. Se nota mayor interacción social con [[PEER|Ethan]] y [[PEER|Camila]] en comparación con sesiones anteriores, lo cual favorece la generalización de los sonidos trabajados. La familia reporta que la abuela, [[FAMILY|Rosa Cruz]], también refuerza el lenguaje en casa durante las tardes mientras [[PARENT|Lucía]] trabaja. Se recomendó a [[PARENT|Lucía]] contactar al pediatra, [[PROVIDER|Dr. Esteban Ramírez]], para una revisión auditiva de seguimiento antes de la próxima reunión del IFSP.
+
+PLAN:
+Se coordinará con [[PROVIDER|Ana Gómez]] de [[AGENCY|ACCSTA]] para programar la revisión del IFSP el [[DATE|15 de diciembre de 2026]] a las [[TIME|2:30 p.m.]] en las oficinas del [[AGENCY|CDSA del Piedmont]]. La próxima sesión de terapia será el [[DATE|16 de octubre de 2026]] a las [[TIME|10:00 a.m.]] en [[SCHOOL|Escuela Primaria Oak Hill]]. Se continuará utilizando el enfoque [[KEEP|PROMPT]] y el programa [[KEEP|Hanen]] para apoyar la comunicación funcional en el hogar y en el salón de clases. Cualquier pregunta puede dirigirse a [[PROVIDER|Laura Martínez]] al [[PHONE|(336) 555-0199]] o por correo a [[EMAIL|lmartinez@terapiaspedcarolina.com]].

@@ -1,0 +1,127 @@
+Agencia de Terapia [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]
+Bilingual Speech-Language Pathology Services / Servicios de Patología del Habla y Lenguaje Bilingües
+[[PLACE|4120 Chapel Crest Drive, Suite 210]], [[PLACE|Durham]], NC [[PLACE|27707]]
+Tel: [[PHONE|(919) 555-0177]] | Fax: [[PHONE|(919) 555-0179]] | Email: [[EMAIL|rhutchins@carolinabilingualtherapy.com]]
+
+SPEECH-LANGUAGE EVALUATION REPORT / INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE
+
+Niño/Child: [[CHILD|Mateo Alejandro Fernández Rodríguez]] ("[[CHILD|Teo]]")
+Fecha de nacimiento/DOB: [[DATE|3 de marzo de 2023]] ([[DATE|03/03/2023]])
+Edad al momento de la evaluación/Age at Evaluation: [[KEEP|3;3]]
+Sexo/Sex: Masculino/Male
+Fecha de evaluación/Date of Evaluation: [[DATE|el martes 4 de junio de 2026]] and [[DATE|12 de marzo de 2026]]
+Expediente/Case ID: [[ID|CDSA-DUR-2026-00589]]
+Medicaid ID: [[MEDICAID_ID|NC4487213J]]
+Dirección/Address: [[PLACE|214 Juniper Hollow Lane]], [[PLACE|Durham]], NC [[PLACE|27703]] ([[PLACE|Durham County]])
+Teléfono de contacto/Contact Phone: [[PHONE|(919) 555-0148]]
+Correo electrónico/Email: [[EMAIL|lucia.rodriguez84@example.com]]
+Madre/Mother: [[PARENT|Lucía Rodríguez Martínez]]
+Padre/Father: [[PARENT|Diego Fernández Castillo]]
+Coordinadora de Servicios/Service Coordinator: [[PROVIDER|Ana Gómez]], [[AGENCY|Agencia de Coordinación de Servicios para la Niñez Temprana "Raíces y Alas"]] ([[AGENCY|Raíces y Alas]])
+Oficina del CDSA/CDSA Office: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Condado de Durham]] ([[AGENCY|CDSA de Durham]])
+Médico que refiere/Referring Physician: [[PROVIDER|Dr. Henry Osei]], Pediatría General
+Evaluadora/Evaluator: [[PROVIDER|Rebecca A. Hutchins]], M.S., CCC-SLP, Bilingual Spanish-English Speech-Language Pathologist, [[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]
+
+MOTIVO DE REFERENCIA / REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a bilingual speech-language evaluation by [[PROVIDER|Dr. Henry Osei]] following concerns raised at his [[KEEP|36-month]] well-child visit regarding limited expressive vocabulary and reduced speech intelligibility in both English and Spanish. His mother, [[PARENT|Lucía]], reports, "A veces ni yo le entiendo lo que quiere decir, y se frustra mucho" (sometimes even I don't understand what he wants to say, and he gets very frustrated). The family was connected to [[AGENCY|CDSA de Durham]] through [[AGENCY|Raíces y Alas]], and the service coordinator, [[PROVIDER|Ana Gómez]], completed the intake on [[DATE|28 de enero de 2026]]. This evaluation was conducted to determine eligibility for early intervention services under the IFSP and to establish baseline functioning for goal development.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA / BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestational age via scheduled cesarean section due to breech presentation. Birth weight was [[KEEP|6 lbs 11 oz]] ([[KEEP|3,040 grams]]). Apgar scores were [[KEEP|8]] at [[KEEP|1 minute]] and [[KEEP|9]] at [[KEEP|5 minutes]]. Per maternal report, there were no complications during the NICU stay, as [[CHILD|Mateo]] was not admitted to the NICU. He was discharged home on [[DATE|6 de marzo de 2023]].
+
+Developmental milestones were reportedly within normal limits for gross motor skills; he walked independently at [[KEEP|13 months]]. However, [[PARENT|Lucía]] and [[PARENT|Diego]] both noted that his first words emerged later than expected, around [[KEEP|22 months]], and that his vocabulary growth has remained slow relative to his older sister, [[SIBLING|Camila]], who is now [[KEEP|6 years old]] and attends elementary school.
+
+Medical history is notable for recurrent otitis media, with [[KEEP|five]] documented episodes between [[DATE|March 2024]] and [[DATE|December 2025]]. [[CHILD|Mateo]] underwent bilateral myringotomy with tube placement on [[DATE|9/15/2025]], performed by Dr. Osei's referral to an ENT specialist. Hearing was screened post-tympanostomy and passed bilaterally at [[KEEP|20 dB HL]] across frequencies, per audiological report dated [[DATE|10/02/2025]]. No history of seizures, head trauma, or significant illness was reported. Current ICD-10 diagnostic impression under consideration includes [[KEEP|F80.1]] (expressive language disorder) and [[KEEP|R62.0]] (delayed milestones), pending final determination.
+
+[[PARENT|Lucía]] reports that the family's pediatric visits have been consistent, and that [[CHILD|Mateo]] is up to date on immunizations. She also shared that [[CHILD|Mateo]]'s abuela, [[FAMILY|Rosa Martínez]], who helps with childcare three days a week while [[PARENT|Lucía]] works, has mentioned similar early language delays in [[PARENT|Diego]] as a child, though no formal diagnosis or services were pursued at that time ("mi esposo también habló tarde, pero nadie hizo nada").
+
+HISTORIA FAMILIAR Y DEL LENGUAJE / FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Mateo]] lives at home with his mother, [[PARENT|Lucía Rodríguez Martínez]]; his father, [[PARENT|Diego Fernández Castillo]]; his older sister, [[SIBLING|Camila]]; and the family dog, [[PET|Rocky]]. [[PARENT|Lucía]] works as a medical assistant at [[ORG|Duke Regional Medical Center]], and [[PARENT|Diego]] is employed as a site supervisor with [[ORG|Bright Horizons Construction]]. The family's primary language at home is Spanish, though English is increasingly used, particularly by [[SIBLING|Camila]], who is now fluent in both languages following her enrollment at [[SCHOOL|Hope Valley Elementary School]].
+
+According to parent report on a bilingual language history questionnaire, [[CHILD|Mateo]] hears approximately [[KEEP|70%]] Spanish and [[KEEP|30%]] English input across his week. His maternal grandmother, [[FAMILY|Rosa Martínez]], speaks exclusively Spanish with him during the three days she provides care. At his daycare, [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], his primary teacher, Ms. [[TEACHER|Carmen Lopez]], reports that classroom instruction occurs mostly in English, with some Spanish support provided by an assistant, Ms. [[TEACHER|Nguyen]].
+
+[[PARENT|Lucía]] described [[CHILD|Mateo]]'s current expressive output as consisting mostly of single words and some two-word combinations, such as "más agua" and "no quiero." She estimates his expressive vocabulary at approximately [[KEEP|50-75 words]] combined across both languages, which is significantly below expectations for his age. Comprehension in both languages appears stronger than expression; [[PARENT|Lucía]] reports he follows simple one-step directions in Spanish reliably and is beginning to respond to familiar English phrases such as "come here" and "sit down."
+
+Ms. [[TEACHER|Lopez]] shared via a classroom observation note that [[CHILD|Mateo]] often becomes frustrated during group activities and resorts to pulling peers' sleeves or pointing rather than using words, particularly with his classmate [[PEER|Jonas]], with whom he frequently plays during free time. She noted, "He wants to tell [[PEER|Jonas]] something and just can't get it out, so he gets upset."
+
+PROCEDIMIENTOS DE EVALUACIÓN / ASSESSMENT PROCEDURES
+
+This evaluation was conducted across two sessions to minimize fatigue and allow for both English and Spanish administration of standardized measures. The first session took place on [[DATE|12 de marzo de 2026]] from [[TIME|9:15 a.m.]] to [[TIME|10:45 a.m.]] at the [[AGENCY|CDSA de Durham]] office located at [[PLACE|1105 Corporate Way]], [[PLACE|Durham]], NC [[PLACE|27703]]. The second session occurred on [[DATE|el martes 4 de junio de 2026]] from [[TIME|1:30 p.m.]] to [[TIME|3:00 p.m.]] at the family's home. [[PROVIDER|Ana Gómez]] was present for portions of both sessions in her role as service coordinator.
+
+Procedures administered included:
+- Case history interview and bilingual language use questionnaire (parent report)
+- [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]), Spanish/English bilingual edition - [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]] subtests, administered in both languages
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]])
+- [[KEEP|MacArthur-Bates Communicative Development Inventories]] ([[KEEP|CDI]]), Words and Sentences form, Spanish version, completed by [[PARENT|Lucía]]
+- Informal oral mechanism examination
+- Language sample analysis, coded using SALT conventions
+- Clinical observation of play-based interaction and parent-child communication
+
+OBSERVACIONES CONDUCTUALES / BEHAVIORAL OBSERVATIONS
+
+[[CHILD|Mateo]] separated easily from [[PARENT|Lucía]] during the clinic-based session and engaged readily with toys presented. He demonstrated functional play skills, including appropriate use of a toy kitchen set and simple pretend sequences (feeding a doll, stirring a pot). Attention to task was adequate for structured activities lasting [[KEEP|8-10 minutes]] before requiring a break or change in materials.
+
+Socially, [[CHILD|Mateo]] was affectionate and sought proximity to [[PARENT|Lucía]] throughout testing, frequently looking to her for reassurance. He smiled and made eye contact appropriately. When unable to produce a desired word, he was observed to vocalize loudly, point insistently, or physically lead the examiner by the hand to desired items. No repetitive or restricted behaviors were observed. Oral motor structures appeared grossly within normal limits for symmetry, range of motion, and strength during non-speech tasks (blowing bubbles, imitating tongue protrusion).
+
+RESULTADOS / TEST RESULTS
+
+Standardized and informal measures yielded the following results. Confidence intervals and age-equivalent ranges reflect [[KEEP|95%]] confidence levels per test manual norms.
+
+| Test/Subtest | Language | Standard Score | Percentile | 95% CI | Age Equivalent | Date Administered |
+|---|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] Auditory Comprehension | English | [[KEEP|73]] | [[KEEP|4th]] | [[KEEP|68–78]] | [[KEEP|2;6–2;9]] | [[DATE|03/12/2026]] |
+| [[KEEP|PLS-5]] Expressive Communication | English | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|65–75]] | [[KEEP|2;3–2;6]] | [[DATE|03/12/2026]] |
+| [[KEEP|PLS-5]] Auditory Comprehension | Spanish | [[KEEP|82]] | [[KEEP|12th]] | [[KEEP|76–88]] | [[KEEP|2;9–3;0]] | [[DATE|06/04/2026]] |
+| [[KEEP|PLS-5]] Expressive Communication | Spanish | [[KEEP|79]] | [[KEEP|8th]] | [[KEEP|73–85]] | [[KEEP|2;6–2;9]] | [[DATE|06/04/2026]] |
+| [[KEEP|GFTA-3]] Sounds-in-Words | English | [[KEEP|81]] | [[KEEP|10th]] | [[KEEP|75–87]] | [[KEEP|2;9–3;3]] | [[DATE|03/12/2026]] |
+| [[KEEP|CDI]] Words Produced (Spanish, parent report) | Spanish | n/a | [[KEEP|9th]] | [[KEEP|5th–15th]] | [[KEEP|2;0–2;6]] | [[DATE|06/04/2026]] |
+
+Composite bilingual functioning, calculated using the conceptual scoring method that credits a concept if produced in either language, yielded an Auditory Comprehension conceptual score corresponding to the [[KEEP|18th percentile]] and an Expressive Communication conceptual score at the [[KEEP|11th percentile]], both of which remain below the [[KEEP|16th percentile]] cutoff typically used to indicate risk for language impairment in this clinic's bilingual protocol for the expressive domain, though receptive composite scoring approached the typical range.
+
+On the [[KEEP|GFTA-3]], [[CHILD|Mateo]] demonstrated the following error patterns in English single-word productions: final consonant deletion (e.g., target "dog" produced as [dɑ]), cluster reduction (target "spoon" produced as [pun]), and gliding of liquids (target "red" produced as [wɛd]). In Spanish, informal phonological analysis of a 20-word probe list revealed similar patterns: the target word "pelota" was produced as "[[KEEP|[peota]]]," with deletion of the medial /l/, and "carro" was produced as "[[KEEP|[kajo]]]," substituting [j] for the Spanish tap /ɾ/. These error patterns are consistent across both languages and are not attributable to typical second-language phonological transfer alone, given the degree of inconsistency and the presence of patterns atypical for either monolingual Spanish or English development at this age.
+
+Language sample analysis, coded using SALT conventions, included utterances such as "[EW] mas" (more, with an early word code) and "quiero [EW] 'pelota'" during the home-based play session. Mean length of utterance in morphemes (MLU-m) was calculated at [[KEEP|1.4]] across the combined 50-utterance sample, which falls well below the expected MLU-m of [[KEEP|2.5–3.0]] for a typically developing child at [[KEEP|3;3]].
+
+During a structured naming task, [[CHILD|Mateo]] correctly labeled [[KEEP|8 of 20]] familiar objects presented in English ([[KEEP|40%]]) and [[KEEP|13 of 20]] in Spanish ([[KEEP|65%]]), suggesting stronger single-word retrieval in his home language. He required moderate cues (mod cues) to imitate two-word phrases and maximum cues (max cues), including full verbal and gestural modeling, to attempt three-word combinations. With minimal cues (min cues), he successfully imitated the target phrase "quiero más," producing "[[KEEP|[kjejo ma]]]."
+
+IMPRESIONES CLÍNICAS / CLINICAL IMPRESSIONS
+
+Based on standardized assessment results, parent report, and clinical observation, [[CHILD|Mateo]] presents with a Developmental Language Disorder affecting both receptive and expressive domains, with expressive language more significantly impacted, present across both of his languages, Spanish and English. His scores fall below the eligible range on standardized bilingual measures in at least one domain, and his performance is consistent with a true language disorder rather than typical bilingual language development, given that deficits are observed across both languages rather than confined to the language of lesser exposure.
+
+Concurrently, [[CHILD|Mateo]] demonstrates a moderate speech sound disorder characterized by phonological error patterns that cross both languages, including final consonant deletion, cluster reduction, gliding, and liquid distortion. Given his documented history of recurrent otitis media with effusion and subsequent tympanostomy tube placement, a component of his speech-language delay may be attributable to fluctuating conductive hearing loss during a critical period of early phonological and lexical development; however, the persistence of errors following resolution of middle ear pathology (confirmed by passing audiological screening on [[DATE|10/02/2025]]) suggests that hearing history alone does not fully account for his current profile.
+
+[[CHILD|Mateo]]'s pragmatic communication skills, including joint attention, social reciprocity, and functional play, appear to be developing appropriately relative to his language level, and no concerns regarding autism spectrum features were identified during this evaluation. His frustration behaviors (pulling, pointing, vocalizing) appear secondary to limited expressive language rather than indicative of a primary behavioral or social-communication disorder.
+
+RECOMENDACIONES / RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] meets eligibility criteria for early intervention services under Part C through [[AGENCY|CDSA de Durham]], based on standardized scores falling more than [[KEEP|1.5 standard deviations]] below the mean in the expressive language domain across both languages.
+
+2. It is recommended that [[CHILD|Mateo]] receive individual speech-language therapy services a minimum of [[KEEP|two times]] per week for [[KEEP|45-minute]] sessions, delivered bilingually to support development in both Spanish and English, consistent with current best-practice guidance for bilingual language learners with a true language disorder.
+
+3. Therapy should incorporate a combination of naturalistic, parent-coaching approaches, including principles from the [[KEEP|Hanen]] "It Takes Two to Talk" program, alongside more structured motor-based approaches such as [[KEEP|PROMPT]] to address the speech sound errors noted above. A [[KEEP|Cycles]] phonological approach is also recommended to target the cluster reduction and final consonant deletion patterns identified in both languages.
+
+4. [[PARENT|Lucía]] and [[PARENT|Diego]] should be included as active participants in therapy sessions and coached in strategies to expand [[CHILD|Mateo]]'s utterances at home, with specific emphasis on modeling two- and three-word combinations in Spanish, the family's primary language.
+
+5. Continued monitoring of hearing status is recommended given the history of recurrent otitis media; a repeat audiological evaluation is suggested within [[KEEP|6 months]] if further ear infections occur.
+
+6. Coordination with [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]] staff, including Ms. [[TEACHER|Lopez]], is recommended to ensure consistent use of simplified language models and visual supports across environments.
+
+7. These findings and recommendations should be incorporated into [[CHILD|Mateo]]'s Individualized Family Service Plan (IFSP) at the upcoming review meeting. Proposed outcomes include Outcome [[KEEP|1]]: [[CHILD|Mateo]] will use [[KEEP|two-to-three-word]] combinations to request desired items and actions across settings; and Outcome [[KEEP|2]]: [[CHILD|Mateo]] will produce target sounds in word-initial position with [[KEEP|80%]] accuracy with no more than min cues across both languages.
+
+8. A follow-up IFSP review meeting should be scheduled within [[KEEP|90 days]] of service initiation to monitor progress toward these outcomes.
+
+This evaluation was billed under CPT code [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression) with modifier [[KEEP|-22]] applied to reflect the extended bilingual administration time required across two sessions.
+
+[[PARENT|Lucía]] and [[PARENT|Diego]] were present for feedback at the conclusion of the second session and expressed agreement with the findings and recommendations. [[PARENT|Lucía]] stated, "Gracias por explicarlo todo, ahora entendemos mejor por qué se frustra tanto." [[PROVIDER|Ana Gómez]] will coordinate scheduling of the IFSP review meeting and connect the family with service providers within the [[AGENCY|Raíces y Alas]] network.
+
+Report prepared and submitted by:
+
+[[PROVIDER|Rebecca A. Hutchins]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+[[EMPLOYER|Carolina Bilingual Therapy Partners, PLLC]]
+License No. [[ID|SLP-NC-048812]]
+Date of Report: [[DATE|10 de junio de 2026]]
+
+cc: [[PROVIDER|Dr. Henry Osei]]; [[PROVIDER|Ana Gómez]], [[AGENCY|Raíces y Alas]]; [[AGENCY|CDSA de Durham]] case file

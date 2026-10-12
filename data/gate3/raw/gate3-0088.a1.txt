@@ -1,0 +1,29 @@
+Documento: Nota diaria de terapia; datos ficticios
+Fecha: [[DATE|10 de octubre de 2026]]
+Paciente: [[CHILD|Elías Robles]]
+Nacimiento: [[DATE|8 de agosto de 2022]]
+Edad: [[KEEP|4;2]]
+Expediente: [[ID|SLP-604218]]
+Medicaid: [[MEDICAID_ID|482706193Q]]
+Horario: [[TIME|9:15 a. m.]] a [[TIME|9:45 a. m.]]
+Profesional: [[PROVIDER|Marina Castañeda]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Terapias Puente Azul]]
+Ubicación: [[PLACE|214 Calle Niebla]], [[PLACE|Luminara]], Carolina del Norte, [[PLACE|27509]]
+Teléfono: [[PHONE|919-555-0146]]
+Correo: [[EMAIL|marina@puenteazul.invalid]]
+Distrito: [[SCHOOL|Distrito Escolar Senderos]]
+Escuela: [[SCHOOL|Escuela Primaria Lucero]]
+Aula: [[TEACHER|Carmen]], maestra del salón preescolar
+Facturación: CPT [[KEEP|92507]]; modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Subjetivo:
+Su mamá [[PARENT|Nadia Robles]] informó más peticiones espontáneas durante las comidas. Su abuela, doña [[FAMILY|Lupe]], acompañó la sesión. Su hermana [[SIBLING|Iris]] practica turnos en casa. La familia recibió orientación de la [[AGENCY|Oficina Smart Start de Senderos]], ubicada en el condado de [[PLACE|Brisavalle]]. No hubo cambios de salud.
+
+Objetivo:
+[[CHILD|Elías]] participó en juego compartido con su compañero [[PEER|Bruno]]. Produjo "[[KEEP|quiero agua]]" en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]]. Identificó acciones con [[KEEP|80%]] de precisión y practicó /[[KEEP|k]]/ en "[[KEEP|casa]]". Se observó sustitución por [[KEEP|[t]]]. Se aplicaron estrategias de [[KEEP|Hanen]]. Dijo "[[PET|Chispa]] duerme" al describir su mascota.
+
+Análisis:
+Los resultados previos de [[KEEP|Goldman-Fristoe-3]] mostraron puntuación estándar [[KEEP|78]], intervalo de confianza [[KEEP|73-83]] y percentil [[KEEP|7]]. El perfil de [[KEEP|Rossetti Infant-Toddler Language Scale]] orientó las actividades funcionales. Hoy aumentó la iniciativa comunicativa; persisten dificultades para generalizar frases sin apoyo.
+
+Plan:
+Continuar práctica de peticiones y alternancia de turnos. La maestra [[TEACHER|Carmen]] incorporará "[[KEEP|mi turno]]" durante el juego. La madre registrará ejemplos espontáneos. Próxima sesión: [[DATE|17 de octubre de 2026]]. Revisar respuesta a las ayudas visuales y reducirlas gradualmente.

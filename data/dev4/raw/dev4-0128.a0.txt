@@ -1,0 +1,26 @@
+DAILY THERAPY NOTE — SPEECH-LANGUAGE PATHOLOGY
+
+Date of session: [[DATE|October 9, 2026]]
+Child: [[CHILD|Mateo Alvarez Cruz]] DOB [[DATE|02/14/2023]], age [[KEEP|3;8]]
+Medicaid ID: [[MEDICAID_ID|987654321B]] Record ID: [[ID|LD-00457]]
+
+Weekly Session Schedule
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[DAYCARE|Little Steps Daycare]] |
+| Wednesday | [[TIME|2:00 PM]] | [[TIME|2:30 PM]] | [[PLACE|142 Maple Grove Lane, Hickory, NC 28601]] |
+| Friday | [[TIME|10:15 AM]] | [[TIME|10:45 AM]] | [[AGENCY|Catawba County CDSA]] office |
+
+Today's visit occurred at [[PLACE|142 Maple Grove Lane, Hickory, NC 28601]].
+
+S: Mother, [[PARENT|Lucia Rodriguez]], reports [[CHILD|Mateo]] has been more verbal at home. She said he plays most with his sister [[SIBLING|Sofia]] and the family dog [[PET|Rocky]]. During play Mateo spontaneously said "[[KEEP|go]] [[SIBLING|Sofia]]" and "[[PET|Rocky]] run," showing emerging two-word combinations. Grandmother [[FAMILY|Carmen Ruiz]], who babysits most afternoons, confirmed similar gains.
+
+O: Treatment targeted [[KEEP|/k/]] and [[KEEP|/g/]] in word-initial position using [[KEEP|PROMPT]] cueing and [[KEEP|Hanen]] strategies. Mateo produced targets with [[KEEP|min cues]] on [[KEEP|8/10]] trials, improved from [[KEEP|3 of 5]] last session. Articulation probes showed [[KEEP|/t/]] for [[KEEP|/k/]] substitution reduced to [[KEEP|20%]] of trials.
+
+A: Mateo continues toward IFSP [[KEEP|Outcome 2]], consistent with prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score of [[KEEP|78 (73-83)]].
+
+P: Discussed classroom carryover with Ms. [[TEACHER|Lopez]] in the Sunshine Room at [[DAYCARE|Little Steps Daycare]], where peer [[PEER|Ethan]] models two-word phrases well. Coordinated with service coordinator [[PROVIDER|Denise Walker]] regarding continued [[AGENCY|DSS]], [[AGENCY|WIC]], [[AGENCY|Smart Start]], and [[AGENCY|Early Head Start]] supports.
+
+Contact: [[PHONE|(828) 555-0143]], [[EMAIL|mfernandez@carolinapeds.example]]
+
+SLP: [[PROVIDER|Maria Fernandez, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Therapy Services]]

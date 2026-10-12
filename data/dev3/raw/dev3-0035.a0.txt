@@ -1,0 +1,149 @@
+Nombre del paciente: [[CHILD|María José Hernández Gómez]]
+Nombre preferido: [[CHILD|Majo]]
+Fecha de nacimiento: [[DATE|14 de marzo de 2021]] ([[DATE|03/14/2021]])
+Edad cronológica en la evaluación: [[KEEP|3;11]]
+Sexo: Femenino
+Número de expediente clínico: [[ID|LD-2025-00847]]
+Número de Medicaid: [[MEDICAID_ID|987654321B]]
+Idioma(s) del hogar: Español e inglés
+Fechas de evaluación: [[DATE|3 de marzo de 2025]] y [[DATE|el martes 4 de marzo de 2025]]
+Fecha del informe: [[DATE|12 de marzo de 2025]]
+Lugar de nacimiento: [[PLACE|Winston-Salem]]
+Domicilio: [[PLACE|148 Calle Maple]], [[PLACE|Burlington]], [[PLACE|Condado de Alamance]], [[PLACE|27215]]
+Teléfono del hogar: [[PHONE|(336) 555-0148]]
+Celular de la madre: [[PHONE|336-555-0199]]
+Celular del padre: [[PHONE|336.555.0172]]
+Teléfono de la abuela paterna (Honduras): [[PHONE|+504 9988-7766]]
+Correo electrónico de contacto: [[EMAIL|phernandez2021@gomezmail.com]]
+Distrito escolar: [[SCHOOL|Sistema de Escuelas Públicas del Condado de Alamance-Burlington]]
+Escuela/Programa preescolar: [[SCHOOL|Escuela Primaria Grove Park]]
+Maestra del salón: [[TEACHER|Teresa Alvarado]]
+Asistente de maestra: [[TEACHER|Brenda Solís]]
+CDSA: [[AGENCY|Agencia de Servicios para el Desarrollo Infantil del Área de Piedmont Central]] ([[AGENCY|CDSA de Piedmont Central]])
+Coordinadora de servicios: [[PROVIDER|Lucía Fernández Morales]]
+Agencia de coordinación de servicios: [[AGENCY|Red de Apoyo Familiar y Comunitario de las Carolinas]] ([[AGENCY|la Red]])
+Evaluadora/Patóloga del habla y lenguaje: [[PROVIDER|Diana Castillo Reyes, M.S., CCC-SLP]]
+Práctica/Empleador: [[EMPLOYER|Terapias Pediátricas Carolina del Piedmont, PLLC]]
+Médico de cabecera: [[PROVIDER|Dr. Ramón Ortiz]]
+Clínica del médico: [[HOSPITAL|Clínica Pediátrica Alamance]]
+Intérprete: No se requirió; la evaluadora es bilingüe.
+
+I. MOTIVO DE LA REFERENCIA
+
+[[CHILD|María José]] ("[[CHILD|Majo]]") fue referida para esta evaluación de habla y lenguaje por su médico de cabecera, [[PROVIDER|Dr. Ramón Ortiz]], de la [[HOSPITAL|Clínica Pediátrica Alamance]], después de que su madre, [[PARENT|Patricia Gómez Ramírez]], expresara preocupación durante la consulta de los [[KEEP|3;9]] años porque la niña usaba pocas palabras combinadas y era difícil de entender tanto para la familia como para el personal de la [[SCHOOL|Escuela Primaria Grove Park]]. El [[DATE|20 de enero de 2025]], el [[PROVIDER|Dr. Ortiz]] envió una referencia a la [[AGENCY|Agencia de Servicios para el Desarrollo Infantil del Área de Piedmont Central]] ([[AGENCY|CDSA de Piedmont Central]]) para una evaluación multidisciplinaria dentro del sistema de intervención temprana. La coordinadora de servicios asignada, [[PROVIDER|Lucía Fernández Morales]], de la [[AGENCY|Red de Apoyo Familiar y Comunitario de las Carolinas]] ([[AGENCY|la Red]]), contactó a la familia el [[DATE|28 de enero de 2025]] para explicar el proceso del Plan Individualizado de Servicios para la Familia (IFSP) y coordinar esta evaluación.
+
+La familia reside actualmente en [[PLACE|148 Calle Maple]], [[PLACE|Burlington]], [[PLACE|Condado de Alamance]], [[PLACE|27215]]. [[CHILD|Majo]] asiste al programa preescolar del [[SCHOOL|Sistema de Escuelas Públicas del Condado de Alamance-Burlington]] en la [[SCHOOL|Escuela Primaria Grove Park]], en el salón de la maestra [[TEACHER|Teresa Alvarado]], con el apoyo de la asistente [[TEACHER|Brenda Solís]].
+
+II. FUENTES DE INFORMACIÓN
+
+Esta evaluación se basa en: (a) entrevista con la madre, [[PARENT|Patricia Gómez Ramírez]], realizada el [[DATE|3 de marzo de 2025]]; (b) revisión del expediente médico de la [[HOSPITAL|Clínica Pediátrica Alamance]]; (c) comunicación telefónica con la maestra [[TEACHER|Teresa Alvarado]] el [[DATE|28 de febrero de 2025]]; (d) observación directa y administración de pruebas estandarizadas durante dos visitas, el [[DATE|3 de marzo de 2025]] y [[DATE|el martes 4 de marzo de 2025]], en el domicilio familiar; y (e) notas de la coordinadora de servicios, [[PROVIDER|Lucía Fernández Morales]].
+
+III. ANTECEDENTES FAMILIARES Y DEL HOGAR
+
+[[CHILD|Majo]] vive con su madre, [[PARENT|Patricia Gómez Ramírez]] (32 años), su padre, [[PARENT|Javier Hernández Soto]] (35 años), y su hermano mayor, [[SIBLING|Diego Hernández Gómez]], de 7 años, quien cursa segundo grado en la [[SCHOOL|Escuela Primaria Grove Park]]. La familia también tiene un perro llamado [[PET|Rocky]], al que [[CHILD|Majo]] menciona con frecuencia en sus juegos y que considera parte importante de la familia.
+
+La [[PARENT|Sra. Gómez Ramírez]] trabaja como auxiliar administrativa en [[ORG|Distribuidora Avícola Piedmont]], y el [[PARENT|Sr. Hernández Soto]] trabaja como supervisor de almacén en [[ORG|Muebles y Decoración Alamance]]. Ambos padres nacieron en México; la [[PARENT|Sra. Gómez Ramírez]] es originaria de Puebla y el [[PARENT|Sr. Hernández Soto]] de Veracruz. Se mudaron a Carolina del Norte en 2016, antes del nacimiento de [[SIBLING|Diego]]. La abuela paterna, [[FAMILY|Rosa Soto de Hernández]], vive en Honduras y habla con la familia por teléfono con frecuencia; su número es [[PHONE|+504 9988-7766]]. La abuela materna, [[FAMILY|Carmen Ramírez Luna]], vive a dos horas de distancia, en [[PLACE|Greensboro]], y cuida a [[CHILD|Majo]] y a [[SIBLING|Diego]] algunas tardes después de la escuela, usualmente los días que la madre trabaja hasta tarde.
+
+El idioma principal del hogar es el español; el padre y la madre hablan español con los niños, y [[CHILD|Majo]] ha comenzado a adquirir inglés principalmente a través del programa preescolar. Según refiere la madre, [[CHILD|Majo]] entiende ambos idiomas pero produce lenguaje con más frecuencia en español, sobre todo con [[FAMILY|Carmen Ramírez Luna]] y con [[SIBLING|Diego]]. No hay antecedentes de uso de intérprete formal en citas médicas previas porque la madre se comunica en inglés a nivel funcional, aunque prefiere el español para temas médicos complejos y para esta entrevista.
+
+En cuanto a antecedentes familiares de trastornos de comunicación, la madre reporta que un tío materno, [[FAMILY|Ernesto Ramírez Luna]], tuvo "problemas para hablar" en la niñez y recibió terapia de lenguaje durante varios años, aunque no recuerda el diagnóstico específico ni el nombre del proveedor que lo atendió. No se reportan otros antecedentes familiares significativos de trastornos del habla, lenguaje, audición o aprendizaje en ninguna de las dos ramas de la familia.
+
+IV. HISTORIA PRENATAL, PERINATAL Y NEONATAL
+
+El embarazo de [[CHILD|Majo]] fue, según refiere la madre, sin complicaciones significativas, con atención prenatal regular a partir del primer trimestre y sin hospitalizaciones durante la gestación. [[CHILD|Majo]] nació a las [[KEEP|39 semanas]] de gestación por parto vaginal en el [[HOSPITAL|Hospital Wake Forest Baptist]] en [[PLACE|Winston-Salem]], el [[DATE|14 de marzo de 2021]]. El peso al nacer fue de [[KEEP|3,210 gramos]] y la talla de [[KEEP|49 centímetros]]. Los puntajes de Apgar fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. No se reportan complicaciones neonatales, estancia en unidad de cuidados intensivos, ictericia significativa, ni problemas de alimentación en el período neonatal inmediato. El alta hospitalaria ocurrió a las 48 horas de vida, dentro de los parámetros esperados.
+
+V. HISTORIA MÉDICA
+
+[[CHILD|Majo]] ha tenido múltiples episodios de otitis media aguda, documentados en su expediente de la [[HOSPITAL|Clínica Pediátrica Alamance]] bajo los códigos [[KEEP|H66.90]] y [[KEEP|H65.19]], con el episodio más reciente en [[DATE|noviembre de 2024]]. Se colocaron tubos de ventilación (timpanostomía bilateral, código [[KEEP|CPT 69436]]) el [[DATE|15 de septiembre de 2024]] ([[DATE|15-09-2024]]) en el [[HOSPITAL|Hospital Wake Forest Baptist]], procedimiento realizado por el otorrinolaringólogo [[PROVIDER|Dr. Felipe Granados]]. Desde entonces, la madre reporta una disminución notable en la frecuencia de infecciones de oído, aunque la última audiometría, realizada el [[DATE|20 de enero de 2025]] (informe [[DATE|2025-01-20]]), mostró audición dentro de límites normales bilateralmente, con timpanogramas de tipo A en ambos oídos.
+
+No hay antecedentes de convulsiones, hospitalizaciones por causas distintas a la ya mencionada, ni diagnóstico de trastorno del espectro autista, aunque la madre menciona que el pediatra discutió la posibilidad de una evaluación adicional si las preocupaciones de comunicación persisten después de esta evaluación. [[CHILD|Majo]] toma actualmente únicamente un multivitamínico diario; no tiene alergias conocidas a medicamentos ni a alimentos. La visión fue evaluada en el consultorio del [[PROVIDER|Dr. Ortiz]] y se reporta dentro de límites normales para la edad.
+
+VI. HISTORIA DEL DESARROLLO
+
+Los hitos motores gruesos y finos de [[CHILD|Majo]] se reportan dentro de límites normales: se sentó sin apoyo a los [[KEEP|6 meses]], caminó de manera independiente a los [[KEEP|13 meses]], y actualmente corre, salta y sube escaleras alternando los pies sin dificultad. Las habilidades de autoayuda (comer con cuchara, quitarse los zapatos, intentos de vestirse de manera independiente) también se describen como apropiadas para la edad, sin preocupaciones adicionales reportadas por la familia ni por el personal escolar.
+
+En cuanto al desarrollo del habla y lenguaje, la madre reporta que [[CHILD|Majo]] dijo sus primeras palabras ([[KEEP|"mamá"]], [[KEEP|"papá"]]) alrededor de los [[KEEP|14 meses]], dentro de los límites esperados, pero el progreso posterior ha sido más lento de lo esperado. A los [[KEEP|2;0]] años combinaba pocas palabras de manera ocasional, y a los [[KEEP|3;0]] años su habla seguía siendo difícil de entender para personas fuera del hogar inmediato, incluyendo a [[FAMILY|Carmen Ramírez Luna]] en ocasiones. La madre completó un cuestionario de desarrollo (Ages and Stages Questionnaire) en la visita de los [[KEEP|3;9]] años, el cual marcó la banda de comunicación en el rango de preocupación, motivando la referencia actual al sistema de intervención temprana.
+
+VII. HISTORIA EDUCATIVA Y SERVICIOS ACTUALES
+
+Antes de ingresar al preescolar, [[CHILD|Majo]] asistió, de los [[KEEP|18 meses]] a los [[KEEP|3;6]] años, al [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], ubicado en [[PLACE|Burlington]]. El personal de ese centro, incluyendo a la directora, [[FAMILY|Yolanda Pérez]], había notado previamente que [[CHILD|Majo]] se frustraba al no poder hacerse entender con sus compañeros, en particular con su amiga cercana, [[PEER|Ashley Thompson]], con quien jugaba todos los días durante el recreo.
+
+Desde [[DATE|agosto de 2024]], [[CHILD|Majo]] asiste al programa preescolar de la [[SCHOOL|Escuela Primaria Grove Park]], dentro del [[SCHOOL|Sistema de Escuelas Públicas del Condado de Alamance-Burlington]], en el salón de la maestra [[TEACHER|Teresa Alvarado]], de [[TIME|8:30 a.m.]] a [[TIME|3:00 p.m.]], de lunes a viernes. Durante la llamada telefónica del [[DATE|28 de febrero de 2025]], la maestra [[TEACHER|Alvarado]] y la asistente [[TEACHER|Brenda Solís]] informaron que [[CHILD|Majo]] participa activamente en actividades grupales, pero que a menudo recurre a gestos o a señalar objetos cuando sus compañeros, incluyendo a [[PEER|Jacob Ruiz]] y [[PEER|Camila Ortiz]], no entienden lo que intenta comunicar verbalmente. [[TEACHER|La maestra Alvarado]] reporta que [[CHILD|Majo]] disfruta de los libros ilustrados y de las canciones en ambos idiomas, y que responde bien a instrucciones simples en inglés dentro del aula, pero que necesita repetición frecuente cuando las instrucciones tienen más de un paso.
+
+[[CHILD|Majo]] no recibe actualmente ningún servicio de terapia; esta evaluación es parte del proceso de determinación de elegibilidad para servicios de intervención temprana a través de la [[AGENCY|CDSA de Piedmont Central]], coordinado con la [[SCHOOL|Escuela Primaria Grove Park]] para que los servicios, de aprobarse, puedan ofrecerse dentro del horario escolar siempre que sea posible.
+
+VIII. OBSERVACIÓN CONDUCTUAL
+
+Durante ambas sesiones de evaluación, realizadas en el domicilio familiar entre las [[TIME|9:00 a.m.]] y las [[TIME|10:30 a.m.]], [[CHILD|Majo]] se mostró inicialmente tímida pero se relajó rápidamente al interactuar con juguetes y libros presentados por la evaluadora, [[PROVIDER|Diana Castillo Reyes]]. Mantuvo atención conjunta de manera consistente, siguió instrucciones de un paso sin apoyo visual y de dos pasos con apoyo visual ocasional, y demostró juego simbólico apropiado para su edad; por ejemplo, alimentó a una muñeca y dijo [[KEEP|"bebé come"]]. Durante momentos de frustración comunicativa, [[CHILD|Majo]] recurrió ocasionalmente a jalar la manga de su madre o a señalar en lugar de intentar verbalizar, particularmente con vocabulario menos frecuente o con conceptos espaciales.
+
+La inteligibilidad del habla de [[CHILD|Majo]] se estimó en aproximadamente [[KEEP|40-50%]] para oyentes desconocidos sin contexto, y en [[KEEP|70-80%]] para la madre, quien conoce el contexto y el vocabulario habitual de la niña. [[CHILD|Majo]] cambió de código entre español e inglés varias veces durante la sesión; por ejemplo, dijo [[KEEP|"quiero el ball"]] al señalar una pelota, lo cual es consistente con el desarrollo bilingüe típico y no se interpretó como evidencia de un trastorno independiente, sino como una estrategia comunicativa típica de niños bilingües de su edad.
+
+No se observaron conductas repetitivas, intereses restringidos, ni dificultades significativas de atención conjunta o de contacto visual durante ninguna de las dos sesiones. [[CHILD|Majo]] buscó activamente la aprobación de su madre y de la evaluadora durante las actividades de juego, y utilizó gestos comunicativos convencionales (señalar, mostrar, dar) de manera apropiada para su edad.
+
+IX. INSTRUMENTOS ADMINISTRADOS Y RESULTADOS
+
+Se administraron los siguientes instrumentos estandarizados, con normas disponibles en español e inglés cuando corresponde. Dada la naturaleza bilingüe de la adquisición de lenguaje de [[CHILD|Majo]], se consideraron ambos idiomas al calificar los ítems receptivos y expresivos, siguiendo el protocolo de "mejor desempeño en cualquier idioma" recomendado para la evaluación de niños bilingües en desarrollo.
+
+Tabla de resultados:
+
+Prueba / Subprueba | Puntaje estándar | Percentil | Intervalo de confianza (95%)
+[[KEEP|Preschool Language Scales, Fifth Edition (PLS-5 Spanish)]] — [[KEEP|Comprensión Auditiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|70-82]]
+[[KEEP|PLS-5 Spanish]] — [[KEEP|Comunicación Expresiva]] | [[KEEP|71]] | [[KEEP|3]] | [[KEEP|65-77]]
+[[KEEP|PLS-5 Spanish]] — [[KEEP|Puntaje Total de Lenguaje]] | [[KEEP|72]] | [[KEEP|3]] | [[KEEP|67-77]]
+[[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]] | [[KEEP|65]] | [[KEEP|1]] | [[KEEP|58-72]]
+[[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]] — [[KEEP|Estructura del Lenguaje]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|68-80]]
+[[KEEP|Khan-Lewis Phonological Analysis, Third Edition (KLPA-3)]] — índice de procesos fonológicos | [[KEEP|percentil 2]] | — | —
+
+Se complementaron los instrumentos estandarizados con una muestra de lenguaje espontáneo, analizada mediante los procedimientos del [[KEEP|Systematic Analysis of Language Transcripts (SALT)]]. La longitud media de enunciado (LME) en morfemas fue de [[KEEP|2.1]], por debajo de lo esperado para la edad cronológica de [[CHILD|Majo]]. Se observaron omisiones y sustituciones frecuentes de morfemas gramaticales en la transcripción, codificadas con convenciones del tipo [[KEEP|"yo [EW:quiero] jugo"]] en lugar de la forma objetivo [[KEEP|"yo quiero jugo"]], y con omisiones marcadas como [[KEEP|[EO]]] en varios enunciados de la muestra.
+
+X. ANÁLISIS FONOLÓGICO
+
+El análisis del habla de [[CHILD|Majo]] reveló varios procesos fonológicos que persisten más allá de la edad esperada para su resolución. Se observó reducción de grupos consonánticos de manera consistente, por ejemplo, produciendo [[KEEP|"pato"]] en lugar de la palabra objetivo [[KEEP|"plato"]] y [[KEEP|"bazo"]] en lugar de [[KEEP|"brazo"]]. También se observó sustitución del fonema [[KEEP|/r/]] por [[KEEP|[l]]], como en la producción [[KEEP|"poi favol"]] para [[KEEP|"por favor"]], y frontalización velar, sustituyendo [[KEEP|/k/]] por [[KEEP|[t]]], como en [[KEEP|"tasa"]] para [[KEEP|"casa"]].
+
+En la producción de la palabra objetivo [[KEEP|"perro"]], [[CHILD|Majo]] produjo [[KEEP|"pelo"]], omitiendo la vibrante múltiple [[KEEP|/ɾ/]] esperada en posición intervocálica. Curiosamente, al jugar con un libro sobre animales, señaló la imagen del perro de la historia y dijo "[[PET|Rocky]] no", refiriéndose a que el perro del libro no era igual a su propio perro.
+
+Los procesos observados —reducción de grupos consonánticos, sustitución de líquidas y frontalización velar— son consistentes entre ambos idiomas del hogar, lo cual apoya la interpretación de un trastorno fonológico verdadero en lugar de una diferencia atribuible únicamente al desarrollo bilingüe típico. Esta distinción es clínicamente importante, ya que los procesos atribuibles solo a la influencia de un idioma sobre otro no deberían considerarse evidencia de un trastorno.
+
+XI. ANÁLISIS DEL LENGUAJE EXPRESIVO Y RECEPTIVO
+
+A nivel receptivo, [[CHILD|Majo]] siguió instrucciones de un paso de manera consistente ([[KEEP|8/10]]) y de dos pasos relacionados con apoyo contextual en [[KEEP|6 de 10]] ensayos. Identificó vocabulario básico de categorías (animales, comida, ropa) con [[KEEP|90%]] de precisión, pero tuvo dificultad con conceptos espaciales (dentro/fuera, debajo/encima), logrando solo [[KEEP|3 de 8]] ítems correctos.
+
+A nivel expresivo, [[CHILD|Majo]] combinó principalmente dos palabras ([[KEEP|"mamá ven"]], [[KEEP|"perro grande"]]), con producción ocasional de enunciados de tres palabras bajo claves mínimas ([[KEEP|min cues]]) del tipo modelo-imitación. No se observó uso consistente de morfemas gramaticales tempranos como el plural o los artículos. El vocabulario expresivo estimado, según el inventario MacArthur-Bates adaptado al español administrado a la madre, correspondía a una edad equivalente de [[KEEP|2;3-2;6]], notablemente por debajo de su edad cronológica de [[KEEP|3;11]].
+
+XII. ASPECTOS PRAGMÁTICOS Y SOCIALES
+
+[[CHILD|Majo]] demostró intenciones comunicativas variadas, incluyendo solicitar, protestar, comentar y llamar la atención, aunque el repertorio de medios verbales para expresar estas intenciones es limitado en comparación con sus compañeros de clase. Durante el juego con la evaluadora, inició interacción de manera espontánea en varias ocasiones, por ejemplo, mostrando un juguete y diciendo [[KEEP|"mira"]] antes de intentar nombrarlo. Según el reporte de la maestra [[TEACHER|Alvarado]], en el salón [[CHILD|Majo]] prefiere jugar en grupos pequeños y recurre a [[PEER|Camila Ortiz]] como compañera de confianza cuando no logra hacerse entender con el resto del grupo.
+
+XIII. IMPRESIONES DIAGNÓSTICAS
+
+Con base en los hallazgos de esta evaluación —incluyendo puntajes estándar consistentemente por debajo de [[KEEP|1.5 desviaciones estándar]] del promedio en pruebas estandarizadas en ambos dominios receptivo y expresivo, inteligibilidad reducida, procesos fonológicos atípicos para la edad presentes en ambos idiomas, y el impacto funcional reportado por la familia y el personal escolar— se concluye que [[CHILD|Majo]] presenta:
+
+1. Trastorno del lenguaje mixto (receptivo-expresivo), código [[KEEP|F80.2]].
+2. Trastorno fonológico, código [[KEEP|F80.0]].
+
+Estos hallazgos son consistentes entre los dos idiomas del hogar de [[CHILD|Majo]], lo que respalda la conclusión de que las dificultades reflejan un trastorno de comunicación verdadero y no una diferencia lingüística esperada en el desarrollo bilingüe típico. [[CHILD|Majo]] califica para servicios de intervención temprana bajo los criterios de elegibilidad de retraso significativo del desarrollo de la comunicación establecidos por el programa de intervención temprana de Carolina del Norte.
+
+XIV. RECOMENDACIONES
+
+1. Se recomienda que [[CHILD|Majo]] reciba terapia de habla y lenguaje individual, idealmente dos veces por semana, con servicios ofrecidos en español, inglés, o ambos, según disponibilidad de proveedores bilingües a través de la [[AGENCY|CDSA de Piedmont Central]].
+2. Se recomienda el desarrollo de un Plan Individualizado de Servicios para la Familia (IFSP), con una reunión de elegibilidad programada para el [[DATE|20 de marzo de 2025]], coordinada por [[PROVIDER|Lucía Fernández Morales]] de [[AGENCY|la Red]].
+3. Objetivo propuesto para el [[KEEP|Resultado 1]] del IFSP: incrementar la longitud media de enunciado y el uso de morfemas gramaticales tempranos en ambos idiomas.
+4. Objetivo propuesto para el [[KEEP|Resultado 2]] del IFSP: mejorar la precisión de producción de grupos consonánticos y del fonema [[KEEP|/r/]] en posición inicial e intervocálica, con la meta de alcanzar una inteligibilidad de al menos [[KEEP|75%]] para oyentes desconocidos.
+5. Se recomienda un enfoque de intervención basado en el programa [[KEEP|Hanen]] ("It Takes Two to Talk") para fortalecer las estrategias de los padres en casa, complementado con el enfoque [[KEEP|Cycles]] para el abordaje de los procesos fonológicos identificados, y claves articulatorias de tipo [[KEEP|PROMPT]] según sea necesario.
+6. Se recomienda que el equipo escolar en la [[SCHOOL|Escuela Primaria Grove Park]] mantenga comunicación regular con la familia y con el proveedor de terapia, e incorpore estrategias de apoyo visual en el salón de la maestra [[TEACHER|Teresa Alvarado]].
+7. Se recomienda repetir la audiometría en [[DATE|6 meses]] dada la historia de otitis media recurrente, en coordinación con el [[PROVIDER|Dr. Felipe Granados]] o el [[PROVIDER|Dr. Ramón Ortiz]].
+8. Se recomienda que la familia continúe exponiendo a [[CHILD|Majo]] a ambos idiomas en casa sin restringir ninguno, ya que el bilingüismo no es la causa del trastorno observado.
+9. Se sugiere una reevaluación formal en aproximadamente [[KEEP|12 meses]], o antes si el equipo del IFSP lo considera necesario.
+10. Se recomienda que la coordinadora de servicios, [[PROVIDER|Lucía Fernández Morales]], mantenga contacto mensual con la familia durante los primeros seis meses de servicios para monitorear el progreso y facilitar la comunicación entre la [[AGENCY|CDSA de Piedmont Central]], la [[SCHOOL|Escuela Primaria Grove Park]] y el proveedor de terapia.
+
+XV. RESUMEN
+
+[[CHILD|María José Hernández Gómez]] ("[[CHILD|Majo]]"), una niña bilingüe (español-inglés) de [[KEEP|3;11]] años, presenta un trastorno del lenguaje mixto y un trastorno fonológico que afectan su inteligibilidad y su capacidad de comunicarse eficazmente en el hogar, en la [[SCHOOL|Escuela Primaria Grove Park]] y en la comunidad. Las dificultades son consistentes entre ambos idiomas, lo que confirma que no se trata de una diferencia lingüística esperada en el desarrollo bilingüe típico. Se recomienda intervención de habla y lenguaje a través del sistema de intervención temprana, con la participación activa de la familia y coordinación continua entre la [[AGENCY|CDSA de Piedmont Central]], [[AGENCY|la Red]], y el programa preescolar.
+
+Esta evaluación y sus recomendaciones fueron preparadas por:
+
+[[PROVIDER|Diana Castillo Reyes, M.S., CCC-SLP]]
+Patóloga del Habla y Lenguaje, bilingüe español-inglés
+[[EMPLOYER|Terapias Pediátricas Carolina del Piedmont, PLLC]]
+Teléfono de la oficina: [[PHONE|(336) 555-0120]]
+Fecha del informe: [[DATE|12 de marzo de 2025]]

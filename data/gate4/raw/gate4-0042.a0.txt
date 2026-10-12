@@ -1,0 +1,191 @@
+BILINGUAL PEDIATRIC SPEECH-LANGUAGE EVALUATION
+Fictional clinical document for offline de-identification testing
+
+HEADER AND IDENTIFYING INFORMATION
+
+Field	Information
+Client	[[CHILD|Adrián Solano Vega]]
+Preferred name	[[CHILD|Adri]]
+Date of birth	[[DATE|August 9, 2022]]
+Chronological age	[[KEEP|4;2]]
+Evaluation date	[[DATE|October 13, 2026]]
+Report date	[[DATE|October 20, 2026]]
+Record number	[[ID|SLP-268417]]
+Medicaid member number	[[MEDICAID_ID|583026741Q]]
+Authorization number	[[ID|AUTH-61082473]]
+Referral diagnosis	[[KEEP|F80.2]]
+Additional assessment diagnosis	[[KEEP|F80.0]]
+Evaluation procedure	[[KEEP|92523]]
+Service modifier	[[KEEP|GN]]
+Clinician	[[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP, bilingual pediatric speech-language pathologist
+Clinician's company	[[EMPLOYER|Willow Lantern Pediatric Therapy]]
+Clinic address	[[PLACE|418 Lantern Finch Lane]], Suite 206, [[PLACE|Maplehaven]], North Carolina [[PLACE|27593]]
+Residence	[[PLACE|72 Copper Fern Court]], [[PLACE|Maplehaven]], North Carolina [[PLACE|27593]]
+County	[[PLACE|Larkspur County]]
+School	[[SCHOOL|Meadow Lantern Early Learning School]]
+Previous daycare	[[DAYCARE|Little Acorn Harbor Daycare]]
+Evaluation session	[[TIME|9:05 a.m.]]–[[TIME|10:35 a.m.]]
+
+CONTACT AND CARE TEAM
+
+Role	Name	Contact
+Mother	[[PARENT|Lucía Solano Vega]]	[[PHONE|919-555-0142]]; [[EMAIL|lucia.solano@example.com]]
+Father	[[PARENT|Daniel Vega Torres]]	[[PHONE|919-555-0168]]; [[EMAIL|daniel.vega@example.com]]
+Speech-language pathologist	[[PROVIDER|Elena Marisol Duarte]]	[[PHONE|919-555-0116]]
+Spanish interpreter	[[PROVIDER|Nora Isabel Castañeda]]	[[PHONE|919-555-0181]]
+Pediatrician	Dr. [[PROVIDER|Samuel Ibarra]]	[[PHONE|919-555-0129]]
+Occupational therapist	[[PROVIDER|Priya Benton]]	[[PHONE|919-555-0174]]
+Physical therapist	[[PROVIDER|Owen Calder]]	[[PHONE|919-555-0137]]
+Service coordinator	[[PROVIDER|Tessa Bellamy]]	[[PHONE|919-555-0153]]
+Clinic website	[[URL|https://willowlantern.example.com]]
+
+REASON FOR REFERRAL AND BACKGROUND
+
+Dr. [[PROVIDER|Samuel Ibarra]] referred [[CHILD|Adrián]] because his family reported short spoken messages, unclear speech, and difficulty following classroom directions. His mother, [[PARENT|Lucía Solano Vega]], requested an assessment that considered both Spanish and English. She wanted practical strategies for meals, dressing, and conversations about school.
+
+The family first noticed communication concerns when [[CHILD|Adrián]] was [[KEEP|26 months]] old. He pointed, pulled adults toward objects, and used a small set of words. Spoken combinations increased after he entered daycare. His parents now hear longer messages during familiar play, but unfamiliar listeners often ask for repetition.
+
+His father, [[PARENT|Daniel Vega Torres]], reported that communication breakdowns sometimes lead to crying or leaving an activity. The family described these responses as brief and linked to difficulty expressing a request. They did not report a loss of previously acquired words or social skills.
+
+Teacher Ms. [[TEACHER|Maren Pike]] described strong interest in blocks, pretend cooking, and picture books. Classroom assistant Mr. [[TEACHER|Luis Pareda]] reported that visual demonstrations help him join routines. Referral materials included a teacher questionnaire, parent interview, pediatric records, and prior therapy summaries. All identifying information and clinical details in this report are fictional.
+
+BIRTH AND NEONATAL HISTORY
+
+According to the supplied birth summary, [[CHILD|Adrián Solano Vega]] was born at [[HOSPITAL|Juniper Crest Women's Hospital]] in [[PLACE|Briarwell]], North Carolina, on [[DATE|August 9, 2022]]. Gestational age was [[KEEP|35 weeks, 6 days]]. Birth weight was [[KEEP|2,410 grams]]. Apgar scores were [[KEEP|7]] at one minute and [[KEEP|9]] at five minutes.
+
+His mother, [[PARENT|Lucía Solano Vega]], reported an urgent cesarean delivery following maternal hypertension and reduced fetal movement. Obstetrician Dr. [[PROVIDER|Amelia Rentería]] attended delivery. Neonatologist Dr. [[PROVIDER|Jonah Mercer]] supervised the initial neonatal assessment.
+
+The infant entered the NICU at [[HOSPITAL|Juniper Crest Women's Hospital]] for respiratory observation, temperature support, and feeding assistance. The reported stay lasted six days. Nasogastric supplementation supported early feeding while oral endurance improved. The discharge summary did not describe seizures, major structural abnormalities, or prolonged mechanical ventilation.
+
+Dr. [[PROVIDER|Jonah Mercer]] documented a passed newborn hearing screen. The family reported discharge home on [[DATE|August 15, 2022]]. Early follow-up focused on weight gain and feeding. These historical details provide developmental context; they do not establish the cause of the current communication findings.
+
+MEDICAL AND DEVELOPMENTAL HISTORY
+
+Dr. [[PROVIDER|Samuel Ibarra]] provides primary care through [[HOSPITAL|Riverglass Children's Medical Center]]. Records describe recurrent middle-ear infections during toddlerhood. Otolaryngologist Dr. [[PROVIDER|Leah Montoro]] placed tympanostomy tubes on [[DATE|February 18, 2025]]. Audiologist [[PROVIDER|Evan Quintero]] completed follow-up testing on [[DATE|September 22, 2026]], with hearing reported as adequate for speech access under the tested conditions.
+
+The family reported seasonal nasal congestion, occasional constipation, and no current daily prescription medication. There was no reported history of head injury, seizures, or swallowing-related hospitalization. Vision screening was reportedly completed at the most recent well-child visit.
+
+Independent walking began at [[KEEP|17 months]]. First consistent words emerged around [[KEEP|20 months]]. Two-word combinations became frequent near [[KEEP|32 months]]. Occupational therapist [[PROVIDER|Priya Benton]] currently addresses dressing participation, sensory regulation, and utensil use. Physical therapist [[PROVIDER|Owen Calder]] previously supported stair negotiation and balance.
+
+Early intervention records came from [[AGENCY|Larkspur Children's Developmental Services Agency]]. The prior IFSP, dated [[DATE|June 6, 2025]], included [[KEEP|Outcome 2]] for requesting help during daily routines. Preschool transition planning occurred on [[DATE|July 14, 2026]]. The current evaluation considers those records alongside direct observation.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Adrián]] lives with his mother, [[PARENT|Lucía Solano Vega]], his father, [[PARENT|Daniel Vega Torres]], and his sister, [[SIBLING|Camila Vega Solano]], age [[KEEP|7 years]]. His maternal grandmother, [[FAMILY|Rosa Solano Méndez]], provides afternoon care. Babysitter [[FAMILY|Beatriz Navas]] assists during occasional evening shifts.
+
+His mother works for [[ORG|Copper Finch Packaging Cooperative]]. His father works for [[ORG|Blue Heron Equipment Works]]. Work schedules affect who attends appointments. The family requested written summaries that both parents can review.
+
+Spanish accounts for an estimated [[KEEP|70%]] of communication at home; English accounts for approximately [[KEEP|30%]]. These estimates describe exposure, not language ability. His grandmother primarily speaks Spanish. His sister uses both languages, often switching during pretend play. English predominates at school, although classroom staff use familiar Spanish words and visual supports.
+
+The family described no concern about maintaining two languages. They want him to communicate with relatives and participate in classroom activities. His aunt, [[FAMILY|Marisol Vega]], reported a childhood history of speech therapy. No additional family developmental history was available.
+
+The family dog, [[PET|Biscuit]], frequently appears in home stories. During the interview, his mother reported that he says, "[[PET|Biscuit]] go outside." This phrase was recorded as a caregiver example rather than a scored test response.
+
+EVALUATION CONDITIONS AND PARTICIPATION
+
+[[CHILD|Adrián]] arrived with both parents at [[TIME|8:55 a.m.]]. The clinician began direct assessment at [[TIME|9:05 a.m.]]. A movement break occurred from [[TIME|9:42 a.m.]] to [[TIME|9:49 a.m.]]. Testing and observation ended at [[TIME|10:35 a.m.]]. Parent discussion continued until [[TIME|10:50 a.m.]].
+
+[[PROVIDER|Elena Marisol Duarte]] conducted assessment in Spanish and English. Interpreter [[PROVIDER|Nora Isabel Castañeda]] supported the family's discussion of medical history and service logistics. The interpreter did not independently translate standardized items or supply answers. Responses obtained with added teaching were documented separately from standardized results.
+
+The child initially remained near his mother, then approached the toy shelf and offered the clinician a truck. Engagement improved with predictable turns and brief choices. He participated in seated tasks for several minutes before requesting movement. Fatigue increased near the end, especially during repetitive naming activities.
+
+He responded to his name, shared enjoyment, and followed another person's point toward a hidden toy. Eye contact varied naturally across tasks. No single social behavior was used to determine a diagnosis. Participation supported interpretation of the completed measures, with caution for attention demands and unfamiliar vocabulary.
+
+ASSESSMENT METHODS AND SCORE SUMMARY
+
+The assessment included [[KEEP|PLS-5 Spanish]], a bilingual language sample analyzed with [[KEEP|SALT]], an informal speech inventory, oral mechanism observation, caregiver report, and dynamic teaching. Standardized administration followed the instrument's bilingual procedures. Informal English probes supplemented the profile and did not receive separate standardized scores.
+
+The following fictional scores describe this assessment only. Age equivalents summarize performance on selected items and should not be treated as the child's overall developmental age.
+
+Measure or subtest	Raw score	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]]	[[KEEP|39]]	[[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|73-83]]	[[KEEP|3;0]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]]	[[KEEP|35]]	[[KEEP|74]]	[[KEEP|4th percentile]]	[[KEEP|69–81]]	[[KEEP|2;10]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Total Language]]	Not applicable	[[KEEP|75]]	[[KEEP|5th percentile]]	[[KEEP|70-82]]	[[KEEP|2;11]]
+Informal receptive task cluster	Not standardized	Not applicable	Not applicable	Not applicable	[[KEEP|2;6–3;0]]
+Informal expressive task cluster	Not standardized	Not applicable	Not applicable	Not applicable	[[KEEP|2;4-2;10]]
+
+No scaled scores were generated for the informal tasks. The confidence intervals reflect measurement uncertainty. The informal age-equivalent ranges describe task selection and observed performance; they are not additional standardized results.
+
+RECEPTIVE LANGUAGE FINDINGS
+
+[[CHILD|Adrián]] identified familiar objects, body parts, and common actions in both languages. He followed familiar one-step directions with [[KEEP|min cues]]. Performance declined when directions contained an unfamiliar location word, two unrelated actions, or information presented without a gesture.
+
+He completed [[KEEP|8/10]] familiar one-step directions and [[KEEP|3 of 5]] related two-step directions. With [[KEEP|mod cues]], he completed [[KEEP|4 of 5]] related two-step directions. These supported trials were excluded from standardized scoring.
+
+Understanding of basic possession and routine action words was stronger than understanding of quantity, negation, and spatial relationships. He identified the target word "[[KEEP|under]]" inconsistently but improved after watching a toy move beneath a box. He also benefited from demonstrations for "[[KEEP|behind]]" and "[[KEEP|between]]."
+
+During shared reading, he answered concrete questions about visible actions. Questions requiring an explanation or prediction were harder. His responses suggested that task language and memory demands both affected performance. Difficulty appeared in Spanish and English, although vocabulary familiarity differed between languages.
+
+EXPRESSIVE LANGUAGE FINDINGS
+
+The language sample included spontaneous play, picture description, and a brief retelling. [[CHILD|Adrián]] used gestures, single words, and short combinations. He produced "[[KEEP|más carro]]," "[[KEEP|yo quiero ese]]," and "[[KEEP|truck go fast]]." Longer messages often omitted grammatical elements or required listener clarification.
+
+Within the sample, complete messages occurred in [[KEEP|42%]] of opportunities. Mean utterance length was [[KEEP|2.8 morphemes]] under the selected analysis conventions. Because the sample included two languages, this descriptive value was interpreted cautiously. It was not compared directly with a single-language norm.
+
+The [[KEEP|SALT]] transcript contained [[KEEP|[EW]]] for extraneous words and [[KEEP|[EU]]] for extraneous utterances where those conventions applied. Code-switching alone was not coded as an error. Repetitions associated with planning were described separately.
+
+He named actions more readily after an adult model. With [[KEEP|mod cues]], he expanded [[KEEP|6/10]] short messages. Independent expansions occurred in [[KEEP|2/10]] opportunities. During conversation about school, he said, "[[PEER|Milo Fenwick]] take truck." The clinician accepted this as meaningful communication and modeled a longer message without requiring repetition.
+
+SPEECH SOUND AND MOTOR SPEECH FINDINGS
+
+Speech intelligibility was estimated at [[KEEP|58%]] for an unfamiliar listener during connected play. His mother understood approximately [[KEEP|82%]] in familiar routines. These estimates came from different contexts and are not directly interchangeable.
+
+The speech inventory showed variable production of final consonants, clusters, and velar sounds. The phonemes [[KEEP|/k/]] and [[KEEP|/g/]] were often replaced by anterior sounds. The phoneme [[KEEP|/s/]] was omitted in some longer words. Spanish [[KEEP|/ɾ/]] was variable. Language-specific patterns were considered before identifying errors.
+
+For the target word "[[KEEP|cat]]," he produced "[[KEEP|tat]]." For "[[KEEP|spoon]]," he produced "[[KEEP|poon]]." For "[[KEEP|pelota]]," he produced "[[KEEP|pota]]." A glide resembling [[KEEP|[w]]] occurred in several liquid contexts. These examples represent observed productions rather than a complete phonetic analysis.
+
+He imitated [[KEEP|/k/]] in isolation with [[KEEP|max cues]] and produced it in simple syllables with [[KEEP|mod cues]]. Repeated-word trials showed some variation, but attention and word familiarity also changed. The evaluation did not establish childhood apraxia of speech. Additional structured observation would be needed if motor planning concerns persist.
+
+ORAL MECHANISM, VOICE, FLUENCY, AND FEEDING
+
+Observed facial symmetry, lip closure, and tongue movement supported participation in speech tasks. The child followed oral movement demonstrations with [[KEEP|min cues]]. The examination was observational and did not include instrumental measures.
+
+Voice quality was generally clear. Brief loudness increases occurred during excitement. No persistent strain, breathiness, or abnormal resonance was heard. Fluency observations included occasional phrase repetitions without visible tension. The sample did not support a fluency diagnosis.
+
+His parents reported a preference for crunchy foods and reluctance with mixed textures. They denied coughing, choking, or wet vocal quality during usual meals. Feeding was not directly assessed. Occupational therapist [[PROVIDER|Priya Benton]] can coordinate routine participation strategies, with medical referral if new swallowing concerns arise.
+
+FUNCTIONAL COMMUNICATION AND CLASSROOM PARTICIPATION
+
+Teacher Ms. [[TEACHER|Maren Pike]] reported that [[CHILD|Adrián]] participates best when an adult previews the activity and offers a visual choice. He often watches classmates before joining. Peer [[PEER|Sofia Larkin]] regularly invites him into pretend cooking, while peer [[PEER|Milo Fenwick]] shares the block area.
+
+Classroom assistant Mr. [[TEACHER|Luis Pareda]] observed that breakdowns increase during noisy transitions. The child sometimes says "[[KEEP|help me]]" after a model but otherwise hands the difficult object to an adult. He repaired [[KEEP|3/8]] communication breakdowns independently during clinic play.
+
+The family identified dressing, snack requests, and school conversations as priorities. These routines provide repeated opportunities for useful communication. Success should be judged through clearer messages and greater participation, alongside formal progress measures.
+
+IMPRESSIONS
+
+Findings support a mixed receptive-expressive language disorder, [[KEEP|F80.2]], and a speech sound disorder, [[KEEP|F80.0]]. The profile includes difficulty understanding complex directions, constructing complete messages, and producing speech that unfamiliar listeners understand.
+
+Concerns occurred across both languages and appeared in caregiver reports, classroom descriptions, and direct assessment. Bilingual exposure does not adequately explain the full pattern. Differences in vocabulary between languages remain expected and should inform treatment.
+
+Strengths include shared enjoyment, symbolic play, interest in books, responsive caregivers, and improvement during supported teaching. Attention demands affected performance but did not prevent meaningful assessment. Diagnostic impressions should be reviewed as additional classroom data and treatment response become available.
+
+RECOMMENDATIONS AND INITIAL GOALS
+
+Provide bilingual speech-language therapy twice weekly for 30 minutes, with regular caregiver coaching. Use Spanish and English according to the activity, communication partner, and family preference. Encourage the family to continue using the language that supports natural, detailed interaction.
+
+Use [[KEEP|Hanen]] strategies and selected concepts from [[KEEP|It Takes Two to Talk]] to support responsive turns, waiting, and language models. These recommendations do not represent enrollment in a formal program. Consider [[KEEP|Cycles]] principles for speech patterns after establishing a fuller inventory.
+
+Use [[KEEP|Kaufman]] materials only when their selected targets match the child's needs. Consider [[KEEP|PROMPT]] only after further assessment and clinician training verification. Picture supports, including selected [[KEEP|PECS]] procedures when appropriate, may supplement spoken communication. No branded approach should replace individualized assessment.
+
+Goal	Initial criterion	Support
+[[KEEP|Goal 1]]: Follow related two-step directions	[[KEEP|4/5]] opportunities across routine activities	[[KEEP|min cues]]
+[[KEEP|Goal 2]]: Produce expanded functional messages	[[KEEP|8/10]] opportunities in either language	[[KEEP|mod cues]]
+[[KEEP|Goal 3]]: Produce selected speech targets	[[KEEP|80%]] accuracy in practiced words	[[KEEP|mod cues]]
+[[KEEP|Goal 4]]: Repair communication breakdowns	[[KEEP|4 of 5]] opportunities	[[KEEP|min cues]]
+
+For speech practice, begin with functional words and stimulable sounds. Include targets such as "[[KEEP|car]]," "[[KEEP|cup]]," and "[[KEEP|casa]]" when appropriate. Record the language, word position, and cueing required. Avoid interpreting an English target as a direct measure of Spanish phonology.
+
+PROPOSED SERVICE SCHEDULE AND FOLLOW-UP
+
+Service	Provider	Day	Start	Stop	Location
+Bilingual speech therapy	[[PROVIDER|Elena Marisol Duarte]]	Tuesday	[[TIME|3:15 p.m.]]	[[TIME|3:45 p.m.]]	[[EMPLOYER|Willow Lantern Pediatric Therapy]]
+Bilingual speech therapy	[[PROVIDER|Elena Marisol Duarte]]	Thursday	[[TIME|9:00 a.m.]]	[[TIME|9:30 a.m.]]	[[SCHOOL|Meadow Lantern Early Learning School]]
+Occupational therapy coordination	[[PROVIDER|Priya Benton]]	Monthly Friday	[[TIME|11:10 a.m.]]	[[TIME|11:25 a.m.]]	Telephone consultation
+
+At home, offer short practice opportunities during meals, dressing, and play. Follow the child's interest, pause for a response, and expand his message by one useful element. Accept gestures and picture choices while modeling spoken words.
+
+Service coordinator [[PROVIDER|Tessa Bellamy]] will help align school and clinic planning. Review progress on [[DATE|January 19, 2027]]. Confirm the schedule with both parents before services begin. Suggested treatment billing is [[KEEP|92507]] with modifier [[KEEP|GN]], subject to the authorized plan.
+
+Report prepared by [[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP.
+Signed on [[DATE|October 20, 2026]], at [[TIME|4:40 p.m.]].

@@ -1,0 +1,16 @@
+Nota diaria / Daily speech-language session
+Client: [[CHILD|Elian Brisalo]]  DOB: [[DATE|August 6, 2022]]  Age: [[KEEP|4;2]]
+Service: [[DATE|October 11, 2026]]  Start: [[TIME|9:15 a.m.]]  End: [[TIME|9:45 a.m.]]
+Setting: [[SCHOOL|The Velvet Acorn Observatory]]  Town: [[PLACE|Juniper Vale]], North Carolina  Address: [[PLACE|214 Lanternberry Lane]]
+Clinician: [[PROVIDER|Marisol Veldana]], bilingual SLP  Employer: [[EMPLOYER|Wrenbridge Speech Collective]]  Interpreter: [[PROVIDER|J. Orbel]]
+Record: [[ID|SLP-682941]]  Medicaid: [[MEDICAID_ID|864209731Q]]  CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Contact: [[PHONE|919-555-0146]]  Email: [[EMAIL|intake@wrenbridge.example.invalid]]  Portal: [[URL|https://wrenbridge.example.invalid]]
+Providers: OT [[PROVIDER|Tessa Norvani]]  PT [[PROVIDER|Dario Kelven]]  Pediatrician: Dr. [[PROVIDER|Inez Sorello]]
+
+S / Subjetivo: Su mamá [[PARENT|Nadia Brisalo]] reported, “En casa quiere hablar más, pero se frustra.” Brother [[SIBLING|Tomas Brisalo]] and abuela [[FAMILY|Luz Merenda]] practiced turn-taking. Teacher Ms. [[TEACHER|Varela]] reported improved participation beside classmate [[PEER|Mina Solven]]. Visitor [[PERSON|R.K.]] observed with consent.
+
+O / Objetivo: Used [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]], [[KEEP|PECS]] choices, [[KEEP|Cycles]] auditory input, and [[KEEP|Kaufman]] shaping. Brief [[KEEP|PROMPT]] tactile cues supported bilabial closure. [[CHILD|Elian]] requested [[KEEP|"más agua"]] in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] targets [[KEEP|"casa"]] and [[KEEP|"cup"]] reached [[KEEP|60%]] accuracy with [[KEEP|max cues]]. Spontaneous production [[KEEP|"yo quiere"]] received SALT code [[KEEP|[EW]]]. During play, he said “[[PET|Pipo]] run”; clinician expanded the utterance naturally.
+
+A / Análisis: Historical [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score: [[KEEP|78]]; percentile: [[KEEP|7th]]; confidence interval: [[KEEP|73-83]]; age equivalent: [[KEEP|2;6–3;0]]. Today’s sample showed stronger requesting than grammatical formulation. Spanish responses increased después de esperar quietly. Visual choices reduced frustration, and tactile input required frequent pauses for assent. Performance varied across languages; these observations alone do not establish a new diagnosis.
+
+P / Plan: Continue [[KEEP|IFSP outcome 2]] through shared book routines and snack requests. Model [[KEEP|"quiero más"]] with [[KEEP|min cues]], then fade support. Family will practice five minutes daily, alternando español and English. Coordinate classroom visuals with staff. Review: [[DATE|October 25, 2026]].

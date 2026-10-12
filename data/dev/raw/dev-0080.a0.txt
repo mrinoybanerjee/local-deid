@@ -1,0 +1,102 @@
+INFORME DE EVALUACIÓN DEL HABLA Y LENGUAJE
+
+Nombre del paciente: [[CHILD|Mateo Alejandro Fernández Ríos]]    Nombre preferido: [[CHILD|Teo]]    Fecha de nacimiento: [[DATE|March 14, 2021]]    Edad cronológica: 4;7
+Fecha de evaluación: [[DATE|October 2, 2026]]    Número de expediente: [[ID|LD-48291-NC]]    Número de Medicaid: [[MEDICAID_ID|987654321B]]
+Dirección: [[PLACE|482 Holly Springs Road]], [[PLACE|Cary]], [[PLACE|Wake County]], NC [[PLACE|27519]]    Teléfono de contacto: [[PHONE|(919) 555-0148]]
+Correo electrónico de la familia: [[EMAIL|lrios.familia@gmail.com]]    Idioma primario del hogar: español
+Agencia de intervención temprana: [[AGENCY|Western Piedmont CDSA]]    Sitio web de la agencia: [[URL|www.westernpiedmontcdsa.org]]
+Coordinadora de servicios: [[PROVIDER|Marisol Huang]]    Fecha de la última reunión del IFSP: [[DATE|August 15, 2026]]
+Médico que refiere: [[PROVIDER|Dra. Patricia Owens]], pediatra de cabecera    Lugar de la evaluación: hogar de la familia, sala de estar
+Evaluadora: [[PROVIDER|Ana Patricia Gómez]], M.S., CCC-SLP, patóloga del habla-lenguaje bilingüe
+Clínica/Agencia contratante: [[EMPLOYER|Carolina Pediatric Therapy Services, PLLC]]    Licencia profesional: NC-SLP-10432
+Hora de inicio: [[TIME|9:30 a.m.]]    Hora de finalización: [[TIME|11:15 a.m.]]
+Informantes presentes: madre, [[PARENT|Lucía Ríos Martínez]]    Padre, [[PARENT|Carlos Fernández Soto]] (participó por teléfono)
+Guardería/Centro de cuidado: [[DAYCARE|Little Sprouts Early Learning Center]]    Maestra principal: [[TEACHER|Keisha Owens]]
+
+MOTIVO DE REFERIDO Y TRASFONDO
+
+[[CHILD|Teo]] fue referido para una reevaluación integral del habla y el lenguaje por recomendación de su pediatra, la [[PROVIDER|Dra. Patricia Owens]], debido a preocupaciones continuas sobre la inteligibilidad de su habla tanto en español como en inglés. [[CHILD|Teo]] actualmente recibe servicios de intervención temprana a través de [[AGENCY|Western Piedmont CDSA]], bajo la coordinación de [[PROVIDER|Marisol Huang]], y asiste de lunes a viernes a [[DAYCARE|Little Sprouts Early Learning Center]], donde su maestra, la Sra. [[TEACHER|Keisha Owens]], reporta que a menudo debe adivinar lo que [[CHILD|Teo]] intenta comunicar, especialmente cuando usa oraciones de más de cuatro palabras. En el salón, [[CHILD|Teo]] juega principalmente con dos compañeros, [[PEER|Liam]] y [[PEER|Aria]], y la Sra. [[TEACHER|Owens]] comenta que estos dos niños a veces interpretan para él frente a otros adultos.
+
+La familia vive en una casa unifamiliar en [[PLACE|Cary]], dentro de [[PLACE|Wake County]], junto con la hermana mayor de [[CHILD|Teo]], [[SIBLING|Sol Fernández Ríos]], de siete años, quien asiste a segundo grado en una escuela primaria cercana. La abuela materna, [[FAMILY|Esperanza Martínez]], vive a quince minutos de la familia y provee cuidado después de la escuela dos o tres veces por semana mientras los padres trabajan. La madre, [[PARENT|Lucía Ríos Martínez]], trabaja como supervisora de turno en [[ORG|Harris Teeter]], y el padre, [[PARENT|Carlos Fernández Soto]], trabaja como técnico de mantenimiento en [[ORG|Bandwidth Inc.]]. Ambos padres describen a [[CHILD|Teo]] como un niño cariñoso, curioso y muy activo, que disfruta jugar con el perro de la familia, [[PET|Rex]], y construir torres con bloques.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+[[CHILD|Teo]] nació el [[DATE|March 14, 2021]] en [[HOSPITAL|WakeMed Cary Hospital]], a las 38 semanas de gestación, mediante parto por cesárea de emergencia debido a sufrimiento fetal detectado durante el monitoreo. Pesó 2.9 kg (6 lb 6 oz) al nacer, con un puntaje de Apgar de 6 al minuto y 8 a los cinco minutos. Debido a dificultad respiratoria transitoria, pasó 9 días en la Unidad de Cuidados Intensivos Neonatales (UCIN) del mismo hospital, donde fue atendido por el neonatólogo [[PROVIDER|Dr. Samuel Whitfield]]. Durante su estadía en la UCIN recibió oxígeno suplementario por sonda nasal y fue dado de alta sin complicaciones respiratorias persistentes.
+
+La madre reporta un historial de otitis media recurrente entre los 10 y 24 meses de edad, con un total de seis episodios documentados. A los 18 meses, el otorrinolaringólogo [[PROVIDER|Dr. Henry Oduya]] colocó tubos de timpanostomía bilaterales en un procedimiento ambulatorio; desde entonces, la familia reporta una notable disminución en la frecuencia de infecciones de oído. Un examen audiológico de seguimiento realizado después de la colocación de los tubos indicó audición dentro de límites normales bilateralmente. [[CHILD|Teo]] no tiene antecedentes de convulsiones, hospitalizaciones adicionales ni cirugías mayores. Su pediatra, la [[PROVIDER|Dra. Patricia Owens]], confirma que su desarrollo físico general ha sido típico, con hitos motores gruesos y finos dentro de rangos esperados.
+
+El diagnóstico actual en el expediente médico, según la evaluación más reciente del equipo interdisciplinario de [[AGENCY|Western Piedmont CDSA]], es F80.2 (trastorno mixto del lenguaje receptivo-expresivo), con un diagnóstico secundario de trastorno fonológico. No se reportan alergias conocidas ni medicamentos de uso regular.
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+
+[[CHILD|Teo]] es criado en un hogar bilingüe donde el español es el idioma predominante. Sus padres, [[PARENT|Lucía Ríos Martínez]] y [[PARENT|Carlos Fernández Soto]], ambos nacidos en México, hablan español entre ellos y con los niños en casa aproximadamente el 85% del tiempo; el inglés se introduce principalmente a través de la televisión, la guardería y la hermana mayor, [[SIBLING|Sol]], quien es bilingüe fluida después de dos años de educación formal en inglés. La abuela materna, [[FAMILY|Esperanza Martínez]], habla únicamente español con [[CHILD|Teo]] y pasa aproximadamente diez horas semanales a su cuidado.
+
+Según el reporte de los padres, [[CHILD|Teo]] dijo sus primeras palabras alrededor de los 15 meses, más tarde que su hermana [[SIBLING|Sol]], quien habló antes del año. Combinó dos palabras cerca de los 26 meses. Los padres describen su vocabulario actual como "amplio mentalmente, pero difícil de entender al hablar": [[CHILD|Teo]] parece comprender instrucciones complejas en ambos idiomas, pero su producción oral es significativamente menos clara que la de sus pares. No hay antecedentes familiares reportados de trastornos del habla, lenguaje o aprendizaje, aunque la madre menciona que un tío materno fue "tardío para hablar" sin mayor intervención formal.
+
+La familia reporta que [[CHILD|Teo]] se frustra con frecuencia cuando no es comprendido, a veces recurriendo a gestos, señalar o llevar a un adulto de la mano hacia lo que desea. Disfruta canciones infantiles, dibujos animados en español e inglés, y jugar a "la tiendita" con su hermana [[SIBLING|Sol]], durante el cual imita roles de cliente y vendedora.
+
+PROCEDIMIENTOS DE EVALUACIÓN
+
+La evaluación incluyó observación informal de juego, una muestra de lenguaje espontáneo grabada en video durante interacción con la madre, entrevista estructurada con los padres, revisión de expediente médico y escolar, y la administración de las siguientes pruebas estandarizadas e informales, todas administradas en español por la evaluadora, quien es bilingüe nativa:
+
+- Bilingual English-Spanish Assessment (BESA), subpruebas de Fonología, Morfosintaxis y Semántica
+- Goldman-Fristoe Test of Articulation-3 (GFTA-3), adaptado con criterio clínico para fonología del español
+- Evaluación fonológica informal con lista de palabras dirigidas, incluyendo las palabras objetivo "sol", "pan", "flor" y "perro"
+- Muestra de habla conectada de aproximadamente 100 enunciados
+
+Durante la evaluación, [[CHILD|Teo]] estuvo cooperativo la mayor parte de la sesión, con breves periodos de resistencia cuando las tareas se volvieron repetitivas. Se le ofrecieron descansos con bloques de construcción entre subpruebas, lo cual ayudó a mantener su atención.
+
+RESULTADOS DE PRUEBAS ESTANDARIZADAS
+
+Prueba                                    Puntaje estándar    Percentil    Rango
+BESA - Fonología                          72                  3           Muy por debajo del promedio
+BESA - Morfosintaxis                      78                  7           Por debajo del promedio
+BESA - Semántica                          85                  16          Límite bajo del promedio
+GFTA-3 (criterio clínico, español)        68                  2           Muy por debajo del promedio
+
+Durante la evaluación fonológica dirigida, se le pidió a [[CHILD|Teo]] que nombrara imágenes correspondientes a palabras objetivo que contenían el sonido /s/ en posición inicial. Al nombrar la imagen del astro, [[CHILD|Teo]] produjo [tol] en lugar de "sol", sustituyendo el sonido /s/ por [t] de manera consistente en siete de diez intentos (7/10, 70%). La evaluadora notó que esta palabra en particular generó una reacción emocional: al escuchar su propia producción grabada en reproducción lenta, [[CHILD|Teo]] se rió y dijo "como mi hermana", refiriéndose a que el nombre de su hermana [[SIBLING|Sol]] suena igual que la palabra que estaba practicando. Esta asociación se documenta porque puede ser relevante para la generalización terapéutica: la familia podría usar el nombre de la hermana como ancla semántica positiva durante la práctica en casa, aunque se recomienda tener cuidado de no confundir al niño sobre si se le está corrigiendo el nombre de una persona.
+
+En la palabra objetivo "pan", [[CHILD|Teo]] logró la producción correcta en 8 de 10 intentos (8/10, 80%) con claves mínimas, demostrando mejor estimulabilidad para el sonido /p/ que para /s/. En la palabra "flor", produjo el grupo consonántico /fl/ como [f] en todos los intentos, simplificando el grupo consonántico de manera consistente. En la palabra "perro", la vibrante múltiple /r̄/ fue sustituida por una vibrante simple [ɾ] o por [l] en la mayoría de los ensayos.
+
+En el análisis del proceso fonológico, se identificaron los siguientes patrones con una frecuencia de ocurrencia superior al 40%: reducción de grupos consonánticos, frontalización velar (sustitución de /k/ y /g/ por sonidos alveolares), y posposición de líquidas. El inventario fonético de [[CHILD|Teo]] incluye los sonidos /m, n, p, b, t, d, f, w, j/ de manera consistente, con producción inconsistente de /s, l, r, ɾ, k, g, ʧ/.
+
+La muestra de habla conectada reveló una longitud media de enunciado (LME) de 3.1 morfemas, lo cual se encuentra por debajo de lo esperado para su edad cronológica. Se observaron omisiones frecuentes del artículo determinado y errores en concordancia de género (por ejemplo, "la perro" en lugar de "el perro"). La inteligibilidad global en contexto conocido (con la madre) se estimó en aproximadamente 60%, y en contexto desconocido (con la evaluadora) en aproximadamente 35%, consistente con el reporte de la maestra, la Sra. [[TEACHER|Owens]], sobre su desempeño en la guardería.
+
+Durante tareas de comprensión, [[CHILD|Teo]] siguió instrucciones de dos pasos con claves contextuales en 9 de 10 ensayos (90%), pero su desempeño disminuyó a 5 de 10 (50%) cuando las instrucciones carecían de apoyo visual, sugiriendo una brecha entre comprensión asistida y comprensión auditiva pura.
+
+OBSERVACIONES DEL JUEGO Y PRAGMÁTICA
+
+Durante el juego libre, [[CHILD|Teo]] inició interacción con la evaluadora en seis ocasiones, principalmente mediante gestos acompañados de aproximaciones verbales. Mantuvo contacto visual apropiado y demostró turnos conversacionales básicos, aunque sus turnos a menudo requerían que el interlocutor pidiera clarificación ("¿qué dijiste?") antes de continuar. No se observaron conductas repetitivas, ecolalia ni dificultades sensoriales significativas durante la sesión.
+
+IMPRESIONES CLÍNICAS
+
+Con base en los resultados de las pruebas estandarizadas, la muestra de lenguaje espontáneo, la entrevista con los padres y la revisión de expediente, [[CHILD|Teo]] presenta un trastorno fonológico de moderado a severo, junto con un retraso en el desarrollo morfosintáctico, consistente con el diagnóstico de F80.2. Sus patrones fonológicos (reducción de grupos consonánticos, frontalización velar y posposición de líquidas) son considerados atípicos para su edad cronológica de 4;7, ya que se esperaría que la mayoría de estos procesos hubieran resuelto hacia los 4 años en desarrollo típico bilingüe. La discrepancia entre su comprensión relativamente fuerte y su producción significativamente más débil es consistente con un perfil de trastorno predominantemente expresivo, aunque persisten brechas leves en comprensión auditiva sin apoyo visual.
+
+Es importante señalar que este perfil se observa de manera consistente en ambos idiomas según el reporte de la Sra. [[TEACHER|Owens]] en el entorno de guardería en inglés, lo cual descarta que las dificultades se deban únicamente a adquisición típica de un segundo idioma. Un trastorno de lenguaje verdadero en una población bilingüe se manifiesta en ambos idiomas, y este parece ser el caso de [[CHILD|Teo]].
+
+La baja inteligibilidad en contextos desconocidos (35%) representa una preocupación funcional significativa, ya que limita su capacidad de comunicarse eficazmente con adultos y compañeros fuera del hogar, lo cual es consistente con la frustración reportada por la familia y el patrón observado de que sus compañeros [[PEER|Liam]] y [[PEER|Aria]] frecuentemente interpretan por él.
+
+RECOMENDACIONES
+
+1. Se recomienda que [[CHILD|Teo]] continúe recibiendo terapia de habla-lenguaje individual, con una frecuencia de dos sesiones semanales de 30 minutos cada una, utilizando los códigos de facturación CPT 92507 (tratamiento de trastornos del habla, lenguaje, voz, comunicación o trastornos auditivos relacionados) para las sesiones de tratamiento continuo, y CPT 92523 (evaluación del habla con evaluación del lenguaje) para la presente evaluación integral.
+
+2. Se recomienda terapia dirigida a los siguientes objetivos fonológicos prioritarios, en este orden: reducción del patrón de frontalización velar, reducción de grupos consonánticos (incluyendo /fl/, /kl/, /pl/), y establecimiento de la vibrante simple /ɾ/ antes de abordar la vibrante múltiple.
+
+3. Se recomienda trabajar el sonido /s/ en posición inicial utilizando un enfoque de contraste mínimo, incorporando palabras funcionales y de alto interés para el niño. Dado que la palabra objetivo "sol" generó una respuesta emocional positiva relacionada con el nombre de su hermana [[SIBLING|Sol]], se recomienda que la clínica continúe usando esta palabra como motivador, pero con precaución: se sugiere intercalarla con otras palabras objetivo con /s/ (como "sapo", "saco", "silla") para evitar que el niño asocie la corrección fonética con una corrección de nombre de persona.
+
+4. Se recomienda intervención en morfosintaxis dirigida específicamente a concordancia de género y uso de artículos determinados, utilizando actividades de modelado y expansión durante el juego estructurado.
+
+5. Se recomienda consulta con terapia ocupacional únicamente si se observan dificultades adicionales de regulación sensorial; no se identificaron indicadores claros de tal necesidad durante esta evaluación, por lo que no se refiere en este momento.
+
+6. Se recomienda coordinación continua con la guardería [[DAYCARE|Little Sprouts Early Learning Center]] y la maestra, Sra. [[TEACHER|Keisha Owens]], para asegurar la generalización de estrategias en el entorno escolar, incluyendo instrucciones sobre cómo dar tiempo de espera antes de que los compañeros [[PEER|Liam]] y [[PEER|Aria]] interpreten por [[CHILD|Teo]].
+
+7. Se recomienda que la familia continúe utilizando ambos idiomas en casa de manera natural, sin restringir el uso del español, ya que no existe evidencia de que el bilingüismo contribuya al trastorno de [[CHILD|Teo]] ni de que la reducción de exposición a un idioma mejore los resultados en trastornos de lenguaje verdaderos.
+
+8. Se recomienda una reevaluación formal en seis meses, o antes si el equipo de [[AGENCY|Western Piedmont CDSA]] y la coordinadora, [[PROVIDER|Marisol Huang]], determinan que es necesario actualizar el IFSP antes de la fecha de revisión programada.
+
+9. Se recomienda que los padres, [[PARENT|Lucía Ríos Martínez]] y [[PARENT|Carlos Fernández Soto]], reciban entrenamiento directo en estrategias de estimulación del lenguaje en el hogar, incluyendo técnicas de expansión, modelado y espera estructurada, para maximizar la práctica funcional fuera de las sesiones clínicas.
+
+Este informe fue preparado por [[PROVIDER|Ana Patricia Gómez]], M.S., CCC-SLP, y refleja el desempeño de [[CHILD|Teo]] durante la sesión de evaluación del [[DATE|October 2, 2026]]. Los resultados deben interpretarse junto con observación continua en múltiples entornos, dado que el desempeño en una sola sesión de evaluación puede no capturar completamente la variabilidad día a día característica de los niños pequeños.
+
+Firma: [[PROVIDER|Ana Patricia Gómez]], M.S., CCC-SLP    Fecha del informe: [[DATE|October 6, 2026]]
+Copia enviada a: [[PROVIDER|Dra. Patricia Owens]]    Copia enviada a: [[AGENCY|Western Piedmont CDSA]], atención [[PROVIDER|Marisol Huang]]

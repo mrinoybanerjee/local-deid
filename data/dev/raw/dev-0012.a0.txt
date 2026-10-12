@@ -1,0 +1,106 @@
+Nombre del paciente: [[CHILD|Jesús Emmanuel Domínguez Flores]] ("[[CHILD|Chuy]]", "[[CHILD|Chuyito]]")   Fecha de nacimiento: [[DATE|14 de mayo de 2021]]   Edad actual: 4;9
+
+Fecha de la evaluación: [[DATE|3 de marzo de 2026]]   Número de expediente: [[ID|LD-48219]]   Número de Medicaid: [[MEDICAID_ID|987654321A]]
+
+Evaluadora: [[PROVIDER|Patricia Gómez-Hidalgo]], MS, CCC-SLP   Clínica: [[EMPLOYER|Carolina Pediatric Therapy, PLLC]]   Teléfono: [[PHONE|(919) 555-0148]]   Correo: [[EMAIL|pgomez@carolinapediatrictherapy.com]]
+
+Dirección del paciente: [[PLACE|742 Oakwood Drive]], [[PLACE|Raleigh]], NC [[PLACE|27610]]   Condado: [[PLACE|Wake]]   Teléfono de contacto: [[PHONE|(919) 555-2271]]
+
+Padre: [[PARENT|Roberto Domínguez Salinas]]   Madre: [[PARENT|Fernanda Flores Castillo]]   Idioma del hogar: español e inglés
+
+Escuela actual: [[SCHOOL|Escuela Primaria Riverside Oaks]]   Maestra: Sra. [[TEACHER|Amanda Collins]]   Asistente de aula: Sra. [[TEACHER|Brenda Watts]]
+
+Pediatra: Dr. [[PROVIDER|Michael Chen]]   Coordinadora de servicios (CDSA): [[PROVIDER|Ashley Brooks]]   Agencia: [[AGENCY|CDSA del Piedmont]]
+
+Códigos de facturación de esta visita: CPT 92523, CPT 92507   Diagnóstico: F80.2
+
+MOTIVO DE LA REMISIÓN
+
+[[CHILD|Jesús Emmanuel Domínguez Flores]], conocido en casa y en la escuela como "[[CHILD|Chuy]]" o cariñosamente "[[CHILD|Chuyito]]", fue remitido para una evaluación integral del lenguaje y del habla a petición de su maestra, la Sra. [[TEACHER|Amanda Collins]], y de su madre, [[PARENT|Fernanda Flores Castillo]]. La familia reporta que [[CHILD|Chuy]] es difícil de entender tanto en español como en inglés, que omite sonidos al final de las palabras y que a veces se frustra cuando sus compañeros de clase no le entienden. El pediatra, Dr. [[PROVIDER|Michael Chen]], también notó durante la visita de los 4 años, el [[DATE|12 de febrero de 2026]], que el habla de [[CHILD|Chuy]] parecía estar por debajo de lo esperado para su edad y recomendó la evaluación con la Dra. [[PROVIDER|Susan Patel]], audióloga, antes de proceder.
+
+HISTORIA PRENATAL Y DEL PARTO
+
+Según refiere [[PARENT|Fernanda Flores Castillo]], el embarazo de [[CHILD|Chuy]] fue de término completo, sin complicaciones mayores, aunque la madre tuvo náuseas intensas durante el primer trimestre. [[CHILD|Chuy]] nació el [[DATE|14 de mayo de 2021]] en el [[HOSPITAL|WakeMed Children's Hospital]], mediante parto vaginal, con un peso de 7 libras y 4 onzas. No requirió tiempo en la unidad de cuidados intensivos neonatales. Los puntajes de Apgar fueron normales. La madre indica que no hubo ictericia prolongada ni otras complicaciones en el periodo neonatal inmediato.
+
+HISTORIA MÉDICA
+
+[[CHILD|Chuy]] tuvo varias infecciones de oído entre los 8 meses y los 2 años de edad, con un total de seis episodios documentados de otitis media. Se le colocaron tubos de ventilación (miringotomía) el [[DATE|9/18/2023]] en el [[HOSPITAL|UNC Children's Hospital]] por el otorrinolaringólogo. Desde entonces, las infecciones han disminuido considerablemente, aunque tuvo un episodio leve en [[DATE|noviembre de 2025]]. La audición se evaluó más recientemente el [[DATE|20 de febrero de 2026]] por la Dra. [[PROVIDER|Susan Patel]], con resultados dentro de límites normales bilateralmente. No hay historial de convulsiones, hospitalizaciones significativas ni cirugías mayores. [[CHILD|Chuy]] toma un multivitamínico diario y no tiene alergias conocidas a medicamentos. Su hermano menor, [[SIBLING|José Domínguez Flores]], a quien la familia llama "[[SIBLING|Pepito]]", nació con un paladar hendido reparado quirúrgicamente, lo cual la madre menciona como antecedente familiar relevante para el desarrollo del habla.
+
+HISTORIA FAMILIAR Y DE LOS IDIOMAS
+
+[[CHILD|Chuy]] vive con sus padres, [[PARENT|Roberto Domínguez Salinas]] y [[PARENT|Fernanda Flores Castillo]], su hermana mayor [[SIBLING|Guadalupe Domínguez Flores]] (apodada "[[SIBLING|Lupita]]", de 7 años) y su hermano menor [[SIBLING|José Domínguez Flores]] ("[[SIBLING|Pepito]]", de 2 años) en [[PLACE|Raleigh]]. En el hogar se habla principalmente español; [[PARENT|Fernanda Flores Castillo]] le habla a los niños casi exclusivamente en español, mientras que [[PARENT|Roberto Domínguez Salinas]] alterna entre español e inglés dependiendo del contexto. [[CHILD|Chuy]] comenzó a escuchar inglés de manera más consistente al entrar a [[DAYCARE|Little Sprouts Daycare Center]] a los 18 meses de edad, y lo sigue escuchando ahora en la [[SCHOOL|Escuela Primaria Riverside Oaks]].
+
+La abuela materna, [[FAMILY|Rosa María Castillo Vega]], cuida a los niños con frecuencia después de la escuela y les habla únicamente en español. La familia también cuenta con el apoyo de una niñera, [[FAMILY|Carmen Yolanda Pérez Nava]], quien recoge a [[CHILD|Chuy]] y a [[SIBLING|Lupita]] de la escuela los martes y jueves y los cuida hasta que [[PARENT|Fernanda Flores Castillo]] regresa del trabajo. Según [[FAMILY|Carmen Yolanda Pérez Nava]], [[CHILD|Chuy]] se comunica mejor cuando está relajado y jugando con el perro de la familia, un labrador llamado [[PET|Rocky]], que cuando intenta hablar con adultos desconocidos.
+
+Los primos de [[CHILD|Chuy]], [[FAMILY|Ana Sofía Reyes Luna]] y [[FAMILY|Diego Alejandro Reyes Luna]], visitan casi todos los fines de semana, y la madre reporta que [[CHILD|Chuy]] juega bien con ellos, aunque a veces [[FAMILY|Ana Sofía Reyes Luna]], que es mayor, termina "traduciendo" lo que dice [[CHILD|Chuy]] para que los adultos entiendan.
+
+Antes de la evaluación actual, [[CHILD|Chuy]] recibió servicios de intervención temprana a través del [[AGENCY|CDSA del Piedmont]] desde los 2;6 hasta los 3 años, bajo un Plan Individualizado de Servicios para la Familia (IFSP) firmado el [[DATE|15 de noviembre de 2023]] y revisado por última vez el [[DATE|3/1/2024]]. La terapeuta del habla en ese entonces fue [[PROVIDER|Laura Jiménez]], quien documentó un retraso leve en el vocabulario expresivo en español. [[CHILD|Chuy]] fue dado de alta de esos servicios al cumplir 3 años y transferido al sistema escolar.
+
+HISTORIA EDUCATIVA
+
+[[CHILD|Chuy]] asiste actualmente al salón de pre-kínder de la Sra. [[TEACHER|Amanda Collins]] en la [[SCHOOL|Escuela Primaria Riverside Oaks]], de lunes a viernes de 8:00 a.m. a 2:30 p.m. La maestra asistente, Sra. [[TEACHER|Brenda Watts]], también trabaja con él en pequeños grupos de lenguaje dos veces por semana. Según el reporte de progreso del [[DATE|el martes 4 de junio de 2025]], [[CHILD|Chuy]] participa con entusiasmo en las actividades grupales pero evita hablar frente a toda la clase. Sus compañeros de clase, [[PEER|Mateo Vásquez Lira]] (a quien llaman "[[PEER|Teo]]") y [[PEER|Juan Carlos Rivas Molina]] ("[[PEER|Juanito]]"), suelen jugar con él en el área de bloques y en el recreo. Otra compañera, [[PEER|Isabella Moreno]], se sienta junto a él durante el círculo de lectura. La Sra. [[TEACHER|Amanda Collins]] reporta que [[CHILD|Chuy]] a veces se queda calla do cuando [[PEER|Teo]] y [[PEER|Juanito]] le hacen preguntas directas, y que prefiere señalar o usar gestos en lugar de responder verbalmente frente al grupo.
+
+OBSERVACIONES CONDUCTUALES Y DE LA SESIÓN
+
+La evaluación se llevó a cabo el [[DATE|3 de marzo de 2026]] de 10:00 a.m. a 12:15 p.m. en las oficinas de [[EMPLOYER|Carolina Pediatric Therapy, PLLC]], ubicadas en [[PLACE|118 Lakeview Parkway, Suite 220]], [[PLACE|Raleigh]]. [[PARENT|Fernanda Flores Castillo]] estuvo presente durante toda la sesión y ayudó a interpretar algunas respuestas de [[CHILD|Chuy]] cuando él hablaba muy bajo. [[CHILD|Chuy]] se mostró inicialmente tímido, pero se relajó después de los primeros 15 minutos de juego libre con bloques y figuras de animales. Mantuvo buen contacto visual, siguió instrucciones de dos pasos sin dificultad y demostró buena atención conjunta durante las actividades estructuradas. No se observaron conductas repetitivas ni dificultades sensoriales significativas.
+
+Durante la conversación espontánea, [[CHILD|Chuy]] produjo enunciados de 4 a 6 palabras tanto en español como en inglés, aunque mezclaba ambos idiomas con frecuencia (code-switching), lo cual es esperado y apropiado en niños bilingües de su edad y no se consideró un indicador de trastorno del lenguaje por sí solo.
+
+RESULTADOS DE LAS PRUEBAS ESTANDARIZADAS
+
+Se administraron las siguientes pruebas en español e inglés, según corresponda, con apoyo de materiales bilingües:
+
+Prueba                                          Dominio                           Puntaje estándar   Percentil
+Preschool Language Scale-5 Español              Lenguaje receptivo                72                 3
+Preschool Language Scale-5 Español              Lenguaje expresivo                68                 2
+Bilingual English Spanish Assessment (BESA)     Morfosintaxis (español)           7 (escala 1-10)    16
+Bilingual English Spanish Assessment (BESA)     Morfosintaxis (inglés)            6 (escala 1-10)    9
+Goldman-Fristoe Test of Articulation-3          Articulación (inglés)             71                 3
+Prueba de fonología en español (lista informal) Articulación (español)            No estandarizado   N/A
+
+En la prueba de articulación en español, [[CHILD|Chuy]] obtuvo 8/10 en la producción de palabras con /s/ inicial, pero solo 4/10 en palabras con consonantes finales, omitiendo consistentemente los sonidos /s/, /n/ y /r/ al final de la palabra (por ejemplo, produjo "pa" para "pan" y "do" para "dos"). En inglés, logró el 80% de precisión en palabras monosilábicas con estructura CV pero solo el 30% de precisión en palabras con grupos consonánticos iniciales como /pl/ y /st/, simplificando "stop" a "top" y "play" a "pay".
+
+Durante la muestra de lenguaje espontáneo, transcrita y analizada con el sistema SALT, se codificaron 42 enunciados; 11 de ellos mostraron errores gramaticales marcados con el código [EW] (omisión de palabra esperada), principalmente omisión del artículo definido en inglés y del pronombre clítico en español (por ejemplo, "quiero" en lugar de "lo quiero").
+
+En cuanto a la inteligibilidad, los padres calificaron el habla de [[CHILD|Chuy]] como comprensible aproximadamente el 60% del tiempo para oyentes desconocidos, y un examinador no familiarizado con el niño reportó una inteligibilidad similar durante la sesión. Con claves moderadas (mod cues) de imitación y modelado, [[CHILD|Chuy]] pudo producir correctamente el fonema /r/ en posición inicial en el 70% de los intentos, lo cual sugiere buen potencial de estimulabilidad.
+
+El rango de movimiento oral-motor fue adecuado; no se observaron signos de apraxia del habla infantil ni de disartria. La estructura oral (labios, lengua, paladar, dentición) se encontró dentro de límites normales para la edad.
+
+IMPRESIONES CLÍNICAS
+
+Con base en los resultados obtenidos, [[CHILD|Chuy]] presenta un trastorno mixto del lenguaje receptivo-expresivo (F80.2) junto con un trastorno de los sonidos del habla, evidente tanto en español como en inglés, lo cual confirma que las dificultades no se deben únicamente a la exposición bilingüe sino a un patrón consistente de retraso en ambos idiomas. Las omisiones de consonantes finales y la simplificación de grupos consonánticos son consistentes con un retraso fonológico, más que con un trastorno motor del habla. Los errores gramaticales observados, incluyendo las omisiones marcadas como [EW], son mayores de lo esperado para un niño bilingüe secuencial de 4;9 de edad expuesto al español desde el nacimiento y al inglés desde los 18 meses.
+
+Es importante notar que [[CHILD|Chuy]] muestra fortalezas relativas en la comprensión de vocabulario concreto, en el seguimiento de instrucciones de dos pasos y en la atención conjunta, lo cual son factores protectores favorables para el pronóstico. El antecedente de otitis media recurrente con tubos de ventilación también pudo haber contribuido al retraso fonológico durante un periodo crítico del desarrollo del lenguaje, aunque la audición actual es normal según la Dra. [[PROVIDER|Susan Patel]].
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de lenguaje y habla individual, bilingüe (español e inglés), dos veces por semana, sesiones de 30 minutos, bajo los códigos CPT 92507 para tratamiento continuo, utilizando el código CPT 92523 para la evaluación combinada de habla y lenguaje ya facturada en esta visita.
+
+2. Continuar la colaboración con la Sra. [[TEACHER|Amanda Collins]] y la Sra. [[TEACHER|Brenda Watts]] para reforzar objetivos de lenguaje dentro del aula, particularmente durante las actividades de grupo pequeño ya establecidas.
+
+3. Referir a evaluación con terapia ocupacional con [[PROVIDER|Jennifer Lee]], OTR/L, para descartar dificultades asociadas de coordinación motora fina que pudieran afectar el rendimiento preacadémico, según lo observado de manera informal durante la sesión.
+
+4. Solicitar una nueva revisión de IFSP o plan educativo individualizado (IEP) a través de la [[SCHOOL|Escuela Primaria Riverside Oaks]], con reunión propuesta para el [[DATE|28 de abril de 2026]], a las 1:00 p.m.
+
+5. Se sugiere que la familia continúe exponiendo a [[CHILD|Chuy]] a ambos idiomas de manera consistente, sin eliminar el español del hogar, ya que mantener el idioma del hogar favorece el desarrollo bilingüe saludable y el vínculo con la abuela [[FAMILY|Rosa María Castillo Vega]] y los primos [[FAMILY|Ana Sofía Reyes Luna]] y [[FAMILY|Diego Alejandro Reyes Luna]].
+
+6. Reevaluación formal en 6 meses, aproximadamente para [[DATE|septiembre de 2026]], para medir el progreso en inteligibilidad y en morfosintaxis en ambos idiomas.
+
+7. Continuar seguimiento audiológico anual con la Dra. [[PROVIDER|Susan Patel]] dado el historial de otitis media recurrente.
+
+8. Coordinar con [[PROVIDER|Ashley Brooks]] del [[AGENCY|CDSA del Piedmont]] la posible reactivación de servicios de apoyo familiar, dado que [[CHILD|Chuy]] ya fue dado de alta de intervención temprana pero podría beneficiarse de recursos adicionales en el hogar.
+
+PLAN DE TRATAMIENTO
+
+Se iniciará terapia en las oficinas de [[EMPLOYER|Carolina Pediatric Therapy, PLLC]] a partir del [[DATE|17 de marzo de 2026]], con sesiones los martes a las 3:30 p.m. y los jueves a las 4:00 p.m. Los objetivos iniciales incluirán: (a) producción correcta de consonantes finales /s/, /n/ en palabras monosilábicas en español con 80% de precisión en tres sesiones consecutivas; (b) reducción de la simplificación de grupos consonánticos iniciales en inglés; y (c) uso correcto del artículo definido y del pronombre clítico en enunciados espontáneos, reduciendo la frecuencia de omisiones tipo [EW] observadas en la muestra SALT.
+
+Se solicitará autorización de Medicaid bajo el número [[MEDICAID_ID|987654321A]] para doce sesiones iniciales de terapia bajo el código CPT 92507, con reevaluación de autorización programada para [[DATE|9/15/2026]].
+
+Esta evaluadora está disponible para discutir estos hallazgos con el equipo escolar, el pediatra Dr. [[PROVIDER|Michael Chen]], o con la coordinadora de servicios [[PROVIDER|Ashley Brooks]] en cualquier momento. Se agradece a la familia [[PARENT|Domínguez Salinas]]-[[PARENT|Flores Castillo]] por su colaboración durante todo el proceso de evaluación.
+
+Atentamente,
+
+[[PROVIDER|Patricia Gómez-Hidalgo]], MS, CCC-SLP
+Patóloga del Habla-Lenguaje Bilingüe
+[[EMPLOYER|Carolina Pediatric Therapy, PLLC]]
+Fecha del informe: [[DATE|10 de marzo de 2026]]

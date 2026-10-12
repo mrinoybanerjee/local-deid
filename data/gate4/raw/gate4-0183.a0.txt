@@ -1,0 +1,22 @@
++ Name: [[CHILD|Mateo Solís]]
++ CA: [[KEEP|4;2]]
++ Context: Resumen para la familia y el equipo escolar
+
+Estimada mamá [[PARENT|Elena Solís]]:
+
+Soy [[PROVIDER|Clara Varela]], patóloga bilingüe del habla y del lenguaje de [[EMPLOYER|Voces del Roble]], en Carolina del Norte. Evalué a [[CHILD|Mateo]] el [[DATE|8 de octubre de 2026]].
+
+| Prueba y subprueba | Fecha | Puntuación estándar | Intervalo de confianza |
+|---|---|---|---|
+| [[KEEP|PLS-5]], [[KEEP|Comprensión auditiva]] | [[DATE|08/10/2026]] | [[KEEP|78]] | [[KEEP|73-83]] |
+
+La muestra mostró frases breves y dificultad para seguir instrucciones largas. Produjo [[KEEP|«tasa»]] por [[KEEP|«casa»]]; logró [[KEEP|8/10]] intentos de [[KEEP|/k/]] con [[KEEP|claves moderadas]]. Recomiendo practicar durante juegos, sin exigir repeticiones constantes.
+
+Su mamá trabaja de noche como supervisora en [[ORG|Lavandería Turno Azul]]. Podemos reunirnos a las [[TIME|4:30 p. m.]] para facilitar su participación.
+
+La [[AGENCY|Agencia Comunitaria para el Desarrollo Infantil y el Apoyo Familiar de Piedraluna]] ([[AGENCY|ACDIAFP]]) coordinará recursos. Enviaré el resumen a [[AGENCY|ACDIAFP]].
+
+La maestra [[TEACHER|Rosa Beltrán]] puede ofrecer opciones visuales y esperar una respuesta. Usaremos [[KEEP|Hanen]] para apoyar conversaciones cotidianas. Cada semana revisaremos juntos qué actividades facilitan la comunicación en casa y durante las rutinas escolares.
+
+Contacto: [[EMAIL|clara.varela@vocesdelroble.example]].
+Información: [[URL|https://vocesdelroble.example/familias]].

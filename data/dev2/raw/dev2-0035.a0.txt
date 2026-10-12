@@ -1,0 +1,35 @@
+Nota de sesión diaria / Daily Session Note
+
+Cliente / Child: [[CHILD|José Antonio "Pepe" Hernández Cruz]] (fecha de nacimiento [[DATE|04/12/2021]]), edad [[KEEP|4;6]]
+Record ID: [[ID|LD-88214]]   Medicaid: [[MEDICAID_ID|998213456T]]
+Fecha de servicio / Date of service: [[DATE|October 9, 2026]]  Hora/Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Clínica / Provider: [[PROVIDER|Marisol Treviño, CCC-SLP]] con [[EMPLOYER|Carolina Bilingual Therapy Partners]]
+Dirección de la clínica: [[PLACE|412 Hargrove Lane, Cary, NC 27511]]
+
+S (Subjetivo): La mamá, [[PARENT|Lucía Hernández]], comenta: "[[CHILD|Pepe]] llega muy cansado porque yo salgo del turno de la [[ORG|fábrica de empaque Tyson]] a las [[TIME|6 AM]] y su papá, [[PARENT|Jesús "Chuy" Cruz]], trabaja en [[ORG|Construcciones Ramírez]] — construction company — hasta tarde." La familia vive en [[PLACE|118 Maple Creek Dr, Apt 4, Durham, NC 27703]]; son originarios de [[PLACE|San Lucas Tolimán, Sololá, Guatemala]]. La abuela, [[FAMILY|Carmen Cruz]], cuida a [[CHILD|Pepe]] y a su hermanita [[SIBLING|Lupita]] por las tardes.
+
+Asiste a [[SCHOOL|Lakeview Elementary]] en el [[SCHOOL|Durham Public Schools]] district, salón de la maestra [[TEACHER|Sra. Alvarado]]. Su maestra de educación especial, [[TEACHER|Mr. Daniels]], reporta progreso con pares como [[PEER|Teo]] y [[PEER|Juanito M.]] durante "circle time."
+
+O (Objetivo): Trabajamos /r/ y /s/ en posición inicial usando PROMPT y [[KEEP|mod cues]]. Producciones: [[KEEP|"soto" for "sol"]], [[KEEP|[s]]] emergente, [[KEEP|/ɾ/]] 60%.
+
+Tabla de progreso (semanal):
+Meta	Línea base	Hoy	Cues
+/s/ inicial	[[KEEP|3/10]]	[[KEEP|7/10]]	[[KEEP|min cues]]
+/r/ vibrante	[[KEEP|2/10]]	[[KEEP|5/10]]	[[KEEP|mod cues]]
+MLU palabras	[[KEEP|2.1]]	[[KEEP|2.6]]	N/A
+
+Resultados recientes de [[KEEP|CELF-5]]: [[KEEP|Auditory Comprehension]] SS [[KEEP|78]], [[KEEP|12th percentile]]; [[KEEP|PLS-5]] [[KEEP|Expressive Communication]] edad equivalente [[KEEP|3;2]].
+
+A: [[CHILD|Pepe]] avanza hacia [[KEEP|IFSP Outcome 2]]. Le dijo a su maestra "[[KEEP|me gusta correr]]" claramente — progreso notable.
+
+P: Continuar PECS en casa; la intérprete [[PROVIDER|Diana Osorio]] ayudó a traducir las instrucciones para [[PARENT|Lucía Hernández]]. Coordinar con la coordinadora de servicios [[PROVIDER|Beatriz Nuñez]] de [[AGENCY|CDSA of the Triangle]].
+
+Tabla de contactos:
+Nombre	Rol	Teléfono
+[[PARENT|Lucía Hernández]]	Madre	[[PHONE|(919) 555-2214]]
+[[TEACHER|Sra. Alvarado]]	Maestra	[[PHONE|(919) 555-7788]]
+[[PROVIDER|Beatriz Nuñez]]	Service Coord.	[[PHONE|(919) 555-0033]]
+
+Mascota de la familia: perro llamado [[PET|Max]], mencionado por [[CHILD|Pepe]] como motivador.
+
+Próxima cita: [[DATE|October 16, 2026]] a las [[TIME|3:30 PM]]. Enviar nota a [[EMAIL|m.trevino@carolinabilingualtherapy.com]].

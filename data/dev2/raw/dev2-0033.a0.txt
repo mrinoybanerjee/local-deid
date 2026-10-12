@@ -1,0 +1,73 @@
+PROGRAMA INFANTIL Y DE NIÑOS PEQUEÑOS DE CAROLINA DEL NORTE (NC ITP)
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+
+CDSA: [[AGENCY|CDSA del Piedmont Triad]]
+Oficina: [[PLACE|2406 Oakdale Road, Greensboro, NC 27403]]
+
+Niño: [[CHILD|Mateo Alejandro Vásquez Reyes]]
+Fecha de nacimiento: [[DATE|12 de abril de 2023]]
+Edad cronológica: [[KEEP|2;6]]
+Número de expediente: [[ID|NC-ITP-004417]]
+Número de Medicaid: [[MEDICAID_ID|784215639A]]
+
+Madre: [[PARENT|Daniela Reyes Martínez]]
+Teléfono: [[PHONE|(336) 555-0148]]
+Correo electrónico: [[EMAIL|danielareyesm@gmail.com]]
+Padre: [[PARENT|Carlos Vásquez Lima]]
+Domicilio familiar: [[PLACE|1420 Holloway Street, Durham, NC 27703]]
+
+Coordinadora de servicios: [[PROVIDER|Lucía Fernández]]
+Patóloga del habla y lenguaje: [[PROVIDER|Ana Gutiérrez, M.S., CCC-SLP]]
+Fecha de la revisión del IFSP: [[DATE|3 de octubre de 2026]]
+Fecha del IFSP inicial: [[DATE|15 de enero de 2026]]
+
+S:
+La mamá, [[PARENT|Daniela]], reporta en sus propias palabras: "[[CHILD|Mateo]] entiende casi todo lo que le decimos en español e inglés, pero cuando quiere algo solo señala o grita. No usa palabras como antes de los 2 años." Dice que en casa usan español la mayoría del tiempo, sobre todo en la cena y a la hora del baño, pero que la hermana mayor, [[SIBLING|Sol Vásquez Reyes]], de 7 años, le habla mucho en inglés porque así aprendió en la escuela. La mamá agrega: "A veces confundo si no habla porque no entiende o porque no quiere esforzarse." También comenta que a la hora de dormir [[CHILD|Mateo]] se frustra si no logra pedir su manta o su vaso de agua y termina llorando hasta que alguien adivina.
+
+Papá, [[PARENT|Carlos]], comenta que [[CHILD|Mateo]] imita sonidos de animales y de carros, pero casi no imita palabras completas todavía. Reporta que la rutina diaria incluye: despertar a las [[TIME|7:00 a.m.]], desayuno en casa con la familia, y a las [[TIME|8:30 a.m.]] lo llevan al centro infantil [[DAYCARE|Mundo de Burbujas]] en [[PLACE|Durham]], donde pasa el día con otros niños de su edad hasta las [[TIME|5:30 p.m.]]. Por la tarde, dos veces por semana, la familia asiste al programa de cuentos bilingües en la [[AGENCY|Biblioteca Pública del Condado de Durham]], donde [[CHILD|Mateo]] disfruta las canciones con movimiento aunque no canta las palabras. Los domingos van a la [[ORG|Iglesia Bautista Nueva Vida]], donde [[CHILD|Mateo]] participa en la clase de niños pequeños con su [[FAMILY|tía, Rosa Martínez]], quien también lo cuida algunas tardes cuando los padres trabajan hasta tarde.
+
+La familia recibe apoyo de [[AGENCY|WIC]] y está inscrita en [[AGENCY|Smart Start de Durham]] para servicios de alimentación temprana; también fueron referidos recientemente a [[AGENCY|Early Head Start de Durham]] para el próximo año escolar. La mamá trabaja medio tiempo en [[ORG|Lavandería Estrella]] y el papá trabaja en construcción con [[ORG|Constructora Hermanos Ramos]].
+
+La mamá menciona que ella creció en [[PLACE|la aldea de El Rosario, Intibucá, Honduras]], donde no había mucho acceso a terapias de este tipo, y que le preocupa no saber si el retraso de [[CHILD|Mateo]] es "normal" o si necesita más ayuda de la que ya recibe. Reporta que la familia extendida, incluyendo a la abuela, [[FAMILY|Herminia Reyes]], vive todavía en [[PLACE|El Rosario, Intibucá]] y habla con [[CHILD|Mateo]] por videollamada cada semana, aunque él casi no responde verbalmente y solo se queda mirando la pantalla.
+
+Prioridades de la familia para esta revisión: 1) que [[CHILD|Mateo]] use palabras para pedir comida y juguetes en vez de gritar; 2) que se comunique con su hermana [[SIBLING|Sol]] sin frustrarse ni morder; 3) que la maestra en [[DAYCARE|Mundo de Burbujas]], [[TEACHER|Srta. Karina Soto]], entienda mejor sus señas y gestos durante el juego.
+
+O:
+Se administró el [[KEEP|Rossetti Infant-Toddler Language Scale]] el [[DATE|28 de septiembre de 2026]], con instrucciones dadas en español y apoyo de interpretación informal de la mamá. [[CHILD|Mateo]] obtuvo una edad equivalente de [[KEEP|14 meses]] en comprensión y [[KEEP|11 meses]] en expresión, con una puntuación total correspondiente al [[KEEP|percentil 2]]. En el [[KEEP|Peabody Picture Vocabulary Test]], administrado en inglés en el [[DAYCARE|Mundo de Burbujas]], obtuvo una puntuación estándar de [[KEEP|62]] ([[KEEP|IC 90%: 56-68]]), muy por debajo del promedio esperado para su edad.
+
+Se intentó administrar el [[KEEP|Goldman-Fristoe Test of Articulation]], pero [[CHILD|Mateo]] no cooperó lo suficiente para obtener un puntaje válido; se observaron únicamente los fonemas [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|/a/]] en balbuceo espontáneo, sin aproximaciones consonante-vocal-consonante.
+
+La [[KEEP|Bayley-4]], administrada por la terapeuta ocupacional [[PROVIDER|Jennifer Liu, OTR/L]] del [[HOSPITAL|Hospital Infantil Duke]], mostró un puntaje compuesto de comunicación de [[KEEP|70]] ([[KEEP|percentil 2]]), motor grueso [[KEEP|85]] ([[KEEP|percentil 16]]), motor fino [[KEEP|88]] ([[KEEP|percentil 21]]) y socioemocional [[KEEP|92]] ([[KEEP|percentil 30]]), este último dentro de rango esperado.
+
+Durante la sesión directa, [[CHILD|Mateo]] produjo aproximadamente [[KEEP|5]] palabras aproximadas: "[[KEEP|mamá]]", "[[KEEP|papá]]", "[[KEEP|agua]]" (producida como "[[KEEP|a-a]]"), y dos aproximaciones no identificables. No produjo la palabra objetivo "[[KEEP|sol]]" de manera espontánea, aunque la imitó con [[KEEP|máx cues]] como "[[KEEP|o]]". Se observó [[KEEP|3/10]] intentos de imitación verbal exitosos durante la sesión de [[KEEP|45 minutos]]. [[CHILD|Mateo]] usó gestos (señalar, jalar la mano) en [[KEEP|8/10]] oportunidades comunicativas observadas, y recurrió al grito en [[KEEP|2/10]] oportunidades cuando el gesto no fue suficiente.
+
+Se observó a [[CHILD|Mateo]] en el [[DAYCARE|Mundo de Burbujas]] el [[DATE|1 de octubre de 2026]] junto con dos compañeros, [[PEER|Diego]] y [[PEER|Valentina]]. [[CHILD|Mateo]] jugó principalmente en paralelo, con poca iniciación verbal hacia sus compañeros, aunque se acercó físicamente a [[PEER|Diego]] para pedir un juguete usando gesto y vocalización. La maestra [[TEACHER|Srta. Karina Soto]] reportó que [[CHILD|Mateo]] usa principalmente gestos y que a veces muerde cuando está frustrado, sobre todo en la transición del juego libre al almuerzo.
+
+Se revisó el historial médico con el pediatra, [[PROVIDER|Dr. Esteban Morales]], de [[HOSPITAL|Pediatría Comunitaria de Durham]], quien confirmó audición normal según evaluación auditiva del [[DATE|10 de agosto de 2026]] y descartó causas médicas del retraso. Los códigos [[KEEP|ICD-10 F80.1]] (trastorno del lenguaje expresivo) y [[KEEP|F80.2]] (trastorno mixto receptivo-expresivo) permanecen activos en el expediente.
+
+A:
+[[CHILD|Mateo]] presenta un retraso significativo en el desarrollo del lenguaje expresivo y receptivo en ambos idiomas, consistente con un trastorno mixto receptivo-expresivo del lenguaje más que con una diferencia típica de desarrollo bilingüe. Los resultados del [[KEEP|Rossetti]] y del [[KEEP|Peabody]] son congruentes entre sí y muestran un retraso de aproximadamente [[KEEP|12 a 15 meses]] respecto a su edad cronológica de [[KEEP|2;6]]. El bajo número de intentos de imitación verbal exitosa ([[KEEP|3/10]]) y la dependencia de gestos ([[KEEP|8/10]]), junto con episodios de conducta agresiva ante la frustración comunicativa, sugieren que [[CHILD|Mateo]] se beneficiaría de un sistema de comunicación aumentativa temporal mientras se desarrolla el lenguaje verbal en ambos idiomas.
+
+La exposición bilingüe en el hogar no explica la magnitud del retraso observado, ya que el retraso es evidente tanto en español como en inglés. Se recomienda continuar la exposición bilingüe sin reducirla, conforme a la evidencia actual sobre desarrollo bilingüe típico y con trastorno del lenguaje. El desarrollo motor grueso, fino y socioemocional se mantiene dentro o cerca del rango esperado, lo cual apoya un perfil de retraso específico del lenguaje en lugar de un retraso global del desarrollo.
+
+La relación entre [[CHILD|Mateo]] y su hermana [[SIBLING|Sol]] parece ser una fuente importante de motivación comunicativa; se recomienda involucrarla de manera estructurada en las estrategias de intervención como modelo de lenguaje entre pares. El contexto familiar, incluyendo el acceso limitado a terapias en [[PLACE|El Rosario, Intibucá]] que la mamá describe de su propia niñez, se reconoce como parte de su preocupación, pero no indica ningún riesgo adicional en el entorno actual de la familia en [[PLACE|Durham]].
+
+P:
+Se continúa el Resultado 1 del IFSP: [[CHILD|Mateo]] usará al menos [[KEEP|10]] palabras funcionales de manera espontánea para pedir y comentar, en ambos idiomas, en los próximos [[KEEP|6 meses]]. Estrategia: uso de [[KEEP|PECS]] modificado con tarjetas bilingües, modelado de lenguaje en rutinas diarias, y práctica de palabras objetivo incluyendo "[[KEEP|sol]]", "[[KEEP|agua]]", "[[KEEP|más]]" con [[KEEP|cues mín-mod]].
+
+Se continúa el Resultado 2 del IFSP, sin cambios: [[CHILD|Mateo]] participará en rutinas de alimentación con menor resistencia sensorial, bajo seguimiento de [[PROVIDER|Jennifer Liu, OTR/L]].
+
+Se agrega el Resultado 3 del IFSP: [[CHILD|Mateo]] iniciará interacciones comunicativas con sus compañeros en el [[DAYCARE|Mundo de Burbujas]] en al menos [[KEEP|3 de 5]] oportunidades observadas, en los próximos [[KEEP|4 meses]], sin recurrir a morder. Estrategia: entrenamiento a la maestra [[TEACHER|Srta. Karina Soto]] en el uso del modelo [[KEEP|Hanen]] "It Takes Two to Talk" durante el juego libre, y refuerzo de señas básicas acordadas entre la familia y el centro.
+
+Servicios: terapia de habla y lenguaje, [[KEEP|2 sesiones]] de [[KEEP|45 minutos]] por semana, modalidad individual y en grupo, a partir del [[DATE|10 de octubre de 2026]] hasta la próxima revisión programada para el [[DATE|10 de abril de 2027]]. Terapia ocupacional continúa con [[KEEP|1 sesión]] mensual con [[PROVIDER|Jennifer Liu, OTR/L]].
+
+Se coordinará, a través de la coordinadora de servicios [[PROVIDER|Lucía Fernández]], una visita conjunta al [[DAYCARE|Mundo de Burbujas]] antes del [[DATE|1 de noviembre de 2026]] para capacitar al personal en estrategias de comunicación aumentativa y manejo de la frustración.
+
+Se recomienda a la familia continuar asistiendo al programa de cuentos bilingües en la [[AGENCY|Biblioteca Pública del Condado de Durham]] y se sugiere inscripción adicional en el programa de habilidades sociales para niños pequeños de la [[ORG|Iglesia Bautista Nueva Vida]], los sábados por la mañana.
+
+Dado que [[CHILD|Mateo]] cumplirá 3 años en [[DATE|abril de 2027]], se inicia la planificación de transición hacia servicios de educación especial preescolar del distrito. La coordinadora [[PROVIDER|Lucía Fernández]] enviará la referencia a [[AGENCY|Durham Public Schools, Servicios de Intervención Temprana]] en un plazo no mayor a [[KEEP|90 días]] antes del tercer cumpleaños.
+
+Firma de la patóloga del habla y lenguaje: [[PROVIDER|Ana Gutiérrez, M.S., CCC-SLP]]
+Número de licencia: [[ID|NC-SLP-33928]]
+Firma de la coordinadora de servicios: [[PROVIDER|Lucía Fernández]]
+Fecha: [[DATE|3 de octubre de 2026]]

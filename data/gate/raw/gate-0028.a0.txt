@@ -1,0 +1,114 @@
+DATOS DE IDENTIFICACIÓN
+
+- Tipo de documento: evaluación inicial bilingüe de habla y lenguaje pediátrico. Este informe contiene datos completamente ficticios para una prueba de desidentificación.
+- Nombre de la niña: [[CHILD|María José Cárdenas Urrutia]].
+- Nombre de uso familiar: [[CHILD|Marijó]].
+- Fecha de nacimiento: [[DATE|18 de junio de 2023]].
+- Fecha de evaluación: [[DATE|18 de agosto de 2026]].
+- Edad cronológica: [[KEEP|3;2]].
+- Horario: de [[TIME|9:15 a. m.]] a [[TIME|11:05 a. m.]].
+- Madre: [[PARENT|Lucía Fernanda Urrutia Salcedo]].
+- Padre: [[PARENT|Andrés Cárdenas Mena]].
+- Domicilio: [[PLACE|1847 Willow Lantern Lane, apartamento 3B]], [[PLACE|Piedraloma]], Carolina del Norte, [[PLACE|27509]].
+- Teléfono principal: [[PHONE|(919) 555-0146]].
+- Correo familiar: [[EMAIL|lucia.urrutia@example.org]].
+- Expediente clínico: [[ID|SLP-NC-260818-047]].
+- Identificador de Medicaid: [[MEDICAID_ID|482610937Q]].
+- Autorización: [[ID|AUT-73190642]].
+- Profesional: [[PROVIDER|Daniela Ríos Valverde]], patóloga del habla y del lenguaje pediátrica bilingüe.
+- Empresa de la profesional: [[EMPLOYER|Centro Bilingüe Senderos del Habla]].
+- Licencia profesional ficticia: [[ID|NC-SLP-084731]].
+- Teléfono clínico: [[PHONE|(984) 555-0128]].
+- Página informativa: [[URL|https://senderos-habla.example.org]].
+- Centro infantil: [[DAYCARE|Centro Infantil Rayitos del Roble]].
+- Coordinación de servicios: [[AGENCY|CDSA del Valle de los Faroles]].
+
+MOTIVO DE CONSULTA Y ANTECEDENTES
+
+- La madre de [[CHILD|María José]] solicitó una evaluación porque la niña usa frases breves y necesita ayuda para explicar lo que desea. En casa suele señalar, acercar objetos o repetir una palabra. La familia entiende muchas de sus peticiones por el contexto. Las personas menos conocidas necesitan varias repeticiones y, algunas veces, no identifican el mensaje.
+- La maestra, Sra. [[TEACHER|Elena Duarte Campos]], informó que [[CHILD|María José]] participa en canciones, juegos motores y actividades de clasificación. Sin embargo, responde con menos frecuencia durante conversaciones grupales. Cuando un compañero toma un material, puede llorar o buscar a una persona adulta antes de formular una petición. El centro desea estrategias que faciliten su participación sin exigir respuestas largas.
+- La familia pidió evaluar ambas lenguas y conservar el español como lengua principal del hogar. La pregunta clínica fue si las dificultades corresponden solamente al aprendizaje del inglés o si también aparecen en español. La madre de [[CHILD|Marijó]] indicó que su prioridad es comprender mejor los mensajes espontáneos y reducir la frustración durante las rutinas familiares.
+
+HISTORIA DEL NACIMIENTO Y DESARROLLO
+
+- Según el relato de la madre, el embarazo transcurrió sin complicaciones mayores. El parto ocurrió el [[DATE|18 de junio de 2023]] en [[HOSPITAL|Hospital Comunitario Loma Serena]]. La niña nació a las [[KEEP|39 semanas de gestación]], con un peso de [[KEEP|3,18 kg]]. Permaneció con su madre y recibió el alta después de dos días. No se informó ingreso neonatal.
+- La madre de [[CHILD|María José]] recordó que la niña se sentó sin apoyo aproximadamente a los [[KEEP|7 meses]] y caminó a los [[KEEP|14 meses]]. Las primeras palabras aparecieron cerca de los [[KEEP|18 meses]]. Las combinaciones espontáneas de dos palabras se hicieron más frecuentes alrededor de los [[KEEP|30 meses]]. Estas edades son estimaciones familiares.
+- Actualmente, [[CHILD|María José]] come alimentos de distintas texturas, bebe en vaso abierto con supervisión y participa en el vestido. La familia no describió tos frecuente al comer, pérdida de habilidades ni dificultad persistente para masticar. El sueño suele ser continuo, aunque necesita acompañamiento para iniciar la rutina nocturna. La evaluación no incluyó un estudio formal de alimentación.
+- Durante el juego, la niña representa acciones cotidianas con muñecos y utensilios. Puede dar de comer a un muñeco, acostarlo y cubrirlo. Le resulta más difícil narrar la secuencia o explicar por qué un personaje realiza una acción. La madre considera que la intención comunicativa ha aumentado, pero que el repertorio verbal todavía limita la expresión de ideas.
+
+HISTORIA MÉDICA Y SERVICIOS PREVIOS
+
+- El pediatra, Dr. [[PROVIDER|Samuel Ortega Leal]], remitió a la niña el [[DATE|29 de julio de 2026]]. La familia informó dos episodios de otitis durante el último invierno. No reportó cirugías, convulsiones ni uso diario de medicamentos. El informe disponible de [[HOSPITAL|Hospital Comunitario Loma Serena]] describió un tamiz auditivo neonatal aprobado; ese resultado no sustituye una evaluación auditiva actual.
+- La audióloga [[PROVIDER|Irene Vela Solís]] realizó un tamiz el [[DATE|6 de agosto de 2026]]. El documento recibido indicó respuestas compatibles con un resultado de pase y recomendó seguimiento si aparecen nuevas inquietudes. La madre de [[CHILD|María José]] no observó cambios recientes en la respuesta a sonidos. No se contó con umbrales audiométricos completos por oído.
+- La coordinadora [[PROVIDER|Mariana Robles]], identificada también como [[PROVIDER|M.R.]], explicó que [[AGENCY|CDSA del Valle de los Faroles]] había orientado a la familia antes de la transición preescolar. El expediente de coordinación es [[ID|CDSA-VF-518204]]. La terapeuta [[PROVIDER|Paula Méndez Arias]] ofreció previamente sesiones de orientación familiar. No se recibió un informe final de ese servicio, por lo que su contenido permanece como antecedente referido.
+
+HISTORIA FAMILIAR Y LINGÜÍSTICA
+
+- [[CHILD|María José]] vive con su mamá [[PARENT|Lucía Fernanda Urrutia Salcedo]], su papá [[PARENT|Andrés Cárdenas Mena]] y su hermano [[SIBLING|Tomás Cárdenas Urrutia]]. La abuela [[FAMILY|Rosa Elena Salcedo Pineda]] cuida a la niña algunas tardes. La tía [[FAMILY|Ana Isabel Urrutia Salcedo]] participa en videollamadas familiares. La familia también tiene una perra llamada [[PET|Luna]].
+- La madre procede de la aldea [[PLACE|El Naranjal de la Quebrada Clara]], en Honduras. La dirección familiar anterior era [[PLACE|Casa 12, calle del Guayabo, barrio La Esperanza]], [[PLACE|El Naranjal de la Quebrada Clara]], Honduras. El padre nació en [[PLACE|San Jacinto del Estero Azul]], Guatemala. Estos lugares se registran como antecedentes familiares y no representan una explicación de las dificultades comunicativas.
+- La familia estimó que la exposición semanal corresponde aproximadamente a [[KEEP|75 %]] de español y [[KEEP|25 %]] de inglés. La madre, el padre y la abuela hablan principalmente español con la niña. El inglés aparece sobre todo en el centro infantil. El hermano [[SIBLING|Tomás]] alterna ambas lenguas durante juegos, sin que la familia le haya pedido cambiar su forma habitual de hablar.
+- El padre trabaja en [[ORG|Empaques Puente Claro]] y la madre en [[ORG|Lavandería Horizonte de Algodón]]. Sus horarios afectan la disponibilidad para citas, pero ambos desean participar en las estrategias del hogar. La familia no informó diagnósticos formales de lenguaje en otros parientes. La madre recordó que un familiar habló tarde, aunque no contó con documentación de ese antecedente.
+
+PARTICIPACIÓN ESCOLAR Y OBSERVACIÓN
+
+- En [[DAYCARE|Centro Infantil Rayitos del Roble]], [[CHILD|María José]] comparte actividades con [[PEER|Sofía Beltrán]] y [[PEER|Diego Paz]]. La asistente [[TEACHER|Marta León Paredes]] informó que la niña observa a sus compañeros antes de incorporarse al juego. Acepta turnos cuando una persona adulta los organiza y muestra interés en materiales de construcción, animales y libros con imágenes grandes.
+- Durante la evaluación, [[CHILD|Marijó]] entró acompañada de su madre y exploró los juguetes. Necesitó tiempo para familiarizarse con la profesional. Después inició intercambios mediante miradas, gestos y palabras. Se mantuvo en actividades breves y volvió a participar después de pausas de movimiento. No se interpretó una respuesta ausente como falta de conocimiento sin ofrecer otra oportunidad.
+- La profesional [[PROVIDER|Daniela Ríos Valverde]] observó atención conjunta, búsqueda de ayuda y disfrute compartido. La niña utilizó el contacto visual de manera funcional, aunque variable. En tareas difíciles se apoyó en su madre y redujo la cantidad de habla. La participación mejoró cuando pudo elegir materiales y cuando las instrucciones se acompañaron de demostraciones sencillas.
+
+PROCEDIMIENTOS Y LÍMITES DE INTERPRETACIÓN
+
+- La evaluación incluyó entrevista familiar, revisión de documentos, juego estructurado, observación oral, muestra de lenguaje y tareas en español e inglés. La profesional presentó primero las actividades en la lengua de mayor familiaridad. Después exploró respuestas en inglés cuando la niña mostró disposición. Las modificaciones y ayudas se registraron para evitar atribuirles el valor de una administración estandarizada.
+- Se utilizaron [[KEEP|Rossetti Infant-Toddler Language Scale]], [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]], [[KEEP|Test de Vocabulario en Imágenes Peabody]] y [[KEEP|Goldman-Fristoe Test of Articulation 3]]. Los instrumentos aportaron información distinta. Sus resultados no se consideraron intercambiables ni suficientes, por sí solos, para establecer una impresión clínica en una niña bilingüe.
+- La edad de [[KEEP|3;2]] supera el límite superior de desarrollo descrito por [[KEEP|Rossetti Infant-Toddler Language Scale]]. Por ello, sus tareas se usaron para describir habilidades y no para calcular un puntaje normativo. En las tareas traducidas o ampliadas de [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] tampoco se generó un puntaje estándar válido.
+- Las equivalencias de edad, cuando estaban disponibles, no se usaron como medida de capacidad global. La interpretación integró desempeño en ambas lenguas, oportunidades de aprendizaje, observación funcional y respuesta a apoyos. Los puntajes obtenidos bajo condiciones modificadas se presentan como datos descriptivos. No deben emplearse aisladamente para decidir elegibilidad, intensidad de servicios o pronóstico.
+
+RESULTADOS Y TABLA DE PUNTAJES
+
+- Resumen de resultados ficticios. Cada valor corresponde únicamente a las condiciones descritas en este informe.
+
+  | Instrumento o tarea | Área | Resultado | Interpretación |
+  |---|---|---|---|
+  | [[KEEP|Rossetti Infant-Toddler Language Scale]] | Comprensión | [[KEEP|9/12]] habilidades observadas | Perfil descriptivo |
+  | [[KEEP|Rossetti Infant-Toddler Language Scale]] | Expresión | [[KEEP|6/12]] habilidades observadas | Perfil descriptivo |
+  | [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] | Comunicación receptiva | Puntaje bruto [[KEEP|28]] | Administración modificada |
+  | [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] | Comunicación expresiva | Puntaje bruto [[KEEP|24]] | Administración modificada |
+  | [[KEEP|Test de Vocabulario en Imágenes Peabody]] | Vocabulario receptivo | Puntaje estándar [[KEEP|78]]; percentil [[KEEP|7]] | Interpretación cautelosa |
+  | [[KEEP|Goldman-Fristoe Test of Articulation 3]] | Producción en inglés | [[KEEP|18/40]] palabras elicitadas | Sin puntaje estándar |
+  | Muestra espontánea en español | Longitud media del enunciado | [[KEEP|2,1 palabras]] | Medida descriptiva |
+  | Seguimiento de instrucciones | Una acción, sin gesto | [[KEEP|8/10]]; [[KEEP|80 %]] | Fortaleza relativa |
+  | Seguimiento de instrucciones | Dos acciones, sin gesto | [[KEEP|3/10]]; [[KEEP|30 %]] | Requiere apoyo |
+  | Estimación de inteligibilidad | Oyente menos familiar | [[KEEP|55 %]] | Contexto de juego |
+
+- En comprensión, [[CHILD|María José]] identificó objetos cotidianos, algunas acciones y relaciones espaciales apoyadas por el contexto. Respondió mejor cuando la instrucción contenía una sola acción. Las dificultades aumentaron con dos acciones, conceptos temporales y preguntas que requerían inferencias. Al añadir gestos, el desempeño en instrucciones de dos acciones aumentó a [[KEEP|7/10]].
+- El resultado de [[KEEP|Test de Vocabulario en Imágenes Peabody]] requiere cautela por las diferencias culturales y lingüísticas entre la experiencia de la niña y la muestra normativa. El vocabulario reconocido en inglés añadió conceptos que no aparecieron en la administración en español. No se calculó un puntaje conceptual combinado, porque ese procedimiento no formaba parte de la puntuación utilizada.
+
+MUESTRA DE LENGUAJE Y HABLA
+
+- La muestra incluyó cincuenta enunciados durante juego y lectura compartida. [[CHILD|María José]] produjo [[KEEP|"mamá dame agua"]], [[KEEP|"bebé duerme"]], [[KEEP|"aquí carro"]], [[KEEP|"yo quiero ese"]], [[KEEP|"no cabe"]], y [[KEEP|"se cayó"]]. Utilizó más palabras para pedir que para describir. La cantidad de lenguaje aumentó cuando la profesional siguió su interés y dejó tiempo suficiente para responder.
+- En el registro de la muestra se utilizaron los códigos [[KEEP|[EW]]], [[KEEP|[EU]]] y [[KEEP|[SI]]]. Los códigos señalaron palabras o enunciados ininteligibles y repeticiones, según las convenciones adoptadas para esta muestra. Se conservaron las producciones originales. No se corrigieron silenciosamente los errores gramaticales ni se interpretaron cambios entre lenguas como fallas por sí mismos.
+- En habla se observaron sustituciones variables de [[KEEP|/k/]] por [[KEEP|[t]]] y de [[KEEP|/g/]] por [[KEEP|[d]]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]; para [[KEEP|"gato"]], produjo [[KEEP|"dato"]]. También redujo algunos grupos consonánticos. La producción [[KEEP|[w]]] en palabras inglesas se analizó dentro del sistema del inglés y no se clasificó automáticamente como error del español.
+- La niña imitó [[KEEP|/k/]] en sílabas con [[KEEP|mod cues]] y obtuvo [[KEEP|6/10]] intentos adecuados. En palabras necesitó [[KEEP|max cues]] y logró [[KEEP|3/10]]. Con [[KEEP|min cues]], mantuvo mejor las consonantes iniciales ya presentes en su repertorio. Estos datos describen respuesta inmediata al apoyo y no demuestran todavía generalización a conversaciones espontáneas.
+
+IMPRESIONES CLÍNICAS
+
+- Los hallazgos sugieren dificultades de comprensión y expresión que también aparecen en español, la lengua de mayor exposición. El aprendizaje del inglés no explica por sí solo el patrón observado. La información apoya una impresión clínica provisional de trastorno del lenguaje receptivo y expresivo, con el código [[KEEP|F80.2]], pendiente de seguimiento funcional y revisión de antecedentes adicionales.
+- La reducción de inteligibilidad, las sustituciones y la respuesta a modelos apoyan una impresión provisional de trastorno de los sonidos del habla, código [[KEEP|F80.0]]. La evaluación no aportó evidencia suficiente para afirmar un trastorno motor del habla. Se requiere observar consistencia, transiciones y prosodia a lo largo del tratamiento antes de ampliar esa interpretación.
+- [[CHILD|María José]] mostró fortalezas en intención comunicativa, juego simbólico, aprendizaje con modelos y relación con personas conocidas. Estas habilidades favorecen la intervención. Las principales barreras funcionales fueron explicar necesidades, seguir instrucciones sin apoyo contextual y mantener mensajes comprensibles para oyentes menos familiares. La frustración apareció cuando el interlocutor no logró entenderla.
+- Las conclusiones tienen límites. La muestra fue breve, algunas pruebas requirieron cambios y faltaron informes previos completos. La profesional recomienda confirmar el perfil mediante observación repetida y datos del hogar y del centro infantil. La familia debe recibir explicaciones en español y participar en las decisiones sin presión para reducir el uso de su lengua.
+
+RECOMENDACIONES Y OBJETIVOS
+
+- Iniciar intervención individual semanal de cuarenta y cinco minutos, con participación familiar y revisión de respuesta después de doce semanas. El servicio puede registrarse con [[KEEP|CPT 92507]], según autorización y requisitos aplicables. La evaluación corresponde a [[KEEP|CPT 92523]]. Estos códigos no garantizan cobertura ni sustituyen la verificación administrativa del expediente.
+- Priorizar mensajes funcionales para pedir ayuda, rechazar, comentar y reparar un mensaje. Un objetivo inicial será producir combinaciones espontáneas de tres o más palabras en [[KEEP|8/10]] oportunidades durante rutinas conocidas, con [[KEEP|min cues]]. Se aceptarán respuestas en cualquiera de las dos lenguas y se documentará el apoyo utilizado.
+- Trabajar instrucciones de dos acciones mediante materiales familiares. La meta inicial será completar [[KEEP|8/10]] oportunidades con [[KEEP|min cues]], antes de retirar los apoyos gradualmente. La persona adulta debe presentar una instrucción breve, esperar y comprobar la comprensión mediante la acción. Repetir muchas veces la misma pregunta puede aumentar la demanda sin facilitar el aprendizaje.
+- Seleccionar palabras frecuentes que incluyan [[KEEP|/k/]] y [[KEEP|/g/]], siempre que la niña tolere el trabajo de habla. La meta inicial será producir el sonido elegido en palabras practicadas con [[KEEP|80 %]] de precisión y [[KEEP|mod cues]]. La profesional revisará el nivel de ayuda antes de aumentar la dificultad.
+- En casa, seguir el interés de [[CHILD|Marijó]], ampliar sus mensajes y ofrecer oportunidades para responder. Si dice [[KEEP|"bebé duerme"]], la persona adulta puede modelar [[KEEP|"el bebé duerme aquí"]]. Mantener el español durante lectura, juego y conversaciones. El hermano [[SIBLING|Tomás]] puede participar voluntariamente, sin asumir la responsabilidad de corregir o enseñar.
+- En el centro infantil, usar apoyos visuales, anticipar turnos y aceptar gestos junto con palabras. La maestra [[TEACHER|Elena Duarte Campos]] puede ofrecer modelos breves durante conflictos por materiales. Coordinar una consulta de elegibilidad con [[SCHOOL|Escuela Primaria Bosque del Lucero]] y [[AGENCY|Programa Preescolar Puertas Abiertas]], previa autorización familiar para compartir este informe.
+
+SEGUIMIENTO Y FIRMA
+
+- Revisar los objetivos el [[DATE|10 de noviembre de 2026]]. La cita propuesta será a las [[TIME|3:30 p. m.]]. La familia y el centro infantil aportarán ejemplos de mensajes espontáneos y situaciones difíciles. La revisión comparará participación, comprensión e inteligibilidad bajo condiciones semejantes.
+- Solicitar los informes previos y aclarar la disponibilidad de audiometría completa. Si la familia observa una reducción de respuesta a sonidos, debe comunicarla al pediatra. La coordinadora [[PROVIDER|M.R.]] puede apoyar la organización de documentos, con autorización familiar vigente.
+- La madre [[PARENT|Lucía Fernanda Urrutia Salcedo]] participó en la explicación de resultados y expresó acuerdo con las prioridades propuestas. No se registró una decisión definitiva sobre elegibilidad escolar durante esta visita.
+- Informe redactado íntegramente en español por [[PROVIDER|Daniela Ríos Valverde]], patóloga del habla y del lenguaje pediátrica bilingüe, de [[EMPLOYER|Centro Bilingüe Senderos del Habla]].
+- Fecha de firma: [[DATE|20 de agosto de 2026]]. Identificador de firma ficticia: [[ID|FIR-DV-260820-19]].

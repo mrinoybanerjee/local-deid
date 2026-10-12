@@ -1,0 +1,68 @@
+S:
+
+Revisión del IFSP del Programa de Intervención Temprana para Bebés y Niños Pequeños de Carolina del Norte. Fecha: [[DATE|08/10/2026]]. Expediente: [[ID|IT-026-58419]]. Medicaid: [[MEDICAID_ID|684927153Q]]. Documento clínico ficticio para pruebas; todos los datos personales son inventados.
+
+Cliente: [[CHILD|Adrián Solís Vega]], llamado [[CHILD|Adri]] en casa. Nacimiento: [[DATE|03/03/2024]]. Edad: [[KEEP|31 meses]]. Domicilio: [[PLACE|184 Sendero del Olmo, apartamento 3B]], [[PLACE|Valle del Cedro]], Carolina del Norte, [[PLACE|27900]]. Condado: [[PLACE|Robledal]]. Mamá: [[PARENT|Mariela Vega Cruz]]. Papá: [[PARENT|Tomás Solís Prado]]. Hermana: [[SIBLING|Elena Solís Vega]], edad [[KEEP|6 años]]. Abuela cuidadora: [[FAMILY|Celia Cruz Montes]]. Mascota: [[PET|Pipo]].
+
+Coordinadora de servicios: [[PROVIDER|Nora Beltrán Soto]], oficina [[AGENCY|CDSA del Valle del Cedro]]. Tel.: [[PHONE|(919) 555-0142]]. Correo: [[EMAIL|nora.beltran@cdsa-cedro.example]]. Portal: [[URL|https://cdsa-cedro.example/familias]]. SLP pediátrica bilingüe: [[PROVIDER|Isabel Duarte Ríos]], de [[EMPLOYER|Lenguaje y Juego del Pinar]]. Tel.: [[PHONE|984-555-0168]]. Revisión realizada en español; familia solicita documentos y llamadas en español.
+
+Tel. materno: [[PHONE|919.555.0126]]; paterno: [[PHONE|+1 252 555 0184]]. Contacto alterno, tía [[FAMILY|Rebeca Cruz Montes]], residente en [[PLACE|Villa del Naranjo]], México: [[PHONE|+52 55 5555 0147]]. Correo familiar: [[EMAIL|familia.solisvega@example.com]]. Autorización para contacto alterno limitada a coordinación; revisar disponibilidad antes de compartir información clínica.
+
+Preocupaciones, palabras de mamá: “Quiero entender qué pide sin tener que adivinar. Cuando no podemos entenderlo, tira el vaso y llora. Me preocupa que deje de intentar”. Palabras de papá: “Quiero que participe en la comida y que avise cuando necesita ayuda. No quiero que todo sea repetir palabras”.
+
+Prioridades familiares: comunicación durante comida, juego y vestido; transiciones con menor frustración; participación con otros niños. Mamá trabaja noches como empacadora en [[ORG|Empaques Luna del Cedro]], de [[TIME|10:00 p. m.]] a [[TIME|6:00 a. m.]]. Descansa por la mañana. Papá prepara desayuno; abuela atiende llegada de guardería. Familia prefiere práctica breve integrada en rutinas.
+
+Rutinas: desayuno a [[TIME|7:15 a. m.]]; salida a [[TIME|8:10 a. m.]]; almuerzo en guardería a [[TIME|11:30 a. m.]]; descanso a [[TIME|12:15 p. m.]]; cena a [[TIME|6:30 p. m.]]. Baño, cuentos y sueño después. En comida acepta alimentos conocidos; protesta ante cambios. Durante vestido entrega zapatos y busca ayuda. En juego prefiere carros, animales y burbujas.
+
+Asiste a [[DAYCARE|Guardería Semillitas del Arroyo]]. Maestra [[TEACHER|Lidia Mena Torres]] refiere juego paralelo con [[PEER|Bruno Leal]] y [[PEER|Camila Rosas]]. Familia autoriza coordinación con guardería. Hermana asiste a [[SCHOOL|Escuela Primaria Senderos del Alba]]. Otros apoyos: [[AGENCY|WIC de Robledal]], [[AGENCY|Smart Start del Arroyo]] y [[AGENCY|DSS de Robledal]]. No servicios duplicados reportados.
+
+O:
+
+Evaluación inicial: [[DATE|12/08/2026]]. Inicio de servicios: [[DATE|19/08/2026]]. Observación actual en domicilio; cuidadora presente. [[CHILD|Adrián]] alerta, activo; atención variable. Se regula con movimiento breve, elección y anticipación visual. Audición: tamizaje documentado sin hallazgos preocupantes en [[HOSPITAL|Hospital Infantil del Robledal]], fecha [[DATE|21/08/2026]]. No diagnóstico auditivo confirmado.
+
+Antecedentes, según expediente: edad gestacional [[KEEP|38 semanas y 2 días]]; peso al nacer [[KEEP|3,180 g]]; Apgar [[KEEP|8/9]]. Sin hospitalización posterior reportada. Pediatra: Dra. [[PROVIDER|Teresa Luján Mora]], de [[AGENCY|Pediatría Sendero Claro]]. Revisión pediátrica: [[DATE|15/09/2026]]. Familia niega pérdida de habilidades. Sueño irregular después de cambios de turno materno.
+
+Intérprete de apoyo administrativo: [[PROVIDER|Rosa Maldonado Pérez]], de [[AGENCY|Acceso Lingüístico del Cedro]]. Tel.: [[PHONE|252 555 0159]]. Intervino en llamada con personal angloparlante; evaluación y tratamiento realizados directamente en español. TO/OT: [[PROVIDER|Valeria Ponce Gil]]. TF/PT: [[PROVIDER|Diego Acosta León]]. Ambos de [[AGENCY|Centro de Desarrollo Pasitos del Valle]]. Consentimientos vigentes según carpeta familiar.
+
+Prueba [[KEEP|PLS-5 Spanish]]: subprueba [[KEEP|Auditory Comprehension]], puntuación estándar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza al [[KEEP|90%]]: [[KEEP|73-83]], equivalente de edad [[KEEP|1;10–2;2]]. Subprueba [[KEEP|Expressive Communication]], puntuación estándar [[KEEP|74]], percentil [[KEEP|4]], intervalo [[KEEP|69–81]], equivalente [[KEEP|1;8–2;0]]. [[KEEP|Total Language Score]]: puntuación estándar [[KEEP|75]], percentil [[KEEP|5]]. Interpretación integrada con observación bilingüe; equivalentes no determinan elegibilidad por sí solos.
+
+Inventario funcional de juego, registro descriptivo sin puntuación normativa: habilidades observadas compatibles con actividades del rango [[KEEP|2;6–3;0]]. Usa objetos de forma convencional, alimenta muñeco y combina acciones simples. Clasifica carros por tamaño con demostración. En turnos compartidos mantiene participación durante cuatro minutos; abandona actividad cuando adulto formula preguntas consecutivas.
+
+Muestra de lenguaje: predominan gestos, vocalizaciones y palabras aisladas. Producciones: [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"abre"]], [[KEEP|"no quiero"]] y [[KEEP|"mío"]]. Combinación espontánea en [[KEEP|3 de 10]] oportunidades. Peticiones funcionales con gesto o palabra: [[KEEP|8/10]] con [[KEEP|mod cues]]; [[KEEP|4/10]] independientes. Sigue instrucciones familiares de un paso en [[KEEP|80%]]; instrucciones nuevas, [[KEEP|50%]] con apoyo contextual.
+
+Fonología: inventario reducido; presentes /m/ y /p/, registrados como [[KEEP|/m/]] y [[KEEP|/p/]]. Omisión frecuente de consonante final. Intentos de [[KEEP|/k/]] con aproximación [[KEEP|[t]]]; producción variable de [[KEEP|/ɾ/]]. Muestra breve; no concluyente para diagnóstico motor. Transcripción funcional con códigos [[KEEP|[EW]]] y [[KEEP|[EU]]]; inteligibilidad mayor con contexto conocido.
+
+Al observar al perro dijo “[[PET|Pipo]] ven”. Al buscar a su hermana dijo “[[SIBLING|Elena]] aquí”. Ambas frases se registran literalmente; nombres señalados por separado. Durante merienda eligió entre opciones y solicitó [[KEEP|"más agua"]] tras modelo. No tos, voz húmeda ni dificultad respiratoria observadas. Selectividad alimentaria requiere seguimiento de rutinas, sin evidencia actual de disfagia.
+
+A:
+
+Perfil compatible con retraso del lenguaje receptivo y expresivo; código [[KEEP|ICD-10 F80.2]]. Necesidades funcionales: iniciar peticiones, reparar mensajes, comprender cambios y ampliar participación. Diferencia lingüística considerada. Exposición al inglés en guardería; español predominante en familia. El uso de dos idiomas no explica por sí solo las dificultades observadas.
+
+Fortalezas: intención comunicativa, búsqueda del adulto, imitación de acciones, juego simbólico emergente y respuesta a apoyos visuales. Barreras: fatiga familiar, horarios variables, demandas verbales extensas y acceso inconsistente a materiales. Pronóstico funcional favorable con intervención centrada en cuidadores y práctica distribuida. Revisar respuesta antes de ampliar intensidad.
+
+Familia identifica mayor éxito cuando espera, ofrece elecciones y acepta gestos. No exige producción oral para obtener comida o consuelo. La combinación de palabra, gesto e imagen ofrece acceso inmediato. Considerar [[KEEP|PECS]] únicamente si evaluación posterior identifica necesidad específica; actualmente bastan imágenes simples y modelado multimodal.
+
+Coordinación TO/OT para tolerancia sensorial y participación en vestido. TF/PT consulta sobre postura durante juego de piso. Pediatría vigila desarrollo global. Elegibilidad y continuidad del IFSP constan en registro de la coordinadora; esta nota describe necesidades y acuerdos clínicos. Familia participó en selección de resultados y aceptó seguimiento.
+
+P:
+
+Resultado IFSP [[KEEP|1]]: durante comidas y juego, [[CHILD|Adrián]] pedirá objeto, acción o ayuda mediante palabra, gesto o imagen en [[KEEP|8/10]] oportunidades, durante dos semanas, con [[KEEP|min cues]]. Estrategias: ofrecer elecciones reales, esperar respuesta, modelar [[KEEP|"ayuda"]] y [[KEEP|"más"]], ampliar mensaje sin exigir repetición. Registrar intentos y apoyos.
+
+Resultado IFSP [[KEEP|2]]: en vestido y salida, seguirá instrucciones funcionales y anticipará transición en [[KEEP|4 de 5]] oportunidades con [[KEEP|min cues]]. Estrategias: secuencia visual breve, lenguaje consistente, aviso previo, objeto de transición y tiempo para procesar. Abuela y papá practicarán durante rutinas habituales. Revisar ejemplos semanalmente.
+
+Resultado IFSP [[KEEP|3]]: participará en intercambios con adulto o compañero durante tres turnos en [[KEEP|75%]] de oportunidades, con [[KEEP|mod cues]] o menos. Estrategias: carros compartidos, canciones con pausas, burbujas y lectura repetida. Maestra apoyará acceso al turno y aceptará comunicación multimodal. Medición mediante observación breve.
+
+Tratamiento: entrenamiento de cuidadores con estrategias de [[KEEP|Hanen]], estimulación focalizada y expansión. Objetivos léxicos: [[KEEP|"abre"]], [[KEEP|"dame"]], [[KEEP|"terminé"]] y [[KEEP|"otra vez"]]. Evitar corrección repetitiva. No indicar [[KEEP|PROMPT]] ni [[KEEP|Cycles]] sin evaluación adicional. Facturación propuesta: [[KEEP|CPT 92507]], modificador [[KEEP|GN]]; verificar cobertura y autorización [[ID|AUT-ST-026-7318]].
+
+Servicios acordados: lenguaje dos veces por semana, treinta minutos por sesión; TO/OT semanal, treinta minutos; TF/PT consulta mensual, treinta minutos. Entornos naturales seleccionados con familia. Periodo: [[DATE|12/10/2026]] a [[DATE|08/04/2027]]. Próxima revisión: [[DATE|08/01/2027]]. Tabla representa semana habitual; consulta mensual solo en semana programada.
+
+| Día | Servicio | Inicio | Fin | Lugar |
+|---|---|---|---|---|
+| Lunes | Lenguaje | [[TIME|3:30 p. m.]] | [[TIME|4:00 p. m.]] | [[PLACE|184 Sendero del Olmo, apartamento 3B]] |
+| Miércoles | Lenguaje | [[TIME|9:00 a. m.]] | [[TIME|9:30 a. m.]] | [[DAYCARE|Guardería Semillitas del Arroyo]] |
+| Jueves | TO/OT | [[TIME|4:15 p. m.]] | [[TIME|4:45 p. m.]] | [[PLACE|184 Sendero del Olmo, apartamento 3B]] |
+| Viernes | TF/PT mensual | [[TIME|3:00 p. m.]] | [[TIME|3:30 p. m.]] | [[DAYCARE|Guardería Semillitas del Arroyo]] |
+
+Coordinadora confirmará transporte para consultas externas y resolverá cambios de horario. Familia mantendrá registro breve de mensajes exitosos, frustración y estrategias útiles. Revisar progreso con muestras naturales; no repetir pruebas estandarizadas cada sesión. Contactar pediatría ante regresión, cambios auditivos o dificultades de alimentación nuevas.
+
+Cierre: madre comprendió acuerdos mediante explicación con sus propias palabras. Copia en español entregada; firmas de participación registradas en expediente. Firma clínica: [[PROVIDER|Isabel Duarte Ríos]], SLP bilingüe; licencia [[ID|SLP-NC-04872]]. Fecha de documentación: [[DATE|08/10/2026]]. Seguimiento pendiente: confirmar recepción de plan por guardería y agenda de consulta mensual.

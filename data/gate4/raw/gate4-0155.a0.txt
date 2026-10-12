@@ -1,0 +1,94 @@
+NC INFANT-TODDLER PROGRAM IFSP REVIEW
+
+- Review date: [[DATE|October 5, 2026]]. This fictional record summarizes family participation, current communication needs, functional outcomes, and agreed services.
+- Child: [[CHILD|Elian Marín Soto]], called [[CHILD|Eli]] at home. Birth date: [[DATE|November 10, 2023]]. Current age: [[KEEP|34 months]].
+- IFSP record: [[ID|IFSP-682194]]. Medicaid member number: [[MEDICAID_ID|583920174Q]]. Family selected English documentation with Spanish explanations and bilingual intervention.
+
+INFORMACIÓN DE LA FAMILIA
+
+- Mother: [[PARENT|Camila Soto]]. Father: [[PARENT|Bruno Marín]]. Sister: [[SIBLING|Sol Marín Soto]], age [[KEEP|7 years]]. Maternal grandmother: [[FAMILY|Teresa Soto]]. All participate in familiar routines.
+- Home address: [[PLACE|4286 Lantern Finch Lane]], [[PLACE|Morrow Glen]], NC [[PLACE|27584]], in [[PLACE|Hawthorn County]].
+- Family telephone: [[PHONE|919-555-0146]]. Mother's email: [[EMAIL|camila.soto27@example.net]]. Preferred contact is Spanish by telephone; English texts are acceptable for scheduling.
+- Grandmother previously lived at [[PLACE|18 Calle del Naranjo, Casa 4]], in the village of [[PLACE|Santa Lucerna]], Guatemala. Family visits are discussed as opportunities for communication with relatives.
+
+COORDINACIÓN Y PARTICIPANTES
+
+- Service coordinator: Ms. [[PROVIDER|Nadia Beltrán]], [[AGENCY|Hawthorn Valley CDSA]]. Office address: [[PLACE|160 Cedar Lantern Drive]], [[PLACE|Morrow Glen]], NC [[PLACE|27584]].
+- Coordinator telephone: [[PHONE|919-555-0173]]. Office information: [[URL|https://hawthornvalleycdsa.example.org/families]]. Contact notes should state which language the family requests.
+- Bilingual pediatric speech-language pathologist: [[PROVIDER|Isabel Ferrer]], employed by [[EMPLOYER|Little Lantern Pediatric Communication]]. The clinician conducted this review in English and Spanish.
+- Participants included both parents, grandmother, and the service coordinator. Ms. [[PROVIDER|Isabel Ferrer]] interpreted routine discussion directly; no separate interpreter attended.
+
+PREOCUPACIONES Y PRIORIDADES
+
+- Mother stated, “Quiero entender lo que pide. Sometimes he points, then cries porque no sabemos si quiere agua o salir.”
+- Father stated, “En español habla más conmigo, but at daycare he gets quiet. Queremos que pueda pedir ayuda without getting so frustrated.”
+- Grandmother stated, “No quiero quitarle el español. Que tenga palabras para jugar, comer, y decir cuando algo le molesta.”
+- Family priorities are requesting help, joining play, and participating in meals. The family wants strategies that fit ordinary routines without extra homework.
+- Parents identified successful communication, rather than perfect pronunciation, as the immediate priority. They want both languages supported.
+
+TRABAJO Y APOYOS FAMILIARES
+
+- Mom works nights at [[ORG|Juniper Lantern Inn]] as a laundry attendant, from [[TIME|10:30 p.m.]] until [[TIME|6:00 a.m.]].
+- Mother also works as a stock clerk at [[ORG|MVS]], from [[TIME|1:00 p.m.]] to [[TIME|5:00 p.m.]] on selected afternoons. She has two jobs.
+- Father works as a bicycle mechanic at [[ORG|Copper Finch Cycles]]. His schedule allows him to lead breakfast and daycare drop-off.
+- Grandmother provides afternoon care. A cousin, [[FAMILY|Mariela Soto]], occasionally babysits. The family dog, [[PET|Nube]], often joins floor play.
+- Family requests visits after the mother's rest period. Transportation is reliable, but changing work shifts can affect attendance.
+
+RUTINAS DIARIAS / DAILY ROUTINES
+
+- Breakfast begins around [[TIME|7:15 a.m.]]. Child reaches toward food and brings an empty cup to an adult. Adults sometimes anticipate requests before a gesture or word occurs.
+- During dressing, child chooses between shirts when adults hold both options. “Dame tiempo,” father said. “Si esperamos, intenta decir algo.”
+- Daycare arrival occurs near [[TIME|8:20 a.m.]]. Child watches classmates before approaching toys. Familiar songs help with the transition.
+- At dinner, child stays longer when seated beside sister. Bath play includes cups, pouring, and repeated opportunities for requesting.
+- Bedtime starts around [[TIME|8:00 p.m.]]. Shared picture books work best when adults follow the child's page choices.
+
+GUARDERÍA Y OTRAS AGENCIAS
+
+- Child attends [[DAYCARE|Willow Acorn Early Learning]]. Lead teacher Ms. [[TEACHER|Dalia Cruz]] reports stronger participation during movement songs than during large-group questions.
+- Classmates [[PEER|Milo Ortega]] and [[PEER|Ana Vela]] regularly offer toy cars. Staff will support simple exchanges without requiring speech before access.
+- The family receives nutrition support through [[AGENCY|Hawthorn Family WIC]] and activity materials from [[AGENCY|Bright Meadow Smart Start]].
+- Pediatrician Dr. [[PROVIDER|Jonas Mercado]] practices at [[HOSPITAL|Cedar Lantern Children's Center]]. The family reports no current outside speech therapy.
+- Coordinator will share agreed strategies with daycare after obtaining the family's release.
+
+HISTORIA Y EVALUACIÓN
+
+- Family reports birth at [[KEEP|39 weeks]] gestation, birth weight [[KEEP|3.24 kg]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. These details were not independently verified.
+- Evaluation occurred on [[DATE|September 21, 2026]]. [[KEEP|PLS-5 Spanish]] findings included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], and confidence interval [[KEEP|73-83]].
+- [[KEEP|Expressive Communication]] standard score was [[KEEP|74]], percentile [[KEEP|4]], with confidence interval [[KEEP|69–79]]. [[KEEP|Total Language]] standard score was [[KEEP|75]], percentile [[KEEP|5]].
+- Reported age equivalents were [[KEEP|2;6–3;0]] for comprehension tasks and [[KEEP|1;10–2;2]] for expression tasks. These ranges describe test performance, not the child's overall developmental age.
+- Scores were considered alongside bilingual observations and family report. English-only performance did not define overall communication ability.
+
+COMUNICACIÓN ACTUAL
+
+- Observed productions included [[KEEP|"más"]], [[KEEP|"agua"]], [[KEEP|"go"]], and [[KEEP|"no cabe"]]. Child combined pointing with vocalization to request inaccessible materials.
+- During play, child said “[[PET|Nube]] come” and “[[SIBLING|Sol]] ven.” These utterances contained names and were recorded as meaningful social communication.
+- Speech sampling showed variable production of [[KEEP|/k/]], substitution with [[KEEP|[t]]], and emerging [[KEEP|/ɾ/]]. Intelligibility improved with familiar context.
+- A language sample contained an [[KEEP|[EW]]] annotation for an omitted grammatical word. This observation will guide modeling, without requiring correction during every interaction.
+
+OUTCOME [[KEEP|1]]: PEDIR AYUDA
+
+- By [[DATE|January 11, 2027]], child will request help during meals, dressing, and play using a gesture, word, or short combination in [[KEEP|4 of 5]] opportunities across familiar adults.
+- Adults will pause, offer a useful model, and respond immediately to intentional communication. Models include [[KEEP|"ayuda"]], [[KEEP|"help me"]], and [[KEEP|"abre"]].
+- Clinician will use [[KEEP|Hanen]] strategies and coaching within routines. Initial support may include [[KEEP|mod cues]], with reduction toward [[KEEP|min cues]].
+- Parents will describe successful requests during weekly check-ins. Baseline was [[KEEP|2/10]] opportunities with spontaneous communication during the observed snack routine.
+
+OUTCOME [[KEEP|2]]: JUGAR CON OTROS
+
+- By [[DATE|March 8, 2027]], child will complete reciprocal play exchanges in [[KEEP|3 of 5]] opportunities during daycare and home play.
+- Teacher will arrange paired car play, model [[KEEP|"my turn"]], and accept a gesture as participation. Adults will avoid repeated testing questions.
+- Sister may choose picture cards and model the ordinary noun [[KEEP|"sol"]] while discussing sunny weather. Sister's name, [[SIBLING|Sol]], has the same word form.
+- Clinician will distinguish naming a person from labeling the sun when documenting language samples. Current participation reached [[KEEP|40%]] with [[KEEP|max cues]] during unfamiliar peer play.
+
+OUTCOME [[KEEP|3]]: PARTICIPAR EN COMIDAS
+
+- By [[DATE|April 5, 2027]], child will make a choice or indicate completion during family meals in [[KEEP|8/10]] opportunities.
+- Adults will present manageable choices and model [[KEEP|"más arroz"]], [[KEEP|"all done"]], or [[KEEP|"terminé"]]. Child may use either language.
+- Family will keep familiar foods available while practicing communication. Mother said, “Que pedir sea fácil; la cena ya tiene suficiente trabajo.”
+- Progress will reflect successful participation, including gestures. Clinician will document the adult's support and the routine in which each response occurred.
+
+SERVICIOS, FECHAS Y SEGUIMIENTO
+
+- Speech-language services will occur at home for 45 minutes weekly, from [[DATE|October 12, 2026]] through [[DATE|April 5, 2027]]. Documentation will use CPT [[KEEP|92507]], modifier [[KEEP|GN]], and ICD-10 [[KEEP|F80.2]].
+- Service coordination will occur monthly and when the family requests support. A daycare consultation is planned for [[DATE|November 2, 2026]].
+- Next review: [[DATE|January 11, 2027]]. Parents agreed to the listed priorities and requested Spanish explanations of progress.
+- Clinician signature: [[PROVIDER|Isabel Ferrer]]. Coordinator signature: [[PROVIDER|Nadia Beltrán]]. Signed on [[DATE|October 5, 2026]].

@@ -1,0 +1,83 @@
+Programa de Bebés y Niños Pequeños de Carolina del Norte — Revisión del IFSP
+Carácter del documento: caso completamente ficticio para pruebas  Idioma de redacción: español  Modalidad: revisión familiar presencial
+
+Nombre del niño: [[CHILD|Emilio Adrián Valcera]]  Nombre que usa la familia: [[CHILD|Milo]]  Fecha de nacimiento: [[DATE|14 de enero de 2024]]
+Edad actual: [[KEEP|26 meses]]  Fecha de revisión: [[DATE|3 de marzo de 2026]]  Próxima revisión: [[DATE|09/03/2026]]
+Expediente: [[ID|IFSP-BV-260318]]  Identificación infantil: [[ID|BV0048271]]  Medicaid: [[MEDICAID_ID|731804926Q]]
+Lugar de reunión: domicilio familiar  Dirección: [[PLACE|482 Calle del Sauce, apartamento 6]]  Ciudad: [[PLACE|Lomaverde]]  Condado: [[PLACE|Brisaverde]]  Código postal: [[PLACE|27863]]
+
+Madre: [[PARENT|Elena Marisol Valcera]]  Padre: [[PARENT|Tomás Julián Brenal]]  Hermana: [[SIBLING|Inés Brenal Valcera]]
+Teléfono principal: [[PHONE|919-555-0146]]  Teléfono alternativo: [[PHONE|252-555-0182]]  Correo familiar: [[EMAIL|familia.valcera@example.invalid]]
+Idioma del hogar: español, con exposición cotidiana al inglés  Contacto preferido: mensajes en español después de las [[TIME|2:00 p. m.]]
+La familia solicita materiales breves, ejemplos prácticos y tiempo para hacer preguntas. Ambos padres participan en las decisiones. La hermana disfruta compartir libros y canciones. La familia desea conservar el español como idioma principal y aumentar las oportunidades de comunicación durante actividades habituales, sin convertir cada interacción en una tarea.
+
+Coordinadora de servicios: [[PROVIDER|Sofía Luján Trevero]]  Oficina: [[AGENCY|CDSA de Brisaverde]]  Teléfono: [[PHONE|919-555-0127]]
+Clínica responsable: [[PROVIDER|Marina Isabel Cerdán]]  Profesión: patóloga bilingüe del habla y del lenguaje pediátrica
+Empresa clínica: [[EMPLOYER|Puentes del Habla Pediátrica]]  Correo profesional: [[EMAIL|m.cerdan@puentesclinicos.invalid]]  Sitio informativo: [[URL|https://puentesclinicos.invalid/familias]]
+Pediatra: Dra. [[PROVIDER|Natalia Ocampo Virel]]  Centro médico: [[HOSPITAL|Hospital Infantil Sendero Azul]]  Intérprete: no solicitado
+La clínica condujo toda la revisión en español. La coordinadora explicó los servicios disponibles y confirmó las prioridades familiares. Los padres autorizaron compartir el resumen funcional con los profesionales indicados mediante los procedimientos habituales de consentimiento.
+
+Participantes presentes: [[PARENT|Elena Marisol Valcera]], [[PARENT|Tomás Julián Brenal]], [[PROVIDER|Sofía Luján Trevero]] y [[PROVIDER|Marina Isabel Cerdán]]
+Inicio: [[TIME|10:15 a. m.]]  Finalización: [[TIME|11:25 a. m.]]  Fecha del IFSP anterior: [[DATE|09/04/2025]]
+Fuentes revisadas: entrevista familiar, observación durante juego y merienda, registros de intervención y evaluación del [[DATE|02-24-2026]]. La familia confirmó que el desempeño observado representa un día habitual. El niño buscó proximidad con sus padres y aceptó pausas cuando cambió la actividad.
+
+Antecedentes de salud: nacimiento a las [[KEEP|38 semanas de gestación]]  Peso al nacer: [[KEEP|3.120 g]]  Apgar: [[KEEP|8/9]]
+La familia informa alimentación variada y sueño irregular después de cambios de horario. No informa pérdida de habilidades. La revisión pediátrica del [[DATE|18 de febrero de 2026]] recomendó continuar el seguimiento del desarrollo. La evaluación auditiva del [[DATE|2026-02-20]] indicó respuestas suficientes para las actividades observadas. Los padres comunicarán cambios auditivos, dolor o dificultades nuevas al equipo médico.
+
+Evaluación utilizada: [[KEEP|PLS-5 Spanish]]  Subprueba: [[KEEP|Auditory Comprehension]]  Puntuación estándar: [[KEEP|82]]  Percentil: [[KEEP|12]]
+Intervalo de confianza: [[KEEP|76–90]]  Equivalente de edad: [[KEEP|1;10]]  Subprueba: [[KEEP|Expressive Communication]]  Puntuación estándar: [[KEEP|76]]
+Percentil: [[KEEP|5]]  Intervalo de confianza: [[KEEP|70–84]]  Equivalente de edad: [[KEEP|1;7]]
+Los resultados apoyan la descripción funcional, pero no sustituyen la información sobre ambos idiomas. La interpretación considera exposición lingüística, oportunidades de aprendizaje y participación familiar. No se utilizaron producciones en inglés como evidencia automática de dificultad.
+
+Observación comunicativa: solicitudes independientes en [[KEEP|3/10]] oportunidades  Comprensión de instrucciones familiares en [[KEEP|7/10]] oportunidades
+Producciones espontáneas: [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"mamá"]], [[KEEP|"abre"]] y [[KEEP|"no"]]
+Durante el juego dijo “[[PET|Chispa]] ven”. La muestra también incluyó [[KEEP|"tato"]] para [[KEEP|"gato"]]. Se observó sustitución de [[KEEP|/k/]] por [[KEEP|/t/]] en palabras aisladas. La producción de [[KEEP|/ɾ/]] no constituye una prioridad actual. El análisis con [[KEEP|SALT]] registró [[KEEP|[EW]]] en una emisión. La intervención prioriza comunicación funcional sobre precisión articulatoria.
+
+Preocupaciones familiares, en sus propias palabras: “Nos preocupa que [[CHILD|Milo]] llore cuando no entendemos lo que necesita. Queremos reconocer sus señales antes de que se frustre. A veces señala y esperamos demasiado. Nos gustaría que pudiera pedir ayuda para abrir una caja, decir que terminó y participar en conversaciones pequeñas con nosotros. No queremos presionarlo para repetir”.
+
+Prioridades familiares, en sus propias palabras: “Queremos disfrutar la comida y las salidas. Queremos que [[CHILD|Emilio]] pueda decirnos cuándo necesita un descanso. También queremos que su hermana tenga formas sencillas de jugar con él. Nos sirve practicar con lo que ya tenemos. Preferimos recibir una idea clara y probarla durante varios días antes de agregar otra”.
+
+Trabajo de la madre: [[ORG|Empacadora Luna del Río]]  Puesto: operadora de empaque  Turno habitual: [[TIME|10:00 p. m.]] a [[TIME|6:00 a. m.]]
+Trabajo del padre: [[ORG|Taller Mecánico Las Moreras]]  Puesto: auxiliar de mantenimiento
+La madre trabaja de noche y duerme durante parte de la mañana. El padre suele preparar el desayuno. La familia pide visitas después del descanso materno cuando sea posible. Los cambios de turno pueden modificar quién practica las estrategias, por lo que ambos padres recibirán el mismo resumen.
+
+Rutina de despertar: aproximadamente a las [[TIME|7:15 a. m.]]  Rutina de desayuno: mesa familiar  Apoyo principal: padre
+La familia ofrecerá elecciones visibles y esperará una respuesta con gesto, sonido o palabra. Si aparece frustración, reducirá las preguntas y mostrará una opción concreta. Durante el vestido, nombrará acciones y permitirá que el niño solicite ayuda. El adulto confirmará la intención antes de continuar.
+
+Rutina de comida: almuerzo a las [[TIME|12:30 p. m.]]  Rutina de descanso: después del almuerzo  Rutina nocturna: cuento y canción
+Las oportunidades incluyen pedir bebida, rechazar alimentos y indicar que terminó. La familia evitará retener comida para exigir palabras. Durante el cuento, seguirá el interés del niño y comentará imágenes. Al acostarse, repetirá una secuencia predecible con objetos reales para anticipar cada paso.
+
+Cuidadora: [[FAMILY|Rosa Belinda Neral]]  Relación: niñera  Primos: [[FAMILY|Gael Trevero]] y [[FAMILY|Lidia Trevero]]
+Mascota: [[PET|Chispa]]  Vecino que acompaña algunas caminatas: [[PERSON|Arturo Selván]]
+La niñera utilizará las mismas señales de ayuda y descanso. Los primos participarán en juegos de turnos con supervisión. La mascota suele acercarse durante el juego; un adulto organizará el espacio para que el niño pueda comunicar acercamiento o pausa. El vecino conoce la rutina de esperar una respuesta.
+
+Guardería: [[DAYCARE|Centro Infantil Semillitas del Arroyo]]  Aula: [[DAYCARE|Sala Colibrí]]  Maestra: Sra. [[TEACHER|Julia Montalve]]
+Compañeros: [[PEER|Aitana Solber]] y [[PEER|Bruno Casteira]]  Personal de apoyo: [[TEACHER|Dalia Pereda]]
+La guardería informa mayor participación con canciones conocidas y objetos visibles. Los compañeros ofrecen juguetes y esperan brevemente. El personal modelará solicitudes sin exigir imitación. Compartirá ejemplos de comunicación exitosa y situaciones difíciles mediante el registro familiar autorizado.
+
+Distrito escolar: [[SCHOOL|Distrito Escolar de Brisaverde]]  Escuela: [[SCHOOL|Escuela Primaria Robles del Alba]]
+Aula de transición: [[SCHOOL|Aula Luciérnagas]]  Maestra de contacto: [[TEACHER|Celia Navarrete]]
+La coordinadora explicará las opciones de transición antes de la fecha prevista. La familia desea observar el aula y conocer las rutinas. La visita informativa propuesta para [[DATE|el martes 9 de junio de 2026]] dependerá de disponibilidad y consentimiento. Esta revisión no establece elegibilidad escolar.
+
+Otras agencias: [[AGENCY|DSS de Brisaverde]], [[AGENCY|WIC de Brisaverde]], [[AGENCY|Smart Start de Brisaverde]] y [[AGENCY|Early Head Start de Brisaverde]]
+La familia recibe orientación nutricional y consulta recursos de transporte. Solicita información sobre actividades gratuitas para compartir libros. La coordinadora verificará opciones y entregará contactos en español. Cada agencia mantendrá sus propios requisitos. La familia decidirá qué apoyos desea solicitar y qué información permite compartir.
+
+Resultado [[KEEP|1]]: durante comidas y juego, el niño comunicará una necesidad mediante gesto, palabra o combinación en [[KEEP|8/10]] oportunidades.
+Estrategias: seguir su interés, ofrecer elecciones, esperar y responder inmediatamente a la intención. El adulto modelará [[KEEP|"ayuda"]] y [[KEEP|"más agua"]] con [[KEEP|min cues]] cuando sea suficiente. Se aceptarán aproximaciones comprensibles. La familia anotará ejemplos breves y revisará el progreso durante las visitas.
+
+Resultado [[KEEP|2]]: durante cambios de actividad, el niño seguirá una instrucción familiar acompañada de una señal visual en [[KEEP|4 de 5]] oportunidades.
+Estrategias: anticipar el cambio, mostrar el objeto siguiente y usar frases breves. El adulto comenzará con [[KEEP|mod cues]] y reducirá el apoyo según la respuesta. La familia empleará [[KEEP|"vamos al baño"]] y [[KEEP|"guarda el carro"]]. Se revisará participación, comodidad y necesidad de pausas.
+
+Resultado [[KEEP|3]]: durante juegos compartidos, el niño mantendrá intercambios recíprocos en [[KEEP|3 de 5]] oportunidades observadas.
+Estrategias: imitar acciones, comentar y dejar espacio para responder. La clínica incorporará principios de [[KEEP|Hanen]] mediante práctica con los cuidadores. La familia elegirá canciones y juguetes conocidos. El seguimiento incluirá ejemplos del hogar y la guardería, con una meta de participación del [[KEEP|80%]].
+
+Servicio: intervención del habla y del lenguaje  Entorno: hogar y guardería  Frecuencia: visita semanal  Duración: cuarenta y cinco minutos
+Inicio: [[DATE|03/10/2026]]  Finalización prevista: [[DATE|2026-09-02]]  Autorización: [[ID|AUT-BV-640219]]
+Código de servicio: [[KEEP|CPT 92507]]  Modificador: [[KEEP|GN]]  Diagnóstico registrado: [[KEEP|ICD-10 F80.2]]
+La clínica enseñará estrategias mediante demostración, práctica y reflexión conjunta. La coordinadora contactará a la familia mensualmente. Los horarios se acordarán según descanso, trabajo y disponibilidad.
+
+Seguimiento: revisión breve el [[DATE|7 de abril de 2026]]  Criterio de ajuste: participación familiar y progreso funcional
+La familia puede solicitar cambios antes de la próxima revisión. El equipo evaluará las estrategias cuando aumente la frustración o disminuya la participación. Ambos padres expresaron acuerdo con las prioridades y los servicios descritos. La clínica entregó una copia en español y explicó cómo solicitar correcciones.
+
+Firma de la madre: [[PARENT|Elena Marisol Valcera]]  Firma del padre: [[PARENT|Tomás Julián Brenal]]  Fecha: [[DATE|03/03/2026]]
+Firma clínica: [[PROVIDER|Marina Isabel Cerdán]]  Firma de coordinación: [[PROVIDER|Sofía Luján Trevero]]  Fecha: [[DATE|3 de marzo de 2026]]

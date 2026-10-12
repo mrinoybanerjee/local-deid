@@ -1,0 +1,28 @@
+Daily SLP SOAP Note — DOS [[DATE|10/08/2026]]
+Pt: [[CHILD|Elio Marven]]; age [[KEEP|4;2]]. SLP: [[PROVIDER|Nora Velquin]], CCC-SLP, bilingual English/Spanish; employer [[EMPLOYER|Sprigstone Speech Services]].
+Record [[ID|SS-60428]]; Medicaid [[MEDICAID_ID|583204716Q]].
+CPT [[KEEP|92507]]; modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+Session schedule:
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Tuesday | [[TIME|9:10 AM]] | [[TIME|9:40 AM]] | [[DAYCARE|Pebblemoth Learning House]] |
+| Thursday | [[TIME|1:15 PM]] | [[TIME|1:45 PM]] | [[SCHOOL|Fernspire Preschool]] |
+
+S: Mom [[PARENT|Tessa Marven]] reports increased requesting w/ sister [[SIBLING|Nella Marven]] and aunt [[FAMILY|Iris Pellwyn]]. Pt said "[[PET|Moxlet]] run" at home. Mom works at [[ORG|Willowgear Packaging]]. Neighbor [[PERSON|Owen Brindle]] provided transportation. CG denied new illness; sleep approx usual.
+
+Hx: Born [[DATE|08/08/2022]], [[KEEP|35 weeks]] gestation, birth wt [[KEEP|2,180 g]], Apgars [[KEEP|7/9]], at [[HOSPITAL|Alderquay Children's Hospital]], NICU admission for feeding support. Dr. [[PROVIDER|Mira Fenwick]] managed neonatal care; Dr. [[PROVIDER|Jonas Trell]] follows development. No reported hearing concerns.
+
+O: Teacher Ms. [[TEACHER|Lena Vossin]] observed play w/ peer [[PEER|Ari Bellune]]. Used [[KEEP|Hanen]] strategies and [[KEEP|PROMPT]] for [[KEEP|/k/]]; substitution [[KEEP|[w]]] persisted during spontaneous speech. Pt produced [[KEEP|"go car"]] and [[KEEP|"my turn"]] w/ [[KEEP|mod cues]]. Requests: [[KEEP|8/10]]; turn exchanges: [[KEEP|3 of 5]]; intelligibility approx [[KEEP|60%]]. SALT annotation [[KEEP|[EW]]] noted.
+
+Prior testing:
+| Test/subtest | Eval date | SS | Percentile | CI |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[DATE|09/17/2026]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] |
+
+A: Progress toward IFSP goal [[KEEP|2]]; benefits from visual choices b/c verbal load remains high. Carryover improved during predictable routines. Pt tolerated transitions w/ visual timer; CG practiced wait time and recasts accurately after modeling.
+
+P: Continue weekly tx. Service coordinator [[PROVIDER|Dara Kelwin]] links [[AGENCY|Fernquay CDSA Office]], [[AGENCY|Fernquay DSS]], [[AGENCY|Fernquay WIC]], [[AGENCY|Sprigvale Smart Start]], and [[AGENCY|Pebblemoth Early Head Start]]. Review [[DATE|11/12/2026]]. CG will practice requests during snack and document examples for next session.
+
+Contact: [[PHONE|919-555-0146]]; [[EMAIL|nora@sprigstone.example]]; [[URL|https://sprigstone.example]].
+Office: [[PLACE|418 Mosswheel Lane]], [[PLACE|Fernquay]], NC [[PLACE|27963]].

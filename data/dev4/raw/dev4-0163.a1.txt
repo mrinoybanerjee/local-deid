@@ -1,0 +1,37 @@
+DAILY SESSION NOTE – SPEECH-LANGUAGE PATHOLOGY
+
+Client: [[CHILD|María José Castellanos Pineda]]  DOB: [[DATE|04/12/2020]]  Age: [[KEEP|6;6]]
+Medicaid ID: [[MEDICAID_ID|7738204561M]]  Record #: [[ID|LDE-55214]]
+Date of Service: [[DATE|October 9, 2026]]  CPT: [[KEEP|92507]], [[KEEP|92523]]  ICD-10: [[KEEP|F80.2]]
+
+Setting:  [X] Home  [ ] Daycare  [ ] Clinic  [ ] School
+Session conducted at the family's home on [[PLACE|Birchfield Lane]], [[PLACE|Cary]], [[PLACE|NC 27511]], [[PLACE|Wake County]].
+
+SESSION SCHEDULE (weekly)
+| Day       | Start | Stop  | Location |
+|-----------|-------|-------|----------|
+| Monday    | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | Home |
+| Wednesday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[DAYCARE|Little Sprouts Learning Center]] |
+| Friday    | [[TIME|10:15 AM]] | [[TIME|11:00 AM]] | Home |
+
+Present: [[CHILD|María José]], her mother [[PARENT|Lucía Castellanos]], and interpreter [[PROVIDER|Rosa Fernández]] via phone. Father [[PARENT|Diego Pineda]] joined briefly by speakerphone from his job at [[ORG|Triangle Precision Manufacturing]].
+
+S: Mother reports [[CHILD|María José]] has been imitating her older brother [[SIBLING|Tomás]] more at home and said their dog [[PET|Canela]] "wento outside" when asked to produce "went." Mother also noted the family's nanny, [[FAMILY|Carmen Ibarra]], has been prompting carryover during the day. [[CHILD|María José]]'s teacher, Ms. [[TEACHER|Alvarado]], sent a note home saying she used two-word combinations with classmate [[PEER|Sofía]] during centers.
+
+O: Articulation drill targeting /k/ and [[KEEP|[g]]] in word-initial position. [[CHILD|María José]] produced target word "[[KEEP|cat]]" correctly [[KEEP|8/10]] trials ([[KEEP|80%]]), up from baseline. Stimulability for /ɾ/ remained emerging with [[KEEP|moderate cues]]. Language sample elicited using [[KEEP|CELF-5]] [[KEEP|Formulated Sentences]] subtest.
+
+SCORE HISTORY
+| Date | Measure | Standard Score | 95% CI |
+|------|---------|-----------------|--------|
+| [[DATE|01/15/2026]] | [[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|73-83]] |
+| [[DATE|07/22/2026]] | [[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|85]] | [[KEEP|79-91]] |
+| [[DATE|10/09/2026]] | [[KEEP|PLS-5 Auditory Comprehension]] | [[KEEP|91]] | [[KEEP|85-97]] |
+
+Caseload coordinator [[PROVIDER|Hannah Woods]] confirmed continued authorization through [[AGENCY|Wake County CDSA]]; next IFSP review scheduled [[DATE|December 4, 2026]], outcome [[KEEP|#3]].
+
+A: [[CHILD|María José]] continues to make steady gains on word-initial velars with [[KEEP|minimal cues]]. Home carryover strong per [[PARENT|Lucía Castellanos]] and [[FAMILY|Carmen Ibarra]]'s reports. Recommend continuing [[KEEP|PROMPT]]-based cueing alongside [[KEEP|Hanen]] strategies coached with mother.
+
+P: Continue 2x/week per schedule above. Will consult with pediatrician Dr. [[PROVIDER|Nguyen]] regarding ENT follow-up. Contact clinic at [[PHONE|(919) 555-0148]] or [[EMAIL|intake@triangleslpservices.com]] with questions. Employer: [[EMPLOYER|Triangle Pediatric Speech Partners]].
+
+Clinician: [[PROVIDER|Grace Whitfield, M.S., CCC-SLP]]
+Signature date: [[DATE|10/09/2026]]

@@ -1,0 +1,21 @@
+Daily Speech-Language Therapy Note
+
+Service date: [[DATE|October 8, 2026]]
+Session: [[TIME|3:15 p.m.]] to [[TIME|3:45 p.m.]]
+Clinician: [[PROVIDER|Elena Valmera]], bilingual pediatric speech-language pathologist, [[EMPLOYER|Bright Acorn Speech Partners]], North Carolina
+Client: [[CHILD|Guadalupe Solmera]] ([[CHILD|Lupita]]), age [[KEEP|4;2]]
+DOB: [[DATE|August 8, 2022]]
+Record: [[ID|SLP-482706]]
+Medicaid: [[MEDICAID_ID|830472619Q]]
+
+S: Mom, [[PARENT|Maribel Solmera]], reported increased phrase use during meals. Mom works nights at [[ORG|Silver Lantern Packaging]] as a carton inspector. Dad, [[PARENT|Rafael Solmera]], practices picture naming before dinner. Brother [[SIBLING|Mateo Solmera]] ([[SIBLING|Teo]]) models requests; cousin [[FAMILY|Juan Belnora]] ([[FAMILY|Juanito]]) joins weekend play. The family dog, [[PET|Miga]], motivates action-word practice. Home address remains [[PLACE|418 Willowglass Lane]], [[PLACE|Brindlehaven]], [[PLACE|Morrowleaf County]], [[PLACE|27900]].
+
+O: Treatment addressed expressive language and speech sound production under [[KEEP|CPT 92507]] for [[KEEP|ICD-10 F80.2]]. Prior [[KEEP|PLS-5]] results showed Auditory Comprehension standard score [[KEEP|78]], percentile [[KEEP|7]], and Expressive Communication standard score [[KEEP|75]], percentile [[KEEP|5]]. Today, [[CHILD|Lupita]] produced two-word requests in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]] with [[KEEP|max cues]]. Productions included [[KEEP|"want cookie"]] and [[KEEP|"tat"]] for target [[KEEP|"cat"]]. One substitution involved [[KEEP|[w]]]. The language sample contained [[KEEP|[EW]]] annotations for extraneous words.
+
+A: Participation improved with visual choices and movement breaks. Teacher Ms. [[TEACHER|Nora Pelvera]] at [[SCHOOL|Willowglass Early Learning School]] reported similar requests with classmates [[PEER|Jesus Talmora]] ([[PEER|Chuy]]) and [[PEER|Jose Rivelo]] ([[PEER|Pepe]]). Staff at [[DAYCARE|Little Lantern Daycare]] will use the same picture board. Current performance supports continued treatment.
+
+P: Continue weekly sessions. Send practice pictures through the approved portal, [[URL|https://brightacorn.example/practice]]. Coordinate with Dr. [[PROVIDER|Omar Vensola]] at [[HOSPITAL|Brindlehaven Children's Hospital]] and coordinator [[PROVIDER|Ana Delmora]] at [[AGENCY|Morrowleaf Child Development Services]]. Receptionist [[PERSON|Wendy Farlis]] confirmed scheduling.
+
+Contact record: Mom [[PHONE|(919) 555-0146]]; Dad [[PHONE|984-555-0172]]; grandmother [[FAMILY|Teresa Belnora]], in Mexico, [[PHONE|+52 55 0000 0148]]; clinic [[PHONE|919.555.0183]]. Parent email: [[EMAIL|maribel.solmera@example.com]]. Next visit: [[DATE|October 15, 2026]].
+
+Caregiver education used English and Spanish without an interpreter. Mom demonstrated the picture-choice routine and agreed to practice during breakfast. No pain, fatigue, or adverse response occurred. The child transitioned calmly at departure.

@@ -1,0 +1,86 @@
+Nombre del paciente: [[CHILD|Mateo Hernández Cruz]]
+Apodo: [[CHILD|Teo]]
+Fecha de nacimiento: [[DATE|14 de abril de 2021]] ([[KEEP|04/14/2021]])
+Edad cronológica al momento de la evaluación: [[KEEP|4;10]]
+Sexo: Masculino
+Idioma(s) del hogar: Español (predominante), inglés (emergente)
+Número de expediente: [[ID|MRN-88273]]
+Número de Medicaid: [[MEDICAID_ID|AX928374619C]]
+Agencia remitente: [[AGENCY|Piedmont CDSA]]
+Coordinadora de servicios: [[PROVIDER|Ashley Nguyen]]
+Clínica evaluadora: [[EMPLOYER|Carolina Bilingual Speech Services, PLLC]]
+Patóloga del habla y lenguaje: [[PROVIDER|Marisol Fuentes, M.S., CCC-SLP]]
+Dirección de la clínica: [[PLACE|4820 West Market Street, Suite 210, Greensboro, NC 27407]]
+Teléfono de la clínica: [[PHONE|(336) 555-0148]]
+Correo electrónico: [[EMAIL|mfuentes@carolinabilingualslp.com]]
+Fecha de evaluación: [[DATE|3 de marzo de 2026]]
+Fecha de referido: [[DATE|12 de enero de 2026]]
+Dirección del hogar: [[PLACE|215 Hastings Court, Apt. 3, Greensboro, NC 27406]]
+
+MOTIVO DE LA EVALUACIÓN
+
+[[CHILD|Mateo]] es referido por [[AGENCY|Piedmont CDSA]] para una evaluación integral de habla y lenguaje debido a preocupaciones sobre su desarrollo expresivo y su inteligibilidad del habla. La preocupación inicial fue reportada por su madre, [[PARENT|Lucía Rodríguez Pérez]], durante una visita de rutina en [[HOSPITAL|Cone Health Women's and Children's Hospital]] el [[DATE|19 de noviembre de 2025]]. Su pediatra, el [[PROVIDER|Dr. Samuel Owusu]], completó una referencia formal el [[DATE|20 de noviembre de 2025]] después de observar que [[CHILD|Mateo]] producía principalmente vocales y algunas consonantes labiales a los [[KEEP|4;6]] años de edad.
+
+HISTORIA DEL NACIMIENTO Y DESARROLLO
+
+[[CHILD|Mateo]] nació a las [[KEEP|38]] semanas de gestación por parto vaginal sin complicaciones en [[HOSPITAL|Cone Health Women's and Children's Hospital]] en Greensboro, Carolina del Norte. Su puntaje de Apgar fue [[KEEP|8]] al minuto uno y [[KEEP|9]] a los cinco minutos. El peso al nacer fue de [[KEEP|3,200 gramos]]. No se reportaron complicaciones neonatales, ingresos a la unidad de cuidados intensivos, ni hospitalizaciones posteriores de importancia. Su madre reporta que los hitos motores gruesos (sentarse, caminar) se alcanzaron dentro de rangos típicos, pero que el habla y el lenguaje se retrasaron notablemente en comparación con su hermana mayor, [[SIBLING|Luz]].
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+
+La familia reside actualmente en [[PLACE|Greensboro, Guilford County, NC 27406]]. La madre, [[PARENT|Lucía Rodríguez Pérez]], trabaja dos empleos para sostener a la familia: de lunes a viernes trabaja el turno nocturno como [[KEEP|CNA]] en [[ORG|Atrium Health Wesley Long]], y los fines de semana limpia oficinas comerciales en el centro de Greensboro. El padre, [[PARENT|Jorge Hernández Mejía]], trabaja en construcción con horarios variables y con frecuencia viaja fuera de la ciudad por proyectos. Debido a los horarios de ambos padres, [[CHILD|Mateo]] pasa gran parte del día con su abuela materna, [[FAMILY|Esperanza Pérez]], quien vive con la familia desde [[DATE|agosto de 2024]].
+
+[[FAMILY|Esperanza Pérez]] nació y creció en [[PLACE|la aldea de Flor del Café, San Vicente, El Salvador]], y llegó a los Estados Unidos en [[DATE|2019]]. Ella habla únicamente español y es la principal fuente de estimulación de lenguaje de [[CHILD|Mateo]] durante el día. La familia extendida, incluyendo a la tía [[FAMILY|Rosa Pérez]], aún vive en [[PLACE|Flor del Café]] y se comunica semanalmente por videollamada. [[CHILD|Mateo]] tiene una hermana mayor, [[SIBLING|Luz Hernández]], de [[KEEP|7]] años, quien habla español e inglés con fluidez y con frecuencia traduce para su hermano menor en situaciones sociales, un patrón que la madre describe con preocupación porque limita las oportunidades de [[CHILD|Mateo]] de producir lenguaje de manera independiente.
+
+El vecino de la familia, [[PERSON|Guillermo Paz]], ocasionalmente lleva a [[CHILD|Mateo]] y a [[SIBLING|Luz]] a la escuela cuando los padres no pueden hacerlo por conflictos de horario. La familia también recibe apoyo nutricional de [[AGENCY|WIC]] y ha trabajado anteriormente con una trabajadora social de [[AGENCY|DSS]] del condado para coordinar servicios.
+
+HISTORIA EDUCATIVA
+
+[[CHILD|Mateo]] asiste a [[DAYCARE|Little Sprouts Early Learning Center]] de lunes a viernes de 7:30 a.m. a 5:00 p.m. Su maestra principal, la Sra. [[TEACHER|Debra Collins]], reporta que [[CHILD|Mateo]] es un niño sociable que busca activamente la interacción con sus compañeros, particularmente con [[PEER|Isaiah]] y [[PEER|Camila]], pero que su frustración aumenta cuando no logra comunicarse verbalmente. La maestra asistente, [[TEACHER|Yolanda Martínez]], quien también habla español, reporta observaciones similares y ha comenzado a usar gestos simples con [[CHILD|Mateo]] durante las actividades en grupo.
+
+La familia trajo a la evaluación el peluche favorito de [[CHILD|Mateo]], un perro llamado "[[PET|Max]]", que se utilizó durante las tareas de juego estructurado para facilitar la participación.
+
+OBSERVACIONES CONDUCTUALES
+
+Durante la sesión de evaluación, realizada el [[DATE|3 de marzo de 2026]] de 9:00 a.m. a 11:30 a.m. en [[PLACE|4820 West Market Street, Suite 210, Greensboro, NC 27407]], [[CHILD|Mateo]] se mostró cooperador y mantuvo atención conjunta adecuada durante tareas estructuradas de aproximadamente 10 a 15 minutos. Su madre, [[PARENT|Lucía Rodríguez Pérez]], estuvo presente durante toda la sesión y proporcionó información adicional en español. La evaluación fue conducida en español, con muestras breves en inglés a solicitud de la madre, dado que [[CHILD|Mateo]] está comenzando a escuchar inglés en la guardería.
+
+RESULTADOS DE LAS PRUEBAS
+
+Se administraron las siguientes pruebas estandarizadas e informales:
+
+Subprueba [[KEEP|Comprensión Auditiva]] del [[KEEP|Preschool Language Scales-5 (PLS-5)]] — Fecha: [[DATE|3 de marzo de 2026]] — Puntaje estándar: [[KEEP|73]] (IC 95%: [[KEEP|68-78]]) — Percentil: [[KEEP|4]]
+
+Subprueba [[KEEP|Comunicación Expresiva]] del [[KEEP|PLS-5]] — Fecha: [[DATE|3 de marzo de 2026]] — Puntaje estándar: [[KEEP|62]] (IC 95%: [[KEEP|57-67]]) — Percentil: [[KEEP|1]]
+
+Puntaje Total del Lenguaje, [[KEEP|PLS-5]] — Fecha: [[DATE|3 de marzo de 2026]] — Puntaje estándar: [[KEEP|65]] (IC 95%: [[KEEP|61-69]]) — Percentil: [[KEEP|1]]
+
+Subprueba [[KEEP|Fonología]] del [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]] — Fecha: [[DATE|4 de marzo de 2026]] — Puntaje estándar: [[KEEP|71]] (IC 95%: [[KEEP|65-77]]) — Percentil: [[KEEP|3]]
+
+Edad equivalente de desarrollo fonológico — Fecha: [[DATE|4 de marzo de 2026]] — Rango de edad equivalente: [[KEEP|2;6–3;0]]
+
+Se administró también una muestra de lenguaje espontáneo en español, analizada con el sistema [[KEEP|SALT]]. Se identificaron múltiples instancias de [[KEEP|[EW]]] (palabra vacía) y una longitud media de enunciado de [[KEEP|1.8 morfemas]].
+
+En la tarea de articulación, [[CHILD|Mateo]] produjo correctamente 8/10 palabras objetivo en posición inicial de palabra para consonantes bilabiales, pero mostró sustitución consistente de /k/ por [t] y omisión de /s/ en posición final de sílaba. Por ejemplo, al mostrársele una imagen de un perro, produjo "[[KEEP|teto]]" en lugar de "[[KEEP|perro]]", y al nombrar una fruta dijo "[[KEEP|mana]]" en lugar de "[[KEEP|manzana]]". Con claves moderadas (mod cues), logró aproximar correctamente /s/ en 3 de 5 ensayos.
+
+En el área pragmática, [[CHILD|Mateo]] utilizó gestos y vocalizaciones para solicitar objetos preferidos, pero rara vez combinó dos palabras de manera espontánea. Su madre reporta que en casa su vocabulario expresivo consiste en aproximadamente 25 palabras aproximadas, principalmente en español.
+
+IMPRESIONES CLÍNICAS
+
+Los resultados de esta evaluación indican un trastorno del lenguaje expresivo y receptivo de grado moderado a severo, junto con un trastorno de los sonidos del habla, en el contexto de un niño bilingüe con exposición predominante al español en el hogar. El rendimiento de [[CHILD|Mateo]] en ambas áreas se encuentra significativamente por debajo de lo esperado para su edad cronológica incluso considerando su estatus de aprendiz de inglés, ya que las medidas administradas evalúan su lenguaje dominante (español). Código diagnóstico sugerido: [[KEEP|ICD-10 F80.2]] (trastorno del lenguaje receptivo y expresivo mixto), con un patrón de habla consistente con [[KEEP|ICD-10 F80.0]] (trastorno fonológico).
+
+Es importante notar que el rol de traductora que desempeña su hermana, [[SIBLING|Luz]], aunque bien intencionado, puede estar reduciendo las oportunidades de [[CHILD|Mateo]] de practicar la producción verbal independiente. Se recomienda educar a la familia sobre la importancia de dar tiempo de espera adecuado antes de que otros miembros de la familia, incluyendo a [[FAMILY|Esperanza Pérez]] y a [[SIBLING|Luz]], intervengan verbalmente por él.
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de habla y lenguaje individual, dos veces por semana, sesiones de 30 minutos, en español, utilizando un enfoque de intervención temprana centrado en la familia.
+2. Se recomienda el uso del enfoque [[KEEP|Hanen]] para entrenar a los cuidadores principales, incluyendo a [[PARENT|Lucía Rodríguez Pérez]] y a [[FAMILY|Esperanza Pérez]], en estrategias de estimulación del lenguaje en el hogar.
+3. Se recomienda incorporar estrategias de [[KEEP|PROMPT]] para abordar los patrones de sustitución fonológica observados, con énfasis en la producción de consonantes velares.
+4. Se recomienda que el equipo de [[AGENCY|Piedmont CDSA]] actualice el Plan Individualizado de Servicios para la Familia (IFSP) para incluir el [[KEEP|Resultado 2]]: "[[CHILD|Mateo]] se comunicará usando palabras y frases de dos elementos para solicitar, comentar y hacer preguntas en entornos familiares."
+5. Se recomienda coordinación con [[DAYCARE|Little Sprouts Early Learning Center]] para implementar estrategias de apoyo visual y espera estructurada durante las actividades en grupo, en consulta con la Sra. [[TEACHER|Debra Collins]] y la Sra. [[TEACHER|Yolanda Martínez]].
+6. Se recomienda una reevaluación en aproximadamente seis meses, tentativamente programada para [[DATE|el martes 8 de septiembre de 2026]], para medir el progreso.
+7. Se recomienda que la familia continúe utilizando los servicios de interpretación según sea necesario en citas médicas futuras; en esta ocasión no fue necesaria interpretación formal dado que la evaluadora, [[PROVIDER|Marisol Fuentes]], es bilingüe certificada.
+
+PLAN DE SERVICIOS Y CÓDIGOS
+
+Códigos de procedimiento sugeridos para autorización: [[KEEP|CPT 92523]] (evaluación de producción del habla y lenguaje), [[KEEP|CPT 92507]] (tratamiento de trastornos del habla, lenguaje o voz, individual). Se enviará esta evaluación a [[AGENCY|Piedmont CDSA]] y al coordinador de servicios, [[PROVIDER|Ashley Nguyen]], para su revisión antes de la reunión del IFSP programada para [[DATE|el 22 de marzo de 2026]] a las 2:00 p.m. en las oficinas de [[AGENCY|Piedmont CDSA]], ubicadas en [[PLACE|2401 Summit Avenue, Greensboro, NC 27405]].
+
+Esta evaluación fue completada y firmada electrónicamente por [[PROVIDER|Marisol Fuentes, M.S., CCC-SLP]] el [[DATE|5 de marzo de 2026]]. Para preguntas sobre este informe, favor de comunicarse al [[PHONE|(336) 555-0148]] o al correo [[EMAIL|mfuentes@carolinabilingualslp.com]]. Copia de este informe fue enviada por correo a [[PERSON|Lucía Rodríguez Pérez]] a la dirección [[PLACE|215 Hastings Court, Apt. 3, Greensboro, NC 27406]] el [[DATE|6 de marzo de 2026]].

@@ -1,0 +1,40 @@
+PARA: Sra. [[PARENT|Blanca Núñez]]
+DE: [[PROVIDER|Sarita Collado]], Patóloga del Habla-Lenguaje, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+FECHA: [[DATE|9 de octubre de 2026]]
+RE: Resumen de progreso de [[CHILD|Chuy]] ([[CHILD|Jesús Núñez Ramos]])
+
+Estimada Sra. [[PARENT|Núñez]]:
+
+Le escribo para compartir el progreso de [[CHILD|Chuy]] y confirmar los próximos pasos antes de la revisión del IFSP.
+
+DATOS DEL EXPEDIENTE
+- ID de Medicaid: [[MEDICAID_ID|00482716K]]
+- Número de miembro del seguro: [[ID|SB-77291445]]
+- ID de niño del NC ITP: [[ID|ITP-30456]]
+- Número de autorización: [[ID|AUTH-88213]]
+
+PROGRESO ACTUAL
+- [[CHILD|Chuy]] produce la [[KEEP|/k/]] con [[KEEP|mod cues]] en [[KEEP|8/10]] ensayos.
+- Dijo "[[KEEP|taza]]" claramente durante la sesión en el [[ORG|Centro Comunitario San Marcos]].
+- Usamos el enfoque [[KEEP|Hanen]] para apoyar el lenguaje en casa.
+
+ASISTENCIA Y HORARIO
+- Próxima sesión: [[DATE|16 de octubre de 2026]] a las [[TIME|3:30 p.m.]]
+- Lugar: [[PLACE|Calle Elm 214, Monroe, Carolina del Norte 28112]]
+- [[CHILD|Chuy]] también asiste al programa de tutoría de la [[ORG|Biblioteca Pública de Union County]] los sábados.
+
+CONTACTOS Y APOYO FAMILIAR
+- Usted trabaja en [[ORG|CVS]] y en un segundo empleo; agradezco su flexibilidad para las citas.
+- Su esposo, [[PARENT|Rodolfo Núñez]], ayuda con las tareas de lenguaje los fines de semana.
+- La abuela, [[FAMILY|Lupita Ramos]], a veces lleva a [[CHILD|Chuy]] a terapia.
+- La hermana mayor, [[SIBLING|Yesenia]], practica vocabulario con él después de la escuela.
+
+COORDINACIÓN
+- La maestra, Sra. [[TEACHER|Dolores Fuentes]], en [[SCHOOL|Escuela Primaria Monroe]], reporta que [[CHILD|Chuy]] interactúa bien con su compañero [[PEER|Tomás]].
+- La coordinadora de servicios, [[PROVIDER|Marisol Peña]], de la [[AGENCY|CDSA de Mecklenburg]], programará la revisión del IFSP pronto.
+- También participamos en el grupo de fe en la [[ORG|Iglesia Bautista Nueva Esperanza]], donde [[CHILD|Chuy]] practica saludos con otros niños.
+
+Si tiene preguntas, llámeme al [[PHONE|(704) 555-0198]] o escriba a [[EMAIL|scollado@carolinapeds.com]].
+
+Con cariño,
+[[PROVIDER|Sarita Collado]], SLP-CCC

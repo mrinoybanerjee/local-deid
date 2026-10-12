@@ -1,0 +1,15 @@
+Nota de sesion diaria - Terapia del Habla y Lenguaje
+
+Fecha: [[DATE|11 de octubre de 2026]] Hora: [[TIME|3:30 pm]]
+Paciente: [[CHILD|Mateo Hernandez]] Edad: [[KEEP|2;9]]
+ID Medicaid: [[MEDICAID_ID|987654321A]]
+
+S: La mama de [[CHILD|Mateo]], [[PARENT|Lucia Hernandez]], reporta que el nino durmio bien pero tuvo una infeccion de oido la semana pasada. [[PARENT|Lucia]] trabaja de noche en [[ORG|Starlight Diner]] en [[PLACE|Concord]], NC [[PLACE|28025]], asi que la ninera, [[FAMILY|Yolanda Perez]], lo trajo a la cita de hoy. [[CHILD|Mateo]] nacio prematuro y paso tres semanas en la [[HOSPITAL|UCIN de Carolina Crossing Health Children's Hospital, Campus Oeste]]; su peso al nacer fue [[KEEP|1,450 gramos]] y su edad gestacional fue [[KEEP|32 semanas]], con Apgar de [[KEEP|7 y 9]]. En casa, su hermana mayor, [[SIBLING|Camila]], de [[KEEP|6 anos]], le ayuda a practicar las palabras nuevas durante la cena.
+
+O: [[CHILD|Mateo]] asiste a [[DAYCARE|Blueberry Hollow Preschool]] donde su maestra, [[TEACHER|Ms. Patterson]], reporta que juega bien con sus companeritos [[PEER|Ethan]] y [[PEER|Jayden]] pero se frustra cuando no lo entienden. Durante la sesion de hoy en [[EMPLOYER|Piedmont Pediatric Therapy Partners]], trabajamos metas del IFSP [[KEEP|Meta 2]] usando el enfoque [[KEEP|PROMPT]] y estrategias de [[KEEP|Hanen]]. En la tarea de nombrar imagenes, [[CHILD|Mateo]] produjo "[[KEEP|pato]]" como "[[KEEP|[tato]]]" con sustitucion de [[KEEP|/p/]] por [[KEEP|/t/]], logrando [[KEEP|6/10]] ensayos correctos con [[KEEP|mod cues]]. Tambien imito la palabra objetivo "[[KEEP|casa]]" correctamente en [[KEEP|3 de 5]] intentos sin ayuda. Usamos SALT y se marco [[KEEP|[EW]]] en dos producciones.
+
+Hablamos con la coordinadora de servicios de la [[AGENCY|CDSA Region 7]], [[PROVIDER|Diana Soto]], sobre la referencia a audiologia; el otorrino en [[HOSPITAL|Carolina Crossing Health ENT Clinic]] recomendo seguimiento. La abuela trajo tambien a los primos de [[CHILD|Mateo]], [[FAMILY|Diego]] y [[FAMILY|Sofia]], quienes esperaron en la sala con el perro de la familia, [[PET|Rocky]].
+
+A: [[CHILD|Mateo]] muestra progreso leve en produccion de [[KEEP|/p/]] en posicion inicial. Codigo de facturacion: CPT [[KEEP|92507]].
+
+P: Continuar sesiones semanales. Se recomienda que [[FAMILY|Yolanda]] y [[SIBLING|Camila]] sigan practicando los sonidos [[KEEP|/p/]] y [[KEEP|/t/]] en casa. La proxima cita sera el [[DATE|18 de octubre de 2026]] a las [[TIME|3:30 pm]] en [[PLACE|4521 Hillgrove Road]], [[PLACE|Charlotte]], NC [[PLACE|28213]]. Firmado, [[PROVIDER|Carla Jimenez]], M.S., CCC-SLP. Telefono de la clinica: [[PHONE|(704) 555-0148]]. Correo: [[EMAIL|cjimenez@piedmontpediatrictherapy.com]].

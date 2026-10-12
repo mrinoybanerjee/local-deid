@@ -1,0 +1,93 @@
+TRIANGLE PEDIATRIC SPEECH & LANGUAGE CENTER
+[[PLACE|410 Evergreen Grove Lane]], [[PLACE|Cary]], NC [[PLACE|27511]]
+Phone: [[PHONE|(919) 555-0142]]
+Email: [[EMAIL|intake@trianglepeds-slp.com]]
+
+SPEECH-LANGUAGE EVALUATION REPORT
+
+Child's Name: [[CHILD|Mateo Flores]]
+Date of Birth: [[DATE|April 9, 2023]]
+Chronological Age at Evaluation: [[KEEP|3;2]]
+Evaluation Dates: [[DATE|June 10, 2026]] and [[DATE|June 17, 2026]]
+Report Date: [[DATE|June 24, 2026]]
+Record/Case ID: [[ID|LD-30417]]
+Medicaid ID: [[MEDICAID_ID|982445173C]]
+Referring Physician: Dr. [[PROVIDER|Hannah Kim]], [[ORG|Piedmont Pediatric Associates]]
+Interpreter (Spanish): [[PROVIDER|Marisol Vega]]
+Service Coordinator: [[PROVIDER|Tasha Brown]], [[AGENCY|Piedmont Regional CDSA]]
+Evaluator: [[PROVIDER|Carmen Ibarra]], M.S., CCC-SLP, Bilingual-Certified
+
+Parent/Guardian Contact Information:
+Name	Relationship	Phone	Email
+[[PARENT|Lucía Flores]]	Mother	[[PHONE|(919) 555-8820]]	[[EMAIL|lflores82@carolinamail.net]]
+[[PARENT|Daniel Flores]]	Father	[[PHONE|(919) 555-8821]]	[[EMAIL|dflores.work@cbalabs.com]]
+
+REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a bilingual speech-language evaluation by Dr. [[PROVIDER|Kim]] and by the service coordinator at [[AGENCY|Piedmont Regional CDSA]], [[PROVIDER|Tasha Brown]], after his mother, [[PARENT|Lucía Flores]], and his classroom teacher, [[TEACHER|Jennifer Lopez]], raised concerns about his limited expressive vocabulary and unclear speech in both Spanish and English. [[CHILD|Mateo]] attends [[DAYCARE|The Curious Caterpillar Early Learning Center]] four days a week, where [[TEACHER|Ms. Lopez]] reports that he frequently points or pulls adults by the hand rather than using words, and that his classmates, [[PEER|Emma]], [[PEER|Noah]], and [[PEER|Isabella]], often speak for him during play. This evaluation was conducted to establish eligibility for ongoing speech-language intervention and to update [[CHILD|Mateo]]'s Individualized Family Service Plan ahead of the review scheduled for [[DATE|July 15, 2026]].
+
+BACKGROUND INFORMATION
+
+[[CHILD|Mateo]] lives with his parents, [[PARENT|Lucía Flores]] and [[PARENT|Daniel Flores]], and his older sister, [[SIBLING|Sol Flores]], in [[PLACE|Morrisville]], [[PLACE|Wake County]], North Carolina. The family also receives regular help from a babysitter, [[FAMILY|Hope Jenkins]], who picks [[CHILD|Mateo]] up from [[DAYCARE|The Curious Caterpillar Early Learning Center]] on Fridays, and from his maternal grandmother, who visits most weekends. The family's dog, [[PET|Rocky]], is frequently mentioned by [[PARENT|Mrs. Flores]] as a motivator for [[CHILD|Mateo]]'s attempts at communication; during the home interview, [[CHILD|Mateo]] pointed at the back door and said "[[PET|Rocky]] go," which his mother reported is one of his few consistent two-word combinations.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Mateo]] was born at [[HOSPITAL|Pinecrest Women's Hospital]] at [[KEEP|37 weeks]] gestation following an uncomplicated pregnancy. Birth weight was [[KEEP|6 lbs 4 oz]], with Apgar scores of [[KEEP|8]] and [[KEEP|9]] at one and five minutes, respectively. He was discharged home with his mother after a [[KEEP|two-day]] stay. Medical history is notable for recurrent otitis media between [[KEEP|8 months]] and [[KEEP|18 months]] of age, treated with antibiotics, with no history of tympanostomy tubes. A hearing screening completed at [[DATE|March 3, 2026]] at [[HOSPITAL|Pinecrest Women's Hospital]] was within normal limits bilaterally. There is no history of seizures, head injury, or significant developmental regression. [[CHILD|Mateo]]'s pediatrician, Dr. [[PROVIDER|Kim]], noted gross and fine motor milestones within normal limits, with independent walking achieved at [[KEEP|13 months]].
+
+FAMILY AND LANGUAGE HISTORY
+
+The home language environment is bilingual. [[PARENT|Lucía Flores]] and [[PARENT|Daniel Flores]] report speaking primarily Spanish with [[CHILD|Mateo]] at home, while his sister, [[SIBLING|Sol]], and the babysitter, [[FAMILY|Hope Jenkins]], often use English with him. [[PARENT|Mrs. Flores]] works part-time at [[ORG|Carolina BioAssay Labs]], and [[PARENT|Mr. Flores]] works full-time in construction. [[CHILD|Mateo]]'s cousins, [[FAMILY|Camila]] and [[FAMILY|Marco]], visit frequently from [[PLACE|Durham]] and are reported to understand him better than unfamiliar listeners do, likely due to familiarity with his speech patterns. [[PARENT|Mrs. Flores]] reports that [[SIBLING|Sol]] began combining words by [[KEEP|18 months]] and was fully intelligible to strangers by age three, which has heightened the family's concern about [[CHILD|Mateo]]'s slower trajectory. No other family members have a history of speech, language, or learning disorders, though [[PARENT|Mr. Flores]] reports he himself was a "late talker."
+
+BEHAVIORAL OBSERVATIONS
+
+Across both evaluation sessions, [[CHILD|Mateo]] was cooperative and socially engaged, making consistent eye contact and initiating joint attention with toys. He transitioned between tasks with [[KEEP|mod cues]] and required [[KEEP|min cues]] for turn-taking during structured play. He demonstrated a preference for gesture and vocalization over verbal language when frustrated, for example reaching toward a container and vocalizing "[EH]" rather than requesting "open" verbally. Attention and play skills, including symbolic play with a toy kitchen set, were age-appropriate.
+
+ASSESSMENT RESULTS
+
+The following standardized and informal measures were administered across both sessions, with items presented in both English and Spanish as appropriate, and with [[PROVIDER|Marisol Vega]] providing interpretation support for the parent interview portions.
+
+Test/Subtest	Standard Score	Percentile Rank	Age Equivalent	Classification
+[[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]	[[KEEP|73]]	[[KEEP|4th]]	[[KEEP|2;6]]	Below Average
+[[KEEP|PLS-5]] [[KEEP|Expressive Communication]]	[[KEEP|68]]	[[KEEP|2nd]]	[[KEEP|2;3]]	Below Average
+[[KEEP|PLS-5]] [[KEEP|Total Language Score]]	[[KEEP|70]]	[[KEEP|3rd]]	[[KEEP|2;4–2;6]]	Below Average
+[[KEEP|GFTA-3]] Standard Score	[[KEEP|79]]	[[KEEP|8th]]	--	Below Average
+[[KEEP|BESA]] [[KEEP|Semantics-Spanish]]	[[KEEP|85]]	[[KEEP|16th]]	--	Average
+[[KEEP|BESA]] [[KEEP|Semantics-English]]	[[KEEP|72]]	[[KEEP|3rd]]	--	Below Average
+
+The 95% confidence interval for the [[KEEP|PLS-5]] Total Language Score was [[KEEP|65-75]]. On the [[KEEP|GFTA-3]], [[CHILD|Mateo]] produced /[[KEEP|k]]/ correctly in [[KEEP|8/10]] trials and the Spanish tap /[[KEEP|ɾ]]/ correctly in [[KEEP|3 of 5]] trials, substituting [[KEEP|[d]]] in the remaining attempts. For the target word "[[KEEP|copa]]," [[CHILD|Mateo]] produced "[[KEEP|tapa]]," reflecting a fronting pattern consistent with a phonological process rather than a structural or motor-based disorder. Connected speech sampling, coded using SALT conventions, included several word-level errors marked [[KEEP|[EW]]]. Single-word intelligibility to familiar listeners was estimated at [[KEEP|80%]], dropping to approximately [[KEEP|55%]] for unfamiliar listeners, consistent with parent and teacher report.
+
+Expressively, [[CHILD|Mateo]]'s spontaneous utterances were largely single-word with occasional two-word combinations ("[[PET|Rocky]] go," "más agua"). He demonstrated an estimated expressive vocabulary of approximately 45 words across both languages, below the expected range for his chronological age. Receptively, he followed one-step directions reliably and some two-step directions with [[KEEP|mod cues]].
+
+A trial of visual supports was introduced during the second session; [[CHILD|Mateo]] readily used a three-picture [[KEEP|PECS]] array to request a preferred toy, suggesting he may benefit from augmentative strategies as a bridge to spoken language rather than as a long-term replacement.
+
+CLINICAL IMPRESSIONS
+
+Based on standardized assessment, parent and teacher report, and clinical observation, [[CHILD|Mateo]] presents with a mixed receptive-expressive language disorder in the context of bilingual language exposure, with an associated phonological disorder. These findings are consistent with [[KEEP|ICD-10]] codes [[KEEP|F80.2]] (mixed receptive-expressive language disorder) and [[KEEP|F80.0]] (phonological disorder). His difficulties are present and comparable across both Spanish and English, which, combined with his bilingual home environment and typical exposure history, supports a true language disorder rather than a difference attributable to second-language acquisition or dialectal variation. [[CHILD|Mateo]]'s strong social engagement, play skills, and responsiveness to visual and gestural supports are favorable prognostic indicators.
+
+Today's evaluation session was billed under [[KEEP|CPT 92523]] (evaluation of speech sound production with evaluation of language comprehension and expression).
+
+RECOMMENDATIONS
+
+1. [[CHILD|Mateo]] qualifies for ongoing speech-language intervention and should continue to receive services under his updated IFSP, with treatment addressing [[KEEP|IFSP Outcome 2]] (functional communication across settings).
+2. Individual speech-language therapy sessions, billed under [[KEEP|CPT 92507]], are recommended at the frequency outlined below.
+3. Treatment should incorporate [[KEEP|PROMPT]] for motor-speech planning given [[CHILD|Mateo]]'s inconsistent sound substitutions, and the [[KEEP|Cycles]] approach to target phonological patterns in a developmentally sequenced manner.
+4. Given [[CHILD|Mateo]]'s apraxia-like inconsistency on repeated productions, a trial of the [[KEEP|Kaufman]] Speech to Language Protocol is recommended to build approximations toward functional words.
+5. [[CHILD|Mateo]]'s family would benefit from parent coaching through a [[KEEP|Hanen]] program, specifically [[KEEP|It Takes Two to Talk]], to support language facilitation strategies across both Spanish and English during daily routines.
+6. [[KEEP|PECS]] should be introduced as a supplemental communication support during high-frustration moments, with the explicit goal of fading as spoken language increases.
+7. Continued collaboration with [[DAYCARE|The Curious Caterpillar Early Learning Center]] staff, including [[TEACHER|Ms. Lopez]], is recommended to generalize strategies to the classroom setting.
+8. A re-evaluation is recommended in six months to monitor progress and adjust the treatment plan.
+
+Recommended Service Schedule:
+Service	Frequency	Duration	CPT Code	Provider
+Individual Speech-Language Therapy	2x/week	30 minutes	92507	[[PROVIDER|Carmen Ibarra]], CCC-SLP
+Parent Coaching ([[KEEP|Hanen]]/[[KEEP|It Takes Two to Talk]])	1x/month	45 minutes	92507	[[PROVIDER|Carmen Ibarra]], CCC-SLP
+IFSP Team Review	Quarterly	60 minutes	N/A	[[PROVIDER|Tasha Brown]], [[AGENCY|Piedmont Regional CDSA]]
+
+This evaluation was conducted in collaboration with [[AGENCY|Piedmont Regional CDSA]] and reflects [[CHILD|Mateo]]'s current speech and language status as of the dates of testing. Please contact [[EMPLOYER|Triangle Pediatric Speech & Language Center]] at [[PHONE|(919) 555-0142]] with any questions regarding this report or the recommendations above. A follow-up appointment has been scheduled for [[DATE|July 15, 2026]] at [[TIME|1:30 PM]] to coincide with the IFSP review meeting.
+
+Respectfully submitted,
+
+[[PROVIDER|Carmen Ibarra]], M.S., CCC-SLP
+Bilingual-Certified Speech-Language Pathologist
+[[EMPLOYER|Triangle Pediatric Speech & Language Center]]
+License No. [[ID|SLP-NC-44871]]

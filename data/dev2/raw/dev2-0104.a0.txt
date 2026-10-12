@@ -1,0 +1,34 @@
+Daily Session Note — Speech-Language Therapy
+
+Date: [[DATE|October 8, 2026]]
+Client: [[CHILD|Mateo Flores]]
+DOB: [[DATE|April 2, 2022]]
+Medicaid ID: [[MEDICAID_ID|403928571A]]
+Case ID: [[ID|WCC-2026-00417]]
+Clinician: [[PROVIDER|Hannah Reyes, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Interpreter present: [[PROVIDER|Marisol Tan]]
+Location: home visit, [[PLACE|118 Willow Bend Lane, Cary]], [[PLACE|27511]]
+
+S: Session held in the home. [[CHILD|Mateo]]'s mother, [[PARENT|Lucía Flores]], reported he attended Sunday services at [[ORG|Iglesia Bautista Monte Sion]] and sang in the children's choir led by [[PERSON|doña Lupe]]. She said [[CHILD|Mateo]] talks more with his older sister, [[SIBLING|Valentina]], than with his cousin [[FAMILY|Camila]] during a recent visit from [[FAMILY|Tío Beto]]. Mother works at [[ORG|Triangle Linen Services]] and relies on [[FAMILY|his grandmother, Rosa]] for care three afternoons a week. The family also joined the bilingual story-time program at [[AGENCY|Cary Community Library]], run by [[PERSON|Mr. Tom]].
+
+[[CHILD|Mateo]] attends [[SCHOOL|Willow Creek Elementary]] in the [[AGENCY|Wake County Public School System]], placed in [[TEACHER|Mrs. Carter]]'s pre-k classroom with pull-out support from [[TEACHER|Miss Ana]].
+
+O: Reviewed recent testing. [[KEEP|Goldman-Fristoe Test of Articulation-3]] standard score [[KEEP|78]] ([[KEEP|8th percentile]]); [[KEEP|Rossetti Infant-Toddler Language Scale]] age equivalent [[KEEP|18 months]]; [[KEEP|Bayley-4]] cognitive composite [[KEEP|85]]; [[KEEP|Peabody Picture Vocabulary Test-5]] standard score [[KEEP|82]], [[KEEP|12th percentile]]. Chronological age [[KEEP|4;6]].
+
+Skill	Baseline ([[DATE|September 10, 2026]])	Today	Target
+/k/ initial	[[KEEP|2/10]]	[[KEEP|6/10]]	[[KEEP|8/10]]
+/s/ clusters	[[KEEP|1/5]]	[[KEEP|3/5]]	[[KEEP|4/5]]
+MLU	[[KEEP|2.1]]	[[KEEP|2.8]]	[[KEEP|3.5]]
+
+Targeted [[KEEP|/k/]] in initial position using [[KEEP|PROMPT]] cueing. [[CHILD|Mateo]] produced [[KEEP|"cat"]] with [[KEEP|min cues]], [[KEEP|6/10]] trials. Produced [[KEEP|/s/]] clusters in [[KEEP|"stop"]] with [[KEEP|mod cues]], [[KEEP|3/5]] trials. Requested breaks using [[KEEP|PECS]] cards, [[KEEP|4/6]] opportunities. Billed under CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]].
+
+A: [[CHILD|Mateo]] continues progress toward [[KEEP|IFSP outcome 2]]. Gains consistent with the [[KEEP|Cycles]] approach for stimulable sounds.
+
+P: Continue [[KEEP|Hanen]]-based parent coaching. Next session [[DATE|October 15, 2026]] at [[TIME|3:30 PM]]. Service coordinator [[PROVIDER|Denise Walker]] of [[AGENCY|Wake County CDSA]] to address transportation. Contact mother at [[PHONE|(919) 555-0148]] or [[EMAIL|lucia.flores@example.com]] to confirm.
+
+Day	Time	Service	Provider
+Monday	[[TIME|3:30 PM]]	Speech	[[PROVIDER|Hannah Reyes]]
+Wednesday	[[TIME|10:00 AM]]	OT	[[PROVIDER|James Oduya]]
+Friday	[[TIME|1:00 PM]]	DT	[[PROVIDER|Grace Hammond]]
+
+Note shared with mother and interpreter prior to session end; next IFSP review set for [[DATE|January 12, 2027]].

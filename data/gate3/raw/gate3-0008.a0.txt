@@ -1,0 +1,45 @@
+Document: Daily speech-language therapy note
+Client: [[CHILD|Elian Cárdenas]]
+Preferred name: [[CHILD|Eli]]
+DOB: [[DATE|August 19, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 21, 2026]]
+Session: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+Record ID: [[ID|PED-482719]]
+Medicaid ID: [[MEDICAID_ID|731905284Q]]
+Authorization: [[ID|ST-26041873]]
+Clinician: [[PROVIDER|Marisol Vega]], MS, CCC-SLP, bilingual English/Spanish
+Employer: [[EMPLOYER|Juniper Lantern Speech Services]]
+Location: [[PLACE|418 Lantern Finch Lane]], [[PLACE|Willowmere]], North Carolina [[PLACE|27500]]
+School: [[SCHOOL|Willowmere Acorn Preschool]]
+Referral agency: [[AGENCY|Willowmere County CDSA]]
+Referring physician: Dr. [[PROVIDER|Adrian Mercado]]
+Diagnosis: [[KEEP|F80.2]]
+Procedure: [[KEEP|92507]]
+Modifier: [[KEEP|GN]]
+Parent phone: [[PHONE|(919) 555-0146]]
+Alternate phone: [[PHONE|984.555.0128]]
+Caregiver phone: [[PHONE|+1 252 555 0193]]
+International family contact: [[PHONE|+52 55 5555 0148]]
+
+Subjective
+
+Mother [[PARENT|Nadia Cárdenas]] attended and reported increased requests during meals. Father [[PARENT|Tomás Cárdenas]] supplied a written update. Parents described rotating employment schedules that affect home practice. Mother works at [[ORG|Silver Lantern Store]], listed in Spanish as [[ORG|Tienda Linterna Plateada]]; [[ORG|Copper Heron Restaurant]], or [[ORG|Restaurante Garza Cobriza]]; and [[ORG|Gentle Fern Cleaning Service]], or [[ORG|Servicio de Limpieza Helecho Suave]]. Father works at [[ORG|Blue Meadow Plant]], or [[ORG|Planta Prado Azul]]; [[ORG|Golden Cricket Farm]], or [[ORG|Granja Grillo Dorado]]; and [[ORG|Stone Sparrow Construction Company]], or [[ORG|Compañía de Construcción Gorrión de Piedra]].
+
+Grandmother [[FAMILY|Hope Cárdenas]] supervises afternoon practice. The family expressed hope that shorter routines would improve consistency. Teacher Ms. [[TEACHER|Inez Robles]] reported that the child joined pretend cooking with classmate [[PEER|Mila Serrano]]. No pain, illness, or medication change was reported.
+
+Objective
+
+The clinician delivered treatment in English with Spanish support during play and shared reading. Activities addressed [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]]. Using [[KEEP|Hanen]] strategies, the clinician coached the parent to pause, follow the child's lead, and respond to requests. A brief [[KEEP|Cycles]] activity targeted initial [[KEEP|/k/]]. The child produced the sound in [[KEEP|8/10]] trials with [[KEEP|mod cues]], compared with [[KEEP|3 of 5]] trials during an uncued probe. Initial [[KEEP|/ɾ/]] remained inconsistent; one production contained [[KEEP|[w]]].
+
+During animal play, the child said, "[[PET|Nube]] run," and "[[SIBLING|Sol]] feeds [[PET|Nube]]." During a family photograph task, the child said, "My sister [[SIBLING|Sol]] has it." Other spontaneous productions included [[KEEP|"more bubbles"]], [[KEEP|"I want big truck"]], and [[KEEP|"she eating"]], coded [[KEEP|[EW]]] for the omitted auxiliary. Target words included [[KEEP|"cup"]], [[KEEP|"coat"]], and [[KEEP|"come"]]. The child followed related directions in [[KEEP|75%]] of opportunities with [[KEEP|min cues]]. Requests expanded from gestures to spoken phrases after adult models. Parent practice showed accurate waiting and responsive models in [[KEEP|4/5]] opportunities.
+
+Assessment
+
+Progress was evident in requesting and participation. Performance varied with cueing and task familiarity. Prior evaluation on [[DATE|September 30, 2026]] used the [[KEEP|PLS-5]]. [[KEEP|Auditory Comprehension]] yielded standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These historical results provide context and were not repeated today. Cross-language observations remain necessary before interpreting an isolated English error as evidence of impairment.
+
+The parent reported birth at [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8 and 9]]. These historical details were not independently verified. The child tolerated transitions with a picture schedule and returned to play after one movement break.
+
+Plan
+
+Continue weekly treatment and review progress on [[DATE|November 18, 2026]]. Practice brief requesting routines during meals and animal play. Use the targets [[KEEP|"cup"]] and [[KEEP|"come"]] with [[KEEP|min cues]], then allow independent attempts. Parents will share the same routine with the grandmother. Coordinate classroom carryover with the teacher after checking the signed release. Next session will compare spontaneous phrases across languages and reduce verbal prompting when the child succeeds. Parent education included demonstration, practice, and feedback. The parent explained the routine accurately and selected breakfast as the most reliable practice time. Signed electronically by [[PROVIDER|Marisol Vega]] at [[TIME|10:08 AM]].

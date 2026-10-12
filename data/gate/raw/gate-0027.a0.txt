@@ -1,0 +1,124 @@
+DOCUMENTO CLÍNICO FICTICIO PARA PRUEBAS DE DESIDENTIFICACIÓN
+
+Paciente: [[CHILD|Teodoro Emiliano Valverde Salcedo]]  
+Nombre de uso: [[CHILD|Teo]]  
+Fecha de nacimiento: [[DATE|8 de agosto de 2022]]  
+Edad durante la evaluación: [[KEEP|4;2]]  
+Madre: [[PARENT|Guadalupe Salcedo Aranda]], conocida como [[PARENT|Lupita]]  
+Padre: [[PARENT|Esteban Valverde Neri]]  
+Domicilio: [[PLACE|247 Calle del Abedul, apartamento 6B]], [[PLACE|Villa Encinal]], Carolina del Norte, [[PLACE|27846]]  
+Condado: [[PLACE|Condado de Robledal]]  
+Teléfono familiar: [[PHONE|(919) 555-0146]]  
+Correo familiar: [[EMAIL|familia.valverde@correo.example]]  
+Expediente: [[ID|EXP-NC-260184]]  
+Medicaid: [[MEDICAID_ID|483920176Q]]  
+Autorización: [[ID|AUT-772640B]]  
+Fecha de evaluación: [[DATE|8 de octubre de 2026]]  
+Horario: de [[TIME|9:10 a. m.]] a [[TIME|10:45 a. m.]]  
+Profesional: [[PROVIDER|Julia Marisol Ortiz]], patóloga bilingüe del habla y lenguaje pediátrico  
+Empresa: [[EMPLOYER|Senderos del Lenguaje Pediátrico]]  
+Dirección profesional: [[PLACE|610 Avenida de los Olmos, oficina 204]], [[PLACE|Villa Encinal]], Carolina del Norte, [[PLACE|27846]]  
+Contacto profesional: [[PHONE|(984) 555-0173]]; [[EMAIL|j.ortiz@senderos.example]]  
+Sitio informativo: [[URL|https://senderos.example/familias]]  
+Procedimiento: [[KEEP|CPT 92523]]  
+Diagnósticos considerados: [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 F80.0]]
+
+**Motivo de consulta y antecedentes**
+
+La familia solicitó esta evaluación porque [[CHILD|Teodoro]] tiene dificultad para explicar experiencias, comprender instrucciones extensas y hacerse entender fuera del hogar. Su mamá [[PARENT|Guadalupe Salcedo Aranda]] describió frustración cuando otras personas le piden repetir. Su papá [[PARENT|Esteban Valverde Neri]] señaló que el niño comunica muchas necesidades mediante gestos. El propósito fue describir sus habilidades en español e inglés, identificar apoyos útiles y determinar si las dificultades exceden las diferencias esperadas durante el aprendizaje bilingüe.
+
+La referencia llegó de la pediatra, Dra. [[PROVIDER|Adriana Beltrán Mena]], de [[HOSPITAL|Centro Hospitalario Infantil Valle Sereno]]. La coordinadora [[PROVIDER|Marina Castañeda Ríos]], de [[AGENCY|CDSA de Robledal Norte]], facilitó los antecedentes del desarrollo. La familia autorizó consultar los registros aportados para esta evaluación. El número de referencia es [[ID|REF-260908-31]]. El informe integra información familiar, documentos disponibles, observación directa, muestras de lenguaje y tareas estructuradas; ninguna fuente se consideró suficiente por sí sola.
+
+[[CHILD|Teo]] asiste a [[SCHOOL|Escuela Preescolar Arroyo de Papel]]. Su maestra, Sra. [[TEACHER|Elena Márquez Vidal]], informó que participa con interés cuando las actividades incluyen objetos y demostraciones. La asistente [[TEACHER|Nora Fuentes Leal]] observa que suele mirar a otros niños antes de iniciar una tarea. Sus compañeros [[PEER|José Andrés Molina]], conocido como [[PEER|Pepe]], y [[PEER|Camila Duarte Solís]] suelen invitarlo al juego, aunque algunas conversaciones terminan cuando no logran comprender su mensaje.
+
+Antes de ingresar al programa actual, asistió a [[DAYCARE|Guardería Nubes de Algodón]]. Según su madre, allí predominaba el inglés y había pocas oportunidades de conversar en español con adultos. La familia no atribuye las dificultades exclusivamente a ese cambio. También recuerda mensajes cortos y problemas para seguir instrucciones en español antes del ingreso. Esta observación resulta relevante porque una diferencia asociada con exposición lingüística limitada puede parecerse a un trastorno, pero requiere una interpretación distinta.
+
+Durante la entrevista, [[PARENT|Lupita]] explicó que el niño pide ayuda, comparte intereses y busca compañía. Puede abandonar una conversación si necesita demasiadas aclaraciones. Su padre añadió que aprende rutinas domésticas mediante repetición, pero necesita apoyo cuando cambia el orden. Ambos desean que pueda contar lo ocurrido en la escuela y participar con menos frustración. No solicitaron eliminar un idioma; expresaron interés en mantener el español familiar mientras adquiere mayores recursos para comunicarse en inglés.
+
+El nacimiento ocurrió en [[HOSPITAL|Hospital Maternoinfantil Brisa del Monte]], en [[PLACE|Loma Clara]], Carolina del Norte. La madre informó un embarazo con seguimiento prenatal regular y sin complicaciones mayores conocidas. El parto fue vaginal a las [[KEEP|39 semanas de gestación]]. El peso registrado fue [[KEEP|3.18 kg]]. No se reportó ingreso a cuidados intensivos ni necesidad prolongada de apoyo respiratorio. La familia conserva una copia del resumen de alta, revisada como parte de los antecedentes disponibles.
+
+Según el relato familiar, [[CHILD|Teodoro]] se sentó sin apoyo aproximadamente a los [[KEEP|7 meses]] y caminó a los [[KEEP|14 meses]]. Emitió sus primeras palabras reconocibles alrededor de los [[KEEP|18 meses]]. Las combinaciones espontáneas aparecieron después de los [[KEEP|30 meses]]. Estas edades son estimaciones retrospectivas y no registros de observación directa. La familia no informó pérdida de palabras, gestos o habilidades motoras previamente adquiridas. El progreso ha sido gradual, con periodos de avance más lento.
+
+La historia médica incluye episodios de otitis media durante la primera infancia. El otorrinolaringólogo, Dr. [[PROVIDER|Samuel Ibarra Costa]], colocó tubos de ventilación el [[DATE|16 de mayo de 2025]]. El informe audiológico del [[DATE|12 de septiembre de 2026]], firmado por la audióloga [[PROVIDER|Teresa Olmeda Ruiz]], describió respuestas compatibles con acceso auditivo funcional para el habla durante esa visita. Este resultado no sustituye el seguimiento médico ni permite descartar cambios auditivos posteriores.
+
+La familia no informó convulsiones, lesiones neurológicas, dificultades persistentes para respirar ni medicamentos diarios. Refirió alimentación variada y preferencia por algunas texturas crujientes, sin tos habitual durante las comidas. El sueño suele ser continuo, aunque cambia cuando hay congestión. La terapeuta ocupacional [[PROVIDER|Beatriz Cordero Paz]] realizó una consulta previa por sensibilidad al ruido. El registro aportado recomendó anticipar sonidos intensos y ofrecer pausas, sin establecer una explicación única para las dificultades comunicativas.
+
+La evaluación anterior del [[DATE|21 de febrero de 2026]] incluyó orientación familiar y una muestra breve de comunicación. La profesional [[PROVIDER|Julia Marisol Ortiz]], identificada en ese registro como [[PROVIDER|J. Ortiz]], recomendó ampliar la evaluación bilingüe. El plan individualizado de servicios familiares, fechado el [[DATE|4 de marzo de 2026]], tenía el número [[ID|IFSP-26147]]. La revisión del [[DATE|18 de junio de 2026]] documentó mayor uso de palabras, pero necesidades continuas para comprender y organizar mensajes.
+
+**Familia y experiencia lingüística**
+
+[[CHILD|Teo]] vive con sus padres y su hermana [[SIBLING|Rosa Valverde Salcedo]], de [[KEEP|7 años]]. Su hermana suele interpretar sus mensajes cuando juegan juntos. La familia reconoce que esta ayuda facilita la interacción, pero a veces reduce las oportunidades del niño para aclarar por sí mismo. En la entrevista se habló de esperar, ofrecer alternativas y permitir que complete su idea antes de responder por él. El nombre de su hermana se consignó como identificación personal.
+
+La abuela materna [[FAMILY|Luz Aranda Treviño]] cuida al niño algunas tardes y conversa principalmente en español. El tío [[FAMILY|Jesús Salcedo Aranda]], llamado [[FAMILY|Chuy]], utiliza español e inglés durante visitas familiares. Los primos [[FAMILY|Daniela Salcedo Vega]] y [[FAMILY|Iván Salcedo Vega]] participan en juegos de construcción. La niñera [[FAMILY|Mónica Vela Ponce]] alterna ambos idiomas según la actividad. La familia también tiene un perro llamado [[PET|Canelo]], que aparece con frecuencia en los relatos del niño.
+
+La madre trabaja en [[ORG|Cooperativa Textil Hilos del Prado]] y el padre en [[ORG|Talleres Mecánicos Puente Azul]]. Sus horarios hacen que diferentes adultos participen en las rutinas de comunicación. La madre usa casi siempre español; el padre emplea español y algunas frases en inglés. La familia calculó una exposición aproximada de [[KEEP|65 %]] al español y [[KEEP|35 %]] al inglés durante una semana habitual. Estas proporciones son estimaciones familiares y pueden variar.
+
+El español constituye el idioma más accesible para conversaciones familiares y explicaciones sobre necesidades. El inglés aparece con mayor frecuencia en canciones, instrucciones escolares y juegos con compañeros. [[CHILD|Teodoro]] combina palabras de ambos idiomas cuando una forma le resulta más disponible. Esa alternancia no se interpretó como error clínico por sí misma. Se consideraron la intención, el contexto y la disponibilidad del concepto en cualquiera de los idiomas, evitando penalizar una respuesta únicamente por el idioma elegido.
+
+La familia informó antecedentes de dificultades escolares en un primo adulto, [[FAMILY|Andrés Neri Valverde]], sin evaluación formal disponible. No se atribuyó una causa hereditaria a partir de ese relato. Los padres describieron una red de apoyo estable y disposición para practicar estrategias durante actividades cotidianas. La vecina [[PERSON|Clara Méndez Soto]] acompaña ocasionalmente a la familia al transporte escolar, pero no participa en decisiones clínicas. Su presencia se mencionó solo para aclarar quiénes interactúan habitualmente con el niño.
+
+**Procedimiento y resultados**
+
+La sesión se realizó principalmente en español, con actividades complementarias en inglés. [[PROVIDER|Julia Marisol Ortiz]] condujo la entrevista y las tareas sin intérprete. La madre permaneció durante la mayor parte de la visita y el padre aportó información al final. Se usaron juguetes, imágenes, libros y una secuencia de juego simbólico. La combinación permitió observar respuestas estructuradas y comunicación espontánea. Las ayudas adicionales se reservaron para tareas descriptivas y de aprendizaje, fuera de los reactivos puntuados.
+
+[[CHILD|Teo]] entró al consultorio con cautela y se acercó a los materiales después de observar a su madre. Mostró interés por vehículos, animales y recipientes. Aceptó turnos breves y buscó compartir descubrimientos. Necesitó pausas cuando las demandas verbales aumentaron. La participación mejoró con instrucciones cortas y una agenda visual. El comportamiento permitió obtener información útil, aunque las tareas largas pudieron subestimar algunas habilidades por cansancio y menor atención al final de la sesión.
+
+Se administró [[KEEP|Preschool Language Scales, Fifth Edition Spanish]] ([[KEEP|PLS-5 Spanish]]) conforme a los procedimientos de la versión utilizada. Se consideraron las respuestas permitidas en ambos idiomas y los criterios de crédito conceptual correspondientes. También se obtuvo una muestra de lenguaje analizada mediante [[KEEP|Systematic Analysis of Language Transcripts]] ([[KEEP|SALT]]). Para el habla se emplearon estímulos de [[KEEP|Goldman-Fristoe Test of Articulation 3]] ([[KEEP|GFTA-3]]) de forma descriptiva, sin aplicar sus normas al desempeño bilingüe.
+
+| Medida | Resultado | Interpretación |
+|---|---|---|
+| [[KEEP|PLS-5 Spanish: Comprensión auditiva]] | Puntuación estándar [[KEEP|82]]; percentil [[KEEP|12]] | Dificultad relativa para relaciones y consignas extensas |
+| [[KEEP|PLS-5 Spanish: Comunicación expresiva]] | Puntuación estándar [[KEEP|77]]; percentil [[KEEP|6]] | Dificultad para elaborar mensajes y organizar información |
+| [[KEEP|PLS-5 Spanish: Lenguaje total]] | Puntuación estándar [[KEEP|78]]; percentil [[KEEP|7]] | Rendimiento inferior al esperado en esta medida |
+| Seguimiento de instrucciones simples | [[KEEP|8/10]]; [[KEEP|80 %]] | Mejor desempeño con acciones familiares |
+| Seguimiento de instrucciones con dos acciones | [[KEEP|4/10]]; [[KEEP|40 %]] | Mayor dificultad sin apoyo visual |
+| Inteligibilidad para una oyente poco familiar | [[KEEP|58 %]] | Estimación descriptiva durante juego |
+| Producción de [[KEEP|/k/]] tras enseñanza breve | [[KEEP|7/10]] con [[KEEP|claves moderadas (mod cues)]] | Respuesta favorable al modelo y apoyo visual |
+
+Las puntuaciones estandarizadas describen el desempeño en esta administración y no establecen por sí solas un diagnóstico. No se calcularon equivalentes de edad, porque podrían sugerir una precisión que los datos no permiten. Los resultados se interpretaron junto con la exposición a ambos idiomas, la observación escolar y los antecedentes. La convergencia entre fuentes apoyó una preocupación clínica, especialmente porque las dificultades también aparecieron en el idioma más usado en el hogar.
+
+En comprensión, [[CHILD|Teodoro]] identificó objetos familiares, acciones comunes y algunas relaciones espaciales cuando había contexto. Comprendió mejor consignas acompañadas de gestos. Tuvo dificultad con preguntas sobre causas, secuencias temporales y referentes que cambiaban dentro de una oración. Cuando debía recordar dos acciones, con frecuencia completaba la última. Repetir toda la instrucción sin modificarla produjo beneficio limitado. Dividirla y comprobar cada paso ayudó durante las tareas descriptivas, aunque ese apoyo no se incorporó a la puntuación estandarizada.
+
+En expresión, utilizó sustantivos, verbos frecuentes y combinaciones breves para pedir, comentar y protestar. Su mensaje [[KEEP|"Teo quiere carro"]] incluyó su propio nombre, transcrito aquí como [[CHILD|Teo]] para distinguir la identificación de la producción clínica. También dijo [[KEEP|"yo poner aquí"]] y [[KEEP|"se cayó perro"]]. Las dificultades incluyeron omisión de palabras funcionales, poca elaboración de referentes y uso limitado de conectores. No se calificó cada omisión como trastorno sin considerar las características de cada idioma.
+
+La muestra espontánea incluyó [[KEEP|50 enunciados]] analizables en español. La longitud media fue [[KEEP|2.8 palabras por enunciado]], calculada como descripción de esta muestra. Se registraron reformulaciones, pausas y algunas palabras no comprensibles. El código [[KEEP|[EW]]] se utilizó para señalar errores de palabra según el sistema de análisis elegido. Los códigos no sustituyeron la revisión clínica del contexto. No se comparó la muestra con una base normativa que no correspondiera a sus características lingüísticas.
+
+Durante la tarea narrativa, observó una secuencia donde un animal perdía un objeto y luego lo recuperaba. Identificó personajes y acciones visibles, pero necesitó preguntas para expresar el problema y el desenlace. Produjo [[KEEP|"perro busca"]] y [[KEEP|"aquí pelota"]]. Con un modelo breve, añadió [[KEEP|"porque no está"]]. La enseñanza mostró capacidad para incorporar una relación causal, aunque no mantuvo esa forma de manera independiente en la siguiente secuencia. Se valoró tanto el resultado como la respuesta al apoyo.
+
+Las actividades en inglés mostraron reconocimiento de vocabulario escolar frecuente y uso de fórmulas aprendidas. Dijo [[KEEP|"my turn"]] y [[KEEP|"I want blue"]], mientras que explicaciones más extensas requirieron ayuda. El menor rendimiento en inglés fue compatible, en parte, con su exposición. Sin embargo, las dificultades para elaborar relatos y seguir mensajes largos también aparecieron en español. La comparación se centró en patrones funcionales, sin traducir directamente puntuaciones ni asumir equivalencia entre tareas de los dos idiomas.
+
+El examen orofacial mostró simetría en reposo y movimientos funcionales durante las actividades observadas. No se identificaron signos claros de debilidad que explicaran el patrón de habla. En palabras conocidas aparecieron sustituciones de [[KEEP|/k/]] por [[KEEP|/t/]] y de [[KEEP|/g/]] por [[KEEP|/d/]]. Para el objetivo [[KEEP|"casa"]], produjo [[KEEP|"tasa"]]. Para [[KEEP|"gato"]], produjo [[KEEP|"dato"]]. Estos ejemplos se interpretaron como patrones fonológicos dentro de la muestra, no como evidencia suficiente de un trastorno motor.
+
+También se observaron simplificaciones de grupos consonánticos y variación en la producción de líquidas. En algunos intentos de [[KEEP|/r/]] apareció una aproximación [[KEEP|[w]]]. La variabilidad aumentó en palabras largas y mensajes espontáneos. Se distinguieron patrones compartidos entre idiomas de diferencias relacionadas con su experiencia. La respuesta a modelos de [[KEEP|/k/]] fue favorable, pero necesitó apoyo para mantener el punto de articulación. No se obtuvo una puntuación estándar de articulación con normas monolingües.
+
+La inteligibilidad estimada reflejó palabras comprendidas por la evaluadora durante una muestra de juego. Puede cambiar según el tema, el interlocutor y la disponibilidad de contexto. La madre comprendió más mensajes que la evaluadora, como suele ocurrir con oyentes familiares. Cuando surgió una dificultad, [[CHILD|Teo]] repitió el mensaje o señaló el objeto. Con una indicación breve, pudo añadir información. Esa capacidad de reparación constituye una fortaleza útil para el tratamiento y la participación escolar.
+
+La comunicación social incluyó atención compartida, interés por el otro, gestos dirigidos y disfrute del intercambio. Hubo menos turnos cuando el mensaje exigía vocabulario que no tenía disponible. Durante juego simbólico alimentó una figura, la acostó y pidió materiales. Estos hallazgos apoyan recursos sociales funcionales dentro de la sesión. La evaluación no incluyó instrumentos diagnósticos para otras condiciones del desarrollo. Si aparecen preocupaciones adicionales en otros contextos, corresponde analizarlas mediante el equipo pertinente y observaciones específicas.
+
+**Impresiones clínicas**
+
+Los hallazgos son compatibles con un trastorno del lenguaje que afecta comprensión y expresión, codificado como [[KEEP|ICD-10 F80.2]]. La conclusión se apoya en dificultades funcionales presentes en español, información familiar y escolar, desempeño estructurado y necesidades observadas durante el aprendizaje. El bilingüismo forma parte de su experiencia comunicativa y no constituye una causa del trastorno. La confianza clínica es moderada, debido a las limitaciones de una sola sesión y la información retrospectiva sobre algunos antecedentes.
+
+El patrón de sustituciones y simplificaciones también es compatible con un trastorno de los sonidos del habla, codificado como [[KEEP|ICD-10 F80.0]]. La reducción de inteligibilidad afecta la participación con oyentes poco familiares. El análisis favorece una descripción fonológica inicial, con seguimiento de la respuesta al tratamiento. No se identificaron datos suficientes para establecer apraxia infantil del habla. La evaluación tampoco permite excluir toda dificultad motora futura; cualquier cambio consistente requerirá una revisión específica.
+
+[[CHILD|Teodoro]] muestra fortalezas en intención comunicativa, juego, imitación y respuesta a enseñanza breve. Estas habilidades permiten plantear objetivos dentro de actividades motivadoras. Sus mayores necesidades aparecen cuando debe comprender relaciones, organizar información y producir mensajes más precisos. Las dificultades de lenguaje y habla pueden interactuar: un mensaje breve ofrece poco contexto, y una producción poco clara dificulta comprenderlo. Por ello, se recomienda coordinar objetivos sin exigir que domine completamente un área antes de trabajar la otra.
+
+La familia aportó información consistente, aunque algunas fechas del desarrollo son aproximadas. No se dispuso de grabaciones naturales del salón ni de observaciones prolongadas con diferentes interlocutores. Se recomienda complementar los datos durante el tratamiento y mediante comunicación autorizada con la escuela. El pronóstico para mejorar la comunicación funcional es favorable con apoyos regulares y objetivos ajustados. No se prometen resultados específicos ni un plazo fijo, porque el progreso dependerá de la respuesta individual y las oportunidades de práctica.
+
+**Recomendaciones**
+
+Se recomienda iniciar terapia bilingüe del habla y lenguaje con una frecuencia propuesta de [[KEEP|2 sesiones semanales]] de [[KEEP|30 minutos]], sujeta a necesidades, disponibilidad y revisión clínica. El tratamiento debe incluir español y oportunidades relevantes en inglés, coordinadas con el uso real de ambos idiomas. La familia puede practicar en el idioma que maneja con mayor naturalidad. Las sesiones deben combinar comprensión, expresión, inteligibilidad y reparación de mensajes mediante juego, lectura compartida y rutinas funcionales.
+
+Como objetivo inicial de comprensión, se propone seguir instrucciones con dos acciones relacionadas en [[KEEP|8/10 oportunidades]], con [[KEEP|claves mínimas]], durante actividades conocidas. El equipo debe registrar el tipo de ayuda y reducirla gradualmente. Conviene usar instrucciones breves, mostrar la secuencia cuando sea necesario y verificar la comprensión mediante la acción. Preguntar solamente si entendió puede ocultar dificultades. Las actividades deben variar para comprobar aprendizaje y evitar que el resultado dependa únicamente de una rutina memorizada.
+
+Para expresión, se propone elaborar mensajes de [[KEEP|4 a 5 palabras]] que incluyan información relevante para el interlocutor. El criterio inicial será [[KEEP|80 %]] de oportunidades durante actividades estructuradas, con [[KEEP|claves moderadas (mod cues)]]. El adulto puede ampliar el mensaje sin exigir repetición constante. Ante [[KEEP|"perro corre"]], puede modelar [[KEEP|"el perro corre al patio"]]. Se trabajarán referentes, acciones y relaciones antes de aumentar la complejidad de forma indiscriminada. La corrección debe mantener el propósito comunicativo.
+
+Para habla, se recomienda seleccionar palabras funcionales con contrastes entre [[KEEP|/k/]] y [[KEEP|/t/]], y después entre [[KEEP|/g/]] y [[KEEP|/d/]], según la respuesta. La meta inicial será producir [[KEEP|/k/]] en [[KEEP|8/10 intentos]] con [[KEEP|claves moderadas (mod cues)]]. El equipo debe comprobar transferencia a palabras nuevas y mensajes espontáneos. No se recomienda dedicar la intervención principal a ejercicios orales sin habla cuando no existe una necesidad funcional identificada que los justifique.
+
+En casa, los adultos pueden ofrecer elecciones, esperar la respuesta y ampliar una idea cada vez. Durante el juego con su hermana [[SIBLING|Rosa]], conviene reservar turnos para que [[CHILD|Teo]] explique o pida materiales directamente. La abuela [[FAMILY|Luz Aranda Treviño]] y la niñera [[FAMILY|Mónica Vela Ponce]] pueden aplicar las mismas estrategias con palabras habituales. Los juegos relacionados con [[PET|Canelo]] ofrecen oportunidades para describir acciones, anticipar rutinas y contar acontecimientos sin convertir toda interacción en una prueba.
+
+En la escuela, la maestra [[TEACHER|Elena Márquez Vidal]] puede anticipar vocabulario, acompañar instrucciones con imágenes y dar tiempo adicional para responder. La asistente [[TEACHER|Nora Fuentes Leal]] puede comprobar comprensión antes de cambiar de actividad. Se recomiendan grupos pequeños y oportunidades de interacción con [[PEER|Pepe]] y [[PEER|Camila Duarte Solís]], sin asignarles funciones de intérprete. Cuando un mensaje resulte poco claro, el adulto puede pedir una pista concreta o presentar alternativas, en lugar de solicitar múltiples repeticiones completas.
+
+Se recomienda mantener seguimiento auditivo según las indicaciones de la pediatra y el equipo de audiología. La coordinadora [[PROVIDER|Marina Castañeda Ríos]] puede apoyar la transición y aclarar servicios disponibles, con autorización familiar. La próxima revisión clínica propuesta es el [[DATE|10 de diciembre de 2026]]. En esa visita se compararán muestras funcionales, nivel de ayuda y participación. Si el progreso es limitado, se revisarán los objetivos, la frecuencia, el acceso auditivo y otras necesidades del desarrollo antes de mantener el mismo plan.
+
+Los resultados se explicaron en español a ambos padres. La madre [[PARENT|Lupita]] resumió las estrategias de espera y expansión, y el padre [[PARENT|Esteban Valverde Neri]] identificó rutinas para practicarlas. La familia recibió una copia de este informe y expresó acuerdo con iniciar la coordinación de servicios. Este documento registra hallazgos de una evaluación ficticia y no corresponde a una persona real. Firma clínica: [[PROVIDER|Julia Marisol Ortiz]], patóloga bilingüe del habla y lenguaje pediátrico, [[EMPLOYER|Senderos del Lenguaje Pediátrico]].

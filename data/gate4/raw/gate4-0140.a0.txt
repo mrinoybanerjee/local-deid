@@ -1,0 +1,16 @@
+Service date: [[DATE|October 8, 2026]]  Time: [[TIME|9:15 a.m.]]  Client: [[CHILD|Nicolás Vallejo]]  Age: [[KEEP|4;2]]
+Clinician: [[PROVIDER|Elena Cárdenas]], bilingual pediatric SLP  Employer: [[EMPLOYER|Little Lantern Speech Partners]]  Location: North Carolina
+Record: [[ID|SLP-604281]]  Medicaid: [[MEDICAID_ID|482761903Q]]  CPT: [[KEEP|92507]]  ICD-10: [[KEEP|F80.2]]
+School district: [[SCHOOL|Bellacove County Schools]]  School: [[SCHOOL|Willow Comet Elementary]]  Classroom: Ms. [[TEACHER|Maribel Soto]]'s preschool
+Home: [[PLACE|1846 Lantern Finch Lane, Bellacove, 27864]]  Family village: [[PLACE|Santa Brisa del Naranjo]], Guatemala
+Contact: [[PARENT|Adriana Vallejo]]  Phone: [[PHONE|919-555-0147]]  Email: [[EMAIL|adriana.vallejo@example.com]]
+
+Subjetivo: Mamá reported, “Ya pide ayuda, pero se frustra cuando no lo entienden.” Dad [[PARENT|Tomás Vallejo]] described longer phrases during meals. Sister [[SIBLING|Inés Vallejo]] models turn-taking; abuela [[FAMILY|Rosa Méndez]] practices picture choices. The family requested activities that fit their evening routine and use familiar household objects. School staff reported that transitions were smoother when visual choices were available before cleanup.
+
+Antecedentes: Records from [[HOSPITAL|Juniper Crest Health Cedar Harbor Campus NICU]] list gestational age [[KEEP|35 weeks]], birth weight [[KEEP|2,180 g]], and Apgar scores [[KEEP|8]] and [[KEEP|9]]. Pediatrician Dr. [[PROVIDER|Samuel Ibarra]] follows development. OT [[PROVIDER|Priya Menon]] and PT [[PROVIDER|Jonah Serrano]] coordinate positioning. Interpreter [[PROVIDER|Alma Pineda]] supported caregiver education today.
+
+Objetivo: Previous [[KEEP|PLS-5]] findings included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. Today, [[CHILD|Nicolás]] followed spatial directions in [[KEEP|8/10]] trials with [[KEEP|mod cues]]. He requested [[KEEP|"más agua"]] and [[KEEP|"help me"]] spontaneously. Targets [[KEEP|"casa"]] and [[KEEP|"car"]] supported initial [[KEEP|/k/]] practice; accuracy reached [[KEEP|70%]] with [[KEEP|min cues]]. A language sample included [[KEEP|[EW]]]. During pretend play, he said “[[PET|Chispa]] run.” Peer [[PEER|Dalia Cruz]] joined reciprocal play. He accepted the shared materials after a brief visual reminder and remained engaged through cleanup.
+
+Análisis: Functional requesting improved across languages. Direction-following remained stronger with gestures. Quiet processing time helped; rapid repetition reduced participation. Performance suggests continued need for language support across routines. Caregiver demonstration showed understanding of waiting before offering another prompt.
+
+Plan: Continue [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice. Address IFSP outcome [[KEEP|2]] through snack and play routines. Model choices, pause, and expand the child's message. Share picture supports with Ms. [[TEACHER|Soto]]. Next session: [[DATE|October 15, 2026]].

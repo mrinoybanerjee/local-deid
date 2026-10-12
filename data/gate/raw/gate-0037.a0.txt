@@ -1,0 +1,22 @@
++ Name: [[CHILD|Nicolás Vallejo Cruz]]
++ CA: [[KEEP|4;2]]
++ Context: Individual bilingual speech-language session at [[EMPLOYER|Puente Claro Pediatric Therapies]], [[PLACE|Cedro Falls]], North Carolina.
++ Date: [[DATE|09/20/2026]], [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
++ Clinician: [[PROVIDER|Elena Marisol Duarte]], MS, CCC-SLP
++ Record: [[ID|NC-ST-682941]]; Medicaid: [[MEDICAID_ID|572840193Q]]
++ Contact: [[PHONE|919-555-0148]]; [[EMAIL|family.vallejo@example.com]]; [[URL|https://puenteclaro.example/session]]
+
+Resumen / Subjetivo:
+[[CHILD|Nico]] attended with su mamá [[PARENT|Adriana Vallejo]] and stepfather [[PARENT|Tomás Cruz]]. Mother reported, “Ahora pide ayuda en español, pero cuando está cansado mezcla todo.” Father joined briefly by telephone: [[PARENT|Gabriel Vallejo]] described improved turn-taking with sister [[SIBLING|Mila Vallejo]]. Grandmother [[FAMILY|Rosa Cárdenas]] practices picture choices, and babysitter [[FAMILY|Beatriz Solano]] uses the same visual schedule. The family’s dog, [[PET|Canela]], reportedly motivates requesting during play.
+
+Antecedentes médicos:
+Born [[DATE|07/18/2022]] at [[HOSPITAL|Hospital Infantil Loma Serena]], [[PLACE|Pino Vista]], North Carolina, following delivery at [[KEEP|34 weeks]] gestation. History includes an eleven-day NICU stay for feeding support and respiratory monitoring. Neonatologist Dr. [[PROVIDER|Samuel Ibarra]] and physician Dr. [[PROVIDER|Priya Serrano]] followed hospitalization. Pediatrician Dr. [[PROVIDER|Helen Arce]] documented normal hearing screening on [[DATE|2026-08-12]]. Mother recalled discharge teaching “el [[DATE|martes 4 de junio de 2024]], cuando regresamos por otra consulta.” No new medications or illnesses reported.
+
+Objetivo:
+During play, [[CHILD|Nicolás]] requested [[KEEP|"más burbujas"]] independently, then produced [[KEEP|"yo quiere azul"]] [[KEEP|[EW]]]. Targets included [[KEEP|"quiero"]], [[KEEP|"help me"]], and initial [[KEEP|/k/]]. Accuracy reached [[KEEP|8/10]] with [[KEEP|mod cues]]; independent requests occurred in [[KEEP|60%]] of opportunities. Substitution [[KEEP|[w]]] persisted during English naming. Prior [[KEEP|PLS-5 Spanish]] testing, dated [[DATE|3 de marzo de 2025]], yielded a standard score of [[KEEP|82]] and percentile [[KEEP|12]]. Today’s language sample showed longer utterances when choices preceded questions. Code-switching supported participation; clinician accepted either language and modeled expansion without requiring translation.
+
+Coordinación:
+Interpreter [[PROVIDER|Daniela Neri]] clarified family questions. OT [[PROVIDER|Maren Soto]] recommended supported seating; PT [[PROVIDER|Julián Ferrer]] reviewed movement breaks. Teacher Ms. [[TEACHER|Alicia Benítez]] at [[SCHOOL|Escuela Sendero Azul]] reported shared play with classmates [[PEER|Emma Ríos]] and [[PEER|Owen Salcedo]]. Classroom assistant [[TEACHER|Teresa León]] will offer picture choices. Service coordinator [[PROVIDER|Celia Montes]] from [[AGENCY|CDSA del Valle Brillante]] confirmed the IFSP review for [[DATE|10/06/2026]]. Mother’s employer, [[ORG|Tela Norte Packaging]], adjusted her shift. Neighbor [[PERSON|Hugo Mercado]] provides transportation from [[PLACE|428 Lantern Finch Lane]], [[PLACE|Cedro Falls]], [[PLACE|27900]].
+
+Análisis y plan:
+Progress supports continued skilled intervention for functional expressive language. During cleanup, [[CHILD|Nico]] combined a gesture with [[KEEP|"abre please"]], then repeated [[KEEP|"abre la caja"]] after one model. Mother demonstrated the waiting strategy and identified snack time as a practical routine. Practice five minutes daily, primero esperar, luego modelar. Next visit: [[DATE|9/27/26]] at [[TIME|9:15 a.m.]]. Billing: CPT [[KEEP|92507]]; ICD-10 [[KEEP|F80.2]].

@@ -1,0 +1,180 @@
+INFORME DE EVALUACIÓN DE HABLA Y LENGUAJE PEDIÁTRICO  
+Documento sintético; todos los datos, nombres y resultados son ficticios.
+
+DATOS DE IDENTIFICACIÓN
+
+Paciente: [[CHILD|Mateo Julián Varela Soto]]  
+Nombre familiar: [[CHILD|Teo]]  
+Fecha de nacimiento: [[DATE|03/01/2021]]; formato día/mes/año.  
+Edad cronológica: [[KEEP|4;2]]  
+Fecha de evaluación: [[DATE|3 de marzo de 2025]]  
+Horario: de [[TIME|9:10 a. m.]] a [[TIME|10:35 a. m.]]  
+Expediente: [[ID|NC-SLP-058274]]  
+Medicaid: [[MEDICAID_ID|731904682Q]]  
+Autorización: [[ID|AUT-482716-SL]]  
+Madre y CG principal: [[PARENT|Lucía Maribel Soto Reyes]]  
+Padre: [[PARENT|Andrés Varela Montes]]  
+Dirección familiar: [[PLACE|284 Sendero del Junco]], [[PLACE|Arroyo Encino]], Carolina del Norte, [[PLACE|27984]]  
+Teléfono de CG: [[PHONE|(919) 555-0146]]  
+Correo de CG: [[EMAIL|lucia.soto.familia@example.org]]  
+SLP bilingüe: [[PROVIDER|Elena Marín Cordero]], patóloga del habla y lenguaje pediátrica.  
+Empresa de la SLP: [[EMPLOYER|Lenguaje Brisa Pediátrica]]  
+Consultorio: [[PLACE|176 Avenida del Laurel, suite 204]], [[PLACE|Arroyo Encino]], Carolina del Norte, [[PLACE|27984]]  
+Correo clínico: [[EMAIL|elena.marin@lenguajebrisa.example.org]]  
+Sitio web: [[URL|https://lenguajebrisa.example.org/servicios-pediatricos]]  
+Servicio: [[KEEP|CPT 92523]]; modificador [[KEEP|GN]].
+
+MOTIVO DE REFERENCIA
+
+Pt referido por la Dra. [[PROVIDER|Inés Duarte Salcedo]] por frases cortas, dificultad para seguir instrucciones y baja claridad del habla. CG solicita evaluación bilingüe b/c pt usa español en casa e inglés en el aula. La pregunta clínica principal es si las dificultades ocurren en ambos idiomas y limitan la participación diaria.
+
+CG describe frustración cuando otra persona no entiende una petición. Pt señala, lleva al adulto hacia el objeto o repite una sílaba. En ocasiones abandona el intercambio. La familia desea que pt pida ayuda, explique necesidades y participe durante juego compartido.
+
+La evaluación integra pruebas, observación, muestra de lenguaje y entrevista. Los puntajes simulados se interpretan junto con el desempeño funcional. Ningún resultado aislado determina las impresiones. El idioma familiar se considera una fortaleza y una fuente necesaria de información.
+
+ANTECEDENTES Y FUENTES
+
+Entrevista realizada w/ la madre [[PARENT|Lucía Maribel Soto Reyes]]. El padre [[PARENT|Andrés Varela Montes]] aportó información mediante formulario. Se revisó una nota pediátrica fechada [[DATE|2025-02-18]] y un resumen educativo de [[DATE|02/21/2025]], en formato mes/día/año.
+
+La maestra [[TEACHER|Beatriz Olmeda Ruiz]] informó que pt comprende rutinas conocidas, pero necesita demostración para actividades nuevas. La asistente [[TEACHER|Celia Navas Prado]] indicó que pt usa gestos útiles durante transiciones. Ambas describen mejor participación en grupos pequeños.
+
+Pt asiste a [[SCHOOL|Preescolar Senderos del Encino]]. Antes recibió cuidado en [[DAYCARE|Guardería Semillitas del Junco]]. La coordinadora [[PROVIDER|Nora Beltrán Ibarra]], de [[AGENCY|CDSA del Valle del Junco]], facilitó el resumen de servicios previos. Número de caso: [[ID|CDSA-604829]].
+
+Se revisó el IFSP firmado [[DATE|06/04/2024]]. CG recuerda la reunión celebrada el [[DATE|martes 4 de junio de 2024]]. El resultado [[KEEP|2]] del IFSP abordaba peticiones funcionales; el resultado [[KEEP|3]] abordaba participación en rutinas. Estos registros describen antecedentes, no servicios activos actuales.
+
+HISTORIA DEL NACIMIENTO Y MÉDICA
+
+Embarazo informado sin complicaciones mayores. Nacimiento a [[KEEP|39 semanas y 1 día]] de gestación en [[HOSPITAL|Hospital Maternoinfantil del Laurel]]. Peso al nacer: [[KEEP|3.240 g]]. Puntajes Apgar: [[KEEP|8]] al primer minuto y [[KEEP|9]] al quinto minuto. Alta w/ la madre; sin estancia neonatal prolongada.
+
+CG refiere alimentación inicial adecuada. No informa dificultad persistente de succión, episodios frecuentes de atragantamiento ni pérdida de habilidades. Pt recibió seguimiento por otitis durante la primera infancia. No se informa cirugía de oído. La nota médica disponible registra tamiz auditivo satisfactorio en [[DATE|01-27-2025]], formato mes-día-año.
+
+Según CG, pt se sentó a los [[KEEP|7 meses]] y caminó a los [[KEEP|13 meses]]. Las primeras palabras aparecieron a los [[KEEP|14 meses]]. Las combinaciones espontáneas fueron poco frecuentes hasta los [[KEEP|30 meses]]. Estos hitos son retrospectivos y pueden tener variación de recuerdo.
+
+La fisioterapeuta [[PROVIDER|Paula Leiva Serrano]] completó una consulta de desarrollo en [[DATE|12/09/2024]], formato mes/día/año. El resumen no recomienda tratamiento motor continuo. CG niega medicamentos diarios y refiere sueño estable. Durante esta evaluación no se observaron signos de dolor, fatiga marcada ni dificultad respiratoria.
+
+Exploración orofacial breve: simetría facial y movilidad funcional para las tareas observadas. Pt toleró inspección limitada w/ [[KEEP|min cues]]. La exploración no sustituye una evaluación médica o instrumental. No hubo muestra suficiente para conclusiones sobre todas las funciones orales.
+
+HISTORIA FAMILIAR Y DE IDIOMAS
+
+Pt vive w/ ambos padres y su hermana [[SIBLING|Sol Varela Soto]], de [[KEEP|7 años]]. La abuela [[FAMILY|Rosa Elvira Soto Paredes]] participa en recogida y comidas. La niñera [[FAMILY|Mara Cifuentes Lago]] ofrece cuidado ocasional. El perro familiar se llama [[PET|Tilo]].
+
+La madre trabaja en [[ORG|Cooperativa Textil Río de Lino]]. El padre trabaja en [[ORG|Talleres Mecánicos Hoja Clara]]. Los horarios familiares permiten práctica breve durante desayuno, baño y juego. CG prefiere estrategias integradas en estas rutinas, con materiales disponibles en casa.
+
+Español predominante en el hogar; inglés predominante en la escuela. CG estima exposición semanal de [[KEEP|65 %]] al español y [[KEEP|35 %]] al inglés. Estas proporciones son aproximadas. No se utilizó un registro diario para verificarlas.
+
+La familia tiene vínculos con México y Estados Unidos. La abuela vive en [[PLACE|Villa Naranjal]], dentro del condado de [[PLACE|Pinar Claro]]. Pt escucha variedades de español familiar y escolar. No se considera incorrecta una forma lingüística por diferir de la variedad de la SLP.
+
+CG no informa antecedentes familiares de pérdida auditiva infantil. Refiere dificultades de lectura en el tío [[FAMILY|Esteban Soto Paredes]], sin documentación disponible. La familia desea mantener ambos idiomas. No solicita reemplazar el español por inglés ni limitar el contacto con familiares.
+
+OBSERVACIÓN Y PARTICIPACIÓN
+
+Pt entró w/ CG, observó materiales y eligió bloques. Separación breve tolerada después de anticipar la rutina. Atención variable durante tareas dirigidas; mejor respuesta al alternar mesa y juego. Pt aceptó turnos w/ [[KEEP|mod cues]] y un apoyo visual sencillo.
+
+La vecina [[PERSON|Adriana Montalvo Ríos]] acompañó a la familia hasta la recepción. No participó en la entrevista ni aportó datos clínicos. La información evaluativa provino de CG, los registros identificados y la observación directa.
+
+Pt mostró intención comunicativa para pedir, rechazar, comentar y compartir interés. Produjo [[KEEP|"más carro"]], [[KEEP|"no cabe"]] y [[KEEP|"yo aquí"]]. Durante juego familiar dijo "quiero a [[SIBLING|Sol]]". También comentó "[[PET|Tilo]] come". Estas emisiones con nombres se documentan como referencias a personas o al animal.
+
+Pt respondió mejor cuando la SLP habló despacio y presentó una idea por turno. La repetición extensa aumentó distracción. Con espera y [[KEEP|min cues]], pt intentó reparar algunas emisiones. Con [[KEEP|max cues]], repitió modelos, pero varias respuestas fueron imitadas y no se contaron como lenguaje espontáneo.
+
+No se observaron conductas que impidieran completar la muestra principal. Hubo pausas para agua y movimiento. CG permaneció disponible y evitó responder por pt. La colaboración permitió observar habilidades emergentes y necesidades de apoyo.
+
+PROCEDIMIENTOS Y CONSIDERACIONES
+
+Se administró [[KEEP|PLS-5 Spanish]], con los subtests [[KEEP|Auditory Comprehension]] y [[KEEP|Expressive Communication]]. Se obtuvo el compuesto [[KEEP|Total Language]]. Los puntajes siguientes corresponden al registro sintético de administración estandarizada. Los apoyos adicionales se aplicaron después y se analizaron por separado.
+
+También se obtuvo una muestra bilingüe de juego, analizada con convenciones de [[KEEP|SALT]]. Se registraron producciones, intentos de reparación y algunos códigos, incluidos [[KEEP|[EW]]] y [[KEEP|[SI]]]. Las emisiones ininteligibles no se usaron para inferir estructuras gramaticales específicas.
+
+La muestra fonológica incluyó palabras, imitación y habla conectada. No se asignó un puntaje estandarizado de articulación. La selección consideró sonidos compartidos y diferencias entre español e inglés. Se revisó respuesta a modelos w/ [[KEEP|min cues]], [[KEEP|mod cues]] y [[KEEP|max cues]].
+
+RESULTADOS: TABLA DE PUNTAJES
+
+Nivel de confianza de los intervalos: [[KEEP|90 %]]. Las edades equivalentes son descriptivas y tienen límites interpretativos.
+
+| Prueba o subtest | Fecha junto al puntaje | Puntaje bruto | Puntaje estándar | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Auditory Comprehension]] | [[DATE|03/03/2025]]; [[KEEP|79]] | [[KEEP|42]] | [[KEEP|79]] | [[KEEP|8]] | [[KEEP|73–87]] | [[KEEP|3;0]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Expressive Communication]] | [[DATE|3 de marzo de 2025]]; [[KEEP|75]] | [[KEEP|38]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|69-84]] | [[KEEP|2;9]] |
+| [[KEEP|PLS-5 Spanish]]: [[KEEP|Total Language]] | [[DATE|2025-03-03]]; [[KEEP|76]] | No aplica | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|71–83]] | [[KEEP|2;11]] |
+
+En exploración dinámica, el rango descriptivo de habilidades emergentes fue [[KEEP|2;6–3;0]]. Este rango no representa otra edad cronológica ni un diagnóstico independiente. No se calcularon puntajes escalados adicionales.
+
+LENGUAJE RECEPTIVO
+
+En [[KEEP|Auditory Comprehension]], pt identificó objetos familiares y acciones concretas. Siguió instrucciones simples en [[KEEP|8/10]] oportunidades sin gesto. Para instrucciones relacionadas de varios pasos, respondió en [[KEEP|3/5]] oportunidades w/ [[KEEP|mod cues]]. La carga lingüística influyó más que la familiaridad del material.
+
+Comprensión de conceptos espaciales variable. Pt distinguió posiciones durante juego con objetos, pero necesitó demostración al cambiar el formato. Respondió mejor a preguntas concretas sobre acciones visibles. Las preguntas sobre causas, secuencias y situaciones ausentes requirieron reformulación.
+
+Durante exploración en inglés, reconoció vocabulario habitual del aula. En español mostró mayor variedad de respuestas sobre rutinas familiares. Algunas respuestas correctas aparecieron en el otro idioma. Se aceptó esta información en el análisis conceptual posterior, sin modificar retrospectivamente el registro estandarizado.
+
+La dificultad persistió cuando CG presentó instrucciones en español con vocabulario conocido. Este hallazgo reduce la probabilidad de explicar todo el desempeño por exposición limitada al inglés. Aun así, atención, experiencia y formato de tarea contribuyeron a la variación observada.
+
+LENGUAJE EXPRESIVO
+
+En [[KEEP|Expressive Communication]], pt produjo nombres de objetos, verbos frecuentes y combinaciones breves. El inventario conceptual incluyó palabras de ambos idiomas. La alternancia lingüística fue funcional y no se clasificó como error por sí sola.
+
+La muestra incluyó [[KEEP|50]] emisiones espontáneas analizables. Longitud media aproximada: [[KEEP|2,4 palabras por emisión]]. Predominaron peticiones y comentarios sobre acciones presentes. Se observaron omisiones variables de artículos, preposiciones y marcas gramaticales en español. La claridad reducida limitó el análisis de algunas terminaciones.
+
+Pt amplió [[KEEP|"carro"]] a [[KEEP|"carro rojo"]] después de un modelo. Produjo [[KEEP|"niño cae"]] y [[KEEP|"mamá abre"]]. Cuando quiso nombrar a su padre, dijo "[[PARENT|Andrés]] abre". Esta última emisión se registró sin convertir el nombre en un objetivo léxico general.
+
+Con expansión y espera, pt agregó información en [[KEEP|6/10]] oportunidades w/ [[KEEP|mod cues]]. La respuesta fue menor ante preguntas consecutivas. Las elecciones visibles ayudaron a iniciar mensajes, pero no demostraron por sí mismas formulación independiente.
+
+Narración breve limitada. Pt señaló personajes y nombró acciones aisladas. Necesitó apoyo para ordenar acontecimientos y explicar un problema. No se exigió una narración extensa sin considerar experiencia previa, idioma y atención.
+
+HABLA Y FONOLOGÍA
+
+Se observaron omisiones de consonantes finales, reducción de grupos consonánticos y sustituciones variables. Los errores afectaron palabras conocidas en ambos idiomas. El análisis distingue patrones compartidos de estructuras propias de cada idioma; no aplica expectativas idénticas a todo el inventario.
+
+El fonema [[KEEP|/k/]] apareció correctamente en algunas sílabas, con sustitución por [[KEEP|[t]]] en otras. Para [[KEEP|/ɾ/]], hubo omisión o aproximación. Se observó [[KEEP|[w]]] como sustitución en ciertas palabras del inglés. Estas observaciones describen la muestra y requieren seguimiento.
+
+Para el objetivo léxico [[KEEP|"sol"]], referido al astro, pt produjo [[KEEP|"tol"]]. El mismo vocablo coincide con el nombre de su hermana [[SIBLING|Sol]]. Se mantuvo clara la diferencia entre el objetivo de vocabulario y la referencia familiar. Al llamarla, pt dijo "[[SIBLING|Sol]], ven".
+
+Inteligibilidad estimada para un oyente poco familiar: [[KEEP|55 %]] en habla conectada. CG estimó comprensión de [[KEEP|80 %]] en casa. La diferencia puede reflejar conocimiento de rutinas y contexto. No se obtuvo una medición instrumental de inteligibilidad.
+
+Pt produjo el objetivo [[KEEP|/k/]] en [[KEEP|7/10]] intentos w/ [[KEEP|mod cues]]. La precisión disminuyó al pasar de sílaba a palabra. No se observaron suficientes signos consistentes para concluir apraxia infantil del habla. Las variaciones de esta sesión no justifican esa etiqueta.
+
+COMUNICACIÓN SOCIAL Y FUNCIONAL
+
+Pt inició interacción, compartió materiales y buscó la reacción del adulto. El contacto visual acompañó varias peticiones, sin exigirse como condición para responder. La dificultad principal fue sostener mensajes claros cuando el interlocutor no conocía el contexto.
+
+En el aula juega cerca de [[PEER|Nicolás Arce Pardo]] y [[PEER|Emma Luján Vera]]. La maestra [[TEACHER|Beatriz Olmeda Ruiz]] refiere que acepta invitaciones, pero necesita ayuda para negociar materiales. En un grupo anterior participó con [[PEER|Damián Ríos Cueto]]. Estos datos son informes educativos, no observaciones directas de esta sesión.
+
+CG describe mayor frustración cuando un adulto solicita repetición varias veces. Se recomienda aceptar gestos, confirmar el significado y ofrecer un modelo breve. La meta funcional es mejorar acceso a la comunicación y participación, con menos esfuerzo para pt.
+
+IMPRESIONES CLÍNICAS
+
+El perfil simulado apoya dificultades receptivas y expresivas presentes en ambos idiomas, junto con un trastorno de los sonidos del habla. Impresiones de trabajo: [[KEEP|ICD-10 F80.2]] y [[KEEP|ICD-10 F80.0]]. Los códigos deben vincularse a revisión clínica continua y a documentación funcional.
+
+La exposición bilingüe no explica por sí sola las dificultades observadas. Pt mostró fortalezas en intención comunicativa, aprendizaje con apoyo y uso de gestos. La respuesta a modelos ofrece una base favorable para intervención, aunque no permite predecir una tasa individual de progreso.
+
+Los resultados de [[KEEP|PLS-5 Spanish]] y [[KEEP|Total Language]] concuerdan con necesidades funcionales informadas. Las limitaciones incluyen una sola sesión, historia parcialmente retrospectiva y ausencia de observación escolar directa. Se requiere seguimiento para verificar estabilidad, generalización y respuesta al tratamiento.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar terapia bilingüe semanal de [[KEEP|45 min]], con participación de CG y revisión de prioridades. Para tratamiento, utilizar [[KEEP|CPT 92507]] con modificador [[KEEP|GN]], sujeto al plan autorizado.
+
+2. Incorporar estrategias de [[KEEP|Hanen]] y del programa [[KEEP|It Takes Two to Talk]]: seguir el interés del pt, esperar, responder y expandir mensajes. Adaptar las rutinas al español familiar y al vocabulario escolar.
+
+3. Considerar [[KEEP|Cycles]] para patrones fonológicos que reduzcan claridad. Seleccionar objetivos funcionales según inventario y estimulabilidad. Usar principios de [[KEEP|Kaufman]] únicamente cuando ayuden a construir secuencias de habla evaluadas.
+
+4. Considerar [[KEEP|PROMPT]] solo después de determinar necesidad motora y competencia profesional para aplicarlo. Valorar [[KEEP|PECS]] si una evaluación de comunicación aumentativa identifica utilidad funcional. Ningún programa se prescribe automáticamente por su nombre.
+
+5. Practicar peticiones, comentarios y reparaciones durante rutinas breves. Aceptar habla, gestos y apoyos visuales. Evitar exigir repeticiones extensas cuando pt ya comunicó el significado.
+
+METAS INICIALES Y SEGUIMIENTO
+
+Meta [[KEEP|1]]: seguir instrucciones funcionales relacionadas en [[KEEP|8/10]] oportunidades w/ [[KEEP|min cues]], durante actividades conocidas y nuevas.
+
+Meta [[KEEP|2]]: ampliar mensajes espontáneos con información relevante en [[KEEP|4/5]] oportunidades w/ [[KEEP|mod cues]], en ambos idiomas según contexto.
+
+Meta [[KEEP|3]]: producir objetivos fonológicos seleccionados con [[KEEP|80 %]] de precisión en palabras funcionales w/ [[KEEP|mod cues]]. Medir también claridad y transferencia al habla diaria.
+
+Meta [[KEEP|4]]: reparar un mensaje mediante repetición, gesto o reformulación en [[KEEP|3 de 5]] oportunidades w/ [[KEEP|min cues]].
+
+Inicio propuesto: [[DATE|03-17-2025]]. Revisión del plan: [[DATE|28/04/2025]]. Reevaluación funcional propuesta para [[DATE|2 de junio de 2025]], a las [[TIME|10:00 a. m.]]. Confirmar estos encuentros con CG; las fechas propuestas no indican asistencia realizada.
+
+CG recibió explicación en español y demostró una expansión durante juego. Se acordó registrar ejemplos breves, sin convertir la práctica doméstica en otra sesión formal. La colaboración con la escuela requiere autorización familiar antes de compartir el informe.
+
+Firma: [[PROVIDER|Elena Marín Cordero]], SLP bilingüe pediátrica.  
+Empresa: [[EMPLOYER|Lenguaje Brisa Pediátrica]], Carolina del Norte.  
+Fecha de firma: [[DATE|04/03/2025]]; formato día/mes/año.  
+Hora: [[TIME|4:20 p. m.]]

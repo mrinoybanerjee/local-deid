@@ -1,0 +1,45 @@
+Daily bilingual speech-language therapy/session note
+
+Fecha: [[DATE|October 8, 2026]]  
+Session: [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]]  
+Client: [[CHILD|Ana Lucía Cordero Salvatierra]] | Age: [[KEEP|4;2]]  
+Clinician: [[PROVIDER|Marisol Vela Montes]], bilingual pediatric SLP  
+Employer: [[EMPLOYER|Lucero Speech Paths]]  
+Record: [[ID|SLP-604218]] | Medicaid: [[MEDICAID_ID|482731096Q]]  
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+[X] Preschool  [ ] Home  [ ] Telehealth  
+Site: [[SCHOOL|Nido de Cometas Azules]]  
+Address: [[PLACE|218 Lanternberry Lane]], [[PLACE|Brisaluna]], North Carolina [[PLACE|28764]]  
+Parent contact: [[PHONE|919-555-0148]]; [[EMAIL|yareli.cordero@example.com]]  
+Resource: [[URL|https://lucerospeech.example.com/familias]]
+
+S / Subjetivo
+
+Su mamá [[PARENT|Yareli Cordero]] reported, “Ya pide ayuda, pero cuando hay ruido se queda calladita.” Father [[PARENT|Esteban Salvatierra]] described easier transitions with picture choices. Brother [[SIBLING|Tomás Salvatierra]] practiced turn-taking at home. Cousins [[FAMILY|Inés Cordero]] and [[FAMILY|Damián Cordero]] visited yesterday; babysitter [[FAMILY|Nora Beltrán]] supported the same routine. Family dog [[PET|Chispa]] stayed nearby during practice.
+
+Teacher Ms. [[TEACHER|Alma Rentería]] reported increased participation beside classmates [[PEER|Lila Serrano]] and [[PEER|Bruno Téllez]]. Visitor [[PERSON|Saúl Neri]] briefly delivered classroom supplies. Parent consent covered observation; no new concerns reported.
+
+O / Objetivo
+
+[X] Play-based  [X] Parent coaching  [X] Spanish/English  
+[X] Visual supports  [ ] Feeding concerns
+
+Record review: birth at [[HOSPITAL|Cedar Lantern Children’s Hospital]] on [[DATE|August 8, 2022]], gestational age [[KEEP|38 weeks]], birth weight [[KEEP|6 lb 8 oz]], Apgar scores [[KEEP|8]] and [[KEEP|9]]. Referral came through [[AGENCY|Brisaluna CDSA]]. Parent workplace, [[ORG|Willowglass Textiles]], permits attendance adjustments.
+
+Prior [[KEEP|PLS-5]] testing dated [[DATE|September 17, 2026]] documented [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These historical results informed activities; no standardized testing occurred today.
+
+Used [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]]: wait, follow the child’s lead, and expand. [[KEEP|Ana Lucía]] requested [[KEEP|"más burbujas"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. During [[KEEP|PECS]] exchanges, independent selections reached [[KEEP|70%]]. She said “[[PET|Chispa]] corre” while viewing a family picture.
+
+Speech practice incorporated [[KEEP|Cycles]], [[KEEP|Kaufman]], and [[KEEP|PROMPT]] principles. Targets [[KEEP|"casa"]], [[KEEP|"cow"]], and [[KEEP|"quiero"]] supported initial [[KEEP|/k/]]; accuracy was [[KEEP|3 of 5]] with [[KEEP|mod cues]]. Substitution [[KEEP|[w]]] appeared during spontaneous speech. Spanish [[KEEP|/ɾ/]] was observed without direct correction. Language sample included [[KEEP|"yo quiere agua"]], coded [[KEEP|[EW]]].
+
+A / Análisis
+
+Functional requesting improved when adults paused and kept materials visible. Code-switching supported engagement. Performance decreased during competing classroom conversation. Today’s sample suggests continued benefit from predictable routines and brief practice. Differences between languages were considered during interpretation. She accepted either language for directions and needed extra processing time before answering unfamiliar questions.
+
+P / Plan
+
+Continue IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]. Coach caregivers to model [[KEEP|"ayuda"]] and [[KEEP|"help"]] during snack and cleanup. Teacher will provide picture choices before transitions. Parent demonstrated waiting and expansion accurately. Next session: [[DATE|October 15, 2026]] at [[TIME|9:10 a.m.]].
+
+[X] Family understood plan  [X] Handout provided  
+Signed: [[PROVIDER|Marisol Vela Montes]], SLP

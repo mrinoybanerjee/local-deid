@@ -1,0 +1,23 @@
+Daily bilingual pediatric SLP note — North Carolina
+DOS: [[DATE|October 8, 2026]]; DOB: [[DATE|03/14/2022]]; age [[KEEP|4;6]].
+Client: [[CHILD|Nico Marín]]; record [[ID|SL-260108-42]]; Medicaid [[MEDICAID_ID|482739165K]].
+Clinician: [[PROVIDER|Elena Solís]], CCC-SLP; employer [[EMPLOYER|Luna Lantern Speech Services]].
+Site: [[SCHOOL|Willow Lantern Preschool]], [[PLACE|418 Juniper Kite Lane]], [[PLACE|Lunabridge]], NC [[PLACE|27500]], [[PLACE|Merrivale County]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S: Subjetivo.
+Mamá [[PARENT|Alma Marín]] reports, “Está hablando más, pero cuando tiene prisa, no le entiendo.” Papá [[PARENT|Diego Marín]] works at [[ORG|Silver Acorn Packaging]]; requested scheduling email. Sister [[SIBLING|Lola Marín]] models turn-taking; abuela [[FAMILY|Teresa Vela]] practices during snack. Child said “[[PET|Pipo]] corre” about family dog. Teacher Ms. [[TEACHER|Celia Prado]] reports improved participation beside peer [[PEER|Eva Ríos]]. Bus driver [[PERSON|Omar Valle]] reported calm arrival. No pain reported; slept well. Breakfast at [[TIME|7:15 AM]]. Birth history per caregiver: gestation [[KEEP|39 weeks]], birth weight [[KEEP|3.1 kg]], Apgar scores [[KEEP|8/9]].
+
+O: Objetivo.
+Session [[TIME|9:00 AM]]–[[TIME|9:35 AM]]; individual play-based intervention. Used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice. Followed novel directions [[KEEP|8/10]] with [[KEEP|min cues]]; requested using two-word combinations [[KEEP|3 of 5]] with [[KEEP|mod cues]]. Produced initial [[KEEP|/k/]] at [[KEEP|60%]]; occasional [[KEEP|[t]]] substitution. Spanish tap [[KEEP|/ɾ/]] monitored during spontaneous speech. Targets: “[[KEEP|casa]],” “[[KEEP|quiero agua]],” “[[KEEP|my turn]].” Spontaneous production: “[[KEEP|más agua]]”; omitted article, coded [[KEEP|[EW]]] in sample. Needed [[KEEP|max cues]] for repair after listener misunderstanding. Transitioned independently after visual timer; maintained engagement during shared book. Previous [[KEEP|PLS-5]] evaluation, [[DATE|September 18, 2026]]: [[KEEP|Auditory Comprehension]] SS [[KEEP|78]], [[KEEP|7th percentile]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]].
+
+A: Análisis.
+Progress toward IFSP outcome [[KEEP|2]] and goal [[KEEP|2.1]]; functional requesting increased with wait time. Bilingual errors interpreted across languages; English-only responses did not determine performance. Continued receptive/expressive support indicated. Generalization remains variable cuando cambia la rutina. Pediatrician Dr. [[PROVIDER|Inés Duarte]] at [[HOSPITAL|Cedar Lantern Children’s Hospital]] follows hearing referral. Coordinator [[PROVIDER|Rosa Beltrán]] with [[AGENCY|Merrivale CDSA]] notified previously.
+
+P: Plan.
+Continue current frequency; family to practice requests during merienda. Reviewed wait time and expansion through demonstration; caregiver completed teach-back. Recheck repair strategies next visit. Contact: [[EMAIL|elena.solis@lunalantern.example]], [[PHONE|919-555-0148]]; resources [[URL|https://lunalantern.example/familias]].
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Tuesday | [[TIME|9:00 AM]] | [[TIME|9:35 AM]] | [[SCHOOL|Willow Lantern Preschool]] |
+| Thursday | [[TIME|1:10 PM]] | [[TIME|1:45 PM]] | [[DAYCARE|Little Comet Daycare]] |

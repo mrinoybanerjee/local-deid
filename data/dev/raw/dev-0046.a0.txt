@@ -1,0 +1,21 @@
+Nota de Sesión Diaria / Daily Session Note
+
+Client: [[CHILD|M.R.]] DOB: [[DATE|04/12/2021]] Age: 5;6
+Medicaid ID: [[MEDICAID_ID|NC9284710B]] Case ID: [[ID|LC-5521]]
+Date of service: [[DATE|October 9, 2026]] Time in: [[TIME|2:15 PM]] Time out: [[TIME|3:00 PM]]
+Setting: [X] Home [ ] Daycare [ ] Clinic
+CPT: [[KEEP|92507]] (individual tx) [[KEEP|92523]] (eval speech/lang, re-admin portion)
+Dx: [[KEEP|F80.2]] (Mixed receptive-expressive language disorder)
+
+S (Subjetivo): Su mamá, [[PARENT|Lucía Rodríguez]], reports "[[CHILD|M.R.]] ha estado diciendo más palabras en casa, pero still gets frustrated cuando no lo entendemos." She noted that at [[DAYCARE|Little Sprouts Learning Center]] on [[PLACE|Hillsborough Street]], his teacher Ms. [[TEACHER|Owusu]] said he pointed instead of asking for help during snack time. Dad, [[PARENT|Carlos Reyes]], was present for the last 10 minutes and added, "we just want him to talk like his primo [[PEER|Tomás]]." Older sister [[SIBLING|Valentina]] (age 8) sat in briefly and helped model turn-taking during the bubble game. Family dog [[PET|Canela]] was present and provided great motivation for requesting "más" and "otra vez."
+
+O (Objetivo): Worked on /k/ and /g/ in word-initial position using minimal pairs. [[CHILD|M.R.]] produced target "casa" correctly 8/10 trials (80%) with [[KEEP|mod cues]], fronting persisted on "gato" → [w]gato] substitution pattern noted. SALT-coded sample collected; segment [[KEEP|[EW]]] marked for later analysis. Reviewed home practice list sent by [[PROVIDER|Dra. Patricia Núñez]] (developmental pediatrician) per last IFSP review on [[DATE|09/02/2026]].
+
+A (Análisis): Steady progress on phonological processes; expressive vocabulary growing per parent report. Recommend continued coordination with interpreter [[PROVIDER|Sra. Beatriz Campos]] for next team meeting, and follow-up with service coordinator [[PROVIDER|Renee Falk]] at [[AGENCY|Wake County CDSA]] regarding transition planning.
+
+P (Plan): Continue 2x/week sessions targeting velar fronting and expanding MLU. Next IFSP review scheduled [[DATE|December 4, 2026]]. Will email updated home practice sheet to family — contact on file: [[EMAIL|lucia.rodriguez82@fakemail.com]]. Clinician reachable at [[PHONE|(919) 555-0148]] or via [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]] portal: [[URL|www.carolinapedispeech-example.com]].
+
+Notes: Mom mentioned family may relocate near [[PLACE|Garner, NC 27529]] next year; would need case transfer. Also asked whether cousin's therapist at [[ORG|Duke Health]] could share records — explained process requires separate release. Reminder left re: upcoming audiology recheck referred by [[PROVIDER|Dr. Michael Tran]].
+
+Clinician signature: [[PROVIDER|J. Ortiz]], M.S., CCC-SLP
+Bilingual service note — session conducted primarily en español with English clinical documentation per agency policy.

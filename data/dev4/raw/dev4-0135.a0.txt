@@ -1,0 +1,27 @@
+Client: [[CHILD|María José Fernández Ortiz]]
+Preferred Name: [[CHILD|MJ]]
+DOB: [[DATE|04/12/2021]] ([[KEEP|4;6]])
+Date of Service: [[DATE|October 9, 2026]]
+Time: [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+CPT: [[KEEP|92507]]
+ICD-10: [[KEEP|F80.1]]
+Provider/SLP: [[PROVIDER|Rebecca Chen]], M.S., CCC-SLP
+Agency: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Centro de Piamonte]] ([[AGENCY|CDSA de Piamonte]])
+Service Coordinator: [[PROVIDER|Ana Pérez]], [[AGENCY|Departamento de Servicios Sociales del Condado de Durham]] ([[AGENCY|DSS de Durham]])
+IFSP Outcome: [[KEEP|Outcome 2]]
+Location: [[PLACE|4521 Garrett Road, Durham, NC 27707]]
+
+Subjetivo/Subjective:
+Mamá [[PARENT|Lucía Fernández]] reportó que [[CHILD|MJ]] tuvo una semana difícil en casa. Dijo, "[[CHILD|María José]] no quiso hablar en la mesa anoche, solo señalaba." She shared that her hermana, [[SIBLING|Sol]], has been modeling words for [[CHILD|MJ]] during play, which mamá said helps "un poquito." [[PARENT|Lucía]] also mentioned that Ms. [[TEACHER|Alvarez]] at [[DAYCARE|Little Sprouts Bilingual Daycare]] reported similar reluctance to vocalize during círculo, and that classmate [[PEER|Noah]] has started imitating [[CHILD|MJ]]'s gestures instead of words. Mamá asked whether tío [[FAMILY|Rafael]], who watches [[CHILD|MJ]] on Fridays, should also use sign cues.
+
+Objetivo/Objective:
+Session targeted expressive vocabulary and turn-taking within a [[KEEP|Hanen]] "It Takes Two to Talk" framework, incorporating [[KEEP|PROMPT]] tactile cues for /[[KEEP|b]]/ and /[[KEEP|m]]/ initial sounds. [[CHILD|MJ]] produced "[[KEEP|mamá]]" and "[[KEEP|más]]" with [[KEEP|mod cues]] in [[KEEP|6/10]] trials, up from [[KEEP|3/10]] last session. Introduced a [[KEEP|PECS]] exchange for "quiero jugo" using [[KEEP|min cues]]; [[CHILD|MJ]] completed [[KEEP|4 of 5]] exchanges independently. Also trialed [[KEEP|Cycles]] phonological targeting of final consonant deletion; target word "[[KEEP|pan]]" was produced as "[[KEEP|pa]]" on [[KEEP|2/5]] attempts, with one self-correction.
+
+Evaluación/Assessment:
+[[CHILD|MJ]] continues to show slow but steady progress toward [[KEEP|IFSP]] [[KEEP|Outcome 2]], functional communication across settings. Current performance on the [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest ([[KEEP|standard score 73]], [[KEEP|4th percentile]]) still suggests a continued need for structured input. Discussed with [[PROVIDER|Ana Pérez]] the possibility of adding a [[KEEP|Kaufman]] speech praxis protocol given the persisting motor planning difficulty observed this quarter.
+
+Plan:
+Continue biweekly sessions at [[PLACE|4521 Garrett Road]]. Recommend that hermana [[SIBLING|Sol]] and mamá [[PARENT|Lucía]] attend the upcoming [[KEEP|Hanen]] caregiver training offered through [[AGENCY|CDSA de Piamonte]]. Will coordinate with Ms. [[TEACHER|Alvarez]] and with [[AGENCY|DSS de Durham]] service coordinator [[PROVIDER|Ana Pérez]] regarding a home visit scheduled [[DATE|October 20, 2026]] at [[TIME|10:00 AM]]. Next IFSP review: [[DATE|January 15, 2027]]. Please contact the clinic at [[PHONE|(919) 555-2847]] or [[EMAIL|rchen@carolinapeds-slp.com]] with any questions.
+
+Firmado/Signed: [[PROVIDER|Rebecca Chen]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech & Language Services]]

@@ -1,0 +1,28 @@
+Nota de Sesion - Terapia de Habla y Lenguaje
+
+Cliente: [[CHILD|Mateo Hernandez Luna]] (nickname used by familia: [[CHILD|Teo]])
+Fecha de sesion: [[DATE|October 9, 2026]]
+Edad: [[KEEP|4;2]]
+Ubicacion: Sala 2, [[EMPLOYER|Carolina Pines Speech and Language Services]], [[PLACE|118 Winding Creek Rd, Apex, NC 27502]]
+
+S: Mama [[PARENT|Rosa Hernandez]] reports Teo had a rough night. "No durmio bien, estaba muy inquieto," she said. She works at [[ORG|la fabrica de muebles Pinehurst]] (Pinehurst furniture plant) on the overnight shift, and papa [[PARENT|Jorge Luna]] works at [[ORG|Restaurante El Mariachi]] as a cook. Abuela [[FAMILY|Carmen Luna]], who babysits Teo and his hermana [[SIBLING|Valentina]] most afternoons, said he's been saying more words at home: "el dijo 'pego' por perro."
+
+O: Interpreter [[PROVIDER|Yesenia Campos]] (Spanish/English) assisted throughout. Teo produced /p/ for /k/ in [[KEEP|"gato"]] -> [[KEEP|"pato"]], consistent with prior data. On [[KEEP|GFTA-3]] probes, correct production of target [[KEEP|/k/]] occurred [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Spontaneous utterance: he pointed at his dog and said "[[PET|Luna]] corre" (meaning his dog ran). Auditory comprehension tasks per [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest: raw score corresponds to [[KEEP|standard score 82]], [[KEEP|16th percentile]], age equivalent [[KEEP|2;6-3;0]]. Used [[KEEP|PROMPT]] cueing for jaw stability during /k/ and /g/ targets.
+
+Teacher [[TEACHER|Ms. Ortiz]] from [[DAYCARE|Little Sprouts Daycare]] sent a note: Teo played well with classmate [[PEER|Diego]] during circle time but got frustrated when [[PEER|Sofia]] took his toy.
+
+A: Mateo continues to show phonological process (velar fronting) impacting intelligibility, consistent with [[KEEP|ICD-10 F80.0]]. Session billed under [[KEEP|CPT 92507]]. Family reports good carryover of [[KEEP|"no" vs "go"]] minimal pairs at home.
+
+P: Continue weekly tx targeting IFSP [[KEEP|Outcome 2]]. Service coordinator [[PROVIDER|Ana Beltran]] from [[AGENCY|Wake County CDSA]] will coordinate next IFSP review, [[DATE|January 15, 2027]]. Pediatrician [[PROVIDER|Dr. Michael Sutton]] referred for ENT eval re: recurrent ear infections. OT [[PROVIDER|Hannah Price]] and PT [[PROVIDER|Carlos Mendez]] continue co-treating 1x/month.
+
+Session schedule (current):
+
+| Dia | Inicio | Fin | Lugar |
+|-----|--------|-----|-------|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | [[EMPLOYER|Carolina Pines Speech and Language Services]] |
+| Wednesday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[DAYCARE|Little Sprouts Daycare]] |
+| Friday | [[TIME|10:15 AM]] | [[TIME|11:00 AM]] | home visit, [[PLACE|4420 Juniper Ct, Apex, NC 27502]] |
+
+Mama solicito contactarla por correo en lugar de llamadas: [[EMAIL|rosahl1984@mailnest.com]]. Also available via family portal: [[URL|www.carolinapinesspeech.com/family-portal]]. Medicaid ID on file: [[MEDICAID_ID|987654321A]]. Case ID: [[ID|WCC-2026-0417]]. Contacto de emergencia: [[PHONE|(919) 555-0148]].
+
+Next session: [[DATE|October 16, 2026]], same time, same place. Sera revisado por [[PROVIDER|Laura Fitzgerald, M.S., CCC-SLP]].

@@ -1,0 +1,76 @@
+[[EMPLOYER|Piedmont Pediatric Speech & Language Center]]
+Speech-Language Evaluation Report
+
+Client: [[CHILD|Mateo de la Cruz]] ("[[CHILD|Teo]]")
+DOB: [[DATE|November 14, 2022]] CA: [[KEEP|3;10]]
+Eval date: [[DATE|September 9, 2026]]
+Medicaid #: [[MEDICAID_ID|NC8847216K]]
+Record #: [[ID|LD-33920]]
+Referral source: [[PROVIDER|Dr. Htun]], pediatrician
+Clinician: [[PROVIDER|Jennifer Alvarez]], M.S., CCC-SLP
+Interpreter: [[PROVIDER|Sofia Reyes]] (Spanish, consecutive)
+Setting: clinic, w/ mom present
+
+BACKGROUND / REFERRAL
+
+[[CHILD|Teo]] was referred by [[PROVIDER|Dr. Htun]] 2° parent concern re: limited intelligible speech and few 2-wd combos. Pt lives w/ mother [[PARENT|Lucía de la Cruz]], father [[PARENT|Carlos Flores-Martínez]], and older sister [[SIBLING|Camila de la Cruz]] (age 7) at [[PLACE|412 Willowbrook Ln]], [[PLACE|Greensboro]], NC [[PLACE|27406]]. Pt attends [[DAYCARE|Little Sprouts Daycare]] M-F, 8am-5pm, in Ms. [[TEACHER|Patterson]]'s rm. CG report pt prefers to play w/ classmate [[PEER|Ethan]] but gets frustrated when not understood; teacher notes similar.
+
+Mom [[PARENT|Lucía de la Cruz]] works 2 jobs: housekeeping at the [[ORG|Hampton Inn]] on [[PLACE|Battleground Ave]] days, and overnight shifts at [[ORG|UPS]] several nights/wk. Dad [[PARENT|Carlos Flores-Martínez]] works full time in landscaping. Family reports limited time for home practice given both parents' schedules; aunt [[FAMILY|Marta Gómez]] often watches pt and [[SIBLING|Camila de la Cruz]] in the evenings. Case referred by [[PROVIDER|Denise Walker]], EI service coordinator w/ [[AGENCY|Triangle CDSA]], who completed intake [[DATE|July 22, 2026]] and recommended this eval for IFSP outcome 2.
+
+BIRTH & MEDICAL HISTORY
+
+Per mom's report, pregnancy unremarkable, no substance use. Delivery at [[HOSPITAL|Piedmont Regional Hospital]] via vaginal delivery at [[KEEP|39 weeks]] gestation. Birth wt [[KEEP|7 lbs 2 oz]], Apgar scores [[KEEP|8]]/[[KEEP|9]]. No NICU stay. Hx of recurrent OM, 4 episodes b/w [[KEEP|12-24 months]], tx'd w/ amoxicillin each time; ENT placed bilateral PE tubes [[DATE|February 5, 2026]] at [[HOSPITAL|Piedmont Regional Hospital]], per op note from Dr. Castellanos. Hearing screen post-tube placement WNL per audiology report, [[DATE|February 19, 2026]]. No hx of seizure, head injury, or hospitalization beyond above. No current meds. Vision screening WNL. No fam hx of speech/lang delay reported by mom; dad reports he himself was a "late talker" per his own mother.
+
+FAMILY & LANGUAGE HISTORY
+
+Home lang is Spanish-dominant; mom and dad both report speaking approx 80% Spanish / 20% English w/ pt at home. [[SIBLING|Camila de la Cruz]] is more English-dominant since starting school and often code-switches w/ pt, modeling both langs. Pt's maternal grandmother [[FAMILY|Rosa Hernández]] lives in [[PLACE|Caserío El Carmen, Chalatenango]], El Salvador, and video calls 2-3x/wk; pt reportedly "shuts down" during these calls per mom, possibly d/t limited expressive output in either lang. Family dog, [[PET|Max]], is a frequent play partner per mom; pt calls him "[[PET|Mah]]" (prod. for [[PET|Max]]).
+
+Family contact numbers on file: home [[PHONE|(336) 555-0148]], mom's cell [[PHONE|336.555.0199]], dad's cell [[PHONE|(336) 555-0172]], and grandmother's number in El Salvador [[PHONE|+503 7123-4567]]. Family requests all appt reminders go to mom's cell only, 2° dad's shift schedule.
+
+DEVELOPMENTAL HISTORY
+
+Gross/fine motor milestones per mom report WNL; walked indep at [[KEEP|13 months]]. First words approx [[KEEP|18 months]] ("mamá," "agua"), but vocab growth slow since; pt currently uses approx 25-30 words/word approximations across both langs per parent report on checklist completed [[DATE|August 28, 2026]]. Few 2-wd combos noted ("más agua," "no no"). No regression reported. Pt uses gestures (pointing, pulling CG) to communicate wants; frequent tantrums when not understood, per both mom and Ms. [[TEACHER|Patterson]].
+
+BEHAVIORAL OBSERVATIONS
+
+Pt presented as a friendly, curious [[KEEP|3;10]] y.o. male, easily separated from mom for structured tasks w/ [[PROVIDER|Sofia Reyes]] interpreting prompts into Spanish as needed. Attention to task fair, required mod cues/redirection approx q3-5 min. Play skills age-appropriate; engaged in symbolic play w/ toy animals, used a few labels ("perro," "gato") spontaneously. Articulation judged significantly reduced in intelligibility (~30% intelligible to unfamiliar listener per CG report, confirmed in session). Oral mech exam WNL, no structural concerns noted; adequate labial/lingual ROM for speech.
+
+TEST RESULTS
+
+Standardized and informal measures administered in both Spanish and English w/ interpreter support; Spanish forms used as primary given home lang dominance.
+
+| Measure | Date admin | Score | 95% CI | %ile |
+|---|---|---|---|---|
+| [[KEEP|Preschool Language Scales-5 Spanish]] Auditory Comprehension | [[DATE|September 9, 2026]] | SS [[KEEP|68]] | [[KEEP|62-74]] | [[KEEP|2nd]] |
+| [[KEEP|PLS-5 Spanish]] Expressive Communication | [[DATE|September 9, 2026]] | SS [[KEEP|62]] | [[KEEP|57-67]] | [[KEEP|1st]] |
+| [[KEEP|PLS-5 Spanish]] Total Lang Score | [[DATE|September 9, 2026]] | SS [[KEEP|64]] | [[KEEP|59-69]] | [[KEEP|1st]] |
+| [[KEEP|Rossetti Infant-Toddler Lang Scale]] (supplemental, EN) | [[DATE|September 9, 2026]] | AE [[KEEP|18-20 months]] | -- | -- |
+| [[KEEP|Goldman-Fristoe Test of Articulation-3]] (EN screen) | [[DATE|September 10, 2026]] | SS [[KEEP|71]] | [[KEEP|65-77]] | [[KEEP|3rd]] |
+| [[KEEP|Contextual Probes of Articulation-Phonology-Spanish]] | [[DATE|September 10, 2026]] | raw [[KEEP|14/40]] correct | -- | -- |
+
+On the Spanish phonology probe, pt demonstrated phoneme collapses including [[KEEP|/ɾ/]] → [[KEEP|[l]]] (e.g., pt said "[[KEEP|"paɾo"]]" for target "[[KEEP|"perro"]]"), stopping of fricatives, and frequent final consonant deletion. English probe showed similar patterns: [[KEEP|/k/]] and [[KEEP|/g/]] fronted to [[KEEP|[t]]]/[[KEEP|[d]]] consistently, cluster reduction in all word positions. Pt imitated target word "[[KEEP|"cup"]]" as "[[KEEP|"tuh"]]" w/ mod cues. Pt's MLU in spontaneous Spanish sample (50 utterances, collected w/ mom in room) was [[KEEP|1.2 morphemes]], below expected range for CA.
+
+Oromotor/feeding screen unremarkable; no dysphagia concerns. Pragmatic skills age-appropriate for nonverbal communication (joint attention, turn-taking in play) but limited by expressive output.
+
+IMPRESSIONS
+
+[[CHILD|Mateo de la Cruz]] presents w/ a Severe Mixed Receptive-Expressive Language Disorder affecting both Spanish and English, consistent w/ a primary language impairment rather than typical bilingual variation given deficits noted across both langs by informant report and direct testing. Pt also presents w/ a moderate-severe Speech Sound Disorder affecting both langs, w/ phonological process patterns (stopping, fronting, final consonant deletion, liquid simplification) beyond what would be expected for a typically developing bilingual child at this age. Hx of recurrent OM w/ PE tube placement may have contributed to early receptive lang delays, though current hearing is WNL per audiology. ICD-10: [[KEEP|F80.2]] (mixed receptive-expressive lang disorder), [[KEEP|F80.0]] (phonological disorder). CPT codes for eval: [[KEEP|92523]], [[KEEP|92522]].
+
+Family engagement is strong despite significant time constraints from parents' combined 3 jobs; recommend flexible scheduling and home program materials in Spanish to maximize carryover given limited CG availability for formal practice.
+
+RECOMMENDATIONS
+
+1. Individual speech-lang tx 2x/wk, 30 min sessions, targeting both Spanish and English phonology and expressive syntax; bilingual clinician or interpreter support required at all sessions.
+2. Augmentative strategies (modeling expansions, parallel talk) to be coached w/ mom and aunt [[FAMILY|Marta Gómez]] given their primary caregiving roles; consider evening or wknd appt slots given dad's shift at [[ORG|UPS]] and mom's hours at [[ORG|Hampton Inn]].
+3. Referral to [[AGENCY|Triangle CDSA]] for IFSP update; recommend adding a speech-lang outcome (outcome 3) addressing functional communication across settings.
+4. Continue audiology monitoring q6 months given OM hx; next screen recommended [[DATE|March 2027]].
+5. Provide family w/ bilingual home program handouts; coordinate w/ [[DAYCARE|Little Sprouts Daycare]] and Ms. [[TEACHER|Patterson]] re: classroom strategies (visual supports, simplified directions, mod cues for requesting).
+6. Re-eval in [[KEEP|6 months]] to monitor progress across both langs; consider [[KEEP|Hanen]] "It Takes Two to Talk" parent coaching model given CG time constraints, delivered in condensed format.
+7. Follow-up call to confirm scheduling to be made to mom's cell [[PHONE|336.555.0199]]; written summary to be mailed to [[PLACE|412 Willowbrook Ln]], [[PLACE|Greensboro]], NC [[PLACE|27406]]. Clinic contact: [[EMAIL|jalvarez@piedmontpeds-slp.com]], front desk [[PHONE|336-555-0160]].
+
+Results and recommendations reviewed w/ mom and interpreter [[PROVIDER|Sofia Reyes]] at conclusion of session; mom verbalized understanding and agreement w/ plan, voiced relief that services would be offered bilingually. Written summary to be sent to [[PROVIDER|Dr. Htun]]'s office and to [[PROVIDER|Denise Walker]] at [[AGENCY|Triangle CDSA]] w/ signed consent on file.
+
+Report completed by:
+[[PROVIDER|Jennifer Alvarez]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Speech & Language Center]]
+[[DATE|September 14, 2026]]

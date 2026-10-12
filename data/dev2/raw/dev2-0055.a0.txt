@@ -1,0 +1,45 @@
+DAILY SESSION NOTE
+
+PATIENT INFORMATION
+- Child: [[CHILD|Esperanza del Río]] ("[[CHILD|Espi]]")
+- Age: [[KEEP|3;9]]
+- DOB: [[DATE|January 14, 2023]]
+- Medicaid ID: [[MEDICAID_ID|987654321B]]
+- Service date: [[DATE|October 9, 2026]]
+- Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+
+BACKGROUND
+- Referred following NICU stay at [[HOSPITAL|Novant Health Forsyth Medical Center, Brenner Children's NICU campus]]
+- Gestational age at birth: [[KEEP|32 weeks]]; birth weight [[KEEP|1,480 grams]]; Apgar scores [[KEEP|6 and 8]]
+- ENT follow-up ongoing at [[HOSPITAL|Atrium Health Wake Forest Baptist ENT & Audiology, Winston-Salem campus]]
+- CDSA: [[AGENCY|Centro de Desarrollo Infantil del Piedmont / CDSA Piedmont]]
+- Service coordinator: [[PROVIDER|Marisol Fernández-Ortiz]], [[AGENCY|Agencia de Coordinación de Servicios del Condado de Forsyth / Forsyth SC Agency]]
+- Mother: [[PARENT|Lucía del Río]]; Father: [[PARENT|Tomás Beltrán-Vega]]
+- Sibling: [[SIBLING|Mateo del Río]], age [[KEEP|6 years]]
+- Caregiver/nanny: [[FAMILY|Rosa Campos]]
+- Family pet: [[PET|Canela]] (dog)
+
+SUBJECTIVE
+- Mother [[PARENT|Lucía del Río]] reports [[CHILD|Espi]] said "[[KEEP|agua]]" spontaneously at home
+- Nanny [[FAMILY|Rosa Campos]] noted increased vocal play during bath time
+
+OBJECTIVE
+- Administered [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] subtest: standard score [[KEEP|78]], [[KEEP|9th percentile]]
+- [[KEEP|Expressive Communication]] subtest: standard score [[KEEP|74]], age equivalent [[KEEP|22 months]]
+- Target word "[[KEEP|pato]]" produced as "[[KEEP|[pato]]]" with [[KEEP|mod cues]]
+- Phoneme [[KEEP|/k/]] elicited in isolation, [[KEEP|3 of 5]] trials correct
+- Used [[KEEP|PROMPT]] techniques; SALT code [[KEEP|[EW]]] noted twice
+
+ASSESSMENT
+- Consistent with expressive language delay; ICD-10 [[KEEP|F80.1]]; CPT [[KEEP|92507]]
+- IFSP Outcome [[KEEP|#2]] addressed; [[KEEP|8/10]] trials with min-mod cues
+
+PLAN
+- Continue twice-weekly sessions
+- Coordinate with teacher [[TEACHER|Ms. Whitfield]] at [[DAYCARE|Little Sprouts Early Learning Academy]]
+- Father [[PARENT|Tomás Beltrán-Vega]] employed at [[ORG|Herbalife International Logistics]]
+- Next IFSP review: [[DATE|January 20, 2027]]
+
+Signed: [[PROVIDER|Catalina Jiménez-Suárez, M.S., CCC-SLP]]
+[[EMPLOYER|Piedmont Pediatric Speech Partners, PLLC]]
+Phone: [[PHONE|(336) 555-0147]] | Email: [[EMAIL|cjimenez@piedmontpeds.com]]

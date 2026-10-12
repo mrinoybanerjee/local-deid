@@ -1,0 +1,138 @@
+[[EMPLOYER|Piedmont Pediatric Speech & Language Services]]
+[[PLACE|2140 Vaughn Road, Suite 4]], [[PLACE|Burlington]], [[PLACE|Alamance County]], NC [[PLACE|27215]]
+Phone: [[PHONE|(336) 555-0148]]  Fax: [[PHONE|(336) 555-0149]]
+Email: [[EMAIL|intake@piedmontpedspeech.com]]
+
+SPEECH-LANGUAGE EVALUATION REPORT
+
+IDENTIFYING INFORMATION
+- Name: [[CHILD|Mateo Fernández Cruz]]
+- Date of Birth: [[DATE|April 9, 2021]]
+- Chronological Age at Evaluation: [[KEEP|4;6]]
+- Evaluation Dates: [[DATE|October 2, 2025]] and [[DATE|October 6, 2025]]
+- Report Date: [[DATE|October 10, 2025]]
+- Medicaid ID: [[MEDICAID_ID|987654321A]]
+- Case/Record ID: [[ID|PPSL-04471]]
+- Referral Source: [[AGENCY|Children's Developmental Services Agency (CDSA) of the Piedmont Triad]]
+- Examiner: [[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+- Interpreter: [[PROVIDER|Rosa Martínez]], bilingual medical interpreter
+- Setting: Home-based, [[PLACE|118 Willow Bend Lane]], [[PLACE|Burlington]], NC [[PLACE|27217]]
+- Session Times: [[TIME|10:00 a.m.]] to [[TIME|11:15 a.m.]] ([[DATE|October 2, 2025]]); [[TIME|9:30 a.m.]] to [[TIME|10:30 a.m.]] ([[DATE|October 6, 2025]])
+
+REASON FOR REFERRAL
+- [[CHILD|Mateo]] was referred by his pediatrician, [[PROVIDER|Dr. Anand Patel]] of [[HOSPITAL|Alamance Regional Medical Center]], after a routine four-year well-child visit raised concerns about limited intelligibility and difficulty following multi-step directions.
+- His mother, [[PARENT|Lucía Fernández]], reports that "en casa lo entendemos casi todo, pero la gente afuera no le entiende nada" — at home the family understands almost everything he says, but people outside the home understand very little.
+- The family was also referred by their service coordinator at [[AGENCY|CDSA of the Piedmont Triad]] following an Early Intervention screening that flagged speech sound and receptive language delays.
+
+BACKGROUND INFORMATION / ANTECEDENTES
+Birth and Medical History
+- [[CHILD|Mateo]] was born at [[KEEP|38 weeks]] gestation at [[HOSPITAL|Alamance Regional Medical Center]] on [[DATE|April 9, 2021]], via scheduled cesarean section.
+- Birth weight was [[KEEP|6 lbs 11 oz]]; Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes.
+- [[PARENT|Mrs. Fernández]] reports no prenatal complications, though she notes mild gestational diabetes managed with diet.
+- [[CHILD|Mateo]] had recurrent otitis media between [[KEEP|8 months]] and [[KEEP|22 months]] of age, with four documented episodes and bilateral tympanostomy tubes placed at [[KEEP|18 months]] by Dr. [[PROVIDER|Samuel Ruiz]], an ENT at [[HOSPITAL|Alamance Regional Medical Center]].
+- Hearing was last screened on [[DATE|August 14, 2025]] and results were within normal limits bilaterally, per audiology report shared by [[PROVIDER|Dr. Ruiz]]'s office.
+- No history of seizures, head injury, or significant developmental regression. Gross and fine motor milestones were reportedly within normal limits, though [[PARENT|Mrs. Fernández]] noted that [[CHILD|Mateo]] "camino un poquito tarde" — walked a little late, around [[KEEP|15 months]].
+- Medical history is otherwise unremarkable aside from seasonal allergies treated by [[PROVIDER|Dr. Patel]].
+
+Family and Language History / Historia Familiar y de Lenguaje
+- [[CHILD|Mateo]] lives at [[PLACE|118 Willow Bend Lane]], [[PLACE|Burlington]], [[PLACE|Alamance County]], NC [[PLACE|27217]], with his mother [[PARENT|Lucía Fernández]], father [[PARENT|Héctor Cruz]], and older sister [[SIBLING|Sol Fernández]] (age 6;10).
+- His maternal grandmother, [[FAMILY|doña Lupe]], lives with the family three days a week and is a primary caregiver during the day while both parents work.
+- An aunt, [[FAMILY|Tía Rosa]], also helps with childcare on weekends and reportedly speaks only Spanish to [[CHILD|Mateo]] and [[SIBLING|Sol]].
+- Language exposure in the home is estimated at roughly 70% Spanish and 30% English. [[PARENT|Mr. Cruz]] speaks primarily Spanish with some English; [[PARENT|Mrs. Fernández]] code-switches frequently, especially when discussing school-related topics.
+- [[PARENT|Mrs. Fernández]] stated, "yo le hablo en los dos, pero su papá casi siempre en español" — she speaks to him in both languages, but his father almost always in Spanish.
+- [[CHILD|Mateo]] attended [[AGENCY|Alamance County Early Head Start]] from age [[KEEP|18 months]] to [[KEEP|3 years]], where his classroom teacher was [[TEACHER|Miss Ana]].
+- [[TEACHER|Miss Ana]] reportedly told the family during a home visit that [[CHILD|Mateo]] "se frustra cuando no lo entienden los otros niños" — he gets frustrated when other children do not understand him.
+- From ages 3 to 4, [[CHILD|Mateo]] attended [[DAYCARE|Sunshine Bilingual Daycare]] part-time, two days per week.
+- The family previously received nutrition support through the [[AGENCY|Alamance County WIC Office]] and continues to receive case management support through [[AGENCY|Alamance County Department of Social Services (DSS)]].
+- The family was connected to developmental screening resources through [[AGENCY|Smart Start of Alamance County]], which provided an initial referral packet when [[CHILD|Mateo]] was 2;8.
+- [[PARENT|Mr. Cruz]] works for [[ORG|Cruz Landscaping and Lawn Care]], a small business he co-owns with his brother; [[PARENT|Mrs. Fernández]] works part-time as a receptionist.
+- [[CHILD|Mateo]]'s sister, [[SIBLING|Sol]], is in first grade and reportedly serves as an informal interpreter for her brother with unfamiliar adults and peers.
+- Notably, during articulation testing (see below), the target word "sol" was elicited for /s/ in the word-final position; [[PARENT|Mrs. Fernández]] laughed and noted that this is also [[SIBLING|Sol]]'s name, which [[CHILD|Mateo]] sometimes substitutes when he cannot retrieve the target word, saying his sister's name instead.
+
+EDUCATIONAL HISTORY
+- [[CHILD|Mateo]] is currently enrolled in Pre-K at [[SCHOOL|Grove Park Elementary School]], part of [[SCHOOL|Alamance-Burlington School System]], in the classroom of [[TEACHER|Mrs. Debra Collins]].
+- A classroom paraprofessional, [[TEACHER|la maestra Carmen]], provides additional bilingual support two mornings a week.
+- [[TEACHER|Mrs. Collins]] reports that [[CHILD|Mateo]] participates eagerly in circle time but is frequently unintelligible to peers and adults outside the family.
+- Two classmates, [[PEER|Diego]] and [[PEER|Emily]], are described as patient with [[CHILD|Mateo]] and often repeat his requests to the teacher when others cannot understand him.
+- [[CHILD|Mateo]] receives transportation to school via a district bus; the family noted that the driver, [[PERSON|Mr. Tom]], has learned several of [[CHILD|Mateo]]'s favorite phrases and greets him by name each morning, which the family appreciates.
+- A prior speech-language screening was conducted at the school on [[DATE|March 3, 2025]] by a previous contracted clinician identified in records only by initials, [[PROVIDER|M.R.]], who recommended a full bilingual evaluation.
+- An occupational therapy consultation was also requested; the referring OT, identified in school records as [[PROVIDER|J. Ortiz]], noted mild fine motor delays unrelated to the current speech-language concerns.
+
+ASSESSMENT PROCEDURES
+- Review of records, including CDSA referral packet and prior screening notes
+- Parent interview (conducted bilingually with [[PROVIDER|Rosa Martínez]] interpreting as needed)
+- Hearing screening results review
+- [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]], English and Spanish stimulus items
+- [[KEEP|Bilingual English Spanish Assessment (BESA)]], Phonology and Morphosyntax subtests
+- [[KEEP|Preschool Language Scales-5 (PLS-5)]] Spanish-Bilingual Edition, [[KEEP|Auditory Comprehension]] and [[KEEP|Expressive Communication]] subtests
+- [[KEEP|Peabody Picture Vocabulary Test-5 (PPVT-5)]] and [[KEEP|Expressive Vocabulary Test-3 (EVT-3)]], English forms
+- Language sample analysis (English and Spanish, approximately [[KEEP|15 minutes]] each)
+- Oral-motor examination and informal play-based observation
+
+TEST RESULTS
+
+Standardized Test Scores
+| Measure | Domain | Standard/Scaled Score | Percentile | Age Equivalent |
+|---|---|---|---|---|
+| [[KEEP|GFTA-3]] | Articulation (English) | [[KEEP|SS 76]] | [[KEEP|5th percentile]] | [[KEEP|3;1]] |
+| [[KEEP|BESA Phonology]] | Articulation (Spanish) | [[KEEP|SS 72]] | [[KEEP|3rd percentile]] | — |
+| [[KEEP|BESA Morphosyntax]] | Expressive Grammar (Spanish) | [[KEEP|SS 78]] | [[KEEP|7th percentile]] | — |
+| [[KEEP|PLS-5 Auditory Comprehension]] | Receptive Language | [[KEEP|SS 81]] | [[KEEP|10th percentile]] | — |
+| [[KEEP|PLS-5 Expressive Communication]] | Expressive Language | [[KEEP|SS 74]] | [[KEEP|4th percentile]] | — |
+| [[KEEP|PPVT-5]] | Receptive Vocabulary (English) | [[KEEP|SS 84]] | [[KEEP|14th percentile]] | — |
+| [[KEEP|EVT-3]] | Expressive Vocabulary (English) | [[KEEP|SS 77]] | [[KEEP|6th percentile]] | — |
+
+- Confidence interval for [[KEEP|PLS-5 Auditory Comprehension]]: [[KEEP|95% CI 75-87]].
+- Confidence interval for [[KEEP|PLS-5 Expressive Communication]]: [[KEEP|95% CI 68-80]].
+
+Articulation and Phonology
+- In English, [[CHILD|Mateo]] produced [[KEEP|18 of 54]] consonants in error across word positions, with consistent patterns affecting [[KEEP|/s/]], [[KEEP|/z/]], [[KEEP|/r/]], and consonant clusters.
+- Target word "sol" (sun) was produced as [[KEEP|[tol]]], omitting the target [[KEEP|/s/]] and substituting [[KEEP|[t]]]; this pattern was consistent across [[KEEP|3 of 3]] trials.
+- In Spanish, [[CHILD|Mateo]] demonstrated difficulty with the tap [[KEEP|/ɾ/]], frequently substituting [[KEEP|[d]]], and showed cluster reduction in words such as "flor," produced as [[KEEP|[for]]].
+- Stimulability testing showed that [[CHILD|Mateo]] could approximate [[KEEP|/s/]] in isolation with [[KEEP|moderate cues]], but not consistently at the word level.
+- Intelligibility in connected speech was estimated at approximately [[KEEP|40%]] for unfamiliar listeners and [[KEEP|75%]] for familiar listeners, consistent with parent report.
+
+Language Sample
+- A spontaneous language sample was collected in English (approximately [[KEEP|15 minutes]]) during play with blocks and a toy kitchen set.
+- Mean length of utterance was [[KEEP|3.1 morphemes]], below expected range for chronological age.
+- In the Spanish sample, [[CHILD|Mateo]] demonstrated similar syntactic limitations, with frequent omission of articles and inconsistent verb conjugation, e.g., producing "yo come" instead of "yo como."
+- [[CHILD|Mateo]] used code-switching within single utterances, such as "quiero el ball," which is developmentally appropriate for bilingual children his age and was not counted as an error.
+- Pragmatic skills, including turn-taking, joint attention, and requesting, appeared age-appropriate in both languages.
+
+Oral-Motor and Hearing
+- Oral-motor examination revealed adequate structure and function for speech; no dysarthria or apraxia indicators were observed.
+- A diadochokinetic task showed mildly reduced rate but adequate accuracy.
+- Hearing was reported within normal limits per the [[DATE|August 14, 2025]] audiogram reviewed prior to testing.
+
+CLINICAL IMPRESSIONS / IMPRESIONES CLÍNICAS
+- [[CHILD|Mateo]] presents with a moderate speech sound disorder affecting both English and Spanish, consistent with a true bilingual phonological disorder rather than a language difference, given that error patterns are present and comparable across both languages.
+- He also presents with a mild-to-moderate expressive and receptive language delay in both English and Spanish, which cannot be attributed solely to typical second-language acquisition given the cross-linguistic consistency of deficits.
+- [[KEEP|ICD-10]] codes considered: [[KEEP|F80.1]] (Expressive Language Disorder) and [[KEEP|F80.2]] (Mixed Receptive-Expressive Language Disorder), with [[KEEP|F80.0]] (Phonological Disorder) also applicable.
+- [[KEEP|CPT codes]] for this evaluation: [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression).
+- Family history of late talking was noted; [[PARENT|Mrs. Fernández]] reports that her brother "tardó mucho en hablar" — took a long time to begin talking — and received speech therapy as a child, though no formal records are available.
+- [[FAMILY|doña Lupe]] expressed concern that [[CHILD|Mateo]]'s difficulties might affect his confidence at school, stating "no quiero que se sienta menos que los otros niños" — she does not want him to feel less than the other children.
+- Overall prognosis for improvement with consistent, intensive bilingual intervention is good, given [[CHILD|Mateo]]'s strong pragmatic skills, family engagement, and stimulability for target sounds with cueing.
+
+RECOMMENDATIONS
+- [[CHILD|Mateo]] qualifies for speech-language therapy services based on standardized scores falling at or below the 10th percentile across multiple domains in both languages.
+- Recommend individual speech-language therapy twice weekly, 30 minutes per session, provided bilingually or with consistent interpreter support, targeting:
+  - English and Spanish [[KEEP|/s/]], [[KEEP|/z/]], [[KEEP|/r/]], and [[KEEP|/ɾ/]] production using minimal pairs and cued articulation
+  - Expansion of morphosyntax in both languages, including article use and verb conjugation
+  - Vocabulary development across both languages using shared-book reading
+- Recommend continued coordination with [[AGENCY|CDSA of the Piedmont Triad]] service coordinator to update the IFSP, specifically Outcome [[KEEP|#3]] (communication) and Goal [[KEEP|#2]] (intelligibility).
+- Recommend consultation with [[TEACHER|Mrs. Collins]] and [[TEACHER|la maestra Carmen]] regarding classroom strategies, including repetition, visual supports, and peer modeling with [[PEER|Diego]] and [[PEER|Emily]].
+- Recommend the family continue to use both languages at home; there is no clinical reason to reduce Spanish exposure, and doing so could negatively affect family bonding and cultural identity without improving English outcomes.
+- Recommend re-evaluation in [[KEEP|6 months]] to monitor progress and adjust goals.
+- Recommend the family follow up with [[PROVIDER|Dr. Ruiz]] regarding any recurrence of middle ear infections, given the history of otitis media and its potential impact on auditory processing.
+- Provided family with information on sibling support, noting that [[SIBLING|Sol]] should not be relied upon as a primary interpreter for formal services, though her support at school is appropriate and kind.
+- Discussed available resources through [[AGENCY|Smart Start of Alamance County]] and [[AGENCY|Alamance County Department of Social Services (DSS)]] for continued family support services.
+- Written report and recommendations provided to the family in Spanish and English; interpreter [[PROVIDER|Rosa Martínez]] confirmed family understanding of all recommendations during the [[DATE|October 6, 2025]] session.
+
+This report reflects [[CHILD|Mateo]]'s speech-language skills as observed on the dates of testing and is intended for use in planning educational and therapeutic services. Please contact [[EMPLOYER|Piedmont Pediatric Speech & Language Services]] at [[PHONE|(336) 555-0148]] with any questions.
+
+Respectfully submitted,
+
+[[PROVIDER|Jennifer Hayes]], M.S., CCC-SLP
+Bilingual Speech-Language Pathologist
+License #[[ID|SLP-NC-11287]]
+[[EMAIL|jhayes@piedmontpedspeech.com]]

@@ -1,0 +1,22 @@
+S: [[CHILD|Mateo Alvarez-Cruz]] ("[[CHILD|Teo]]"), DOB [[DATE|April 2, 2022]], age [[KEEP|4;6]], Medicaid ID [[MEDICAID_ID|123456789A]], case [[ID|WCS-44218]]. Date of service: [[DATE|October 9, 2026]], [[TIME|10:15 a.m.]]–[[TIME|10:45 a.m.]], at [[SCHOOL|Pine Hollow Elementary]], [[PLACE|Wake County]], NC, within the [[SCHOOL|Wake County Public School System]].
+
+Clinician: [[PROVIDER|Dana R. Whitfield]], M.S., CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]. Contact: [[PHONE|(919) 555-0148]], [[EMAIL|dwhitfield@carolinapedsslp.com]].
+
+[[CHILD|Teo]]'s mother, [[PARENT|Lucía Rodríguez]], reported at pickup that [[CHILD|Teo]] has been "talking more at home" since starting at [[DAYCARE|The Giggle Hollow Cottage]]. Mom works nights at [[ORG|Mercer Linen Services]] as a sorter, so [[CHILD|Teo]]'s grandmother, [[FAMILY|Rosa Cruz]], brings him on Thursdays. His classroom teacher, Ms. [[TEACHER|Carla Lopez]], noted he follows two-step directions [[KEEP|3 of 5]] trials without cues during circle time.
+
+O: [[CHILD|Teo]] separated easily from [[FAMILY|Rosa]] and engaged well. Session conducted in English and Spanish per IFSP [[KEEP|Outcome 2]]. Re-administered [[KEEP|CELF-5]] [[KEEP|Receptive Language Index]] and [[KEEP|Expressive Language Index]] subtests for progress monitoring.
+
+Score summary (95% CI and age-equivalent ranges):
+
+Subtest | SS | 95% CI | %ile | Age Equiv
+[[KEEP|Receptive Language Index]]: [[KEEP|82]] ([[KEEP|73–91]]), [[KEEP|12th]] percentile, [[KEEP|3;6–3;9]]
+[[KEEP|Expressive Language Index]]: [[KEEP|79]] ([[KEEP|70–88]]), [[KEEP|8th]] percentile, [[KEEP|3;3–3;6]]
+
+[[CHILD|Teo]] produced /k/ in final position with [[KEEP|min cues]], saying "[[KEEP|cake]]" and "[[KEEP|duck]]" at [[KEEP|90%]] accuracy ([[KEEP|9/10]] trials). He combined a two-word phrase about his dog, saying "[[PET|Bruno]] go," [[KEEP|3 of 4]] trials with [[KEEP|mod cues]]. His /r/ goal remains emerging; he substituted [[KEEP|[w]]] for [[KEEP|/ɾ/]] in "[[KEEP|carro]]" consistently.
+
+A: [[CHILD|Teo]] continues to make steady gains in receptive and expressive language, consistent with the [[KEEP|73–91]] and [[KEEP|70–88]] ranges, both low-average to borderline. [[KEEP|PROMPT]] cueing for /k/ and /g/ continues to support carryover. Recommend coordinating with [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|James Okafor]] before the IFSP review on [[DATE|January 15, 2027]].
+
+P: Continue twice-weekly sessions targeting IFSP [[KEEP|Outcome 2]] and [[KEEP|Outcome 3]]. Send home-practice list to [[PARENT|Lucía Rodríguez]] and [[FAMILY|Rosa Cruz]] for carryover at [[DAYCARE|The Giggle Hollow Cottage]]. Follow up with Ms. [[TEACHER|Carla Lopez]] regarding classroom data collection. Next session: [[DATE|October 16, 2026]], [[TIME|10:00 a.m.]]
+
+Signed, [[PROVIDER|Dana R. Whitfield]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pediatric Speech & Language, PLLC]]

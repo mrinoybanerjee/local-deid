@@ -1,0 +1,34 @@
+Daily Note – [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] ([[EMPLOYER|CPSLT]])
+
+Clinician: [[PROVIDER|Sandra Lopez]], M.S., CCC-SLP, bilingual SLP w/ [[EMPLOYER|Carolina Pediatric Speech]]
+
+Session Date: [[DATE|3 de marzo de 2025]] (billing sys also shows [[DATE|03/03/2025]])
+
+Pt: [[CHILD|José Martínez Soto]] ("[[CHILD|Pepe]]"), DOB [[DATE|6/14/2021]], age [[KEEP|3;8]]
+Medicaid ID: [[MEDICAID_ID|7284551039B]]
+Record #: [[ID|CPSLT-00417]]
+
+Location: pt's home, [[PLACE|118 Bramblewood Ct]], [[PLACE|Hickory]], [[PLACE|Catawba County]], NC [[PLACE|28601]]
+
+CG present: mother [[PARENT|Guadalupe Soto Ramírez]] ("[[PARENT|Lupita]]"); abuela [[FAMILY|Rosa Martínez]] also present approx 15 min, helped w/ transición.
+
+S: Per mom, pt had good wk. Mamá [[PARENT|Lupita]] reports pt used 2-word combos spontaneously at home, incl "[[KEEP|more juice]]" and "[[KEEP|go bye-bye]]" w/ brother [[SIBLING|Juan Martínez Soto]] ("[[SIBLING|Juanito]]"). CG states pt's dog [[PET|Chuy]] was a good motivator for turn-taking games this wk. Mom also mentioned daycare teacher [[TEACHER|Ms. Chávez]] at [[DAYCARE|Little Sprouts Daycare]] reported pt initiated play w/ peer [[PEER|Teo]] during circle time [[DATE|el martes 4 de junio]], per CG's recollection from a prior rpt period.
+
+O: 30-min tx session targeting expressive lang & artic per IFSP goal [[KEEP|#2]]. Used [[KEEP|PROMPT]] & [[KEEP|Hanen]] strategies throughout.
+- Expressive lang: pt produced 2-3 word utterances [[KEEP|8/10]] trials w/ [[KEEP|mod cues]]; imitated "[[KEEP|want more]]" x3.
+- Artic: targeted [[KEEP|/k/]] initial position; pt produced [[KEEP|/k/]] correctly [[KEEP|6/10]] trials, approximated as [[KEEP|[t]]] remainder. Target word "[[KEEP|cup]]" → pt said "[[KEEP|tup]]" w/ [[KEEP|max cues]], improved to [[KEEP|min cues]] by end of session.
+- [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] re-screen not done this visit; last formal standard score [[KEEP|73-83]] ([[KEEP|9th percentile]]), admin [[DATE|1/15/2025]].
+
+A: Pt continues slow but steady progress toward IFSP goals. Mod cues still req'd for artic targets; family carryover improving w/ CG coaching.
+
+P: Continue weekly tx per schedule below. Will coordinate w/ [[AGENCY|Piedmont CDSA]] service coordinator [[PROVIDER|Marta Delgado]] re: upcoming IFSP review [[DATE|November 12, 2025]]. Interpreter [[PROVIDER|Mr. Reyes]] not needed this visit; mom fluent in English for session.
+
+Session Schedule (per IFSP, billed through [[EMPLOYER|CPSLT]]):
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Mon | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | home, [[PLACE|118 Bramblewood Ct]] |
+| Wed | [[TIME|1:15 PM]] | [[TIME|1:45 PM]] | [[DAYCARE|Little Sprouts Daycare]] |
+| Fri | [[TIME|10:30 AM]] | [[TIME|11:00 AM]] | home |
+
+Next session [[DATE|03/10/2025]]. CG contact: [[PHONE|(828) 555-0147]]; clinic email [[EMAIL|slopez@carolinapedspeech.com]].

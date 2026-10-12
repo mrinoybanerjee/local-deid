@@ -1,0 +1,22 @@
+Daily Speech-Language Therapy Note
+Date: [[DATE|October 8, 2026]]  Time: [[TIME|9:15 AM]]
+Client: [[CHILD|Nilo Varden]]  DOB: [[DATE|August 8, 2024]]  Age: [[KEEP|26 months]]
+Record: [[ID|SL-684219]]  Medicaid: [[MEDICAID_ID|583746291Q]]
+Clinician: [[PROVIDER|Elena Brisley]], bilingual pediatric SLP
+Company: [[EMPLOYER|Little Lantern Speech Services]]
+
+[X] Home  [ ] Daycare  [ ] Telehealth
+Location: [[PLACE|482 Lantern Finch Lane]], [[PLACE|Mossbridge]], North Carolina [[PLACE|27000]]
+Present: Mom [[PARENT|Marisa Varden]]; sibling [[SIBLING|Tavi Varden]]; grandmother [[FAMILY|Odelia Varden]].
+
+S: Mom reports increased requesting during meals. Mom works nights at [[ORG|Moonfern Packaging]] as a machine operator. Dad [[PARENT|Joren Varden]] practices turn-taking before work. The family uses [[AGENCY|Mossbridge WIC Office]] in [[PLACE|Fernvale County]] and story hour at [[ORG|Lantern Hollow Community Center]], led by volunteer [[PERSON|Ada Fenwick]]. Teacher Ms. [[TEACHER|Pellin]] at [[DAYCARE|Acorn Lantern Daycare]] reports parallel play with peer [[PEER|Suri Bellwick]]. Mom requests practical routines that fit changing sleep schedules.
+
+Birth/medical history: Born at [[KEEP|34 weeks]] gestation, birth weight [[KEEP|2,140 g]], at [[HOSPITAL|Fernvale Children's Hospital]]. NICU stay addressed feeding and respiratory support. Apgar scores were [[KEEP|7]] and [[KEEP|9]]. Neonatologist Dr. [[PROVIDER|Lena Orwick]] followed discharge; pediatrician Dr. [[PROVIDER|Caleb Merrow]] monitors development. No new illnesses reported.
+
+O: Reviewed [[KEEP|PLS-5]] findings from [[DATE|September 17, 2026]]: [[KEEP|Auditory Comprehension]] standard score [[KEEP|76]], percentile [[KEEP|5]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|1;6–1;9]]. Used [[KEEP|Hanen]] strategies during play. IFSP goal [[KEEP|2]] addressed functional requests. Produced “[[KEEP|more bubbles]]” in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]; independent requests reached [[KEEP|60%]]. Practiced /[[KEEP|k]]/ targets with [[KEEP|min cues]]; “[[KEEP|car]]” became “[[KEEP|tar]]”. Said “[[PET|Pipkin]] run” when the dog entered. Caregiver demonstrated waiting in [[KEEP|3 of 5]] opportunities. Engagement improved when adults followed the child's chosen activity. Movement breaks supported participation throughout shared book reading.
+
+A: Functional communication improves with predictable pauses and visual choices. Speech sound substitutions remain consistent. English and Spanish samples support continued treatment.
+
+P: Continue weekly sessions; practice requests during snack. Mom will share strategies with grandmother. Next visit: [[DATE|October 15, 2026]], [[TIME|9:15 AM]].
+Contact: [[PHONE|919-555-0147]]; [[EMAIL|elena@littlelantern.example]]; [[URL|https://littlelantern.example]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].

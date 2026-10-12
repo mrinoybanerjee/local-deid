@@ -1,0 +1,20 @@
+**Nota diaria de terapia y evaluación del lenguaje**
+
+**Datos:** [[CHILD|Nicolás Varela]], edad [[KEEP|4;2]]. Fecha: [[DATE|8 de octubre de 2026]]; horario: [[TIME|9:10 a. m.]]–[[TIME|9:55 a. m.]]. Expediente: [[ID|SLP-60428]]. Medicaid: [[MEDICAID_ID|684209731K]].
+
+**Profesional:** [[PROVIDER|Elena Robles]], patóloga bilingüe del habla y lenguaje de [[EMPLOYER|Senderos del Habla Pediátrica PLLC]], Carolina del Norte. Esta empresa también usa [[EMPLOYER|Senderos del Habla]] y [[EMPLOYER|SHP]]. Sede: [[PLACE|418 Calle del Laurel]], [[PLACE|Brisavalle]], [[PLACE|27584]]. Teléfono: [[PHONE|919-555-0146]].
+
+**S:** Su mamá [[PARENT|Marina Varela]] informó que [[CHILD|Nico]] pidió ayuda durante el desayuno. Su hermana [[SIBLING|Inés Varela]] y su abuela [[FAMILY|Teresa Molina]] participaron en juegos de turnos. Al describir una fotografía, el niño dijo: «[[PET|Chispa]] corre». En [[SCHOOL|Escuela Infantil Colina Serena]], la maestra Ms. [[TEACHER|Lopez]] observó más solicitudes espontáneas en el aula denominada “Ms. [[TEACHER|Lopez]]'s room”. Su compañero [[PEER|Bruno Salcedo]] facilitó el intercambio de juguetes.
+
+**O:** Se completó la evaluación iniciada previamente y se realizó intervención individual en español. Se administró [[KEEP|PLS-5 Spanish]] conforme al manual. La tabla presenta los resultados obtenidos hoy.
+
+| Subprueba | Fecha | Puntuación estándar | IC del [[KEEP|95%]] | Percentil | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|Comprensión auditiva]] | [[DATE|08/10/2026]] | [[KEEP|78]] | [[KEEP|73–85]] | [[KEEP|7]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|Comunicación expresiva]] | [[DATE|08/10/2026]] | [[KEEP|76]] | [[KEEP|71–83]] | [[KEEP|5]] | [[KEEP|2;4–2;8]] |
+
+En actividades con objetos, siguió instrucciones en [[KEEP|8/10]] oportunidades, con precisión del [[KEEP|80%]] y [[KEEP|claves moderadas]]. Produjo [[KEEP|«quiero agua»]] espontáneamente. Para el objetivo [[KEEP|«casa»]], sustituyó [[KEEP|/k/]] por [[KEEP|[t]]]. Se aplicaron estrategias de [[KEEP|Hanen]]; la muestra incluyó el código [[KEEP|[EW]]] de [[KEEP|SALT]].
+
+**A:** El desempeño indica dificultades receptivas y expresivas, compatibles con [[KEEP|F80.2]]. La participación aumentó con apoyos visuales. Los resultados se interpretan junto con la entrevista familiar y la observación funcional. No se observaron signos de malestar durante las tareas; aceptó pausas breves y regresó voluntariamente a la mesa para terminar el juego.
+
+**P:** Continuar sesiones semanales y practicar solicitudes durante rutinas. Revisar la meta [[KEEP|1]] del [[KEEP|IFSP]] el [[DATE|22 de octubre de 2026]]. Servicios documentados: evaluación [[KEEP|92523]] e intervención [[KEEP|92507]], modificador [[KEEP|GN]].

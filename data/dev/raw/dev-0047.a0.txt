@@ -1,0 +1,23 @@
++ Name: [[CHILD|Mateo del Río]]
++ CA: 4;2
++ Context: Individual speech-language therapy session, home-based, conducted in English and Spanish per IFSP.
+
+Session Note — [[DATE|October 9, 2026]], [[TIME|3:30 PM]]–[[TIME|4:15 PM]]
+
+S: [[CHILD|Mateo]]'s mother, [[PARENT|Carla del Río]], reported that he has been using more two-word combinations at home, including "más agua" and "no quiero," but continues to omit final consonants. She noted he had a follow-up with his pediatrician, Dr. [[PROVIDER|Nguyen-Patel]], on [[DATE|October 2, 2026]], who confirmed his ICD-10 diagnosis of [[KEEP|F80.2]] (mixed receptive-expressive language disorder) remains current for continued services. [[PARENT|Carla]] also mentioned that [[CHILD|Mateo]]'s babysitter, [[FAMILY|Yesenia Alvarado-Ponce]], has been practicing the Goldman-Fristoe word lists with him during the week.
+
+O: Session billed under CPT [[KEEP|92507]] (treatment) and [[KEEP|92523]] (evaluation of speech sound production and language comprehension/expression). Interpreter services were not required; this SLP is bilingual.
+
+Articulation: Administered a probe based on the Goldman-Fristoe Test of Articulation-3 word list. [[CHILD|Mateo]] produced /k/ correctly in word-initial position in [[KEEP|8/10]] trials with minimal cues ("mod cues" given on 2 trials), e.g., target "casa" produced as "[[KEEP|[k]asa]]" independently. He continues to substitute [t] for /k/ in word-final position (target "pato" → "[[KEEP|pa[t]o]]"). Final consonant deletion noted in [[KEEP|[EW]]] coded utterances during spontaneous play, consistent with prior Rossetti Infant-Toddler Language Scale findings from his [[DATE|August 14, 2026]] evaluation.
+
+Receptive/Expressive Language: Re-administered select items from the Bayley Scales of Infant and Toddler Development to track progress toward IFSP goals. [[CHILD|Mateo]] followed two-step directions with [[KEEP|80%]] accuracy ([[KEEP|8/10]] trials) in English and Spanish. He used 2-3 word combinations spontaneously during play with his toy dinosaur, "[[PET|Rex]]," including "Rex come" and "Rex grande." Peabody Picture Vocabulary Test screening items suggest receptive vocabulary remains below age expectations, consistent with standard scores reported at his [[DATE|August 14, 2026]] Bayley evaluation.
+
+Social: [[CHILD|Mateo]] initiated play with his older sister, [[SIBLING|Valentina]], during a brief break, prompting her to "play more" using a two-word phrase. [[PARENT|Carla]] reported that at daycare, [[CHILD|Mateo]]'s teacher, Ms. [[TEACHER|Jimenez-Castro]], has observed similar gains in peer interaction with his classmate [[PEER|Bryson]] at [[DAYCARE|Little Sprouts Early Learning Center]] in [[PLACE|Garner]].
+
+A: [[CHILD|Mateo]] demonstrates slow but steady progress toward expressive and receptive language goals. Articulation accuracy for /k/ in word-initial position has improved from baseline. Continued final consonant deletion and cluster reduction patterns remain consistent with his [[KEEP|F80.2]] diagnosis. Family engagement, including [[PARENT|Carla]]'s and [[FAMILY|Yesenia]]'s carryover practice at home, appears to be supporting generalization.
+
+P: Continue weekly individual therapy (CPT [[KEEP|92507]]) targeting word-final consonants and two-word utterance expansion in both languages. Recommend formal re-administration of the Goldman-Fristoe-3 and Bayley-4 at the next annual IFSP review, scheduled for [[DATE|February 10, 2027]]. Service coordinator [[PROVIDER|Denise Okafor]] from the [[AGENCY|Wake County CDSA]] will be notified of continued eligibility. Case record: Medicaid ID [[MEDICAID_ID|920483715B]], Case ID [[ID|NC-SLP-00417]].
+
+Contact [[PARENT|Carla del Río]] at [[PHONE|(919) 555-0148]] or [[EMAIL|carla.delrio88@example.com]] to confirm the next session time. Family resides at [[PLACE|214 Hollyfield Lane]], [[PLACE|Garner]], [[PLACE|NC]] [[PLACE|27529]].
+
+Clinician: [[PROVIDER|Ashley Monteiro-Byrd]], M.S., CCC-SLP, bilingual service provider, [[EMPLOYER|Carolina Pediatric Speech & Language Partners]].

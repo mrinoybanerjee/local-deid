@@ -1,0 +1,98 @@
+[[CHILD|Mateo Hernández Flores]]'s "[[KEEP|Teo]]" — wait, let me write the clean document.
+
+Patient Name: [[CHILD|Mateo Hernández Flores]]
+Preferred Name/Nickname: [[CHILD|Teo]]
+Date of Birth: [[DATE|February 14, 2022]]
+Chronological Age at Evaluation: [[KEEP|3;8]]
+Medicaid ID: [[MEDICAID_ID|882719304B]]
+Record/Case ID: [[ID|CDSA-2026-01138]]
+Referral Source: [[AGENCY|Cabarrus-Rowan CDSA]]
+Service Coordinator: [[PROVIDER|Brenda Walsh]]
+Evaluation Date: [[DATE|14 de octubre de 2025]]
+Report Date: [[DATE|10/21/2025]]
+Clinician: [[PROVIDER|Daniela Ortiz-Vargas, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]]
+Interpreter: [[PROVIDER|Rosa Jiménez]], Certified Medical Interpreter
+Parent/Guardian: [[PARENT|Lucía Flores Ramírez]] (mother); [[PARENT|Javier Hernández Cruz]] (father)
+Home Address: [[PLACE|412 Winding Creek Lane]], [[PLACE|Concord]], NC [[PLACE|28025]] ([[PLACE|Cabarrus County]])
+Phone: [[PHONE|(704) 555-0148]]
+Email: [[EMAIL|lucia.flores82@example.com]]
+Primary Care Physician: [[PROVIDER|Dr. Angela Kim]]
+Diagnosis Codes: [[KEEP|F80.2]], [[KEEP|R47.0]]
+CPT Codes Billed: [[KEEP|92523]], [[KEEP|92522]]
+Reason for Referral: Expressive and receptive language delay with reduced speech intelligibility in English and Spanish
+
+BACKGROUND
+
+[[CHILD|Teo]] is a [[KEEP|3;8]]-year-old bilingual (Spanish/English) boy referred for a comprehensive speech-language evaluation by [[AGENCY|Cabarrus-Rowan CDSA]] through service coordinator [[PROVIDER|Brenda Walsh]]. He currently attends [[DAYCARE|Little Sprouts Bilingual Academy]] in [[PLACE|Concord]] four days a week, where his classroom teacher, [[TEACHER|Ms. Patterson]], reports that [[CHILD|Teo]] is affectionate and eager to play but often gestures or points instead of using words, particularly when interacting with peers such as [[PEER|Emma]] and [[PEER|Noah]]. [[TEACHER|Ms. Patterson]] noted that on [[DATE|September 9, 2025]] [[CHILD|Teo]] became frustrated during circle time when he could not retell a story, and on [[DATE|9/23/2025]] he was observed pushing a peer after a toy-sharing conflict that he could not resolve verbally.
+
+This evaluation was requested as part of [[CHILD|Mateo]]'s annual IFSP review. The family's most recent IFSP meeting occurred on [[DATE|March 3, 2025]], and the next review is scheduled for [[DATE|3 de marzo de 2026]]. [[PARENT|Lucía Flores Ramírez]] reports that her primary concerns are that [[CHILD|Teo]]'s speech is "hard to understand in both languages" and that he does not yet combine words into sentences the way his sister did at the same age.
+
+BIRTH AND MEDICAL HISTORY
+
+[[CHILD|Teo]] was born at [[HOSPITAL|CarolinaCare Medical Center]] in [[PLACE|Concord]] on [[DATE|February 14, 2022]] ([[DATE|02/14/2022]]) at [[KEEP|38 weeks]] gestation following an uncomplicated pregnancy. Birth weight was [[KEEP|6 lb 11 oz]], and Apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes, respectively. There were no complications during delivery or the newborn period, and [[CHILD|Teo]] was discharged home on [[DATE|February 16, 2022]].
+
+Medical history is significant for recurrent otitis media beginning around [[KEEP|9 months]] of age. [[PROVIDER|Dr. Samuel Okafor]], an ENT, placed bilateral pressure-equalization tubes on [[DATE|el martes 4 de junio de 2024]] ([[DATE|06/04/2024]]) after [[CHILD|Teo]] had experienced six documented ear infections within an eight-month span. Hearing was screened as within normal limits bilaterally at the follow-up appointment on [[DATE|August 19, 2024]]. [[PARENT|Javier Hernández Cruz]] reported that [[CHILD|Teo]]'s hearing and listening behavior improved noticeably after the surgery, though speech intelligibility did not catch up proportionally.
+
+[[CHILD|Teo]] passed his newborn hearing screening and has met gross motor and fine motor milestones within expected ranges per [[PROVIDER|Dr. Angela Kim]]'s well-child records. No history of seizures, significant head trauma, or hospitalization aside from the tube placement procedure.
+
+FAMILY AND LANGUAGE HISTORY
+
+[[CHILD|Teo]] lives with his mother, [[PARENT|Lucía Flores Ramírez]]; his father, [[PARENT|Javier Hernández Cruz]]; and his older sister, [[SIBLING|Sol Hernández Flores]], age [[KEEP|7]]. [[SIBLING|Sol]] attends [[SCHOOL|Winecoff Elementary School]] and, per parent report, met speech and language milestones without concern. [[CHILD|Teo]]'s paternal grandmother, [[FAMILY|Rosario Cruz]], provides afternoon childcare three days per week while [[PARENT|Javier Hernández Cruz]] is at work; she speaks primarily Spanish with [[CHILD|Teo]]. The family also has a dog, [[PET|Max]], whom [[CHILD|Teo]] frequently references during play-based routines.
+
+[[PARENT|Lucía Flores Ramírez]] works part-time and reports that her first language is Spanish, with English as a second language acquired in adulthood. [[PARENT|Javier Hernández Cruz]] is bilingual and works at [[ORG|Carolina Fastener & Supply Co.]], where English is the primary workplace language. According to a language-use questionnaire completed on [[DATE|9/16/2025]], [[CHILD|Teo]] hears Spanish approximately [[KEEP|60%]] of the time and English approximately [[KEEP|40%]] of the time across home, daycare, and extended-family contexts. [[PARENT|Lucía Flores Ramírez]] estimates that [[CHILD|Teo]]'s expressive vocabulary in Spanish is "maybe 50 palabras" and his English vocabulary is smaller, closer to 20-30 words.
+
+The family reports no history of speech, language, or learning disorders on either side aside from [[PARENT|Javier Hernández Cruz]]'s own late talking as a toddler, which reportedly resolved without intervention.
+
+ASSESSMENT PROCEDURES
+
+Testing was conducted across two sessions, on [[DATE|30 de septiembre de 2025]] and [[DATE|14 de octubre de 2025]], at the family's home with interpretation support from [[PROVIDER|Rosa Jiménez]] for portions of parent interview and Spanish-language test administration. Standardized assessment, language sampling, dynamic assessment, and parent/teacher report measures were used to characterize [[CHILD|Teo]]'s skills in both languages.
+
+TEST RESULTS
+
+Preschool Language Scales, Fifth Edition, Spanish ([[KEEP|PLS-5 Spanish]])
+- [[KEEP|Auditory Comprehension]]: Standard Score [[KEEP|76]] ([[KEEP|73-83]], 90% CI), [[KEEP|5th percentile]], age equivalent [[KEEP|2;6–3;0]]
+- [[KEEP|Expressive Communication]]: Standard Score [[KEEP|71]] ([[KEEP|68-78]]), [[KEEP|3rd percentile]], age equivalent [[KEEP|2;3–2;9]]
+- [[KEEP|Total Language Score]]: [[KEEP|72]] ([[KEEP|69-77]]), [[KEEP|3rd percentile]]
+
+Clinical Evaluation of Language Fundamentals Preschool-2 ([[KEEP|CELF Preschool-2]]), English, administered with support
+- [[KEEP|Sentence Structure]]: Scaled Score [[KEEP|6]], [[KEEP|9th percentile]]
+- [[KEEP|Word Structure]]: Scaled Score [[KEEP|5]], [[KEEP|5th percentile]]
+- [[KEEP|Core Language Score]]: [[KEEP|74]] ([[KEEP|70-79]]), [[KEEP|4th percentile]]
+
+Goldman-Fristoe Test of Articulation, Third Edition ([[KEEP|GFTA-3]])
+- [[KEEP|Sounds-in-Words]]: Standard Score [[KEEP|65]], [[KEEP|1st percentile]]
+- Intelligibility in connected speech estimated at [[KEEP|40%]] for unfamiliar listeners, [[KEEP|70%]] for familiar listeners
+
+ARTICULATION AND PHONOLOGY
+
+In English single-word testing, [[CHILD|Teo]] demonstrated final consonant deletion (e.g., "ca" for "cat"), stopping of fricatives (e.g., [t] for [[KEEP|/s/]], producing "tun" for "sun"), and cluster reduction (e.g., "poon" for "spoon"). Velar fronting was also observed, with [[CHILD|Teo]] producing [[KEEP|[t]]] for [[KEEP|/k/]] in words such as "tup" for "cup."
+
+During the Spanish articulation sample, [[CHILD|Teo]] was asked to label a picture of the sky and produced the target word [[KEEP|"sol"]] as [[KEEP|[tol]]], substituting [[KEEP|[t]]] for [[KEEP|/s/]] consistent with the stopping pattern noted above; this was scored as an error on the target item and does not refer to any family member. He correctly imitated [[KEEP|/ɾ/]] in "pero" with [[KEEP|moderate verbal cues]] [[KEEP|3 of 5]] trials. Overall, Spanish consonant inventory was judged age-appropriate apart from the stopping and fronting patterns shared across both languages, suggesting a phonological process disorder rather than two separate language-specific delays.
+
+LANGUAGE SAMPLE
+
+A 50-utterance spontaneous language sample was collected in mixed Spanish/English play with [[PARENT|Lucía Flores Ramírez]] and separately with [[PROVIDER|Daniela Ortiz-Vargas, M.S., CCC-SLP]]. Mean length of utterance was [[KEEP|1.8 morphemes]] in English and [[KEEP|2.1 morphemes]] in Spanish. [[CHILD|Teo]] used primarily single words and two-word combinations ("mas agua," "doggy go," "no quiero"), with limited use of grammatical morphemes. Coded utterances included several examples marked [[KEEP|[EW]]] for word-finding delay during the sample. He followed one-step directions reliably ([[KEEP|8/10]]) but struggled with two-step directions ([[KEEP|3 of 10]]).
+
+PARENT AND TEACHER REPORT
+
+On a bilingual developmental checklist, [[PARENT|Lucía Flores Ramírez]] endorsed concerns consistent with the standardized findings above. [[TEACHER|Ms. Patterson]]'s classroom report, dated [[DATE|9/25/2025]], rated [[CHILD|Teo]]'s peer communication as "below age expectations" and noted that he relies heavily on gesture with classmates including [[PEER|Emma]] and [[PEER|Noah]], though he responds well to visual supports and modeling.
+
+IMPRESSIONS
+
+Results indicate a moderate-to-severe mixed receptive-expressive language disorder ([[KEEP|F80.2]]) affecting both Spanish and English, with an accompanying speech sound disorder characterized by phonological processes atypical for his age in both languages. Reduced intelligibility for unfamiliar listeners ([[KEEP|R47.0]]) is consistent with parent and teacher concern. Because error patterns and language delay are present proportionally in both Spanish and English, these findings are consistent with a true communication disorder rather than typical second-language acquisition or dialectal variation. [[CHILD|Teo]]'s nonverbal problem-solving and play skills, informally observed during testing, appeared commensurate with chronological age, supporting a primary speech-language diagnosis rather than a broader developmental concern at this time.
+
+RECOMMENDATIONS
+
+1. [[CHILD|Teo]] should continue to receive speech-language intervention through his IFSP, increasing frequency to twice weekly, 45-minute sessions, provided bilingually or with interpreter support as needed.
+2. Intervention should target phonological processes (final consonant deletion, stopping, velar fronting) using a cycles-based approach ([[KEEP|Cycles]]) alongside language stimulation strategies drawn from [[KEEP|Hanen]] "It Takes Two to Talk" to support caregiver-implemented strategies at home.
+3. [[KEEP|PROMPT]] techniques may be incorporated to support motor planning for speech production given the cross-linguistic nature of the sound errors.
+4. The family is encouraged to continue rich dual-language input rather than restricting either language, as bilingual exposure is not contributing to the delay.
+5. Coordination with [[TEACHER|Ms. Patterson]] at [[DAYCARE|Little Sprouts Bilingual Academy]] is recommended to reinforce communication strategies during peer interactions.
+6. Re-evaluation of articulation and language skills is recommended in [[KEEP|6 months]] or at the next IFSP review on [[DATE|3 de marzo de 2026]], whichever comes first.
+7. IFSP Outcome [[KEEP|2]] and Outcome [[KEEP|3]] should be updated to reflect the revised frequency and the phonological treatment approach outlined above.
+
+This evaluation was completed by [[PROVIDER|Daniela Ortiz-Vargas, M.S., CCC-SLP]] of [[EMPLOYER|Carolina Bilingual Speech & Language Services]], with interpretation provided by [[PROVIDER|Rosa Jiménez]]. Please direct questions to the clinician at [[PHONE|(704) 555-0199]] or through [[AGENCY|Cabarrus-Rowan CDSA]] service coordination. Billing and authorization inquiries may be directed to [[EMPLOYER|CBSLS]] administrative staff.
+
+Report completed: [[DATE|10/21/2025]]
+Electronically signed: [[PROVIDER|Daniela Ortiz-Vargas, M.S., CCC-SLP]], [[EMPLOYER|Carolina Bilingual Speech & Language Services, PLLC]]

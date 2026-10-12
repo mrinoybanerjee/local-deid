@@ -1,0 +1,137 @@
+CAROLINA BILINGUAL SPEECH & LANGUAGE SERVICES, PLLC
+(d/b/a Carolina Bilingual Speech & Language Services; referred to below as "CBSLS")
+Comprehensive Speech-Language Evaluation / Evaluación Integral del Habla y el Lenguaje
+
+1. IDENTIFYING INFORMATION
+
+Client: [[CHILD|Mateo Alejandro Ramos Flores]] ("[[CHILD|Mateo]]")
+Date of Birth: [[DATE|March 14, 2021]]
+Chronological Age at Evaluation: [[KEEP|4;7]]
+Evaluation Dates: [[DATE|September 8, 2025]] and [[DATE|September 15, 2025]]
+Report Date: [[DATE|09/22/2025]]
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Record/Case ID: [[ID|LD-24-00871]]
+Parents/Guardians: [[PARENT|Lucía Rodríguez Ramos]] (mother), [[PARENT|Carlos Ramos Flores]] (father)
+Home Address: [[PLACE|482 Willow Creek Lane]], [[PLACE|Raleigh]], [[PLACE|Wake County]], NC [[PLACE|27610]]
+Home Phone: [[PHONE|(919) 555-0148]]
+Mother's Email: [[EMAIL|lrodriguezramos25@gmail.com]]
+Examining Clinician: [[PROVIDER|Daniela Fuentes]], M.S., CCC-SLP, Bilingual Speech-Language Pathologist, Carolina Bilingual Speech & Language Services, PLLC ("CBSLS")
+Referral Source: [[PROVIDER|Dr. Patricia Chen]], pediatrician, via the [[AGENCY|Wake County CDSA]] (Children's Developmental Services Agency)
+Service Coordinator: [[PROVIDER|Brenda Whitfield]], [[AGENCY|Wake County CDSA]]
+Interpreter present second session: [[PROVIDER|Jorge Santos]], certified medical/educational Spanish interpreter
+
+2. REASON FOR REFERRAL
+
+[[CHILD|Mateo]] was referred for a comprehensive speech-language evaluation by his pediatrician, [[PROVIDER|Dr. Patricia Chen]], after his mother, [[PARENT|Lucía Rodríguez Ramos]], expressed concern during a well-child visit on [[DATE|el martes 4 de junio de 2025]] that [[CHILD|Mateo]] "no habla tan claro como los demás niños de su edad" ("doesn't speak as clearly as other kids his age"). [[CHILD|Mateo]] currently attends [[DAYCARE|Little Sprouts Early Learning Center]] in [[PLACE|Garner]], where his lead teacher, Ms. [[TEACHER|Amanda Lopez]], and assistant teacher, Sra. [[TEACHER|Carmen Torres]], both reported difficulty understanding his speech, particularly in group settings. This evaluation was conducted under CPT codes [[KEEP|92523]] (evaluation of speech sound production with evaluation of language comprehension and expression) and [[KEEP|92507]] (individual treatment of speech, language, voice, communication, and/or auditory processing disorder), the latter billed for a diagnostic therapy probe session.
+
+3. BACKGROUND INFORMATION / ANTECEDENTES
+
+3.1 Birth and Medical History
+
+[[CHILD|Mateo]] was born at [[DATE|37 weeks]] gestational age [[KEEP|37 weeks]] at [[HOSPITAL|Blue Ridge Regional Medical Center]] in [[PLACE|Raleigh]] on [[DATE|March 14, 2021]], following a pregnancy complicated by gestational hypertension. Birth weight was [[KEEP|5 lbs 6 oz]] and Apgar scores were [[KEEP|7]] and [[KEEP|9]] at one and five minutes, respectively. [[CHILD|Mateo]] spent [[KEEP|11 days]] in the Neonatal Intensive Care Unit at [[HOSPITAL|Blue Ridge Regional Medical Center]] under the care of neonatologist [[PROVIDER|Dr. Robert Kim]] for mild respiratory distress and feeding difficulties requiring a nasogastric tube. Mother reports no known complications since NICU discharge. [[CHILD|Mateo]]'s pediatrician, [[PROVIDER|Dr. Patricia Chen]], has followed him since birth and noted during a visit on [[DATE|01/09/2024]] that his receptive and expressive language milestones appeared delayed relative to norms. An ENT evaluation with [[PROVIDER|Dr. Michael Osei]] on [[DATE|November 3, 2024]] ruled out hearing loss; tympanometry was within normal limits bilaterally, and [[CHILD|Mateo]] passed a pure-tone screening at [[KEEP|20 dB HL]] across frequencies.
+
+Mother reports no significant illnesses, no seizures, and no hospitalizations since the NICU stay. [[CHILD|Mateo]] takes no current medications. Family medical history is notable for a maternal uncle with a reported "problema del habla" (speech problem) as a child, per report from [[FAMILY|Rosa Flores]], [[CHILD|Mateo]]'s abuela (maternal grandmother), who lives with the family and assists with childcare three days a week.
+
+3.2 Developmental History
+
+Per parent report, [[CHILD|Mateo]] sat independently at [[KEEP|6 months]], walked independently at [[KEEP|14 months]], and said his first words around [[KEEP|18 months]], later than his older sister. Mother reports that single-word vocabulary did not expand meaningfully until around [[KEEP|26 months]], and that two-word combinations did not emerge consistently until closer to [[KEEP|34 months]]. [[PARENT|Lucía Rodríguez Ramos]] stated, "siempre entendía todo lo que le decíamos, pero no podía decirnos lo que quería" ("he always understood everything we told him, but he couldn't tell us what he wanted").
+
+4. FAMILY AND LANGUAGE HISTORY / HISTORIA FAMILIAR Y LINGÜÍSTICA
+
+[[CHILD|Mateo]] lives at home with his mother, [[PARENT|Lucía Rodríguez Ramos]]; his father, [[PARENT|Carlos Ramos Flores]]; his older sister, [[SIBLING|Valentina Ramos]], age 7, who attends second grade at [[SCHOOL|Pinewood Elementary School]]; and his younger brother, [[SIBLING|Diego Ramos]], age 1. His maternal grandmother, [[FAMILY|Rosa Flores]], lives in the home and is a primary caregiver during the day, alongside an occasional babysitter, [[FAMILY|Esperanza Cruz]], who watches [[CHILD|Mateo]] and his siblings on weekend evenings.
+
+The home language environment is bilingual. [[PARENT|Lucía Rodríguez Ramos]] reports speaking primarily Spanish with the children, estimating approximately [[KEEP|70%]] Spanish and [[KEEP|30%]] English input at home. [[PARENT|Carlos Ramos Flores]] speaks a mix of both languages, code-switching frequently, and reports, "yo le hablo en los dos, pero a veces se me sale todo en inglés en el trabajo" ("I speak to him in both, but sometimes it all comes out in English because of work"). [[PARENT|Carlos Ramos Flores]] is employed at [[ORG|Southeastern Freight Lines]], and [[PARENT|Lucía Rodríguez Ramos]] works part-time at the [[ORG|Food Lion Distribution Center]] in [[PLACE|Garner]]. [[FAMILY|Rosa Flores]] speaks exclusively Spanish with the children. At [[DAYCARE|Little Sprouts Early Learning Center]], instruction is delivered primarily in English, giving [[CHILD|Mateo]] roughly 25-30 hours per week of English-dominant input outside the home.
+
+Mother reports that [[CHILD|Mateo]] mixes languages within sentences at home ("code-switching"), for example saying "quiero el ball" instead of "quiero la pelota." She does not view this as unusual, noting that his older sister, [[SIBLING|Valentina Ramos]], did the same at a similar age and later became fully bilingual with age-appropriate skills in both languages.
+
+The family receives support through [[AGENCY|Smart Start of Wake County]] for early childhood resources and has an open case with the [[AGENCY|Wake County CDSA]] for developmental services coordination, managed by [[PROVIDER|Brenda Whitfield]]. The family was also connected with [[AGENCY|WIC]] services during [[CHILD|Mateo]]'s infancy.
+
+At [[DAYCARE|Little Sprouts Early Learning Center]], [[CHILD|Mateo]]'s teachers, Ms. [[TEACHER|Amanda Lopez]] and Sra. [[TEACHER|Carmen Torres]], report he is social and plays well with peers but is frequently misunderstood, especially by unfamiliar listeners. A classmate, [[PEER|Ethan Brooks]], reportedly often says "I don't know what he's saying" during group play, according to Ms. [[TEACHER|Lopez]]. [[CHILD|Mateo]] has one close friend at daycare, [[PEER|Sofía Nuñez]], who mother reports "siempre le entiende, no sé cómo" ("always understands him, I don't know how").
+
+The family has a pet dog. During the home observation portion of testing, [[CHILD|Mateo]] pointed at the dog and said "[[PET|Rocky]] kowwe" for "[[PET|Rocky]] corre" (the dog runs), illustrating difficulty with the liquid /r/ sound in both languages.
+
+5. ASSESSMENT PROCEDURES
+
+The following standardized and informal measures were administered across two sessions, on [[DATE|3 de marzo de 2025]] (initial contact and intake) and the formal testing dates of [[DATE|September 8, 2025]] and [[DATE|September 15, 2025]], at the CBSLS clinic located at [[PLACE|1420 Falls Pointe Drive, Suite 220]], [[PLACE|Raleigh]], NC [[PLACE|27609]]:
+
+- [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], Spanish and English editions
+- [[KEEP|Clinical Evaluation of Language Fundamentals Preschool-3 (CELF Preschool-3)]]
+- [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition (GFTA-3)]]
+- [[KEEP|Bilingual English Spanish Assessment (BESA)]]
+- Spontaneous language sample (English and Spanish contexts)
+- Oral-motor examination
+- Hearing screening review (records from [[PROVIDER|Dr. Michael Osei]])
+- Parent interview and [[KEEP|Hanen]]-informed caregiver questionnaire
+- Clinical observation at [[DAYCARE|Little Sprouts Early Learning Center]] on [[DATE|September 10, 2025]] at [[TIME|9:30 AM]]
+
+[[PROVIDER|Daniela Fuentes]] administered all measures. [[PROVIDER|Jorge Santos]] interpreted for portions of the parent interview on [[DATE|September 15, 2025]] when [[PARENT|Carlos Ramos Flores]] was present, to ensure both parents could contribute fully in their preferred language.
+
+6. TEST RESULTS / RESULTADOS DE LAS PRUEBAS
+
+6.1 Standardized Testing Summary
+
+Test / Subtest | Date Administered | Standard Score | 95% CI | Percentile
+PLS-5 (English), Auditory Comprehension | [[DATE|09/08/2025]] | [[KEEP|76]] | [[KEEP|70-82]] | [[KEEP|5th]]
+PLS-5 (English), Expressive Communication | [[DATE|09/08/2025]] | [[KEEP|68]] | [[KEEP|61-75]] | [[KEEP|2nd]]
+BESA, Spanish Morphosyntax | [[DATE|09/15/2025]] | [[KEEP|79]] | [[KEEP|73-85]] | [[KEEP|8th]]
+BESA, Spanish Phonology | [[DATE|09/15/2025]] | [[KEEP|81]] | [[KEEP|74-88]] | [[KEEP|10th]]
+CELF Preschool-3, Core Language Score | [[DATE|09/08/2025]] | [[KEEP|71]] | [[KEEP|65-77]] | [[KEEP|3rd]]
+GFTA-3, Standard Score | [[DATE|09/15/2025]] | [[KEEP|65]] | [[KEEP|58-72]] | [[KEEP|1st]]
+
+Age equivalents derived from the PLS-5 Expressive Communication subscale fell within the [[KEEP|2;6–3;0]] range, representing a gap of [[KEEP|19-25 months]] below [[CHILD|Mateo]]'s chronological age of [[KEEP|4;7]].
+
+6.2 Articulation and Phonology
+
+On the GFTA-3, [[CHILD|Mateo]] demonstrated the following sound errors, consistent across English and Spanish contexts: final consonant deletion of /s/, gliding of /l/ and /r/ to [[KEEP|[w]]] (e.g., target "pelota" produced as "pewota"), and stopping of /f/ to [[KEEP|[p]]]. During the spontaneous language sample, [[CHILD|Mateo]] produced the target word "sopa" as "[[KEEP|topa]]," and "flor" as "[[KEEP|pol]]." Intelligibility to an unfamiliar listener was judged to be approximately [[KEEP|40%]] in connected speech.
+
+On a 10-trial probe of word-initial /k/ production with [[KEEP|mod cues]], [[CHILD|Mateo]] achieved [[KEEP|8/10]] ([[KEEP|80%]]) accuracy, suggesting stimulability for this sound with support. On a comparable probe for /r/, he achieved [[KEEP|3 of 5]] trials correct with [[KEEP|max cues]], indicating this sound remains significantly more difficult.
+
+6.3 Language Sample Analysis
+
+A 50-utterance spontaneous language sample was coded using SALT conventions. Mean length of utterance (MLU) in English was [[KEEP|2.8 morphemes]], and in Spanish was [[KEEP|3.1 morphemes]], both below age expectations. Several utterances were coded [[KEEP|[EW]]] for word-finding difficulty, and [[CHILD|Mateo]] frequently relied on gesture to supplement verbal output when a target word was not accessible.
+
+7. CLINICAL IMPRESSIONS / IMPRESIONES CLÍNICAS
+
+[[CHILD|Mateo]] presents with a mixed receptive-expressive language disorder affecting both English and Spanish, alongside a moderate-to-severe speech sound disorder affecting intelligibility in both languages. His difficulties are not attributable to his bilingual environment; weaknesses were documented across both English and Spanish measures using instruments normed for bilingual populations (BESA), ruling out typical second-language acquisition patterns or normal cross-linguistic transfer as the sole explanation.
+
+[[CHILD|Mateo]]'s pattern of errors—gliding of liquids, final consonant deletion, and reduced intelligibility across both languages—along with below-average scores in both receptive and expressive language domains in both languages, is consistent with a true bilingual language impairment rather than a language difference. Hearing has been ruled out as a contributing factor per [[PROVIDER|Dr. Michael Osei]]'s records. Oral-motor structure and function were within normal limits, with no evidence of dysarthria or significant oral-motor weakness; findings are inconsistent with childhood apraxia of speech, though mild groping behaviors were noted on a small number of multisyllabic word attempts and should continue to be monitored.
+
+8. DIAGNOSTIC IMPRESSION
+
+Based on the results of this evaluation, [[CHILD|Mateo]] meets diagnostic criteria for:
+
+- [[KEEP|F80.2]] — Mixed Receptive-Expressive Language Disorder
+- [[KEEP|F80.0]] — Phonological Disorder (Speech Sound Disorder)
+
+These diagnoses are supported by standardized testing at or below the [[KEEP|10th percentile]] across multiple domains in both of [[CHILD|Mateo]]'s languages, parent and teacher report of functional communication difficulty, and direct clinical observation.
+
+9. RECOMMENDATIONS / RECOMENDACIONES
+
+9.1 It is recommended that [[CHILD|Mateo]] receive individual speech-language therapy twice weekly, 30 minutes per session, billed under CPT code [[KEEP|92507]], targeting:
+- Expansion of expressive vocabulary and syntax in both English and Spanish
+- Remediation of /r/, /l/, /f/, and final consonant production in both languages
+- Narrative and sequencing skills to support preliteracy development
+- Continued monitoring for oral-motor planning difficulties
+
+9.2 CBSLS recommends bilingual service delivery, with therapy conducted in both English and Spanish, consistent with the family's home language environment and best practice for bilingual language disorder intervention. [[PROVIDER|Daniela Fuentes]] is available to continue as the treating clinician given her bilingual certification.
+
+9.3 It is recommended that the [[AGENCY|Wake County CDSA]], through service coordinator [[PROVIDER|Brenda Whitfield]], update [[CHILD|Mateo]]'s IFSP to reflect new outcome [[KEEP|Outcome 3]]: improving expressive and receptive language skills in both English and Spanish across home and daycare settings, with a review date of [[DATE|March 2026]].
+
+9.4 Staff at [[DAYCARE|Little Sprouts Early Learning Center]], including Ms. [[TEACHER|Amanda Lopez]] and Sra. [[TEACHER|Carmen Torres]], should be provided with strategies to support intelligibility, including requesting repetition, modeling target words, and allowing extra response time.
+
+9.5 Family is encouraged to continue rich language exposure in both English and Spanish at home; current bilingual exposure should be maintained, not reduced, as bilingualism is not contributing to [[CHILD|Mateo]]'s disorder.
+
+9.6 Re-evaluation is recommended in approximately 12 months, or sooner if progress plateaus, tentatively scheduled for the week of [[DATE|September 14, 2026]].
+
+9.7 A copy of this report should be forwarded to [[PROVIDER|Dr. Patricia Chen]]'s office and to the [[AGENCY|Wake County CDSA]] file for [[CHILD|Mateo]], Record ID [[ID|LD-24-00871]], Medicaid ID [[MEDICAID_ID|987654321B]].
+
+10. SIGNATURES
+
+This report was prepared by [[PROVIDER|Daniela Fuentes]], M.S., CCC-SLP, bilingual Speech-Language Pathologist, on behalf of Carolina Bilingual Speech & Language Services, PLLC (CBSLS), [[PLACE|1420 Falls Pointe Drive, Suite 220]], [[PLACE|Raleigh]], NC [[PLACE|27609]]. Questions regarding this report may be directed to CBSLS at [[PHONE|(919) 555-0177]] or [[EMAIL|dfuentes@carolinabilingualslp.com]].
+
+___________________________
+[[PROVIDER|Daniela Fuentes]], M.S., CCC-SLP
+Carolina Bilingual Speech & Language Services, PLLC
+
+Report completed: [[DATE|09/22/2025]]
+Distribution: Family; [[PROVIDER|Dr. Patricia Chen]]; [[AGENCY|Wake County CDSA]]; [[DAYCARE|Little Sprouts Early Learning Center]] (with parental consent)

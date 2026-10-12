@@ -1,0 +1,9 @@
+Nota de sesión diaria:  Fecha: [[DATE|10/08/2026]]  Clínica: [[HOSPITAL|UNC Health Rex Audiology & ENT, Campus Raleigh]]  Paciente: [[CHILD|Camila Ortiz]]  Edad: [[KEEP|4;2]]  ID de caso: [[ID|RX-77214K]]  Terapeuta: [[PROVIDER|Diana Salcedo]], CCC-SLP  Hora de inicio: [[TIME|3:30 p.m.]]  Hora de fin: [[TIME|4:15 p.m.]]
+
+S: [[CHILD|Camila]] llegó acompañada de su mamá, [[PARENT|Rosa Ortiz]], quien trabaja de noche en [[ORG|Food Lion Distribution Center]] y además hace turnos extra para [[ORG|DSP]] limpiando oficinas; por eso dos empleos. El papá, [[PARENT|Héctor Ortiz]], no pudo asistir porque trabajaba en [[TIME|2:00 p.m.]] turno en la fábrica. La abuela [[FAMILY|Marisol]] cuida a [[CHILD|Camila]] las tardes cuando mamá duerme.
+
+O: Se trabajó [[KEEP|PROMPT]] y [[KEEP|Cycles]] para los fonemas /k/ y /g/. En producción dirigida, [[CHILD|Camila]] produjo "casa" como [w]asa con [[KEEP|mod cues]], mejorando a [[KEEP|8/10]] ensayos con [[KEEP|min cues]] al final de la sesión. Se administró porción de [[KEEP|CELF-5]], subprueba [[KEEP|Formulación de Oraciones]]: puntaje estándar [[KEEP|79]], percentil [[KEEP|8]]. También comparó con evaluación previa en [[HOSPITAL|UNC Health Children's Pediatric Clinic]].
+
+A: [[CHILD|Camila]] muestra progreso en [[KEEP|/k/]] inicial en sílabas, aún con omisión de /g/ final en [[KEEP|3 de 5]] ítems. Su hermano mayor, [[SIBLING|Emilio]], a veces imita los errores en casa según reporta mamá.
+
+P: Continuar [[KEEP|PROMPT]] semanal, 30 min. Próxima cita [[DATE|10/15/2026]] a las [[TIME|3:30 p.m.]]. Se notificará a coordinadora de [[AGENCY|CDSA del Triángulo]], [[PROVIDER|Karen Whitfield]], sobre progreso para revisión de IFSP meta [[KEEP|#2]]. Contacto: [[PHONE|919-555-0147]].

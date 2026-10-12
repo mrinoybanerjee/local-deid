@@ -1,0 +1,13 @@
+# Model weights (pinned by hash in models/MANIFEST.json; fetched by tools/fetch_models.py)
+models/*/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+# Harness output is regenerated; summaries are committed under reports/harness/
+harness/out/
+data/devtest/

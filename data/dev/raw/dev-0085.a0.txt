@@ -1,0 +1,53 @@
+NOTA DE SESIÓN DIARIA
+
+**DATOS DEL PACIENTE**
+- Niño: [[CHILD|Mateo Fernández]] (también conocido como [[CHILD|Teo]])
+- Fecha de nacimiento: [[DATE|9 de abril de 2021]]
+- Edad: 5;6
+- ID de caso: [[ID|NC-885421-A]]
+- Número de Medicaid: [[MEDICAID_ID|774215893B]]
+- Fecha de la sesión: [[DATE|3 de marzo de 2025]]
+- Hora: [[TIME|3:30 p.m.]]
+- Lugar: domicilio familiar, [[PLACE|482 Willow Creek Lane]], [[PLACE|Cary]], [[PLACE|NC]] [[PLACE|27511]]
+
+**PARTICIPANTES**
+- Madre: [[PARENT|Carolina Fernández]]
+- Hermana: [[SIBLING|Luz Fernández]], de 8 años
+- Terapeuta del habla y lenguaje: [[PROVIDER|Isabel Marte, M.S., CCC-SLP]]
+- Coordinadora de servicios de [[AGENCY|CDSA Triángulo Central]]: [[PROVIDER|Diana Ocampo]]
+
+**ANTECEDENTES**
+- La familia reporta que [[CHILD|Teo]] jugó el [[DATE|martes 4 de marzo]] con su amigo del vecindario, [[PEER|Benjamín Soto]], y repitió varias palabras nuevas.
+- La mamá menciona que la niñera, [[FAMILY|Esperanza Gutiérrez]], también practica actividades de lenguaje con él por las tardes.
+- El perro de la familia, [[PET|Rocky]], estuvo presente durante la sesión.
+- Próxima revisión del IFSP programada para el [[DATE|15 de abril de 2025]].
+
+**S — SUBJETIVO**
+- La mamá, [[PARENT|Carolina Fernández]], indica que [[CHILD|Teo]] dijo "pato" espontáneamente al ver un dibujo.
+- Reporta que en la guardería [[DAYCARE|Pequeños Pasos Bilingual Daycare]], la maestra [[TEACHER|Srta. Ramírez]] notó mejoría en la atención conjunta.
+- La familia contactó a la clínica por correo: [[EMAIL|familiafernandez2024@gmail.com]] para reprogramar la cita del [[DATE|12/03/2025]].
+
+**O — OBJETIVO**
+- Producción de /p/ en posición inicial: 8/10 ensayos con claves mod cues.
+- Imitación de la palabra "mamá" → produjo [m̥a], aproximación aceptable.
+- Vocabulario expresivo: 42% de palabras diana producidas sin apoyo.
+- Uso de SALT [EW] observado en dos emisiones espontáneas.
+- Se administró lista corta de PLS-5, puntuación estándar 78, percentil 7.
+
+**A — ANÁLISIS**
+- [[CHILD|Teo]] muestra progreso constante en consonantes bilabiales.
+- La comparación con su hermana [[SIBLING|Luz Fernández]] a la misma edad indica un patrón típico de desarrollo bilingüe.
+- Se recomienda seguimiento con el pediatra, [[PROVIDER|Dr. Esteban Villalobos]], en el [[HOSPITAL|Hospital Pediátrico de Wake County]].
+
+**P — PLAN**
+- Continuar sesiones semanales los jueves a las [[TIME|4:00 p.m.]].
+- Enviar materiales a través del portal: [[URL|www.habla-ayuda-nc.org]].
+- Coordinar con la empresa de la madre, [[ORG|Triangle Health Systems]], para ajustar horarios de citas.
+- Contactar a [[AGENCY|WIC]] para apoyo nutricional adicional, según lo sugerido por [[PROVIDER|Diana Ocampo]].
+- Revisión de progreso programada para [[DATE|el 1 de mayo de 2025]].
+
+**NOTAS ADICIONALES**
+- La familia desea involucrar más a la prima, [[FAMILY|Sol Fernández]], quien visita los fines de semana y habla inglés con [[CHILD|Teo]].
+- Se solicitó autorización número [[ID|AUTH-55213X]] para continuar servicios bajo [[AGENCY|Medicaid de Carolina del Norte]].
+- Terapeuta: [[PROVIDER|Isabel Marte]], empleada de [[EMPLOYER|Carolina Bilingual Therapy Partners, LLC]].
+- Teléfono de contacto de la clínica: [[PHONE|(919) 555-0148]].

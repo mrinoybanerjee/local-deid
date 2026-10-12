@@ -1,0 +1,93 @@
+speech and language evaluation report
+
+child: [[CHILD|mateo alejandro flores vega]]
+preferred name: [[CHILD|mateo]]
+date of birth: [[DATE|april 9 2022]]
+chronological age at evaluation: [[KEEP|4;2]]
+evaluation dates: [[DATE|june 9 2026]] and [[DATE|june 11 2026]]
+report completed: [[DATE|june 15 2026]]
+record number: [[ID|cbs-00482]]
+medicaid member id: [[MEDICAID_ID|9384721056a]]
+prior authorization number: [[ID|pa-7729104]]
+primary language of the home: spanish with increasing english exposure
+referring physician: dr [[PROVIDER|patricia nguyen]] pediatrics
+evaluating clinician: [[PROVIDER|elena castillo]] m.s. ccc-slp bilingual spanish english
+clinic of record: [[EMPLOYER|carolina bilingual speech therapy pllc]]
+parent/guardian: [[PARENT|lucía rodríguez flores]] mother and [[PARENT|carlos flores mejía]] father
+home address: [[PLACE|4821 old pineville road]] [[PLACE|charlotte]] nc [[PLACE|28217]]
+home phone: [[PHONE|704-555-0148]]
+mother cell: [[PHONE|704-555-0162]]
+mother email: [[EMAIL|lucia.flores82@gmail.com]]
+
+reason for referral
+
+mateo was referred for a comprehensive bilingual speech and language evaluation by dr [[PROVIDER|patricia nguyen]] at [[HOSPITAL|atrium health pediatrics university city]] after his eighteen month well child check showed limited expressive vocabulary and his mother [[PARENT|lucía rodríguez flores]] reported ongoing concern that he was not combining words the way his older sister [[SIBLING|sol]] did at the same age the family learned about this clinic from a friend [[PERSON|diana suarez]] whose own son received services here about two years ago and recommended [[PROVIDER|elena castillo]] directly the family was also connected with [[AGENCY|mecklenburg county children's developmental services agency]] the cdsa office for early intervention service coordination through [[PROVIDER|yesenia ortiz]] the service coordinator who has been following the family since [[DATE|november 2023]] and a brief referral was also made to [[AGENCY|mecklenburg county smart start]] for a parenting and language stimulation class which the mother has not yet attended due to her work schedule
+
+birth and medical history
+
+mateo was born on [[DATE|april 9 2022]] at [[HOSPITAL|atrium health levine children's hospital myers park campus]] at [[KEEP|35 weeks]] gestation following a pregnancy complicated by preeclampsia his birth weight was [[KEEP|4 pounds 11 ounces]] and his apgar scores were [[KEEP|6]] and [[KEEP|8]] at one and five minutes he spent [[KEEP|19 days]] in the nicu at the same campus for respiratory support and feeding difficulty and was followed after discharge by dr [[PROVIDER|samuel ahn]] neonatology his mother reports no other complications during the pregnancy and no family history of hearing loss or speech delay on either side though she notes that her own brother [[FAMILY|hope ramos]] did not begin talking until he was almost three and eventually grew out of it without any formal services early motor milestones were mildly delayed with independent walking achieved around [[KEEP|16 months]] and his pediatrician monitored low muscle tone through his second year though a referral to physical therapy was not pursued because the family felt he was progressing on his own
+
+mateo was seen for an audiological evaluation on [[DATE|march 3 2025]] at [[HOSPITAL|atrium health ent and audiology ballantyne campus]] by dr [[PROVIDER|michael sato]] audiology following parent report of frequent ear infections results showed [[KEEP|normal hearing sensitivity bilaterally]] with [[KEEP|type a]] tympanograms bilaterally and no further audiology follow up was recommended at that time however he has had [[KEEP|four]] documented episodes of otitis media since [[DATE|2023]] and was seen by dr [[PROVIDER|rina patel]] ent at the same campus who placed bilateral [[KEEP|pe tubes]] on [[DATE|july 14 2024]] under general anesthesia cpt code [[KEEP|69436]] with no complications a follow up ent visit on [[DATE|january 9 2025]] confirmed the tubes were in place and functioning well and middle ear status has remained stable since
+
+family and language history
+
+the family lives at [[PLACE|4821 old pineville road]] in [[PLACE|charlotte]] in a three bedroom apartment with mateo his parents and his older sister [[SIBLING|sol]] who is [[KEEP|7]] years old and attends second grade at [[SCHOOL|highland creek elementary school]] where she is reportedly doing well academically sol was also evaluated for speech services as a toddler and was discharged after meeting all of her goals so the mother has some frame of reference for what therapy progress can look like mateo's mother [[PARENT|lucía rodríguez flores]] works the night shift at [[ORG|compass fiber manufacturing]] and his father [[PARENT|carlos flores mejía]] works during the week for [[ORG|green valley landscaping]] the family relies heavily on mateo's grandmother [[FAMILY|rosa mejía de flores]] who lives with them and provides most of the daytime childcare rosa speaks only spanish to mateo and reports that he understands her well but mostly responds in single words or gestures the family also has a dog named [[PET|paz]] who mateo is very attached to and often tries to call by making an open mouth vowel sound that his mother interprets as an attempt at her name
+
+language exposure at home is estimated at about [[KEEP|70 percent]] spanish and [[KEEP|30 percent]] english per parent report mateo was cared for primarily in spanish until he began attending [[DAYCARE|little sprouts bilingual academy]] at [[KEEP|18 months]] of age where he is currently in a classroom with his teacher ms [[TEACHER|jennifer lopez]] and an assistant teacher mr [[TEACHER|david kim]] his teacher reports that he is affectionate and social with peers but is sometimes hard to understand and gets frustrated when peers do not know what he wants one classmate in particular named [[PEER|liam park]] is reported to often speak for mateo in group activities which the teacher feels may be reducing mateo's own spontaneous attempts to communicate the mother also shared that mateo's paternal aunt [[FAMILY|luz flores mejía]] who lives nearby and visits weekly often finishes his sentences for him when he gets stuck which has become a topic of gentle disagreement between her and the mother regarding how much support is helpful
+
+mateo's father [[PARENT|carlos flores mejía]] was born and raised in the village of [[PLACE|la esperanza]] in the department of [[PLACE|intibucá]] honduras near the family home at [[PLACE|barrio el calvario]] and the family still has close relatives there including mateo's paternal grandfather the family visited for [[KEEP|three weeks]] in the summer of [[DATE|2024]] during that trip mateo's exposure to spanish increased substantially per parent report and his father feels this trip helped his spanish vocabulary mateo's mother also reports a prior speech and language screening at [[KEEP|2 years 6 months]] of age through the cdsa initial intake which flagged concerns but did not meet criteria for immediate enrollment at that time and he was placed on a monitoring plan before full eligibility testing occurred the following year
+
+early intervention and developmental services
+
+mateo was found eligible for early intervention services through [[AGENCY|mecklenburg county children's developmental services agency]] with an ifsp dated [[DATE|december 2 2023]] his current ifsp outcome [[KEEP|outcome 2]] addresses expressive language and ifsp outcome [[KEEP|outcome 3]] addresses speech sound intelligibility his service coordinator [[PROVIDER|yesenia ortiz]] has conducted the required six month reviews with the most recent review completed on [[DATE|may 20 2026]] he currently receives individual speech therapy through [[EMPLOYER|carolina bilingual speech therapy pllc]] with his treating clinician [[PROVIDER|elena castillo]] and he also receives occupational therapy through a separate contracted agency with [[PROVIDER|brittany sanders]] ot addressing fine motor and self feeding skills
+
+current therapy and school schedule
+
+day | start time | stop time | location
+monday | [[TIME|9:00 am]] | [[TIME|9:45 am]] | [[EMPLOYER|carolina bilingual speech therapy pllc]] [[PLACE|south park office]]
+wednesday | [[TIME|3:30 pm]] | [[TIME|4:15 pm]] | [[DAYCARE|little sprouts bilingual academy]] classroom on [[PLACE|east boulevard]]
+friday | [[TIME|10:00 am]] | [[TIME|10:45 am]] | flores family home [[PLACE|4821 old pineville road]]
+every other tuesday | [[TIME|1:00 pm]] | [[TIME|1:30 pm]] | occupational therapy at [[PLACE|south park office]]
+
+assessment procedures and results
+
+mateo was assessed using a combination of standardized and informal measures administered in both spanish and english with support from bilingual interpreter [[PROVIDER|mariana flores]] no relation to the family who assisted with administration of parent interview items and cross checking of spanish responses billing for the evaluation session was submitted under cpt codes [[KEEP|92523]] and [[KEEP|92522]] mateo separated from his grandmother [[FAMILY|rosa mejía de flores]] easily and engaged readily with toys and picture materials he required frequent redirection to remain seated and his attention was judged to be age appropriate for the testing context
+
+test | domain | standard score | percentile | age equivalent
+[[KEEP|preschool language scales fifth edition (pls-5) spanish]] | [[KEEP|auditory comprehension]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|2;9]]
+[[KEEP|pls-5 spanish]] | [[KEEP|expressive communication]] | [[KEEP|72]] | [[KEEP|3rd percentile]] | [[KEEP|2;6]]
+[[KEEP|pls-5 english]] | [[KEEP|auditory comprehension]] | [[KEEP|81]] | [[KEEP|10th percentile]] | [[KEEP|3;0]]
+[[KEEP|pls-5 english]] | [[KEEP|expressive communication]] | [[KEEP|75]] | [[KEEP|5th percentile]] | [[KEEP|2;9]]
+[[KEEP|goldman fristoe test of articulation third edition (gfta-3)]] | [[KEEP|sounds in words]] | [[KEEP|68]] | [[KEEP|2nd percentile]] | [[KEEP|2;3]]
+
+on the [[KEEP|pls-5]] spanish form mateo obtained an auditory comprehension standard score of [[KEEP|78]] falling in the [[KEEP|7th percentile]] and an expressive communication standard score of [[KEEP|72]] falling in the [[KEEP|3rd percentile]] with a confidence interval of [[KEEP|65-79]] on the english form his auditory comprehension standard score was [[KEEP|81]] at the [[KEEP|10th percentile]] and his expressive communication standard score was [[KEEP|75]] at the [[KEEP|5th percentile]] with a confidence interval of [[KEEP|68-82]] indicating a relative strength in english comprehension but delays present across both languages which supports a true language disorder rather than typical second language acquisition by comparison his screening scores at [[KEEP|2;6]] on an informal checklist were reported as [[KEEP|below the 10th percentile]] in both languages so his composite scores today reflect some gains since that time though he remains well below expectations
+
+on the [[KEEP|gfta-3]] mateo scored [[KEEP|68]] standard score falling at the [[KEEP|2nd percentile]] with an age equivalent of [[KEEP|2;3]] he demonstrated consistent substitution of [[KEEP|/k/]] for [[KEEP|/t/]] and [[KEEP|/g/]] for [[KEEP|/d/]] a fronting pattern as well as final consonant deletion for example he produced [[KEEP|"ba"]] for the target word [[KEEP|"ball"]] and [[KEEP|"ca"]] for the target word [[KEEP|"cup"]] stimulability testing showed he could approximate [[KEEP|[k]]] in isolation with [[KEEP|moderate cues]] but not yet in words his intelligibility in connected speech was estimated at [[KEEP|40 percent]] to unfamiliar listeners and [[KEEP|65 percent]] to familiar listeners his mother [[PARENT|lucía rodríguez flores]] reports that at home he is understood more easily by [[FAMILY|rosa mejía de flores]] than by his father [[PARENT|carlos flores mejía]] who is away from home most of the week
+
+informal language sampling showed mateo using primarily single words and occasional two word combinations such as [[KEEP|"mas agua"]] and [[KEEP|"no quiero"]] he demonstrated frequent word final consonant omissions coded as [[KEEP|[EW]]] throughout the sample per salt coding conventions and required [[KEEP|moderate cues]] to imitate three word models and [[KEEP|maximal cues]] to imitate four word models his mean length of utterance was calculated at approximately [[KEEP|1.4 morphemes]] which falls well below expectations for a child his age in either language he produced roughly [[KEEP|3 of 5]] trial targets correctly when given a visual and verbal model and about [[KEEP|8 of 10]] single words correctly when naming familiar objects spontaneously
+
+oral mechanism exam was within normal limits for structure and function with adequate range of motion of the articulators no concerns were noted for feeding or swallowing at this time and no drooling or oral motor weakness was observed mateo's weight and growth have been appropriate per his most recent pediatric visit on [[DATE|may 28 2026]] with dr [[PROVIDER|patricia nguyen]] a brief voice and fluency screening was also conducted and was unremarkable with no concerns for stuttering, vocal quality, or resonance noted by either parent or clinician
+
+impressions
+
+based on standardized testing parent and teacher report and informal observation mateo presents with a mixed receptive expressive language disorder affecting both spanish and english consistent with icd-10 code [[KEEP|f80.2]] mixed receptive expressive language disorder he also presents with a phonological disorder consistent with icd-10 code [[KEEP|f80.0]] phonological disorder his difficulties are not attributable to typical bilingual language development given that delays are documented across both of his languages rather than isolated to one he continues to meet criteria for ongoing speech and language services under his current ifsp through [[AGENCY|mecklenburg county children's developmental services agency]] his strengths include good social engagement, intact hearing, a supportive and motivated family, and a stable childcare arrangement with his grandmother [[FAMILY|rosa mejía de flores]] which should support consistent carryover of home strategies
+
+recommendations
+
+1 continue individual speech and language therapy twice weekly focusing on expressive vocabulary growth, two word combinations, and phonological awareness using a combination of [[KEEP|hanen]] parent coaching strategies and the [[KEEP|cycles]] phonological approach
+2 incorporate [[KEEP|prompt]] tactile cueing to support articulatory placement for fronted sounds
+3 continue bilingual service delivery alternating spanish and english sessions to support both languages equally rather than favoring one
+4 refer for a repeat audiological evaluation in [[KEEP|six months]] given his history of recurrent otitis media and prior pe tube placement
+5 provide parent training using [[KEEP|hanen]] it takes two to talk strategies to increase responsive communication at home including with his grandmother [[FAMILY|rosa mejía de flores]]
+6 continue close collaboration with [[DAYCARE|little sprouts bilingual academy]] staff including ms [[TEACHER|jennifer lopez]] and mr [[TEACHER|david kim]] to support carryover of targets in the classroom and to reduce peer over-interpreting such as that described with [[PEER|liam park]]
+7 encourage extended family members including [[FAMILY|luz flores mejía]] to use expectant pauses and wait time rather than finishing mateo's sentences for him
+8 reassess in approximately [[KEEP|six months]] to monitor progress and determine continued eligibility for services under his ifsp
+
+summary and disposition
+
+this report has been reviewed with the family and a copy has been forwarded to [[PROVIDER|yesenia ortiz]] service coordinator at [[AGENCY|mecklenburg county children's developmental services agency]] and to dr [[PROVIDER|patricia nguyen]] at [[HOSPITAL|atrium health pediatrics university city]] please direct any questions regarding this report to [[PROVIDER|elena castillo]] m.s. ccc-slp at [[EMPLOYER|carolina bilingual speech therapy pllc]] she can be reached at [[PHONE|704-555-0199]] or by email at [[EMAIL|elena.castillo@carolinabilingualslp.com]] additional information about services, scheduling, and insurance is available at [[URL|www.carolinabilingualslp.com]]
+
+[[PROVIDER|elena castillo]] m.s. ccc-slp
+bilingual spanish english speech language pathologist
+license number [[ID|nc-slp-048213]]
+report completed [[DATE|june 15 2026]]

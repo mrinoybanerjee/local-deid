@@ -1,0 +1,128 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+INDIVIDUALIZED FAMILY SERVICE PLAN — SIX-MONTH REVIEW
+
+DEMOGRAPHIC AND FAMILY INFORMATION
+- Child's Name: [[CHILD|María José Hernández Castillo]], called "[[CHILD|Majo]]" at home
+- Date of Birth: [[DATE|April 2, 2024]] (chronological age [[KEEP|2;6]] at the time of this review)
+- Gestational age at birth: [[KEEP|34 weeks]]; birth weight [[KEEP|4 lbs 11 oz]]; Apgar scores [[KEEP|7 and 8]]
+- Medicaid ID: [[MEDICAID_ID|5839201746B]]
+- CDSA Case Number: [[ID|CT-204857]]
+- Primary language(s) in the home: Spanish and English (Spanish-dominant)
+- Home address: [[PLACE|118 Willow Creek Lane]], [[PLACE|Garner]], NC [[PLACE|27529]], [[PLACE|Wake County]]
+- Home phone: [[PHONE|(919) 555-0148]]
+- Mother: [[PARENT|Lucía Castillo Reyes]], age 29. Mom works nights at [[ORG|Cardinal Glass Industries]] as a line packer, 11 p.m. to 7 a.m., four nights a week.
+- Father: [[PARENT|Marcos Hernández Ortiz]], age 31. Dad works days as a warehouse associate at [[ORG|Southeastern Freight Lines]].
+- Sibling: [[SIBLING|Sol]], age 6, [[CHILD|Majo]]'s older sister, attends first grade at [[SCHOOL|Aversboro Elementary School]].
+- Maternal grandmother: [[FAMILY|Rosa Castillo]], lives nearby and provides childcare on the nights [[PARENT|Lucía Castillo Reyes]] works.
+- Family pet: a small dog named [[PET|Canela]] who [[CHILD|Majo]] likes to feed.
+- [[CHILD|Majo]] attends [[DAYCARE|Honeybee Hollow Early Learning]] three days a week, [[TIME|8:00 a.m.]] to [[TIME|4:00 p.m.]], in the toddler room with lead teacher [[TEACHER|Ms. Patrice Albright]] and assistant [[TEACHER|Yolanda Benítez]].
+- Family worships at and receives weekly playgroup support through [[ORG|Iglesia Bautista Nueva Esperanza]] in [[PLACE|Garner]].
+
+SERVICE COORDINATOR
+- Service Coordinator: [[PROVIDER|Denise Falwell]], [[AGENCY|Wake County CDSA]]
+- Office location: [[AGENCY|Wake County Children's Developmental Services Agency]], [[PLACE|2819 Industry Drive]], [[PLACE|Raleigh]], NC [[PLACE|27610]]
+- Office phone: [[PHONE|(919) 555-0271]]
+- Email: [[EMAIL|dfalwell@wakecdsa.org]]
+- Interpreter present at IFSP meetings: [[PROVIDER|Guadalupe Terán]], Spanish-language interpreter contracted through [[AGENCY|Wake County CDSA]]
+
+CDSA AND EVALUATION TEAM
+- Children's Developmental Services Agency: [[AGENCY|Wake County CDSA]]
+- Initial eligibility evaluation date: [[DATE|October 14, 2025]]
+- Initial IFSP meeting date: [[DATE|October 28, 2025]]
+- This six-month review meeting date: [[DATE|April 20, 2026]]
+- Next scheduled review: [[DATE|October 20, 2026]]
+- Evaluating/treating speech-language pathologist: [[PROVIDER|Alicia Meadows]], bilingual SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+- Pediatrician: [[PROVIDER|Dr. Rafael Núñez]], [[HOSPITAL|WakeMed Children's Clinic at Brier Creek]]
+- Developmental therapist on the team: [[PROVIDER|Hannah Okafor]], [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+
+FAMILY CONCERNS AND PRIORITIES (in the family's own words, interpreted from Spanish)
+- "Nos preocupa que [[CHILD|Majo]] no hable tanto como su hermana a esta edad." ("We worry that [[CHILD|Majo]] isn't talking as much as her sister did at this age.")
+- "Ella entiende todo, pero cuando quiere algo solo señala o jala mi ropa." ("She understands everything, but when she wants something she only points or pulls on my clothes.")
+- "En la guardería le dicen que juega bien pero no se comunica mucho con los otros niños." ("At daycare they say she plays well but doesn't communicate much with the other children.")
+- "Queremos que hable los dos idiomas, español en casa e inglés en la escuela, para que no se confunda." ("We want her to speak both languages, Spanish at home and English at school, so she doesn't get confused.")
+- [[PARENT|Marcos Hernández Ortiz]] added that he wants [[CHILD|Majo]] to be able to tell him what hurts or what she needs before she starts preschool.
+- [[PARENT|Lucía Castillo Reyes]] shared that because she works nights at [[ORG|Cardinal Glass Industries]], most of the daytime caregiving and therapy carryover falls to [[FAMILY|Rosa Castillo]] and to [[PARENT|Marcos Hernández Ortiz]], and the family wants strategies that both caregivers can use consistently.
+- The family would like therapy sessions scheduled around Dad's work hours and around Grandma [[FAMILY|Rosa Castillo]]'s availability, since she drives [[CHILD|Majo]] to [[DAYCARE|Honeybee Hollow Early Learning]] most mornings.
+
+DAILY ROUTINES
+- [[TIME|6:30 a.m.]]: [[CHILD|Majo]] wakes and has breakfast with [[FAMILY|Rosa Castillo]] or [[PARENT|Marcos Hernández Ortiz]], depending on who is home.
+- [[TIME|8:00 a.m.]]: [[FAMILY|Rosa Castillo]] drives [[CHILD|Majo]] to [[DAYCARE|Honeybee Hollow Early Learning]]; [[CHILD|Majo]] is in the toddler room with eight other children, including her regular playmates [[PEER|Isla]] and [[PEER|Deshawn]].
+- Mid-morning: circle time, snack, and outdoor play at [[DAYCARE|Honeybee Hollow Early Learning]]; staff report [[CHILD|Majo]] plays near peers but rarely initiates words.
+- [[TIME|4:00 p.m.]]: pickup, usually by [[FAMILY|Rosa Castillo]] or [[PARENT|Marcos Hernández Ortiz]].
+- Afternoons: free play at home with [[SIBLING|Sol]], who likes to "teach" [[CHILD|Majo]] words from her own homework; family reports this is a favorite routine.
+- [[TIME|6:00 p.m.]]: family dinner together when both parents are home; Spanish is the primary language used at the table.
+- Bath and bedtime routine around [[TIME|7:30 p.m.]], led by whichever parent is not working that night; includes a consistent song and two books read in Spanish.
+- On nights [[PARENT|Lucía Castillo Reyes]] works at [[ORG|Cardinal Glass Industries]], [[PARENT|Marcos Hernández Ortiz]] handles the bedtime routine alone.
+- Saturday mornings: family attends a toddler playgroup hosted by [[ORG|Iglesia Bautista Nueva Esperanza]], where [[CHILD|Majo]] interacts with other bilingual toddlers and the group leader, [[PROVIDER|Mirna Osorio]].
+- Sunday afternoons: extended family gathering at [[FAMILY|Rosa Castillo]]'s house, including cousins; family notes [[CHILD|Majo]] is more vocal in this familiar setting.
+
+OTHER AGENCIES INVOLVED
+- [[AGENCY|WIC — Wake County Human Services]]: family receives nutrition support; most recent recertification [[DATE|March 3, 2026]].
+- [[AGENCY|Smart Start of Wake County]]: provided a childcare subsidy that helps cover [[CHILD|Majo]]'s tuition at [[DAYCARE|Honeybee Hollow Early Learning]].
+- [[AGENCY|Wake County Department of Social Services]]: no open case; family was referred for food assistance screening in [[DATE|January 2026]] and determined ineligible at that time.
+- [[ORG|Iglesia Bautista Nueva Esperanza]]: weekly bilingual playgroup, described above, also provides occasional transportation assistance for therapy appointments.
+- [[ORG|Southeast Regional Library]]: family attends the Saturday "Cuentos y Cantos" bilingual storytime when schedules allow, led by [[PROVIDER|librarian Teresa Whitfield]].
+
+PRESENT LEVELS OF DEVELOPMENT — COMMUNICATION
+- Most recent standardized assessment: [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5) Spanish]], administered [[DATE|April 6, 2026]] by [[PROVIDER|Alicia Meadows]].
+- Auditory Comprehension: standard score [[KEEP|76]], [[KEEP|5th percentile]], age equivalent [[KEEP|18 months]].
+- Expressive Communication: standard score [[KEEP|71]], [[KEEP|3rd percentile]], age equivalent [[KEEP|16 months]].
+- Total Language Score: [[KEEP|73]], [[KEEP|95% confidence interval 68-78]].
+- [[CHILD|Majo]] produces an estimated [[KEEP|30]] single words across both languages, primarily nouns (agua, more, mamá, perro) and no two-word combinations observed during testing.
+- During play-based sampling, [[CHILD|Majo]] produced [[KEEP|"aba"]] for agua and [[KEEP|" te"]] for leche, with final consonant deletion noted on words ending in [[KEEP|/s/]] and [[KEEP|/n/]].
+- Oral mechanism exam within normal limits; no concerns for feeding or swallowing.
+- Receptively, [[CHILD|Majo]] followed [[KEEP|8 of 10]] one-step directions in Spanish and [[KEEP|6 of 10]] in English during structured sampling.
+- Joint attention and gesture use are relative strengths; [[CHILD|Majo]] points, waves, and brings objects to adults to show them, consistent with typical [[KEEP|18-24 month]] milestones rather than her chronological age of [[KEEP|2;6]].
+- Daycare report from [[TEACHER|Ms. Patrice Albright]] echoes the pattern: [[CHILD|Majo]] uses gestures and a few English words ("more," "up," "done") but does not combine words or use short phrases like her classroom peers.
+
+OUTCOMES WITH STRATEGIES
+
+[[KEEP|Outcome 1]]: [[CHILD|Majo]] will use two-word combinations (e.g., "más agua," "mommy up") in Spanish and English across home, [[DAYCARE|Honeybee Hollow Early Learning]], and community settings, increasing from a baseline of [[KEEP|0]] spontaneous two-word combinations to [[KEEP|10]] different combinations observed across three consecutive sessions.
+- Strategy: use [[KEEP|expansion]] and [[KEEP|modeling]] in both languages; caregivers repeat [[CHILD|Majo]]'s single-word utterance and add one word ("agua" becomes "más agua").
+- Strategy: [[PROVIDER|Alicia Meadows]] will coach [[PARENT|Lucía Castillo Reyes]], [[PARENT|Marcos Hernández Ortiz]], and [[FAMILY|Rosa Castillo]] on a home program using [[KEEP|Hanen "It Takes Two to Talk"]] strategies, specifically following [[CHILD|Majo]]'s lead and commenting rather than questioning.
+- Strategy: [[TEACHER|Ms. Patrice Albright]] and [[TEACHER|Yolanda Benítez]] will model two-word phrases during snack and play at [[DAYCARE|Honeybee Hollow Early Learning]] and log attempts weekly.
+- Strategy: during Saturday playgroup at [[ORG|Iglesia Bautista Nueva Esperanza]], [[PROVIDER|Mirna Osorio]] will prompt peer-directed requests ("quiero pelota") during group games.
+
+[[KEEP|Outcome 2]]: [[CHILD|Majo]] will request desired items and actions using a word or approximation instead of only pointing or pulling, in at least [[KEEP|8 of 10]] opportunities across three consecutive home and daycare observations.
+- Baseline: [[CHILD|Majo]] currently requests verbally in approximately [[KEEP|2 of 10]] opportunities, relying on gesture the remainder of the time.
+- Strategy: caregivers will use a brief communication temptation routine, withholding a preferred item briefly and modeling the target word with [[KEEP|minimal cues]] before providing it.
+- Strategy: [[FAMILY|Rosa Castillo]], who provides most daytime care, will be given a simple picture list of five target words/approximations to model consistently, informed by principles from [[KEEP|PECS]] without requiring a full exchange protocol.
+- Strategy: [[PROVIDER|Hannah Okafor]], the developmental therapist, will co-treat with [[PROVIDER|Alicia Meadows]] monthly to embed requesting opportunities into motor and play-based activities.
+
+[[KEEP|Outcome 3]]: [[CHILD|Majo]] will imitate and spontaneously produce early consonant sounds [[KEEP|/m/]], [[KEEP|/p/]], [[KEEP|/b/]], and [[KEEP|/t/]] in word-initial position, increasing intelligibility of attempted words from an estimated [[KEEP|40%]] to [[KEEP|70%]] as rated by familiar and unfamiliar listeners.
+- Baseline production sample: [[CHILD|Majo]] produced [[KEEP|"mamá"]] clearly, [[KEEP|"apa"]] for "papá" (initial consonant deletion), and [[KEEP|"o"]] for "no."
+- Strategy: use [[KEEP|PROMPT]]-informed tactile-kinesthetic cueing for bilabial sounds during snack time, when [[CHILD|Majo]] is motivated by real food items.
+- Strategy: target words selected jointly with the family to be meaningful in both Spanish and English (mamá, papá, más, pan, bebé).
+- Strategy: [[PROVIDER|Alicia Meadows]] will model with [[KEEP|moderate cues]] fading to [[KEEP|minimal cues]] across sessions and track progress using session data sheets shared with the family through [[AGENCY|Wake County CDSA]]'s family portal.
+
+[[KEEP|Outcome 4]]: The family will feel confident supporting [[CHILD|Majo]]'s bilingual language development at home, as measured by a family-report rating of at least [[KEEP|4 out of 5]] on a confidence survey administered at the next review.
+- Current baseline rating: [[KEEP|2 out of 5]], per [[PARENT|Lucía Castillo Reyes]] and [[PARENT|Marcos Hernández Ortiz]].
+- Strategy: provide the family with bilingual handouts in Spanish summarizing each outcome's strategies.
+- Strategy: schedule at least one session every six weeks with [[FAMILY|Rosa Castillo]] present, since she provides the majority of daytime care and transportation.
+- Strategy: connect the family with the bilingual toddler storytime at [[ORG|Southeast Regional Library]] as a low-cost, community-based language opportunity.
+- Strategy: service coordinator [[PROVIDER|Denise Falwell]] will check in monthly by phone to troubleshoot scheduling around [[PARENT|Lucía Castillo Reyes]]'s night shifts at [[ORG|Cardinal Glass Industries]].
+
+SERVICE DELIVERY AND DATES
+- Speech-language therapy: individual sessions, [[KEEP|30 minutes]], two times per week, provided by [[PROVIDER|Alicia Meadows]], [[EMPLOYER|Carolina Pediatric Therapy Partners]].
+  - Location: primarily the home at [[PLACE|118 Willow Creek Lane]]; one session per month at [[DAYCARE|Honeybee Hollow Early Learning]] for consultation with [[TEACHER|Ms. Patrice Albright]].
+  - Service start date: [[DATE|November 4, 2025]].
+  - CPT code billed for individual sessions: [[KEEP|92507]]; evaluation billed under [[KEEP|92523]].
+  - Associated diagnosis code: [[KEEP|F80.9]] (mixed receptive-expressive language disorder, unspecified).
+- Developmental therapy: individual sessions, [[KEEP|30 minutes]], one time per week, provided by [[PROVIDER|Hannah Okafor]], [[EMPLOYER|Carolina Pediatric Therapy Partners]].
+  - Service start date: [[DATE|November 11, 2025]].
+  - CPT code: [[KEEP|92526]] when co-treated with feeding/oral-motor components; otherwise billed under developmental therapy codes per CDSA authorization.
+- Service coordination: [[PROVIDER|Denise Falwell]], monthly contact minimum, more frequent as needed; last face-to-face visit [[DATE|March 30, 2026]].
+- Authorization on file through [[AGENCY|Wake County CDSA]] covers services through [[DATE|October 28, 2026]], pending this review's updated outcomes.
+- Transition planning note: because [[CHILD|Majo]] will turn three on [[DATE|April 2, 2027]], the team will begin transition conversations with [[PLACE|Wake County]] Public Schools Exceptional Children's Program no later than [[DATE|October 2026]].
+
+SIGNATURES AND MEETING PARTICIPANTS
+- [[PARENT|Lucía Castillo Reyes]], Mother — present, participated via interpreter [[PROVIDER|Guadalupe Terán]]
+- [[PARENT|Marcos Hernández Ortiz]], Father — present
+- [[PROVIDER|Denise Falwell]], Service Coordinator, [[AGENCY|Wake County CDSA]] — present
+- [[PROVIDER|Alicia Meadows]], SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]] — present, prepared this report
+- [[PROVIDER|Hannah Okafor]], Developmental Therapist, [[EMPLOYER|Carolina Pediatric Therapy Partners]] — present
+- [[TEACHER|Ms. Patrice Albright]], Lead Teacher, [[DAYCARE|Honeybee Hollow Early Learning]] — provided written input, did not attend
+- [[FAMILY|Rosa Castillo]], Maternal Grandmother — present, provided primary caregiver input
+- Report prepared by: [[PROVIDER|Alicia Meadows]], bilingual Speech-Language Pathologist, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+- Date of report: [[DATE|April 22, 2026]]
+- Direct contact for questions: [[PHONE|(919) 555-0193]] or [[EMAIL|ameadows@carolinapedtherapy.com]]

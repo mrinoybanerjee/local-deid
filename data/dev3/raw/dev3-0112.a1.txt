@@ -1,0 +1,125 @@
+speech-language evaluation report
+
+patient name: [[CHILD|María José Hernández Gutiérrez]]
+preferred name: [[CHILD|Majo]]
+date of birth: [[DATE|March 3, 2021]]
+chronological age at evaluation: [[KEEP|5;7]]
+date of evaluation: [[DATE|October 2, 2026]]
+sessions: [[DATE|September 25, 2026]] and [[DATE|October 2, 2026]]
+medicaid id: [[MEDICAID_ID|987654321B]]
+case number: [[ID|CDSA-2026-04821]]
+primary language of home: Spanish and English
+referral source: Dr. [[PROVIDER|Patel]], pediatrician, and service coordinator [[PROVIDER|Carmen Ríos]]
+evaluator: [[PROVIDER|Jennifer Alvarez]], MS CCC-SLP, bilingual speech-language pathologist, [[EMPLOYER|Piedmont Bilingual Therapy Associates]]
+interpreter: [[PROVIDER|Marta Lopez]], Spanish language interpreter
+contact phone: [[PHONE|(336) 555-0148]]
+contact email: [[EMAIL|lucia.hernandez88@mailbox.com]]
+address: [[PLACE|4521 Hollyhock Lane]], [[PLACE|Greensboro]], [[PLACE|Guilford County]], NC [[PLACE|27405]]
+
+background and referral
+
+[[CHILD|majo]] was referred for a comprehensive speech and language evaluation by Dr. [[PROVIDER|Patel]] after her nine month well child check where mom [[PARENT|Lucía Hernández Castillo]] reported ongoing concerns about unclear speech and limited sentence use the referral was also prompted by the service coordinator [[PROVIDER|Carmen Ríos]] who works through the [[AGENCY|Agencia de Coordinación de Servicios Infantiles del Condado de Guilford]] known locally as [[AGENCY|ACSI]] mom reports majo was already receiving some home visiting support but the family wanted a full bilingual evaluation before the upcoming ifsp review which the family understood would happen sometime around [[DATE|November 2026]] the family was connected to the [[AGENCY|Centro de Servicios de Desarrollo Infantil del Piedmont]] commonly called the [[AGENCY|CDSA]] about eight months ago and that office has been coordinating majo's early intervention services since then
+
+mom and dad [[PARENT|Ricardo Gutiérrez Molina]] both attended today's session along with majo's older brother [[SIBLING|Diego]] who is nine and in fourth grade at [[SCHOOL|Oak Hollow Elementary]] the baby sister [[SIBLING|Valentina]] who is eighteen months old stayed home with the grandmother [[FAMILY|Rosa Castillo]] who lives with the family and helps with childcare most weekdays mom reports the household also relies on a close family friend who sometimes watches the kids [[FAMILY|Esperanza Ramírez]] who the kids call tía esperanza even though she is not actually related
+
+session one ran from [[TIME|9:15 am]] to [[TIME|10:45 am]] on [[DATE|September 25, 2026]] and focused on parent interview case history review and informal observation session two ran from [[TIME|1:30 pm]] to [[TIME|3:00 pm]] on [[DATE|October 2, 2026]] and included standardized testing and a language sample both sessions were conducted bilingually with the interpreter [[PROVIDER|Marta Lopez]] present for portions of parent interview to support mom's preferred language dad is more comfortable in english and participated directly without interpretation
+
+birth and medical history
+
+mom reports pregnancy was mostly unremarkable though she had some bleeding early in the first trimester that resolved on its own majo was born at [[KEEP|38 weeks]] gestation via vaginal delivery at [[HOSPITAL|Moses Cone Women's Hospital]] birth weight was [[KEEP|6 lbs 4 oz]] apgar scores were [[KEEP|8]] and [[KEEP|9]] at one and five minutes mom denies nicu stay or complications after birth majo did have a brief hospitalization around [[DATE|June 2022]] for a high fever that turned out to be a viral illness no lasting effects reported
+
+developmental milestones were reported as generally on time for gross motor majo walked around [[KEEP|13 months]] fine motor also age appropriate per mom's report speech and language milestones were slower first words emerged closer to [[KEEP|20 months]] and were mostly single words in spanish mom reports majo did not combine words into short phrases until somewhere around [[KEEP|2;6]] which is later than her older brother diego who mom says was talking in sentences by two
+
+hearing was screened at birth and passed a more recent screening done through the pediatrician's office on [[DATE|August 14, 2026]] also showed normal hearing bilaterally no history of chronic ear infections reported though mom recalls one or two episodes of otitis media around age two that resolved with antibiotics vision has not been formally screened outside of the pediatrician's routine exam no concerns noted there majo is not on any regular medications family history is notable for dad's brother who mom describes as "a late talker who eventually caught up and is fine now" no other family history of speech language or developmental concerns reported
+
+current pediatric diagnosis on file includes a developmental language disorder code the pediatrician's note lists [[KEEP|ICD-10 F80.1]] and the clinic has previously billed evaluation services under [[KEEP|CPT 92523]] for combined speech and language evaluation
+
+family and language history
+
+the home language is predominantly spanish mom and dad both grew up speaking spanish mom [[PARENT|Lucía]] was born and raised in the village of [[PLACE|El Rosario]] in the department of [[PLACE|Intibucá]] in Honduras and moved to the United States when she was nineteen dad [[PARENT|Ricardo]] grew up in a small town called [[PLACE|San Marcos]] also in Honduras and came to the US a few years before meeting mom they met here in [[PLACE|Greensboro]] through mutual friends and have been together about eleven years
+
+at home the family speaks spanish close to ninety percent of the time english is used more with diego's homework and some tv shows majo attends a bilingual daycare program called [[DAYCARE|Little Learners Bilingual Daycare]] about four mornings a week where instruction is split roughly half spanish half english her main teacher there is [[TEACHER|Ms. Ortiz]] who mom says has been wonderful about flagging concerns and sending home notes majo's favorite friend at daycare is a little girl named [[PEER|Sofía]] who mom says majo talks about constantly even though her speech about sofía is sometimes hard to understand
+
+mom reports no concerns about majo's hearing or understanding when spoken to in either language the concern is mainly in how clearly majo produces words and how long her sentences are compared to peers her age diego is reported to be fully bilingual with no speech or language concerns and functions as an unofficial translator for majo sometimes which mom says she tries to discourage because she wants majo to practice using her own words
+
+the family's dog [[PET|Luna]] is frequently mentioned by majo at home and was brought up spontaneously during the session when majo pointed to a picture of a dog in a book and said "luna" clearly
+
+behavioral observations
+
+majo presented as a friendly and social child throughout both sessions she separated easily from mom and engaged readily with the evaluator and the interpreter eye contact was consistently appropriate play skills were age appropriate majo engaged in both functional and some pretend play during unstructured portions of the session attention and engagement were adequate for testing though majo did show some frustration when asked to repeat items multiple times particularly on more structured language tasks
+
+articulation and phonology
+
+connected speech was moderately difficult to understand for an unfamiliar listener estimated intelligibility in connected speech was roughly [[KEEP|60%]] in spanish and [[KEEP|55%]] in english single word intelligibility was somewhat higher around [[KEEP|75%]] in both languages a number of sound substitutions and simplifications were noted across both languages consistent with a phonological delay rather than an isolated articulation disorder
+
+in english majo produced [[KEEP|/k/]] as [[KEEP|/t/]] in word initial position for example saying "tat" for the target word [[KEEP|"cat"]] final consonant deletion was also noted for example majo said "ca" for the target [[KEEP|"cup"]] cluster reduction was observed in words like [[KEEP|"spoon"]] which majo produced as "poon" liquid gliding was present with [[KEEP|/ɹ/]] frequently realized as [[KEEP|[w]]] for example "wabbit" for the target [[KEEP|"rabbit"]]
+
+in spanish similar patterns were noted the trilled [[KEEP|/r/]] was consistently substituted with [[KEEP|[l]]] for example majo said "losa" for the target word [[KEEP|"rosa"]] the tapped [[KEEP|/ɾ/]] was also inconsistent in medial position for example "pedo" for the target [[KEEP|"perro"]] cluster reduction appeared in spanish as well for example "flo" produced as "fo" for the target [[KEEP|"flor"]]
+
+stimulability testing showed that majo was able to produce [[KEEP|/k/]] correctly in isolation and in a few single word contexts with [[KEEP|moderate cues]] suggesting some capacity for change with direct instruction final consonants were more difficult to elicit even with [[KEEP|maximal cues]] which is consistent with the pattern of final consonant deletion being more entrenched
+
+language sample and informal observation
+
+a language sample was collected during both structured and unstructured play majo's mean length of utterance in words was calculated using salt conventions and came out to approximately [[KEEP|2.8]] which falls below expectations for her age utterances were coded for completeness and several were marked with the exact word code [[KEEP|[EW]]] where majo substituted or omitted a target word within an otherwise intelligible sentence
+
+examples from the language sample in english include majo pointing to a toy and saying "i want it" which was a complete simple sentence and majo saying "dog run" when shown a picture book which omitted both the article and a verb marker in spanish majo said "quiero jugo" correctly when asking for juice but also produced "yo no sabe" which shows a subject verb agreement error that is somewhat beyond what would be expected for typical code switching alone
+
+majo used a total of four different wh questions appropriately across both sessions mostly "qué" and "what" with occasional attempts at "dónde" she did not produce any complex sentences with subordinate clauses in either language during the sample which is below expectation for a child her age
+
+standardized testing results
+
+the following measures were administered across both languages where appropriate norms exist standard scores and percentile ranks are reported along with ninety five percent confidence intervals administration dates are included in the table because testing occurred across two separate sessions
+
+| test / subtest | date administered | standard score | percentile rank | [[KEEP|95% CI]] |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] Auditory Comprehension | [[DATE|September 25, 2026]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] |
+| [[KEEP|PLS-5 Spanish]] Expressive Communication | [[DATE|September 25, 2026]] | [[KEEP|72]] | [[KEEP|3rd]] | [[KEEP|67-77]] |
+| [[KEEP|PLS-5 English]] Auditory Comprehension | [[DATE|October 2, 2026]] | [[KEEP|81]] | [[KEEP|10th]] | [[KEEP|76-86]] |
+| [[KEEP|PLS-5 English]] Expressive Communication | [[DATE|October 2, 2026]] | [[KEEP|74]] | [[KEEP|4th]] | [[KEEP|69-79]] |
+| [[KEEP|Goldman-Fristoe 3]] Sounds-in-Words | [[DATE|October 2, 2026]] | [[KEEP|70]] | [[KEEP|2nd]] | [[KEEP|64-76]] |
+| [[KEEP|CELF Preschool-3]] Core Language | [[DATE|October 2, 2026]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|71-81]] |
+
+age equivalent scores were also calculated for several measures majo's receptive language age equivalent fell around [[KEEP|3;9]] and her expressive language age equivalent fell around [[KEEP|3;4]] both of which represent a gap of close to [[KEEP|2 years]] from her chronological age of [[KEEP|5;7]] the articulation age equivalent on the goldman fristoe fell around [[KEEP|3;6-3;11]]
+
+nonverbal cognitive screening was not formally completed during this evaluation but informal observation during play and task engagement did not suggest a cognitive concern separate from the speech and language profile the service coordinator [[PROVIDER|Carmen Ríos]] indicated that a separate developmental screening through the cdsa had already ruled out broader developmental delay outside of communication
+
+oral mechanism exam
+
+oral structures were within normal limits for strength range of motion and symmetry no concerns noted with the lips tongue jaw or palate diadochokinetic rates were mildly slower than expected for age but this is thought to be secondary to the phonological delay rather than a separate motor speech disorder no signs suggestive of apraxia were observed though continued monitoring is recommended given the combination of inconsistent sound errors and reduced intelligibility
+
+summary and clinical impressions
+
+based on parent report direct testing and language sample analysis majo presents with a moderate expressive and receptive language delay affecting both spanish and english along with a moderate phonological disorder that further reduces her overall intelligibility majo's language skills are weaker than expected in both of her languages which supports a true language disorder rather than a language difference related to typical bilingual development or typical second language acquisition this distinction matters because majo's deficits are present and roughly comparable across both languages rather than isolated to the less dominant one
+
+the pattern of sound errors including final consonant deletion cluster reduction and liquid substitutions in both languages is consistent with a phonological delay that would be expected to respond to structured intervention majo's stimulability on several target sounds with [[KEEP|moderate cues]] is a positive prognostic sign
+
+majo's social communication and play skills are a relative strength and support a good foundation for intervention mom and dad are highly engaged and motivated which is also a strong protective factor the family's current connection to the [[AGENCY|CDSA]] and to service coordinator [[PROVIDER|Carmen Ríos]] provides a good existing structure to build continued services around
+
+recommendations
+
+1 majo should continue to receive speech and language intervention through her existing ifsp with services increasing from the current frequency given the degree of delay identified today sessions twice weekly for thirty minutes each are recommended rather than the current once weekly schedule
+
+2 intervention should address both languages rather than focusing on english alone given that majo's home language is primarily spanish and this is the language she will continue to need for communication with her family and community
+
+3 phonological intervention should target cluster reduction and final consonant deletion first using a cycles approach given majo's stimulability on several sounds with [[KEEP|moderate cues]] the [[KEEP|Cycles]] approach is recommended as a starting point for structured phonological intervention
+
+4 expressive language goals should target increasing mean length of utterance and improving use of grammatical morphemes in both languages a combination of modeling and expansion strategies consistent with [[KEEP|Hanen]] style parent coaching is recommended to support carryover at home
+
+5 continued collaboration with daycare staff including [[TEACHER|Ms. Ortiz]] is recommended to support consistent language exposure and early literacy activities in the classroom setting
+
+6 a follow up hearing screening is not indicated at this time given the recent normal results from [[DATE|August 14, 2026]] but should be repeated if any new ear infections occur
+
+7 given mild concerns about diadochokinetic rate continued monitoring for signs of motor speech involvement is recommended if progress in therapy is slower than expected a referral for a more targeted motor speech evaluation should be considered at that point
+
+8 the family should continue working with service coordinator [[PROVIDER|Carmen Ríos]] through [[AGENCY|ACSI]] and the [[AGENCY|CDSA]] to update the ifsp to reflect these recommendations before the upcoming review currently anticipated for [[DATE|November 2026]]
+
+9 parent training materials in spanish are recommended given mom's preference for spanish and her primary role in daily communication with majo
+
+10 reassessment is recommended in approximately six months to monitor progress toward ifsp outcome [[KEEP|IFSP Outcome 2]] and [[KEEP|IFSP Outcome 3]] which address expressive language and intelligibility respectively
+
+this report reflects majo's performance on the dates of testing and should be considered alongside ongoing clinical observation and caregiver report going forward questions about this report can be directed to the evaluator [[PROVIDER|Jennifer Alvarez]] at [[EMPLOYER|Piedmont Bilingual Therapy Associates]]
+
+signed
+
+[[PROVIDER|Jennifer Alvarez]] MS CCC-SLP
+bilingual speech-language pathologist

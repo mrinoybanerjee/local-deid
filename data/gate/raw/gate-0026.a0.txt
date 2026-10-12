@@ -1,0 +1,158 @@
+INFORME DE EVALUACIÓN DEL HABLA Y DEL LENGUAJE
+
+Documento: evaluación inicial bilingüe  Carácter: caso completamente ficticio para pruebas de desidentificación
+Cliente: [[CHILD|Adrián Emilio Valverde Soto]]  Nombre habitual: [[CHILD|Adrián]]  Apodo familiar: [[CHILD|Dri]]
+Nacimiento: [[DATE|3 de julio de 2021]]  Edad cronológica: [[KEEP|4;2]]  Expediente: [[ID|SL-582741-NC]]
+Evaluación: [[DATE|3 de septiembre de 2025]]  Informe: [[DATE|09/08/2025]]  Revisión prevista: [[DATE|2025-12-03]]
+Inicio: [[TIME|9:05 a. m.]]  Finalización: [[TIME|10:35 a. m.]]  Idiomas evaluados: español e inglés
+Profesional: Lic. [[PROVIDER|Camila Inés Robledo]]  Cargo: patóloga pediátrica bilingüe del habla y del lenguaje
+Empresa: [[EMPLOYER|Servicios Bilingües Sendero Infantil]]  Sede: [[PLACE|Villa Encino]], North Carolina
+Dirección: [[PLACE|246 Calle Brisa Clara, oficina 5]]  Condado: [[PLACE|Condado de Pinar Claro]]  Código postal: [[PLACE|27800]]
+Teléfono: [[PHONE|(919) 555-0142]]  Fax: [[PHONE|919.555.0176]]
+Correo: [[EMAIL|evaluaciones@senderoinfantil.example]]  Portal: [[URL|https://senderoinfantil.example/familias]]
+Medicaid: [[MEDICAID_ID|482715936M]]  Autorización: [[ID|AUT-206483-SL]]  Procedimiento: [[KEEP|CPT 92523]]
+
+CONTACTOS Y FUENTES
+
+Madre: [[PARENT|Mariela Soto Cárdenas]]  Teléfono principal: [[PHONE|919-555-0128]]  Correo: [[EMAIL|mariela.soto@correo.example]]
+Padre: [[PARENT|Diego Valverde Núñez]]  Teléfono alternativo: [[PHONE|+1 984 555 0163]]
+Abuela materna: [[FAMILY|Estela Cárdenas Rivas]]  Teléfono en México: [[PHONE|+52 55 0000 0147]]
+Pediatra: Dra. [[PROVIDER|Teresa Beltrán]]  Centro médico: [[HOSPITAL|Hospital Infantil Río de Cristal]]
+Coordinadora: [[PROVIDER|Nora Salcedo]]  Agencia: [[AGENCY|CDSA de Valle Sereno]]  Caso: [[ID|EI-739205]]
+Escuela: [[SCHOOL|Escuela Preescolar Roble de Luna]]  Maestra: Ms. [[TEACHER|Lopez]]  Aula: Ms. [[TEACHER|Lopez]]'s room
+Guardería anterior: [[DAYCARE|Guardería Semillas del Arroyo]]  Asistente: Sra. [[TEACHER|Paula Venegas]]
+
+MOTIVO Y ANTECEDENTES
+
+La familia solicitó esta evaluación por dificultades para expresar ideas completas y para hacerse entender fuera del hogar. La madre indicó que [[CHILD|Adrián]] comprende rutinas conocidas, pero necesita ayuda cuando una instrucción contiene varios pasos. El padre señaló que el niño se frustra cuando otra persona le pide repetir su mensaje. Las dificultades aparecen en ambos idiomas, aunque las oportunidades de usar cada idioma varían.
+
+La remisión pediátrica se emitió el [[DATE|3 de marzo de 2025]]. La entrevista inicial ocurrió el [[DATE|08/19/2025]], por teléfono, a las [[TIME|6:15 p. m.]]. La familia entregó un cuestionario escolar fechado [[DATE|22/08/2025]]. La maestra describió participación adecuada durante canciones y juego libre, con menor participación durante relatos y conversaciones grupales.
+
+Según el cuestionario, [[CHILD|Dri]] suele señalar materiales antes de nombrarlos. Cuando juega con [[PEER|Isabela Ríos]], usa frases breves para pedir turnos. Con [[PEER|Tomás Arce]], a veces abandona una explicación y entrega el objeto directamente. Estas observaciones se consideraron información funcional; no se usaron como resultados de pruebas estandarizadas.
+
+La familia busca que el niño pueda explicar necesidades, contar experiencias sencillas y participar con mayor independencia. No solicitó eliminar el español ni priorizar exclusivamente el inglés.
+
+HISTORIA DE NACIMIENTO Y SALUD
+
+Lugar de nacimiento: [[HOSPITAL|Hospital Materno Aurora del Pinar]]  Localidad: [[PLACE|Puerto Cedral]], North Carolina
+Fecha registrada: [[DATE|07/03/2021]]  Fuente: entrevista familiar y resumen pediátrico
+Audición: tamizaje reciente documentado  Fecha: [[DATE|08-27-2025]]
+Profesional de audiología: Lic. [[PROVIDER|Samuel Cifuentes]]  Servicio: [[HOSPITAL|Centro Auditivo Brisa del Valle]]
+
+La madre informó un embarazo con atención prenatal regular y sin complicaciones importantes. El nacimiento ocurrió a término. No se reportaron dificultades respiratorias, ingreso a cuidados intensivos ni problemas persistentes de alimentación. El niño regresó al hogar con su familia después de la estancia habitual. Estos antecedentes proceden del relato familiar; no se revisó el expediente obstétrico completo.
+
+Los cuidadores describieron crecimiento estable y controles pediátricos regulares. Informaron episodios ocasionales de otitis, sin colocación de tubos ni cirugía. No reportaron convulsiones, lesiones neurológicas, pérdida de habilidades previamente adquiridas o uso diario de medicamentos. La pediatra recomendó evaluar el lenguaje después de observar frases cortas y dificultades para responder preguntas abiertas.
+
+El resumen de audiología indicó respuestas compatibles con audición funcional para las frecuencias examinadas. Durante esta sesión, [[CHILD|Adrián]] respondió a voces de intensidad conversacional y localizó sonidos ambientales. Estas observaciones no sustituyen una evaluación audiológica completa si aparecen nuevas preocupaciones.
+
+La familia no describió tos frecuente al comer, atragantamiento ni rechazo persistente de texturas. El examen visual de estructuras orales mostró simetría facial y movilidad funcional de labios y lengua para las tareas realizadas. La voz y la resonancia no presentaron diferencias relevantes durante la muestra. No se observaron bloqueos ni tensión asociados con la fluidez.
+
+HISTORIA FAMILIAR Y LINGÜÍSTICA
+
+Domicilio familiar: [[PLACE|718 Camino del Laurel Azul]]  Municipio: [[PLACE|Villa Encino]]  Estado: North Carolina
+Hermana: [[SIBLING|Renata Valverde Soto]]  Hermano: [[SIBLING|Bruno Valverde Soto]]
+Tía: [[FAMILY|Julia Soto Cárdenas]]  Cuidadora ocasional: [[FAMILY|Mónica Leiva]]
+Mascotas: [[PET|Chispa]], perro; [[PET|Nube]], gata
+
+En el hogar se usa principalmente español. La madre conversa, lee cuentos y organiza las rutinas en español. El padre usa español durante comidas y actividades familiares, y algunas expresiones en inglés durante juegos. La hermana [[SIBLING|Renata]] alterna ambos idiomas cuando comparte libros. El hermano [[SIBLING|Bruno]] participa en juegos de construcción con instrucciones breves.
+
+La abuela [[FAMILY|Estela]] mantiene contacto mediante videollamadas desde [[PLACE|Villa Naranjal]], México. La tía [[FAMILY|Julia]] cuida al niño algunas tardes. La cuidadora [[FAMILY|Mónica]] usa español y sigue las mismas rutinas de comunicación que los padres. La familia refiere que las mascotas ofrecen oportunidades frecuentes para comentar acciones y pedir ayuda.
+
+Lugar de trabajo materno: [[ORG|Cooperativa Textil Horizonte Claro]]  Lugar de trabajo paterno: [[ORG|Taller Mecánico Puente Azul]]
+Contacto comunitario: Sr. [[PERSON|Óscar Mena]]  Función: conductor del transporte vecinal
+
+El niño comenzó a asistir a la guardería el [[DATE|martes 4 de junio de 2024]]. Allí escuchaba español e inglés durante canciones, meriendas y juegos. Ingresó a la escuela actual el [[DATE|08/18/2025]]. El horario escolar comienza a las [[TIME|8:10 a. m.]] y termina a las [[TIME|12:40 p. m.]].
+
+La exposición al inglés ha sido más constante en entornos educativos. El español continúa siendo el idioma de mayor uso familiar. La madre reportó primeras palabras alrededor de [[KEEP|1;6]] y combinaciones de palabras cerca de [[KEEP|2;8]]. No describió regresión. Un tío materno recibió apoyo del habla durante su infancia, según el relato familiar. No se dispone de documentación de ese antecedente.
+
+PROCEDIMIENTOS Y CONDUCTA
+
+Se integraron entrevista, cuestionario, observación de juego, muestra de lenguaje, examen oral y medidas estandarizadas. La evaluación se realizó en español e inglés según los procedimientos de cada instrumento. Los cambios de idioma permitieron explorar conocimientos distribuidos entre ambos idiomas. No se tradujeron reactivos para generar puntuaciones normativas nuevas.
+
+Instrumentos: [[KEEP|Preschool Language Scales, Fifth Edition, Spanish (PLS-5 Spanish)]]; [[KEEP|Bilingual English–Spanish Assessment (BESA)]]
+Análisis de muestra: [[KEEP|Systematic Analysis of Language Transcripts (SALT)]]  Contextos: juego, descripción y relato breve
+
+La madre permaneció durante la primera parte de la sesión. [[CHILD|Adrián]] exploró los juguetes y aceptó la interacción con la evaluadora después de un breve periodo de adaptación. Mostró interés por vehículos, animales y una cocina de juguete. La participación mejoró cuando pudo elegir entre dos actividades y anticipar el cambio con una imagen.
+
+Se realizó una pausa a las [[TIME|9:50 a. m.]] y se retomaron las tareas a las [[TIME|10:00 a. m.]]. El niño permaneció atento durante actividades cortas. Algunas tareas necesitaron redirección, pero no hubo suficiente interferencia conductual para invalidar la interpretación general. Las ayudas adicionales se reservaron para observación clínica y evaluación dinámica.
+
+La interpretación considera la experiencia bilingüe, la familiaridad con los materiales y las diferencias entre tareas estructuradas y comunicación cotidiana. Ninguna puntuación aislada determina las conclusiones. Los resultados descritos pertenecen exclusivamente a este caso ficticio.
+
+RESULTADOS ESTANDARIZADOS
+
+| Instrumento y área | Puntuación estándar | Percentil | Interpretación |
+|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]], comprensión auditiva | [[KEEP|79]] | [[KEEP|8]] | Rendimiento inferior al esperado |
+| [[KEEP|PLS-5 Spanish]], comunicación expresiva | [[KEEP|74]] | [[KEEP|4]] | Rendimiento inferior al esperado |
+| [[KEEP|PLS-5 Spanish]], lenguaje total | [[KEEP|75]] | [[KEEP|5]] | Dificultades receptivas y expresivas |
+| [[KEEP|BESA]], semántica, mejor desempeño lingüístico | [[KEEP|82]] | [[KEEP|12]] | Vulnerabilidad semántica |
+| [[KEEP|BESA]], morfosintaxis, mejor desempeño lingüístico | [[KEEP|73]] | [[KEEP|4]] | Dificultades morfosintácticas |
+
+Los percentiles representan la posición relativa dentro de la referencia normativa correspondiente. No representan el porcentaje de respuestas correctas. Se consideró el desempeño en ambos idiomas y se contrastó con las observaciones familiares y escolares.
+
+COMPRENSIÓN DEL LENGUAJE
+
+El niño identificó objetos cotidianos y acciones familiares. Siguió instrucciones sencillas cuando el objeto estaba visible. En una tarea clínica, respondió correctamente en [[KEEP|8/10]] oportunidades para instrucciones de un paso. Para instrucciones de dos pasos sin apoyo visual, logró [[KEEP|4/10]]. Estas proporciones describen tareas de observación y no son puntuaciones estandarizadas.
+
+Comprendió relaciones espaciales frecuentes durante el juego. Las dificultades aumentaron cuando debía mantener información verbal, identificar una negación o relacionar dos características simultáneamente. Las preguntas sobre personas y objetos resultaron más fáciles que las preguntas sobre causas y secuencias.
+
+Con imágenes, repetición y [[KEEP|claves moderadas (mod cues)]], mejoró la ejecución. La respuesta a estas ayudas indica capacidad de aprendizaje, aunque todavía requiere apoyo para generalizar. La familia describió un patrón similar al preparar la mochila o recoger materiales. La comprensión fue más sólida en español para vocabulario familiar y variable en inglés para conceptos escolares recientes.
+
+EXPRESIÓN DEL LENGUAJE
+
+La muestra incluyó [[KEEP|52]] emisiones analizables. La longitud media fue de [[KEEP|2.9]] palabras por emisión. Esta medida se usó de forma descriptiva, sin equipararla directamente con una norma monolingüe. Predominaron peticiones, etiquetas y comentarios sobre acciones presentes.
+
+Entre las producciones espontáneas aparecieron [[KEEP|"yo quiere carro"]], [[KEEP|"mamá dame eso"]] y [[KEEP|"perro está aquí"]]. Las palabras objetivo trabajadas durante la exploración fueron [[KEEP|"quiero"]], [[KEEP|"porque"]] y [[KEEP|"después"]]. Se observaron omisiones variables de artículos, marcas verbales y elementos necesarios para completar algunas oraciones.
+
+En una tarea de relato, identificó personajes y una acción principal, pero necesitó preguntas específicas para explicar el problema y el resultado. No mantuvo de forma independiente una secuencia completa. Con apoyo visual produjo más información, aunque la organización continuó siendo breve.
+
+El análisis registró [[KEEP|[EW]]] cuando correspondía a errores de palabra según las convenciones utilizadas. La alternancia entre español e inglés se describió por separado. No se clasificó automáticamente como error. Algunas palabras estaban disponibles solamente en uno de los idiomas, lo cual refleja experiencias diferentes y no constituye por sí mismo una dificultad.
+
+HABLA E INTELIGIBILIDAD
+
+La inteligibilidad estimada para una oyente sin familiaridad previa fue de [[KEEP|68%]] en conversación. La madre comprendió una proporción mayor gracias al contexto y al conocimiento de las rutinas. La claridad disminuyó en frases largas y cuando el niño hablaba con rapidez.
+
+Se observaron sustituciones de velares, incluida la realización de [[KEEP|/k/]] como [[KEEP|[t]]] en algunas palabras. También aparecieron reducciones de grupos consonánticos y realizaciones variables de vibrantes. Una producción ilustrativa fue [[KEEP|"tasa"]] para el objetivo [[KEEP|"casa"]]. En inglés se escuchó [[KEEP|[w]]] por [[KEEP|/ɹ/]] en palabras aisladas; esta observación requiere interpretación según edad, idioma y contexto.
+
+Durante la exploración dinámica, produjo [[KEEP|/k/]] en sílabas con modelo y apoyo visual en [[KEEP|6/10]] oportunidades. La precisión bajó en palabras espontáneas. No se observaron intentos articulatorios inconsistentes acompañados de esfuerzo marcado. La muestra disponible no permite concluir una dificultad motora específica del habla.
+
+COMUNICACIÓN SOCIAL Y JUEGO
+
+[[CHILD|Adrián]] compartió atención, mostró objetos y buscó ayuda de forma funcional. Usó gestos para complementar mensajes y disfrutó el juego simbólico. Respondió a propuestas sencillas y sostuvo intercambios breves cuando el tema le interesaba.
+
+La dificultad principal durante los intercambios fue ampliar o reparar el mensaje. Después de una solicitud de aclaración, con frecuencia repitió la misma frase. Cuando la evaluadora ofreció opciones, logró agregar información. El contacto visual varió de manera natural según la actividad y no se utilizó como medida aislada de competencia comunicativa.
+
+IMPRESIONES CLÍNICAS
+
+Los resultados apoyan un perfil de dificultades receptivas y expresivas que afecta la participación cotidiana. La evidencia incluye desempeño reducido en medidas estructuradas, limitaciones observadas en ambos idiomas y preocupaciones coincidentes de la familia y la escuela. La adquisición bilingüe no explica por sí sola este conjunto de hallazgos.
+
+Impresión principal: trastorno del lenguaje receptivo y expresivo  Código: [[KEEP|ICD-10 F80.2]]
+Impresión adicional: trastorno de los sonidos del habla  Código: [[KEEP|ICD-10 F80.0]]
+Fortalezas: intención comunicativa, juego simbólico, participación familiar y respuesta a apoyos
+
+Las dificultades del habla reducen la claridad del mensaje. Las dificultades del lenguaje limitan su contenido y organización. Ambos componentes requieren atención coordinada. El pronóstico funcional es favorable con intervención constante y oportunidades de práctica en los dos idiomas. La evolución deberá comprobarse mediante datos de participación y desempeño, sin depender únicamente de nuevas puntuaciones normativas.
+
+RECOMENDACIONES Y PLAN
+
+1. Iniciar intervención bilingüe dos veces por semana, con sesiones de treinta minutos. Seleccionar actividades relevantes para el hogar y la escuela. Ajustar la frecuencia según progreso, asistencia y necesidades funcionales.
+
+2. Trabajar instrucciones de dos pasos con objetos y acciones conocidos. Reducir gradualmente las ayudas. Meta inicial: alcanzar [[KEEP|8/10]] respuestas correctas con [[KEEP|claves mínimas]] en actividades variadas.
+
+3. Ampliar oraciones para expresar acciones, ubicaciones y causas. Modelar estructuras completas sin exigir repetición constante. Meta inicial: producir mensajes de cuatro palabras o más en [[KEEP|80%]] de oportunidades con apoyo visual.
+
+4. Enseñar relatos breves mediante imágenes de inicio, problema y resultado. Practicar primero experiencias familiares. Permitir respuestas en cualquiera de los dos idiomas y ampliar el mensaje en el idioma de la actividad.
+
+5. Abordar contrastes de [[KEEP|/k/]] y [[KEEP|/t/]] según respuesta al tratamiento. Practicar desde sílabas hasta conversación. Registrar precisión y generalización, con una meta inicial de [[KEEP|80%]] en palabras con [[KEEP|claves mínimas]].
+
+6. Mantener el español familiar. Leer cuentos, comentar acciones y ofrecer tiempo para responder. Cuando el niño produzca [[KEEP|"yo quiere carro"]], responder con el modelo [[KEEP|"yo quiero el carro"]] dentro de una interacción natural.
+
+7. Coordinar apoyos con Ms. [[TEACHER|Lopez]]. Usar instrucciones breves, imágenes y opciones para responder. Facilitar turnos con [[PEER|Isabela]] y [[PEER|Tomás]] sin exigir que otros niños actúen como terapeutas.
+
+8. Revisar avances el [[DATE|3 de diciembre de 2025]]. Solicitar nueva consulta auditiva si aparecen cambios de respuesta, molestias o infecciones recurrentes.
+
+CIERRE
+
+La evaluadora explicó los hallazgos en español. La madre expresó comprensión y aceptó el plan propuesto. La comunicación futura se realizará por los contactos registrados. La familia recibirá una copia del informe para compartirla con los profesionales y el personal educativo que autorice.
+
+Firma: Lic. [[PROVIDER|Camila Inés Robledo]]  Empresa: [[EMPLOYER|Servicios Bilingües Sendero Infantil]]
+Fecha de firma: [[DATE|8 de septiembre de 2025]]  Hora: [[TIME|4:20 p. m.]]  Registro profesional ficticio: [[ID|NC-SLP-670284]]

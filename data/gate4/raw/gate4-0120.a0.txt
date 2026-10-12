@@ -1,0 +1,33 @@
+1. INFORMACIÓN GENERAL / SESSION IDENTIFICATION
+
+Client: [[CHILD|Mateo Rafael Benítez]], called [[CHILD|Teo]], age [[KEEP|4;2]]. Service date: [[DATE|October 8, 2026]], from [[TIME|9:10 a.m.]] to [[TIME|9:55 a.m.]]. Location: [[EMPLOYER|Puente Claro Pediatric Therapy]], [[PLACE|Bellhaven]], North Carolina. Clinician: [[PROVIDER|Elena Marisol Varela]], bilingual speech-language pathologist. Record: [[ID|PC-482716]]. Medicaid: [[MEDICAID_ID|731846205Q]].
+
+1.1 Attendance and Coordination
+
+Mother [[PARENT|Guadalupe Benítez]], called [[PARENT|Lupita]], attended with sister [[SIBLING|Rosa]]. Referral coordination continues through [[AGENCY|Smart Start Family Access Office]] in [[PLACE|Fernbrook County]].
+
+2. SUBJETIVO / FAMILY REPORT
+
+Mother reported, “En casa habla más cuando jugamos juntos, pero todavía se frustra.” She described improved requests during meals and difficulty explaining events after preschool. Aunt [[FAMILY|Sol]] practices turn-taking during afternoon care. No new health concerns were reported. The family requested activities that fit existing routines without additional purchases.
+
+3. OBJETIVO / CLINICAL OBSERVATIONS
+
+3.1 Assessment Context
+
+Prior [[KEEP|PLS-5]] results, obtained on [[DATE|September 17, 2026]], included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], confidence interval [[KEEP|73-83]], percentile [[KEEP|7]], and age-equivalent range [[KEEP|2;6–3;0]]. These results informed task selection; today's observations reflect treatment performance.
+
+3.2 Intervention and Response
+
+Using [[KEEP|Hanen]] strategies and focused stimulation, the clinician modeled [[KEEP|"quiero más"]], [[KEEP|"my turn"]], and [[KEEP|"abre"]]. The child requested materials in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-step directions were completed in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]]; substitutions included [[KEEP|[t]]]. During pretend play, the child said, “[[PET|Nube]] run.” A separate sample contained [[KEEP|"yo want agua"]] and was coded [[KEEP|[EW]]].
+
+4. ANÁLISIS / ASSESSMENT
+
+Participation improved with predictable choices and visual supports. Code-switching served communicative intent and was accepted during play. Receptive demands remained harder when directions lacked gestures. Performance supports continued work toward [[KEEP|IFSP outcome 2]]; generalization requires further observation across routines.
+
+5. PLAN / NEXT SESSION
+
+Continue bilingual modeling, expand functional requests, and fade gestures gradually. Mother demonstrated recasting and agreed to practice during snack. Teacher Ms. [[TEACHER|Inés Robledo]] will receive a written practice summary after consent is confirmed.
+
+6. DOCUMENTACIÓN ADMINISTRATIVA
+
+Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; diagnosis [[KEEP|ICD-10 F80.2]]. Next session: [[DATE|October 15, 2026]]. Signed electronically by [[PROVIDER|Elena Marisol Varela]].

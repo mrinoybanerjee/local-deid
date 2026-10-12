@@ -1,0 +1,22 @@
+Client: [[CHILD|Chuy Martínez]] (José Martínez Jr.)
+DOB: [[DATE|04/18/2023]]
+Session Date: [[DATE|10/09/2026]]
+Time: [[TIME|2:30 PM]]–[[TIME|3:15 PM]]
+Age: [[KEEP|3;5]]
+Medicaid ID: [[MEDICAID_ID|784215639B]]
+Provider: [[PROVIDER|Marisol Treviño, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Tar Heel Pediatric Therapy, PLLC]]
+Location: [[PLACE|118 Pinecrest Lane, Durham, NC 27707]]
+Interpreter: none needed; session conducted bilingual EN/ES
+
+SUBJETIVO:
+Mamá [[PARENT|Lucía Martínez]] reports [[CHILD|Chuy]] had a "buena semana," sleeping well since starting at [[DAYCARE|Little Sprouts Daycare]]. Mom works nights at [[ORG|Duke Regional Hospital]] as a CNA and also does weekend shifts for [[ORG|DHHS]] processing paperwork — "estoy agotada, trabajo dos trabajos," she said. Dad, [[PARENT|José Martínez Sr.]], was not present; he works days as a mechanic. Abuela [[FAMILY|Rosa Hernández]] picked up [[CHILD|Chuy]] today and stayed for the session, reporting he's been saying "agua" more at home and imitating his hermana [[SIBLING|Valentina]].
+
+OBJETIVO:
+[[KEEP|PLS-5]] Auditory Comprehension readministered partial subtest; raw gains noted, standard score estimate [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. [[CHILD|Chuy]] produced /p/, /b/, /m/ in isolation with [[KEEP|mod cues]]; target word "pato" approximated as "[[KEEP|'ato']]." Expressive attempts: "[[KEEP|más]]" (8/10 trials), "no no" (3 of 5), consistent with [[KEEP|PROMPT]] tactile cueing hierarchy. Vocalization count via [[KEEP|SALT]] coded sample: [[KEEP|[EW]]] marked twice for unintelligible strings. Compared to peer [[PEER|Pepe]] in the toddler group, [[CHILD|Chuy]]'s turn-taking during ball rolling was 60% independent.
+
+ASESORAMIENTO:
+Discussed home carryover using [[KEEP|Hanen]] "It Takes Two to Talk" strategies. Abuela [[FAMILY|Rosa]] will model expansion ("quieres agua" instead of single words). Reviewed with Service Coordinator [[PROVIDER|Denise Okafor]] from [[AGENCY|CDSA of the Triangle]] re: upcoming IFSP Outcome 2 review on [[DATE|November 14, 2026]]. Teacher [[TEACHER|Ms. Alvarado]] at [[DAYCARE|Little Sprouts Daycare]] reports similar gains during circle time, noting [[CHILD|Chuy]]'s friend [[PEER|Teo]] often models requesting behaviors for him.
+
+PLAN:
+Continue weekly 45-minute sessions targeting early words and /p,b,m/ in CV shapes. Family to bring updated WIC enrollment paperwork from [[AGENCY|WIC]] office. Next session scheduled [[DATE|10/16/2026]] at [[TIME|2:30 PM]]. Contact [[PHONE|919-555-0147]] or [[EMAIL|m.trevino@tarheelpeds.com]] with questions. Billing: CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]]. Family dog [[PET|Lupe]] was present and calm during session, providing good motivation for "¡hola, [[PET|Lupe]]!" imitation task.

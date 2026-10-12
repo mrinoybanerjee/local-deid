@@ -1,0 +1,20 @@
+S:
+[[CHILD|Elena Vega-Santos]], age [[KEEP|4;2]], seen on [[DATE|October 8, 2026]], [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]], with mother [[PARENT|Marisol de la Cruz]]. English/Spanish used at home; mother requested English documentation. Mother reported improved requesting, continued frustration during transitions. Brother [[SIBLING|Tomás]] sometimes answers for child. Grandmother [[FAMILY|Inés Calderón]] practices picture choices. Child said, "[[PET|Pipo]] run." Teacher Ms. [[TEACHER|Nadia Fenn]] reported limited initiation with classmate [[PEER|Amira Bell]] at [[SCHOOL|Willowmere Early Learning School]]. Attends [[DAYCARE|Little Lantern Daycare]]. Family resides at [[PLACE|284 Juniper Wren Lane]], [[PLACE|Willowmere]], North Carolina [[PLACE|27500]]. Mother works at [[ORG|Cedar Finch Textiles]]. Neighbor [[PERSON|Owen Vale]] provides transportation. No new health concerns.
+
+O:
+Bilingual SLP [[PROVIDER|Sofía del Río]], [[EMPLOYER|Piedmont Sprout Speech Services]], provided play-based language intervention. Record [[ID|SLP-60482]]; Medicaid [[MEDICAID_ID|583920174K]]. Referring physician Dr. [[PROVIDER|M.R.]] at [[HOSPITAL|Willowmere Children's Hospital]]. Coordination through [[AGENCY|Alder County Child Development Office]]; county [[PLACE|Alder County]].
+
+Historical scores reviewed; no standardized retesting today.
+
+| Test/subtest | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---|---|---|---|---|
+| [[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[DATE|August 19, 2026]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5]] / [[KEEP|Expressive Communication]] | [[DATE|August 19, 2026]] | [[KEEP|76]] | [[KEEP|5th]] | [[KEEP|71–81]] | [[KEEP|2;4–2;8]] |
+
+Used [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] activities. Followed contextual directions [[KEEP|8/10]] with [[KEEP|min cues]]; novel directions [[KEEP|3 of 5]] with [[KEEP|mod cues]]. Produced [[KEEP|/k/]] in initial position [[KEEP|60%]] with [[KEEP|max cues]]. Substituted [[KEEP|[w]]] for [[KEEP|/ɾ/]] during Spanish play. Spontaneous productions included [[KEEP|"want blue car"]] and [[KEEP|"more bubbles"]]. Target [[KEEP|"help me"]] elicited with [[KEEP|mod cues]]. Language sample contained SALT code [[KEEP|[EW]]]. Joint attention sustained during shared book activity; visual schedule supported transitions. Caregiver demonstrated expansion after clinician model. Birth history, per intake: gestational age [[KEEP|39 weeks]], birth weight [[KEEP|7 lb 2 oz]], Apgar scores [[KEEP|8]] and [[KEEP|9]].
+
+A:
+Mixed receptive-expressive language difficulties persist across reported contexts. Functional requests increased with familiar routines. Novel directions remain difficult without contextual support. Speech accuracy improved with placement cues; carryover remains limited. Cross-language observations require continued sampling before assigning error patterns. Historical scores support treatment planning alongside caregiver report and functional observation. Child tolerated session well; brief protest resolved with choices. Mother accurately demonstrated strategies. Skilled intervention remains indicated for participation and communication repair.
+
+P:
+Continue weekly treatment; address IFSP goal [[KEEP|2]] and outcome [[KEEP|3]]. Home practice: model [[KEEP|"help me"]] during play; allow response time. Obtain classroom sample with consent. Review scheduled [[DATE|November 5, 2026]]. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]. Parent contact: [[PHONE|919-555-0146]], [[EMAIL|marisol.delacruz@example.org]]. Practice resources: [[URL|https://piedmontsprout.example.org/home]]. Clinician signature: [[PROVIDER|Sofía del Río]], bilingual pediatric SLP.

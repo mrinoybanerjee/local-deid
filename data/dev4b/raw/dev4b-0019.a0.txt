@@ -1,0 +1,49 @@
++ Nombre: [[CHILD|Mateo Alejandro Fernández Ruiz]] ("[[CHILD|Teo]]")
++ EC: [[KEEP|3;8]]
++ Contexto: Revisión anual del Plan Individualizado de Servicios para la Familia (IFSP), Programa Infantil y de Niños Pequeños de Carolina del Norte, [[AGENCY|CDSA del Piedmont]], oficina de [[PLACE|Greensboro]]. Reunión realizada el [[DATE|6 de octubre de 2026]] en el hogar de la familia en [[PLACE|Burlington]], [[PLACE|condado de Alamance]]. Participantes: la madre [[PARENT|Lucía Rodríguez]], el padre [[PARENT|Carlos Fernández]], la coordinadora de servicios [[PROVIDER|Ana Gómez]], la patóloga del habla y lenguaje bilingüe [[PROVIDER|Melissa Torres]], CCC-SLP, y la intérprete certificada [[PROVIDER|Yolanda Martínez]].
+
+Resumen
+
+[[CHILD|Teo]] es un niño de [[KEEP|3;8]] referido originalmente al [[AGENCY|CDSA del Piedmont]] por preocupaciones con el habla y el lenguaje expresivo, además de antecedentes de prematuridad. Esta nota documenta la revisión anual de su IFSP, firmado por primera vez el [[DATE|15 de mayo de 2025]] y revisado posteriormente el [[DATE|20 de mayo de 2026]]. Desde la última revisión, [[CHILD|Teo]] logró dos de los tres resultados establecidos y continúa recibiendo terapia de habla y lenguaje individual. La familia reporta progreso notable en comunicación funcional, pero sigue preocupada por la inteligibilidad y la interacción social con otros niños.
+
+Historia de nacimiento y médica
+
+[[CHILD|Teo]] nació el [[DATE|20 de enero de 2023]] en el [[HOSPITAL|WakeMed Faison Women's Hospital]] en [[PLACE|Raleigh]], a las [[KEEP|32]] semanas de gestación, con un peso al nacer de [[KEEP|1,580 gramos]]. Pasó [[KEEP|26 días]] en la unidad de cuidados intensivos neonatales (NICU) de ese hospital, bajo el cuidado del neonatólogo [[PROVIDER|Dr. Steven Park]]. Su obstetra, la [[PROVIDER|Dra. Rachel Kim]], documentó un puntaje de Apgar de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. [[CHILD|Teo]] recibió oxígeno suplementario durante [[KEEP|10 días]] y fue dado de alta con seguimiento por el pediatra, [[PROVIDER|Dr. Jonathan Pratt]], en [[PLACE|Burlington]]. Una evaluación audiológica realizada por la audióloga [[PROVIDER|Dra. Marisol Ibáñez]] en [[DATE|marzo de 2024]] resultó normal en ambos oídos. El otorrinolaringólogo, [[PROVIDER|Dr. Henry Osei]], descartó anomalías estructurales orales que explicaran el retraso. El diagnóstico actual incluye trastorno fonológico del habla ([[KEEP|F80.0]]) y trastorno del desarrollo del habla mixto receptivo-expresivo ([[KEEP|F80.2]]).
+
+Preocupaciones y prioridades de la familia (en sus propias palabras)
+
+La madre, [[PARENT|Lucía Rodríguez]], compartió: "Queremos que [[CHILD|Teo]] pueda decirnos lo que necesita sin frustrarse. Todavía señala mucho y grita cuando no lo entendemos." El padre, [[PARENT|Carlos Fernández]], agregó: "Me preocupa que cuando entre a la escuela los demás niños no le entiendan y se quede callado o se frustre." La familia también mencionó que la hermana mayor de [[CHILD|Teo]], [[SIBLING|Camila]], de [[KEEP|7]] años, a veces habla por él en lugar de darle tiempo para responder, y pidieron estrategias para que ella aprenda a esperar. La abuela materna, [[FAMILY|Rosa Pérez]], quien cuida a [[CHILD|Teo]] tres tardes por semana mientras los padres trabajan, pidió frases simples en español para usar durante la merienda y el juego libre. La familia priorizó, en orden: 1) comunicación funcional de necesidades básicas, 2) claridad del habla para que extraños lo entiendan, y 3) juego compartido con otros niños.
+
+Rutinas diarias
+
+[[CHILD|Teo]] asiste a [[DAYCARE|Pequeños Pasos Daycare]] de lunes a viernes, de [[TIME|7:30 a.m.]] a [[TIME|5:00 p.m.]], en el salón de la [[TEACHER|Srta. Lopez]], con niños de edades mixtas de dos y tres años. La maestra reporta que [[CHILD|Teo]] juega bien en paralelo pero rara vez inicia juego con sus compañeros, incluyendo a su amigo [[PEER|Josué]], con quien comparte mesa durante el almuerzo. En casa, la rutina matutina incluye desayuno en familia, seguido de un video corto en español antes de salir hacia la guardería; el perro de la familia, [[PET|Max]], los despide en la puerta, lo cual [[CHILD|Teo]] disfruta y suele señalar. Por las tardes, cuando [[FAMILY|Rosa Pérez]] lo recoge, caminan juntos al parque cercano. Por las noches, la familia sigue una rutina de baño y cuento antes de dormir alrededor de las [[TIME|8:00 p.m.]], donde la madre reporta que [[CHILD|Teo]] señala las imágenes del libro pero dice pocas palabras.
+
+Otras agencias involucradas
+
+La familia recibe apoyo nutricional del programa [[AGENCY|WIC del condado de Alamance]] y participa en actividades de alfabetización temprana a través de [[AGENCY|Smart Start del condado de Alamance]]. El [[AGENCY|Departamento de Servicios Sociales del condado de Alamance]] (DSS) brindó previamente asistencia con transporte a citas médicas durante la hospitalización inicial. La familia ya comenzó la planificación de transición hacia servicios preescolares con el [[SCHOOL|Sistema Escolar Público del Condado de Alamance]], y visitaron la [[SCHOOL|Escuela Primaria Grove Park]], donde conocieron el programa Head Start en el salón de la maestra [[TEACHER|Sra. Patricia Núñez]]. La coordinadora de transición escolar indicó que [[CHILD|Teo]] podría calificar para servicios de habla dentro del programa preescolar a partir de los cuatro años.
+
+Resultados de las pruebas
+
+La evaluación de lenguaje con el [[KEEP|PLS-5]] (Preschool Language Scale-5) muestra el siguiente progreso:
+
+Fecha | Subprueba | Puntaje estándar | Intervalo de confianza (95%)
+[[DATE|15 de mayo de 2025]] | [[KEEP|Comprensión Auditiva]] | [[KEEP|62]] | [[KEEP|55-69]]
+[[DATE|15 de mayo de 2025]] | [[KEEP|Comunicación Expresiva]] | [[KEEP|58]] | [[KEEP|50-66]]
+[[DATE|1 de octubre de 2026]] | [[KEEP|Comprensión Auditiva]] | [[KEEP|78]] | [[KEEP|71-85]]
+[[DATE|1 de octubre de 2026]] | [[KEEP|Comunicación Expresiva]] | [[KEEP|70]] | [[KEEP|62-78]]
+
+En la muestra de habla conectada más reciente, [[CHILD|Teo]] produjo [[KEEP|8/10]] palabras monosílabas con estructura consonante-vocal-consonante de forma correcta, un [[KEEP|80%]] de precisión, comparado con [[KEEP|3/10]] ([[KEEP|30%]]) en la evaluación inicial. Continúa sustituyendo sonidos posteriores por anteriores; por ejemplo, produce "[[KEEP|tato]]" para la palabra objetivo "[[KEEP|gato]]" y "[[KEEP|teso]]" para "[[KEEP|queso]]", consistente con un patrón de frontalización velar. Con [[KEEP|mod cues]] (claves moderadas), logró producir el fonema [[KEEP|/k/]] de forma aislada en [[KEEP|6 de 8]] intentos, y con [[KEEP|min cues]] generalizó [[KEEP|/g/]] en posición inicial en [[KEEP|4 de 10]] palabras.
+
+Resultado 1 (Comunicación funcional) — logrado: [[CHILD|Teo]] usa de 2 a 3 palabras para pedir objetos y actividades preferidas durante rutinas diarias, observado tanto en casa como en [[DAYCARE|Pequeños Pasos Daycare]].
+
+Resultado 2 (Articulación/Fonología) — en progreso: [[CHILD|Teo]] producirá las consonantes velares [[KEEP|/k/]] y [[KEEP|/g/]] en palabras de una sílaba con un [[KEEP|80%]] de precisión en tres de cuatro sesiones consecutivas.
+Estrategias: programa de [[KEEP|Cycles]] dirigido al proceso de frontalización velar; práctica en el hogar con tarjetas ilustradas, [[KEEP|10 minutos]], cuatro veces por semana; la [[TEACHER|Srta. Lopez]] reforzará los mismos objetivos durante el refrigerio.
+
+Resultado 3 (Interacción social) — nuevo: [[CHILD|Teo]] iniciará juego con un compañero, como [[PEER|Josué]], al menos dos veces durante una sesión de treinta minutos observada por la maestra.
+Estrategias: principios de [[KEEP|Hanen]] ("It Takes Two to Talk") para que los adultos sigan la iniciativa de [[CHILD|Teo]] antes de hablar por él; la familia reducirá las ocasiones en que [[SIBLING|Camila]] responde en su lugar; se usará tiempo de espera de cinco segundos antes de intervenir.
+
+Servicios y fechas
+
+[[CHILD|Teo]] recibe terapia de habla y lenguaje individual dos veces por semana, treinta minutos cada sesión, facturada bajo el código [[KEEP|92507]] (tratamiento de trastornos del habla, lenguaje, voz, comunicación o procesamiento auditivo), proporcionada por [[PROVIDER|Melissa Torres]], CCC-SLP, a través de [[EMPLOYER|Carolina Pediatric Therapy Services]]. Trimestralmente se completa una evaluación de tratamiento facturada bajo [[KEEP|92523]] (evaluación de producción del habla con evaluación del lenguaje). Los servicios comenzaron el [[DATE|1 de junio de 2025]] y continuarán hasta la próxima revisión, programada para el [[DATE|6 de abril de 2027]]. La coordinadora de servicios, [[PROVIDER|Ana Gómez]], puede ser contactada al [[PHONE|(336) 555-0148]] o por correo electrónico a [[EMAIL|agomez@cdsapiedmont.org]]. El número de caso de la familia en el CDSA es [[ID|48213]] y el número de Medicaid de [[CHILD|Teo]] es [[MEDICAID_ID|NC552738291A]].
+
+Para la próxima reunión, la familia solicitó que la intérprete, [[PROVIDER|Yolanda Martínez]], esté presente de nuevo, ya que facilitó mucho la comunicación durante la revisión de este año. El equipo acordó revisar nuevamente los resultados antes del [[DATE|6 de abril de 2027]] y considerar una evaluación formal de audición repetida si persisten dudas sobre fluctuaciones auditivas reportadas por la familia durante los episodios de catarro estacional.

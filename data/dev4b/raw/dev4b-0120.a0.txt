@@ -1,0 +1,43 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DE HABLA Y LENGUAJE
+
+Fecha de la nota: [[DATE|11 de octubre de 2026]]
+Paciente: [[CHILD|Mateo Alejandro Flores]] ("[[CHILD|Teo]]"), edad [[KEEP|4;2]]
+Clínica: [[HOSPITAL|Novant Health Pediatric ENT & Audiology – Campus Ballantyne]]
+Terapeuta: [[PROVIDER|Lic. Carolina Méndez]], CCC-SLP, bilingüe español/inglés
+
+Lugar de la sesión: [X] Clínica  [ ] Hogar  [ ] Guardería  [ ] Escuela
+Modalidad: [X] Presencial  [ ] Telesalud
+Hora de inicio: [[TIME|2:15 p.m.]]   Hora de finalización: [[TIME|3:00 p.m.]]
+
+S (Subjetivo):
+La mamá de [[CHILD|Teo]], [[PARENT|Rosa Elena Flores]], reporta que su hijo durmió bien y llegó contento. Mencionó que la niñera, [[FAMILY|Yolanda Pérez]], practicó las tarjetas de PECS en casa durante la tarde del [[DATE|9 de octubre de 2026]]. La abuela, [[FAMILY|Lupita Hernández]], también ayudó con ejercicios orales antes de dormir. El hermano mayor, [[SIBLING|Jesús "Chuy" Flores]], participó brevemente imitando sonidos junto a [[CHILD|Teo]].
+
+O (Objetivo):
+Se trabajó producción de /k/ y /g/ en sílabas y palabras usando [[KEEP|PROMPT]] y claves de [[KEEP|mod cues]]. [[CHILD|Teo]] produjo "[[KEEP|casa]]" correctamente [[KEEP|8/10]] intentos y "[[KEEP|gato]]" en [[KEEP|3 de 5]] con [[KEEP|min cues]]. Se usó también el programa [[KEEP|Hanen]] para fomentar turnos conversacionales.
+
+Tabla de puntajes administrados en sesiones previas:
+
+| Fecha | Prueba | Puntaje estándar | IC 95% |
+|---|---|---|---|
+| [[DATE|15/08/2026]] | [[KEEP|PLS-5]] | [[KEEP|78]] | [[KEEP|73-83]] |
+| [[DATE|12/09/2026]] | [[KEEP|CELF-5]] | [[KEEP|82]] | [[KEEP|76-88]] |
+| [[DATE|11/10/2026]] | [[KEEP|Auditory Comprehension]] | [[KEEP|85]] | [[KEEP|79-91]] |
+
+Equivalente de edad actual: [[KEEP|2;6–3;0]]. Peso al nacer: [[KEEP|3.1 kg]]. Edad gestacional: [[KEEP|38 semanas]]. Apgar: [[KEEP|9/9]].
+
+Asistencia a grupo de pares: [X] Grupo pequeño  [ ] Individual únicamente
+Compañero de grupo observado: [[PEER|Pepe Castillo]] modeló turnos de espera correctamente.
+
+A (Análisis):
+[[CHILD|Teo]] muestra progreso constante en fonología. La maestra de su guardería, [[TEACHER|Sra. Alicia Gómez]] de [[DAYCARE|Little Sprouts Daycare]], reportó mejoras similares en el salón.
+
+P (Plan):
+Continuar con [[KEEP|PROMPT]] y [[KEEP|Cycles]] dos veces por semana. Se recomienda evaluación de audiología con [[PROVIDER|Dr. Humberto Ríos]] en [[HOSPITAL|Atrium Health Levine Children's Audiology]] para descartar pérdida auditiva leve, código [[KEEP|ICD-10 H93.1]], CPT [[KEEP|92507]].
+
+Coordinación: Se notificará a la coordinadora de servicios, [[PROVIDER|Marisol Ortega]] de [[AGENCY|CDSA del Suroeste]], sobre los avances para la revisión del IFSP meta [[KEEP|#3]].
+
+Contacto familiar: tel. [[PHONE|(704) 555-0198]], ID de Medicaid [[MEDICAID_ID|987654321A]], expediente clínico [[ID|MRN-004471]].
+
+Domicilio: [[PLACE|412 Sendero Court, Charlotte, NC 28277]].
+
+Próxima cita: [[DATE|18 de octubre de 2026]], [[TIME|10:00 a.m.]]

@@ -1,0 +1,38 @@
+Record: [[ID|LLP-26041]]
+Client: [[CHILD|Elian Varela]]
+DOB: [[DATE|August 9, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Session: [[TIME|9:05 AM]]–[[TIME|9:50 AM]]
+Clinician: [[PROVIDER|Nora Beltrán]], MS, CCC-SLP
+Employer: [[EMPLOYER|Willow Kite Speech Services]]
+Therapy program: [[KEEP|Little Learners Program]]
+Daycare: [[DAYCARE|Little Learners Daycare]]
+Location: [[PLACE|418 Fernwheel Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27904]]
+Contact: [[PHONE|919-555-0168]]
+Email: [[EMAIL|intake@willowkite.example]]
+Website: [[URL|https://willowkite.example]]
+Medicaid: [[MEDICAID_ID|583710246Q]]
+Authorization: [[ID|AUTH-904182]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]
+Diagnosis: ICD-10 [[KEEP|F80.2]]
+
+Subjective
+Mother [[PARENT|Camila Varela]] reported improved requesting during breakfast at [[TIME|7:30 AM]]. Spanish remains the primary home language. Father [[PARENT|Tomás Varela]] practices English routines after work at [[ORG|Copper Finch Packaging]]. Sister [[SIBLING|Inés]] models turn-taking. Grandmother [[FAMILY|Rosa Montalvo]] attended today. Staff member Ms. [[TEACHER|Keene]] reported that peer [[PEER|Dorian]] initiated shared play. The family requested strategies that fit both languages without requiring separate practice materials.
+
+Birth and medical history
+Born at [[HOSPITAL|Juniper Vale Medical Center]] at [[KEEP|35 weeks]] gestation; birth weight [[KEEP|2,340 g]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. A NICU stay addressed feeding coordination. Neonatologist Dr. [[PROVIDER|Mara Seldon]] documented discharge readiness. Pediatrician Dr. [[PROVIDER|Owen Tavira]] now follows development. Service coordinator [[PROVIDER|Lena Corven]] previously supported the family through [[AGENCY|Alderbrook CDSA]].
+
+Objective
+Historical evaluation results were reviewed with the caregiver:
+
+Test/subtest | Evaluation date | Standard score | Percentile | Confidence interval | Age equivalent
+[[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[DATE|September 18, 2026]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]]
+
+Play addressed following directions and functional requests using [[KEEP|Hanen]] strategies. Requests occurred in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-step directions reached [[KEEP|60%]] with [[KEEP|mod cues]]. Initial [[KEEP|/k/]] emerged in [[KEEP|3 of 5]] attempts. Targets included [[KEEP|"cup"]] and [[KEEP|"car"]]. The child produced [[KEEP|"more bubbles"]] spontaneously and said "[[PET|Pogo]] run" while viewing a family photograph. One language sample included [[KEEP|[EW]]]. English and Spanish models supported participation; responses in either language were accepted. Movement breaks improved attention during transitions between activities.
+
+Assessment
+Functional communication increased during predictable play. Performance varied with linguistic complexity and task demands. The caregiver demonstrated responsive waiting and expansion after coaching. Current findings support continued intervention and bilingual monitoring.
+
+Plan
+Continue weekly therapy. Address IFSP outcome [[KEEP|2]] through requesting and shared routines. Practice targets during snack and bath activities. Review progress on [[DATE|November 6, 2026]]. Send practice materials home through the caregiver. No outside messages were sent.

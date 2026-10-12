@@ -1,0 +1,42 @@
+**Nota diaria de terapia y evaluación del lenguaje**
+
+Fecha: [[DATE|3 de marzo de 2025]]. Registro electrónico: [[DATE|2025-03-03]]. Horario: [[TIME|9:10 a. m.]]–[[TIME|10:00 a. m.]]  
+Paciente: [[CHILD|Adrián Solano Vela]], llamado [[CHILD|Adri]]. Nacimiento: [[DATE|01/01/2021]]. Edad: [[KEEP|4;2]]. Expediente: [[ID|EXP-582704]]. Medicaid: [[MEDICAID_ID|482731906Q]]. Autorización: [[ID|AUT-639218]].
+
+La licenciada [[PROVIDER|Elena Briones]], patóloga bilingüe del habla y del lenguaje, realizó la sesión en español para [[EMPLOYER|Puentes de Palabras Terapia Pediátrica, PLLC]], en Carolina del Norte. La familia conoce la empresa como [[EMPLOYER|Puentes de Palabras]]; el formulario administrativo usa [[EMPLOYER|PPTP]].
+
+**S: Información familiar**
+
+Su mamá, [[PARENT|Mariela Solano]], informó que [[CHILD|Adrián]] pidió ayuda durante el desayuno. Su padrastro, [[PARENT|Tomás Vela]], observó menos frustración al ofrecer opciones. Su hermana [[SIBLING|Inés Vela]] participó en juegos de turnos; su abuela [[FAMILY|Celia Solano]] practica vocabulario durante la merienda.
+
+La maestra [[TEACHER|Nora Villaseca]], de [[SCHOOL|Escuela Infantil Sendero Azul]], describió dificultades para seguir instrucciones grupales. En [[DAYCARE|Guardería Luciérnagas del Prado]], juega con [[PEER|Bruno Salceda]] y [[PEER|Alma Recio]]. La familia recordó una reunión celebrada [[DATE|el martes 4 de junio]].
+
+La madre trabaja en [[ORG|Taller Textil Nubes del Este]]. El conductor [[PERSON|Damián Leiva]] facilitó el traslado. Durante el juego, el niño dijo: «[[PET|Chispa]] corre», mientras señaló una fotografía del perro familiar.
+
+**Antecedentes y coordinación**
+
+Según el resumen familiar del nacimiento en [[HOSPITAL|Hospital Infantil Valle de Cedros]], la edad gestacional fue [[KEEP|38 semanas]], el peso fue [[KEEP|3.120 gramos]] y los puntajes Apgar fueron [[KEEP|8]] y [[KEEP|9]]. El pediatra, doctor [[PROVIDER|Raúl Cevallos]], solicitó seguimiento del lenguaje. La terapeuta ocupacional [[PROVIDER|Diana Luján]] y el fisioterapeuta [[PROVIDER|Óscar Treviño]] aportaron observaciones funcionales.
+
+**O: Evaluación integrada en la sesión**
+
+La intérprete [[PROVIDER|Mónica Arce]] apoyó las preguntas dirigidas al padrastro; la evaluación del niño se realizó directamente en español. Se administraron componentes de [[KEEP|PLS-5 Spanish]]. La siguiente tabla resume resultados descriptivos; la interpretación considera la exposición bilingüe y las observaciones familiares.
+
+| Subprueba | Puntuación estándar | Percentil | Intervalo de confianza del [[KEEP|90%]] | Edad equivalente |
+|---|---|---|---|---|
+| [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73–85]] | [[KEEP|2;8–3;0]] |
+| [[KEEP|Comunicación expresiva]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70–82]] | [[KEEP|2;6–2;10]] |
+| [[KEEP|Lenguaje total]] | [[KEEP|74]] | [[KEEP|4]] | [[KEEP|69–81]] | [[KEEP|2;7–2;11]] |
+
+Identificó objetos en [[KEEP|8/10]] oportunidades y siguió instrucciones espaciales en [[KEEP|3 de 5]], con [[KEEP|apoyos moderados]]. Produjo [[KEEP|«quiero agua»]] y [[KEEP|«más pelota»]] espontáneamente. Para las palabras objetivo [[KEEP|«casa»]] y [[KEEP|«carro»]], necesitó [[KEEP|apoyos máximos]]. Se observó sustitución de [[KEEP|/k/]] y aproximación de [[KEEP|/ɾ/]]; una producción incluyó [[KEEP|[w]]]. La muestra recibió el código [[KEEP|[EW]]]. La precisión global fue [[KEEP|60%]].
+
+**A: Interpretación clínica**
+
+[[CHILD|A. S. V.]] mostró intención comunicativa consistente y mejor respuesta con objetos concretos. Las dificultades expresivas afectaron la participación en turnos compartidos. Los resultados apoyan continuar el tratamiento por [[KEEP|F80.2]], sin atribuir las dificultades al bilingüismo. Las edades equivalentes describen el desempeño observado y no representan la edad global del niño.
+
+**P: Plan**
+
+Se practicaron estrategias de [[KEEP|Hanen]] y una secuencia de [[KEEP|Cycles]]. Continuar la meta [[KEEP|2]] del IFSP y revisar el plan el [[DATE|17/03/2025]]. Facturación: CPT [[KEEP|92507]], modificador [[KEEP|GN]].
+
+La coordinadora [[PROVIDER|Rocío Beltrán]], de [[AGENCY|Agencia Comunitaria de Coordinación Infantil Manantial del Roble]], abreviada [[AGENCY|Manantial]], recibirá el resumen autorizado. Participa también la [[AGENCY|Oficina de la Agencia de Servicios del Desarrollo Infantil de Villa Bruma]], denominada [[AGENCY|CDSA de Villa Bruma]].
+
+Domicilio registrado: [[PLACE|184 Calle del Almendro]], [[PLACE|Villa Bruma]], condado de [[PLACE|Loma Serena]], [[PLACE|27864]]. Contacto: [[PHONE|252-555-0148]], [[EMAIL|familia.solano@example.com]]. Recursos: [[URL|https://puentespalabras.example/recursos]]. Próxima sesión: [[DATE|03.10.2025]], a las [[TIME|9:15 a. m.]].

@@ -1,0 +1,30 @@
+Dear Ms. [[PARENT|Elena de la Cruz]],
+
+Thank you for meeting with me about [[CHILD|Mateo de la Cruz-Santos]] on [[DATE|October 8, 2026]]. I am [[PROVIDER|Nora Ellis-Reed]], the bilingual pediatric speech-language pathologist at [[EMPLOYER|Willow Lantern Speech Services]] in North Carolina. This summary describes communication across English and Spanish. Please share it with Ms. [[TEACHER|Tessa Larkin]] at [[SCHOOL|Juniper Cove Preschool]] before our team review.
+
+Contact	Organization	Details
+Intake	[[AGENCY|Agencia de Servicios de Desarrollo Infantil de la Costa de Bruma]] ([[AGENCY|CDSA Costa de Bruma]])	[[PLACE|Larkhaven]], North Carolina
+Coordinator [[PROVIDER|Inés del Río]]	[[AGENCY|Agencia Comunitaria de Coordinación de Servicios para Familias del Valle Claro]] ([[AGENCY|ACSF Valle Claro]])	[[PHONE|919-555-0146]]
+Clinician	[[EMPLOYER|Willow Lantern Speech Services]]	[[EMAIL|nora.ellis-reed@willowlantern.example]]
+
+At age [[KEEP|4;2]], [[CHILD|Mateo]] used short phrases during play and needed extra processing time. Earlier records and current testing provide different snapshots; the earlier developmental results should not be interpreted as current performance. Testing language, participation, and caregiver observations also affect interpretation.
+
+Measure	Result	Context
+[[KEEP|Rossetti Infant-Toddler Language Scale]]	Age equivalent [[KEEP|24 months]]	Earlier record
+[[KEEP|Bayley-4]]	Scaled score [[KEEP|7]]	Earlier record
+[[KEEP|Goldman-Fristoe Test of Articulation-3]]	Standard score [[KEEP|78]]	Current assessment
+[[KEEP|Peabody Picture Vocabulary Test-5]]	Standard score [[KEEP|86]]; percentile [[KEEP|18]]	Current assessment
+[[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]]	Standard score [[KEEP|82]]; [[KEEP|90%]] confidence interval [[KEEP|77–89]]	Current assessment
+
+During shared play, [[CHILD|Mateo]] followed directions in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]]. He produced [[KEEP|"tar"]] for the target [[KEEP|"car"]], replacing [[KEEP|/k/]] with [[KEEP|/t/]]. A language sample included [[KEEP|[EW]]]. These observations support treatment for [[KEEP|F80.2]] and [[KEEP|F80.0]]. Sessions use [[KEEP|CPT 92507]] with modifier [[KEEP|GN]].
+
+His sister, [[SIBLING|Alma]], modeled turn taking. His grandmother, [[FAMILY|Rosa del Río]], reported longer phrases while feeding their dog, [[PET|Nube]]. Classmate [[PEER|Eli Mercer]] helped maintain a shared building activity. The family attends [[ORG|Lantern Bridge Community Center]], where volunteer [[PERSON|Celia Voss]] leads story activities. His father, [[PARENT|Daniel Santos]], requested practice ideas compatible with shifts at [[ORG|Copper Finch Packaging]].
+
+Service	Day and time	Location
+Speech therapy	[[DATE|October 15, 2026]], [[TIME|9:30 a.m.]]	[[SCHOOL|Juniper Cove Preschool]]
+Parent coaching	[[DATE|October 22, 2026]], [[TIME|4:00 p.m.]]	[[PLACE|418 Wrenberry Lane]], [[PLACE|Larkhaven]], [[PLACE|27683]]
+
+We will use [[KEEP|Hanen]] strategies during familiar routines. The team will revisit IFSP outcome [[KEEP|2]] as a historical reference and develop current classroom goals. Please offer choices, pause for a response, and expand his message without requiring repetition. Record whether communication occurs independently or after help. Bring examples from both languages to our next discussion. Brief notes about successful routines will help us choose useful activities together. Please include the setting, who participated, and what helped him communicate.
+
+Sincerely,
+[[PROVIDER|Nora Ellis-Reed]]

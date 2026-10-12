@@ -1,0 +1,20 @@
+Nota diaria de terapia del lenguaje — caso ficticio
+
+La sesión del [[DATE|17 de septiembre de 2026]] se realizó desde las [[TIME|09:10]] hasta las [[TIME|09:55]]. Atendí a [[CHILD|María José Valdés Cordero]], de [[KEEP|4;2]], con su mamá [[PARENT|Lucía Cordero Peña]]. Soy la logopeda bilingüe [[PROVIDER|Elena Solís Prado]], de [[EMPLOYER|Voces del Roble]]. El expediente [[ID|SLP-260917-043]] registra Medicaid [[MEDICAID_ID|483761925Q]], diagnóstico ICD-10 [[KEEP|F80.2]], CPT [[KEEP|92507]] y modificador [[KEEP|GN]]. La atención ocurrió en [[PLACE|284 Calle del Laurel]], [[PLACE|Pinar del Este]], Carolina del Norte, [[PLACE|27904]].
+
+La madre informó más peticiones durante el desayuno de las [[TIME|07:30]]. El hermano [[SIBLING|Tomás Valdés Cordero]] y la abuela [[FAMILY|Rosa Peña Salcedo]] participaron en juegos domiciliarios. El nacimiento ocurrió el [[DATE|17 de julio de 2022]] en [[HOSPITAL|Hospital Infantil del Laurel]], con edad gestacional de [[KEEP|38 semanas]], peso de [[KEEP|3.120 g]] y Apgar de [[KEEP|8/9]]. No se comunicaron cambios auditivos recientes.
+
+Revisé los resultados de [[KEEP|PLS-5]] obtenidos durante la evaluación anterior. Las fechas identifican la aplicación; las cifras corresponden a puntuaciones estándar, percentiles, intervalos de confianza y equivalentes de edad.
+
+| Subprueba | Fecha | Puntuación estándar | Percentil | IC [[KEEP|95%]] | Equivalente de edad |
+|---|---|---|---|---|---|
+| [[KEEP|Auditory Comprehension]] | [[DATE|03/09/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|Expressive Communication]] | [[DATE|03/09/2026]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-80]] | [[KEEP|2;4–2;8]] |
+
+Hoy, [[CHILD|María José]] entró tranquila y eligió animales. Solicitó [[KEEP|"quiero agua"]] espontáneamente y dijo "[[PET|Nube]] corre" al mirar una fotografía del perro familiar. Compartió materiales con [[PEER|Ana Belén Ríos Soto]], aunque necesitó [[KEEP|mod cues]] para esperar turnos. Comprendió instrucciones relacionadas en [[KEEP|8/10]] oportunidades. Las muestras incluyeron [[KEEP|"yo tene dos"]], anotada con el código SALT [[KEEP|[EW]]], y sustitución de /r/ por [[KEEP|[w]].
+
+Usé estrategias de [[KEEP|Hanen]] y [[KEEP|It Takes Two to Talk]] para apoyar las pausas y seguir sus intereses. Incorporé [[KEEP|PECS]] para iniciar peticiones, principios de [[KEEP|Kaufman]] para secuencias silábicas y [[KEEP|Cycles]] para practicar [[KEEP|/k/]]. Con consentimiento materno, apliqué apoyos de [[KEEP|PROMPT]]. Produjo el objetivo [[KEEP|"casa"]] en [[KEEP|3 de 5]] ensayos con [[KEEP|max cues]], y logró [[KEEP|60%]] de precisión al reducir el apoyo a [[KEEP|min cues]]. La fatiga apareció al final, sin malestar.
+
+La maestra [[TEACHER|Marta Leal Fuentes]], de [[SCHOOL|Escuela Sendero Azul]], reportó participación variable. La guardería [[DAYCARE|Semillitas del Arroyo]] solicita el mismo tablero. La coordinadora [[PROVIDER|Nora Gil Montes]], de [[AGENCY|CDSA del Valle Claro]], revisará la meta [[KEEP|2]] del IFSP. La madre trabaja en [[ORG|Textiles Brisa Clara]]; el conductor [[PERSON|Samuel Vera Lobo]] facilita el traslado.
+
+Acordamos practicar durante cinco minutos después de la merienda de las [[TIME|15:30]], sin exigir repeticiones. La próxima sesión será el [[DATE|24 de septiembre de 2026]]. El contacto familiar registrado es [[PHONE|919-555-0146]] y [[EMAIL|lucia.cordero@example.com]]. El material está en [[URL|https://vocesdelroble.example/practica]]. Continuaré midiendo peticiones espontáneas y respuesta a apoyos, con ejemplos en ambos idiomas. La madre explicó correctamente la práctica y recibió una copia del tablero.

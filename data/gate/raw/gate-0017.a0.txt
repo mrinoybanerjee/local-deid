@@ -1,0 +1,255 @@
+North Carolina Infant-Toddler Program
+Individualized Family Service Plan Review
+
+FICTIONAL DOCUMENT FOR OFFLINE DE-IDENTIFICATION TESTING
+
+1. DOCUMENT AND REVIEW INFORMATION
+
+1.1 Review identification
+
+This report records a family-centered IFSP review completed on [[DATE|3 de marzo de 2025]]. Every person, organization, address, identifier, and event in this document is fictional.
+
+The client is [[CHILD|Emilia Lucero Rivas]], called [[CHILD|Emi]] by the family. Her birth date is [[DATE|11/03/2022]]. Her chronological age at this review is [[KEEP|2;4]]. The program record number is [[ID|ITP-5837429]], and the Medicaid member number is [[MEDICAID_ID|947206381Q]].
+
+The current plan began on [[DATE|09-16-2024]]. This review updates family priorities, functional outcomes, service arrangements, and coordination responsibilities. The next review is scheduled for [[DATE|June 2, 2025]].
+
+1.2 Report preparation
+
+Ms. [[PROVIDER|Luciana Varela]], a bilingual pediatric speech-language pathologist employed by [[EMPLOYER|Little Path Bilingual Therapies]], prepared this report in English. Spanish was the primary language used during family interviews. The clinician documented the family’s meaning without treating bilingual development as a disability.
+
+2. FAMILY INFORMATION
+
+2.1 Household and contact details
+
+[[CHILD|Emilia]] lives with her mother, [[PARENT|Mariela Rivas]], her father, [[PARENT|Diego Lucero]], and her brother, [[SIBLING|Javier Lucero Rivas]]. Her sister, [[SIBLING|Sofía Lucero Rivas]], stays in the household on alternate weekends.
+
+The family’s mailing address is [[PLACE|4826 Lantern Fern Lane]], [[PLACE|Cedar Hollow]], North Carolina [[PLACE|27986]], in [[PLACE|Briar County]]. The preferred telephone number is [[PHONE|(252) 555-0146]]. Written appointment reminders may be sent to [[EMAIL|mariela.rivas@familymail.example]].
+
+The father works at [[ORG|Fernstead Packing Cooperative]]. His rotating shifts affect appointment availability. The mother manages most weekday routines and requests advance notice when providers need to change visits.
+
+2.2 Extended family
+
+The maternal grandmother, [[FAMILY|Rosa Beltrán]], provides care twice weekly. The family maintains contact with the grandfather, [[FAMILY|Tomás Beltrán]], whose fictional address is [[PLACE|Calle de las Guayabas 27]], [[PLACE|San Jacinto del Naranjal]], Honduras.
+
+The babysitter, [[FAMILY|Nina Cordero]], supports occasional evening care. The family’s dog, [[PET|Luna]], frequently joins floor play.
+
+3. SERVICE COORDINATION AND PARTICIPANTS
+
+3.1 Lead agency
+
+The assigned office is [[AGENCY|Willow Creek CDSA]]. Ms. [[PROVIDER|Hannah Mercer]] serves as the service coordinator. Her telephone number is [[PHONE|252-555-0178]], and her email address is [[EMAIL|hannah.mercer@willowcdsa.example]].
+
+The service coordinator confirmed family participation, reviewed procedural information, and recorded agreement with the revised outcomes. The family requested Spanish explanations for forms and English copies for its household folder.
+
+3.2 Review participants
+
+Participants included both parents, the bilingual speech-language pathologist, occupational therapist [[PROVIDER|Priya Desai]], physical therapist [[PROVIDER|Owen Brooks]], and interpreter [[PROVIDER|Esteban Salcedo]].
+
+The interpreter supported discussion of administrative language and checked the family’s understanding. He did not administer standardized testing or independently interpret clinical findings.
+
+The pediatrician, Dr. [[PROVIDER|Camila Serrano]], provided a written update dated [[DATE|02/24/2025]]. Classroom information came from Ms. [[TEACHER|Celeste Ibarra]] and classroom assistant [[TEACHER|Jonah Bell]]. Each participant addressed activities within their role.
+
+4. FAMILY CONCERNS AND PRIORITIES
+
+4.1 Family’s own words
+
+The mother stated, “I want [[CHILD|Emi]] to tell us what she needs before she becomes upset. Sometimes she points, and we guess wrong. I want her to ask for help during meals and play.”
+
+The father stated, “When I return from work, I want to understand what happened during her day. I would like her to show me something and use a word, a sign, or a picture.”
+
+The grandmother stated, “I want to know how long to wait. I sometimes give her everything before she has a chance to ask.”
+
+4.2 Ranked priorities
+
+The family selected communication during meals as its first priority. Participation in play and transitions followed. The parents also requested practical ways to explain communication supports to relatives.
+
+The family wants strategies that fit ordinary routines. It prefers brief practice opportunities over separate homework periods. The team agreed that successful participation can include gestures, pictures, signs, Spanish words, English words, or combinations of these forms.
+
+5. STRENGTHS, LANGUAGES, AND INTERESTS
+
+5.1 Child and family strengths
+
+[[CHILD|Emilia]] seeks familiar adults, enjoys shared songs, and brings preferred toys to others. She notices changes in familiar routines and watches an adult’s face before attempting a new action.
+
+The family uses Spanish during most home routines. English occurs during childcare, community activities, and some sibling play. The brother enjoys translating familiar songs, although adults remain responsible for communication support.
+
+The parents identify bubbles, toy animals, kitchen utensils, and books with flaps as strong interests. These materials support shared attention without requiring purchased therapy equipment.
+
+5.2 Communication observations
+
+The child used [[KEEP|"más"]], [[KEEP|"agua"]], and [[KEEP|"up"]] spontaneously during this review. A production of [[KEEP|"awa"]] accompanied a reach toward a cup. The clinician accepted that production as a meaningful approximation of the target word [[KEEP|"agua"]].
+
+The team observed emerging combinations of gestures and vocalizations. Speech clarity varied by context. Familiar listeners understood more when they could see the activity.
+
+6. DAILY ROUTINES AND PARTICIPATION
+
+6.1 Morning and meals
+
+The household usually begins breakfast at [[TIME|7:15 a.m.]]. The child sits with a caregiver and chooses between two familiar foods. Communication opportunities include requesting another portion, rejecting an item, and asking for assistance.
+
+Dressing follows breakfast. The mother offers one clothing choice and allows time for a response. The family reports that rushed departures reduce opportunities for participation.
+
+6.2 Childcare, rest, and evening routines
+
+Attendance at [[DAYCARE|Meadow Lantern Child Development Center]] occurs three mornings weekly. Group play begins at [[TIME|9:00 a.m.]], and the family usually collects the child at [[TIME|12:10 p.m.]].
+
+Rest begins around [[TIME|1:30 p.m.]]. Evening play occurs after dinner, depending on the father’s work schedule. Bath time generally starts at [[TIME|7:20 p.m.]].
+
+The brother attends [[SCHOOL|Pineglass Elementary School]]. His afternoon arrival provides a familiar opportunity for greeting and shared book reading. Providers will build strategies into these routines rather than adding a separate treatment schedule.
+
+7. DEVELOPMENTAL AND HEALTH REVIEW
+
+7.1 Assessment sources
+
+The clinician reviewed caregiver interviews, direct observation, and the [[KEEP|Rossetti Infant-Toddler Language Scale]]. Receptive language skills appeared most consistent within the [[KEEP|21–24 months]] range, with scattered higher skills. Expressive language skills appeared mainly within the [[KEEP|15–18 months]] range.
+
+These criterion-referenced findings describe observed skills. They do not provide a standard score or establish eligibility independently.
+
+A previous [[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]] assessment recorded a Language Composite [[KEEP|standard score of 78]], at the [[KEEP|7th percentile]]. Interpretation included language exposure, caregiver information, and the limits of the assessment setting.
+
+7.2 Health information
+
+The pediatrician reported no current activity restrictions. A hearing visit at [[HOSPITAL|Fernwater Children’s Hospital]] on [[DATE|2025/01/28]] documented responses at [[KEEP|20 dB HL]] in sound-field screening.
+
+The family reported no new feeding concerns. The occupational therapist will monitor seating and utensil participation. The physical therapist will monitor safe movement during play.
+
+8. OTHER AGENCIES AND COMMUNITY SUPPORTS
+
+8.1 Active involvement
+
+[[AGENCY|Briar County DSS]] assists the family with benefit renewal questions. Caseworker Ms. [[PERSON|Alina Foster]] is the identified contact. No protective services involvement is reported in this fictional case.
+
+[[AGENCY|Briar County WIC]] provides nutrition counseling and food benefits. The family requested coordination of appointment reminders because missed transportation has affected attendance.
+
+[[AGENCY|Briar County Smart Start]] provides information about lending materials and community play opportunities. [[AGENCY|Sunfield Early Head Start]] is reviewing a referral for family support and future enrollment options.
+
+8.2 Coordination responsibilities
+
+The service coordinator will confirm which agencies need updated contact information. Information sharing will follow the family’s documented permissions.
+
+Transportation dispatcher [[PERSON|Marcus Hale]] may arrange rides when requested. The family will receive scheduling information through its preferred contact method.
+
+The team reviewed the fictional resource portal at [[URL|https://resources.willowcdsa.example/families]]. Access to this portal is optional and does not determine service eligibility.
+
+9. PROGRESS SINCE THE PREVIOUS PLAN
+
+9.1 Communication progress
+
+During snack observations, [[CHILD|Emilia]] communicated a choice in [[KEEP|6/10]] opportunities with [[KEEP|min cues]]. Earlier observations documented [[KEEP|3/10]] opportunities with [[KEEP|mod cues]]. Responses included pointing, vocalizing, and selecting a picture.
+
+The child requested help in [[KEEP|2/5]] opportunities when an adult paused beside a closed container. She continued to rely on reaching or crying when materials were unavailable or adults moved too quickly.
+
+9.2 Participation progress
+
+The child joined brief turn-taking activities for approximately four minutes when a familiar adult followed her interests. Classroom staff reported more successful participation in songs than in group instructions.
+
+Transitions improved when adults used a familiar object and a short verbal cue. These findings support continued routine-based intervention.
+
+The family reported practicing the strategies on most weekdays. The clinician treated that report as caregiver information, not as independently verified frequency data.
+
+10. OUTCOME ONE: FUNCTIONAL REQUESTS
+
+10.1 Outcome statement and measurement
+
+By [[DATE|05/30/2025]], [[CHILD|Emilia]] will communicate a request, rejection, or request for help during meals and play in [[KEEP|8/10]] natural opportunities across three consecutive observations.
+
+Acceptable forms include gestures, signs, pictures, words, and meaningful approximations. Adults will record the situation and response, with no requirement to use English instead of Spanish.
+
+10.2 Strategies
+
+Caregivers will offer two visible choices, pause, and respond to the child’s communication. They will model one useful word without requiring repetition before providing the item.
+
+Target words include [[KEEP|"más"]], [[KEEP|"ayuda"]], [[KEEP|"abre"]], and [[KEEP|"help"]]. Models will follow the language already used in the routine.
+
+The clinician will coach caregivers to reduce support from [[KEEP|mod cues]] toward [[KEEP|min cues]]. The family will practice during breakfast, snack, and toy cleanup.
+
+Progress will be reviewed through caregiver examples and direct observation. Providers will revise a strategy when it increases frustration or interrupts participation.
+
+11. OUTCOME TWO: SHARED PLAY AND SOCIAL COMMUNICATION
+
+11.1 Outcome statement
+
+By [[DATE|June 2, 2025]], the child will complete four reciprocal play turns with an adult or peer in [[KEEP|4/5]] observed opportunities, using objects, gestures, vocalizations, or words.
+
+Peers [[PEER|Nico Aranda]] and [[PEER|Alma Funes]] participate in the same classroom play group. Staff will support voluntary interaction and respect each child’s interest in joining.
+
+11.2 Strategies and clinical interpretation
+
+Adults will imitate an action, offer a related action, and pause. Suggested activities include rolling a ball, feeding toy animals, and adding blocks to a shared structure.
+
+The clinician will model targets such as [[KEEP|"my turn"]], [[KEEP|"toma"]], and [[KEEP|"go"]]. Speech sounds including [[KEEP|/k/]] may occur in models, but accurate articulation is not required for success.
+
+A glide production such as [[KEEP|[w]]] will be documented descriptively. Language samples may use [[KEEP|SALT]] conventions, including [[KEEP|[EW]]], when appropriate. Coding will supplement functional observations rather than replace them.
+
+12. OUTCOME THREE: TRANSITIONS AND CAREGIVER CONFIDENCE
+
+12.1 Outcome statement
+
+By [[DATE|05-30-2025]], the family will use two selected transition supports during dressing, childcare departure, and cleanup. The child will participate with manageable distress in [[KEEP|80%]] of recorded opportunities.
+
+Caregivers will identify which supports helped and whether the routine remained practical. The team will review patterns rather than treating one difficult day as failure.
+
+12.2 Strategies
+
+Adults will show a familiar object or picture before the transition. They will use one short statement, allow processing time, and offer a simple action the child can complete.
+
+The occupational therapist will address clothing and seating demands. The physical therapist will suggest movement options that support safe participation. The speech-language pathologist will help adults pair visual information with understandable language.
+
+The grandmother requested demonstration followed by practice. Coaching will include observation, caregiver reflection, and one agreed adjustment. Written instructions will remain brief and available in the family’s preferred language.
+
+13. SERVICES, FREQUENCY, AND DATES
+
+13.1 Speech-language and coordination services
+
+Speech-language services will occur once weekly for forty-five minutes in the home or childcare routine. The service period is [[DATE|03/10/2025]] through [[DATE|09/15/2025]]. The assigned clinician is Ms. [[PROVIDER|Luciana Varela]].
+
+The anticipated documentation code is [[KEEP|CPT 92507]]. The recorded diagnosis code is [[KEEP|ICD-10 F80.2]]. These codes describe clinical documentation and do not replace the IFSP outcomes.
+
+Service coordination will continue monthly and as needed. The assigned coordinator is Ms. [[PROVIDER|Hannah Mercer]]. The coordination authorization is [[ID|SC-250310-6842]].
+
+13.2 Other provider schedules
+
+Occupational therapy will occur twice monthly for forty-five minutes, beginning [[DATE|March 12, 2025]]. Physical therapy consultation will occur monthly, beginning [[DATE|2025-03-19]].
+
+Interpreter support is scheduled for the next joint meeting on [[DATE|06/02/2025]] at [[TIME|10:30 a.m.]]. The family prefers visits after breakfast and before afternoon rest. Providers will confirm appointments rather than assuming a recurring time remains suitable.
+
+14. IMPLEMENTATION, TRANSITION, AND FOLLOW-UP
+
+14.1 Team communication
+
+The service coordinator will maintain the shared service schedule. Providers will document completed visits, missed visits, caregiver priorities, and changes that affect participation.
+
+The family’s old calendar contains the entry [[DATE|el martes 4 de junio]]. The coordinator identified it as an earlier appointment note. It will not be used to schedule a current service.
+
+The parents requested reminders containing the full date. Numeric dates alone have caused confusion between day-first and month-first formats.
+
+14.2 Transition planning
+
+Transition discussions will begin before the child reaches [[KEEP|3 years]]. The coordinator will explain available options and obtain the permissions needed for referrals.
+
+The family wants information about classroom language supports, transportation, and opportunities to visit potential settings. The team will document decisions after discussion.
+
+No placement decision was made at this review. Current services will continue under the stated plan while transition questions are addressed.
+
+15. AGREEMENT AND CLINICAL SUMMARY
+
+15.1 Family agreement
+
+The mother, [[PARENT|Mariela Rivas]], stated, “This plan fits what we need at home. I want everyone to use the same simple steps.”
+
+The father, [[PARENT|Diego Lucero]], stated, “Please show me the strategies when I am available. Written notes help, but I learn more by practicing.”
+
+The family agreed to the outcomes and requested a Spanish verbal review before signing. The interpreter confirmed that the family could ask questions and describe the plan in its own words.
+
+15.2 Final documentation
+
+The bilingual speech-language pathologist recommends continued coaching within familiar routines. The child’s bilingual exposure will remain part of assessment and intervention planning.
+
+The coordinator will distribute the completed plan according to documented family permissions. The report completion date is [[DATE|03.04.2025]].
+
+Prepared by Ms. [[PROVIDER|Luciana Varela]], bilingual pediatric speech-language pathologist.
+
+Reviewed with Ms. [[PROVIDER|Hannah Mercer]], service coordinator.
+
+Client reference: [[CHILD|E. L. R.]].
+Record reference: [[ID|ITP-5837429]].

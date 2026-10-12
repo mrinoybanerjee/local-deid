@@ -1,0 +1,17 @@
+Daily Speech-Language Therapy Note
+
+Service: [[DATE|October 8, 2026]], [[TIME|9:10 AM]] to [[TIME|9:45 AM]].
+Client: [[CHILD|Nico de la Cruz]], age [[KEEP|4;2]].
+Clinician: [[PROVIDER|Elena Vargas-Moss]], bilingual pediatric SLP, [[EMPLOYER|Little Lantern Speech Partners]], North Carolina.
+Record: [[ID|LL-684209]]; Medicaid: [[MEDICAID_ID|482731906Q]].
+Location: [[PLACE|27 Lanternberry Lane, Wrenford, NC 27998]].
+
+S: Mother [[PARENT|Marisol de la Cruz]] reported that [[CHILD|Nico]] requested snacks using [[KEEP|"quiero mas"]]. Father [[PARENT|Tomas Rivas-Bell]] joined by telephone. Sister [[SIBLING|Lina]] practiced turn taking; grandmother [[FAMILY|Rosa del Rio]] described naming their dog, [[PET|Chispa]]. Family contacts: [[PHONE|(919) 555-0146]], [[PHONE|984-555-0182]], and grandmother's Mexican number [[PHONE|+52 55 5555 0107]]. Email: [[EMAIL|marisol.rivas@example.com]]. Mother works at [[ORG|Lanternberry Textile Studio]].
+
+Teacher Ms. [[TEACHER|Celia Navarro]] at [[SCHOOL|Wrenford Meadow Preschool]] reported improved participation with classmates [[PEER|Owen Pike]] and [[PEER|Maya Solis]]. Afternoon staff at [[DAYCARE|Acorn Bridge Daycare]] requested the same picture supports.
+
+O: Reviewed prior [[KEEP|Rossetti]] developmental findings, [[KEEP|Bayley]] language score [[KEEP|80]], [[KEEP|Peabody]] standard score [[KEEP|82]] ([[KEEP|12th percentile]]), and [[KEEP|Goldman-Fristoe]] standard score [[KEEP|76]]. These measures were not readministered today. Treatment addressed [[KEEP|/k/]], [[KEEP|/g/]], and two-word requests. [[CHILD|Nico]] produced [[KEEP|"key"]] in [[KEEP|8/10]] trials with [[KEEP|mod cues]], then [[KEEP|"go car"]] independently in [[KEEP|60%]] of opportunities. Initial [[KEEP|/r/]] remained [[KEEP|[w]]]. Recorded [[KEEP|"him go"]] with [[KEEP|[EW]]]. Engagement improved after movement breaks. English and Spanish models supported participation without requiring translation.
+
+A: Functional requesting improved with visual choices. Accuracy decreased when cues faded. Family reports suggest emerging carryover across routines. Diagnosis: [[KEEP|F80.2]]; service: [[KEEP|CPT 92507]]. No new concerns were reported.
+
+P: Continue weekly sessions. Practice [[KEEP|"mas agua"]] and [[KEEP|"my turn"]] during play. Coordinate with pediatrician Dr. [[PROVIDER|Adrian Vale]] at [[HOSPITAL|Wrenford Children's Hospital]] and coordinator [[PROVIDER|Iris Lane]] at [[AGENCY|Lantern County CDSA]]. Driver [[PERSON|Felix Trent]] received only pickup instructions. Review home practice on [[DATE|October 15, 2026]]. Resources: [[URL|https://littlelantern.example/resources]]. Mother confirmed understanding through teach-back and chose snack time for daily practice.

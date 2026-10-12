@@ -1,0 +1,24 @@
+Daily Speech-Language Therapy Note: Fictional Training Record
+
+Service date: [[DATE|October 8, 2026]]
+Client: [[CHILD|Mateo Julian Varela]], called [[CHILD|Teo]]; age [[KEEP|4;2]].
+Record: [[ID|SLP-684291]]; Medicaid: [[MEDICAID_ID|583104927Q]].
+Clinician: [[PROVIDER|Elena Marisol Cardenas]], bilingual pediatric speech-language pathologist, [[EMPLOYER|Little Lantern Speech Services]].
+Setting: [[SCHOOL|Willow Finch Preschool]], [[PLACE|Briar Hollow]], North Carolina.
+Parent contact: [[PHONE|919-555-0146]].
+
+Session schedule:
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[SCHOOL|Willow Finch Preschool]] |
+| Thursday | [[TIME|10:15 AM]] | [[TIME|10:45 AM]] | [[SCHOOL|Willow Finch Preschool]] |
+| Friday | [[TIME|1:00 PM]] | [[TIME|1:30 PM]] | [[AGENCY|Briar Hollow Family Support Center]] |
+
+S: Mom, [[PARENT|Guadalupe Elena Varela]], called [[PARENT|Lupita]], reported improved requesting during breakfast. Mom works nights at [[ORG|Pine Lantern Packaging]] as a machine operator. Dad, [[PARENT|Jesus Tomas Varela]], called [[PARENT|Chuy]], practices picture choices after dinner. Brother [[SIBLING|Jose Luis Varela]], called [[SIBLING|Pepe]], sometimes answers before the client can respond. Aunt [[FAMILY|Rosa Beatriz Molina]] provides afternoon care. Classroom teacher Ms. [[TEACHER|Nora Bellamy]] reported that transitions remain difficult when preferred toys are removed. No new hearing concerns were reported. The family uses Spanish at home and English during preschool activities.
+
+O: The client participated in play with classmate [[PEER|Juan Manuel Serrano]], called [[PEER|Juanito]]. Treatment used [[KEEP|Hanen]] strategies and brief [[KEEP|PROMPT]] support. Requests occurred in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], decreasing to [[KEEP|min cues]] during familiar routines. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]]; [[KEEP|[w]]] substitutions persisted in connected speech. Targets included [[KEEP|"cup"]], [[KEEP|"car"]], and [[KEEP|"quiero agua"]]. Spontaneous productions included [[KEEP|"more bubbles"]] and [[KEEP|"yo tengo"]]. During pretend play, he said "[[PET|Taco]] run" while describing the family dog. A language sample contained [[KEEP|[EW]]] annotations. Turn-taking succeeded in [[KEEP|3 of 5]] opportunities. Visual choices improved participation. Movement breaks helped the client return to table activities without crying.
+
+A: The prior evaluation dated [[DATE|September 17, 2026]] included [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]]: standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These English results require interpretation alongside Spanish language samples. Functional requesting improved within practiced routines; independent carryover remains inconsistent. Speech errors continue to reduce intelligibility for unfamiliar listeners. Today, the client benefited from predictable routines, extra response time, and gestures. Fatigue increased near session end, but engagement recovered after a brief break.
+
+P: Continue [[KEEP|IFSP outcome 2]] and [[KEEP|goal 2.1]] through play-based requesting and caregiver coaching. Practice [[KEEP|"help me"]] and [[KEEP|"mi turno"]] during meals and shared play. Caregivers will pause before offering assistance and accept either language. Ask family members to allow the client time to answer. Share visual choices with classroom staff. Review progress on [[DATE|October 15, 2026]]. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; diagnosis [[KEEP|ICD-10 F80.2]]. Parent understood the home activities and agreed to practice during familiar routines. No home worksheet was assigned.

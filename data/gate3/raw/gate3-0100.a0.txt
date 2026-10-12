@@ -1,0 +1,175 @@
+PROGRAMA DE CAROLINA DEL NORTE PARA BEBÉS Y NIÑOS PEQUEÑOS
+REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA — IFSP
+
+Este documento es completamente ficticio. Todos los nombres, contactos, lugares e identificadores se inventaron para pruebas de desidentificación.
+
+INFORMACIÓN DEL EXPEDIENTE
+
+Campo	Dato
+Niño	[[CHILD|Nicolás Salceda Rivas]]
+Nombre familiar	[[CHILD|Nico]]
+Fecha de nacimiento	[[DATE|17 de febrero de 2024]]
+Edad en esta revisión	[[KEEP|2;7]]
+Fecha de revisión	[[DATE|9 de octubre de 2026]]
+Evaluación utilizada	[[DATE|18 de septiembre de 2026]]
+Próxima revisión	[[DATE|8 de enero de 2027]]
+Identificador infantil NC ITP	[[ID|NCITP-26-048731]]
+Número de expediente	[[ID|CDSA-VB-2026-01984]]
+Autorización de servicios	[[ID|AUT-SLP-260918-0642]]
+Medicaid	[[MEDICAID_ID|482731906Q]]
+Seguro secundario	[[AGENCY|Plan Infantil Sendero Claro]]
+Número de miembro	[[ID|SCN-804627193-02]]
+Oficina responsable	[[AGENCY|CDSA de Valle Brisa]]
+Condado de residencia	[[PLACE|Condado de Loma Serena]]
+Idioma familiar	Español; exposición limitada al inglés en la guardería
+
+La familia participó presencialmente y recibió una explicación en español. Esta revisión reúne información familiar, observación clínica y seguimiento de los servicios. La edad se registra en formato años;meses cuando corresponde. Las decisiones reflejan las prioridades familiares y la participación del niño en actividades cotidianas.
+
+INFORMACIÓN FAMILIAR Y CONTACTOS
+
+Relación	Nombre	Contacto	Dirección o lugar
+Madre	[[PARENT|Mariela Rivas Soto]]	[[PHONE|919-555-0146]]; [[EMAIL|mariela.rivas@example.com]]	[[PLACE|184 Calle del Arrayán, apartamento 3B]], [[PLACE|Valle Brisa]], Carolina del Norte, [[PLACE|27587]]
+Padre	[[PARENT|Esteban Salceda Mora]]	[[PHONE|919-555-0172]]; [[EMAIL|esteban.salceda@example.com]]	Mismo domicilio familiar
+Hermana	[[SIBLING|Elena Salceda Rivas]]	Sin contacto independiente	Convive en el hogar
+Abuela y cuidadora	[[FAMILY|Inés Salceda Luna]]	[[PHONE|919-555-0138]]	[[PLACE|62 Camino del Olmo]], [[PLACE|Valle Brisa]], Carolina del Norte, [[PLACE|27587]]
+Coordinadora de servicios	[[PROVIDER|Laura Méndez Arce]]	[[PHONE|919-555-0161]]; [[EMAIL|laura.mendez@example.com]]	[[AGENCY|CDSA de Valle Brisa]]
+Patóloga del habla y lenguaje	[[PROVIDER|Camila Estrada Veliz]], M.S., CCC-SLP	[[PHONE|919-555-0183]]; [[EMAIL|camila.estrada@example.com]]	[[EMPLOYER|Puente de Palabras Terapia Pediátrica]]
+Pediatra	Dr. [[PROVIDER|Tomás Beltrán Ibarra]]	[[PHONE|919-555-0124]]	[[AGENCY|Consultorio Pediátrico Brote Azul]]
+Maestra principal	Sra. [[TEACHER|Dalia Paredes]]	[[PHONE|919-555-0155]]	[[DAYCARE|Centro Infantil Semillas del Arroyo]]
+
+La madre prefiere mensajes escritos en español para confirmar visitas. El padre solicita llamadas después de su jornada. La abuela puede participar cuando los padres trabajan, pero las decisiones sobre cambios del plan corresponden a los padres.
+
+La madre trabaja en [[ORG|Cooperativa Telar del Valle]]. El padre trabaja en [[ORG|Taller Mecánico Sendero Norte]]. La familia identifica los cambios de turno como una dificultad para mantener horarios. La coordinadora acordará las visitas con anticipación y ofrecerá opciones compatibles con las rutinas.
+
+ANTECEDENTES Y PARTICIPACIÓN ACTUAL
+
+Según el relato familiar, el embarazo llegó a [[KEEP|39 semanas]] de gestación. El peso al nacimiento fue [[KEEP|3.240 g]]. Los puntajes Apgar reportados fueron [[KEEP|8]] y [[KEEP|9]]. El nacimiento ocurrió en [[HOSPITAL|Hospital Maternoinfantil Cauce Sereno]]. Estos antecedentes provienen de los padres; no se revisó el registro hospitalario original.
+
+La familia describe buena salud general y ausencia de hospitalizaciones posteriores. El niño camina, sube escalones con acompañamiento y busca participar en tareas domésticas. Come alimentos familiares con distintas texturas. Los padres no informan tos persistente durante las comidas ni preocupación actual por la deglución.
+
+La evaluación auditiva del [[DATE|21 de agosto de 2026]], realizada en [[AGENCY|Centro Audiológico Eco Infantil]], informó respuestas dentro de los límites esperados. La copia está en el expediente. La familia solicita seguimiento si aparecen cambios en la respuesta al habla.
+
+El niño comprende mejor las indicaciones dentro de actividades conocidas. Usa gestos, vocalizaciones y palabras aisladas para pedir. Cuando el adulto no comprende, puede llorar, tirar del brazo o abandonar la actividad. La familia observa más comunicación espontánea durante juegos tranquilos que durante preguntas repetidas.
+
+PREOCUPACIONES Y PRIORIDADES EN PALABRAS DE LA FAMILIA
+
+La mamá [[PARENT|Mariela Rivas Soto]] expresó: “Quiero entender lo que necesita sin tener que adivinar todo. Cuando [[CHILD|Nico]] quiere algo y no le sale, se enoja. Me gustaría que pudiera pedir ayuda y decir cuándo ya terminó”.
+
+El papá [[PARENT|Esteban Salceda Mora]] dijo: “Mi prioridad es que participe con nosotros. No necesito que repita palabras todo el tiempo. Quiero que pueda escoger su comida, avisar si algo le molesta y jugar con su hermana”.
+
+La abuela [[FAMILY|Inés Salceda Luna]] agregó: “Yo quiero aprender qué hacer cuando señala. A veces le doy todo rápido porque pienso que está cansado. Si espero demasiado, se desespera. Necesito saber cómo darle tiempo sin hacerlo sufrir”.
+
+Ambos padres señalaron: “Queremos mantener el español en casa. Nos preocupa que alguien nos diga que dejemos de hablarle como hablamos nosotros. También queremos que la guardería entienda sus gestos y las palabras que ya usa”.
+
+La familia priorizó la comunicación funcional durante las comidas, la preparación para salir y el juego compartido. Solicitó estrategias breves que puedan usar sin materiales especiales. También pidió que las visitas incluyan práctica con un cuidador, observación y comentarios claros sobre lo que funcionó.
+
+RUTINAS DIARIAS
+
+Rutina	Horario habitual	Participación y oportunidades
+Despertar	[[TIME|6:45 a. m.]]	Busca a un adulto, señala ropa y elige entre prendas
+Desayuno	[[TIME|7:15 a. m.]]	Pide alimentos con gestos; tolera mejor esperas breves
+Entrada a la guardería	[[TIME|8:10 a. m.]]	Necesita anticipación para separarse del cuidador
+Almuerzo	[[TIME|11:30 a. m.]]	Observa a otros niños y solicita más mediante vocalizaciones
+Descanso	[[TIME|12:30 p. m.]]	Acepta un libro y una canción antes de acostarse
+Juego en casa	[[TIME|5:00 p. m.]]	Prefiere animales, vehículos y juegos con su hermana
+Cena	[[TIME|6:15 p. m.]]	Participa mejor cuando hay pocas preguntas
+Baño y preparación para dormir	[[TIME|7:20 p. m.]]	Señala objetos y ayuda a guardar juguetes
+
+Durante el desayuno, un adulto presenta opciones visibles y espera una respuesta. La familia acepta una mirada, un gesto o una palabra como comunicación válida. Después, el adulto ofrece un modelo breve que coincide con la intención del niño.
+
+En la guardería, la maestra [[TEACHER|Dalia Paredes]] informa que el niño observa primero y luego se acerca. Comparte la mesa con [[PEER|Alma Cifuentes]] y suele seguir a [[PEER|Bruno Leiva]] hacia los bloques. Necesita apoyo para entrar al juego sin quitar materiales.
+
+En casa, la hermana [[SIBLING|Elena]] disfruta esconder animales de juguete. El perro [[PET|Chispa]] permanece cerca durante algunas actividades. Los adultos supervisan el contacto con la mascota y reservan un espacio tranquilo para practicar turnos.
+
+EVALUACIÓN Y PERFIL DE COMUNICACIÓN
+
+La profesional bilingüe administró [[KEEP|PLS-5 Spanish]] y reunió una muestra de lenguaje en español. Interpretó los resultados junto con entrevistas y observaciones. La exposición a dos idiomas se consideró al seleccionar materiales y analizar respuestas.
+
+Prueba o subprueba	Puntaje bruto	Puntaje estándar	Percentil	Intervalo de confianza	Edad equivalente
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comprensión auditiva]]	[[KEEP|28]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|2;0–2;4]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Comunicación expresiva]]	[[KEEP|25]]	[[KEEP|74]]	[[KEEP|4]]	[[KEEP|69–81]]	[[KEEP|1;9–2;1]]
+[[KEEP|PLS-5 Spanish]]: [[KEEP|Lenguaje total]]	[[KEEP|53]]	[[KEEP|75]]	[[KEEP|5]]	[[KEEP|70–82]]	[[KEEP|1;11–2;3]]
+
+Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las edades equivalentes describen el desempeño obtenido y no representan una edad global del niño. Los resultados apoyan la necesidad de intervención, pero no sustituyen la información sobre participación cotidiana.
+
+Indicador funcional	Resultado observado	Condición
+Elección entre objetos	[[KEEP|8/10]]	Objetos visibles y [[KEEP|claves mínimas]]
+Seguimiento de indicaciones familiares	[[KEEP|7/10]]	Contexto conocido y [[KEEP|claves moderadas]]
+Peticiones espontáneas	[[KEEP|3 de 5]]	Oportunidades naturales durante merienda
+Combinaciones de palabras	[[KEEP|2/10]]	Modelos breves y [[KEEP|claves máximas]]
+Reparación de mensajes	[[KEEP|20%]]	Adulto indica que no comprendió
+Turnos comunicativos	[[KEEP|6/10]]	Juego preferido y [[KEEP|claves moderadas]]
+
+La muestra incluyó “[‌[KEEP|más agua]]”, “[[KEEP|no cabe]]”, “[[KEEP|mamá ayuda]]” y “[[KEEP|otro carro]]”. También produjo “[[PET|Chispa]] ven” y “con [[SIBLING|Elena]]”. Estas últimas emisiones muestran el uso funcional de nombres durante interacciones familiares.
+
+Se observaron sustituciones variables de [[KEEP|/k/]] y simplificación de [[KEEP|/ɾ/]]. En una producción, utilizó [[KEEP|[w]]] al iniciar una palabra. La inteligibilidad estimada para la interlocutora familiar fue [[KEEP|65%]]. El objetivo inmediato es aumentar mensajes funcionales; el equipo seguirá observando el desarrollo de sonidos.
+
+En la transcripción se registró [[KEEP|[EW]]] cuando apareció una palabra adicional sin función clara. La profesional explicó que este código describe la muestra y no constituye un diagnóstico.
+
+OTRAS AGENCIAS Y APOYOS
+
+Organización	Servicio o contacto	Acuerdo actual
+[[AGENCY|Oficina WIC de Loma Serena]]	Orientación alimentaria familiar	La familia mantiene sus citas habituales
+[[AGENCY|Red Smart Start del Arroyo]]	Préstamo de libros y actividades	La coordinadora compartirá información disponible
+[[AGENCY|Departamento de Servicios Sociales de Loma Serena]]	Apoyo para transporte	La familia autoriza consulta sobre elegibilidad
+[[DAYCARE|Centro Infantil Semillas del Arroyo]]	Participación durante el día	La maestra aplicará estrategias acordadas
+[[AGENCY|CDSA de Valle Brisa]]	Coordinación del plan	Seguimiento de servicios y transición
+
+El conductor [[PERSON|J. Ortiz]], de [[AGENCY|Transporte Familiar Loma Serena]], aparece como contacto logístico autorizado. No recibe información clínica. La consultora [[PROVIDER|M.R.]], de la oficina coordinadora, participó por teléfono para revisar disponibilidad.
+
+La familia autorizó compartir estrategias funcionales con la guardería. El equipo registrará por separado cualquier autorización para enviar evaluaciones completas. La coordinadora confirmará que los servicios propuestos no dupliquen apoyos ya disponibles.
+
+RESULTADOS FUNCIONALES, ESTRATEGIAS Y SEGUIMIENTO
+
+Resultado [[KEEP|1]]
+
+Durante comidas y meriendas, el niño comunicará una elección, una petición o el final de la actividad. Podrá usar palabras, gestos o imágenes. El criterio será [[KEEP|8/10]] oportunidades durante varias observaciones familiares, con [[KEEP|claves mínimas]].
+
+Los cuidadores colocarán opciones accesibles y harán una pausa breve. Usarán [[KEEP|estimulación focalizada]] para presentar “[[KEEP|más]]”, “[[KEEP|agua]]”, “[[KEEP|ayuda]]” y “[[KEEP|terminé]]” dentro de la actividad. Aceptarán la respuesta disponible antes de ampliar el mensaje.
+
+La profesional demostrará [[KEEP|modelado expansivo]] sin exigir repetición. Si el niño señala agua, el adulto podrá decir “[[KEEP|más agua]]” y servirla. La familia anotará ejemplos útiles y situaciones difíciles en una hoja sencilla.
+
+Resultado [[KEEP|2]]
+
+Durante el juego familiar, el niño mantendrá intercambios con un adulto o su hermana. El criterio será [[KEEP|4 de 5]] oportunidades con al menos tres turnos y [[KEEP|claves moderadas]]. La familia elegirá juegos que el niño ya disfruta.
+
+Se utilizarán estrategias de [[KEEP|Hanen]] adaptadas a la rutina: observar, esperar y seguir el interés infantil. El adulto ofrecerá comentarios breves y movimientos predecibles. Incorporará “[[KEEP|va]]”, “[[KEEP|se cayó]]” y “[[KEEP|mi turno]]” cuando tengan sentido.
+
+Los cuidadores evitarán convertir cada turno en una pregunta. Si el niño pierde interés, cambiarán el material o cerrarán el juego. La hermana participará voluntariamente y recibirá indicaciones sencillas para esperar y ofrecer opciones.
+
+Resultado [[KEEP|3]]
+
+Durante la preparación para salir y las transiciones, el niño comunicará necesidad de ayuda o rechazo. El criterio será [[KEEP|70%]] de las oportunidades registradas, con [[KEEP|claves mínimas]]. Se considerarán válidos los mensajes verbales y los gestos acordados.
+
+El equipo aplicará [[KEEP|intervención basada en rutinas]] con fotografías de actividades familiares. El adulto anticipará el siguiente paso y modelará “[[KEEP|ayuda]]”, “[[KEEP|no quiero]]” o “[[KEEP|espera]]”. No retirará objetos necesarios para provocar frustración.
+
+La familia observará si la anticipación facilita vestirse y salir. La maestra usará las mismas palabras cuando sea posible. El equipo revisará las estrategias si aumentan el malestar o requieren más esfuerzo del que la rutina permite.
+
+PLAN DE SERVICIOS
+
+Servicio	Profesional y entidad	Lugar	Frecuencia y duración	Inicio	Final previsto	Horario	Código
+Terapia del lenguaje	[[PROVIDER|Camila Estrada Veliz]], [[EMPLOYER|Puente de Palabras Terapia Pediátrica]]	Hogar	Una visita semanal de cuarenta y cinco minutos	[[DATE|16 de octubre de 2026]]	[[DATE|16 de febrero de 2027]]	[[TIME|4:00 p. m.]]	[[KEEP|92507]]; modificador [[KEEP|GN]]
+Consulta en la guardería	Misma profesional	[[DAYCARE|Centro Infantil Semillas del Arroyo]]	Una visita mensual de treinta minutos	[[DATE|23 de octubre de 2026]]	[[DATE|22 de enero de 2027]]	[[TIME|9:15 a. m.]]	[[KEEP|92507]]; modificador [[KEEP|GN]]
+Coordinación familiar	[[PROVIDER|Laura Méndez Arce]], [[AGENCY|CDSA de Valle Brisa]]	Teléfono o domicilio	Contacto mensual y según necesidad	[[DATE|9 de octubre de 2026]]	[[DATE|16 de febrero de 2027]]	[[TIME|5:30 p. m.]]	Según registro administrativo
+
+El diagnóstico clínico consignado para la autorización es [[KEEP|F80.2]]. La frecuencia responde a las necesidades actuales y a la disponibilidad familiar. La visita incluirá práctica dentro de una rutina, participación del cuidador y un acuerdo sobre qué probar antes del siguiente encuentro.
+
+Las cancelaciones se comunicarán al contacto de la profesional. El equipo acordará recuperación cuando exista disponibilidad. Cualquier cambio de frecuencia, lugar o modalidad requiere revisión con la familia y documentación en el plan.
+
+REVISIÓN, TRANSICIÓN Y ACUERDOS
+
+La coordinadora iniciará la conversación sobre transición antes del tercer cumpleaños. Explicará opciones, fechas y autorizaciones en español. La familia podrá visitar [[SCHOOL|Escuela Preescolar Puentes del Prado]] si desea conocer sus servicios.
+
+El seguimiento incluirá ejemplos de mensajes espontáneos y participación durante rutinas. La profesional comparará observaciones familiares y escolares sin exigir que el desempeño sea idéntico. El equipo revisará primero la utilidad de las estrategias cuando el progreso sea limitado.
+
+La familia recibió una copia en español y confirmó que comprende las propuestas. Los padres aceptan los servicios descritos. La coordinadora documentará cualquier cambio y mantendrá un contacto claro para dudas sobre horarios, transporte y transición.
+
+REGISTRO DE PARTICIPACIÓN
+
+Participante	Función	Fecha
+[[PARENT|Mariela Rivas Soto]]	Madre; participó y expresó acuerdo	[[DATE|9 de octubre de 2026]]
+[[PARENT|Esteban Salceda Mora]]	Padre; participó y expresó acuerdo	[[DATE|9 de octubre de 2026]]
+[[PROVIDER|Laura Méndez Arce]]	Coordinadora de servicios	[[DATE|9 de octubre de 2026]]
+[[PROVIDER|Camila Estrada Veliz]], M.S., CCC-SLP	Patóloga bilingüe del habla y lenguaje; autora	[[DATE|9 de octubre de 2026]]
+
+Redactado íntegramente en español por [[PROVIDER|Camila Estrada Veliz]], M.S., CCC-SLP, empleada de [[EMPLOYER|Puente de Palabras Terapia Pediátrica]]. La familia y el equipo conservarán este registro como referencia para los servicios acordados.

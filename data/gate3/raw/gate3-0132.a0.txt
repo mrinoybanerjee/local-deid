@@ -1,0 +1,41 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE / Nota diaria
+
+Child: [[CHILD|Nicolás Varela Cruz]]; preferred name: [[CHILD|Nico]]
+DOB: [[DATE|06/09/2022]]; age: [[KEEP|4;2]]
+Service: [[DATE|August 9, 2026]], [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]
+[X] Home  [ ] Daycare  [ ] Telepractice
+Location: [[PLACE|418 Lantern Finch Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27906]]
+Clinician: [[PROVIDER|Elena Marisol Vega]], MS, CCC-SLP
+Company: [[EMPLOYER|Two Rivers Pediatric Communication, PLLC]]
+Record: [[ID|SLP-260809-047]]; Medicaid: [[MEDICAID_ID|483920761K]]
+Authorization: [[ID|AUTH-7261048]]
+Diagnosis: [[KEEP|F80.2]]
+Treatment: CPT [[KEEP|92507]], modifier [[KEEP|GN]]
+Prior evaluation: CPT [[KEEP|92523]]
+
+S / Subjetivo
+[X] Parent present  [X] Spanish-English session  [ ] Interpreter needed
+
+Su mamá [[PARENT|Adriana Varela]] reported, “En casa entiende más cuando usamos español primero, pero cambia al inglés con su hermana.” His father, [[PARENT|Tomás Cruz]], joined briefly before work at [[ORG|Lantern Finch Family Resource Cooperative]], a fictional nonprofit that also provides the family’s weekend playgroup. Sister [[SIBLING|Isabel Cruz]] participated in turn-taking. Abuela [[FAMILY|Rosa Varela]] reported fewer frustrated gestures during snacks. The family requested practice asking for help, porque todavía espera que los adultos adivinen. Mother reported no new illness, medication changes, or hearing concerns. Consent for the sibling’s participation was confirmed verbally.
+
+Birth/medical history / Antecedentes
+Per fictional intake records, birth occurred at [[HOSPITAL|Alderbrook Regional Women’s Hospital]] at [[KEEP|35 weeks, 2 days]], birth weight [[KEEP|2,310 g]]. Apgar scores were [[KEEP|8]] and [[KEEP|9]]. A brief NICU admission addressed feeding coordination and temperature regulation. Neonatologist Dr. [[PROVIDER|Lucinda Hale]] documented discharge without oxygen. Pediatrician Dr. [[PROVIDER|Rafael Monteverde]] follows development; audiologist [[PROVIDER|Priya Danton]] documented adequate hearing for speech access on [[DATE|May 14, 2026]].
+
+O / Objetivo
+[X] Play-based intervention  [X] Caregiver coaching  [X] Language sampling
+
+The [[KEEP|PLS-5]] evaluation dated [[DATE|July 21, 2026]] showed [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. Results were interpreted alongside bilingual observation and caregiver report. English-only performance did not represent the child’s full language repertoire.
+
+Using [[KEEP|Hanen]] strategies, the clinician modeled waiting, following the child’s lead, and expanding messages in both languages. For [[KEEP|IFSP outcome 2]], [[CHILD|Nico]] requested assistance in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. Productions included [[KEEP|"ayuda"]], [[KEEP|"help me"]], and [[KEEP|"abre caja"]]. Targets [[KEEP|"quiero más"]], [[KEEP|"my turn"]], and [[KEEP|"open please"]] were embedded in blocks and pretend cooking. Independent requests occurred in [[KEEP|3 of 5]] snack opportunities.
+
+During pretend pet play, he said “[[PET|Pepita]] run.” This utterance followed a model and included an appropriate action word. Speech probes showed [[KEEP|/k/]] emerging with [[KEEP|min cues]]; [[KEEP|[w]]] substituted during several rounded-vowel contexts. Spanish [[KEEP|/ɾ/]] was observed but was not targeted. One English word substitution received SALT code [[KEEP|[EW]]]; code-switching alone was not counted as an error.
+
+A / Análisis
+Functional requesting improved when adults paused and offered visible choices. Comprehension remained stronger during familiar routines. Parent accurately demonstrated expansion without requiring repetition. Attention decreased during cleanup, then recovered with a choice of songs. Continued skilled therapy supports communication across both languages.
+
+P / Plan y coordinación
+[X] Continue current frequency  [X] Home practice reviewed
+
+Practice the same help phrases during dressing and snacks. Mother will share strategies with Ms. [[TEACHER|Marta Solís]] at [[DAYCARE|Little Willow Bilingual House]], where peers [[PEER|Dalia]] and [[PEER|Benji]] attend.
+
+The referral identifies [[AGENCY|Oficina de Servicios de Desarrollo Infantil de Alderbrook]]; short form: [[AGENCY|CDSA de Alderbrook]]. Service coordinator [[PROVIDER|Marina Castañeda]] works through [[AGENCY|Agencia Comunitaria de Coordinación Familiar del Condado de Cedarlark]], short form [[AGENCY|ACCF Cedarlark]]. Next review: [[DATE|September 10, 2026]]. Contact: [[PHONE|919-555-0147]], [[EMAIL|marina.castaneda@accf.example]], [[URL|https://accf.example/familias]]. Parent received the practice sheet and described the plan in her own words.

@@ -1,0 +1,19 @@
+DAILY SESSION NOTE
+
+Patient: [[CHILD|Mateo Fernández]] (ID [[ID|NC-884215-Q]]), DOB [[DATE|02/14/2022]]
+Date of service: [[DATE|October 9, 2026]], [[TIME|9:15 AM]]–[[TIME|10:00 AM]]
+Location: [[HOSPITAL|Novant Health Pediatric Rehabilitation – Huntersville Campus]]
+Clinician: [[PROVIDER|Dana Whitfield]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Interpreter: [[PROVIDER|Rosa Elena Campos]] (Spanish)
+
+S: [[CHILD|Mateo]] arrived with his mother, [[PARENT|Lucía Fernández]], who reported he has been using more two-word combinations at home with his sister [[SIBLING|Valentina]]. Pediatrician [[PROVIDER|Dr. Sanjay Patel]] at [[HOSPITAL|Novant Health Huntersville Pediatrics]] noted ongoing follow-up for history of NICU stay at [[HOSPITAL|Atrium Health Levine Children's Hospital]], [[KEEP|gestational age]] [[KEEP|32 weeks]], [[KEEP|birth weight]] [[KEEP|1,420 grams]], [[KEEP|Apgar]] [[KEEP|6/9]].
+
+O: Administered [[KEEP|Rossetti Infant-Toddler Language Scale]]; receptive raw score placed [[CHILD|Mateo]] at [[KEEP|age equivalent]] [[KEEP|18 months]] (chronological age [[KEEP|2;6]]). Also readministered [[KEEP|Goldman-Fristoe Test of Articulation]] subtest: produced [[KEEP|/k/]] correctly in [[KEEP|7 of 10]] trials; final /s/ remains [[KEEP|omitted]], e.g., target "[[KEEP|bus]]" produced as "[[KEEP|bu]]." Used [[KEEP|mod cues]] and modeled [[KEEP|PROMPT]] touch cues for jaw stability. Score summary below.
+
+Subtest	Standard Score	Percentile
+Receptive	[[KEEP|73]]	[[KEEP|4th]]
+Expressive	[[KEEP|68]]	[[KEEP|2nd]]
+
+A: [[CHILD|Mateo]] continues to qualify under [[KEEP|ICD-10]] code [[KEEP|F80.1]], billed under [[KEEP|CPT]] [[KEEP|92523]]. Progressing toward IFSP [[KEEP|Outcome 2]]: combining two words [[KEEP|3 of 5]] opportunities, up from [[KEEP|1 of 5]] last review.
+
+P: Continue weekly sessions at [[SCHOOL|Huntersville Elementary]], where teacher [[TEACHER|Ms. Carmen Ortiz]] implements classroom cueing. OT [[PROVIDER|Brianna Shaw]] and PT [[PROVIDER|Keisha Odom]] co-treat biweekly. Next review scheduled [[DATE|November 13, 2026]]. Contact: [[PHONE|(704) 555-0198]], [[EMAIL|dwhitfield@carolinapedsslp.com]].

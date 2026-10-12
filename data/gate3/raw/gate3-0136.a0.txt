@@ -1,0 +1,45 @@
+Nota diaria / Pediatric Speech-Language Therapy
+All information in this note is fictional.
+
+Fecha	Cliente	Edad	Expediente
+[[DATE|October 8, 2026]]	[[CHILD|Emilio Varela Soto]]	[[KEEP|4;2]]	[[ID|EVS-60428]]
+Clinician	Employer	Service location
+[[PROVIDER|Mariela Cifuentes]], MS, CCC-SLP	[[EMPLOYER|Luciérnaga Pediatric Communication PLLC]]	[[PLACE|Bellamora]], North Carolina
+
+Contacto / Care coordination
+Role	Name	Contact
+Mother	[[PARENT|Nadia Soto]]	[[PHONE|919-555-0146]]
+Clinician	[[PROVIDER|Mariela Cifuentes]]	[[EMAIL|mcifuentes@luciernagatherapy.example]]
+Company	[[EMPLOYER|Luciérnaga Therapy]]	[[URL|https://luciernagatherapy.example]]
+Coverage	Medicaid member	[[MEDICAID_ID|482061735Q]]
+
+S — Subjetivo
+Su mamá [[PARENT|Nadia]] reported, “En casa quiere contar todo, pero se frustra cuando no entendemos.” Father [[PARENT|Tomás Varela]] practices turn-taking after dinner. Sister [[SIBLING|Inés]] joins pretend cooking; grandmother [[FAMILY|Adela Soto]] provides afternoon care. Family requested Spanish practice materials because English-only worksheets reduce participation. Mother works at [[ORG|Juniper Lantern Textiles]] and prefers email updates.
+
+Ms. [[TEACHER|Elena Montalvo]] at [[SCHOOL|Brisa Hollow Preschool]] reported improved requests with classmate [[PEER|Lina Perales]]. After-school staff at [[DAYCARE|Little Heron Cottage]] reported similar progress. Pediatrician Dr. [[PROVIDER|Gabriel Neri]] at [[HOSPITAL|Bellamora Children’s Hospital]] requested the next progress summary. Coordinator [[PROVIDER|Celia Ortez]] from [[AGENCY|Pineveil County CDSA]] remains the referral contact.
+
+O — Observaciones
+[[CHILD|Emilio]] entered calmly, selected kitchen toys, and accepted shared play. He said “[[KEEP|más agua]]” during pouring and “[[KEEP|I want spoon]]” after modeling. During animal play, he said “[[PET|Chispa]] run”; the family identified this as their dog’s name. No distress or fatigue observed. Spanish models increased spontaneous participation; English models supported classroom carryover.
+
+Measure	Result	Support
+Requests	[[KEEP|8/10]]	[[KEEP|min cues]]
+Initial [[KEEP|/k/]]	[[KEEP|60%]]	[[KEEP|mod cues]]
+Two-step directions	[[KEEP|3 of 5]]	[[KEEP|max cues]]
+
+Prior assessment reference
+Test	Subtest	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+
+A — Análisis
+Functional communication improved within familiar routines. Speech remained variable across languages; errors require bilingual interpretation. Targets included “[[KEEP|casa]]” and “[[KEEP|cup]].” Clinician used [[KEEP|Cycles]] and selected [[KEEP|Kaufman]] practice principles. [[KEEP|PROMPT]] was considered but not provided today. Family coaching followed [[KEEP|Hanen]] strategies from [[KEEP|It Takes Two to Talk]]. [[KEEP|PECS]] remained available as a communication support. These supports helped maintain successful exchanges without requiring repeated spoken attempts. Mother demonstrated waiting, following the child’s lead, and expanding his message.
+
+P — Plan / Próximos pasos
+Continue [[KEEP|IFSP outcome 2]] through snack and play routines. Caregiver will model requests, pause, and accept gestures. Review bilingual speech samples before changing targets. Schedule remains subject to caregiver availability.
+
+Service schedule
+Provider	Day	Time	Location
+[[EMPLOYER|LPC]]	Tuesday	[[TIME|3:15 p.m.]]	[[PLACE|214 Lantern Fern Lane]], [[PLACE|Bellamora]]
+Billing	CPT	ICD-10	Modifier
+Individual therapy	[[KEEP|92507]]	[[KEEP|F80.2]]	[[KEEP|GN]]
+
+Signed: [[PROVIDER|Mariela Cifuentes]], MS, CCC-SLP.

@@ -1,0 +1,42 @@
+1. IDENTIFYING INFORMATION
+
+Client: [[CHILD|Mateo Alejandro Cruz]] (DOB [[DATE|04/12/2022]]; age [[KEEP|4;6]])
+Medicaid ID: [[MEDICAID_ID|987654321B]]
+Case ID: [[ID|CDSA-00482]]
+Date of service: [[DATE|October 9, 2026]]
+Time: [[TIME|10:30 AM]]–[[TIME|11:15 AM]]
+Setting: home, [[PLACE|Hillsborough]], [[PLACE|Orange County]]
+Provider: [[PROVIDER|Diana Flores]], M.S., CCC-SLP, bilingual (English/Spanish), [[EMPLOYER|Carolina Pediatric Speech Partners]]
+Service coordinator: [[PROVIDER|Ms. Renata Soto]], [[AGENCY|Piedmont CDSA]]
+Interpreter: not needed; mother is bilingual.
+
+2. BACKGROUND / SUBJETIVO
+
+Su mamá, [[PARENT|Marisol Cruz]], reports [[CHILD|Mateo]] had a good week. "Está hablando más en casa," she said, aunque "a veces se frustra cuando no le entendemos." The family continues to attend the Saturday playgroup at [[ORG|Iglesia Bautista Nueva Vida]] and the bilingual story hour at the [[ORG|East Branch Library]]. [[PARENT|Marisol]] noted that [[AGENCY|WIC]] recertification is due next month and that [[PROVIDER|Ms. Soto]] is helping schedule the IFSP review. [[CHILD|Mateo]] also attends two mornings at [[DAYCARE|Little Sprouts Early Head Start]], where [[TEACHER|la maestra Carmen]] has been working on turn-taking during circle time.
+
+3. SESSION OBJECTIVE
+
+Per IFSP outcome #[[KEEP|2]]: increase intelligibility of final consonants and expand use of two-word combinations in spontaneous speech, targeting /k/, /t/, and /s/ in final position.
+
+4. PROCEDURES / ACTIVITIES
+
+Session used structured play with [[CHILD|Mateo]]'s toy animals and a picture book about pets, incorporating [[KEEP|Hanen]] strategies and [[KEEP|PROMPT]] tactile cueing. [[CHILD|Mateo]]'s dog, [[PET|Rocky]], was present and served as a natural motivator; [[CHILD|Mateo]] pointed and said "[[PET|Rocky]] go out," targeting final /t/. He also spontaneously named his sister, saying "[[SIBLING|Ximena]] sock off," approximating final /k/ with [[KEEP|mod cues]]. Clinician modeled target words and provided [[KEEP|min to mod cues]] throughout.
+
+5. DATA / RESULTS
+
+Final consonant production: /k/ [[KEEP|6/10]] trials correct with mod cues; /t/ [[KEEP|7/10]] with min cues; /s/ [[KEEP|3/10]], emerging. Two-word combinations occurred spontaneously in [[KEEP|8 of 12]] opportunities ([[KEEP|67%]]). Intelligibility estimated at [[KEEP|60%]] in context for unfamiliar listeners, up from [[KEEP|45%]] at last formal assessment. No formal standardized testing administered this session; most recent [[KEEP|PLS-5]] Auditory Comprehension standard score was [[KEEP|76]] ([[KEEP|5th]] percentile), age equivalent [[KEEP|2;6–3;0]].
+
+6. ASSESSMENT
+
+[[CHILD|Mateo]] continues to demonstrate steady progress toward final consonant accuracy and expressive syntax goals. Code-switching observed is developmentally appropriate given the home bilingual environment; no disfluency or oral-motor concerns noted today.
+
+7. PLAN
+
+Continue weekly 45-minute sessions in-home. Will coordinate with [[DAYCARE|Little Sprouts Early Head Start]] staff, including [[TEACHER|la maestra Carmen]], regarding carryover of final-consonant targets. CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]]. Next IFSP review scheduled [[DATE|November 18, 2026]] with [[PROVIDER|Ms. Soto]] and possible input from [[AGENCY|DSS]] regarding transportation support.
+
+8. COORDINATION OF CARE
+
+Spoke briefly with [[FAMILY|doña Lupe]], the children's babysitter, who confirmed availability for the next two sessions. Will follow up with [[AGENCY|Smart Start of Orange County]] regarding a possible referral for a sibling screening for [[SIBLING|Ximena]]. Family can be reached at [[PHONE|(919) 555-0148]] or [[EMAIL|marisolcruz26@example.com]].
+
+Signed: [[PROVIDER|Diana Flores]], M.S., CCC-SLP
+[[EMPLOYER|Carolina Pediatric Speech Partners]]

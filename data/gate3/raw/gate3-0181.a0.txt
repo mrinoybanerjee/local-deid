@@ -1,0 +1,9 @@
+Documento: Mensaje para la familia  Fecha: [[DATE|8 de octubre de 2026]]  Profesional: [[PROVIDER|Elena Márquez-Soto]], patóloga bilingüe del habla y lenguaje  Empresa: [[EMPLOYER|Voces del Horizonte]], North Carolina
+Paciente: [[CHILD|Tomás del Río]]  Edad: [[KEEP|4;2]]  Madre: [[PARENT|Marisol de la Cruz]]  Expediente: [[ID|SL-60482]]  Medicaid: [[MEDICAID_ID|482715936Q]]
+Centro preescolar: [[DAYCARE|La Nube de los Caracoles Violetas]]  Maestra: [[TEACHER|Inés Valdés]]  Localidad: [[PLACE|Saucebruma]]
+Teléfono familiar: [[PHONE|(919) 555-0142]]  Consultorio: [[PHONE|984.555.0176]]  Abuela: [[FAMILY|Celia Robles]], [[PHONE|+52 55 5550 0184]]  Correo: [[EMAIL|marisol.delacruz@example.org]]
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Auditory Comprehension]]  Fecha: [[DATE|10/06/2026]]  Puntuación estándar: [[KEEP|78]]  IC: [[KEEP|73-83]]  Percentil: [[KEEP|7]]
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Expressive Communication]]  Fecha: [[DATE|10/06/2026]]  Puntuación estándar: [[KEEP|81]]  IC: [[KEEP|76–86]]  Percentil: [[KEEP|10]]
+Resumen: [[CHILD|Tomás]] participó con interés y comprendió mejor las instrucciones acompañadas de gestos. Durante el juego con [[PEER|Abril Ponce]], solicitó materiales en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]]. Produjo [[KEEP|/k/]] al practicar [[KEEP|"casa"]]; dijo [[KEEP|"tasa"]] inicialmente. Estas observaciones orientan el apoyo y deben interpretarse junto con la información familiar.
+Práctica familiar: Su hermana [[SIBLING|Nora del Río]] puede turnarse para elegir juguetes. Cuando mencionó a su perro, dijo "[[PET|Chispa]] corre". Respondan con una frase breve, esperen su respuesta y celebren sus intentos en ambos idiomas. Eviten exigir repeticiones cuando esté cansado.
+Plan: Aplicaremos [[KEEP|Hanen]] y revisaremos la meta [[KEEP|2]] del IFSP.  Próxima llamada: [[DATE|15 de octubre de 2026]], [[TIME|4:15 p. m.]]  Facturación: CPT [[KEEP|92507]]  Diagnóstico: ICD-10 [[KEEP|F80.2]]

@@ -1,0 +1,22 @@
++ Name: [[CHILD|Emilio Rivas]]
++ CA: [[KEEP|3;8]]
++ Context: Bilingual pediatric speech-language therapy; home visit in [[PLACE|Cedarluna]], North Carolina, on [[DATE|October 10, 2026]], [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]]; Spanish/English; mother present.
+
+Resumen / Subjective:
+Su mamá [[PARENT|Marisol Rivas]] reported, “Ahora pide ayuda, pero cuando está cansado vuelve a señalar.” His sister [[SIBLING|Luz]] joined the final play routine. Tía [[FAMILY|Paz Moreno]] provides afternoon care. Family priorities remain requesting help, combining words, and improving intelligibility during meals. Mother reported no new illness, medication changes, or hearing concerns. The family dog, [[PET|Churro]], stayed outside during structured tasks.
+
+Historia / Background:
+[[CHILD|Emilio]] was born on [[DATE|February 2, 2023]] at [[HOSPITAL|Cedarluna River Hospital]], at [[KEEP|33 weeks]] gestation, and spent 12 days in its NICU for feeding and respiratory support. Neonatologist Dr. [[PROVIDER|Daniel Varela]] managed discharge; pediatrician Dr. [[PROVIDER|Elena Soriano]] follows development. Mother confirmed these historical details today. The IFSP dated [[DATE|August 18, 2026]] lists services through [[AGENCY|Cedarluna Valley CDSA]]. Prior [[KEEP|PLS-5 Spanish]] results included Total Language standard score [[KEEP|78]], percentile [[KEEP|7]]; these scores were reviewed, not repeated.
+
+Objetivo / Objective:
+During farm play, [[CHILD|Emilio]] produced spontaneous combinations in [[KEEP|8/10]] opportunities, including “[[KEEP|más vaca]]” and “[[KEEP|cow aquí]]”. He requested “[[KEEP|ayuda]]” independently twice and used “[[KEEP|help me]]” after a model. Initial [[KEEP|/k/]] accuracy was [[KEEP|60%]] with [[KEEP|mod cues]]; “[[KEEP|cat]]” was produced as “[[KEEP|tat]]”. One English sample included “[[KEEP|he go]]”, coded [[KEEP|[EW]]]. Shared reading supported turn-taking with [[KEEP|min cues]]. Mother practiced expansions: “Sí, una vaca grande.” No distress occurred; one movement break improved participation.
+
+Análisis / Assessment:
+Communication increased when choices and wait time were available. Spanish remained stronger for familiar requests; English emerged during toy labeling. Code-switching supported participation and was accepted throughout. Classroom teacher Ms. [[TEACHER|Nadia Cerezo]] at [[DAYCARE|Little Lantern Grove]] previously reported successful play with peer [[PEER|Teo Salas]]. The family plans enrollment at [[SCHOOL|Cedarluna Meadow Preschool]]. Current targets remain appropriate; carryover needs continued caregiver practice. Sister modeled turn-taking without answering for the child, which supported independent requests.
+
+Plan / Administrative:
+Continue weekly sessions, model short bilingual phrases, and practice “[[KEEP|abre]]” and “[[KEEP|open]]” during snack routines. Next visit: [[DATE|October 17, 2026]], [[TIME|9:15 a.m.]]. Billing: [[KEEP|CPT 92507]]; diagnosis [[KEEP|ICD-10 F80.2]]. Medicaid ID: [[MEDICAID_ID|947206381Q]]; insurance member ID: [[ID|LV583920174]]; NC ITP child ID: [[ID|ITP-26018473]]; record: [[ID|SLP-006284]]; authorization: [[ID|AUTH-7826419]].
+
+Home: [[PLACE|418 Lantern Fern Lane]], [[PLACE|Cedarluna]], [[PLACE|27900]], [[PLACE|Fernhaven County]]. Contact: [[PHONE|252-555-0146]]; [[EMAIL|marisol.rivas@example.org]]. Mother works at [[ORG|Fernhaven Textile Studio]] and requested morning appointments.
+
+Signed: [[PROVIDER|Camila Torres]], bilingual pediatric speech-language pathologist, [[EMPLOYER|Two Bridges Speech Services]]; family portal: [[URL|https://two-bridges.example.org]]. Caregiver demonstrated the home routine and confirmed understanding before departure. No additional referrals were requested today. Printed practice cards were provided in both languages for daily use.

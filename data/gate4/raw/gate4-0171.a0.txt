@@ -1,0 +1,20 @@
+[[DATE|October 8, 2026]]
+
+Dear [[PARENT|Mariela Soto]] and [[PARENT|Daniel Soto]],
+
+Thank you for meeting with me about [[CHILD|Nicolás Soto]], whom you call [[CHILD|Nico]]. I am your bilingual pediatric speech-language pathologist at [[EMPLOYER|Little Harbor Speech Partners]] in North Carolina. This letter summarizes our visit and suggests simple ways to practice at home.
+
+You described your current and previous workplaces: [[ORG|Silver Acorn Store]] and [[ORG|Tienda Bellota Plateada]]; [[ORG|Cedar Wheel Plant]] and [[ORG|Planta Rueda de Cedro]]; [[ORG|Morning Heron Restaurant]] and [[ORG|Restaurante Garza Matutina]]; [[ORG|Quiet Meadow Farm]] and [[ORG|Granja Prado Tranquilo]]; [[ORG|Copper Bridge Construction Company]] and [[ORG|Compañía de Construcción Puente de Cobre]]; and [[ORG|Clear Window Cleaning Service]] and [[ORG|Servicio de Limpieza Ventana Clara]]. We can arrange visits around your changing shifts.
+
+[[CHILD|Nico]] was born on [[DATE|August 8, 2022]], at [[KEEP|35 weeks]] gestation, weighing [[KEEP|2,240 grams]], at [[HOSPITAL|Maple Lantern Children's Hospital]]. His Apgar scores were [[KEEP|7]] and [[KEEP|9]]. He stayed in the NICU for feeding support. Dr. [[PROVIDER|Elena Varela]] followed him there; Dr. [[PROVIDER|Marcus Pell]] now provides pediatric care. You reported no recent ear infections.
+
+At age [[KEEP|4;2]], he enjoyed pictures and pretend play. We reviewed the [[KEEP|Rossetti Infant-Toddler Language Scale]], [[KEEP|Bayley Scales of Infant and Toddler Development]], and [[KEEP|Peabody Developmental Motor Scales]] from earlier records. On the [[KEEP|Goldman-Fristoe Test of Articulation-3]], his standard score was [[KEEP|78]], with a confidence interval of [[KEEP|73-83]]. The [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score was [[KEEP|82]], at the [[KEEP|12th percentile]]. Scores help guide support; they do not describe everything he can do.
+
+He used [[KEEP|/k/]] correctly in [[KEEP|8/10]] attempts with [[KEEP|mod cues]], or [[KEEP|80%]]. He said "[[KEEP|tar]]" for "[[KEEP|car]]" and "[[PET|Pipo]] run" during play. We will use [[KEEP|Hanen]] strategies: follow his interests, pause, and expand his words. Practice should feel like play in either language.
+
+At [[SCHOOL|Willow Kite Preschool]], Ms. [[TEACHER|Rosa Beltrán]] can model short phrases with classmates [[PEER|Amaya Chen]] and [[PEER|Leo Webb]]. His sister [[SIBLING|Inés Soto]] and grandmother [[FAMILY|Beatriz Molina]] can join. Coordinator [[PROVIDER|Teresa Neri]] at [[AGENCY|Agencia Regional de Apoyo al Desarrollo Infantil y Acompañamiento Familiar]] ([[AGENCY|ARADIAF]]) will share these ideas; contact [[AGENCY|ARADIAF]] for scheduling help.
+
+Our next visit is [[DATE|October 22, 2026]], at [[TIME|3:30 p.m.]], at [[PLACE|146 Lantern Finch Lane]], [[PLACE|Alder Cove]], North Carolina [[PLACE|27864]]. Call [[PHONE|919-555-0147]] or email [[EMAIL|maren.ellis@littleharborspeech.example]]. Please reference record [[ID|LH-48217]]; Medicaid ID: [[MEDICAID_ID|684291735M]].
+
+Warmly,
+[[PROVIDER|Maren Ellis]], bilingual speech-language pathologist

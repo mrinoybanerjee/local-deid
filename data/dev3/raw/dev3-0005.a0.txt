@@ -1,0 +1,32 @@
+NOTA DE SESIÓN DIARIA – TERAPIA DEL HABLA Y LENGUAJE
+
+[[HOSPITAL|Atrium Health Levine Children's – Clínica de Audiología y ENT Pediátrico, Campus Mallard Creek]]
+[[PLACE|1750 Matthews Township Pkwy]], [[PLACE|Charlotte]], [[PLACE|28105]]
+Tel: [[PHONE|(704) 555-0198]]
+
+Pt: [[CHILD|María José Fernández Rivas]] (Edad: [[KEEP|4;2]])
+Fecha de servicio: [[DATE|14 de marzo de 2026]]
+ID de expediente: [[ID|MCH-00482913]]
+Medicaid #: [[MEDICAID_ID|987654321B]]
+
+CG presente: su mamá [[PARENT|Lucía Rivas Gómez]], quien llegó aprox. a las [[TIME|2:45 p.m.]] junto c/ [[SIBLING|Santiago]], hermano mayor de pt. No se necesitó intérprete; sesión conducida bilingüe por terapeuta tratante.
+
+S: Según CG, pt dice más palabras en casa pero "se frustra" c/ sonidos [[KEEP|/s/]] y [[KEEP|/ɾ/]]. CG reporta que pt jugó c/ su mascota [[PET|Luna]] y dijo "[[KEEP|quiero agua]]" de forma clara, mod inteligible. CG trabaja en [[ORG|Compass Group Logística]] y debe salir antes de las [[TIME|4:00 p.m.]] b/c turno rota.
+
+O: Pt llegó alerta, mod cooperativo c/ transiciones. Se administró subprueba [[KEEP|Auditory Comprehension]] de [[KEEP|PLS-5]]. Resultados comparativos:
+
+Fecha | Subprueba | SS | IC95%
+[[DATE|03/14/2026]] | [[KEEP|Auditory Comprehension]] | [[KEEP|85]] | [[KEEP|73-83]]
+[[DATE|09/10/2025]] | [[KEEP|Expressive Communication]] | [[KEEP|79]] | [[KEEP|68-90]]
+
+Pt produjo [[KEEP|/k/]] en posición inicial w/ mod cues (approx [[KEEP|6/10]] ensayos). P/ target "[[KEEP|casa]]" pt dijo "[[KEEP|tasa]]", sustitución de fronting consistente. Se incorporó enfoque [[KEEP|Cycles]] y estrategias [[KEEP|Hanen]] w/ CG p/ generalización en casa.
+
+Pt mencionó espontáneamente a su compañero [[PEER|Emilio]] del grupo de lenguaje y a su maestra, Sra. [[TEACHER|Benítez]], de [[DAYCARE|Little Sprouts Daycare]].
+
+A: Pt progresa hacia IFSP outcome [[KEEP|#2]]; patrón fonológico consistente c/ hx de edad gestacional [[KEEP|34 semanas]] y peso al nacer [[KEEP|2100 g]] (hx NICU en [[HOSPITAL|Atrium Health Levine Children's Hospital, Campus Mallard Creek]]).
+
+P: Continuar 2x/sem x 6 sem. CG indica que coordinadora de servicios, [[PROVIDER|Diana Osorio]], de [[AGENCY|CDSA del Suroeste]], llamará al [[PHONE|(704) 555-0147]] p/ revisar plan. P/ dudas, contactar a terapeuta tratante: [[EMAIL|m.fernandez.slp@levinechildrens.org]] o visitar [[URL|www.levinechildrensaudiologia.org]].
+
+Firmado: [[PROVIDER|Marisol Fernández, M.S., CCC-SLP]]
+Bil. Inglés/Español
+[[EMPLOYER|Atrium Health Speech & Language Services]]

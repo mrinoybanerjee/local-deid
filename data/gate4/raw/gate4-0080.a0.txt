@@ -1,0 +1,24 @@
+Estimada mamá [[PARENT|Elena Valdés]] y estimado papá [[PARENT|Tomás Robledo]]:
+
+Les comparto la nota de la sesión de hoy, [[DATE|8 de octubre de 2026]], de [[TIME|9:15 a. m.]] a [[TIME|10:00 a. m.]]. Atendí a [[CHILD|Nicolás Robledo Valdés]], de [[KEEP|4;2]], en [[EMPLOYER|Palabras del Colibrí]], en [[PLACE|Villa Fresnal]], Carolina del Norte. Soy [[PROVIDER|Mariana Leiva]], patóloga bilingüe del habla y del lenguaje. Todos los datos de esta carta son ficticios y sirven únicamente para pruebas.
+
+Ustedes comentaron que [[CHILD|Nicolás]] pidió ayuda durante el desayuno y esperó su turno con su hermana [[SIBLING|Vera]]. Su abuela [[FAMILY|Inés Valdés]] también observó más palabras durante el juego. Al comenzar, el niño estaba tranquilo y eligió los animales de juguete. No manifestó dolor ni cansancio. La intérprete [[PROVIDER|Sofía Beltrán]] apoyó la conversación familiar; las actividades se realizaron principalmente en español.
+
+Durante el juego, [[CHILD|Nicolás]] dijo: “[[PET|Chispa]] corre con [[SIBLING|Vera]]”. También produjo [[KEEP|«quiero agua»]] y [[KEEP|«dame otro»]] para pedir objetos. Usó frases espontáneas en [[KEEP|8/10]] oportunidades, con [[KEEP|ayudas mínimas]]. Para responder preguntas sobre acciones necesitó [[KEEP|ayudas moderadas]] y respondió correctamente en [[KEEP|3 de 5]] intentos. Practicamos [[KEEP|/k/]] en la palabra [[KEEP|«casa»]]; logró [[KEEP|70 %]] de los intentos con un modelo verbal. En una muestra apareció [[KEEP|[w]]], que seguiremos observando sin exigir repeticiones.
+
+Esta tabla resume resultados de una evaluación anterior. Los números ayudan a seguir el progreso, pero no describen todas sus habilidades. Los intervalos muestran el margen de incertidumbre de cada puntuación.
+
+| Prueba y subprueba | Fecha | Puntuación estándar | Intervalo de confianza del [[KEEP|90 %]] | Equivalente de edad |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]], [[KEEP|Comprensión auditiva]] | [[DATE|22 de septiembre de 2026]] | [[KEEP|78]] | [[KEEP|73-83]] | [[KEEP|2;6–3;0]] |
+| [[KEEP|PLS-5]], [[KEEP|Comunicación expresiva]] | [[DATE|22 de septiembre de 2026]] | [[KEEP|81]] | [[KEEP|76-86]] | [[KEEP|2;9–3;2]] |
+
+Hoy trabajamos la meta [[KEEP|2]] del [[KEEP|IFSP]], centrada en pedir ayuda durante rutinas familiares. Usamos estrategias de [[KEEP|Hanen]]: seguir su interés, esperar y ampliar sus palabras. La maestra [[TEACHER|Clara Montalvo]], de [[SCHOOL|Escuela Infantil Sendero Azul]], informó que juega cerca de su compañero [[PEER|Samuel Pineda]]. Coordinaremos apoyos con la terapeuta ocupacional [[PROVIDER|Paula Cedeño]], el fisioterapeuta [[PROVIDER|Diego Arce]] y la pediatra doctora [[PROVIDER|Lucía Ferral]], con la autorización familiar vigente.
+
+En casa, pueden ofrecer dos opciones y esperar su respuesta. Repitan su mensaje con una palabra adicional. La próxima sesión será el [[DATE|15 de octubre de 2026]]. Registro: [[ID|SL-684219]]; Medicaid ficticio: [[MEDICAID_ID|482736195Q]]. Servicio: [[KEEP|CPT 92507]], modificador [[KEEP|GN]]; diagnóstico registrado: [[KEEP|ICD-10 F80.2]].
+
+Gracias por compartir sus observaciones. Pueden contactarme en [[EMAIL|mariana.leiva@colibrilenguaje.example]], llamar al [[PHONE|919-555-0147]] o consultar [[URL|https://colibrilenguaje.example/familias]].
+
+Con cariño,
+
+[[PROVIDER|Mariana Leiva]]

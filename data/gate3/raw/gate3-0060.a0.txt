@@ -1,0 +1,50 @@
+Tipo de documento: Nota diaria de terapia del habla y lenguaje
+Paciente: [[CHILD|Adrián Solís Vega]]
+Nombre preferido: [[CHILD|Adri]]
+Nacimiento: [[DATE|08/06/2022]]
+Edad: [[KEEP|4;2]]
+Fecha de servicio: [[DATE|10/09/2026]]
+Horario: [[TIME|09:10]] a [[TIME|09:50]]
+Expediente: [[ID|SLP-602819]]
+Medicaid: [[MEDICAID_ID|845019672Q]]
+Autorización: [[ID|NC-784260]]
+Profesional: [[PROVIDER|Mariana Rivas Sotelo]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Puentes de Palabras Pediatría]]
+Diagnóstico: [[KEEP|F80.2]]
+Procedimiento: [[KEEP|92507]]; modificador: [[KEEP|GN]]
+Distrito: [[SCHOOL|Distrito Escolar de Valle Cedrino]]
+Escuela: [[SCHOOL|Escuela Primaria Sendero de Brisas]]
+Aula: preescolar B; maestra [[TEACHER|Elena Barciela]]
+Dirección familiar: [[PLACE|428 Calle Olmo Claro]], [[PLACE|Valle Cedrino]], Carolina del Norte, [[PLACE|27984]]
+Contacto: [[PARENT|Lucía Vega Solís]]; [[PHONE|919-555-0147]]; [[EMAIL|lucia.vega@example.com]]
+Portal: [[URL|https://puentes-palabras.example]]
+
+Subjetivo
+
+La mamá informó que [[CHILD|Adrián]] pidió ayuda durante el desayuno y toleró esperar mientras su hermana [[SIBLING|Nerea Solís Vega]] elegía un vaso. El papá, [[PARENT|Tomás Solís Aranda]], trabaja en [[ORG|Empaques Nube Serena]] y practica las palabras del desayuno antes de salir. La familia usa español en casa e inglés durante algunas actividades escolares.
+
+La maestra [[TEACHER|Barciela]] describió mayor participación con los compañeros [[PEER|Bruno Castañeda]] y [[PEER|Alma Ferreiro]]. Ayer, los primos [[FAMILY|Iván Vega Montal]] y [[FAMILY|Celia Vega Montal]] visitaron la casa. La niñera [[FAMILY|Rosa Delmar]] observó que el niño dijo “[[PET|Tilo]] corre” mientras el perro cruzaba el patio. La mamá pidió trabajar peticiones claras sin exigir repeticiones cuando el niño esté cansado.
+
+Objetivo
+
+La sesión se realizó en español, con materiales familiares y oportunidades de juego compartido. El paciente entró tranquilo, eligió animales de juguete y aceptó cambios de actividad después de una explicación breve. No se observaron conductas que impidieran completar las tareas previstas.
+
+Se revisaron los siguientes resultados de la evaluación previa. Los intervalos corresponden a un nivel de confianza de [[KEEP|95%]].
+
+Prueba | Subprueba | Fecha | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente
+[[KEEP|PLS-5 Spanish]] | [[KEEP|Auditory Comprehension]] | [[DATE|10/02/2026]] | [[KEEP|91]] | [[KEEP|27]] | [[KEEP|85–97]] | [[KEEP|3;6–3;10]]
+[[KEEP|PLS-5 Spanish]] | [[KEEP|Expressive Communication]] | [[DATE|10/02/2026]] | [[KEEP|84]] | [[KEEP|14]] | [[KEEP|78–90]] | [[KEEP|3;0–3;4]]
+
+Durante juego estructurado, [[CHILD|Adri]] siguió instrucciones con dos elementos en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Produjo peticiones de tres palabras en [[KEEP|6/10]] oportunidades con [[KEEP|mod cues]]. Sus producciones incluyeron [[KEEP|“quiero carro rojo”]] y [[KEEP|“dame más agua”]]. Identificó acciones en [[KEEP|80%]] de los dibujos presentados.
+
+Se aplicaron estrategias de [[KEEP|Hanen]] para seguir su interés y ampliar mensajes. Se usó [[KEEP|PROMPT]] durante una actividad breve de articulación. Produjo [[KEEP|/k/]] inicial en [[KEEP|3 de 5]] intentos con [[KEEP|max cues]]. El objetivo [[KEEP|“casa”]] apareció como [[KEEP|“tasa”]] en el habla espontánea. La muestra incluyó el código [[KEEP|[EW]]] cuando agregó una palabra innecesaria.
+
+Análisis
+
+El niño mostró avances en comprensión durante tareas conocidas. Las peticiones fueron más completas cuando el adulto esperó y ofreció un modelo breve. La producción del sonido posterior todavía requiere apoyo directo. El desempeño cambió con la longitud del mensaje; las frases largas redujeron su claridad. La mezcla de idiomas se documentó como parte de su experiencia bilingüe. La diferencia entre las puntuaciones apoya mantener objetivos separados para comprensión y expresión. Estos resultados describen esta sesión y deben interpretarse junto con muestras de ambos idiomas.
+
+Plan
+
+Continuar las sesiones semanales. Practicar [[KEEP|“quiero más”]], [[KEEP|“abre caja”]] y [[KEEP|“mi turno”]] durante rutinas breves. La mamá recibió una demostración y practicó la espera antes de ayudar. Se acordó registrar peticiones espontáneas sin corregir cada producción. La próxima sesión será el [[DATE|10/16/2026]] a las [[TIME|09:10]]. Revisar la generalización en el aula con autorización familiar. El conductor [[PERSON|J. Orbel]] acompañó la salida; no participó en la intervención.
+
+Firma electrónica: [[PROVIDER|M.R.]]; registrada el [[DATE|10/09/2026]] a las [[TIME|10:05]].

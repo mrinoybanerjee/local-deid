@@ -1,0 +1,20 @@
+Daily ST note — Fecha: [[DATE|10/12/2026]]
+Pt: [[CHILD|Nicolás Varela]], age [[KEEP|4;2]]; DOB [[DATE|08/09/2022]].
+SLP: [[PROVIDER|Elena Solvera]], bilingual clinician, [[EMPLOYER|Puente Azul Pediatric Therapy]], North Carolina.
+Record [[ID|TX-684209]]; Medicaid [[MEDICAID_ID|684209731Q]].
+CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+Horario / session schedule:
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday, [[DATE|10/12/2026]] | [[TIME|9:10 AM]] | [[TIME|9:40 AM]] | [[SCHOOL|Arroyo Lantern Preschool]] |
+| Wednesday, [[DATE|2026-10-14]] | [[TIME|2:00 PM]] | [[TIME|2:30 PM]] | [[DAYCARE|Nido Cometa Childcare]] |
+
+S / Subjetivo: Mamá [[PARENT|Mariela Varela]] reports, “Habla más con su hermana [[SIBLING|Inés]], pero se frustra.” Abuela [[FAMILY|Berta Solvera]] provided transport; driver [[PERSON|Tomás Lujero]] waited outside. Home: [[PLACE|1846 Lantern Finch Lane]], [[PLACE|Cedral Bay]], NC [[PLACE|27983]]. Previous address: [[PLACE|Calle Jacaranda 27, Aldea Los Nísperos]], Guatemala. CG works at [[ORG|Cedar Kite Textiles]]. Family requests coordination w/ [[AGENCY|Sendero WIC Office]], [[PLACE|Brisamar County]]. CG recalls intake on [[DATE|3 de marzo de 2025]] and states, “La primera llamada fue [[DATE|el martes 4 de junio]].”
+
+O / Objetivo: Pt participated w/ peer [[PEER|Alma Pereda]] and Ms. [[TEACHER|Rosa Lindera]]. Used [[KEEP|Hanen]] strategies and [[KEEP|PROMPT]] for requesting. Produced “[[KEEP|más agua]]” in [[KEEP|8/10]] opportunities w/ [[KEEP|mod cues]]; named targets “[[KEEP|casa]]” and “[[KEEP|perro]]” w/ [[KEEP|min cues]]. Practiced [[KEEP|/k/]], [[KEEP|/ɾ/]], and substitution [[KEEP|[w]]]. Spontaneous utterance: “[[PET|Chispa]] run”; coded [[KEEP|[EW]]]. Accuracy approx [[KEEP|80%]]. Reviewed [[KEEP|PLS-5]] dated [[DATE|09.28.2026]]: [[KEEP|Auditory Comprehension]], SS [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]].
+
+A / Análisis: Functional requesting improved; intelligibility remains reduced during longer utterances. Spanish vocabulary supported participation, especialmente durante juego compartido. Pt tolerated transitions w/ visual schedule; CG demonstrated carryover.
+
+P / Plan: Continue IFSP goal [[KEEP|2]]; practice requests durante merienda. Pediatrician Dr. [[PROVIDER|Saúl Mereda]] at [[HOSPITAL|Brisamar Children's Hospital]] received prior evaluation per CG. CG contact: [[PHONE|252-555-0146]], [[EMAIL|mariela.varela@example.com]]. Home handout: [[URL|https://puente-azul.example/practica]]. Next review [[DATE|11/02/2026]]. CG agreed to brief daily practice w/ familiar toys and sibling participation.

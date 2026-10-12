@@ -1,0 +1,37 @@
+NOTA DE SESIÓN / DAILY SESSION NOTE
+
+Fecha de sesión [[DATE|October 9, 2026]]  Hora de inicio: [[TIME|9:15 AM]]  Hora de fin: [[TIME|10:00 AM]]
+
+Client: [[CHILD|Mateo Fuentes]] (“[[CHILD|Teo]]”)  DOB: [[DATE|June 2, 2022]]  Age: [[KEEP|4;4]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]  Case ID: [[ID|LDC-04471]]
+
+Location: [X] Home  [ ] Daycare  [ ] School  [ ] Clinic
+Setting detail: sesión en casa de [[FAMILY|doña Lupe]], la niñera, ubicada en [[PLACE|214 Willow Bend Lane, Cary]], [[PLACE|27511]].
+
+Provider: [[PROVIDER|Marisol Herrera]], M.S., CCC-SLP, bilingual SLP
+Employer: [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]] (“[[EMPLOYER|Carolina Peds Speech]]”, aka “[[EMPLOYER|CPSL]]”)
+
+S: Mamá, [[PARENT|Lucía Fuentes]], reports [[CHILD|Mateo]] slept well and “se despertó de buen humor.” She notes his sister, [[SIBLING|Camila]], has been modeling words for him at breakfast, saying “mira, [[CHILD|Teo]], como yo.” [[FAMILY|doña Lupe]] added that [[CHILD|Mateo]] called the family dog, [[PET|Canela]], by approximating “Ca-ca” this week, a new attempt noted at [[KEEP|mod cues]].
+
+Mamá también comentó que en [[SCHOOL|Briar Creek Elementary]], dentro del [[SCHOOL|Wake County Schools]] district, la maestra [[TEACHER|Carmen Díaz]] in Pre-K classroom 4 reported [[CHILD|Mateo]] is starting to request items using single words during circle time, per an email from [[TEACHER|Miss Ana]], the teaching assistant.
+
+O: [X] Individual  [ ] Group  [ ] Co-treat
+Session conducted [[TIME|9:15–10:00 AM]] at bedroom play area. Goal targets per IFSP Outcome [[KEEP|#2]]: increase expressive vocabulary and CV combinations.
+
+Trial 1 (9:20): Elicited "pan" using [[KEEP|PROMPT]] approach with [[KEEP|mod cues]]; [[CHILD|Mateo]] produced [[KEEP|"pan"]] approximated as [[KEEP|[pã]]], target phoneme [[KEEP|/p/]] present, final consonant omitted. Correct [[KEEP|3/5]] trials ([[KEEP|60%]]).
+
+Trial 2 (9:35): Using [[KEEP|PECS]] cards, requested "más" [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]]. Spontaneous utterance: [[KEEP|"más, por favor"]] — functional two-word combo, exciting progress!
+
+Trial 3 (9:50): Imitated animal sounds targeting [[KEEP|/m/]] and [[KEEP|/b/]]; produced [[KEEP|[mu]]] for "vaca" independently.
+
+Mamá participated throughout, prompted alongside this SLP using carryover strategies from [[KEEP|Hanen]] "It Takes Two to Talk."
+
+A: [[CHILD|Mateo]] continues to demonstrate steady gains in requesting and single-word approximations. Compared to baseline ([[KEEP|PLS-5]] Auditory Comprehension standard score [[KEEP|78]], [[KEEP|9th percentile]]), informal probes today suggest emerging gains in expressive output, though formal re-assessment is pending.
+
+P: Continue [[KEEP|2x/week]] sessions at [[KEEP|30 minutes]] each per authorization. Next session scheduled [[DATE|October 13, 2026]] at [[TIME|9:00 AM]]. Will coordinate with [[AGENCY|Wake County CDSA]] service coordinator [[PROVIDER|Beth Owusu]] regarding IFSP review due [[DATE|November 1, 2026]]. Recommend referral to [[PROVIDER|Dr. Nguyen]] at [[HOSPITAL|UNC Children's Clinic]] if no progress by next review.
+
+Contact: mamá [[PHONE|(919) 555-0148]] or [[EMAIL|lucia.fuentes.test@example.com]]. CPSL office line: [[PHONE|(919) 555-0199]].
+
+Billed: [[KEEP|CPT 92507]], [[KEEP|ICD-10 F80.1]], modifier [[KEEP|GN]].
+
+Signed: [[PROVIDER|Marisol Herrera]], CCC-SLP — [[EMPLOYER|Carolina Pediatric Speech & Language Services, PLLC]]

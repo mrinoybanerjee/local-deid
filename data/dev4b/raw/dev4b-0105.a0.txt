@@ -1,0 +1,26 @@
+INFORME DE NOTA DIARIA DE TERAPIA DEL LENGUAJE
+
+1. INFORMACIÓN DE IDENTIFICACIÓN
+Niño: [[CHILD|Mateo Hernández Cruz]], conocido como "[[CHILD|Teo]]", fecha de nacimiento [[DATE|14 de mayo de 2021]], edad [[KEEP|4;5]]. Número de expediente [[ID|LD-48219]]. Número de Medicaid [[MEDICAID_ID|987654321A]]. Fecha de la sesión: [[DATE|10 de octubre de 2026]], hora [[TIME|3:30 p.m.]], en [[PLACE|204 Calle Roble, Durham, Carolina del Norte 27701]].
+
+2. ANTECEDENTES FAMILIARES Y COMUNITARIOS
+Teo vive con su madre [[PARENT|Lucía Hernández]], su padre [[PARENT|Jorge Cruz]] y su hermana mayor [[SIBLING|Valentina]]. Su abuela, [[FAMILY|Rosa Cruz]], lo cuida tres tardes por semana. La familia asiste con regularidad a [[ORG|Iglesia Nuestra Señora de Guadalupe]], donde participan en un grupo de apoyo para padres hispanohablantes. También usan el programa bilingüe de cuentos de la [[ORG|Biblioteca Regional del Condado de Durham]]. La Sra. [[PARENT|Lucía Hernández]] trabaja en [[ORG|Supermercado Compare Foods]].
+
+3. OBSERVACIONES DE LA SESIÓN
+Teo asiste a [[DAYCARE|Centro de Cuidado Infantil Pequeños Pasos]], donde su maestra, la Sra. [[TEACHER|López]], reporta buen progreso social con su compañero [[PEER|Dylan]]. Durante la sesión jugó con su perro, llamado [[PET|Max]].
+
+4. RESULTADOS DE EVALUACIÓN ESTANDARIZADA
+4.1 Pruebas administradas: [[KEEP|Rossetti Infant-Toddler Language Scale]], [[KEEP|Goldman-Fristoe Test of Articulation]], [[KEEP|Bayley Scales of Infant Development]] y [[KEEP|Peabody Picture Vocabulary Test]].
+4.2 Resultados: puntaje estándar [[KEEP|78]], percentil [[KEEP|9]], rango de confianza [[KEEP|73-83]]. Produjo [[KEEP|/k/]] correctamente en [[KEEP|8/10]] ensayos; dijo [[KEEP|"pape"]] por [[KEEP|"papel"]] con [[KEEP|claves mínimas]].
+
+5. INTERVENCIÓN Y MÉTODOS
+Se utilizaron los enfoques [[KEEP|Hanen]], [[KEEP|PROMPT]], [[KEEP|Cycles]] y [[KEEP|PECS]], junto con estrategias del programa [[KEEP|It Takes Two to Talk]] y el método [[KEEP|Kaufman]].
+
+6. CONSULTA Y COORDINACIÓN
+Se coordinó con el intérprete [[PROVIDER|Carlos Medina]] y la coordinadora de servicios [[PROVIDER|Ana Beltrán]] de [[AGENCY|CDSA del Piedmont]].
+
+7. CONTACTO
+Para preguntas, contactar a [[PROVIDER|Fernanda Ortiz, SLP]], de [[EMPLOYER|Terapia Integral Pediátrica]], correo [[EMAIL|fortiz@terapiaintegralnc.com]], sitio web [[URL|www.terapiaintegralnc.com]], teléfono [[PHONE|(919) 555-0148]].
+
+8. PLAN
+Próxima revisión del IFSP programada para [[DATE|12 de enero de 2027]], meta número [[KEEP|3]].

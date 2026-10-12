@@ -1,0 +1,37 @@
+Nota diaria / SOAP — North Carolina
+
+Client: [[CHILD|Elian Maroto]], called [[CHILD|Lito]], age [[KEEP|4;2]].
+Service: [[DATE|October 8, 2026]], [[TIME|9:10 a.m.]]–[[TIME|9:40 a.m.]].
+Location: [[DAYCARE|The Velvet Acorn Observatory]], [[PLACE|74 Lantern Moss Lane]], [[PLACE|Brisaford]], North Carolina [[PLACE|27900]].
+Clinician: [[PROVIDER|Marisa Cendal]], bilingual speech-language pathologist, [[EMPLOYER|Blue Lantern Pediatric Therapy PLLC]].
+Record: [[ID|BL-620481]]; Medicaid: [[MEDICAID_ID|748203619Q]].
+
+S / Subjetivo
+Su mamá [[PARENT|Nadia Maroto]] reported, “En casa habla más cuando su hermana [[SIBLING|Sol]] juega con él.” Father [[PARENT|Iván Maroto]] works at [[ORG|Copper Finch Packing]]. Abuela [[FAMILY|Celia Montel]] practices turn-taking while their dog [[PET|Nube]] waits nearby. Teacher Ms. [[TEACHER|Renata Velo]] described easier transitions. Classmate [[PEER|Dario Fenn]] joined the closing activity. Family requested Spanish carryover directions because grandparents lead afternoon routines.
+
+O / Objetivo
+Prior evaluation reviewed; values below are historical.
+
+Test	Subtest	Standard score	Percentile	Confidence interval
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|73–85]]
+[[KEEP|PLS-5]]	[[KEEP|Expressive Communication]]	[[KEEP|80]]	[[KEEP|9th percentile]]	[[KEEP|75–87]]
+
+Using [[KEEP|Cycles]] activities and [[KEEP|mod cues]], [[CHILD|Elian]] produced initial [[KEEP|/k/]] in [[KEEP|8/10]] trials. Target word [[KEEP|'Sol']] matched the sister’s name; scoring counted the spoken target, not references to the sibling. Child productions included [[KEEP|"tol"]] and [[KEEP|"quiero más"]]. Spontaneous requests reached [[KEEP|60%]]. With [[KEEP|min cues]], he followed spatial directions in [[KEEP|3 of 5]] opportunities. Recorded one lexical error as [[KEEP|[EW]]]. Engagement improved después de una pausa.
+
+A / Análisis
+Functional requesting improved during shared play. Naming accuracy remained variable across languages. Performance supports continued intervention under [[KEEP|F80.2]]. No new concerns reported.
+
+P / Plan
+Continue [[KEEP|IFSP goal 2]] through [[EMPLOYER|Blue Lantern Therapy]]; [[EMPLOYER|BLPT]] will provide bilingual home practice.
+
+Contacto	Agency	Details
+Coordinator [[PROVIDER|Tessa Ornel]]	[[AGENCY|Moonfen CDSA Office]]	[[PHONE|919-555-0146]]
+Benefits liaison [[PERSON|Omar Vesk]]	[[AGENCY|Brisaford DSS]]	[[EMAIL|omar.vesk@moonfen.example]]
+Nutrition referral	[[AGENCY|Lantern County WIC]]	Pending
+Classroom resources	[[AGENCY|Moonfen Smart Start]]	Requested
+Family support	[[AGENCY|Brisaford Early Head Start]]	Active
+
+Service	Date	Time	Billing
+Individual therapy	[[DATE|October 15, 2026]]	[[TIME|9:10 a.m.]]	[[KEEP|92507]], modifier [[KEEP|GN]]
+
+Family will practice requests during snack; coordinator will confirm referrals. Resource link: [[URL|https://blpt.example/practica]].

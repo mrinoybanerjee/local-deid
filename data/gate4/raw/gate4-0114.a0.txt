@@ -1,0 +1,42 @@
+Daily Speech-Language Session Note / Evaluación breve
+
+Child: [[CHILD|Elena Marisol Varela]]; age [[KEEP|4;2]]  
+Service date: [[DATE|October 7, 2026]]  
+Clinician: [[PROVIDER|Inés Valdés]], MS, CCC-SLP, bilingual pediatric speech-language pathologist  
+Employer: [[EMPLOYER|Firefly Bridge Speech Services]], North Carolina  
+Record: [[ID|FB-60482]]; Medicaid: [[MEDICAID_ID|836194027Q]]  
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Subjective / Lo que cuenta la familia
+
+Mother [[PARENT|Nadia Varela]] reported, “En casa habla más, pero cuando tiene prisa, se le pierden las palabras.” Father [[PARENT|Tomás Varela]] requested practice materials for breakfast routines. Sister [[SIBLING|Sol]] attended pickup. Grandmother [[FAMILY|Berta Salcedo]] joined by telephone from [[PLACE|Calle del Jacarandá 18]], [[PLACE|Las Campanas del Río]], Mexico. The family’s current address is [[PLACE|1847 Copper Finch Lane]], [[PLACE|Fernwillow]], North Carolina [[PLACE|27864]]. Contact: [[PHONE|919-555-0148]]; [[EMAIL|n.varela@example.invalid]].
+
+At [[DAYCARE|The Upside-Down Acorn]], Ms. [[TEACHER|Paloma Rivas]] observed increased participation beside classmate [[PEER|Bruno Leal]]. Mother described this preschool as quieter than the previous setting. No new hearing concerns were reported. Historical intake lists gestational age [[KEEP|38 weeks]], birth weight [[KEEP|3.1 kg]], and Apgar scores [[KEEP|8/9]].
+
+Objective / Datos de hoy
+
+Brief reevaluation probes supplemented previously completed standardized testing. These fictional scores describe the test record; today’s bilingual observations informed treatment planning.
+
+| Test / subtest | Standard score | Percentile | Confidence interval | Age equivalent |
+|---|---:|---:|---|---|
+| [[KEEP|PLS-5 Spanish]] / [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th]] | [[KEEP|73–85]] | [[KEEP|2;8–3;2]] |
+| [[KEEP|PLS-5 Spanish]] / [[KEEP|Expressive Communication]] | [[KEEP|75]] | [[KEEP|5th]] | [[KEEP|70–82]] | [[KEEP|2;6–3;0]] |
+
+During play, [[CHILD|Elena]] followed spatial directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-word requests occurred in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. Productions included “[[KEEP|más agua]]” and “[[KEEP|I want rojo]]”; language mixing was accepted. She said “[[PET|Chispa]] run” while moving a toy dog named after the family pet.
+
+Practice targeted “[[KEEP|sol]]” for final consonant maintenance. The identical spelling to sister [[SIBLING|Sol]]’s name prompted a family photo comparison. Initial [[KEEP|/k/]] accuracy reached [[KEEP|60%]]; substitution [[KEEP|[t]]] persisted in longer words. Clinician used [[KEEP|Cycles]] activities and [[KEEP|Hanen]] interaction strategies.
+
+Assessment / Impresión clínica
+
+Participation improved with predictable turns and visual choices. Difficulty increased when directions combined location and sequence. Across Spanish and English, functional requests remained stronger than sentence expansion. Findings support continued intervention with family-selected vocabulary. Fatigue reduced imitation near session end; movement breaks restored engagement. Mother practiced wait time successfully during shared book reading.
+
+Plan / Próximos pasos
+
+Continue IFSP goal [[KEEP|2]] using snack requests, shared reading, and consonant practice. Send picture choices home; model both languages without requiring translation.
+
+| Day | Start | Stop | Location |
+|---|---|---|---|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[DAYCARE|The Upside-Down Acorn]] |
+| Wednesday | [[TIME|2:15 PM]] | [[TIME|2:45 PM]] | [[EMPLOYER|Firefly Bridge Speech Services]] |
+
+Review progress on [[DATE|November 4, 2026]]. Signed: [[PROVIDER|Inés Valdés]], MS, CCC-SLP.

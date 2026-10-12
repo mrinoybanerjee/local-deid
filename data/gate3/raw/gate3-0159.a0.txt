@@ -1,0 +1,150 @@
+NORTH CAROLINA INFANT-TODDLER PROGRAM
+IFSP Review / Revisión del plan familiar
+SYNTHETIC TRAINING RECORD — All people, organizations, locations, contacts, and identifiers in this document are fictional.
+
+Document information	Value
+Child	[[CHILD|Elian Maravela]]
+Preferred name	[[CHILD|Eli]]
+Date of birth	[[DATE|April 12, 2024]]
+Review date	[[DATE|October 9, 2026]]
+Previous IFSP date	[[DATE|April 10, 2026]]
+Evaluation date	[[DATE|October 1, 2026]]
+Chronological age	[[KEEP|29 months]]; [[KEEP|2;5]]
+Child record	[[ID|NCITP-604821]]
+Case number	[[ID|IFSP-26-37106]]
+Medicaid member number	[[MEDICAID_ID|483706291Q]]
+Service authorization	[[ID|AUTH-ST-260941]]
+Primary language environment	Spanish and English
+Review location	Family home, North Carolina
+
+INFORMACIÓN DE LA FAMILIA / FAMILY INFORMATION
+
+Contact	Relationship	Contact information
+[[PARENT|Lucía Maravela]]	Mother	[[PHONE|919-555-0146]]; [[EMAIL|lucia.maravela@example.org]]
+[[PARENT|Andrés Maravela]]	Father	[[PHONE|984-555-0128]]; [[EMAIL|andres.maravela@example.org]]
+[[FAMILY|Teresa Beltrán]]	Maternal grandmother	[[PHONE|919-555-0162]]
+[[FAMILY|Nora Valdén]]	Regular babysitter	[[PHONE|984-555-0119]]
+[[SIBLING|Sol Maravela]]	Older sister	Participates in selected home routines
+Home address	Mailing and service address	[[PLACE|418 Lantern Plum Lane]], [[PLACE|Brindle Cove]], NC [[PLACE|27962]]
+County	Service area	[[PLACE|Alderwick County]]
+
+The family uses Spanish during meals, bedtime, and visits with relatives. English is common during daycare and neighborhood play. Both parents want the child to develop communication in both languages. They request verbal explanations in Spanish and written summaries in English with key Spanish phrases.
+
+Mother works at [[ORG|Juniper Loom Supply]]. Father works at [[ORG|Blue Lantern Repair Cooperative]]. Their changing shifts affect appointment availability. Grandmother provides care during overlapping shifts. The family prefers home visits because transportation requires planning around one shared vehicle.
+
+The older sister attends [[SCHOOL|Lantern Grove Elementary School]]. She enjoys helping with songs but should not carry responsibility for therapy practice. The family dog, [[PET|Chispa]], often joins floor play and provides a natural reason to request help opening the baby gate.
+
+EQUIPO Y CONTACTOS / TEAM AND CONTACTS
+
+Name	Role	Organization	Contact
+[[PROVIDER|Mara Velez]]	Service coordinator	[[AGENCY|Alderwick Children’s Developmental Services Agency]]	[[PHONE|919-555-0133]]
+[[PROVIDER|Camila Noreste]]	Bilingual speech-language pathologist, M.S., CCC-SLP	[[EMPLOYER|Puente Sprout Pediatric Therapy]]	[[PHONE|984-555-0154]]
+[[PROVIDER|Dalia Orven]]	Primary pediatrician, MD	[[HOSPITAL|LumenVale Health Pediatric Clinic, Brindle Cove Campus]]	[[PHONE|919-555-0177]]
+[[PROVIDER|Reina Talver]]	Audiologist, AuD	[[HOSPITAL|LumenVale Health Audiology, Willow Reach Campus]]	[[PHONE|984-555-0181]]
+[[TEACHER|Alicia Farel]]	Lead classroom teacher	[[DAYCARE|Little Harbor Nest Childcare]]	[[PHONE|919-555-0108]]
+[[TEACHER|Benicio Laren]]	Classroom assistant	[[DAYCARE|Little Harbor Nest Childcare]]	[[EMAIL|blaren@example.org]]
+
+CDSA office address: [[PLACE|72 Meadowglass Court]], [[PLACE|Brindle Cove]], NC [[PLACE|27962]]. Office website: [[URL|https://alderwick-cdsa.example.org]]. The coordinator will confirm scheduling changes through the parents’ preferred contact method. Mother requests calls after [[TIME|3:30 p.m.]] and permits brief appointment messages without clinical details.
+
+FAMILY CONCERNS AND PRIORITIES / LO QUE NOS IMPORTA
+
+Mother stated, “Quiero que [[CHILD|Eli]] nos diga qué necesita antes de llorar. I understand his pointing, pero otras personas no siempre entienden.”
+
+Father stated, “At dinner, quiero escuchar más palabras juntas. He says one thing and then pulls my hand. No queremos perder el español.”
+
+Grandmother stated, “Cuando está cansado, necesita tiempo. Si todos preguntamos a la vez, se cierra. Primero conexión, después palabras.”
+
+The parents identify requesting help, joining daycare play, and understanding routine directions as their priorities. They want practical strategies that fit existing activities. They do not want extra worksheets or pressure to repeat words on command.
+
+The family reports that communication improves when an adult sits nearby, follows the child’s interest, and offers a clear choice. Difficult moments include ending outdoor play, waiting for food, and explaining discomfort. The clinician reflected these priorities back in Spanish; both parents confirmed that the summary matched their concerns.
+
+DEVELOPMENTAL AND HEALTH CONTEXT / ANTECEDENTES
+
+The child was born at [[KEEP|34 weeks, 2 days]] gestation with a birth weight of [[KEEP|2,140 g]]. Reported Apgar scores were [[KEEP|7]] and [[KEEP|9]]. The family described a short NICU stay at [[HOSPITAL|LumenVale Health Children’s Hospital, Meadowglass Campus]] for feeding support and temperature monitoring.
+
+Mother reports no current feeding restrictions. The pediatrician’s referral lists mixed receptive-expressive language disorder, [[KEEP|F80.2]]. The team will consider communication across both languages and across familiar routines. English performance alone does not describe the child’s full language knowledge.
+
+Audiology documentation dated [[DATE|September 22, 2026]] recorded hearing responses adequate for the assessment conditions. Parents will report new concerns about hearing, ear discomfort, or changes in responses to voices. No swallowing assessment occurred during this review.
+
+ASSESSMENT SNAPSHOT / RESUMEN DE EVALUACIÓN
+
+Measure or subtest	Score	Percentile	Confidence interval or range	Age equivalent
+[[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]]	Standard score [[KEEP|78]]	[[KEEP|7th percentile]]	[[KEEP|90%]] interval [[KEEP|73-83]]	[[KEEP|1;9–2;2]]
+[[KEEP|PLS-5]]: [[KEEP|Expressive Communication]]	Standard score [[KEEP|80]]	[[KEEP|9th percentile]]	[[KEEP|90%]] interval [[KEEP|75–85]]	[[KEEP|1;10–2;3]]
+[[KEEP|PLS-5]]: [[KEEP|Total Language Score]]	Standard score [[KEEP|77]]	[[KEEP|6th percentile]]	[[KEEP|90%]] interval [[KEEP|72–82]]	[[KEEP|1;9–2;2]]
+[[KEEP|Conceptual Vocabulary Probe]]	[[KEEP|8/10]] familiar concepts	[[KEEP|80%]]	Supported bilingual sampling	Not assigned
+[[KEEP|Functional Play Inventory]]	Descriptive observation	Not applicable	Reported skill range [[KEEP|2;6–3;0]]	Descriptive range only
+
+The English standardized scores are recorded for continuity. Spanish responses and supported bilingual probes informed intervention planning but were not substituted into standardized scoring. The descriptive play range is not a norm-referenced result. Age equivalents do not define the child’s developmental age or determine eligibility by themselves.
+
+During play, [[CHILD|Elian]] produced “[[KEEP|más agua]],” “[[KEEP|open]],” and “[[KEEP|no mío]].” He said “[[PET|Chispa]] ven” while approaching the gate. This last production contains the pet’s name and is documented as spoken.
+
+Observed speech included [[KEEP|[w]]] for some rounded-word beginnings and variable production of [[KEEP|/k/]]. The Spanish tap [[KEEP|/ɾ/]] was not targeted. The clinician used [[KEEP|min cues]] for familiar requests and [[KEEP|mod cues]] when introducing new combinations. One sample contained an extra word, coded [[KEEP|[EW]]] during transcript review.
+
+DAILY ROUTINES / RUTINAS DEL DÍA
+
+Routine	What works	Family concern	Embedded support
+Breakfast, [[TIME|7:15 a.m.]]	Predictable foods and nearby seating	Reaching replaces requests	Offer two choices, pause, model a short phrase
+Daycare arrival, [[TIME|8:10 a.m.]]	Familiar greeting song	Separation becomes difficult	Use the same goodbye sequence and picture cue
+Outdoor play, [[TIME|4:45 p.m.]]	Bubbles and rolling games	Requests become loud when waiting	Model turn language and acknowledge gestures
+Dinner, [[TIME|6:20 p.m.]]	Family members sit together	Directions compete with conversation	Give one direction, then wait
+Bedtime, [[TIME|8:00 p.m.]]	Spanish songs and shared books	Tiredness reduces participation	Accept pointing and offer brief language models
+
+During snack observation, the child selected a cup through pointing and then added “[[KEEP|agua]].” Mother expanded this to “[[KEEP|más agua]]” without requiring repetition. The child remained engaged and independently used the longer phrase later.
+
+At daycare, classmates [[PEER|Lina Osel]] and [[PEER|Tavo Merel]] enjoy the same rolling-ball activity. The teacher reports that parallel play often becomes shared play when an adult provides a clear turn sequence. Staff will offer communication opportunities during activities the child already chooses.
+
+The babysitter will use the same picture choices at home. Grandmother prefers spoken models paired with gestures. Both options remain available because the family values flexibility across caregivers.
+
+OTHER AGENCIES AND SUPPORTS / OTROS APOYOS
+
+Organization	Current support	Coordination plan
+[[AGENCY|Alderwick County WIC Office]]	Nutrition support	Family will share routine concerns when relevant
+[[AGENCY|Alderwick Smart Start Partnership]]	Parent play sessions	Coordinator will provide registration information
+[[AGENCY|Alderwick County Department of Social Services]]	Childcare assistance	Parent will contact the assigned office about renewal
+[[AGENCY|Meadowglass Family Resource Center]]	Bilingual library activities	Optional community practice
+
+Volunteer [[PERSON|Celia Braven]] leads the library’s family song circle. Participation is optional and is not a therapy requirement. The coordinator will share only information authorized by the parents. The family requests that therapy notes stay within the agreed service team.
+
+OUTCOME [[KEEP|1]] / PEDIR AYUDA EN LAS RUTINAS
+
+By [[DATE|January 8, 2027]], the child will request an item, help, or continuation using a word, word combination, gesture, or picture in [[KEEP|8/10]] natural opportunities across meals and play, with [[KEEP|min cues]], as documented by caregiver report and session observation.
+
+Baseline: independent communication occurred in [[KEEP|4/10]] observed opportunities. Requests increased to [[KEEP|7/10]] with [[KEEP|mod cues]]. Adults will honor clear gestures while modeling language. They will place desired materials within view, offer an achievable choice, and pause before helping.
+
+Strategies use [[KEEP|Hanen]] principles, responsive interaction, and short bilingual models. Suggested targets include “[[KEEP|ayuda]],” “[[KEEP|abre]],” and “[[KEEP|more bubbles]].” The target word “[[KEEP|sol]]” means the sun in a picture book. The sister’s name is [[SIBLING|Sol]]. Adults will keep these meanings clear through context.
+
+OUTCOME [[KEEP|2]] / ENTENDER Y PARTICIPAR
+
+By [[DATE|January 8, 2027]], the child will follow a familiar direction during dressing, cleanup, or snack in [[KEEP|3 of 5]] opportunities across two routines, with [[KEEP|min cues]]. Directions may be given in Spanish or English according to the routine.
+
+Baseline was [[KEEP|2 of 5]] with [[KEEP|mod cues]]. Adults will gain attention, provide one short direction, and pair it with a natural gesture. Examples include “[[KEEP|pon aquí]]” and “[[KEEP|get shoes]].” They will allow processing time before repeating.
+
+The clinician will coach caregivers to reduce competing speech and expand successful routines gradually. Performance will be reviewed separately by language and context when enough observations are available. A missed direction during distress will prompt support and observation, rather than repeated testing.
+
+OUTCOME [[KEEP|3]] / JUGAR CON OTROS
+
+By [[DATE|January 8, 2027]], the child will participate in a shared play sequence with a peer or sibling for three reciprocal turns in [[KEEP|80%]] of observed opportunities, with [[KEEP|mod cues]] or less.
+
+Baseline shared participation was [[KEEP|40%]]. Adults will model “[[KEEP|mi turno]],” “[[KEEP|your turn]],” and “[[KEEP|otra vez]].” They will accept passing an object, looking toward a partner, or using a picture as participation. Spoken words are welcome but are not required for each turn.
+
+SERVICE SCHEDULE / CALENDARIO DE SERVICIOS
+
+Service	Provider	Setting	Frequency and duration	Start date	End date	Codes
+Speech-language intervention	[[PROVIDER|Camila Noreste]], M.S., CCC-SLP	Home; selected daycare coaching	Weekly, 45 minutes	[[DATE|October 16, 2026]]	[[DATE|January 8, 2027]]	[[KEEP|92507]]; [[KEEP|GN]]; [[KEEP|F80.2]]
+Speech-language evaluation	[[PROVIDER|Camila Noreste]], M.S., CCC-SLP	Home	Completed assessment	[[DATE|October 1, 2026]]	[[DATE|October 1, 2026]]	[[KEEP|92523]]; [[KEEP|GN]]; [[KEEP|F80.2]]
+Service coordination	[[PROVIDER|Mara Velez]]	Home and telephone	Monthly contact; additional contact as needed	[[DATE|October 9, 2026]]	[[DATE|January 8, 2027]]	Program service
+
+Visits are planned for Fridays at [[TIME|10:30 a.m.]]. Parents may request another time when work shifts change. Codes document the planned services; they do not guarantee payment. The coordinator will verify authorization before the first scheduled intervention visit.
+
+REVIEW, AGREEMENT, AND NEXT STEPS / ACUERDOS
+
+The team will review progress on [[DATE|January 8, 2027]]. Caregivers will share brief examples from routines rather than complete daily worksheets. The clinician will document communication opportunities, support levels, and whether skills transfer between people and settings.
+
+The team discussed transition planning before the child’s third birthday on [[DATE|April 12, 2027]]. The coordinator will explain available options and obtain required consent before sharing records. The family requested Spanish explanations during that discussion.
+
+Parents agreed with the outcomes and proposed schedule. Mother summarized, “Pequeños pasos, todos los días, sin quitarle sus dos idiomas.” Father requested coaching during dinner when scheduling permits. The clinician will begin with snack and play, then extend strategies to dinner.
+
+Prepared by [[PROVIDER|Camila Noreste]], M.S., CCC-SLP, bilingual pediatric speech-language pathologist, [[EMPLOYER|Puente Sprout Pediatric Therapy]].
+
+Documentation date: [[DATE|October 9, 2026]]. Family copy provided in the requested bilingual format.

@@ -1,0 +1,29 @@
+Estimados Sr. [[PARENT|Carlos Martínez]] y Sra. [[PARENT|Ana Martínez]]:
+
+Espero que estén muy bien. Les escribo para contarles cómo le fue a [[CHILD|Mateo]] en su sesión de terapia del habla en [[HOSPITAL|UNC Health Rex Pediatric Clinic, Campus de Raleigh]].
+
+Hoy trabajamos en sonidos y vocabulario. [[CHILD|Mateo]] participó muy bien y mostró mucho progreso. Usamos el enfoque [[KEEP|PROMPT]] para ayudarlo con la producción de /[[KEEP|k]]/ y /[[KEEP|g]]/. Cuando intentó decir "quiero gato", lo escuchamos como [[KEEP|"dato"]], y con [[KEEP|mod cues]] logró decir [[KEEP|"cato"]] en [[KEEP|3 de 5]] intentos.
+
+Tabla de puntajes recientes:
+
+| Prueba | Fecha | Puntaje estándar | Intervalo de confianza |
+|---|---|---|---|
+| [[KEEP|CELF-5]] [[KEEP|Comprensión Auditiva]] | [[DATE|09/02/2026]] | [[KEEP|78]] | [[KEEP|73-83]] |
+| [[KEEP|PLS-5]] [[KEEP|Comunicación Expresiva]] | [[DATE|09/16/2026]] | [[KEEP|81]] | [[KEEP|76-86]] |
+
+[[CHILD|Mateo]] tiene [[KEEP|4;2]] y le encanta jugar con su hermana [[SIBLING|Luz]], quien a veces viene a las sesiones. También mencionó a su perrito [[PET|Sol]], diciendo "quiero que [[PET|Sol]] juegue".
+
+La intérprete, [[PROVIDER|Yolanda Pérez]], nos ayudó mucho hoy. Hablé también con la maestra, Srta. [[TEACHER|García]], sobre las metas del salón.
+
+Datos administrativos para su expediente:
+- Medicaid ID: [[MEDICAID_ID|987654321A]]
+- Número de miembro de seguro: [[ID|AET55502938]]
+- NC ITP Child ID: [[ID|NCITP-2026-00417]]
+- Número de autorización: [[ID|AUTH-2026-33981]]
+
+La próxima cita es el [[DATE|28 de octubre de 2026]] a las [[TIME|2:00 p.m.]] en [[HOSPITAL|UNC Health Rex Pediatric Clinic, Campus de Raleigh]]. Si tienen preguntas, pueden llamarme al [[PHONE|(919) 555-0148]] o escribir a [[EMAIL|terapia.mateo@unchealth.org]].
+
+Gracias por su apoyo continuo.
+
+Con cariño,
+[[PROVIDER|Patricia Gómez]], SLP

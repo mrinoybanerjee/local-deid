@@ -1,0 +1,41 @@
+María José Hernández Soto — Daily Session Note
+
+Date of Service: [[DATE|October 9, 2026]]
+Clinician: [[PROVIDER|Sofía Reyes, M.S., CCC-SLP]]
+Employer: [[EMPLOYER|Carolina Bilingual Speech Partners, PLLC]]
+Child: [[CHILD|María José Hernández Soto]]
+DOB: [[DATE|April 2, 2022]] (Age: [[KEEP|4;6]])
+Medicaid ID: [[MEDICAID_ID|7284910335B]]
+Case ID: [[ID|CDSA-NC-04471]]
+
+Setting: [X] Home  [ ] Daycare  [ ] Clinic  [ ] Telehealth
+Language used in session: [X] Spanish  [X] English  [ ] ASL
+Interpreter present: [ ] Yes  [X] No
+Caregiver present: [X] Mother  [ ] Father  [ ] Grandparent  [ ] Other
+
+Weekly session schedule:
+
+| Day | Start | Stop | Location |
+|-----|-------|------|----------|
+| Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[PLACE|412 Willow Bend Rd, Garner, NC 27529]] |
+| Wednesday | [[TIME|2:00 PM]] | [[TIME|2:30 PM]] | [[DAYCARE|Little Sprouts Early Learning Center]] |
+| Friday | [[TIME|10:15 AM]] | [[TIME|10:45 AM]] | [[PLACE|412 Willow Bend Rd, Garner, NC 27529]] |
+
+Subjective: Mother, [[PARENT|Lucía Hernández Soto]], reports [[CHILD|María José]] has been using two-word combinations at home with her older brother, [[SIBLING|Tomás]], and the family dog, [[PET|Canela]]. Mother says the babysitter, [[FAMILY|Rosa Gómez]], also noted new vocabulary on weekends. Mother mentioned a call from [[TEACHER|Mrs. Alvarado]] at [[DAYCARE|Little Sprouts Early Learning Center]] about classroom turn-taking with peer [[PEER|Ethan]].
+
+Objective: CPT [[KEEP|92507]] (treatment) and CPT [[KEEP|92523]] (evaluation of speech sound production and language) billed today. ICD-10: [[KEEP|F80.2]] (mixed receptive-expressive language disorder).
+
+Articulation probe: /[[KEEP|k]]/ in word-initial position, [[KEEP|8/10]] trials correct ([[KEEP|80%]]) with [[KEEP|mod cues]]. Target production "[[KEEP|casa]]" achieved independently x3; "[[KEEP|[[PET|Canela]] corre]]" produced with [[KEEP|min cues]]. Child imitated [[KEEP|3 of 5]] two-word combinations in Spanish.
+
+Progress monitoring table:
+
+| Date | Measure | Score | 95% CI |
+|------|---------|-------|--------|
+| [[DATE|July 14, 2026]] | [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | SS [[KEEP|73]] | [[KEEP|68-78]] |
+| [[DATE|October 9, 2026]] | [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] | SS [[KEEP|78]] | [[KEEP|73-83]] |
+
+Assessment: Continues to benefit from [[KEEP|PROMPT]] and [[KEEP|Hanen]] strategies during bilingual input. [[PROVIDER|Dr. Patel]], the referring pediatrician, requested updated data for the next IFSP meeting. Service coordinator [[PROVIDER|Hannah Whitfield]] at [[AGENCY|Wake County CDSA]] confirmed IFSP outcome 2 remains active. Mother's workplace, [[ORG|Blue Ridge Dental Group]], adjusted her lunch schedule to allow Wednesday sessions.
+
+Plan: Continue sessions per schedule above. Coordinate scheduling with mother via [[PHONE|(919) 555-0148]] or [[EMAIL|lucia.hsoto@example.com]]. Fax clearance forwarded to [[HOSPITAL|WakeMed Children's Rehabilitation]] for coordination of care. Next IFSP review date: [[DATE|January 5, 2027]].
+
+Signature: [[PROVIDER|Sofía Reyes, M.S., CCC-SLP]]

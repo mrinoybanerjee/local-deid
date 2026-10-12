@@ -1,0 +1,218 @@
+FICTIONAL PEDIATRIC SPEECH-LANGUAGE EVALUATION REPORT
+
+Client: [[CHILD|María José Cárdenas Villalba]]
+Preferred name: [[CHILD|Majo]]
+Date of birth: [[DATE|March 18, 2022]]
+Chronological age: [[KEEP|4;2]]
+Evaluation date: [[DATE|May 20, 2026]]
+Report date: [[DATE|May 27, 2026]]
+Appointment: [[TIME|9:15 a.m.]]–[[TIME|11:05 a.m.]]
+Record number: [[ID|SL-260520-047]]
+Medicaid member number: [[MEDICAID_ID|483726915Q]]
+Authorization number: [[ID|NC-SLP-2605-118]]
+Evaluator: [[PROVIDER|Isabel Marín Vega]], MS, CCC-SLP, bilingual pediatric speech-language pathologist
+Practice: [[EMPLOYER|Little Lantern Bilingual Therapy]]
+Practice address: [[PLACE|184 Lantern Finch Lane]], [[PLACE|Alder Creek]], North Carolina [[PLACE|27864]]
+Telephone: [[PHONE|919-555-0146]]
+Email: [[EMAIL|imarin@littlelantern.example]]
+Website: [[URL|https://littlelantern.example]]
+Referral source: Dr. [[PROVIDER|Elena Soria Patel]]
+Service coordinator: [[PROVIDER|Cora Ellis Reed]]
+
+## 1. Referral and Purpose
+
+### 1.1 Presenting concerns
+
+[[CHILD|María José]] was referred for a bilingual evaluation because her family and classroom staff reported difficulty understanding directions, combining words, and producing clear speech. Her mother, [[PARENT|Ana Lucía Cárdenas Molina]], requested practical guidance for communication during meals, dressing, and preschool activities. Her father, [[PARENT|Diego Villalba Torres]], reported that unfamiliar listeners frequently ask for repetition.
+
+The evaluation examined communication across Spanish and English. Its purpose was to describe functional strengths, identify support needs, and guide treatment planning. Spanish exposure and English exposure were considered throughout interpretation.
+
+### 1.2 Sources of information
+
+Information came from caregiver interviews, referral records, classroom notes, direct observation, structured testing, and bilingual play samples. The evaluator reviewed records supplied by the family and [[AGENCY|Alder Creek CDSA Office]]. Intake assistant [[PERSON|Nora Bellamy]] confirmed the appointment and demographic information.
+
+Caregiver statements are identified as reported history. Performance descriptions reflect this evaluation session. Differences between settings were considered clinically meaningful.
+
+## 2. Birth and Medical History
+
+### 2.1 Pregnancy and neonatal course
+
+The mother reported an uncomplicated pregnancy until premature rupture of membranes. [[CHILD|María José Cárdenas Villalba]] was born at [[KEEP|34 weeks, 5 days]] gestation at [[HOSPITAL|Carolina Lantern Health Alder Creek Campus Hospital]]. Birth weight was [[KEEP|2,180 grams]]. Recorded Apgar scores were [[KEEP|7]] and [[KEEP|9]].
+
+The child received care in the NICU at [[HOSPITAL|Carolina Lantern Health Alder Creek Campus Hospital]] for feeding support and temperature regulation. Discharge occurred on [[DATE|April 2, 2022]]. The available summary described brief supplemental oxygen and no documented seizure activity. The family reported no subsequent hospitalization.
+
+### 2.2 Current health and hearing
+
+Dr. [[PROVIDER|Elena Soria Patel]] provides primary care at [[HOSPITAL|Carolina Lantern Health Alder Creek Campus Pediatric Clinic]]. The family reported recurrent middle-ear infections and seasonal congestion. Otolaryngologist Dr. [[PROVIDER|Jonah Mercer Lin]] evaluated the child on [[DATE|February 12, 2026]].
+
+Audiologist [[PROVIDER|Tessa Ríos Grant]] completed testing at [[HOSPITAL|Carolina Lantern Health Briar Hollow Campus Audiology]] on [[DATE|April 9, 2026]]. The supplied report described hearing adequate for conversational speech under test conditions. Continued surveillance was recommended because of the infection history. Caregivers reported no current daily medication.
+
+## 3. Family and Language History
+
+### 3.1 Household and caregivers
+
+[[CHILD|María José]] lives with both parents and her brother, [[SIBLING|Sol Villalba Cárdenas]], aged [[KEEP|7;1]], in [[PLACE|Alder Creek]], [[PLACE|Juniper County]]. Maternal aunt [[FAMILY|Luz Cárdenas Molina]] provides afternoon care. The family dog, [[PET|Nube]], often participates in home play.
+
+The mother works at [[ORG|Pinewheel Packaging Cooperative]]. The father works at [[ORG|Juniper Glassworks Company]]. Their schedules affect which caregiver attends appointments. Both parents requested consistent written guidance that can be shared with the aunt.
+
+### 3.2 Language exposure
+
+Spanish is the main home language. English is used most often in preschool and community activities. Caregivers estimated current exposure as approximately [[KEEP|65%]] Spanish and [[KEEP|35%]] English. These estimates describe exposure, not proficiency.
+
+The family reported first meaningful words at [[KEEP|19 months]] and emerging word combinations at [[KEEP|33 months]]. [[CHILD|Majo]] uses more familiar routines in Spanish but sometimes selects English words learned at school. The parents described limited sentence length in both languages. Neither parent reported a loss of previously acquired communication skills.
+
+## 4. Educational and Agency Background
+
+### 4.1 Classroom participation
+
+The child attends [[SCHOOL|Alder Creek Preschool Learning Center]] and receives afternoon care at [[DAYCARE|Willow Window Childcare]]. Teacher Ms. [[TEACHER|Camila Benton]] reported strong interest in songs, pretend cooking, and picture books. Classroom assistant Mr. [[TEACHER|Owen Price]] described difficulty following directions during cleanup and transitions.
+
+[[CHILD|María José]] frequently plays beside classmates [[PEER|Hope Bell]] and [[PEER|Eli Ortega]]. She sometimes hands them materials without explaining her intended activity. Staff reported that communication breakdowns may lead to withdrawal or crying, especially when several children speak together.
+
+### 4.2 Agency involvement
+
+[[AGENCY|Alder Creek CDSA Office]] previously coordinated early intervention. Service coordinator [[PROVIDER|Cora Ellis Reed]] now assists the family with record transfer and preschool referrals. The family also receives support from [[AGENCY|Juniper County WIC Program]] and [[AGENCY|Juniper County Smart Start Partnership]].
+
+[[AGENCY|Alder Creek Early Head Start]] supplied earlier developmental notes. [[AGENCY|Juniper County DSS]] assisted with benefit paperwork; the supplied documents identified no protective-services involvement. The prior IFSP, dated [[DATE|January 15, 2025]], listed [[KEEP|Outcome 2]] for functional requesting and [[KEEP|Outcome 3]] for participation in shared play. Those records provide historical context.
+
+## 5. Evaluation Procedures and Behavioral Observations
+
+### 5.1 Assessment conditions
+
+[[PROVIDER|Isabel Marín Vega]] conducted the evaluation in Spanish and English without an interpreter. The mother remained present. Activities included caregiver interview, structured language tasks, speech sampling, oral examination, pretend play, picture description, and supported teaching trials.
+
+The [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]) and [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]]) informed the assessment. English standardized tasks were administered under their stated conditions. Separate Spanish activities examined similar communication skills. Spanish responses were not inserted into English standard-score calculations.
+
+### 5.2 Participation and validity
+
+[[CHILD|María José]] entered quietly, explored the toy kitchen, and gradually initiated interaction. She benefited from movement breaks and predictable transitions. Attention was strongest during meaningful play and weaker during extended picture tasks.
+
+English normative comparisons have limited applicability because her language experience differs from the reference population. Scores therefore describe performance under specific conditions. They do not independently establish a disorder. Interpretation also relied on Spanish performance, caregiver examples, classroom concerns, and response to teaching.
+
+Fatigue increased near the session’s end. The evaluator repeated selected informal tasks after a break, while preserving the standardized administration record.
+
+## 6. Standardized Test Results
+
+### 6.1 Score summary
+
+All values below represent fictional results for this report. Confidence intervals use the [[KEEP|90%]] level.
+
+| Measure | Subtest or composite | Standard score | Percentile rank | Confidence interval | Age equivalent |
+|---|---|---:|---:|---|---|
+| [[KEEP|PLS-5]] | [[KEEP|Auditory Comprehension]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|73-85]] | [[KEEP|3;0]] |
+| [[KEEP|PLS-5]] | [[KEEP|Expressive Communication]] | [[KEEP|81]] | [[KEEP|10th percentile]] | [[KEEP|76-88]] | [[KEEP|3;2]] |
+| [[KEEP|PLS-5]] | [[KEEP|Total Language]] | [[KEEP|78]] | [[KEEP|7th percentile]] | [[KEEP|74-84]] | [[KEEP|3;1]] |
+| [[KEEP|GFTA-3]] | [[KEEP|Sounds-in-Words]] | [[KEEP|74]] | [[KEEP|4th percentile]] | [[KEEP|69-82]] | [[KEEP|2;6–2;8]] |
+
+### 6.2 Interpretation limits
+
+The [[KEEP|PLS-5]] results showed difficulty with increasingly complex English language tasks. The [[KEEP|GFTA-3]] results identified reduced accuracy for several consonants in elicited English words. These findings agree with reported functional concerns, but the normative values require caution.
+
+Age equivalents describe the test’s raw-score mapping. They do not represent the child’s overall developmental age or appropriate classroom placement. The range [[KEEP|2;6–2;8]] must not be treated as a complete description of communication ability.
+
+The confidence interval [[KEEP|73-85]] reflects measurement uncertainty around one obtained score. It does not predict the effect of treatment. Bilingual performance patterns and everyday participation provide more useful guidance for intervention priorities than a single number.
+
+## 7. Receptive and Expressive Language Findings
+
+### 7.1 Understanding language
+
+In Spanish play, [[CHILD|María José]] followed familiar single-step directions in [[KEEP|8/10]] opportunities. Performance decreased to [[KEEP|4/10]] for related two-step directions without gestures. In English, she completed [[KEEP|6/10]] familiar single-step directions and [[KEEP|3/10]] related two-step directions.
+
+She identified common objects, familiar actions, and basic body parts. Spatial terms and pronoun contrasts were less consistent in both languages. She benefited from demonstration, shorter sentences, and repetition. With [[KEEP|mod cues]], she completed [[KEEP|7/10]] supported two-step directions.
+
+These informal findings reflect task performance rather than standardized scores. Familiar vocabulary and contextual information substantially improved understanding.
+
+### 7.2 Expressive communication
+
+The child used gestures, single words, and short combinations. Spanish examples included “[[KEEP|quiero agua]],” “[[KEEP|mamá ayuda]],” and “[[KEEP|bebé duerme]].” English examples included “[[KEEP|more bubbles]]” and “[[KEEP|baby sleeping]].” She sometimes said “[[KEEP|yo want agua]],” which showed access to vocabulary across languages.
+
+During pretend play, she said “[[FAMILY|Luz]] help” and later “[[PET|Nube]] come.” These requests contained recognizable names and clear communicative intent.
+
+Responses to open questions were usually brief. She often omitted information needed by an unfamiliar listener. After a model and [[KEEP|min cues]], she expanded a request in [[KEEP|6/10]] opportunities. Novel descriptions remained difficult despite support.
+
+## 8. Speech Production and Oral Mechanism
+
+### 8.1 Speech patterns
+
+Speech sampling showed frequent fronting of [[KEEP|/k/]] and [[KEEP|/g/]], reduction of English consonant clusters, and variable omission of final consonants. Examples included “[[KEEP|tat]]” for “[[KEEP|cat]]” and “[[KEEP|poon]]” for “[[KEEP|spoon]].” Production of Spanish [[KEEP|/ɾ/]] and [[KEEP|/r/]] was variable and was interpreted in developmental context.
+
+A substitution of [[KEEP|[w]]] for English [[KEEP|/l/]] occurred in several words. Cross-language differences were considered before classifying errors. Some English productions reflected language experience, while recurring patterns across languages reduced clarity.
+
+The evaluator understood approximately [[KEEP|62%]] of connected speech with contextual support. The mother estimated familiar-listener understanding at [[KEEP|80%]]. These percentages describe different listening conditions and should not be directly equated.
+
+### 8.2 Stimulability and oral findings
+
+With [[KEEP|mod cues]], the child produced [[KEEP|/k/]] in isolation in [[KEEP|7/10]] trials. Accuracy decreased to [[KEEP|3/10]] in simple words. Lip movement, tongue movement, and visible oral structures appeared adequate for sampled tasks.
+
+Voice quality and fluency showed no consistent concern during this session. No feeding assessment was completed. The observed speech patterns did not establish a motor-speech diagnosis.
+
+## 9. Play, Pragmatics, and Dynamic Assessment
+
+### 9.1 Social communication
+
+[[CHILD|María José]] shared enjoyment, checked the adult’s face, and invited participation through gestures. She took pretend-play roles and responded to another person’s actions. Communication breakdowns occurred when her message required a longer explanation.
+
+She repaired misunderstood requests by repeating the same words or pointing. Independent verbal repair occurred in [[KEEP|2/8]] opportunities. With [[KEEP|mod cues]], she added useful information in [[KEEP|6/8]] opportunities.
+
+### 9.2 Learning response
+
+Brief teaching trials used modeling, visual choices, and repeated practice within play. The child learned a new request frame and retained it after an activity change. This response supports intervention through predictable routines.
+
+Language samples used [[KEEP|SALT]] conventions where applicable. An extraneous-word event received [[KEEP|[EW]]]. No single sample code or isolated interaction was used to infer a broader developmental condition.
+
+## 10. Clinical Impressions
+
+### 10.1 Integrated findings
+
+The assessment supports receptive and expressive language needs that affect participation across home and preschool settings. Difficulties appeared in both languages, although English exposure influenced task performance. The child’s bilingual development does not itself explain the full pattern of reported and observed concerns.
+
+Speech sound errors also reduce clarity. Priorities include patterns that affect many words and occur across languages. Spanish sound development and English sound development require separate consideration.
+
+Strengths include social interest, symbolic play, clear communicative intent, caregiver involvement, and a positive response to supported teaching. These strengths provide useful entry points for treatment.
+
+### 10.2 Diagnostic and billing information
+
+The working clinical impressions are mixed receptive-expressive language disorder, [[KEEP|F80.2]], and speech sound disorder, [[KEEP|F80.0]]. Diagnostic confidence should be reviewed as additional bilingual samples and classroom observations become available.
+
+The evaluation service is represented by CPT [[KEEP|92523]]. Proposed individual treatment is represented by CPT [[KEEP|92507]], with modifier [[KEEP|GN]] when required by the applicable claim process. These codes do not determine service eligibility, authorization, or educational placement.
+
+## 11. Recommendations and Proposed Goals
+
+### 11.1 Treatment plan
+
+1. Begin bilingual speech-language treatment twice weekly, with sessions lasting approximately thirty minutes. Combine direct practice with caregiver coaching.
+2. Use Spanish and English according to the child’s communication partners and daily needs. Support continued Spanish use at home.
+3. Apply [[KEEP|Enhanced Milieu Teaching]] and selected [[KEEP|Hanen]] strategies for functional language. Consider the [[KEEP|Cycles]] approach for recurring phonological patterns.
+4. Coordinate classroom supports with Ms. [[TEACHER|Camila Benton]] and Mr. [[TEACHER|Owen Price]], following documented family consent.
+5. Continue hearing follow-up through the existing audiology provider if infections recur or listening changes emerge.
+
+### 11.2 Initial treatment goals
+
+Proposed [[KEEP|Goal 1]]: Follow related two-step directions during familiar routines in [[KEEP|8/10]] opportunities with [[KEEP|min cues]].
+
+Proposed [[KEEP|Goal 2]]: Use a functional combination containing an action and relevant information in [[KEEP|8/10]] opportunities with [[KEEP|min cues]].
+
+Proposed [[KEEP|Goal 3]]: Produce [[KEEP|/k/]] in selected functional words with [[KEEP|80%]] accuracy using [[KEEP|mod cues]], then reduce support.
+
+Proposed [[KEEP|Goal 4]]: Repair an unclear message by adding a word, gesture, or visual reference in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]].
+
+### 11.3 Home practice
+
+Caregivers should pause during familiar routines, acknowledge all clear communication, and model a short expansion. Practice should remain brief and playful. Useful targets include “[[KEEP|open box]],” “[[KEEP|quiero más]],” and “[[KEEP|help me]].” Avoid requiring repeated correction before meeting an understood need.
+
+## 12. Follow-Up and Family Discussion
+
+### 12.1 Review arrangements
+
+The evaluator discussed findings with [[PARENT|Ana Lucía Cárdenas Molina]] and provided a written summary for [[PARENT|Diego Villalba Torres]]. The family agreed that easier requesting, clearer speech, and successful classroom transitions were the most useful initial priorities.
+
+With family consent, [[PROVIDER|Cora Ellis Reed]] will assist with referral coordination. A treatment review is proposed for [[DATE|August 19, 2026]]. The review should compare supported and independent performance across both languages. It should also include caregiver observations and classroom examples.
+
+### 12.2 Closing statement
+
+This report describes one evaluation and the records available at that time. Treatment targets should change as the child’s communication develops. Additional concerns about hearing, feeding, or broader development should be shared with the primary care provider.
+
+Prepared and electronically signed on [[DATE|May 27, 2026]] by [[PROVIDER|Isabel Marín Vega]], MS, CCC-SLP.
+
+North Carolina license number: [[ID|NC-SLP-047281]]
+Practice: [[EMPLOYER|Little Lantern Bilingual Therapy]]

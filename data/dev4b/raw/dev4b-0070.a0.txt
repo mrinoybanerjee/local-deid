@@ -1,0 +1,93 @@
+INFORME DE REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+[[AGENCY|CDSA del Triángulo]], Programa de Infantes y Niños Pequeños de Carolina del Norte
+
+Fecha de la reunión de revisión: [[DATE|2 de octubre de 2026]]
+Hora de inicio: [[TIME|9:30 a.m.]]
+Lugar: oficina de [[AGENCY|CDSA del Triángulo]], [[PLACE|Durham]], Carolina del Norte
+
+Niño: [[CHILD|Mateo Alejandro Flores Rodríguez]]
+Fecha de nacimiento: [[DATE|3 de marzo de 2023]] (edad actual [[KEEP|3;7]])
+Número de expediente: [[ID|NC-IFSP-048213]]
+Número de Medicaid: [[MEDICAID_ID|9087654321A]]
+Dirección: [[PLACE|142 Maple Creek Lane]], [[PLACE|Durham]], Carolina del Norte, [[PLACE|27703]], [[PLACE|Condado de Durham]]
+
+Padres/tutores: [[PARENT|Lucía Fernanda Rodríguez Paz]] (madre) y [[PARENT|Jorge Luis Flores Mendoza]] (padre)
+Hermanos en el hogar: [[SIBLING|Sol Flores Rodríguez]] (7 años) y [[SIBLING|Diego Flores Rodríguez]] (10 años)
+Otros miembros del hogar: la abuela materna, [[FAMILY|Carmen Paz]], quien cuida a [[CHILD|Mateo]] las tardes que sus padres trabajan
+
+Coordinadora de servicios: [[PROVIDER|María Fernanda Ortiz]], [[AGENCY|CDSA del Triángulo]]
+Teléfono de la coordinadora: [[PHONE|(919) 555-0137]]
+Correo electrónico de la coordinadora: [[EMAIL|maria.ortiz@cdsatriangulo.example.org]]
+
+Terapeuta del habla y lenguaje que redacta este informe: [[PROVIDER|Mariana Castillo]], M.S., CCC-SLP, de [[EMPLOYER|Terapias Integrales Carolina, PLLC]]
+Sitio web de la práctica: [[URL|www.terapiascarolina-slp.com]]
+
+I. HISTORIA Y ANTECEDENTES
+
+[[CHILD|Mateo]] nació prematuro, a las [[KEEP|32 semanas]] de gestación, con un peso al nacer de [[KEEP|1,580 gramos]] y un puntaje de Apgar de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. Pasó [[KEEP|19 días]] en la unidad de cuidados intensivos neonatales del [[HOSPITAL|Blue Ridge Health – Children's Hospital, Mountainview Campus]], donde recibió apoyo respiratorio y alimentación por sonda durante la primera semana. Después del alta, fue seguido de cerca por su pediatra, la [[PROVIDER|Dra. Andrea Solís]], en la [[HOSPITAL|Clínica Pediátrica Blue Ridge Health, Mountainview Campus]], quien a los dieciocho meses refirió a la familia al [[AGENCY|CDSA del Triángulo]] debido a un retraso notable en el lenguaje expresivo y el balbuceo limitado.
+
+Por historial de otitis media recurrente, [[CHILD|Mateo]] fue evaluado en el [[HOSPITAL|Carolina Hearing & Balance Center, Hillsborough Campus]] mediante timpanometría y audiometría conductual. Los resultados mostraron audición dentro de límites normales bilateralmente ([[KEEP|0-20 dB]] en todas las frecuencias probadas), aunque se recomendó vigilancia continua dado el patrón de infecciones del oído medio. Se colocaron tubos de ventilación en ambos oídos en [[DATE|enero de 2025]].
+
+[[CHILD|Mateo]] asiste de lunes a viernes al centro preescolar [[DAYCARE|El Jardín de las Luciérnagas]], donde su maestra, [[TEACHER|Patricia Gómez]], reporta que interactúa con sus compañeros [[PEER|Emmanuel]] y [[PEER|Valentina]] durante el juego libre, principalmente mediante gestos y sonidos, con lenguaje verbal limitado comparado con sus compañeros de la misma edad.
+
+II. PREOCUPACIONES Y PRIORIDADES DE LA FAMILIA (en sus propias palabras)
+
+La madre, [[PARENT|Lucía]], compartió: "Lo que más nos preocupa es que [[CHILD|Mateo]] no nos dice lo que quiere, solo señala o llora. Queremos que pueda pedir las cosas con palabras antes de empezar el kínder."
+
+El padre, [[PARENT|Jorge]], agregó: "A veces en la casa su hermana [[SIBLING|Sol]] le entiende mejor que nosotros. Él tiene su propio modo de hablar y solo ella lo descifra. Nos gustaría que nosotros también pudiéramos entenderle sin necesitar traductora."
+
+La abuela, [[FAMILY|Carmen]], añadió durante la reunión: "Cuando lo cuido en las tardes, él se frustra mucho si no entiendo lo que quiere. A veces llora hasta que llega su mamá."
+
+La familia también expresó preocupación por la transición a servicios escolares cuando [[CHILD|Mateo]] cumpla tres años, y por continuar recibiendo apoyo en español, ya que es el idioma principal del hogar y el único idioma que se habla en casa con los abuelos.
+
+III. RUTINAS DIARIAS DE LA FAMILIA
+
+[[PARENT|Lucía]] trabaja medio tiempo limpiando habitaciones en el [[ORG|Hotel Sierra Vista]], y [[PARENT|Jorge]] trabaja en construcción con [[ORG|Techos y Estructuras del Triángulo]]. Entre semana, [[CHILD|Mateo]] se despierta a las [[TIME|6:45 a.m.]], desayuna con sus hermanos [[SIBLING|Sol]] y [[SIBLING|Diego]], y la abuela [[FAMILY|Carmen]] lo lleva al [[DAYCARE|El Jardín de las Luciérnagas]] a las [[TIME|8:00 a.m.]]. Durante el almuerzo, usa principalmente las manos y señala las imágenes de comida en un tablero de comunicación que la maestra [[TEACHER|Patricia Gómez]] preparó.
+
+Por las tardes, después de recogerlo a las [[TIME|4:30 p.m.]], la familia juega en el patio con la perra de la familia, [[PET|Nube]], antes de la cena. El baño es a las [[TIME|7:00 p.m.]] y durante esa rutina [[CHILD|Mateo]] suele producir aproximaciones de palabras como "agua" cuando quiere que le echen más agua tibia. Se duerme hacia las [[TIME|8:30 p.m.]] después de que su hermana [[SIBLING|Sol]] le lee un cuento corto.
+
+Los fines de semana, una vecina, [[PERSON|Rosa Delgado]], a veces les da transporte a las citas médicas cuando el carro de la familia no funciona. La familia también visita el parque del vecindario, donde [[CHILD|Mateo]] observa a otros niños jugar pero rara vez se integra sin que un adulto lo acompañe.
+
+IV. AGENCIAS Y PROVEEDORES INVOLUCRADOS
+
+Además del [[AGENCY|CDSA del Triángulo]], la familia recibe beneficios de [[AGENCY|WIC del Condado de Durham]] y participa en el programa [[AGENCY|Smart Start del Condado de Durham]], que les proporcionó materiales de lectura bilingüe. El [[AGENCY|Departamento de Servicios Sociales del Condado de Durham]] ayuda con la solicitud y renovación de Medicaid. El equipo de intervención temprana incluye a la terapeuta física [[PROVIDER|Laura Jiménez]] y al terapeuta ocupacional [[PROVIDER|Kevin Nguyen]], ambos de [[EMPLOYER|Terapias Integrales Carolina, PLLC]].
+
+Para contactar a la familia: teléfono de la casa [[PHONE|(919) 555-0137]], celular de la madre [[PHONE|919-555-0198]], celular de la abuela [[PHONE|(919) 555.0245]]. El padre tiene familia en Honduras y comparte el número de contacto de emergencia de su hermano, [[PHONE|+504 9988-7766]], para casos en los que la familia viaje durante el verano. También puede escribirse a la familia al correo [[EMAIL|lucia.flores84@example.com]]. La línea general del [[AGENCY|CDSA del Triángulo]] es [[PHONE|1-800-555-0199]].
+
+V. RESUMEN DE EVALUACIÓN Y NIVELES ACTUALES
+
+La evaluación más reciente, realizada el [[DATE|15 de abril de 2026]], utilizó las [[KEEP|Preschool Language Scales, Fifth Edition (PLS-5)]], versión en español. [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|68]] (percentil [[KEEP|2]]) en [[KEEP|Comunicación Expresiva]] y una puntuación estándar de [[KEEP|79]] (percentil [[KEEP|8]]) en [[KEEP|Comunicación Auditiva]], con un intervalo de confianza de [[KEEP|73-83]]. Su edad equivalente en comunicación expresiva fue [[KEEP|18 meses]], comparada con su edad cronológica de [[KEEP|3;7]].
+
+En el inventario de sonidos, [[CHILD|Mateo]] omite consonantes finales y sustituye /r/ por [w]; por ejemplo, produce [[KEEP|"uela"]] en lugar de "rueda". Durante las sesiones de articulación, practica la palabra meta [[KEEP|"sol"]] junto con [[KEEP|"silla"]] y [[KEEP|"sapo"]] para trabajar el fonema /s/ en posición inicial; es importante notar que esto coincide con el nombre de su hermana, [[SIBLING|Sol]], lo cual a veces causa confusión cuando la familia practica en casa y [[CHILD|Mateo]] mira hacia ella en lugar de repetir la palabra. Produjo [[KEEP|"sol"]] con [[KEEP|claves mínimas]] en [[KEEP|4 de 5]] intentos durante la última sesión, mejora notable comparada con [[KEEP|1 de 5]] hace tres meses.
+
+El examen orofacial no mostró anomalías estructurales significativas. El diagnóstico actual, según ICD-10, es [[KEEP|F80.1]] (trastorno del lenguaje expresivo). Los servicios se facturan bajo los códigos [[KEEP|92507]] y [[KEEP|92523]].
+
+VI. TABLA DE REVISIÓN DE RESULTADOS DEL IFSP
+
+Resultado	Estrategias	Progreso	Fecha
+[[KEEP|Resultado 1]]: [[CHILD|Mateo]] usará frases de [[KEEP|3 a 4 palabras]] para pedir objetos y acciones deseadas en el hogar y en [[DAYCARE|El Jardín de las Luciérnagas]].	Modelado de lenguaje, [[KEEP|PROMPT]], técnicas de [[KEEP|Hanen]] para seguir el interés del niño, encuadre de opciones ("¿quieres agua o leche?").	Progreso adecuado; combina dos palabras de forma consistente en [[KEEP|7 de 10]] oportunidades; aún no alcanza el criterio de 3 a 4 palabras.	[[DATE|2 de octubre de 2026]]
+[[KEEP|Resultado 2]]: [[CHILD|Mateo]] seguirá instrucciones de dos pasos relacionadas con rutinas diarias.	Instrucciones con apoyo visual, gestos de referencia conjunta, repetición en rutinas de alimentación y juego.	Progreso emergente; sigue instrucciones de dos pasos en [[KEEP|60%]] de los ensayos con apoyo visual.	[[DATE|2 de octubre de 2026]]
+[[KEEP|Resultado 3]]: [[CHILD|Mateo]] producirá los fonemas /s/, /r/ y /l/ de forma inteligible en palabras meta durante el juego estructurado.	Enfoque de [[KEEP|Ciclos]] ([[KEEP|Cycles]]), práctica de palabras meta incluyendo [[KEEP|"sol"]], contraste de pares mínimos.	Progreso lento; /s/ inicial mejoró a [[KEEP|65%]] de precisión; /r/ sigue sustituido por [w] en la mayoría de los contextos.	[[DATE|2 de octubre de 2026]]
+[[KEEP|Resultado 4]]: [[CHILD|Mateo]] participará en intercambios de turnos de dos ciclos durante el juego con compañeros en [[DAYCARE|El Jardín de las Luciérnagas]].	Juego estructurado con [[PEER|Emmanuel]] y [[PEER|Valentina]], apoyo de la maestra [[TEACHER|Patricia Gómez]], refuerzo natural de intentos comunicativos.	Progreso inicial; toma un turno con apoyo verbal en [[KEEP|3 de 5]] oportunidades observadas.	[[DATE|2 de octubre de 2026]]
+[[KEEP|Resultado 5]]: La familia usará estrategias de lenguaje expansivo durante las rutinas de comida y baño en casa.	Entrenamiento a la familia en técnicas de [[KEEP|Hanen]], hojas de práctica en español, seguimiento telefónico quincenal.	Progreso bueno; [[PARENT|Lucía]] y [[FAMILY|Carmen]] reportan mayor uso de expansión de una palabra durante la cena.	[[DATE|2 de octubre de 2026]]
+
+VII. FECHAS DE SERVICIO
+
+IFSP inicial firmado: [[DATE|10 de junio de 2023]]
+Revisión anterior: [[DATE|15 de abril de 2026]]
+Revisión actual: [[DATE|2 de octubre de 2026]]
+Próxima revisión programada: [[DATE|2 de abril de 2027]]
+Frecuencia de servicios de terapia del habla y lenguaje: dos sesiones de [[KEEP|30 minutos]] por semana, en el hogar y en [[DAYCARE|El Jardín de las Luciérnagas]]
+Frecuencia de terapia física: una sesión de [[KEEP|45 minutos]] cada dos semanas
+Frecuencia de terapia ocupacional: una sesión de [[KEEP|30 minutos]] por semana
+
+VIII. PLAN DE TRANSICIÓN
+
+Dado que [[CHILD|Mateo]] cumplirá tres años en [[DATE|marzo de 2027]], el equipo discutió el proceso de transición hacia los servicios del sistema escolar público. La coordinadora, [[PROVIDER|María Fernanda Ortiz]], explicó a la familia que recibirán una notificación por escrito al menos [[KEEP|90 días]] antes de la fecha límite, y que se coordinará una evaluación con las Escuelas Públicas del Condado de Durham. La familia solicitó que toda la correspondencia continúe en español y que, de ser posible, la evaluación de transición incluya a un evaluador bilingüe.
+
+IX. FIRMAS
+
+Coordinadora de servicios: [[PROVIDER|María Fernanda Ortiz]] — Fecha: [[DATE|2 de octubre de 2026]]
+Terapeuta del habla y lenguaje: [[PROVIDER|Mariana Castillo]], M.S., CCC-SLP — Fecha: [[DATE|2 de octubre de 2026]]
+Madre: [[PARENT|Lucía Fernanda Rodríguez Paz]] — Fecha: [[DATE|2 de octubre de 2026]]
+Padre: [[PARENT|Jorge Luis Flores Mendoza]] — Fecha: [[DATE|2 de octubre de 2026]]

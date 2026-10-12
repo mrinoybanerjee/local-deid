@@ -1,0 +1,149 @@
+NC Infant-Toddler IFSP Review / FICTIONAL TEST RECORD
+
+Review date: [[DATE|October 8, 2026]]. Meeting: [[TIME|9:15 a.m.]]–[[TIME|10:35 a.m.]], family home. Record: [[ID|NCIT-FIC-004821]]. Review period: [[DATE|April 8, 2026]] through [[DATE|October 8, 2026]]. All people, contacts, organizations, events, and clinical findings below are synthetic.
+
+1. FAMILY INFORMATION
+
+Pt: [[CHILD|Nico del Río-Santos]], called [[CHILD|Nico]] at home. DOB: [[DATE|June 8, 2024]]. Chronological age: [[KEEP|2;4]]. Medicaid member ID: [[MEDICAID_ID|900000014Z]]. Household address: [[PLACE|418 Juniper Lantern Way, Apt. 3B]], [[PLACE|Alderhaven]], NC [[PLACE|27000]], [[PLACE|Hazelmere County]].
+
+Mother: [[PARENT|Elena de la Cruz]], preferred contact, (cell) [[PHONE|(919) 555-0147]]; email [[EMAIL|elena.delacruz@example.invalid]]. Father: [[PARENT|Tomás Vega-Ruiz]], cell [[PHONE|919-555-0162]]. Parents share daily care and decision-making. Sibling: [[SIBLING|Luz Vega-Ruiz]], age [[KEEP|6 years]], attends [[SCHOOL|Juniper Lantern Elementary]].
+
+Maternal aunt [[FAMILY|Hope de la Cruz]] provides backup care on rotating afternoons. Maternal grandmother [[FAMILY|Inés del Río]] joins occasional video calls from Mexico; phone [[PHONE|+52 55 0000 0186]]. Household pet: dog [[PET|Miga]]. Family reports stable housing, reliable utilities, and access to food. Transportation varies w/ work schedules; CG prefers home visits whenever possible.
+
+2. TEAM, CONTACTS, AND PARTICIPATION
+
+Service coordinator: [[PROVIDER|Mara Fenwick]], [[AGENCY|Juniper Bend Children’s Developmental Services Agency]], office [[PHONE|919.555.0128]], fax [[PHONE|(919) 555-0196]]. Office: [[PLACE|72 Fern Compass Court, Suite 206]], [[PLACE|Alderhaven]], NC [[PLACE|27000]]. Agency portal: [[URL|https://juniperbend-cdsa.example.invalid]].
+
+Review authored by [[PROVIDER|Iris Maren-Quill]], bilingual pediatric SLP, employed by [[EMPLOYER|Riverglass Pediatric Communication PLLC]]. Clinician callback: [[PHONE|+1 919 555 0184]]. Professional email: [[EMAIL|iris.marenquill@riverglass.example.invalid]]. Pediatrician: Dr. [[PROVIDER|Devon Wrenfield]], [[HOSPITAL|Alderhaven Children’s Pavilion]].
+
+Present: both parents, SC, and SLP. Aunt participated by phone for approx [[KEEP|15 minutes]]. Parents selected English for this written review and Spanish for most discussion. SLP interpreted her own clinical explanations; no separate interpreter attended. Team checked understanding through CG teach-back. Parents received a translated verbal summary and requested copies by secure portal. SC confirmed contact preferences directly during meeting.
+
+3. FAMILY CONCERNS, IN THE FAMILY’S OWN WORDS
+
+Mother [[PARENT|Elena de la Cruz]] stated: “I know what he wants most days, but other people guess. When they guess wrong, he cries and pulls my hand. I want him to ask before he gets upset.”
+
+Father [[PARENT|Tomás Vega-Ruiz]] stated: “At breakfast he points to everything. I want us to slow down and let him try. I do not want speaking to feel like a test.”
+
+Regarding daycare, mother stated: “I want him to tell the teacher when he needs help. He should have a way to say he is finished, even if the word is not clear.”
+
+Aunt [[FAMILY|Hope de la Cruz]] stated: “He talks more when we sing or feed the dog. I need the same pictures they use at home.”
+
+Family’s top priorities: easier requests during meals; fewer communication breakdowns during transitions; participation w/ peers; continued Spanish use w/ relatives. Parents do not want English practice to replace Spanish. Both agreed that gestures, pictures, and speech can support the same outcome.
+
+4. DAILY ROUTINES AND FAMILY RESOURCES
+
+Wake-up occurs approx [[TIME|6:45 a.m.]]. Father handles dressing and breakfast before leaving for [[ORG|Copper Finch Fixture Works]]. Mother works variable shifts at [[ORG|Willow Thread Market]]. CG schedules change weekly; SC should text before calling.
+
+Breakfast offers frequent requests for utensils, milk, and preferred fruit. Pt currently reaches, points, or brings an empty cup. CG often anticipates needs b/c the morning feels rushed. Dressing is easier when clothing choices remain visible.
+
+Evening meal occurs approx [[TIME|6:00 p.m.]]. Bath, book, and quiet play follow. Bedtime is approx [[TIME|8:15 p.m.]]. Sibling [[SIBLING|Luz Vega-Ruiz]] enjoys shared books but sometimes answers for pt. Parents will coach sibling to pause.
+
+Family strengths include predictable evening routines, strong shared attention during songs, nearby relatives, and willingness to practice briefly. CG prefers strategies embedded in ordinary activities; worksheets have not fit family routines.
+
+5. DAYCARE AND COMMUNITY PARTICIPATION
+
+Pt attends [[DAYCARE|Little Lantern Grove Early Learning]] on three weekdays, usually [[TIME|8:00 a.m.]]–[[TIME|3:30 p.m.]]. Lead teacher: Ms. [[TEACHER|Ada Lopez]]. Classroom is called “Ms. [[TEACHER|Lopez]]’s room.” Assistant: [[TEACHER|Benna Vale]]. Parent consent permits SC and SLP to exchange relevant routine information w/ these staff.
+
+Classmates [[PEER|Milo Crest]] and [[PEER|Anya Bellweather]] often play beside pt at the water table. Staff report pt watches peers, copies pouring actions, and sometimes offers a cup. When materials disappear, pt may grab or cry before requesting help.
+
+Teacher will place a small communication board near snack and cleanup areas. Family also attends story time at [[AGENCY|Hazelmere Family Reading Center]]. Librarian [[PERSON|Tavi Morrow]] reportedly welcomes movement breaks. Family wants pt to participate without pressure to sit through the entire group activity.
+
+6. HEALTH AND DEVELOPMENT REVIEW
+
+Parents report no hospitalization since the prior IFSP. Pediatric visit occurred [[DATE|September 16, 2026]]. Per the fictional visit summary, growth remained stable and no new activity restrictions were listed. Hearing screening occurred [[DATE|August 20, 2026]] at [[HOSPITAL|Alderhaven Children’s Pavilion]]; report documented bilateral pass.
+
+Pt eats varied soft and regular textures. CG reports no coughing, choking, or prolonged meals. SLP observed snack participation without overt distress; this observation does not establish swallowing safety across all foods.
+
+Motor access supports floor play, walking between rooms, and reaching classroom materials. OT [[PROVIDER|Sena Briar]] previously addressed sensory supports and discharged after family goals were met. Current concern centers on functional communication and participation. Clinical diagnosis recorded for this synthetic episode: [[KEEP|ICD-10 F80.2]]. No speech sound diagnosis was added at review.
+
+7. COMMUNICATION ASSESSMENT AND OBSERVATIONS
+
+SLP used CG interview, bilingual play observation, and [[KEEP|MacArthur-Bates Communicative Development Inventories: Words and Sentences]]. Parent-reported English vocabulary raw score: [[KEEP|31]]. Spanish caregiver inventory contributed additional words; team calculated a descriptive conceptual vocabulary count of [[KEEP|48]]. Duplicate meanings across languages counted once.
+
+English-only [[KEEP|REEL-4]] worksheet entries showed receptive standard score [[KEEP|82]], expressive standard score [[KEEP|74]], and percentiles [[KEEP|12th]] and [[KEEP|4th]], respectively. These entries are retained as test data. They were not used alone to determine bilingual ability or eligibility. Team emphasized functional findings across both languages.
+
+During shared play, pt followed familiar directions in [[KEEP|8/10]] opportunities w/ [[KEEP|min cues]]. Pt used intentional requests in [[KEEP|6/10]] opportunities w/ [[KEEP|mod cues]]. Sample productions included [[KEEP|"ma"]], [[KEEP|"agua"]], [[KEEP|"go"]], and [[KEEP|"all done"]]. Final production occurred after a model. SALT note: [[KEEP|[EW]]] applied to one omitted-word sample.
+
+8. CLINICAL INTERPRETATION AND ACCESS NEEDS
+
+Pt communicates more often when an adult follows his interest, gives one short model, and waits. Longer questions and repeated demands reduced participation during this review. Familiar routines supported understanding better than unfamiliar tabletop tasks.
+
+Speech sample included [[KEEP|/m/]], [[KEEP|/b/]], and [[KEEP|/d/]]. SLP heard [[KEEP|[w]]] in an attempted vehicle label. Sample size was insufficient for a full phonological analysis. Team will track functional intelligibility through familiar and unfamiliar listener observations.
+
+Pt benefited from pictures paired w/ natural gestures. Access does not require pointing precisely; touching, looking, handing over a picture, or vocalizing may communicate a choice. CG will acknowledge the message before offering a clearer model. Family will use either language naturally. Team will track whether supports work across people, settings, and daily routines.
+
+9. OUTCOME 1: REQUESTS DURING MEALS
+
+Family outcome: During meals and snack, [[CHILD|Nico]] will communicate a request so CG can respond before frustration increases.
+
+Success criterion: intentional request in [[KEEP|8/10]] naturally occurring opportunities across three routine samples, w/ no more than [[KEEP|min cues]], documented by parent tally and SLP observation. Acceptable forms include gesture, picture, recognizable word, or a combination. Target completion: [[DATE|January 8, 2027]].
+
+Strategies: Offer two visible choices. Place a small serving within reach and keep additional food visible. Pause briefly without withholding needed food or drink. Model [[KEEP|"more"]], [[KEEP|"más"]], [[KEEP|"water"]], or [[KEEP|"agua"]] once. Respond to the attempt, then expand the message naturally.
+
+Baseline: requests occurred in [[KEEP|4/10]] home opportunities w/ [[KEEP|mod cues]] on [[DATE|October 8, 2026]]. Mother will tally one breakfast weekly. Father will practice during evening snack. SLP will coach timing and adjust pictures if pt does not understand them. Family may stop practice when pt shows fatigue or distress.
+
+10. OUTCOME 2: HELP AND TRANSITIONS
+
+Family outcome: Pt will communicate a need for help or a wish to finish during dressing, cleanup, and daycare transitions.
+
+Success criterion: use a consistent signal in [[KEEP|4/5]] opportunities across home and daycare, w/ [[KEEP|min cues]], for two consecutive weeks. Target completion: [[DATE|February 5, 2027]].
+
+Strategies: Place [[KEEP|"help"]], [[KEEP|"ayuda"]], [[KEEP|"finished"]], and [[KEEP|"terminé"]] pictures where each routine occurs. Adult names the problem, offers one model, and waits. During cleanup, pair the finish picture w/ a predictable closing song. Give warning before changing activities.
+
+Baseline: pt used a help signal in [[KEEP|1/5]] observed opportunities w/ [[KEEP|max cues]]. Teacher Ms. [[TEACHER|Lopez]] will record brief examples during transitions. CG will offer assistance promptly when distress rises. Team will review whether the task itself needs adjustment; communication practice must not delay comfort, toileting, or access to an adult.
+
+11. OUTCOME 3: SHARED PLAY WITH PEERS
+
+Family outcome: Pt will join a short play exchange w/ another child using an action, gesture, picture, or word.
+
+Success criterion: three reciprocal turns during familiar play in [[KEEP|3/4]] observed opportunities, w/ [[KEEP|mod cues]] or less. Target completion: [[DATE|March 4, 2027]].
+
+Strategies: Begin w/ parallel play beside [[PEER|Milo Crest]] or [[PEER|Anya Bellweather]]. Adult models giving, receiving, and waiting using duplicate toys. Use rolling balls, pouring cups, or simple pretend feeding. Target words may include [[KEEP|"turn"]], [[KEEP|"go"]], [[KEEP|"toma"]], and [[KEEP|"mío"]].
+
+Baseline: one reciprocal turn occurred in [[KEEP|2/4]] opportunities. Staff will avoid requiring eye contact or spoken imitation before participation. SLP will coach adults to recognize small bids, including offering a toy or moving closer. Family will practice similar exchanges w/ sibling during evening play, while keeping the sibling role enjoyable.
+
+12. OUTCOME 4: FAMILY CONFIDENCE
+
+Family outcome: CG will feel able to support communication in both languages without turning routines into drills.
+
+Success criterion: each participating CG identifies two useful strategies and demonstrates them during a chosen routine, w/ [[KEEP|min cues]], across two visits. Family confidence rating will increase from [[KEEP|4/10]] to at least [[KEEP|7/10]]. Target completion: [[DATE|December 10, 2026]].
+
+SLP will use observation, reflection, joint planning, and brief coached practice. CG selects the routine before each visit. Aunt receives the same picture set and a plain-language explanation. Grandmother may join a scheduled call if parents request it.
+
+Family will choose a weekly practice focus. SLP will ask what helped, what felt awkward, and what needs changing. A missed practice week will prompt problem-solving around family demands, without adding homework.
+
+13. SERVICES, DATES, AND PAYMENT
+
+Speech-language intervention: individual family coaching, [[KEEP|1x/week]], [[KEEP|45 minutes]], home as primary natural environment. Provider: [[PROVIDER|Iris Maren-Quill]]. Service start: [[DATE|October 12, 2026]]. Authorized end: [[DATE|April 7, 2027]]. Authorization: [[ID|SLP-FIC-260041]]. Billing reference: [[KEEP|CPT 92507]].
+
+Daycare consultation: included within the planned intervention schedule, approx monthly, by parent agreement. A daycare visit replaces that week’s home visit unless the team formally changes frequency.
+
+Service coordination: [[KEEP|1x/month]] contact plus additional coordination as needed. Provider: [[PROVIDER|Mara Fenwick]]. Start: [[DATE|October 8, 2026]]. End: [[DATE|April 7, 2027]]. No transportation service requested.
+
+SC will verify funding and send written notice before any family charge. The listed Medicaid identifier is fictional. Missed visits will be rescheduled according to family availability and authorization limits. Team will review frequency if attendance barriers, routine demands, or functional progress change.
+
+14. OTHER AGENCIES AND SUPPORTS
+
+Family receives nutrition support through [[AGENCY|Hazelmere WIC Family Office]], contact [[PHONE|919 555 0153]]. CG reports current appointments fit the work schedule. No new nutrition referral requested.
+
+[[AGENCY|Juniper Bend Smart Start Partnership]] supplied books and a caregiver play guide. [[AGENCY|Hazelmere County Family Support Services]] previously helped locate childcare resources; no open protective-services matter was reported.
+
+Sibling’s school contact is teacher Ms. [[TEACHER|Nella Hart]], [[SCHOOL|Juniper Lantern Elementary]]. School information appears only to describe household routines; the team will not share pt records there without separate consent.
+
+SC offered a parent group through [[AGENCY|Alderhaven Early Connections Network]]. Parents declined for now b/c evening attendance is difficult. Referral can be revisited. Team recorded the decision without treating group attendance as necessary for progress.
+
+15. TRANSITION AND FOLLOW-UP
+
+Pt approaches the third birthday on [[DATE|June 8, 2027]]. SC discussed transition options, family choice, and planning steps. Parents want information about preschool services and continued community supports. No preschool placement decision occurred at this review.
+
+With required consent, SC will contact [[AGENCY|Hazelmere Preschool Access Team]]. Proposed transition conference: [[DATE|March 11, 2027]], [[TIME|10:00 a.m.]]. This date remains tentative until participants confirm.
+
+Next progress check: [[DATE|December 10, 2026]]. Next six-month IFSP review: [[DATE|April 8, 2027]]. Parents may request an earlier meeting. SLP will bring routine samples and CG ratings; SC will bring service access updates. Team will judge progress by participation across daily routines, including successful communication without spoken words.
+
+16. AGREEMENT AND SIGN-OFF
+
+Parents agreed that these outcomes reflect their current priorities. They confirmed the home address, contact methods, service location, and language preferences during this fictional meeting. SC reviewed confidentiality, consent, complaint options, and how to request records.
+
+Mother [[PARENT|Elena de la Cruz]] approved the plan on [[DATE|October 8, 2026]]. Father [[PARENT|Tomás Vega-Ruiz]] approved on [[DATE|October 8, 2026]]. SC [[PROVIDER|Mara Fenwick]] documented agreement. SLP [[PROVIDER|Iris Maren-Quill]] completed the review note on [[DATE|October 9, 2026]].
+
+Current plan: begin the updated coaching schedule, share agreed pictures w/ daycare, and monitor meal requests first. Family will contact SC if work hours change. All signatures are fictional typed attestations for offline de-identification testing.

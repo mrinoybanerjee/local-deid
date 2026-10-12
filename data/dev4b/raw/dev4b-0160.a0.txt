@@ -1,0 +1,29 @@
+NOTA DE SESIÓN DIARIA – PATOLOGÍA DEL HABLA Y LENGUAJE
+
+Niño/a: [[CHILD|Mateo Fuentes Vargas]]  Fecha de nacimiento: [[DATE|04/12/2022]]  Edad: [[KEEP|4;6]]
+Fecha de sesión: [[DATE|10/08/2026]]  Hora: [[TIME|2:15 p.m.]] – [[TIME|2:45 p.m.]]
+ID Medicaid: [[MEDICAID_ID|987654321A]]  ID de seguro (miembro): [[ID|NC-INS-004471]]
+ID NC ITP: [[ID|ITP-26-00834]]  No. de autorización/registro: [[ID|AUTH-2026-5521]]
+
+Lugar de servicio: [X] Hogar  [ ] Guardería  [ ] Clínica
+Modalidad: [X] En persona  [ ] Telesalud
+Intérprete presente: [ ] Sí  [X] No (sesión conducida en español por la terapeuta bilingüe)
+
+[[CHILD|Mateo]] vive con su mamá [[PARENT|Lucía Vargas Reyes]] y su hermano mayor [[SIBLING|Diego]] en [[PLACE|204 Calle Roble, Durham, NC 27703]]. Mamá trabaja de noche en [[ORG|Duke Regional Hospital]] como [[PARENT|Lucía]] auxiliar de enfermería certificada. El papá, [[PARENT|Esteban Fuentes]], no vive en el hogar pero participa en las decisiones de terapia por teléfono: [[PHONE|(919) 555-0147]].
+
+[[CHILD|Mateo]] está inscrito en el programa preescolar de [[SCHOOL|Escuelas Públicas de Durham]], en el salón de la maestra [[TEACHER|Sra. Patricia Núñez]] en [[SCHOOL|Club Boulevard Elementary]]. Su asistente de aula es [[TEACHER|Sr. Omar Castillo]].
+
+S (Subjetivo): Mamá reporta que [[CHILD|Mateo]] durmió bien y llegó contento a la sesión. Comenta que en la escuela, su compañero [[PEER|Liam]], lo imita cuando [[CHILD|Mateo]] dice palabras nuevas, lo cual mamá cree que ayuda. La niñera, [[FAMILY|Rosa Pacheco]], estuvo presente los primeros minutos y confirmó que [[CHILD|Mateo]] practicó las tarjetas de [[KEEP|PECS]] durante la semana.
+
+O (Objetivo): Se administró la subprueba [[KEEP|Auditory Comprehension]] del [[KEEP|PLS-5]] en inglés y la versión en español previamente aplicada por [[PROVIDER|Dra. Marisol Ibáñez]]. Puntaje estándar previo: [[KEEP|73-83]] (IC 90%: [[KEEP|70-86]]). Edad equivalente actual: [[KEEP|2;6–3;0]]. En producción de fonemas, [[CHILD|Mateo]] logró /k/ en posición inicial con [[KEEP|mod cues]] en [[KEEP|8/10]] ensayos. Produjo "[[KEEP|casa]]" como "[[KEEP|tasa]]" y se trabajó el contraste /k/-/t/. En una actividad de juego, imitó a su perro diciendo "[[KEEP|corre]], [[PET|Max]]" espontáneamente, generalizando /k/ en dos palabras.
+
+Se usó el enfoque [[KEEP|Cycles]] para fonología y elementos de [[KEEP|Hanen]] para estimular el lenguaje en el juego. Porcentaje de inteligibilidad estimado: [[KEEP|65%]] con familia, [[KEEP|40%]] con desconocidos.
+
+A (Análisis): [[CHILD|Mateo]] avanza en el Objetivo del IFSP [[KEEP|Meta 2]] relacionado con articulación. Persisten dificultades con consonantes finales. Se recomienda continuar coordinación con [[PROVIDER|terapeuta ocupacional, Lic. Brenda Collazo]], de [[AGENCY|CDSA del Piamonte]], quien reevaluará el [[DATE|15 de noviembre de 2026]].
+
+P (Plan): Continuar sesiones semanales de [[KEEP|30 minutos]]. Enviar carpeta a maestra [[TEACHER|Sra. Núñez]] con estrategias para el aula. Próxima cita: [[DATE|10/15/2026]] a las [[TIME|2:00 p.m.]]. Contactar a [[AGENCY|Smart Start de Durham]] para recursos de apoyo familiar si mamá lo solicita.
+
+Firma: [[PROVIDER|Ana Beltrán Soto, M.S., CCC-SLP]]
+Agencia: [[EMPLOYER|Carolina Pediatric Therapy Services]]
+Correo: [[EMAIL|abeltran@carolinaptservices.com]]
+Teléfono de la agencia: [[PHONE|(919) 555-0199]]

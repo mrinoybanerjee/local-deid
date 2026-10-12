@@ -1,0 +1,46 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE / NOTA DIARIA
+Synthetic record; all people, organizations, locations, and contact details are fictional.
+
+Client: [[CHILD|Emilio Vargas Cruz]] | DOB: [[DATE|08/09/2022]] | Age: [[KEEP|4;2]]
+Service: [[DATE|October 11, 2026]] | [[TIME|9:10 AM]]–[[TIME|9:55 AM]]
+[X] Home  [ ] Daycare  [ ] Telehealth
+Clinician: [[PROVIDER|Marina Solís]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Little Lantern Speech Services]]
+Record: [[ID|LL-026-418]] | Medicaid: [[MEDICAID_ID|947000126Q]]
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+S / Subjetivo
+[X] Parent present  [X] Spanish preferred  [ ] Interpreter used
+
+Su mamá [[PARENT|Daniela Cruz]] reported, “En casa habla más, pero cuando está cansado se queda callado.” Father [[PARENT|Julián Vargas]] described smoother transitions after preschool. Sister [[SIBLING|Alina]] joined briefly; grandmother [[FAMILY|Teresa Cruz]] observed coaching. The family lives at [[PLACE|482 Willowglass Lane]], [[PLACE|Vallecedro]], North Carolina [[PLACE|27900]], in [[PLACE|Brindle County]]. They previously lived in [[PLACE|Agua Níspera]], Mexico.
+
+Mother works at [[ORG|Moonbridge Textile Cooperative]]. She requested coordination with Ms. [[TEACHER|Elena Rivas]] at [[SCHOOL|Cedar Kite Preschool]] and the afternoon staff at [[DAYCARE|Pebble Nest Childcare]]. Family contact: [[PHONE|(919) 555-0146]]; [[EMAIL|daniela.cruz@example.org]].
+
+Medical history, per fictional intake: gestational age [[KEEP|38 weeks]], birth weight [[KEEP|6 lb 4 oz]], Apgar scores [[KEEP|8 and 9]]. Birth occurred at [[HOSPITAL|Vallecedro Children's Hospital]]. Dr. [[PROVIDER|Nora Bell]] follows hearing concerns. No new caregiver concerns today.
+
+O / Objetivo
+[X] Play routines  [X] Caregiver coaching  [X] Bilingual language sampling
+
+Prior evaluation results reviewed for treatment planning:
+
+Test / Subtest | Evaluation date | Standard score | Confidence interval | Percentile | Age equivalent
+[[KEEP|PLS-5]] / [[KEEP|Auditory Comprehension]] | [[DATE|09/18/2026]] | [[KEEP|78]] | [[KEEP|73-83]] | [[KEEP|7th percentile]] | [[KEEP|2;6–3;0]]
+[[KEEP|PLS-5]] / [[KEEP|Expressive Communication]] | [[DATE|09/18/2026]] | [[KEEP|76]] | [[KEEP|71–81]] | [[KEEP|5th percentile]] | [[KEEP|2;4–2;8]]
+
+Scores describe performance under recorded testing conditions; bilingual observations also guide interpretation.
+
+During pretend cooking, [[CHILD|Emilio]] requested with "[[KEEP|quiero agua]]" and "[[KEEP|more sopa]]". Requests occurred in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Two-step directions reached [[KEEP|60%]] with [[KEEP|mod cues]]. Targets "[[KEEP|abre]]" and "[[KEEP|open]]" supported shared actions. Productions included "[[KEEP|tasa]]" for "[[KEEP|casa]]"; initial [[KEEP|/k/]] emerged in [[KEEP|3 of 5]] trials with [[KEEP|max cues]]. The sample included [[KEEP|[EW]]] annotations. Spanish [[KEEP|/ɾ/]] was observed without direct treatment.
+
+A picture routine used [[KEEP|PECS]]; caregiver coaching incorporated [[KEEP|Hanen]] strategies. Clinician modeled waiting, following the child's lead, and expanding one meaningful word. When the pet approached, he said "[[PET|Mango]] come". Mother practiced responding, “Sí, viene aquí,” while keeping the interaction natural.
+
+A / Análisis
+Participation improved when Spanish and English were available within the same activity. [[CHILD|Emilio]] sustained turns and repaired messages through gesture plus speech. Peer [[PEER|Luca Moreno]] appeared in a caregiver-described classroom example; no peer attended this session. Language choice followed the communication partner and activity.
+
+Progress toward IFSP outcome [[KEEP|2]] remains emerging. Independent requests increased within familiar play, but novel directions required support. Speech observations warrant continued sampling across both languages. Today's brief sample does not establish whether every observed sound pattern reflects a disorder. Mother demonstrated the waiting strategy and identified daily opportunities for practice.
+
+P / Plan
+[X] Continue treatment  [X] Home practice reviewed  [ ] Discharge
+
+Practice requesting during snack and bath routines using [[KEEP|min cues]], then allow extra response time. Review progress on [[DATE|October 25, 2026]]. Coordinator [[PROVIDER|Inés Duarte]] at [[AGENCY|Brindle Early Steps CDSA]] will receive an authorized summary. Community volunteer [[PERSON|Owen Hale]] supplied picture materials. Resource website: [[URL|https://example.org/family-language]].
+
+Caregiver understood the plan: “Lo hacemos poquito a poquito.” Next session will revisit familiar routines and compare supported requests with spontaneous requests.

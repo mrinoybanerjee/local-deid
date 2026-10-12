@@ -1,0 +1,34 @@
+DAILY SPEECH-LANGUAGE THERAPY NOTE
+
+Client: [[CHILD|Mateo Fernández]]  Age: [[KEEP|4;2]]  DOB: [[DATE|August 9, 2021]]
+Date of Service: [[DATE|October 11, 2026]]  Time In: [[TIME|9:15 AM]]  Time Out: [[TIME|10:00 AM]]
+Medicaid ID: [[MEDICAID_ID|784215639K]]  Case/Child ID: [[ID|CDSA-00231]]
+Service Coordinator: [[PROVIDER|Hannah Griggs]]  CDSA Office: [[AGENCY|Western Piedmont CDSA]]
+
+Setting: [X] Home  [ ] Daycare  [ ] Clinic  [ ] Telehealth
+Present for session: [X] Parent  [ ] Grandparent  [ ] Babysitter
+
+S: Mother, [[PARENT|Lucía Rodríguez]], reports [[CHILD|Mateo]] had a "rough weekend" with less sleep. He attends [[DAYCARE|Little Learners Daycare]] three mornings a week and also receives early intervention through the [[ORG|Little Learners Program]] on Tuesdays. His stepfather, [[PARENT|Ernesto Vidal]], was present for part of the visit. [[SIBLING|Camila]], his older sister, was at school. Grandmother [[FAMILY|Rosa Fernández]] watched the baby during the session.
+
+Mother shared that a new interpreter, [[PROVIDER|Dana Okafor]], joined the last IFSP review on [[DATE|09/02/2026]] to support Spanish communication. Referral paperwork from [[AGENCY|DSS]] and a nutrition consult through [[AGENCY|WIC]] are pending; [[AGENCY|Smart Start]] of Catawba County funded his initial screening, and he was briefly enrolled in [[AGENCY|Early Head Start]] before transitioning to [[DAYCARE|Little Learners Daycare]].
+
+O: [[CHILD|Mateo]] presented alert and cooperative for [[KEEP|26 minutes]] of structured play-based intervention using [[KEEP|PROMPT]] and elements of [[KEEP|Hanen]]. Administered select items from the [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]] subtest; raw scores yielded a standard score range of [[KEEP|73-83]] with an age-equivalent range of [[KEEP|2;6–3;0]]. Expressive vocabulary probe: [[KEEP|8/10]] correct labeling of familiar objects. Articulation screening noted stimulable production of /k/ in isolation with [[KEEP|mod cues]]; target word "cup" was produced as "[[KEEP|tup]]." He also attempted his pet's name during a book activity, saying "[[PET|Luna]] go," referencing the family dog [[PET|Luna]].
+
+Mom reported he called his sister "[[SIBLING|Cami]]" clearly three times at home. He imitated [[KEEP|[EW]]] self-correction once during a naming task. CPT code [[KEEP|92507]] billed for individual treatment; working diagnosis [[KEEP|ICD-10 F80.1]].
+
+A: [[CHILD|Mateo]] continues to make slow but steady gains toward IFSP Outcome [[KEEP|2]]. Percentile rank on receptive subtest estimated at [[KEEP|9th percentile]]. He remains inconsistent with final consonant deletion; cueing level required moved from [[KEEP|max cues]] to [[KEEP|mod cues]] across the session, [[KEEP|3 of 5]] trials. Birth history reviewed: gestational age [[KEEP|36 weeks]], birth weight [[KEEP|5 lbs 8 oz]], Apgar [[KEEP|8/9]].
+
+P: Continue weekly visits per IFSP. Recommend classroom consult with lead teacher [[TEACHER|Ms. Alvarez]] at [[DAYCARE|Little Learners Daycare]] to reinforce home carryover. Coordinate with pediatrician [[PROVIDER|Dr. Omar Siddiqui]] regarding ENT referral. Contact information updated this visit:
+
+Mother cell: [[PHONE|(828) 555-0147]]
+Stepfather work: [[PHONE|828-555-0193]] ext. 22
+Grandmother (contact in Mexico): [[PHONE|+52 55 1234 5678]]
+Agency fax: [[PHONE|(828) 555-0120]]
+Email for records request: [[EMAIL|lucia.rodriguez82@fakemail.com]]
+
+Next visit scheduled [[DATE|October 18, 2026]] at [[TIME|9:00 AM]] at home, [[PLACE|482 Hickory Nut Lane]], [[PLACE|Morganton]], [[PLACE|Burke County]], [[PLACE|28655]]. Will also attempt coordination with [[TEACHER|Mr. Daniels]], classroom aide, and peer [[PEER|Sofia]] who models language well during group play at the program.
+
+Therapist: [[PROVIDER|Grace Thompson, M.S., CCC-SLP]]
+[[EMPLOYER|Carolina Pediatric Speech Partners]]
+Phone: [[PHONE|828-555-0199]]
+Signature on file [[DATE|10/11/2026]].

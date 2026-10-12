@@ -1,0 +1,25 @@
+ADMINISTRATIVE DETAILS
+- Client: [[CHILD|Elena Marisol Vega]], age [[KEEP|4;2]], record [[ID|SLP-604281]]. Service date: [[DATE|October 8, 2026]]. Medicaid member: [[MEDICAID_ID|482716935Q]].
+- Clinician: [[PROVIDER|Camila Torres]], bilingual pediatric speech-language pathologist with [[EMPLOYER|Little Lantern Speech Services]], North Carolina. Session occurred at [[DAYCARE|Maple Kite Learning Center]] in [[PLACE|Larkhaven]], [[PLACE|Willowmere County]].
+- Direct treatment started at [[TIME|9:10 a.m.]] and stopped at [[TIME|9:55 a.m.]]. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; diagnosis: [[KEEP|ICD-10 F80.2]]. Parent contact: [[PHONE|919-555-0146]], [[EMAIL|rosa.vega@example.com]].
+
+SUBJECTIVE
+- Mother [[PARENT|Rosa Vega]] reported that [[CHILD|Elena]] requested breakfast at [[TIME|7:20 a.m.]] using longer phrases. Spanish remains the primary home language; English predominates during classroom activities.
+- Babysitter [[FAMILY|Nadia Bell]] described play with cousins [[FAMILY|Iris Soto]] and [[FAMILY|Leo Soto]] yesterday afternoon. The family’s pet, [[PET|Miso]], remained nearby during their pretend picnic.
+- Teacher Ms. [[TEACHER|Avery Cole]] reported successful turn taking with classmates [[PEER|June Ellis]] and [[PEER|Theo Park]]. No pain, illness, or unusual fatigue was reported. Mother requested strategies that fit familiar home routines.
+
+OBJECTIVE
+- Treatment used [[KEEP|Hanen]] strategies and a [[KEEP|Cycles]] activity embedded in pretend cooking. Directions were offered in both languages. Performance was documented separately when language context affected interpretation.
+- For [[KEEP|IFSP outcome 2]], the child followed related directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Independent requesting occurred in [[KEEP|60%]] of opportunities and increased to [[KEEP|80%]] with [[KEEP|mod cues]].
+- Speech targets included [[KEEP|/k/]], [[KEEP|/g/]], and the words "[[KEEP|cup]]" and "[[KEEP|go]]". Initial consonant accuracy reached [[KEEP|3 of 5]] trials with [[KEEP|max cues]]. One substitution involved [[KEEP|[w]]].
+- Spontaneous productions included "[[KEEP|I need more bubbles]]" and "[[KEEP|Put cup here]]". During family play, the child said "[[PET|Miso]] wants soup" and "[[SIBLING|Daniel]] take my spoon". Names were retained as spoken during the language sample.
+- A sample utterance received [[KEEP|[EW]]] coding. The clinician modeled a shorter grammatical form, then paused for an optional response without requiring repetition.
+
+ASSESSMENT
+- Prior [[KEEP|PLS-5]] results dated [[DATE|September 17, 2026]] included [[KEEP|Auditory Comprehension]], standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age equivalent [[KEEP|2;6–3;0]]. These results informed planning alongside bilingual observation and caregiver reports.
+- Today’s performance showed improved requests during familiar play. Direction following decreased when materials changed. The child benefited from visual choices, predictable routines, and additional processing time. English performance alone does not describe overall language ability.
+
+PLAN
+- Continue weekly therapy and practice "[[KEEP|help me]]" and "[[KEEP|my turn]]" during meals and shared play with [[KEEP|min cues]]. Mother will record examples in either language.
+- Service coordinator [[PROVIDER|Lena Price]] will review available family supports through the [[AGENCY|Brightpath Smart Start]] office in [[PLACE|Willowmere County]]. No referral was transmitted during this visit.
+- Next session: [[DATE|October 15, 2026]], [[TIME|9:10 a.m.]]. Home practice is planned after dinner at [[TIME|6:30 p.m.]]. Caregiver demonstrated the pause strategy and correctly described when to offer a visual choice.

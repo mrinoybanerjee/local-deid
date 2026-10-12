@@ -1,0 +1,27 @@
++ Name: [[CHILD|Mateo Fuentes]]
++ CA: [[KEEP|4;2]]
++ Context: Individual speech-language teletherapy session, home setting, with father present for first 10 minutes.
+
+Subjective: [[PARENT|Jorge Fuentes]] reported [[CHILD|Mateo]] had a good week at [[DAYCARE|Little Sprouts Daycare]]. Dad shared that mamá [[PARENT|Rosa Fuentes]] trabaja de noche en una fábrica de empaque (Mom works nights at a packaging plant) on the second shift, so father handles morning routines and bedtime sound homework. [[PARENT|Jorge]] also works part-time at a construction company, [[ORG|Triangle Builders Construction]], and said scheduling has been tricky. He noted [[SIBLING|Mateo]]'s older sister [[SIBLING|Camila]] has been helping prompt /k/ words at home, imitating this clinician's cues from last session.
+
+Objective: Session targeted velar fronting (/k/ → [t]) and final consonant deletion per IFSP outcome [[KEEP|#2]]. Used [[KEEP|PROMPT]] tactile cues and [[KEEP|Cycles]] approach, phase 2, word-final /k/. [[CHILD|Mateo]] produced "cat" as "[[KEEP|[tæt]]]" with [[KEEP|max cues]], then self-corrected to "[[KEEP|[kæt]]]" with [[KEEP|mod cues]] on [[KEEP|8/10]] trials ([[KEEP|80%]]). On minimal pairs ("[[KEEP|key]]" vs "[[KEEP|tea]]"), accuracy was [[KEEP|3 of 5]]. Receptive task using [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] probe items showed stimulability for /k/ in word-initial position. Interpreter [[PROVIDER|Marisol Peña]] assisted with bilingual instructions per father's request.
+
+Assessment: [[CHILD|Mateo]] continues to show steady progress toward IFSP goal [[KEEP|#2]] (word-final /k/, /g/ production). Current accuracy ([[KEEP|80%]]) reflects improvement from baseline ([[KEEP|45%]]) documented at [[DATE|June 9, 2026]] IFSP review. Diagnosis remains [[KEEP|F80.2]] (mixed receptive-expressive language disorder) per referring physician Dr. [[PROVIDER|Alan Whitfield]] at [[HOSPITAL|Rowan Pediatric Clinic]]. Session billed under [[KEEP|CPT 92507]] (individual treatment) with [[KEEP|CPT 92523]] (speech/language evaluation) portion completed for annual update.
+
+Plan: Continue twice-weekly sessions targeting [[KEEP|Cycles]] phase 2 and introduce [[KEEP|Hanen]] strategies for caregiver coaching, given both parents' nontraditional work hours. Service coordinator [[PROVIDER|Denise Albright]] from [[AGENCY|Rowan County CDSA]] will coordinate updated authorization through [[AGENCY|NC Medicaid]].
+
+Session Schedule (through end of month):
+
+| Day       | Start | Stop  | Location                          |
+|-----------|-------|-------|------------------------------------|
+| Monday    | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | Home — [[PLACE|118 Larkspur Lane, Salisbury]] |
+| Wednesday | [[TIME|1:30 PM]] | [[TIME|2:15 PM]] | [[DAYCARE|Little Sprouts Daycare]], [[PLACE|Salisbury]] |
+| Friday    | [[TIME|9:00 AM]] | [[TIME|9:45 AM]] | Home — [[PLACE|118 Larkspur Lane, Salisbury]] |
+
+Next review scheduled [[DATE|December 3, 2026]] with [[PROVIDER|Denise Albright]] and family. Mother [[PARENT|Rosa Fuentes]] requested evening phone updates given her shift at the plant; clinician will call [[PHONE|(704) 555-0192]] after [[TIME|6:00 PM]] on non-session days. Father provided alternate contact [[EMAIL|jfuentes.nc@mailhaven.com]] for written updates.
+
+Additional note: Grandmother [[FAMILY|Elena Fuentes]] occasionally supervises sessions when both parents are at work; she was present briefly today and reported [[CHILD|Mateo]] enjoys practicing sounds with family dog, "[[PET|Chispa]]," saying "go [[PET|Chispa]] go" independently this week, a spontaneous production noted outside structured tasks. Teacher [[TEACHER|Ms. Donovan]] at daycare also reported carryover of target sounds during circle time, per written note shared with this clinician.
+
+Record information: Case ID [[ID|RC-48217]], Medicaid ID [[MEDICAID_ID|9384672105B]]. This note authored by [[PROVIDER|Hannah Reyes, M.S., CCC-SLP]], bilingual clinician, [[EMPLOYER|Carolina Pediatric Speech Partners]], [[PLACE|Salisbury, NC]] [[PLACE|28144]]. Session date [[DATE|October 9, 2026]]. Next daily note anticipated [[DATE|October 13, 2026]].
+
+Caregiver education: Discussed home practice schedule accommodating mother's overnight shift at the plant and father's variable hours at the construction company; agreed grandmother [[FAMILY|Elena]] will log home practice on days parents are unavailable. Family also mentioned contacting [[AGENCY|WIC]] office regarding nutrition support unrelated to speech services, noted for care coordination only.

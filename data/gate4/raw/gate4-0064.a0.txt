@@ -1,0 +1,50 @@
+Nota diaria de terapia del lenguaje — Documento completamente ficticio
+
+Profesional: [[PROVIDER|Elena Márquez Salcedo]], patóloga bilingüe del habla y lenguaje, empleada de [[EMPLOYER|Voces del Robledal Pediatría]].
+Cliente: [[CHILD|Teodoro Salinas Prado]], apodo [[CHILD|Teo]], edad [[KEEP|4;2]].
+Fecha: [[DATE|11 de octubre de 2026]]. Sesión: [[TIME|09:15]] a [[TIME|10:00]].
+Expediente: [[ID|NC-FIC-48217]]. Medicaid: [[MEDICAID_ID|583104927K]].
+Lugar: [[SCHOOL|Escuela Infantil Sendero de Nubes]], [[PLACE|Vallebrisa]], Carolina del Norte.
+
+La [[AGENCY|Agencia Regional de Coordinación del Desarrollo Infantil y Apoyo Integral a Familias del Condado de Cedroluz (ARCDIAIF)]] coordina los servicios. La [[AGENCY|ARCDIAIF]] recibió autorización familiar para compartir este resumen.
+
+Contactos autorizados
+Relación	Nombre	Contacto
+Madre	[[PARENT|Guadalupe Prado Varela]], [[PARENT|Lupita]]	[[PHONE|919-555-0142]]
+Padre	[[PARENT|Jesús Salinas Robles]], [[PARENT|Chuy]]	[[EMAIL|chuy.salinas@example.com]]
+Cuidadora	[[FAMILY|Marina Varela Soto]]	[[PLACE|418 Calle del Helecho, Vallebrisa, 27900]]
+Maestra	[[TEACHER|Adriana Soler Montes]]	[[PHONE|984-555-0168]]
+Coordinadora	[[PROVIDER|Inés Rivas Castaño]]	[[URL|https://arcdiaif.example.org]]
+
+Subjetivo
+
+Su mamá [[PARENT|Lupita]] informó que [[CHILD|Teo]] pidió ayuda durante el desayuno y contó un juego con su hermano [[SIBLING|José Salinas Prado]], llamado [[SIBLING|Pepe]]. La familia practica turnos con el perro [[PET|Nube]]. El padre trabaja en [[ORG|Talleres Brisa de Cobre]] y solicita actividades breves para después del trabajo. No se notificaron cambios de salud. El antecedente ficticio registra nacimiento en [[HOSPITAL|Hospital Infantil Loma Serena]], edad gestacional [[KEEP|38 semanas]], peso [[KEEP|3.120 g]] y Apgar [[KEEP|8]] y [[KEEP|9]].
+
+Objetivo
+
+Resultados previos; los intervalos corresponden al nivel de confianza indicado.
+Prueba	Subprueba	Fecha	Puntuación	Percentil	Intervalo	Confianza
+[[KEEP|Goldman-Fristoe]]	[[KEEP|Sonidos en palabras]]	[[DATE|22/09/2026]]	[[KEEP|78]]	[[KEEP|7]]	[[KEEP|73-83]]	[[KEEP|95%]]
+[[KEEP|Bayley]]	[[KEEP|Comunicación expresiva]]	[[DATE|18/08/2024]]	[[KEEP|6]]	[[KEEP|9]]	[[KEEP|5–7]]	[[KEEP|90%]]
+[[KEEP|Peabody]]	[[KEEP|Vocabulario receptivo]]	[[DATE|22/09/2026]]	[[KEEP|84]]	[[KEEP|14]]	[[KEEP|79–89]]	[[KEEP|95%]]
+
+La revisión de [[KEEP|Rossetti]] documentó un equivalente de edad de [[KEEP|2;6–3;0]] en [[KEEP|Expresión del lenguaje]] durante la evaluación del [[DATE|18/08/2024]]. Estos datos orientan la intervención; las diferencias entre instrumentos impiden interpretar sus puntuaciones como una trayectoria única.
+
+Durante juego estructurado, [[CHILD|Teodoro]] produjo [[KEEP|/k/]] en [[KEEP|8/10]] oportunidades con [[KEEP|claves moderadas]]. Las palabras objetivo fueron [[KEEP|"casa"]], [[KEEP|"copa"]] y [[KEEP|"queso"]]. Produjo [[KEEP|/ɾ/]] en [[KEEP|3 de 5]] ensayos con [[KEEP|claves máximas]]. Se observó sustitución por [[KEEP|[w]]] durante habla espontánea. La muestra incluyó [[KEEP|"yo quiere agua"]], codificada [[KEEP|[EW]]]. Dijo también “[[SIBLING|Pepe]] ven”, sin apoyo.
+
+En juego compartido con [[PEER|Juan Esteban Ledesma]], apodo [[PEER|Juanito]], mantuvo turnos en [[KEEP|75%]] de las oportunidades. La voluntaria [[PERSON|Clara Benítez Arce]] preparó los materiales. Se aplicaron estrategias de [[KEEP|Hanen]] y actividades de [[KEEP|Cycles]]. El niño eligió imágenes antes de hablar y aceptó repetir mensajes cuando su compañero pidió aclaración. Las pausas y los modelos cortos facilitaron la participación.
+
+Análisis
+
+[[CHILD|Teo]] mostró mayor iniciativa comunicativa en español. Los errores aumentaron cuando aceleró el habla. Respondió mejor a modelos visuales que a instrucciones largas. La comparación entre tareas sugiere que necesita práctica para generalizar las producciones fuera del juego dirigido. El diagnóstico registrado es [[KEEP|F80.2]]. La intervención corresponde al resultado [[KEEP|2]] del IFSP.
+
+Plan
+
+Continuar práctica funcional y revisar el resultado [[KEEP|2]] con la familia. Entregar dibujos para solicitar ayuda y comentar acciones. La maestra registrará ejemplos espontáneos. Revisar avances el [[DATE|25/10/2026]].
+
+Programa de servicios
+Servicio	Frecuencia	Horario	Código
+Terapia individual	Semanal	[[TIME|09:15]]	[[KEEP|92507]], modificador [[KEEP|GN]]
+Consulta en [[DAYCARE|Guardería Semillitas del Viento]]	Mensual	[[TIME|13:30]]	[[KEEP|92507]]
+
+Firma: [[PROVIDER|Elena Márquez Salcedo]]. Registro profesional ficticio: [[ID|SLP-NC-FA2048]].

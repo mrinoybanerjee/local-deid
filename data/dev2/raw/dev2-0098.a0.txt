@@ -1,0 +1,86 @@
+Nombre del niño: [[CHILD|Mateo Alejandro Flores Ramírez]]  Apodo: [[CHILD|Teo]]  Fecha de nacimiento: [[DATE|14 de marzo de 2022]]  Edad cronológica: [[KEEP|4;7]]
+Número de expediente: [[ID|MRN-0042187]]  Número de Medicaid: [[MEDICAID_ID|987654321A]]  Número de autorización: [[ID|AUTH-55218]]
+Fecha de evaluación: [[DATE|2 de octubre de 2026]]  Fecha del informe: [[DATE|9 de octubre de 2026]]
+Evaluadora: [[PROVIDER|Diana Castillo Ortiz, M.S., CCC-SLP]]  Empresa: [[EMPLOYER|Terapias Integrales Carolina del Este, PLLC]]
+Pediatra remitente: [[PROVIDER|Dr. Samuel Ibáñez]]  Coordinadora de servicios (CDSA): [[PROVIDER|Andrea Pérez]]
+Agencia CDSA: [[AGENCY|Agencia de Desarrollo Infantil del Este, oficina de Goldsboro]]  Condado: [[PLACE|Wayne]]
+Dirección del hogar: [[PLACE|215 Cherry Street]], [[PLACE|Mount Olive]], NC [[PLACE|28365]]  Teléfono: [[PHONE|(919) 555-0148]]
+Correo electrónico de la madre: [[EMAIL|lucia.rodriguezf@gmail.com]]
+
+MOTIVO DE REFERENCIA
+
+[[CHILD|Mateo]], conocido en casa como [[CHILD|Teo]], es un niño de [[KEEP|4;7]] años referido por [[PROVIDER|Dr. Samuel Ibáñez]] para una evaluación completa de habla y lenguaje debido a preocupaciones persistentes de su madre, [[PARENT|Lucía Rodríguez Flores]], y su coordinadora de servicios del [[AGENCY|CDSA]], [[PROVIDER|Andrea Pérez]], sobre su inteligibilidad del habla y su desarrollo de lenguaje expresivo en español y en inglés. [[CHILD|Mateo]] fue referido inicialmente a los [[AGENCY|Servicios de Intervención Temprana del Condado de Wayne]] a los [[KEEP|26 meses]] de edad después de que su niñera, [[FAMILY|Rosa Elena Martínez]], notara que el niño producía muy pocas palabras inteligibles en comparación con su hermana mayor, [[SIBLING|Camila Flores Rodríguez]]. La familia fue conectada con el [[AGENCY|CDSA de Goldsboro]] a través de una referencia hecha por el [[AGENCY|Departamento de Servicios Sociales del Condado de Wayne]] durante una visita de recertificación de beneficios.
+
+HISTORIA DE NACIMIENTO Y DESARROLLO MÉDICO
+
+Según el reporte de [[PARENT|Lucía Rodríguez Flores]], el embarazo de [[CHILD|Mateo]] fue de alto riesgo por preeclampsia materna, y el parto ocurrió por cesárea de emergencia en el [[HOSPITAL|WakeMed, campus Raleigh]] a las [[KEEP|34 semanas]] de gestación. [[CHILD|Mateo]] nació con un peso de [[KEEP|2,150 gramos]] y un puntaje de Apgar de [[KEEP|6]] al minuto y [[KEEP|8]] a los cinco minutos. Permaneció en la [[HOSPITAL|Unidad de Cuidados Intensivos Neonatales del WakeMed, campus Raleigh]] durante [[KEEP|19 días]] por dificultad respiratoria e ictericia. Durante su estancia, fue evaluado por el equipo de terapia de alimentación del hospital debido a succión débil y coordinación inmadura de succión-deglución-respiración. Fue dado de alta con seguimiento ambulatorio en la [[HOSPITAL|clínica pediátrica de seguimiento de alto riesgo de WakeMed]].
+
+A los [[KEEP|8 meses]] de edad, [[CHILD|Mateo]] presentó varios episodios de otitis media aguda y fue remitido a la práctica de [[HOSPITAL|Otorrinolaringología y Audiología Pediátrica de Duke Health, campus Durham]], donde el Dr. [[PROVIDER|Marcus Whitfield]] colocó tubos de ventilación bilaterales (CPT [[KEEP|69436]]) a los [[KEEP|14 meses]] de edad. Las evaluaciones audiológicas posteriores en esa misma clínica mostraron audición dentro de límites normales bilateralmente, documentadas mediante timpanometría y audiometría conductual. La madre reporta que, desde la colocación de los tubos, las infecciones de oído han disminuido notablemente, aunque [[CHILD|Mateo]] continúa con seguimiento anual con audiología en [[HOSPITAL|Duke Health, campus Durham]].
+
+El historial médico adicional incluye un diagnóstico de reflujo gastroesofágico (ICD-10 [[KEEP|K21.9]]) tratado con omeprazol durante el primer año de vida, y un diagnóstico reciente de trastorno fonológico (ICD-10 [[KEEP|F80.0]]) y trastorno del lenguaje expresivo (ICD-10 [[KEEP|F80.1]]) documentados por el [[PROVIDER|Dr. Samuel Ibáñez]] en la visita de los [[KEEP|4 años]]. [[CHILD|Mateo]] no tiene antecedentes de convulsiones, pérdida auditiva permanente, ni diagnóstico de trastorno del espectro autista, aunque la familia reporta que un primo paterno, [[FAMILY|Joel Castillo Nuñez]], recibe servicios de intervención por retraso en el desarrollo.
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Rodríguez Flores]]; su padre, [[PARENT|Henry Flores Castillo]]; su hermana mayor, [[SIBLING|Camila Flores Rodríguez]], de [[KEEP|6 años]]; y su abuela materna, [[FAMILY|Rosa Elena Martínez]], quien cuida a los niños durante el día. La familia reside en una casa alquilada en [[PLACE|215 Cherry Street]], [[PLACE|Mount Olive]], a unos quince minutos de la oficina del [[AGENCY|CDSA de Goldsboro]]. [[PARENT|Lucía Rodríguez Flores]] trabaja de noche en la línea de empaque de [[ORG|Mount Olive Pickle Company]], y [[PARENT|Henry Flores Castillo]] trabaja en el turno diurno en la planta de procesamiento de [[ORG|Butterball, planta de Mount Olive]]. Debido a estos horarios, [[FAMILY|Rosa Elena Martínez]] es la cuidadora principal de [[CHILD|Mateo]] durante la mayor parte del día.
+
+La familia emigró de la aldea de [[PLACE|Las Flores]], en el departamento de [[PLACE|Yoro]], hace aproximadamente seis años, antes del nacimiento de [[CHILD|Mateo]]. En casa se habla principalmente español; [[PARENT|Lucía Rodríguez Flores]] reporta que ella y [[PARENT|Henry Flores Castillo]] hablan español entre ellos y con los niños, mientras que [[SIBLING|Camila Flores Rodríguez]] mezcla español e inglés desde que comenzó el kínder en la [[SCHOOL|Escuela Primaria Carver Heights]]. [[CHILD|Mateo]] asiste de forma parcial al programa [[AGENCY|Early Head Start del Condado de Wayne]], en el centro ubicado cerca de [[PLACE|Mount Olive]], donde su maestra, [[TEACHER|Marisol Jiménez]], reporta que [[CHILD|Mateo]] se comunica principalmente con gestos y palabras sueltas, y que sus compañeros, incluyendo a [[PEER|Ángel]] y [[PEER|Destiny]], a menudo hablan por él cuando no es comprendido.
+
+La familia también ha recibido apoyo del [[AGENCY|Programa WIC del Condado de Wayne]] desde el nacimiento de [[CHILD|Mateo]], y participó en un programa de alfabetización familiar ofrecido por [[AGENCY|Smart Start del Condado de Wayne]] el año pasado. [[PARENT|Lucía Rodríguez Flores]] expresa que está muy motivada para ayudar a [[CHILD|Mateo]] en casa, pero que su horario nocturno limita el tiempo que puede dedicarle directamente, por lo que gran parte de la estimulación diaria recae en [[FAMILY|Rosa Elena Martínez]], quien habla únicamente español.
+
+La mascota de la familia es un perro llamado [[PET|Rocky]], al que [[CHILD|Mateo]] llama frecuentemente con una aproximación de la palabra, lo cual la madre considera uno de los pocos intentos verbales espontáneos y consistentes del niño.
+
+OBSERVACIONES CONDUCTUALES
+
+Durante la sesión de evaluación, realizada en la oficina satélite del [[AGENCY|CDSA de Goldsboro]], [[CHILD|Mateo]] se mostró inicialmente tímido pero se adaptó rápidamente al entorno con el apoyo de su madre. Mantuvo contacto visual apropiado, respondió a su nombre de manera consistente, y demostró juego simbólico apropiado para su edad con figuras de animales. Su atención a las tareas estructuradas fue variable, requiriendo redirección frecuente y refuerzo con pegatinas. [[CHILD|Mateo]] utilizó principalmente gestos, señalización y aproximaciones vocálicas para comunicarse, con producción verbal espontánea limitada a aproximadamente [[KEEP|15 a 20 palabras]] reconocibles, la mayoría en español.
+
+PROCEDIMIENTOS DE EVALUACIÓN
+
+Se administraron los siguientes instrumentos estandarizados, complementados con observación clínica, muestra de lenguaje espontáneo, y entrevista a los padres:
+
+Instrumento: [[KEEP|Preschool Language Scale-5 (PLS-5), versión en español]]  Puntaje estándar Comunicación Auditiva: [[KEEP|76]]  Percentil: [[KEEP|5]]
+Puntaje estándar Comunicación Expresiva: [[KEEP|71]]  Percentil: [[KEEP|3]]  Puntaje Total de Lenguaje: [[KEEP|72]]  Intervalo de confianza 95%: [[KEEP|65-79]]
+
+Instrumento: [[KEEP|Goldman-Fristoe Test of Articulation-3 (GFTA-3)]]  Puntaje estándar: [[KEEP|68]]  Percentil: [[KEEP|2]]  Edad equivalente: [[KEEP|2;4]]
+
+Instrumento: [[KEEP|Evaluación de inteligibilidad en contexto conectado]]  Inteligibilidad para oyentes familiares: [[KEEP|60%]]  Inteligibilidad para oyentes no familiares: [[KEEP|30%]]
+
+Instrumento: [[KEEP|Muestra de habla espontánea, 50 enunciados]]  Procesos fonológicos observados: [[KEEP|reducción de grupos consonánticos]], [[KEEP|frontalización velar]], [[KEEP|omisión de consonante final]]
+
+RESULTADOS: HABLA
+
+El análisis fonológico reveló patrones consistentes de simplificación del habla. [[CHILD|Mateo]] produjo "[[KEEP|tetota]]" para "pelota", omitiendo el fonema [[KEEP|/p/]] inicial y sustituyendo [[KEEP|/l/]] por [[KEEP|/t/]]. También produjo "[[KEEP|dao]]" para "gato", con frontalización del sonido velar [[KEEP|/g/]] y omisión de la consonante final [[KEEP|/t/]]. En inglés, produjo "[[KEEP|[EW]]] tat" para "cat", reflejando patrones similares de frontalización. Los grupos consonánticos como [[KEEP|/tr/]] y [[KEEP|/bl/]] fueron consistentemente reducidos a un solo elemento, por ejemplo "[[KEEP|toque]]" para "tren" y "[[KEEP|azul]]" producido como "[[KEEP|azú]]". Con claves de articulación de nivel moderado (mod cues), [[CHILD|Mateo]] logró producir correctamente el sonido [[KEEP|/k/]] en posición inicial en [[KEEP|6 de 10 intentos]], sugiriendo capacidad de estimulación. Sin claves, su precisión consonántica global se estimó en [[KEEP|45%]], marcadamente por debajo de lo esperado para su edad.
+
+RESULTADOS: LENGUAJE RECEPTIVO Y EXPRESIVO
+
+En el [[KEEP|PLS-5]], el desempeño de [[CHILD|Mateo]] en comunicación auditiva reflejó dificultades para seguir instrucciones de dos pasos no relacionados y para identificar conceptos cuantitativos básicos como "más" y "menos". En comunicación expresiva, su vocabulario funcional fue limitado principalmente a sustantivos de alta frecuencia, con uso mínimo de verbos conjugados, pronombres, y estructuras de dos a tres palabras. La longitud media de enunciado en la muestra espontánea fue de [[KEEP|1.8 morfemas]], consistente con un nivel de desarrollo lingüístico de aproximadamente [[KEEP|18 a 24 meses]]. [[CHILD|Mateo]] mostró habilidades pragmáticas relativamente fuertes, incluyendo toma de turnos, uso de gestos comunicativos intencionales, y protodeclarativas consistentes, lo cual es un factor positivo pronóstico.
+
+RESULTADOS: VOZ Y FLUIDEZ
+
+No se observaron características de disfluencia atípica durante la muestra de habla espontánea. La calidad vocal fue dentro de límites normales, sin evidencia de ronquera, tensión, o resonancia anormal.
+
+IMPRESIONES DIAGNÓSTICAS
+
+Con base en los hallazgos de esta evaluación, [[CHILD|Mateo]] presenta un trastorno fonológico de severidad moderada a severa (ICD-10 [[KEEP|F80.0]]), caracterizado por procesos de simplificación inconsistentes con su edad cronológica, e inteligibilidad reducida tanto en español como en inglés. Adicionalmente, [[CHILD|Mateo]] cumple criterios para un trastorno del lenguaje expresivo (ICD-10 [[KEEP|F80.1]]), con relativa preservación de habilidades pragmáticas y de comunicación social. Dada la exposición bilingüe consistente del niño desde el nacimiento, y el desempeño reducido en ambos idiomas, se descarta que las dificultades observadas se deban únicamente a adquisición típica de un segundo idioma; más bien, los patrones son consistentes con un trastorno primario del lenguaje que afecta ambos sistemas lingüísticos.
+
+[[CHILD|Mateo]] continúa siendo elegible para servicios de intervención temprana coordinados por el [[AGENCY|CDSA de Goldsboro]], y su coordinadora de servicios, [[PROVIDER|Andrea Pérez]], deberá actualizar el Plan Individualizado de Servicios para la Familia (IFSP) para incluir los nuevos resultados de esta evaluación, bajo el Resultado [[KEEP|IFSP #3]] relacionado con comunicación funcional.
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de habla y lenguaje bilingüe (español-inglés) individual, dos veces por semana, con sesiones de [[KEEP|30 minutos]], utilizando un enfoque combinado de terapia fonológica basada en procesos ([[KEEP|Enfoque de Ciclos]]) y estrategias de estimulación de lenguaje basadas en el modelo [[KEEP|Hanen]].
+
+2. Continuar seguimiento audiológico anual en [[HOSPITAL|Duke Health, campus Durham]] para monitorear cualquier recurrencia de otitis media y su posible impacto en el desarrollo del habla.
+
+3. Coordinar con la maestra del programa [[AGENCY|Early Head Start del Condado de Wayne]], [[TEACHER|Marisol Jiménez]], para implementar estrategias de lenguaje en el aula, incluyendo expansión de enunciados y modelado en ambos idiomas.
+
+4. Proveer a la familia, incluyendo a [[PARENT|Lucía Rodríguez Flores]], [[PARENT|Henry Flores Castillo]], y [[FAMILY|Rosa Elena Martínez]], materiales de estimulación de lenguaje en español para uso en el hogar, dado que [[FAMILY|Rosa Elena Martínez]] es la cuidadora principal durante el día.
+
+5. Reevaluar en [[KEEP|6 meses]] para medir progreso en inteligibilidad y longitud media de enunciado, y determinar necesidad de ajuste en la frecuencia de servicios.
+
+6. Notificar a la coordinadora de servicios, [[PROVIDER|Andrea Pérez]], y al [[AGENCY|CDSA de Goldsboro]], para actualizar el IFSP con los resultados de esta evaluación antes de la próxima reunión de revisión programada para el [[DATE|15 de enero de 2027]].
+
+7. Mantener comunicación con el pediatra, [[PROVIDER|Dr. Samuel Ibáñez]], sobre el progreso del niño y cualquier cambio en su historial médico relevante para el tratamiento del habla y lenguaje.
+
+Esta evaluación fue realizada y este informe fue redactado por [[PROVIDER|Diana Castillo Ortiz, M.S., CCC-SLP]], patóloga del habla y lenguaje bilingüe certificada, en nombre de [[EMPLOYER|Terapias Integrales Carolina del Este, PLLC]]. Para preguntas sobre este informe, favor comunicarse al [[PHONE|(919) 555-0148]] o al correo [[EMAIL|dcastillo@terapiascarolinaeste.com]].
+
+Firma: [[PROVIDER|Diana Castillo Ortiz]], M.S., CCC-SLP
+Fecha: [[DATE|9 de octubre de 2026]]

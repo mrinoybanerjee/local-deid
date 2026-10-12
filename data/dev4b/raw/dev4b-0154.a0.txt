@@ -1,0 +1,34 @@
+María José Fernández Castillo — Daily Session Note
+[[EMPLOYER|Carolina Pediatric Therapy Services]], Early Intervention Program
+
+Child: [[CHILD|María José Fernández Castillo]]
+DOB: [[DATE|04/12/2022]]
+Medicaid ID: [[MEDICAID_ID|998877665A]]
+Case ID: [[ID|CDSA-0451]]
+Session Date: [[DATE|October 9, 2026]]
+
+Weekly Session Schedule:
+Day	Start	Stop	Location
+Monday	[[TIME|3:30 PM]]	[[TIME|4:00 PM]]	Home visit – [[PLACE|118 Larkspur Lane, Hickory]]
+Wednesday	[[TIME|9:00 AM]]	[[TIME|9:30 AM]]	[[AGENCY|Western Piedmont CDSA]] office
+Friday	[[TIME|1:00 PM]]	[[TIME|1:30 PM]]	[[DAYCARE|Little Sprouts Preschool]] – speech room
+
+S: [[PARENT|Lucía Ramírez Castillo]] reports [[CHILD|María José]] has been imitating two-word phrases at home with her brother [[SIBLING|Diego]]. [[PARENT|Lucía]] works two jobs, a shift at [[ORG|Bojangles]] and overnight stocking at [[ORG|UPS]], so sessions are built around her schedule; her husband [[PARENT|Pedro Fernández Soto]] covers Friday pickups when his schedule allows. Teacher Ms. [[TEACHER|Alvarez]] at [[DAYCARE|Little Sprouts Preschool]] noted [[CHILD|María José]] pointed to request a turn with classmate [[PEER|Sofia]] during circle time.
+
+O: Session held at [[PLACE|118 Larkspur Lane, Hickory, Catawba County]]. [[CHILD|María José]] ([[KEEP|4;2]]) presented with [[KEEP|moderate]] delays per [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score [[KEEP|73-83]] (CI [[KEEP|90%]]) and [[KEEP|Expressive Communication]] standard score [[KEEP|68]], [[KEEP|2nd percentile]]. Age equivalent [[KEEP|2;6–3;0]]. Birth history: [[KEEP|gestational age 34 weeks]], [[KEEP|birth weight 4 lbs 11 oz]], [[KEEP|Apgar 7/9]].
+
+Targeted goals (IFSP Outcome [[KEEP|2]]): expand MLU and requesting using 2-word combinations. Used [[KEEP|PROMPT]] and [[KEEP|Hanen]] strategies with [[KEEP|mod cues]]. [[CHILD|María José]] imitated "[[SIBLING|Diego]] go" ([[KEEP|3 of 5]] trials) and produced [[KEEP|[bai]]] for target word "[[KEEP|bye]]" ([[KEEP|min cues]]). She labeled a photo "[[PET|Max]] run" independently, approximating the dog's name with [[KEEP|[w]]] for [[KEEP|/r/]]. Correct production of target word "[[KEEP|more]]" achieved in [[KEEP|8/10]] trials. Billed under CPT [[KEEP|92507]], ICD-10 [[KEEP|F80.1]].
+
+Interpreter [[PROVIDER|J. Ortiz]] assisted with bilingual cueing in Spanish; service coordinator [[PROVIDER|M.R.]] observed the final 10 minutes ahead of the upcoming IFSP review on [[DATE|November 3, 2026]].
+
+A: [[CHILD|María José]] continues to make steady progress toward expressive goals; comprehension remains a focus area consistent with [[KEEP|PLS-5]] findings above.
+
+P: Continue weekly sessions per the schedule above. Contact [[PARENT|Lucía Ramírez Castillo]] at [[PHONE|(828) 555-0147]] or [[EMAIL|lramirezcastillo@example.com]] with scheduling changes.
+
+IFSP Outcome Review:
+Outcome	Strategies	Progress	Date
+Outcome [[KEEP|1]]: Increase receptive vocabulary	[[KEEP|Hanen]], visual supports	Emerging, [[KEEP|60%]] accuracy	[[DATE|September 15, 2026]]
+Outcome [[KEEP|2]]: Expand expressive MLU to 2-3 words	[[KEEP|PROMPT]], modeling	Progressing, [[KEEP|3 of 5]] trials	[[DATE|October 9, 2026]]
+Outcome [[KEEP|3]]: Improve social turn-taking with peers	Peer modeling at [[DAYCARE|Little Sprouts Preschool]]	Introduced this cycle	[[DATE|October 9, 2026]]
+
+Documented by [[PROVIDER|Sarah Whitfield, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Therapy Services]].

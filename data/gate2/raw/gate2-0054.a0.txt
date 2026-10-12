@@ -1,0 +1,26 @@
+Dear Ms. [[PARENT|Elena Vela]],
+
+I am a bilingual pediatric speech-language pathologist in North Carolina. [[CHILD|Nico Vela]] attends [[DAYCARE|Moonpickle Nest]]. Miss [[TEACHER|Ana]] reports improved participation with [[PEER|Lila Fen]]. Please share these results with his caregiver, doña [[FAMILY|Lupe]].
+
+Test	Subtest	Age	Standard score	Percentile
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|4;2]]	[[KEEP|85]]	[[KEEP|16th]]
+
+[[CHILD|Nico]] produced [[KEEP|"tar"]] for [[KEEP|"car"]] and practiced [[KEEP|/k/]] with [[KEEP|mod cues]], succeeding in [[KEEP|8/10]] trials. We will continue [[KEEP|Cycles]] and brief home practice.
+
+You and your husband, [[PARENT|Omar Vela]], reported these workplaces. Each row shows the English name and its English rendering in Spanish word order.
+
+Parent	English name	Spanish word order
+Mother	[[ORG|Sunmoth Store]]	[[ORG|Store Sunmoth]]
+Father	[[ORG|Copperwing Plant]]	[[ORG|Plant Copperwing]]
+Mother	[[ORG|Fernbell Restaurant]]	[[ORG|Restaurant Fernbell]]
+Father	[[ORG|Thistledrop Farm]]	[[ORG|Farm Thistledrop]]
+Father	[[ORG|Cloudbrick Construction Company]]	[[ORG|Construction Company Cloudbrick]]
+Mother	[[ORG|Mosslight Cleaning Service]]	[[ORG|Cleaning Service Mosslight]]
+
+Service	Date	Time
+Speech therapy	[[DATE|October 15, 2026]]	[[TIME|9:30 a.m.]]
+
+Please tell me which practice activity fits your family's routine. We can discuss instructions in English or Spanish.
+
+Clinician	Employer	Phone
+[[PROVIDER|Marisa Quill]], MS, CCC-SLP	[[EMPLOYER|Juniper Kite Therapy]]	[[PHONE|919-555-0146]]

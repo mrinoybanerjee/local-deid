@@ -1,0 +1,25 @@
+Nota diaria: terapia del habla y lenguaje pediátrica  Estado: documento completamente ficticio
+Fecha: [[DATE|10/10/2026]]  Inicio: [[TIME|09:00]]  Fin: [[TIME|09:45]]  Modalidad: presencial
+Paciente: [[CHILD|Nicolás de la Cruz]]  Edad: [[KEEP|4;2]]  Nacimiento: [[DATE|08/10/2022]]
+Expediente: [[ID|SLP-482719]]  Medicaid: [[MEDICAID_ID|583194726Q]]  Diagnóstico: [[KEEP|F80.2]]  CPT: [[KEEP|92507]]  Modificador: [[KEEP|GN]]
+Domicilio: [[PLACE|418 Calle del Trébol]]  Ciudad: [[PLACE|Pinar Claro]]  Estado: Carolina del Norte  Código postal: [[PLACE|27904]]
+Madre: [[PARENT|Elena Torres-Vidal]]  Teléfono: [[PHONE|919-555-0146]]  Correo: [[EMAIL|elena.torres@example.org]]
+Profesional: Lic. [[PROVIDER|Marisol del Río]]  Empleador: [[EMPLOYER|Senderos del Habla]]  Idiomas: español e inglés
+Guardería: [[DAYCARE|Little Learners Daycare]]  Programa terapéutico: [[KEEP|Little Learners Program]]  Maestra: Sra. [[TEACHER|Adriana Molina]]
+
+S: La madre refiere más solicitudes espontáneas durante las comidas. Su hermano [[SIBLING|Gabriel Torres-Vidal]] participa en juegos de turnos. La abuela [[FAMILY|Rosa de la Cruz]] practica las mismas palabras durante el cuidado vespertino. Al ver una fotografía de su perro, el paciente dijo “[[PET|Nube]] corre”. No se comunicaron cambios médicos.
+
+Antecedentes: gestación de [[KEEP|39 semanas]]  Peso al nacer: [[KEEP|3,1 kg]]  Apgar: [[KEEP|8/9]]
+Coordinación: [[PROVIDER|Esteban Rivas]] mantiene contacto con [[AGENCY|Oficina CDSA de Pinar Claro]], [[AGENCY|DSS del condado de Robledal]], [[AGENCY|WIC de Pinar Claro]], [[AGENCY|Smart Start de Robledal]] y [[AGENCY|Early Head Start de Pinar Claro]]. La familia solicita horarios compatibles con la guardería.
+
+O: Se realizó intervención bilingüe mediante [[KEEP|Hanen]] y modelado durante juego funcional. [[CHILD|Nicolás]] pidió [[KEEP|"quiero agua"]] en [[KEEP|8/10]] oportunidades con [[KEEP|mod cues]]. Produjo [[KEEP|/k/]] inicial en [[KEEP|60%]] de los ensayos con [[KEEP|max cues]]. La producción [[KEEP|"tasa"]] sustituyó el objetivo [[KEEP|"casa"]]. Comprendió instrucciones de dos pasos en [[KEEP|3 de 5]] oportunidades con [[KEEP|min cues]]. Compartió materiales con su compañero [[PEER|Simón Arce]] después de una demostración.
+
+Tabla de puntuaciones: evaluación previa  Interpretación: resultados ficticios para seguimiento
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Comprensión auditiva]]  Fecha: [[DATE|10/09/2026]]  Puntuación estándar: [[KEEP|78]]  IC: [[KEEP|73-83]]  Percentil: [[KEEP|7]]  Edad equivalente: [[KEEP|2;6–3;0]]
+Prueba: [[KEEP|PLS-5]]  Subprueba: [[KEEP|Comunicación expresiva]]  Fecha: [[DATE|10/09/2026]]  Puntuación estándar: [[KEEP|81]]  IC: [[KEEP|76-86]]  Percentil: [[KEEP|10]]
+
+A: El paciente mostró mayor iniciativa comunicativa en actividades conocidas. Las dificultades aumentaron cuando cambió el material. Las respuestas mejoraron con espera y apoyo visual. El desempeño observado apoya continuar las metas funcionales; las puntuaciones se consideran junto con las muestras en ambos idiomas.
+
+P: Continuar sesiones semanales. Meta IFSP: [[KEEP|2]]. Practicar solicitudes durante merienda y juego, con reducción gradual del apoyo. La madre recibió ejemplos y demostró la estrategia. Enviar materiales al hogar para compartir con el personal, según autorización vigente. Revisar generalización durante la próxima sesión.
+
+Próxima visita: [[DATE|10/17/2026]]  Firma: [[PROVIDER|Marisol del Río]]

@@ -1,0 +1,36 @@
+Daily bilingual speech-language session / Nota diaria
+Service date: [[DATE|October 8, 2026]]	Location: [[DAYCARE|Moonbutton Acorn House]], [[PLACE|Fernwick]], North Carolina
+Client: [[CHILD|Elena Marisol Vega]]	Age: [[KEEP|4;2]]	Record: [[ID|SLP-60482]]
+Medicaid: [[MEDICAID_ID|482619735K]]	Clinician: [[PROVIDER|Isabel Quintero]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Willow Lantern Speech Services]]
+
+S / Reporte familiar
+Su mamá [[PARENT|Rosa Vega]] reported, “En casa habla más español; English comes out when she plays.” Dad [[PARENT|Tomás Vega]] described rotating jobs below; these schedules affect transportation. Both parents requested afternoon visits. Sister [[SIBLING|Inés Vega]] practices turn-taking. Abuela [[FAMILY|Celia Montes]] provides pickup. The family requested Spanish reminders because written English instructions sometimes cause confusion.
+
+Parent	Current or seasonal workplaces / lugares de trabajo
+[[PARENT|Rosa Vega]]	[[ORG|Copper Finch]] store; tienda [[ORG|Copper Finch]]
+[[PARENT|Rosa Vega]]	[[ORG|Silver Loom]] plant; planta [[ORG|Silver Loom]]
+[[PARENT|Rosa Vega]]	[[ORG|Marigold Spoon]] restaurant; restaurante [[ORG|Marigold Spoon]]
+[[PARENT|Tomás Vega]]	[[ORG|Blue Lantern]] farm; finca [[ORG|Blue Lantern]]
+[[PARENT|Tomás Vega]]	[[ORG|Stone Wren]] construction company; compañía de construcción [[ORG|Stone Wren]]
+[[PARENT|Tomás Vega]]	[[ORG|Clear Nest]] cleaning service; servicio de limpieza [[ORG|Clear Nest]]
+
+O / Observaciones
+In Ms. [[TEACHER|Lopez]]'s room, [[CHILD|Elena]] joined peer [[PEER|Nico Salas]]. Using [[KEEP|Hanen]] strategies and [[KEEP|mod cues]], she requested [[KEEP|"more bubbles"]] on [[KEEP|8/10]] opportunities. She produced [[KEEP|/k/]] with [[KEEP|60%]] accuracy and substituted [[KEEP|[w]]]. During pretend play, she said “[[PET|Chispa]] run.” Shared reading supported Spanish targets [[KEEP|"quiero"]] and [[KEEP|"otra vez"]]. She stayed engaged with picture choices and movement breaks.
+
+Previous evaluation	Subtest	Standard score	Percentile	Confidence interval	Age equivalent
+[[KEEP|PLS-5]]	[[KEEP|Auditory Comprehension]]	[[KEEP|78]]	[[KEEP|7th]]	[[KEEP|73-83]]	[[KEEP|2;6–3;0]]
+
+A / Impresión
+Functional requests improved with modeling. Speech clarity still limits unfamiliar listeners. Bilingual sampling supports continued intervention across both languages. Today's performance reflects supported practice; spontaneous use needs further observation.
+
+P / Plan
+Continue [[KEEP|IFSP]] outcome [[KEEP|2]]. Coordinate with [[PROVIDER|Dalia Serrano]], service coordinator, through [[AGENCY|Fernwick CDSA Office]], [[AGENCY|Larkfield DSS]], [[AGENCY|Fernwick WIC]], [[AGENCY|Larkfield Smart Start]], and [[AGENCY|Moonbutton Early Head Start]].
+
+Contact	Phone	Email
+[[PROVIDER|Dalia Serrano]]	[[PHONE|919-555-0146]]	[[EMAIL|dalia.serrano@fernwick.example]]
+
+Service	Day	Time	Billing
+Speech therapy	Thursday	[[TIME|2:30 PM]]	[[KEEP|92507]], modifier [[KEEP|GN]], diagnosis [[KEEP|F80.2]]
+
+Home practice: offer choices during snack, pause for requests, and accept Spanish or English responses. Review caregiver feedback next visit.

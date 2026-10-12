@@ -1,0 +1,42 @@
+DATOS DE LA SESIÓN
+- Service date: [[DATE|October 9, 2026]]; session ran from [[TIME|9:10 a.m.]] to [[TIME|9:55 a.m.]] in [[PLACE|Fernhollow]], North Carolina.
+- Client: [[CHILD|Elian Varela]], age [[KEEP|3;2]]. Record: [[ID|JL-604821]]; Medicaid: [[MEDICAID_ID|482716305Q]]; authorization: [[ID|AUTH-731904]].
+- Bilingual SLP [[PROVIDER|Marisol Cedeno]] provided treatment through [[EMPLOYER|Juniper Lantern Speech Therapy, PLLC]]. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+SUBJECTIVE / REPORTE FAMILIAR
+- Su mamá [[PARENT|Renata Varela]] reported, “Ahora pide ayuda, pero cuando está cansado vuelve a señalar.” His father, [[PARENT|Tomas Varela]], described better participation during dinner.
+- Sister [[SIBLING|Ines Varela]] practiced turn-taking yesterday. Abuela [[FAMILY|Celia Montoro]] and babysitter [[FAMILY|Dalia Funes]] use the same picture choices.
+- Mother reported that [[CHILD|Eli]] said “[[PET|Nube]] come” while feeding the family dog. The phrase reflects emerging combinations; it was reported, not observed.
+- Family requested practical Spanish examples because English worksheets are difficult for grandmother.
+
+ANTECEDENTES MÉDICOS
+- Born [[DATE|August 3, 2023]], at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|2,940 g]], at [[HOSPITAL|Willowmere Children’s Hospital]]. Apgar scores were [[KEEP|7]] and [[KEEP|9]].
+- A brief NICU admission addressed feeding coordination. Neonatologist Dr. [[PROVIDER|Adrian Solano]] documented discharge without oxygen support.
+- Pediatrician Dr. [[PROVIDER|Nora Bellorin]] follows development. Audiologist [[PROVIDER|Esteban Lujan]] completed hearing screening on [[DATE|September 22, 2026]]; the fictional referral record states results were within expected limits.
+- No new medications or caregiver concerns about swallowing were reported today.
+
+OBJECTIVE / DATOS
+- Evaluation dated [[DATE|September 18, 2026]] included [[KEEP|PLS-5 Spanish]], [[KEEP|Auditory Comprehension]], and [[KEEP|Expressive Communication]]. Standard scores were [[KEEP|81]] and [[KEEP|76]], respectively; percentiles were [[KEEP|10th]] and [[KEEP|5th]].
+- Expressive confidence interval: [[KEEP|71–84]]; age-equivalent range: [[KEEP|2;0–2;5]]. These findings support treatment planning alongside bilingual language samples.
+- During play, [[CHILD|Elian]] requested with combinations in [[KEEP|8/10]] opportunities, or [[KEEP|80%]], with [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 5]] opportunities.
+- Observed productions included “[[KEEP|más carro]],” “[[KEEP|open box]],” and “[[KEEP|yo quiero agua]].” Targets were “[[KEEP|help me]]” and “[[KEEP|ayúdame]].” One English word-choice error received SALT code [[KEEP|[EW]]].
+- Initial [[KEEP|/k/]] emerged with [[KEEP|max cues]]; [[KEEP|[t]]] substituted elsewhere. Spanish [[KEEP|/ɾ/]] was monitored without direct correction.
+
+INTERVENCIÓN / PARTICIPACIÓN
+- Used [[KEEP|Hanen]] interaction strategies and brief [[KEEP|PROMPT]] cues during meaningful play. Alternated languages according to the child’s choices, sin exigir traducción.
+- IFSP outcome [[KEEP|2]] addresses functional requests; goal [[KEEP|2.1]] targets combinations across daily routines.
+- At [[DAYCARE|Little Lantern Grove]], Ms. [[TEACHER|Paloma Rivas]] reported that classmates [[PEER|Mila Quintero]] and [[PEER|Benny Orlan]] provide helpful turn-taking models.
+- Transition planning includes [[SCHOOL|Fernhollow Meadow Preschool]]. Classroom assistant [[TEACHER|Cora Beltran]] will receive the caregiver-approved picture routine.
+- Service coordinator [[PROVIDER|Lucinda Peral]] can connect the family with [[AGENCY|WIC Office]] in [[PLACE|Mossvale County]].
+- Father works at [[ORG|Copper Finch Packaging]]. Neighbor [[PERSON|Otis Merrow]] currently helps with transportation.
+
+ASSESSMENT / IMPRESIÓN
+- Functional communication improved with predictable pauses, visual choices, and responsive language models. Engagement decreased during cleanup but returned after a movement break.
+- Spanish combinations appeared more spontaneous today. English requests remained useful when materials matched familiar daycare routines.
+- Caregiver demonstrated the strategy accurately and accepted coaching: “Espero un poquito y después le doy el modelo.”
+
+PLAN / SEGUIMIENTO
+- Continue weekly sessions through [[EMPLOYER|Juniper Lantern]]. Review progress on [[DATE|November 6, 2026]].
+- Practice requests during snack and bath routines with [[KEEP|min cues]], then increase support as needed.
+- Contact [[EMPLOYER|JLST]] at [[EMAIL|familias@juniperlantern.example]] or [[PHONE|919-555-0147]]. Resources: [[URL|https://juniperlantern.example/familias]].
+- Confirm home materials at [[PLACE|246 Lanternberry Lane]], [[PLACE|Fernhollow]], North Carolina [[PLACE|27486]], before the next visit.

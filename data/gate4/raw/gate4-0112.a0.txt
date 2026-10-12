@@ -1,0 +1,51 @@
+From: [[PROVIDER|Elena Varela]] <[[EMAIL|elena.varela@lucerospeech.example]]>
+To: [[PARENT|Marisol Cordero]] <[[EMAIL|marisol.cordero@example.net]]>
+Subject: Daily bilingual session note for [[CHILD|Nicolás Cordero]]
+Sent: [[DATE|October 8, 2026]] at [[TIME|4:15 PM]]
+
+Hola, familia. Below is today's SOAP note and the confirmed schedule. All information in this copied thread is fictional and created for testing.
+
+Client: [[CHILD|Nicolás Cordero]], called [[CHILD|Nico]] at home; age [[KEEP|4;2]].
+Service date: [[DATE|October 8, 2026]].
+Record: [[ID|LC-804271]]; Medicaid: [[MEDICAID_ID|583946127Q]].
+Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S — Subjetivo:
+Su mamá [[PARENT|Marisol Cordero]] reported, “Ahora pide ayuda en español, pero se frustra cuando no lo entienden.” Dad [[PARENT|Andrés Cordero]] reported better turn-taking with sister [[SIBLING|Inés Cordero]]. Grandmother [[FAMILY|Teresa Montalvo]] attended today's session. The family requested Spanish modeling during snack routines and English practice for classroom participation. Their dog, [[PET|Chispa]], remains a strong motivator.
+
+O — Objetivo:
+We completed play-based language treatment using [[KEEP|Hanen]] strategies and brief [[KEEP|PROMPT]] support. For [[KEEP|IFSP outcome 2]], [[CHILD|Nico]] requested assistance in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Independent two-word combinations occurred in [[KEEP|60%]] of opportunities. He produced [[KEEP|"más agua"]] and [[KEEP|"help me"]] during snack. During pretend play, he said "[[PET|Chispa]] corre"; the pet's name supported spontaneous communication.
+
+Initial [[KEEP|/k/]] targets [[KEEP|"casa"]] and [[KEEP|"cup"]] were accurate in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]]. A [[KEEP|[w]]] substitution occurred during one modeled word. Spanish [[KEEP|/ɾ/]] was monitored without direct drill. The sample contained [[KEEP|[EW]]] annotations for extraneous words.
+
+A — Análisis:
+Prior [[KEEP|PLS-5]] results showed [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7th]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These scores describe the earlier assessment; today's performance reflects supported participation. English and Spanish samples both showed emerging combinations. Code-switching served communication and was accepted throughout treatment. Visual choices improved engagement; verbal repetitions alone increased frustration.
+
+P — Plan:
+Continue bilingual modeling, wait time, and caregiver coaching. Practice [[KEEP|"abre"]] and [[KEEP|"open"]] during daily routines with [[KEEP|min cues]]. Review [[KEEP|IFSP outcome 2]] on [[DATE|November 5, 2026]]. No new hearing concerns were reported; follow-up remains scheduled with Dr. [[PROVIDER|Dalia Serrano]] at [[HOSPITAL|Luminara Health Audiology–Cedar Lantern Campus]].
+
+Session schedule:
+
+Day | Start | Stop | Location
+Monday | [[TIME|9:00 AM]] | [[TIME|9:30 AM]] | [[SCHOOL|Mariposa Grove Preschool]], Ms. [[TEACHER|Lopez]]'s room
+Thursday | [[TIME|2:00 PM]] | [[TIME|2:45 PM]] | [[EMPLOYER|Lucero Pediatric Speech]], [[PLACE|418 Willow Finch Lane]], [[PLACE|Maplehaven]], NC [[PLACE|27593]]
+
+School coordination:
+Teacher Ms. [[TEACHER|Lopez]] described successful play with classmates [[PEER|Amaya]] and [[PEER|Julián]]. Classroom assistant [[TEACHER|Owen Paredes]] will offer picture choices. Coordinator [[PROVIDER|Ruth Beltrán]] at [[AGENCY|Maplehaven CDSA]] will review authorization [[ID|AU-620184]]. Mom's employer, [[ORG|Copper Finch Textiles]], approved her adjusted pickup time.
+
+Gracias,
+[[PROVIDER|Elena Varela]], MS, CCC-SLP
+Bilingual pediatric speech-language pathologist
+[[EMPLOYER|Lucero Pediatric Speech]]
+[[PHONE|919-555-0146]] | [[URL|https://lucerospeech.example]]
+
+> From: [[PARENT|Marisol Cordero]] <[[EMAIL|marisol.cordero@example.net]]>
+> Sent: [[DATE|October 7, 2026]] at [[TIME|7:20 PM]]
+>
+> Hola. For the history section: [[CHILD|Nicolás]] was born on [[DATE|August 8, 2022]] at [[HOSPITAL|Luminara Health–Cedar Lantern Campus Hospital]] in [[PLACE|Maplehaven]], North Carolina, at [[KEEP|33 weeks 4 days]] gestation. Birth weight was [[KEEP|1,920 g]], with Apgar scores [[KEEP|7 and 9]].
+>
+> Dr. [[PROVIDER|Brenna Solís]] managed his admission to [[HOSPITAL|Luminara Health–Cedar Lantern Campus NICU]]. He received feeding support and later followed with pediatrician Dr. [[PROVIDER|Tomás Alder]] at [[HOSPITAL|Luminara Health Pediatrics–Willow Court Campus]]. No surgery was reported. Tenemos el resumen para la próxima visita.
+>
+> [[PARENT|Marisol Cordero]]
+> Mamá de [[CHILD|Nico]]
+> [[PHONE|984-555-0173]]

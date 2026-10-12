@@ -1,0 +1,42 @@
+1. Session Identification  
+1.1 Service Record
+
+Client: [[CHILD|Elian Virello]], age [[KEEP|4;2]]; birth date: [[DATE|August 7, 2022]]. Service date: [[DATE|October 9, 2026]]. Record: [[ID|NC-SLP-604821]]. Medicaid: [[MEDICAID_ID|731604829Q]]. Clinician: [[PROVIDER|Marisa Quenwell]], MS, CCC-SLP, bilingual pediatric speech-language pathologist, employed by [[EMPLOYER|Willow Lantern Therapy Services]]. Location: [[DAYCARE|The Velvet Acorn Observatory]], [[PLACE|4816 Thistlemere Lane]], [[PLACE|Brindle Cove]], North Carolina [[PLACE|27863]]. Session began at [[TIME|9:10 a.m.]] and ended at [[TIME|9:55 a.m.]].
+
+2. Subjective Information  
+2.1 Family Report
+
+Mother [[PARENT|Nelia Virello]] reported improved requests during breakfast at [[TIME|7:30 a.m.]]. Father [[PARENT|Tomas Virello]] described frustration during evening cleanup. Sister [[SIBLING|Iria Virello]] models short phrases. Grandmother [[FAMILY|Celia Ruvanto]] provides afternoon care. The family uses Spanish and English daily. No new hearing concerns were reported. Sleep was reportedly adequate.
+
+2.2 Employment Context
+
+Parents listed current and recent workplaces using English order and Spanish word order, respectively: [[ORG|Silver Finch Store]] / [[ORG|Store Silver Finch]]; [[ORG|Copper Meadow Plant]] / [[ORG|Plant Copper Meadow]]; [[ORG|Amber Spoon Restaurant]] / [[ORG|Restaurant Amber Spoon]]; [[ORG|Quiet Heron Farm]] / [[ORG|Farm Quiet Heron]]; [[ORG|Stone Petal Construction Company]] / [[ORG|Construction Company Stone Petal]]; and [[ORG|Bright Orchard Cleaning Service]] / [[ORG|Cleaning Service Bright Orchard]]. Variable shifts affect caregiver availability.
+
+3. Objective Findings  
+3.1 Participation
+
+Teacher Ms. [[TEACHER|Paloma Seldren]] supported transition. Peers [[PEER|Ansel Torven]] and [[PEER|Mira Belwick]] joined a turn-taking activity. [[CHILD|Elian]] remained engaged with brief movement breaks. Materials included picture cards, toy animals, and a visual schedule. Activities alternated languages according to the child's responses.
+
+3.2 Measured Performance
+
+With [[KEEP|mod cues]], requests occurred in [[KEEP|8/10]] opportunities, or [[KEEP|80%]]. Independent requests occurred in [[KEEP|3 of 5]] trials. Initial [[KEEP|/k/]] targets included [[KEEP|"cup"]] and [[KEEP|"key"]]. Productions included [[KEEP|"tup"]] and [[KEEP|[w]]]. A spontaneous utterance was recorded as [[KEEP|"I want more"]] with SALT code [[KEEP|[EW]]]. During animal play, he said "[[PET|Pico]] run".
+
+4. Assessment  
+4.1 Clinical Interpretation
+
+Historical [[KEEP|PLS-5]] findings included [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], percentile [[KEEP|7]], and confidence interval [[KEEP|73-83]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|82]], with age-equivalent range [[KEEP|2;6–3;0]]. These historical results provide context; today's observations indicate emerging functional communication. Bilingual exposure informed interpretation. The clinician distinguished language differences from errors and accepted appropriate responses in either language.
+
+5. Intervention  
+5.1 Treatment Methods
+
+Treatment used [[KEEP|Hanen]] strategies, [[KEEP|Cycles]], and [[KEEP|PROMPT]] supports. [[KEEP|IFSP outcome 2]] addressed functional requests. Modeling, wait time, and recasting supported participation. Cueing decreased to [[KEEP|min cues]] during familiar routines. No distress occurred.
+
+6. Plan  
+6.1 Continued Care
+
+Continue weekly sessions and coordinate with service coordinator [[PROVIDER|Dena Wexlin]] at [[AGENCY|Brindle Cove Early Connections Office]]. Practice brief requests during meals and cleanup. Review progress on [[DATE|November 6, 2026]]. Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]], diagnosis [[KEEP|ICD-10 F80.2]].
+
+7. Authentication  
+7.1 Contact and Signature
+
+Signed electronically by [[PROVIDER|Marisa Quenwell]], MS, CCC-SLP, at [[TIME|11:20 a.m.]]. Contact: [[PHONE|919-555-0146]]; [[EMAIL|mquenwell@willowlantern.example]]; [[URL|https://willowlantern.example]]. Documentation reflects direct observation except where family reports are identified.

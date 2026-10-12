@@ -1,0 +1,88 @@
+INFORME DE REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS PARA LA FAMILIA (IFSP)
+[[AGENCY|Programa de NC para Infantes y Niños Pequeños]] (NC Infant-Toddler Program)
+
+Nombre del niño: [[CHILD|Mateo Fernández Ruiz]]
+Fecha de nacimiento: [[DATE|2 de enero de 2024]]
+ID de caso: [[ID|IFSP-00482-WK]]
+Número de Medicaid: [[MEDICAID_ID|748216305B]]
+Fecha del IFSP inicial: [[DATE|10 de septiembre de 2025]]
+Fecha de esta revisión: [[DATE|14 de marzo de 2026]]
+
+Preparado por: [[PROVIDER|Ana Gómez]], MS, CCC-SLP, patóloga del habla y lenguaje bilingüe, [[EMPLOYER|Carolina Pediatric Therapy Services]]
+Intérprete presente: [[PROVIDER|Patricia Núñez]], intérprete médica certificada
+Coordinadora de servicios: [[PROVIDER|Michelle Davis]]
+Oficina CDSA: [[AGENCY|Oficina CDSA de Wake]]
+
+**Información familiar**
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Rodríguez]], su padre, [[PARENT|Carlos Fernández]], y su hermana mayor, [[SIBLING|Valentina]], de 5 años, en [[PLACE|4817 Holly Ridge Lane, Raleigh, 27610]]. La familia recibe apoyo frecuente de su niñera, [[FAMILY|Rosa Martínez]], quien cuida a [[CHILD|Mateo]] las tardes en que su madre trabaja. Los primos [[FAMILY|Diego]] y [[FAMILY|Sofía]] visitan la casa casi todos los fines de semana y juegan con [[CHILD|Mateo]] en el patio trasero. La familia tiene un perro llamado [[PET|Rocky]], al que [[CHILD|Mateo]] abraza cuando está molesto o cansado.
+
+La madre, [[PARENT|Lucía Rodríguez]], trabaja en el turno de la tarde en [[ORG|Supermercado Carolina Fresh]], y el padre, [[PARENT|Carlos Fernández]], trabaja en construcción con horarios variables. El teléfono principal de la familia es [[PHONE|(919) 555-0148]] y el correo electrónico de contacto es [[EMAIL|lucia.rodriguez82@gmail.com]].
+
+**Preocupaciones y prioridades de la familia**
+
+Durante la reunión, [[PARENT|Lucía Rodríguez]] dijo, a través de la intérprete [[PROVIDER|Patricia Núñez]]: "Lo que más me preocupa es que [[CHILD|Mateo]] no me dice lo que quiere. Señala las cosas pero no usa palabras, y cuando se frustra llora mucho o me jala la ropa." [[PARENT|Carlos Fernández]] agregó: "En la guardería dicen que él entiende más de lo que habla, pero en casa no sabemos si entiende todo cuando le hablamos en español."
+
+La primera prioridad de la familia es que [[CHILD|Mateo]] pueda pedir comida y juguetes usando palabras o señas en lugar de llorar. La segunda prioridad es que pueda seguir instrucciones sencillas de dos pasos en español e inglés. La tercera prioridad, mencionada por la niñera [[FAMILY|Rosa Martínez]], es que [[CHILD|Mateo]] juegue más tiempo con otros niños sin frustrarse ni alejarse del grupo.
+
+**Rutinas diarias**
+
+[[CHILD|Mateo]] se despierta a las [[TIME|6:30 a.m.]] y desayuna con su familia. Su madre lo lleva al [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]] a las [[TIME|7:45 a.m.]], donde pasa el día con su maestra, [[TEACHER|Nancy Lopez]], y sus compañeros de clase, [[PEER|Emma]] y [[PEER|Liam]]. A la hora de la siesta, alrededor de la [[TIME|1:00 p.m.]], [[CHILD|Mateo]] a veces se resiste y llora. Por la tarde, [[FAMILY|Rosa Martínez]] lo recoge a las [[TIME|4:30 p.m.]] y lo cuida hasta que su madre llega del trabajo a las [[TIME|6:00 p.m.]]. La cena familiar es alrededor de las [[TIME|7:00 p.m.]], y [[CHILD|Mateo]] se acuesta a las [[TIME|8:30 p.m.]] después de un baño y un cuento con su hermana [[SIBLING|Valentina]].
+
+**Otras agencias y proveedores involucrados**
+
+Además de los servicios de habla y lenguaje, [[CHILD|Mateo]] recibe terapia ocupacional con [[PROVIDER|Jennifer Alvarez]], OTR/L, y terapia física con [[PROVIDER|Mark Sullivan]], PT. Su pediatra, la Dra. [[PROVIDER|Rebecca Chen]], lo monitorea cada tres meses. La familia también recibe apoyo nutricional de [[AGENCY|WIC]] y referencias de [[AGENCY|Smart Start de Wake County]]. El caso fue referido originalmente por el [[AGENCY|Departamento de Servicios Sociales de Wake]] después de una evaluación en el [[HOSPITAL|Hospital Memorial Pinecrest]] tras el nacimiento de [[CHILD|Mateo]], quien fue prematuro.
+
+**Resultados de la evaluación**
+
+Se administró una evaluación de seguimiento usando el [[KEEP|Bayley-III]] (Escalas Bayley de Desarrollo Infantil, Tercera Edición) y el [[KEEP|PLS-5 Español]].
+
+| Prueba/Subprueba | Fecha | Puntaje | Percentil | Intervalo de confianza | Edad equivalente |
+|---|---|---|---|---|---|
+| [[KEEP|Bayley-III]], [[KEEP|Comunicación Receptiva]] | [[DATE|12 de marzo de 2026]] | [[KEEP|puntaje escalar 7]] | [[KEEP|percentil 16]] | [[KEEP|5–9]] | [[KEEP|14–16 meses]] |
+| [[KEEP|Bayley-III]], [[KEEP|Comunicación Expresiva]] | [[DATE|12 de marzo de 2026]] | [[KEEP|puntaje escalar 4]] | [[KEEP|percentil 2]] | [[KEEP|3–6]] | [[KEEP|10–12 meses]] |
+| [[KEEP|Bayley-III]], [[KEEP|Cognitivo]] | [[DATE|12 de marzo de 2026]] | [[KEEP|puntaje escalar 9]] | [[KEEP|percentil 37]] | [[KEEP|7–11]] | [[KEEP|24–27 meses]] |
+| [[KEEP|PLS-5 Español]], [[KEEP|Comprensión Auditiva]] | [[DATE|13 de marzo de 2026]] | [[KEEP|puntaje estándar 73]] | [[KEEP|percentil 4]] | [[KEEP|68–78]] | [[KEEP|1;6–1;9]] |
+| [[KEEP|PLS-5 Español]], [[KEEP|Comunicación Expresiva]] | [[DATE|13 de marzo de 2026]] | [[KEEP|puntaje estándar 65]] | [[KEEP|percentil 1]] | [[KEEP|60–71]] | [[KEEP|1;2–1;5]] |
+
+En el momento de la evaluación, [[CHILD|Mateo]] tenía [[KEEP|26 meses]] de edad cronológica. Nació a las [[KEEP|34 semanas]] de gestación, con un peso al nacer de [[KEEP|2.1 kg]] y un puntaje de Apgar de [[KEEP|7]] al minuto uno y [[KEEP|9]] a los cinco minutos.
+
+En la muestra de lenguaje espontáneo, [[CHILD|Mateo]] produjo en promedio [[KEEP|1.2 palabras]] por enunciado. Usó aproximaciones de palabras como "[[KEEP|aba]]" para agua y "[[KEEP|tete]]" para biberón. Sustituyó consistentemente el fonema [[KEEP|/k/]] por [[KEEP|[t]]] y omitió los sonidos finales de palabra, por ejemplo "[[KEEP|pa]]" en lugar de "pan". Con claves [[KEEP|de apoyo máximo]], imitó "[[KEEP|mamá]]" y "[[KEEP|más]]" en [[KEEP|3 de 5]] intentos ([[KEEP|60%]]).
+
+Se documentó el código [[KEEP|ICD-10 F80.1]] (trastorno del lenguaje expresivo) y el código [[KEEP|CPT 92523]] para la evaluación de habla y lenguaje receptivo y expresivo.
+
+**Resultados del IFSP con estrategias**
+
+[[KEEP|Resultado 1]]: [[CHILD|Mateo]] pedirá objetos deseados usando una palabra, una aproximación de palabra o una seña en lugar de llorar, en [[KEEP|8 de 10]] oportunidades observadas durante la rutina de comida o juego.
+Estrategias: Se usará el enfoque [[KEEP|Hanen]] para enseñar a la familia a seguir la iniciativa de [[CHILD|Mateo]] y a esperar con expectativa antes de entregarle el objeto. [[PARENT|Lucía Rodríguez]] practicará la estrategia durante la cena y la merienda de la tarde.
+
+[[KEEP|Resultado 2]]: [[CHILD|Mateo]] seguirá instrucciones de un paso relacionadas con rutinas conocidas (por ejemplo, "dame la pelota") en [[KEEP|4 de 5]] ensayos, con clave [[KEEP|de apoyo mínimo]].
+Estrategias: Se usarán señas simples y gestos naturales junto con el enfoque [[KEEP|PROMPT]] para apoyar la producción motora del habla durante el juego dirigido por el niño. Se introducirá también el sistema [[KEEP|PECS]] como apoyo visual complementario durante las comidas en casa.
+
+[[KEEP|Resultado 3]]: [[CHILD|Mateo]] participará en juego paralelo con otro niño durante al menos [[KEEP|5 minutos]], sin llorar ni alejarse, en [[KEEP|3 de 4]] sesiones observadas en la guardería.
+Estrategias: La maestra, [[TEACHER|Nancy Lopez]], facilitará juego estructurado entre [[CHILD|Mateo]] y sus compañeros [[PEER|Emma]] y [[PEER|Liam]], usando el programa de [[KEEP|Cycles]] para trabajar patrones fonológicos dentro del juego compartido.
+
+**Horario de servicios**
+
+| Día | Hora de inicio | Hora de fin | Lugar |
+|---|---|---|---|
+| Lunes | [[TIME|9:00 a.m.]] | [[TIME|9:45 a.m.]] | [[DAYCARE|Centro de Cuidado Infantil Little Sprouts]], [[PLACE|Raleigh]] |
+| Miércoles | [[TIME|2:30 p.m.]] | [[TIME|3:15 p.m.]] | Hogar de la familia, [[PLACE|4817 Holly Ridge Lane, Raleigh]] |
+| Viernes | [[TIME|10:15 a.m.]] | [[TIME|11:00 a.m.]] | [[AGENCY|Oficina CDSA de Wake]], [[PLACE|2820 Atlantic Avenue, Raleigh]] |
+
+Durante la sesión del miércoles, la niñera [[FAMILY|Rosa Martínez]] suele estar presente para aprender las estrategias junto con la familia, y el perro [[PET|Rocky]] a veces entra a la sala de juego, lo que [[CHILD|Mateo]] disfruta mucho. Durante la sesión del lunes en la guardería, los compañeros [[PEER|Emma]] y [[PEER|Liam]] a veces se integran a las últimas actividades para apoyar el [[KEEP|Resultado 3]].
+
+**Fechas de servicio**
+
+La terapia de habla y lenguaje comenzó el [[DATE|15 de septiembre de 2025]] y continuará hasta la próxima revisión anual, programada para el [[DATE|10 de septiembre de 2026]]. La evaluación de seguimiento se realizó los días [[DATE|12 de marzo de 2026]] y [[DATE|13 de marzo de 2026]]. Esta revisión del IFSP se firmó el [[DATE|14 de marzo de 2026]] en presencia de [[PARENT|Lucía Rodríguez]], [[PARENT|Carlos Fernández]], la coordinadora de servicios [[PROVIDER|Michelle Davis]], y la patóloga del habla [[PROVIDER|Ana Gómez]].
+
+La próxima visita de terapia ocupacional con [[PROVIDER|Jennifer Alvarez]] está programada para el [[DATE|21 de marzo de 2026]], y la próxima cita con la pediatra, la Dra. [[PROVIDER|Rebecca Chen]], es el [[DATE|2 de abril de 2026]]. La familia acordó continuar las tres sesiones semanales descritas arriba hasta la próxima revisión del IFSP.
+
+**Notas adicionales**
+
+[[PARENT|Carlos Fernández]] preguntó si el seguro de Medicaid cubriría sesiones adicionales durante el verano, dado que la familia planea visitar a parientes y es posible que falten a algunas sesiones. [[PROVIDER|Michelle Davis]] indicó que presentará la solicitud de autorización adicional ante [[AGENCY|Medicaid de Carolina del Norte]] antes del [[DATE|1 de junio de 2026]]. Se recordó a la familia que puede comunicarse con [[PROVIDER|Ana Gómez]] en [[EMAIL|ana.gomez@carolinapediatrictherapy.com]] o al [[PHONE|(919) 555-0271]] para cualquier pregunta entre sesiones.
+
+Firma de la madre: [[PARENT|Lucía Rodríguez]] — [[DATE|14 de marzo de 2026]]
+Firma del padre: [[PARENT|Carlos Fernández]] — [[DATE|14 de marzo de 2026]]
+Firma de la coordinadora de servicios: [[PROVIDER|Michelle Davis]] — [[DATE|14 de marzo de 2026]]
+Firma de la patóloga del habla y lenguaje: [[PROVIDER|Ana Gómez]], MS, CCC-SLP — [[DATE|14 de marzo de 2026]]

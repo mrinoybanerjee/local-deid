@@ -1,0 +1,43 @@
+Daily therapy note / Evaluación breve
+
+Service: [[DATE|October 11, 2026]]  
+Client: [[CHILD|Nicolás Varela]], age [[KEEP|4;2]]  
+Clinician: [[PROVIDER|Elena Brisano]], bilingual SLP, [[EMPLOYER|Firefly Bridge Speech Services]]  
+Record: [[ID|SLP-604817]]; Medicaid: [[MEDICAID|834926175R]]  
+Site: [[PLACE|186 Lantern Finch Lane]], [[PLACE|Bellfern]], North Carolina [[PLACE|27806]]  
+Contact: [[PHONE|919-555-0146]]; [[EMAIL|ebrिसano@example.invalid]]; [[URL|https://fireflybridge.example.invalid]]
+
+Subjetivo
+
+Mamá [[PARENT|Mariela Varela]] reported, “En casa habla más, pero cuando tiene prisa, nobody understands.” Papá [[PARENT|Tomás Varela]] attended remotely. Sister [[SIBLING|Inés Varela]] practiced turn-taking; grandmother [[FAMILY|Celia Varela]] provided transportation. Interpreter [[PROVIDER|Rosa Quinel]] supported discussion of regional vocabulary. Neighbor [[PERSON|Beto Laner]] delivered the forgotten backpack.
+
+Parent employment history includes the store [[ORG|Copper Kite Market]], la tienda [[ORG|Copper Kite Market]]; the plant [[ORG|Mosswheel Textiles]], la planta [[ORG|Mosswheel Textiles]]; the restaurant [[ORG|Juniper Spoon]], el restaurante [[ORG|Juniper Spoon]]; the farm [[ORG|Cloudberry Acres]], la granja [[ORG|Cloudberry Acres]]; the construction company [[ORG|Finchbeam Builders]], la compañía de construcción [[ORG|Finchbeam Builders]]; and the cleaning service [[ORG|Dewpath Cleaning]], el servicio de limpieza [[ORG|Dewpath Cleaning]]. Both parents rotate seasonal assignments; scheduling remains difficult.
+
+Antecedentes de nacimiento y salud
+
+Born [[DATE|August 9, 2022]], at [[KEEP|35 weeks]] gestation, birth weight [[KEEP|2.31 kg]], at [[HOSPITAL|Laurel Lantern Children’s Hospital]]. Apgar scores were [[KEEP|7]] and [[KEEP|9]]. The NICU admission addressed feeding endurance. Neonatologist Dr. [[PROVIDER|Amalia Perden]] supervised care; pediatrician Dr. [[PROVIDER|Daniel Oset]] follows development. OT [[PROVIDER|Maya Bellor]] addresses sensory regulation; PT [[PROVIDER|Luis Neral]] addresses balance.
+
+Horario acordado
+
+| Day | Start | Stop | Location |
+| Monday | [[TIME|9:00 a.m.]] | [[TIME|9:30 a.m.]] | [[SCHOOL|Willow Lantern Preschool]] |
+| Wednesday | [[TIME|1:15 p.m.]] | [[TIME|1:45 p.m.]] | [[DAYCARE|Little Meadow Nest]] |
+| Friday | [[TIME|10:00 a.m.]] | [[TIME|10:30 a.m.]] | [[AGENCY|Bellfern CDSA]] |
+
+Objetivo / evaluación
+
+Prior [[KEEP|PLS-5]] results from [[DATE|September 28, 2026]] informed today’s probes.
+
+| Subtest | Standard score | Confidence interval | Percentile | Age equivalent |
+| [[KEEP|Auditory Comprehension]] | [[KEEP|82]] | [[KEEP|75–89]] | [[KEEP|12]] | [[KEEP|3;0–3;5]] |
+| [[KEEP|Expressive Communication]] | [[KEEP|78]] | [[KEEP|72–85]] | [[KEEP|7]] | [[KEEP|2;6–2;11]] |
+
+Teacher Ms. [[TEACHER|Pilar Venel]] reported easier participation beside classmate [[PEER|Lucio Meran]]. During play, [[CHILD|Nico]] followed directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. Initial [[KEEP|/k/]] targets, including “[[KEEP|casa]],” reached [[KEEP|60%]] with [[KEEP|mod cues]]. Recorded production: “[[KEEP|tasa]]”; one sample received [[KEEP|[EW]]]. He also said “[[PET|Chispa]] corre” while pointing toward the pretend dog.
+
+Análisis
+
+Spanish responses were longer than English responses today. Dynamic modeling improved clarity, suggesting benefit from supported practice. Fatigue reduced final-task participation. These brief probes supplement prior evaluation findings; they do not establish new standardized scores.
+
+Plan / próximos pasos
+
+Continue [[KEEP|Hanen]] strategies and [[KEEP|Cycles]] practice. Carry forward historical IFSP goal [[KEEP|2]]: request help during shared play. Parents will model “[[KEEP|ayuda]]” with [[KEEP|min cues]]. Review progress on [[DATE|November 6, 2026]]. Billing: CPT [[KEEP|92507]], modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].

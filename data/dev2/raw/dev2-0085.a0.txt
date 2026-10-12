@@ -1,0 +1,19 @@
++ Name: [[CHILD|Mateo Alejandro Reyes Fuentes]]
++ CA: [[KEEP|2;9]]
++ Context: Sesión individual de terapia del habla y lenguaje en el domicilio de la familia, [[PLACE|4821 Larkspur Court]], [[PLACE|Cary]], [[PLACE|Wake County]], NC [[PLACE|27518]]. Presente la madre, [[PARENT|Lucía Fuentes Ortiz]], y la intérprete de español, [[PROVIDER|Carmen Delgado]], contratada a través de [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]] (conocida también como "[[EMPLOYER|Carolina Pediatric Therapy]]" o "[[EMPLOYER|CPTP]]").
+
+Resumen:
+
+[[CHILD|Mateo]] nació el [[DATE|February 11, 2024]] en el [[HOSPITAL|WakeMed Health & Hospitals, Cary Hospital Campus]], con peso al nacer de [[KEEP|1,340 gramos]] y edad gestacional de [[KEEP|29 semanas]]. Apgar de [[KEEP|4 y 7]] a los 1 y 5 minutos. Pasó [[KEEP|52 días]] en la Unidad de Cuidados Intensivos Neonatales (NICU) del [[HOSPITAL|WakeMed Raleigh Campus]], bajo el cuidado del neonatólogo [[PROVIDER|Dr. Samuel Okafor]] y la Dra. [[PROVIDER|Priya Chandrasekaran]]. Su mamá, [[PARENT|Lucía]], reportó que la familia fue referida posteriormente a audiología en [[HOSPITAL|UNC Health Rex ENT & Audiology, Raleigh Clinic]], donde la Dra. [[PROVIDER|Angela Ferris]] confirmó hipoacusia leve bilateral.
+
+Actualmente [[CHILD|Mateo]] recibe terapia ocupacional con [[PROVIDER|Brian Hutchins, OTR/L]] y fisioterapia con [[PROVIDER|Dana Whitfield, PT]], ambos de [[EMPLOYER|CPTP]]. Su pediatra es la [[PROVIDER|Dra. Melissa Trujillo]] de [[ORG|Triangle Pediatric Associates]]. El padre, [[PARENT|Javier Reyes Fuentes]], trabaja en [[ORG|Lenovo North America]] y no pudo asistir hoy. La hermana mayor, [[SIBLING|Valentina Reyes Fuentes]], de [[KEEP|5 años]], estuvo presente jugando con la niñera, [[FAMILY|Teresa Núñez]], mientras duraba la sesión. El perrito de la familia, [[PET|Canela]], ladró al inicio pero se calmó rápido.
+
+Se administró el [[KEEP|PLS-5]] (subprueba de Comprensión Auditiva [[KEEP|Auditory Comprehension]]), obteniendo una puntuación estándar de [[KEEP|78]], percentil [[KEEP|7]], con intervalo de confianza de [[KEEP|73-83]]. La edad equivalente fue de [[KEEP|18 meses]]. En producción de palabras, [[CHILD|Mateo]] logró producir /p/, /m/ y [b] de manera consistente, con sustitución de /k/ por [t] en posición inicial. Produjo la palabra objetivo "pato" como [["pato"]] y "casa" como [["tasa"]] con [[KEEP|claves mínimas]]. Logró imitar 8/10 ensayos de vocabulario funcional con apoyo visual, usando el enfoque [[KEEP|PROMPT]] y tarjetas del programa [[KEEP|PECS]].
+
+Se discutió con [[PARENT|Lucía]] el progreso hacia el Resultado [[KEEP|IFSP #2]], relacionado con comunicación funcional. [[CHILD|Mateo]] mostró mejoría de 3 de 5 ensayos a 8 de 10 ensayos en señalar imágenes nombradas, comparado con la sesión anterior. Se coordinó con la coordinadora de servicios, [[PROVIDER|Ashley Monroe]], de la [[AGENCY|Wake County CDSA]], para programar la revisión semestral del IFSP el [[DATE|November 18, 2026]] a las [[TIME|10:30 a.m.]]
+
+[[PARENT|Lucía]] mencionó que la familia también recibe apoyo de [[AGENCY|Smart Start of Wake County]] para transporte a las citas médicas. Se revisó el número de caso [[ID|WCC-2024-04471]] y el número de Medicaid [[MEDICAID_ID|998271345B]] para confirmar autorización continua de servicios bajo el código [[KEEP|CPT 92507]], modificador [[KEEP|GN]]. Diagnóstico asociado: [[KEEP|ICD-10 F80.1]].
+
+Próxima sesión programada para el [[DATE|October 17, 2026]] en el mismo domicilio. Se recomienda continuar con estimulación auditiva verbal y seguimiento con audiología en [[HOSPITAL|UNC Health Rex ENT & Audiology]] cada 6 meses. Contacto de la clínica: [[PHONE|(919) 555-0148]], [[EMAIL|intake@carolinapediatrictherapy.com]].
+
+Nota completada por [[PROVIDER|Elena Marchetti, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pediatric Therapy Partners, PLLC]], con interpretación simultánea de [[PROVIDER|Carmen Delgado]].

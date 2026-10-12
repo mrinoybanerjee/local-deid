@@ -1,0 +1,28 @@
+Record: [[ID|LL-260109-047]]
+Client: [[CHILD|Elena Marisol Varela]]
+DOB: [[DATE|August 7, 2022]]
+Age: [[KEEP|4;2]]
+Service date: [[DATE|October 9, 2026]]
+Medicaid: [[MEDICAID_ID|843761209Q]]
+Clinician: [[PROVIDER|Nora Isabel Castañeda]], bilingual pediatric SLP
+Employer: [[EMPLOYER|Maple Lantern Speech Services]]
+Location: [[DAYCARE|Little Learners Daycare]], [[PLACE|218 Lantern Court]], [[PLACE|Alderbrook]], North Carolina [[PLACE|27983]]
+Program: [[KEEP|Little Learners Program]]
+Start: [[TIME|9:05 a.m.]]
+Stop: [[TIME|9:40 a.m.]]
+Contact: [[PHONE|919-555-0147]]
+Email: [[EMAIL|nora@maplelantern.example]]
+Portal: [[URL|https://maplelantern.example]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Subjetivo:
+Su mamá [[PARENT|Camila Varela]] reported, “En casa quiere hablar más, pero se frustra.” Dad [[PARENT|Andrés Varela]] practices during breakfast at [[TIME|7:30 a.m.]] before work at [[ORG|Willow Thread Bakery]]. Brother [[SIBLING|Tomás Varela]] models turns; abuela [[FAMILY|Rosa Beltrán]] reads picture books. Family requested coordination with the [[AGENCY|Smart Start]] office in [[PLACE|Fernwell County]]. Teacher Ms. [[TEACHER|Dalia Núñez]] described increased participation beside classmate [[PEER|Milo Serrano]].
+
+Objetivo:
+Interpreter [[PROVIDER|Lina Paredes]] supported the caregiver check-in. Used [[KEEP|Hanen]] strategies, visual choices, and play-based expansion. [[CHILD|Elena]] requested [[KEEP|“más agua”]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]], followed directions in [[KEEP|3 of 5]] trials with [[KEEP|mod cues]], and produced initial [[KEEP|/k/]] with [[KEEP|60%]] accuracy. One substitution was [[KEEP|[w]]]. Spontaneous production: [[KEEP|“yo quiere pelota”]], coded [[KEEP|[EW]]]. During pretend play, she said “[[PET|Chispa]] run.” Targets included [[KEEP|“help”]] and [[KEEP|“abre”]].
+
+Evaluación:
+Prior evaluation dated [[DATE|September 18, 2026]] used [[KEEP|PLS-5]], [[KEEP|Auditory Comprehension]]: standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], age equivalent [[KEEP|2;6–3;0]]. Today, communication improved when adults paused and offered choices. Spanish remained stronger for spontaneous requests. Performance supports continued functional language intervention; fatigue reduced participation near session end. No new swallowing concerns were reported.
+
+Plan:
+Continue [[KEEP|IFSP]] goal [[KEEP|2]] with bilingual routines. OT [[PROVIDER|Eva Montalvo]] and PT [[PROVIDER|Jonah Salcedo]] will coordinate positioning. Pediatrician Dr. [[PROVIDER|Amira Dávila]] at [[HOSPITAL|Cedar Lantern Children’s Hospital]] requested a progress summary. Service coordinator [[PROVIDER|Ruth Calderón]] will discuss transition to [[SCHOOL|Meadow Lantern Preschool]]. Receptionist [[PERSON|Owen Lira]] confirmed pickup at [[TIME|10:00 a.m.]]. Next visit: [[DATE|October 16, 2026]]. Caregiver practiced wait time successfully and agreed to repeat the routine during snack.

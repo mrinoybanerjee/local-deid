@@ -1,0 +1,140 @@
+# North Carolina Infant-Toddler Program IFSP Review
+## Fictional Clinical Training Document
+
+### 1. Record Information
+
+**Child:** [[CHILD|María José Vega Montiel]]  
+**Birth date:** [[DATE|July 14, 2023]]  
+**Review date:** [[DATE|May 14, 2026]]  
+**Age at review:** [[KEEP|34 months]]  
+**Initial IFSP date:** [[DATE|November 14, 2025]]  
+**Record number:** [[ID|IFSP-682491]]  
+**Medicaid member number:** [[MEDICAID_ID|582614937Q]]
+
+This report documents a fictional multidisciplinary IFSP review. The family participated in English and Spanish. The bilingual pediatric speech-language pathologist completed the report in English. Findings describe communication across languages, family routines, participation needs, and agreed services. All names, contact details, organizations, and clinical data are invented for offline testing.
+
+### 2. Family Information
+
+#### 2.1 Household and Contact Information
+
+[[CHILD|María José]] lives with her mother, [[PARENT|Lucía Vega Montiel]], her father, [[PARENT|Andrés Vega Castillo]], and her brother, [[SIBLING|Tomás Vega Montiel]]. The family address is [[PLACE|482 Lantern Finch Lane]], [[PLACE|Juniper Hollow]], North Carolina [[PLACE|28746]].
+
+The preferred telephone number is [[PHONE|(828) 555-0146]]. The family email is [[EMAIL|lucia.vega@example.invalid]]. Telephone contact is preferred after [[TIME|4:30 p.m.]].
+
+#### 2.2 Family Supports
+
+Her grandmother, [[FAMILY|Rosa Montiel Salas]], provides care on weekdays. A babysitter, [[FAMILY|Elena Prado]], supports occasional evening care. The family dog is [[PET|Chispa]]. Her father works at [[ORG|Lantern Ridge Packaging Cooperative]]. Spanish is the main home language; both parents also use English.
+
+### 3. Service Coordination and Review Participants
+
+#### 3.1 Coordinating Office
+
+The responsible office is [[AGENCY|Juniper Hollow CDSA]]. The service coordinator is [[PROVIDER|Nora Bellamy]], reachable at [[PHONE|(828) 555-0172]] or [[EMAIL|nora.bellamy@example.invalid]]. Office information appears at [[URL|https://juniper-cdsa.example.invalid]].
+
+#### 3.2 Participating Providers
+
+[[PROVIDER|Isabel Duarte]], bilingual pediatric speech-language pathologist with [[EMPLOYER|Meadow Lantern Pediatric Therapy]], led the communication review. [[PROVIDER|Camila Ríos]] provided interpretation when requested. Occupational therapist [[PROVIDER|Megan Vale]] and physical therapist [[PROVIDER|Owen Mercer]] contributed routine observations. Pediatrician Dr. [[PROVIDER|Daniel Castañeda]] supplied a developmental summary. Each participant reviewed the family’s priorities before proposing changes.
+
+### 4. Developmental and Health History
+
+The family reported birth at [[KEEP|38 weeks]] gestation at [[HOSPITAL|Silver Fern Community Hospital]]. Birth weight was [[KEEP|3.12 kg]]. Reported Apgar scores were [[KEEP|8]] and [[KEEP|9]]. The synthetic hospital summary supports these details.
+
+The child passed the newborn hearing screen. A subsequent audiology visit on [[DATE|April 22, 2026]] documented hearing adequate for speech access. The family reported no feeding restrictions or recent hospital admissions.
+
+Motor participation has improved. She walks between rooms, climbs onto a low sofa with supervision, and carries small toys. Communication remains the main participation concern. She often points, leads an adult by the hand, or repeats a familiar word when her message is unclear.
+
+### 5. Communication Evaluation
+
+#### 5.1 Measures and Interpretation
+
+The clinician administered selected English items from the [[KEEP|Preschool Language Scales, Fifth Edition]] ([[KEEP|PLS-5]]) on [[DATE|May 7, 2026]]. The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|86]], with a confidence interval of [[KEEP|81–92]], a percentile rank of [[KEEP|18th percentile]], and an age-equivalent range of [[KEEP|2;6–3;0]].
+
+The [[KEEP|Expressive Communication]] standard score was [[KEEP|78]], with a confidence interval of [[KEEP|73-83]], a percentile rank of [[KEEP|7th percentile]], and an age-equivalent range of [[KEEP|1;10–2;2]].
+
+These fictional scores describe performance under English testing conditions. They do not independently establish ability across both languages. Spanish language sampling, caregiver reports, and supported learning tasks informed the functional interpretation.
+
+#### 5.2 Speech and Language Sample
+
+Spontaneous productions included “[[KEEP|más agua]]” and “[[KEEP|open box]].” During play, she said “[[SIBLING|Tomás]] help” and “[[PET|Chispa]] eat.” She produced initial /k/ as [[KEEP|[t]]] during imitation; the target phoneme was [[KEEP|/k/]]. An omitted word received the [[KEEP|[EW]]] code during [[KEEP|SALT]] analysis.
+
+### 6. Family Concerns and Priorities
+
+#### 6.1 Family’s Own Words
+
+Her mother stated, “I want her to tell me what hurts or what she needs before she cries. I understand her pointing, but other people do not always understand.”
+
+Her father stated, “We want her to keep Spanish and learn English. We want short phrases that work at meals, outside, and with her brother.”
+
+Her grandmother stated, “I want to give her time to answer. Sometimes I help too quickly because I know what she wants.”
+
+#### 6.2 Agreed Priorities
+
+The family selected requesting help, combining words, and joining shared play as current priorities. They also requested practical ways to support communication during dressing and meals without adding separate homework.
+
+### 7. Daily Routines and Participation
+
+#### 7.1 Home Routines
+
+Breakfast begins near [[TIME|7:15 a.m.]]. The child chooses between familiar foods but becomes upset when adults misunderstand her choice. Dressing occurs after breakfast. She helps pull sleeves and benefits from predictable pauses.
+
+Outdoor play begins around [[TIME|5:00 p.m.]]. She enjoys bubbles, pushing a toy cart, and watching the dog. Bath time offers repeated opportunities for requesting objects and naming actions.
+
+#### 7.2 Group Routines
+
+At [[DAYCARE|Little Lantern Learning House]], teacher Ms. [[TEACHER|Paula Serrano]] reports stronger participation during songs than during group conversation. Classroom assistant [[TEACHER|Ben Alder]] supports transitions. Peer [[PEER|Avery Solis]] often offers pretend food, creating useful opportunities for reciprocal play.
+
+### 8. Other Agencies and Community Supports
+
+[[AGENCY|Bramble County DSS]] assists the family with childcare eligibility questions. [[AGENCY|Juniper Hollow WIC]] provides nutrition support. [[AGENCY|Bramble County Smart Start]] offers family play materials and information about community activities. [[AGENCY|Little Lantern Early Head Start]] provides developmental support within the childcare setting.
+
+The family authorized coordination about attendance, communication strategies, and transition planning. Providers will share only information needed for those purposes. Agency involvement does not replace the family’s role in choosing priorities. The coordinator will check whether transportation support is needed before the next community appointment.
+
+### 9. IFSP Outcomes and Strategies
+
+#### 9.1 Outcome [[KEEP|1]]: Communicate Needs During Meals
+
+By [[DATE|July 10, 2026]], the child will use a word, word combination, or agreed gesture to request an item or help in [[KEEP|4 of 5]] opportunities across meals.
+
+Adults will offer two meaningful choices, pause, and model “[[KEEP|more water]]” or “[[KEEP|más agua]].” They will accept either language. The clinician will use [[KEEP|milieu teaching]] within the family’s usual meal routine. Supports will decrease from [[KEEP|mod cues]] to [[KEEP|min cues]] as participation improves.
+
+Baseline performance was [[KEEP|2 of 5]] opportunities. Caregiver notes and direct observation will measure progress.
+
+#### 9.2 Outcome [[KEEP|2]]: Combine Words During Shared Play
+
+By [[DATE|July 10, 2026]], the child will produce functional two-word combinations in [[KEEP|8/10]] supported play opportunities across two familiar routines.
+
+Adults will follow her interests, describe actions briefly, and expand one-word messages. Target phrases include “[[KEEP|baby sleep]],” “[[KEEP|car go]],” and “[[KEEP|help me]].” The clinician will demonstrate selected [[KEEP|Hanen]] interaction strategies, then coach caregivers during actual play.
+
+Baseline performance was [[KEEP|3/10]] opportunities with [[KEEP|max cues]]. Progress will include spontaneous combinations in either language. Adults will avoid requiring repetition before giving requested objects.
+
+#### 9.3 Outcome [[KEEP|3]]: Participate in Dressing and Transitions
+
+By [[DATE|July 10, 2026]], the child will complete a familiar transition and communicate one choice or request with [[KEEP|min cues]] in [[KEEP|80%]] of observed opportunities.
+
+Adults will use a brief picture sequence and consistent language. Target words include “[[KEEP|shoe]],” “[[KEEP|zapato]],” and “[[KEEP|help]].” Occupational therapy will support comfortable positioning and manageable clothing choices. Physical therapy will address safe movement between routine locations.
+
+Baseline participation was [[KEEP|40%]] with [[KEEP|mod cues]]. The family will record successful transitions using a simple weekly checklist.
+
+### 10. Service Plan and Dates
+
+Speech-language services will occur weekly for forty-five minutes in the home or childcare routine, beginning [[DATE|May 18, 2026]] and ending [[DATE|July 13, 2026]]. The planned billing code is [[KEEP|CPT 92507]], with modifier [[KEEP|GO]] only when required by the fictional payer’s rules.
+
+Occupational therapy will occur twice monthly. Physical therapy consultation will occur monthly. Both services share the same start and end dates. Service coordination will continue monthly and when the family requests support.
+
+The documented communication diagnosis is [[KEEP|ICD-10 F80.2]]. Billing information does not determine the family’s outcomes or service priorities.
+
+### 11. Implementation and Caregiver Coaching
+
+Each visit will begin with the caregiver’s report about the selected routine. The provider will observe participation, demonstrate one strategy, and invite caregiver practice. Feedback will describe what helped the child communicate.
+
+The interpreter will support shared understanding when requested. Written examples will include English and Spanish. Providers will treat language differences as part of the child’s learning context.
+
+The family may change practice routines when work schedules, illness, or childcare arrangements change. Missed opportunities will guide planning and will not be recorded as caregiver failure.
+
+### 12. Review, Transition, and Agreement
+
+The next progress check is scheduled for [[DATE|June 11, 2026]] at [[TIME|10:00 a.m.]]. The coordinator will arrange a transition discussion with [[SCHOOL|Bramble Grove Preschool]] before the child reaches [[KEEP|3 years]].
+
+The team will review routine participation, caregiver observations, and each outcome’s criteria. Services may change when documented needs change.
+
+Both parents confirmed that the priorities reflect their concerns. They received an explanation of voluntary participation, consent, and access to records. The clinician documented agreement on [[DATE|May 14, 2026]]. This synthetic record contains no real signatures.

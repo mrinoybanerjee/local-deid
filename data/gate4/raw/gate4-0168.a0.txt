@@ -1,0 +1,35 @@
+Export type: Parent letter
+Client: [[CHILD|Lina Marisol Varela]]
+DOB: [[DATE|11/08/2020]]
+Record: [[ID|SLP-482619]]
+Medicaid: [[MEDICAID_ID|482619735Q]]
+Clinician: [[PROVIDER|Elena Mireles]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Willow Lantern Speech Services]]
+Address: [[PLACE|184 Lantern Loop]], [[PLACE|Wrenford]], North Carolina [[PLACE|27593]]
+Phone: [[PHONE|919-555-0147]]
+Email: [[EMAIL|emireles@willowlantern.example]]
+Portal: [[URL|https://willowlantern.example/family]]
+Letter date: [[DATE|2025/03/10]]
+Billing: CPT [[KEEP|92507]]; modifier [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]]
+
+Family update
+
+Dear [[PARENT|Alma Varela]] and [[PARENT|Diego Varela]],
+
+I am sharing this summary for your family and the school team. At the visit on [[DATE|3 de marzo de 2025]], [[CHILD|Lina]] was [[KEEP|4;3]] and used both languages during play. Her sister [[SIBLING|Sol]] joined the closing activity. Your child named sunlight with the target word [[KEEP|"sol"]]. That word matched her sister’s name but referred to the picture. She also said "[[PET|Nube]] run" while describing your dog.
+
+Family context
+
+Your employment history lists six workplaces across current and previous jobs. The English names and corresponding Spanish-word-order versions, written in English, are [[ORG|Amber Basket Store]] / [[ORG|Store Amber Basket]], [[ORG|Silver Loom Plant]] / [[ORG|Plant Silver Loom]], [[ORG|Blue Spoon Restaurant]] / [[ORG|Restaurant Blue Spoon]], [[ORG|Clover Bell Farm]] / [[ORG|Farm Clover Bell]], [[ORG|Oak Ribbon Construction Company]] / [[ORG|Construction Company Oak Ribbon]], and [[ORG|Clear Window Cleaning Service]] / [[ORG|Cleaning Service Clear Window]]. Rotating shifts affect appointment availability. Grandmother [[FAMILY|Marta Salcedo]] can help with transportation.
+
+Communication findings
+
+On [[DATE|03/03/2025]], the [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] subtest yielded standard score [[KEEP|78]], percentile [[KEEP|7]], confidence interval [[KEEP|73-83]], and age-equivalent range [[KEEP|2;6–3;0]]. These results require interpretation alongside language exposure. During play, she followed directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. She produced [[KEEP|/k/]] with [[KEEP|mod cues]] and used [[KEEP|[w]]] in several substitutions.
+
+School coordination
+
+Ms. [[TEACHER|Nora Belden]] at [[SCHOOL|Meadow Lantern Preschool]] reports improving participation with classmate [[PEER|Tomas Ledesma]]. Staff at [[DAYCARE|Little Heron Daycare]] will use picture choices. Dr. [[PROVIDER|Owen Soria]] at [[HOSPITAL|Birch Harbor Children’s Hospital]] received the earlier referral dated [[DATE|el martes 4 de junio de 2024]].
+
+Next steps
+
+Practice [[KEEP|"more water"]] during meals using [[KEEP|Hanen]] strategies. Service coordinator [[PROVIDER|Celia Prado]] will contact the [[AGENCY|Partnership for Children]] office in [[PLACE|Fernwick County]]. Driver [[PERSON|Evan Pell]] will confirm pickup. Our next visit is [[DATE|2025-03-17]] at [[TIME|2:15 PM]]. Bring examples from home so we can select useful classroom words together.

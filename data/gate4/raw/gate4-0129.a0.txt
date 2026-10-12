@@ -1,0 +1,23 @@
+DATOS DE LA SESIÓN
+- Client: [[CHILD|Mateo Ignacio Solano]], called [[CHILD|Teo]], age [[KEEP|4;2]]. Service: [[DATE|October 8, 2026]], [[TIME|9:15 a.m.]]–[[TIME|10:00 a.m.]], in [[PLACE|Loma Verde]], North Carolina.
+- Clinician: [[PROVIDER|Elena Marisol Varela]], bilingual pediatric SLP, [[EMPLOYER|Semilla Speech Partners]]. Record [[ID|SL-004718]]; Medicaid [[MEDICAID_ID|000481726Q]]. Billing: [[KEEP|92507]], modifier [[KEEP|GN]]; diagnosis [[KEEP|F80.2]].
+
+SUBJETIVO / FAMILIA
+- Mamá [[PARENT|Lucía Solano]] reported working two jobs at [[ORG|Panadería Lucero]] and [[ORG|NVT]]: “Llego tarde, pero practicamos durante la cena.” Papá [[PARENT|Jesús Solano]], called [[PARENT|Chuy]], joined briefly.
+- Abuela [[FAMILY|Guadalupe Rivas]], called [[FAMILY|Lupita]], provides afternoon care. Brother [[SIBLING|Juan Esteban Solano]], called [[SIBLING|Juanito]], models requests without answering for his brother.
+- Contacts: mamá [[PHONE|919-555-0146]]; papá [[PHONE|(984) 555-0182]]; abuela’s Mexico number [[PHONE|+52 55 0000 0148]].
+- Family reported good sleep; no new concerns. Participation improved after a movement break.
+
+OBJETIVO / OBSERVACIONES
+- Prior [[KEEP|PLS-5]] [[KEEP|Auditory Comprehension]] standard score: [[KEEP|78]]; confidence interval: [[KEEP|73-83]]; percentile: [[KEEP|7]]; age equivalent: [[KEEP|2;6–3;0]].
+- Used [[KEEP|Hanen]] strategies during play. Requests reached [[KEEP|8/10]] with [[KEEP|min cues]]; directions reached [[KEEP|3 of 5]] with [[KEEP|mod cues]].
+- Practiced [[KEEP|/k/]] in [[KEEP|"casa"]], with [[KEEP|60%]] accuracy. Produced [[KEEP|"quiero agua"]] independently; said “[[PET|Nube]] corre” during pretend play.
+- Peer [[PEER|José Adrián Molina]], called [[PEER|Pepe]], exchanged turns. Teacher Ms. [[TEACHER|Inés Duarte]] supplied classroom examples from [[SCHOOL|Escuela Senderito]].
+
+EVALUACIÓN
+- Functional requesting improved when adults paused and offered choices. Comprensión remains variable across languages; today’s performance reflects support needs and limited sampling.
+- Code-switching supported participation. Spanish responses conveyed clear intent and received the same credit as English responses.
+
+PLAN / PRÓXIMOS PASOS
+- Continue [[KEEP|IFSP outcome 2]] through shared play and caregiver modeling. Practice [[KEEP|"más agua"]] during meals with [[KEEP|min cues]].
+- Coordinate with [[AGENCY|CDSA del Valle Claro]]. Next session: [[DATE|October 15, 2026]]. Family agreed: “Poquito cada día.”

@@ -1,0 +1,38 @@
+[X] Parent letter  [ ] Teacher message  [X] School team copy
+[X] Home  [ ] Daycare  [X] English and Spanish
+
+Date: [[DATE|October 8, 2026]]
+To: [[PARENT|Elena Marín]], parent of [[CHILD|Nico Marín]]
+From: [[PROVIDER|Clara Varela]], bilingual pediatric speech-language pathologist
+Employer: [[EMPLOYER|Little Lantern Speech Services]], North Carolina
+School: [[SCHOOL|Maple Kite Early Learning School]]
+Address: [[PLACE|214 Lantern Finch Lane]], [[PLACE|Willowmere]], North Carolina [[PLACE|27984]]
+
+Medicaid ID: [[MEDICAID_ID|847291635M]]
+Insurance member ID: [[ID|FHP728461903]]
+NC ITP child ID: [[ID|ITP-6041827]]
+Authorization number: [[ID|AUTH-2026-583104]]
+
+Dear [[PARENT|Elena]],
+
+This letter summarizes our visit and gives your family and the school team a shared practice plan. [[CHILD|Nico]] participated best when an adult followed his interests and paused before offering help. I used English and Spanish during play. His language choices changed with the activity, so these observations describe communication across both languages.
+
+[X] Parent present  [X] Classroom information reviewed  [ ] Interpreter requested
+
+You reported that [[CHILD|Nico]] hears Spanish with his grandmother, [[FAMILY|Teresa Marín]], and English with his brother, [[SIBLING|Leo Marín]]. Teacher Ms. [[TEACHER|Sonia Bell]] described successful turn taking with classmate [[PEER|Maya Ellis]]. Service coordinator [[PROVIDER|Owen Cruz]] at [[AGENCY|Willowmere CDSA]] will receive the agreed summary after you approve sharing.
+
+The following results are fictional practice data. Scores describe performance under the recorded conditions and do not determine language ability by themselves.
+
+Measure | Evaluation date | Result | Interval or range
+[[KEEP|Rossetti Infant-Toddler Language Scale]], [[KEEP|Language Expression]] | [[DATE|October 6, 2026]] | developmental range [[KEEP|18–21 months]] | emerging skills [[KEEP|21–24 months]]
+[[KEEP|Goldman-Fristoe Test of Articulation-3]], [[KEEP|Sounds-in-Words]] | [[DATE|October 6, 2026]] | standard score [[KEEP|82]]; percentile [[KEEP|12]] | confidence interval [[KEEP|76-90]]
+[[KEEP|Bayley Scales of Infant and Toddler Development, Fourth Edition]], [[KEEP|Expressive Communication]] | [[DATE|October 7, 2026]] | scaled score [[KEEP|8]] | confidence interval [[KEEP|6–10]]
+[[KEEP|Peabody Picture Vocabulary Test, Fifth Edition]] | [[DATE|October 7, 2026]] | standard score [[KEEP|86]]; percentile [[KEEP|18]] | confidence interval [[KEEP|80–94]]
+
+At age [[KEEP|26 months]], [[CHILD|Nico]] used [[KEEP|"want more"]] and [[KEEP|"my turn"]] spontaneously. He said "[[PET|Mochi]] run" while showing a photograph of his dog, and "[[SIBLING|Leo]] help me" during a puzzle. These examples show useful combinations that we can expand during familiar routines.
+
+[X] Continue home practice  [X] Coordinate classroom supports  [ ] Change service frequency
+
+For [[KEEP|IFSP Outcome 2]], model [[KEEP|"go"]] and [[KEEP|"help"]] during play, then wait for a response. Accept gestures, Spanish words, English words, or combinations. With [[KEEP|mod cues]], he requested help in [[KEEP|8/10]] opportunities; with [[KEEP|min cues]], he did so in [[KEEP|3 of 5]] opportunities. Use [[KEEP|Hanen]] strategies during meals and cleanup. We will monitor [[KEEP|/k/]] and the substitution [[KEEP|[w]]] without interrupting successful messages.
+
+The record lists [[KEEP|CPT 92507]] and [[KEEP|ICD-10 F80.2]]. Our next review is [[DATE|November 12, 2026]], at [[TIME|9:30 a.m.]]. Please contact me at [[PHONE|919-555-0146]] or [[EMAIL|clara.varela@example.com]]. Bring examples from both languages, including messages that worked well and situations where listeners needed help. We will use those examples to adjust practice together.

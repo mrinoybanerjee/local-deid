@@ -1,0 +1,25 @@
+Daily speech and language session letter
+Service date: [[DATE|October 8, 2026]]
+Record: [[ID|SL-604827]]
+Medicaid: [[MEDICAID_ID|583047291Q]]
+Billing: [[KEEP|CPT 92507]], modifier [[KEEP|GN]]; diagnosis: [[KEEP|ICD-10 F80.2]]
+
+Dear [[PARENT|Elena Marín]] and [[PARENT|Tomás Vega]],
+
+Thank you for welcoming me to [[PLACE|417 Willow Lantern Lane, Bellhaven, NC 27861]] today. Our visit ran from [[TIME|9:15 a.m.]] to [[TIME|10:00 a.m.]]. [[CHILD|Nico Vega]] is [[KEEP|3;4]] and participated comfortably in English and Spanish. As your bilingual speech-language pathologist, I followed his language choices and showed how both languages can support communication. You stayed beside him during play and helped me understand his messages.
+
+You reported that [[CHILD|Nico]] now asks for help during breakfast and brings books to his sister, [[SIBLING|Alma Vega]]. His grandmother, [[FAMILY|Rosa Marín]], practices picture naming during video calls from [[PLACE|Calle del Naranjo 18, Las Brisas del Río, Guatemala]]. You also explained that your two jobs, at [[ORG|ZQP]] and [[ORG|Lantern Basket Community Center]], make evening practice difficult. Your family uses that center’s food pantry. We chose short routines that fit your schedule.
+
+During play, [[CHILD|Nico]] requested [[KEEP|"more bubbles"]] in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. He followed directions containing an action and an object in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. When the toy lid stuck, he said [[KEEP|"help me"]]. He also said "[[PET|Pipo]] sleep" while pointing toward the family dog. I accepted both English and Spanish responses and allowed quiet waiting time before offering help.
+
+We practiced [[KEEP|/k/]] in the target word [[KEEP|"cup"]]. [[CHILD|Nico]] produced the sound correctly in [[KEEP|60%]] of attempts with [[KEEP|max cues]]. He sometimes used [[KEEP|[t]]] instead. I modeled the movement during play and stopped when he became frustrated. We used [[KEEP|Hanen]] strategies, especially following his lead and expanding his message. No feeding concerns or signs of discomfort were observed during this visit. He returned to play after a short break.
+
+For context, the evaluation dated [[DATE|September 17, 2026]] used [[KEEP|PLS-5]]. The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|78]], with a confidence interval of [[KEEP|73-85]] and an age equivalent of [[KEEP|2;6]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|80]], at the [[KEEP|9th percentile]]. These scores provide one part of the picture. Today’s play showed useful progress in asking for help, although he still needed support when directions became longer.
+
+Ms. [[TEACHER|Leila Soto]] at [[DAYCARE|Pebble Path Early Learning House]] reported that [[CHILD|Nico]] joins pretend play with [[PEER|Mara Quill]] and [[PEER|Benji Lora]]. We discussed practicing turn-taking with familiar classroom toys. Service coordinator [[PROVIDER|Dalia Cruz]] from [[AGENCY|Bellhaven CDSA Office]] will align this practice with [[KEEP|IFSP outcome 2]]. With your existing consent, the coordinator also supports contact with [[AGENCY|Bellhaven County DSS]], [[AGENCY|Bellhaven WIC]], [[AGENCY|Bellhaven Smart Start]], and [[AGENCY|Lantern Valley Early Head Start]].
+
+This week, pause during snack, offer two choices, and expand his answer by one word. Practice for a few minutes when the family feels ready. Please tell me which language and routine feel easiest. Our next visit is scheduled for [[DATE|October 15, 2026]] at [[TIME|9:15 a.m.]]. You can reach me at [[PHONE|252-555-0146]] or [[EMAIL|ines.soria@example.com]].
+
+Warmly,
+[[PROVIDER|Inés Soria]], bilingual pediatric speech-language pathologist
+[[EMPLOYER|Little Lantern Speech Services]]

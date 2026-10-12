@@ -1,0 +1,16 @@
+Daily Session Note — Speech-Language Pathology
+
+Client: [[CHILD|Mateo de la Cruz]]   DOB: [[DATE|4/12/2022]]   Edad/Age: [[KEEP|4;6]]   ID: [[ID|NC-SLP-88213]]   Medicaid: [[MEDICAID_ID|MC9284710K]]
+Fecha de la sesión / Date: [[DATE|el martes 4 de junio de 2026]]   Hora/Time: [[TIME|3:45 PM]]–[[TIME|4:30 PM]]   Lugar/Location: home visit, [[PLACE|118 Maple Hollow Dr, Clayton]], [[PLACE|Johnston County]]
+Proveedor/Provider: [[PROVIDER|Diana Osei-Martínez]], MS, CCC-SLP   Empleadora/Employer: [[EMPLOYER|Carolina Pines Pediatric Therapy]]
+Intérprete/Interpreter: [[PROVIDER|Rosa Fernández del Río]]
+
+S (Subjetivo): Su mamá [[PARENT|Lucía de la Cruz]] reporta que [[CHILD|Mateo]] tuvo una semana difícil — "[[CHILD|Mateo]] no durmió bien" desde el [[DATE|1 de junio]]. Mom works two jobs, including evenings at [[ORG|QuikMart #42]] and mornings as a CNA for [[AGENCY|Johnston County DSS]] home health contract; she said, "estoy agotada pero necesito las dos." Her hours were coordinated partly through [[AGENCY|Smart Start of Johnston County]] referral. Padre, [[PARENT|Hector Vásquez-Lima]], was present briefly; he mentioned calling WIC on [[DATE|6/2/2026]] to renew benefits. Grandmother/[[FAMILY|abuela Carmen de la Cruz]] provides after-school care three days a week while [[PARENT|Lucía de la Cruz]] works. Sibling [[SIBLING|Valentina]], age [[KEEP|7]], was playing nearby and briefly joined turn-taking drills.
+
+O (Objetivo): Session targeted [[KEEP|/k/]] and [[KEEP|/ɾ/]] in word-initial position per [[KEEP|Cycles]] approach, continuing from [[KEEP|PROMPT]] cueing strategies. [[CHILD|Mateo]] produced [[KEEP|"casa"]] as [[KEEP|[kasa]]] with [[KEEP|min cues]] in [[KEEP|8/10]] trials, improved from [[KEEP|3 of 5]] last visit. Imitated target word [[KEEP|"perro"]] → [[KEEP|[peɾo]]] with [[KEEP|mod cues]]. Reviewed [[KEEP|PLS-5]] Auditory Comprehension subtest; prior standard score [[KEEP|82]] ([[KEEP|73-83]] CI), age equivalent [[KEEP|2;6–3;0]]. Used SALT code [[KEEP|[EW]]] to flag excessive whining during transition. [[CHILD|Mateo]]'s daycare, [[DAYCARE|Little Sprouts Daycare]] in [[PLACE|Smithfield]], reported similar articulation patterns per teacher [[TEACHER|Ms. Alvarado]].
+
+A (Análisis): Steady progress toward IFSP Outcome [[KEEP|#2]] (functional communication). Family stressors (dual employment, housing near [[PLACE|27577]]) impact carryover; referred again to [[AGENCY|Early Head Start]] for respite support and [[AGENCY|Partnership for Children of Johnston County]] for childcare subsidy navigation.
+
+P (Plan): Continue biweekly visits. Next review scheduled [[DATE|3 de julio de 2026]]. Contact clinic at [[PHONE|(919) 555-2047]] or [[EMAIL|dosei@carolinapinespediatrictherapy.com]] with questions. Pediatrician [[PROVIDER|Dr. Felipe Nguyen]] copied per care plan ICD-10 [[KEEP|F80.0]], CPT [[KEEP|92507]].
+
+Nota adicional: perrito familiar [[PET|Canela]] estuvo presente, ayudó a motivar producciones espontáneas — [[CHILD|Mateo]] dijo "[[PET|Canela]] corre" espontáneamente.

@@ -1,0 +1,25 @@
+Patient: [[CHILD|Mateo Fernández Cruz]]
+DOB: [[DATE|04/18/2021]]
+Age: [[KEEP|4;6]]
+MRN: [[ID|884210]]
+Medicaid ID: [[MEDICAID_ID|NC9284710B]]
+Date of Service: [[DATE|October 9, 2026]]
+Session Time: [[TIME|10:15 AM]]–[[TIME|11:00 AM]]
+Clinician: [[PROVIDER|Marisol Treviño, M.S., CCC-SLP]]
+Clinic: [[HOSPITAL|Carillon Health Children's Hospital – Hillsborough Campus]]
+ENT/Audiology Referral: [[HOSPITAL|Carillon Health ENT & Audiology – Chapel Hill Campus]]
+CDSA: [[AGENCY|Centro de Desarrollo Infantil y Servicios para la Familia del Condado de Durham]] ([[AGENCY|CDSA de Durham]])
+Service Coordination: [[AGENCY|Red de Apoyo Familiar del Triángulo]] ([[AGENCY|RAFT]])
+Service Coordinator: [[PROVIDER|Yesenia Morales]]
+CPT Codes: [[KEEP|92507]], [[KEEP|92523]]
+ICD-10: [[KEEP|F80.2]]
+Home Address: [[PLACE|214 Maple Hollow Lane, Durham, NC 27705]]
+Family Hometown: [[PLACE|vereda El Progreso, Copán, Honduras]]
+
+S/Subjetivo: La mamá, [[PARENT|Lucía Rodríguez]], trajo a [[CHILD|Mateo]] directo desde [[DAYCARE|Little Sprouts Bilingual Daycare]] y comentó, "está hablando más en casa pero se frustra cuando no le entendemos." Reportó que su hermana, [[SIBLING|Camila]], a menudo traduce por él, y que la abuela, [[FAMILY|Rosa Cruz]], lo cuida después de clases. [[CHILD|Mateo]] nació a las [[KEEP|32 semanas]] en el NICU de [[HOSPITAL|Carillon Health Children's Hospital – Hillsborough Campus]], con [[KEEP|Apgar 7/9]] y peso al nacer de [[KEEP|1,580 gramos]].
+
+O/Objetivo: Se usaron estrategias de [[KEEP|PECS]] y [[KEEP|Hanen]] para apoyar comunicación funcional. [[CHILD|Mateo]] imitó /k/ en "[[KEEP|casa]]" con [[KEEP|mod cues]], logrando [[KEEP|8/10]] ([[KEEP|80%]]) de precisión, comparado con [[KEEP|3 de 10]] la sesión pasada. En [[KEEP|CELF-5]], el [[KEEP|Core Language Score]] fue [[KEEP|72]] ([[KEEP|percentile 3]]). El Dr. [[PROVIDER|Aaron Kessler]] de [[HOSPITAL|Carillon Health ENT & Audiology – Chapel Hill Campus]] confirmó audición dentro de límites normales.
+
+A/Análisis: Consistent with [[KEEP|F80.2]], [[CHILD|Mateo]] continues to show expressive delay. La maestra, Sra. [[TEACHER|Patricia Gómez]], reporta comportamiento similar en el salón. Progress noted toward IFSP Outcome [[KEEP|2]].
+
+P/Plan: Continue biweekly sessions ([[KEEP|92507]]) and reassess articulation ([[KEEP|92523]]). [[PROVIDER|Yesenia Morales]] del [[AGENCY|RAFT]] coordinará revisión del IFSP el [[DATE|November 5, 2026]]. Contact clinic at [[PHONE|(919) 555-0148]] or [[EMAIL|mtrevino@carillonhealth.org]] with questions. Family planning visit to [[PLACE|vereda El Progreso, Copán, Honduras]] in December was discussed as a transition consideration.

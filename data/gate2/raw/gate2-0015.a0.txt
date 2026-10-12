@@ -1,0 +1,239 @@
+# Individualized Family Service Plan (IFSP) Review
+
+**Fictional clinical record for offline de-identification testing**
+
+## 1. Document Information
+
+### 1.1 Review Identification
+
+This report follows the North Carolina infant-toddler program format. It documents a multidisciplinary review of family priorities, developmental needs, functional outcomes, and early intervention services.
+
+Child: [[CHILD|María José Valdés Cordero]]  
+Date of birth: [[DATE|June 12, 2024]]  
+Age at review: [[KEEP|28 months]]  
+Review date: [[DATE|October 12, 2026]]  
+Previous IFSP date: [[DATE|April 13, 2026]]  
+Child record number: [[ID|LS-CDSA-260184]]  
+Medicaid identification: [[MEDICAID_ID|764928315Q]]
+
+The review occurred in the family home. Participants reviewed progress through caregiver reports, provider observations, classroom notes, and direct interaction. The family received explanations in Spanish and English.
+
+### 1.2 Author and Coordinator
+
+Prepared by [[PROVIDER|Elena Marisol Vega]], MA, CCC-SLP, bilingual pediatric speech-language pathologist, employed by [[EMPLOYER|River Lantern Pediatric Therapies]].
+
+Service coordinator: [[PROVIDER|Nora Whitcomb]], of [[AGENCY|Laurel Shoals Children’s Developmental Services Agency]].
+
+## 2. Family Information
+
+### 2.1 Household and Contact Information
+
+[[CHILD|María José]] lives with her mother, [[PARENT|Lucía Cordero Paredes]], her father, [[PARENT|Andrés Valdés Molina]], and her brother, [[SIBLING|Tomás Valdés Cordero]]. Her maternal grandmother, [[FAMILY|Rosa Paredes Salcedo]], provides care during overlapping work shifts.
+
+Home address: [[PLACE|1846 Willow Lantern Drive, Apartment 3B]], [[PLACE|Alder Cove]], North Carolina [[PLACE|27864]].  
+County of residence: [[PLACE|Laurel Shoals County]].  
+Primary telephone: [[PHONE|919-555-0146]].  
+Alternate telephone: [[PHONE|252-555-0173]].  
+Family email: [[EMAIL|lucia.cordero@example.com]].
+
+The family previously lived near [[PLACE|San Jacinto del Cedral]], Guatemala. Their former mailing address was [[PLACE|Casa 18, Calle del Naranjal, Barrio Las Campanas]], [[PLACE|San Jacinto del Cedral]], Guatemala.
+
+### 2.2 Languages and Supports
+
+Spanish is the main home language. English is used during childcare and some medical visits. Both parents want services to support communication across languages.
+
+The mother works for [[ORG|Alder Cove Linen Cooperative]]. The father works for [[ORG|Pine Lantern Packaging]]. Their schedules change weekly. An aunt, [[FAMILY|Beatriz Cordero Paredes]], provides transportation when available. The family’s dog, [[PET|Canela]], often joins floor play.
+
+## 3. Medical and Developmental Background
+
+### 3.1 Birth and Follow-Up
+
+[[CHILD|María José Valdés Cordero]] was born at [[KEEP|29 weeks, 4 days]] gestation. Birth weight was [[KEEP|1,280 grams]]. Apgar scores were [[KEEP|6]] and [[KEEP|8]]. She received neonatal care at [[HOSPITAL|Cedar Lantern Health Children’s Hospital, Eastbank Campus]].
+
+The discharge summary dated [[DATE|August 19, 2024]] described feeding support and respiratory monitoring. The family reports no current oxygen requirement. Records available for this review describe stable growth.
+
+Primary pediatrician [[PROVIDER|Daniel Mercer]], MD, practices at [[HOSPITAL|Cedar Lantern Health Pediatrics, Alder Cove Campus]]. The most recent visit occurred on [[DATE|September 16, 2026]].
+
+### 3.2 Hearing and Movement
+
+Audiologist [[PROVIDER|Priya Nanduri]], AuD, evaluated hearing at [[HOSPITAL|Cedar Lantern Health Audiology and ENT, West Orchard Campus]] on [[DATE|September 23, 2026]]. The report described hearing responses adequate for speech access during testing. Repeat testing was recommended if concerns arise.
+
+Physical therapist [[PROVIDER|Marcus Bell]], PT, DPT, monitors balance and stair access. Occupational therapist [[PROVIDER|Irene Salazar]], OTR/L, addresses utensil use, play participation, and regulation. No swallowing assessment was completed during this review.
+
+## 4. Developmental Assessment Summary
+
+### 4.1 Communication Findings
+
+The speech-language evaluation occurred on [[DATE|October 5, 2026]]. [[PROVIDER|Elena Marisol Vega]] used caregiver interviews, bilingual play sampling, and selected tasks from [[KEEP|PLS-5 Spanish]]. Language exposure and task familiarity were considered throughout interpretation.
+
+The [[KEEP|Auditory Comprehension]] standard score was [[KEEP|80]], with a [[KEEP|9th percentile]] ranking and confidence interval of [[KEEP|75–87]]. The [[KEEP|Expressive Communication]] standard score was [[KEEP|76]], with a [[KEEP|5th percentile]] ranking and confidence interval of [[KEEP|71–84]]. The [[KEEP|Total Language]] standard score was [[KEEP|77]], with a [[KEEP|6th percentile]] ranking.
+
+These results describe performance during one assessment. They do not independently establish the child’s abilities across both languages. No age equivalents were used for service decisions.
+
+### 4.2 Functional Observations
+
+[[CHILD|María José]] followed familiar directions in [[KEEP|7/10]] opportunities with gestures. She independently requested help in [[KEEP|2/10]] opportunities. Requests increased to [[KEEP|6/10]] with [[KEEP|mod cues]].
+
+Observed productions included [[KEEP|“más”]], [[KEEP|“agua”]], [[KEEP|“mama ven”]], and [[KEEP|“da”]]. Speech sampling included [​[KEEP|[w]]] for some intended words beginning with [[KEEP|/ɾ/]]. This observation will guide monitoring; isolated sound accuracy is not the current family priority.
+
+## 5. Family Concerns and Priorities
+
+### 5.1 Family’s Own Words
+
+The mother, [[PARENT|Lucía Cordero Paredes]], stated: “I want [[CHILD|María José]] to tell us what she needs before she gets upset. Sometimes I offer everything, and she still cries because I do not understand.”
+
+The father, [[PARENT|Andrés Valdés Molina]], stated: “I want to help during normal play. I do not want every evening to feel like another appointment.”
+
+The grandmother, [[FAMILY|Rosa Paredes Salcedo]], stated: “She understands our routines. I want her to have a way to ask me to open things and to show me when she is finished.”
+
+The family identified communication during meals, dressing, and transitions as its first priority. Safe participation on playground steps was the second priority. Greater independence with a spoon was the third priority.
+
+### 5.2 Family Preferences
+
+The parents prefer brief demonstrations followed by practice. They requested written summaries in Spanish and simple classroom updates in English. They want providers to explain the purpose of each activity.
+
+The family does not want siblings to act as interpreters. Interpreter [[PROVIDER|Adriana Solís Navarro]] will support meetings when the coordinator or another provider cannot communicate directly in Spanish.
+
+## 6. Daily Routines and Participation
+
+### 6.1 Morning and Meals
+
+The household usually wakes at [[TIME|6:30 a.m.]]. Breakfast begins near [[TIME|7:00 a.m.]]. [[CHILD|María José]] selects between two familiar foods when both are visible. She often reaches or pulls an adult’s hand instead of using a consistent request.
+
+Dressing is easier when clothing is presented in sequence. The family will offer opportunities to indicate a choice, request assistance, and signal completion. Providers will keep practice within the routine.
+
+At meals, the child accepts familiar textures and drinks from an open cup with adult support. The occupational therapist will observe seating and utensil access. Communication practice will never require withholding essential food or drink.
+
+### 6.2 Childcare and Evening
+
+[[CHILD|María José]] attends [[DAYCARE|Little Lantern Early Learning Center]] in [[PLACE|Alder Cove]]. Arrival is usually at [[TIME|8:15 a.m.]]. Teacher Ms. [[TEACHER|Camila Fuentes]] and classroom assistant Mr. [[TEACHER|Owen Price]] support participation.
+
+Peers [[PEER|Lena Brooks]] and [[PEER|Diego Arroyo]] frequently join block play. Staff report that the child watches their actions and sometimes offers a toy.
+
+Dinner begins near [[TIME|6:15 p.m.]]. Shared books and bath preparation follow. Her brother, [[SIBLING|Tomás]], enjoys making animal sounds during books. Adults will invite his participation without assigning him responsibility for therapy.
+
+## 7. Other Agencies and Community Resources
+
+### 7.1 Current Connections
+
+[[AGENCY|Laurel Shoals County WIC]] provides nutrition follow-up. The family’s next appointment is [[DATE|November 3, 2026]].
+
+[[AGENCY|Laurel Shoals County DSS]] assists with childcare eligibility questions. Caseworker [[PERSON|Miriam Cole]] is the identified contact. The family authorized coordination limited to scheduling and service access.
+
+[[AGENCY|Laurel Shoals Partnership for Children]] supplied information about library activities and transportation resources. [[AGENCY|Laurel Shoals Early Head Start]] received a family-requested inquiry concerning future placement. Enrollment is pending.
+
+### 7.2 Coordination Limits
+
+[[PROVIDER|Nora Whitcomb]] will verify each agency’s current role with the family before sharing information. Providers will exchange only information needed for the agreed purpose.
+
+The family has not requested employer contact. Work schedules will be discussed directly with the parents. Agency involvement will not change the family’s authority to select priorities or decline optional referrals.
+
+## 8. Functional Outcomes and Strategies
+
+### 8.1 Outcome [[KEEP|1]]: Communicate During Daily Routines
+
+By [[DATE|January 11, 2027]], [[CHILD|María José]] will communicate a request, refusal, or request for help during meals, dressing, and play in [[KEEP|8/10]] opportunities across two caregivers and three consecutive routine samples.
+
+Communication may include speech, gestures, or pictures. Adults will pause, acknowledge attempts, model one useful message, and provide the requested response when appropriate. Initial models may include [[KEEP|“ayuda”]], [[KEEP|“más agua”]], [[KEEP|“abre”]], and [[KEEP|“all done”]].
+
+The speech-language pathologist will use [[KEEP|Enhanced Milieu Teaching]] within familiar activities. Adults will begin with [[KEEP|min cues]] when possible and add [[KEEP|mod cues]] only when needed. Progress notes will separate independent responses from supported responses.
+
+### 8.2 Outcome [[KEEP|2]]: Participate in Shared Play
+
+By [[DATE|January 11, 2027]], [[CHILD|María José]] will complete at least three reciprocal play turns with an adult or peer in [[KEEP|4 of 5]] observed play routines.
+
+Adults will follow the child’s interests, imitate her actions, and model short comments. Suggested targets include [[KEEP|“my turn”]], [[KEEP|“tu turno”]], and [[KEEP|“go”]]. Classroom staff will offer accessible materials and space for another child.
+
+The family will practice during blocks, books, and rolling a ball. Adults will accept nonverbal turns and avoid repeated demands to speak.
+
+### 8.3 Outcome [[KEEP|3]]: Use a Spoon During Meals
+
+By [[DATE|January 11, 2027]], the child will bring a loaded spoon to her mouth with manageable spilling in [[KEEP|3 of 5]] opportunities during a familiar meal, with [[KEEP|min cues]].
+
+The occupational therapist will adjust seating and spoon selection with caregiver input. Adults will offer short practice periods and assistance before frustration increases.
+
+### 8.4 Outcome [[KEEP|4]]: Access Playground Steps
+
+By [[DATE|January 11, 2027]], the child will negotiate three playground steps with a handrail and nearby adult supervision in [[KEEP|4/5]] opportunities.
+
+The physical therapist will teach positioning and safe assistance. Practice will occur on suitable equipment. Adults will stop practice when fatigue or unsafe footing affects participation.
+
+## 9. Services, Settings, and Dates
+
+### 9.1 Authorized Service Plan
+
+Speech-language services with [[PROVIDER|Elena Marisol Vega]] will begin on [[DATE|October 19, 2026]] and continue through [[DATE|April 11, 2027]]. Sessions will occur weekly for 45 minutes, primarily at home, with planned childcare visits. Proposed billing uses [[KEEP|CPT 92507]] with modifier [[KEEP|GN]]. The communication diagnosis is [[KEEP|ICD-10 F80.2]].
+
+Occupational therapy with [[PROVIDER|Irene Salazar]] will occur twice monthly for 45 minutes from [[DATE|October 20, 2026]] through [[DATE|April 11, 2027]]. Proposed billing uses [[KEEP|CPT 97530]] with modifier [[KEEP|GO]].
+
+Physical therapy with [[PROVIDER|Marcus Bell]] will occur monthly for 45 minutes from [[DATE|October 22, 2026]] through [[DATE|April 11, 2027]]. Proposed billing uses [[KEEP|CPT 97530]] with modifier [[KEEP|GP]]. The motor diagnosis is [[KEEP|ICD-10 R62.0]].
+
+### 9.2 Scheduling
+
+The preferred home appointment is [[TIME|4:30 p.m.]]. The coordinator will confirm availability each week. Missed visits will prompt contact and rescheduling when feasible.
+
+Service authorization number: [[ID|LS-EI-261012-47]]. Listed billing information does not replace payer authorization or the IFSP service agreement.
+
+## 10. Provider and Caregiver Responsibilities
+
+### 10.1 Shared Implementation
+
+[[PROVIDER|Nora Whitcomb]] will maintain the service calendar and arrange the next review. The speech-language pathologist will demonstrate strategies, observe caregiver practice, and provide brief feedback.
+
+The occupational therapist will address meal participation. The physical therapist will address safe movement. Providers will communicate when their strategies affect another routine.
+
+Interpreter [[PROVIDER|Adriana Solís Navarro]] will interpret accurately and request clarification when needed. The interpreter will not make clinical recommendations independently.
+
+### 10.2 Classroom Coordination
+
+With written consent, Ms. [[TEACHER|Camila Fuentes]] will receive a one-page communication summary. Staff will identify naturally occurring opportunities and record examples of participation.
+
+The team will use familiar Spanish and English words that serve the same function. Adults will not require a particular language before responding. Family participation may include observation, direct practice, or discussion, depending on the day.
+
+## 11. Progress Monitoring and Review Criteria
+
+### 11.1 Measurement
+
+Providers will collect brief samples during ordinary routines. Each sample will identify the activity, communication partner, available supports, and response. Counts will distinguish spontaneous attempts from modeled responses.
+
+For Outcome [[KEEP|1]], the starting independent request rate was [[KEEP|20%]]. The team will review changes alongside caregiver reports of frustration and successful participation.
+
+For Outcome [[KEEP|2]], the child completed reciprocal turns in [[KEEP|2 of 5]] initial routines. Spoon use and step access will receive updated observations during their first scheduled visits.
+
+### 11.2 Adjustment
+
+The next review is planned for [[DATE|January 11, 2027]]. Earlier review may occur if family priorities change, progress stalls, or services do not fit daily life.
+
+A strategy will be revised if it adds burden without improving participation. The team will discuss the evidence with the family before changing service frequency. Progress will not depend only on test scores.
+
+## 12. Transition Planning and Family Rights
+
+### 12.1 Transition Preparation
+
+The coordinator will explain options for preschool services, community programs, and continued medical follow-up. The family may request a transition conference with [[SCHOOL|Alder Cove Community Preschool]] and other selected programs.
+
+Transition planning will include language access, transportation, communication supports, and the family’s preferred placement features. No placement decision was made during this review.
+
+### 12.2 Consent and Access
+
+The coordinator explained participation, consent, confidentiality, and complaint procedures in the family’s preferred language. The parents may accept some services and decline others.
+
+The family requested electronic and printed copies. They may correct factual errors and request another meeting. Any release of information will identify its purpose, recipient, and duration.
+
+## 13. Review Agreement and Signatures
+
+### 13.1 Family Response
+
+Mother [[PARENT|Lucía Cordero Paredes]] stated that the revised outcomes match the family’s immediate priorities. Father [[PARENT|Andrés Valdés Molina]] agreed with practice during ordinary routines.
+
+The team confirmed that communication attempts should receive a meaningful response. Providers will explain each strategy before asking caregivers to practice it.
+
+### 13.2 Documentation
+
+Parent acknowledgments: [[PARENT|Lucía Cordero Paredes]] and [[PARENT|Andrés Valdés Molina]].  
+Service coordinator: [[PROVIDER|Nora Whitcomb]].  
+Bilingual speech-language pathologist: [[PROVIDER|Elena Marisol Vega]], MA, CCC-SLP.  
+Interpreter: [[PROVIDER|Adriana Solís Navarro]].  
+Documentation completed: [[DATE|October 12, 2026]].
+
+The coordinator will provide the completed review and confirm the first service appointments. This fictional report records the agreed plan, its measurement criteria, and each participant’s responsibilities.

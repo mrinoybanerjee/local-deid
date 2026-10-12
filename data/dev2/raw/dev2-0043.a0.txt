@@ -1,0 +1,98 @@
+INFORME DE REVISIÓN DEL PLAN INDIVIDUALIZADO DE SERVICIOS FAMILIARES (IFSP)
+Programa de Intervención Infantil de Carolina del Norte (NC Infant-Toddler Program)
+
+1. INFORMACIÓN DE IDENTIFICACIÓN
+
+1.1 Niño: [[CHILD|Mateo Hernández Rodríguez]], fecha de nacimiento [[DATE|14 de marzo de 2024]], expediente número [[ID|IF-204578]], número de Medicaid [[MEDICAID_ID|784215693M]]. [[CHILD|Mateo]] reside con su familia en [[PLACE|412 Camino Aliso]], [[PLACE|Hendersonville]], [[PLACE|condado de Henderson]], código postal [[PLACE|28792]].
+
+1.2 Padres/tutores: madre, [[PARENT|Lucía Rodríguez Pérez]], teléfono [[PHONE|(828) 555-0147]], correo electrónico [[EMAIL|lucia.rodriguezp@example.com]]; padre, [[PARENT|Carlos Hernández Gómez]], teléfono [[PHONE|(828) 555-0198]].
+
+1.3 Hermanos: hermana mayor, [[SIBLING|Camila Hernández Rodríguez]] (7 años); hermanito, [[SIBLING|Dieguito]] (5 años).
+
+1.4 Historia de nacimiento: [[CHILD|Mateo]] nació en el [[HOSPITAL|Hospital Pardee]] a las 36 semanas de gestación, con un peso de [[KEEP|2,450 gramos]] y puntuaciones de Apgar de [[KEEP|8]] y [[KEEP|9]]. Permaneció en la unidad neonatal durante cinco días por dificultades respiratorias leves.
+
+2. COORDINACIÓN DE SERVICIOS Y AGENCIA
+
+2.1 Esta revisión del IFSP se realizó en las oficinas de [[AGENCY|CDSA del Piedmont]], ubicadas en [[PLACE|890 Avenida Industrial]], [[PLACE|Asheville]], el [[DATE|15 de septiembre de 2026]] a las [[TIME|10:00 a.m.]]
+
+2.2 Coordinadora de servicios: [[PROVIDER|Katherine Singleton]], [[AGENCY|CDSA del Piedmont]], teléfono [[PHONE|(828) 555-0231]].
+
+2.3 Intérprete: [[PROVIDER|Rosa Martínez]] brindó interpretación español-inglés durante toda la reunión, ya que la familia prefiere recibir los servicios en español.
+
+2.4 Patóloga del habla y lenguaje que redacta este informe: [[PROVIDER|Fabiola Méndez]], M.S., CCC-SLP, de [[EMPLOYER|Carolina Pediatric Therapy Services, PLLC]], correo electrónico [[EMAIL|fmendez@carolinapediatrictherapy.com]].
+
+3. PREOCUPACIONES, PRIORIDADES Y RECURSOS DE LA FAMILIA
+
+3.1 La madre, [[PARENT|Lucía Rodríguez Pérez]], expresó en sus propias palabras: "Me preocupa que [[CHILD|Mateo]] no diga palabras completas todavía. Él señala lo que quiere, pero casi no habla. En la casa le entendemos algunas cosas, pero afuera nadie le entiende."
+
+3.2 El padre, [[PARENT|Carlos Hernández Gómez]], agregó: "Yo trabajo mucho y no estoy en casa de día, pero cuando llego quiero poder jugar con él y que me diga algo. Ahora solo llora cuando algo no le sale."
+
+3.3 Recursos familiares: el padre trabaja en [[ORG|ABC Construction Company]], con turnos de diez horas; la madre trabaja en [[ORG|Servicios de Limpieza Estrella]], de lunes a viernes por las mañanas. La abuela paterna, a quien la familia llama [[FAMILY|doña Lupe]], cuida a [[CHILD|Mateo]] tres tardes por semana mientras la madre trabaja.
+
+3.4 Prioridades de la familia: (1) que [[CHILD|Mateo]] use palabras para pedir comida y juguetes; (2) que la familia aprenda estrategias para usar en casa; (3) que el personal del [[DAYCARE|Centro Infantil El Nido Feliz]] reciba orientación sobre cómo apoyar a [[CHILD|Mateo]].
+
+4. RUTINAS DIARIAS Y ENTORNOS NATURALES
+
+4.1 Hogar: [[CHILD|Mateo]] se despierta alrededor de las [[TIME|7:00 a.m.]] Desayuna con su hermana [[SIBLING|Camila]] y su hermanito [[SIBLING|Dieguito]]. Le gusta jugar con el perro de la familia, [[PET|Max]], y con bloques de construcción.
+
+4.2 Centro infantil: [[CHILD|Mateo]] asiste al [[DAYCARE|Centro Infantil El Nido Feliz]] de 8:00 a.m. a 4:00 p.m., de lunes a viernes. Su maestra principal es [[TEACHER|Miss Ana]], y la asistente del salón es [[TEACHER|la maestra Carmen]]. Ambas reportan que [[CHILD|Mateo]] se frustra cuando no puede comunicar sus necesidades a sus compañeros, especialmente a su amigo [[PEER|Josué]] y a su compañera [[PEER|Valentina]].
+
+4.3 Comidas: a la hora de la cena, la familia come junta. Según la madre, [[CHILD|Mateo]] come bien pero no pide verbalmente más comida; en cambio, jala la ropa de quien esté cerca.
+
+4.4 Baño y rutina de la noche: el padre participa en la rutina de baño los fines de semana y reporta que [[CHILD|Mateo]] disfruta cantar canciones, aunque solo vocaliza sonidos sin palabras claras.
+
+4.5 Comunidad: la familia asiste a misa los domingos y visita con frecuencia a un vecino, [[PERSON|el señor Ortiz]], cuyo patio comparte juguetes con los niños del vecindario.
+
+5. OTROS PROVEEDORES Y AGENCIAS
+
+5.1 Pediatra: [[PROVIDER|Dr. Michael Chen]], quien refirió a [[CHILD|Mateo]] al programa de intervención infantil tras notar el retraso en el lenguaje durante su consulta de los dos años.
+
+5.2 Terapia ocupacional: [[PROVIDER|Jennifer Alvarez]], OTR/L, trabaja con [[CHILD|Mateo]] en integración sensorial una vez por semana.
+
+5.3 Terapia física: a [[CHILD|Mateo]] se le conoce en terapia física por el apodo que usa su terapeuta, [[PROVIDER|Mr. Tom]], quien trabaja los retrasos motores leves observados durante la evaluación inicial.
+
+5.4 Otras agencias: la familia recibe apoyo nutricional de [[AGENCY|WIC]] y participa en actividades de alfabetización temprana a través de [[AGENCY|Smart Start de Henderson County]]. No hay caso abierto con el [[AGENCY|Departamento de Servicios Sociales]] en este momento.
+
+6. RESUMEN DE EVALUACIÓN
+
+6.1 Herramientas administradas: [[KEEP|PLS-5]] (Preschool Language Scale, quinta edición) y la [[KEEP|Rosetti Infant-Toddler Language Scale]]. Diagnóstico actual: [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo).
+
+6.2 A la edad cronológica de [[KEEP|2;6]], [[CHILD|Mateo]] obtuvo una puntuación estándar de [[KEEP|62]] en el subtest de [[KEEP|Comunicación Auditiva]], equivalente al percentil [[KEEP|1]], y una puntuación estándar de [[KEEP|58]] en [[KEEP|Comunicación Expresiva]], percentil [[KEEP|<1]]. La edad equivalente de lenguaje expresivo fue de [[KEEP|12 meses]].
+
+6.3 Muestra de habla: [[CHILD|Mateo]] produjo aproximadamente ocho palabras funcionales, incluyendo [[KEEP|"mamá"]], [[KEEP|"agua"]] y [[KEEP|"más"]]. Al imitar la palabra objetivo "pato", produjo [[KEEP|[tato]]], sustituyendo [[KEEP|/p/]] por [[KEEP|[t]]]. Con [[KEEP|mod cues]], logró producir [[KEEP|/p/]] correctamente en [[KEEP|8/10]] intentos ([[KEEP|80%]] de precisión).
+
+6.4 Se observó buen contacto visual y juego funcional apropiado para la edad, pero limitado juego simbólico.
+
+7. RESULTADOS DEL IFSP Y ESTRATEGIAS
+
+7.1 [[KEEP|Resultado 1]]: [[CHILD|Mateo]] usará al menos 20 palabras nuevas de manera espontánea para pedir objetos y acciones en el hogar y en el [[DAYCARE|Centro Infantil El Nido Feliz]], medido en tres de cinco oportunidades consecutivas durante seis meses.
+
+Estrategias: la familia y el personal del centro usarán el modelo de lenguaje aumentado y técnicas de [[KEEP|Hanen]], incluyendo la espera estructurada y la expansión de los enunciados del niño. [[PROVIDER|Miss Ana]] y [[FAMILY|doña Lupe]] recibirán una hoja de estrategias en español.
+
+7.2 [[KEEP|Resultado 2]]: [[CHILD|Mateo]] combinará dos palabras (por ejemplo, "más agua") en [[KEEP|3 de 5]] oportunidades observadas durante las sesiones de terapia y en el hogar, dentro de nueve meses.
+
+Estrategias: uso de rutinas de juego repetitivas y el enfoque [[KEEP|PROMPT]] para apoyar la producción motora del habla junto con el vocabulario emergente.
+
+7.3 [[KEEP|Resultado 3]]: la familia reportará sentirse segura usando al menos tres estrategias de comunicación en casa, evaluado mediante entrevista familiar al final del periodo del IFSP.
+
+Estrategias: visitas quincenales de coaching en el hogar con [[PROVIDER|Fabiola Méndez]], con interpretación de [[PROVIDER|Rosa Martínez]] cuando sea necesario.
+
+8. FECHAS Y FRECUENCIA DE SERVICIOS
+
+8.1 Terapia de habla y lenguaje: dos sesiones de 50 minutos por semana, una individual (código [[KEEP|CPT 92507]]) y una evaluación de seguimiento programada con código [[KEEP|CPT 92523]], a partir del [[DATE|22 de septiembre de 2026]].
+
+8.2 Terapia ocupacional: una sesión de 45 minutos por semana, iniciando el [[DATE|23 de septiembre de 2026]].
+
+8.3 Terapia física: una sesión de 30 minutos cada dos semanas con [[PROVIDER|Mr. Tom]], iniciando el [[DATE|25 de septiembre de 2026]].
+
+8.4 Coordinación de servicios: contacto mensual con [[PROVIDER|Katherine Singleton]] del [[AGENCY|CDSA del Piedmont]].
+
+8.5 Próxima revisión del IFSP programada para el [[DATE|15 de marzo de 2027]], o antes si la familia o el equipo lo solicitan.
+
+9. PARTICIPANTES Y FIRMAS
+
+9.1 Participaron en esta reunión: [[PARENT|Lucía Rodríguez Pérez]] (madre), [[PARENT|Carlos Hernández Gómez]] (padre), [[PROVIDER|Katherine Singleton]] (coordinadora de servicios), [[PROVIDER|Fabiola Méndez]] (patóloga del habla y lenguaje), [[PROVIDER|Jennifer Alvarez]] (terapeuta ocupacional) y [[PROVIDER|Rosa Martínez]] (intérprete).
+
+9.2 La familia estuvo de acuerdo con los resultados y las estrategias descritas en este informe y recibió una copia completa en español.
+
+Firmado electrónicamente y archivado en el expediente [[ID|IF-204578]] del [[AGENCY|CDSA del Piedmont]] el [[DATE|15 de septiembre de 2026]].

@@ -1,0 +1,103 @@
+Tipo de documento: Revisión del Plan Individualizado de Servicios para la Familia, Programa de Infantes y Niños Pequeños de Carolina del Norte
+Carácter del registro: Documento sintético; todos los datos personales e institucionales son ficticios
+Nombre del niño: [[CHILD|Nicolás Darío Valcera]]
+Nombre usado en casa: [[CHILD|Nico]]
+Fecha de nacimiento: [[DATE|14 de agosto de 2024]]
+Edad actual: [[KEEP|26 meses]]
+Identificador del expediente: [[ID|ITP-8264917]]
+Identificador de cobertura pública: [[MEDICAID_ID|593817246Q]]
+Fecha de evaluación: [[DATE|1 de octubre de 2026]]
+Fecha de revisión: [[DATE|14 de octubre de 2026]]
+Período del plan: [[DATE|14 de octubre de 2026]] a [[DATE|13 de abril de 2027]]
+Madre: [[PARENT|Mariela Solvena]]
+Padre: [[PARENT|Esteban Valcera]]
+Domicilio: [[PLACE|1847 Calle Sauzal, apartamento 2B]], [[PLACE|Arroyo Cedral]], Carolina del Norte, [[PLACE|27996]]
+Condado: [[PLACE|Condado de Loma Serena]]
+Teléfono familiar: [[PHONE|(919) 555-0146]]
+Correo familiar: [[EMAIL|familia.valcera@example.com]]
+Coordinadora de servicios: [[PROVIDER|Elena Brisola]]
+Agencia de coordinación: [[AGENCY|Agencia Comunitaria de Enlace y Apoyo Familiar del Condado de Loma Serena]]
+Forma corta de la agencia: [[AGENCY|ACEAF Loma Serena]]
+Oficina CDSA: [[AGENCY|Oficina de la Agencia de Servicios para el Desarrollo Infantil de Arroyo Cedral]]
+Forma corta de la oficina: [[AGENCY|CDSA Arroyo Cedral]]
+Teléfono de coordinación: [[PHONE|(984) 555-0172]]
+Correo de coordinación: [[EMAIL|elena.brisola@aceaf.example]]
+Portal de coordinación: [[URL|https://aceaf.example/familias]]
+Profesional responsable: [[PROVIDER|Adriana Celmora]], MS, CCC-SLP, patóloga bilingüe del habla y lenguaje
+Empleador de la profesional: [[EMPLOYER|Terapias Infantiles Puente de Luceros]]
+Lugar principal del servicio: Hogar familiar
+Diagnóstico de referencia: [[KEEP|F80.2]]
+Códigos de servicio: [[KEEP|92523]], [[KEEP|92507]]
+Modificador previsto: [[KEEP|GN]]
+
+Información familiar y participación
+
+La revisión se realizó en español, idioma que la familia prefiere para explicar sus preocupaciones y tomar decisiones. Ambos padres participaron presencialmente. La hermana [[SIBLING|Julia Valcera]] estuvo presente durante parte de la observación. La abuela [[FAMILY|Teresa Solvena]] ayuda con las comidas cuando los turnos laborales se superponen. La niñera [[FAMILY|Olivia Nardel]] cuida al niño dos tardes por semana. La familia autorizó su participación en la práctica de estrategias.
+
+La madre trabaja actualmente en [[ORG|Willow Basket Store]], cuyo nombre en español se registra como [[ORG|Tienda Canasta de Sauce]]. También cubre turnos en [[ORG|Morning Lantern Restaurant]], denominado [[ORG|Restaurante Farol de la Mañana]]. Su empleo anterior fue en [[ORG|Silver Reed Cleaning Service]], registrado como [[ORG|Servicio de Limpieza Junco de Plata]]. Estos nombres corresponden a empresas distintas; las formas españolas identifican los mismos establecimientos que las formas inglesas.
+
+El padre trabaja en [[ORG|Cedar Loom Plant]], registrada como [[ORG|Planta Telar de Cedro]]. Algunos fines de semana realiza tareas en [[ORG|Blue Finch Farm]], denominada [[ORG|Granja Pinzón Azul]]. Su empleo anterior fue en [[ORG|Stone Harbor Construction Company]], registrada como [[ORG|Compañía de Construcción Puerto de Piedra]]. Los horarios variables afectan la disponibilidad para las visitas. La familia solicita una cita semanal estable y materiales breves que pueda compartir entre cuidadores.
+
+Preocupaciones y prioridades de la familia
+
+La mamá [[PARENT|Mariela Solvena]] expresó: “Yo entiendo muchas cosas por cómo me mira, pero otras personas no saben qué quiere. Quiero que pueda pedir comida, ayuda y descanso sin terminar llorando”. Añadió: “No queremos dejar de hablar español. Queremos que aprenda con las palabras que usamos todos los días”.
+
+El papá [[PARENT|Esteban Valcera]] comentó: “Cuando llego del trabajo, me trae sus juguetes. Si espero demasiado, se enoja. Quiero saber cuándo esperar y cuándo ayudarlo”. Ambos padres desean que [[CHILD|Nicolás]] participe con mayor comodidad en las comidas, el juego y las despedidas. La familia considera más urgente la comunicación funcional que la pronunciación precisa.
+
+La abuela [[FAMILY|Teresa Solvena]] señaló: “A veces le doy lo que creo que quiere antes de que lo pida. Me gustaría aprender a darle una oportunidad sin hacerlo sufrir”. La niñera [[FAMILY|Olivia Nardel]] pidió instrucciones iguales para todos los adultos. La familia también quiere que la hermana pueda jugar sin asumir la responsabilidad de interpretar cada mensaje. No solicita que ella actúe como terapeuta.
+
+Fortalezas y antecedentes
+
+[[CHILD|Nico]] busca compañía, disfruta las canciones con movimientos y muestra interés por vehículos, animales y recipientes. Comparte objetos cuando el adulto se coloca a su altura. Responde bien a una voz tranquila y a actividades conocidas. La familia usa gestos naturales y mantiene una relación afectuosa durante las rutinas.
+
+El nacimiento ocurrió en [[HOSPITAL|Hospital Maternoinfantil Valle de Azucenas]], en [[PLACE|Puerto Avellano]]. La información familiar indica una edad gestacional de [[KEEP|39 semanas y 2 días]], peso al nacer de [[KEEP|3,240 gramos]] y puntuaciones de Apgar de [[KEEP|8]] y [[KEEP|9]]. Estos datos se incluyen como antecedentes informados por los padres. La pediatra [[PROVIDER|Inés Arvela]] atiende al niño en [[ORG|Consultorio Pediátrico Sendero Claro]]. No se presentaron documentos nuevos sobre audición en esta revisión.
+
+Rutinas diarias y oportunidades de participación
+
+El despertar suele ocurrir a las [[TIME|6:45 a. m.]]. El desayuno comienza cerca de las [[TIME|7:15 a. m.]]. Durante esta rutina, el niño señala el vaso y acerca la mano del adulto a la mesa. La familia ofrece dos opciones visibles. Se practicará esperar brevemente, reconocer cualquier intento y modelar una palabra útil antes de entregar el alimento.
+
+La llegada a [[DAYCARE|Centro de Cuidado Infantil Brotes del Alba]] ocurre a las [[TIME|8:10 a. m.]]. La maestra [[TEACHER|Rosa Nivarel]] recibe al niño con una canción conocida. La auxiliar [[TEACHER|Clara Dovena]] informa que las transiciones mejoran cuando muestra primero el objeto de la siguiente actividad. Los compañeros [[PEER|Leo Cambrés]] y [[PEER|Alma Roviel]] suelen acercarse durante el juego de bloques.
+
+La siesta empieza aproximadamente a las [[TIME|12:30 p. m.]]. Al despertar, necesita tiempo antes de participar en actividades con otros niños. En casa, los primos [[FAMILY|Tomás Solvena]] y [[FAMILY|Eva Solvena]] visitan algunos domingos. Se recomendarán turnos cortos con un solo juguete. El perro [[PET|Milo]] suele quedarse junto a la alfombra; el adulto supervisará el contacto y usará esa rutina para practicar comentarios sencillos.
+
+El baño comienza a las [[TIME|7:00 p. m.]] y la lectura familiar a las [[TIME|7:40 p. m.]]. Los padres observan más intentos de comunicación durante estas actividades tranquilas. Se elegirán libros con imágenes grandes y acciones repetidas. El adulto seguirá el interés del niño y evitará pedir que repita cada palabra.
+
+Evaluación y observación clínica
+
+La patóloga del habla y lenguaje [[PROVIDER|Adriana Celmora]] realizó entrevista, observación funcional y administración de [[KEEP|PLS-5 Spanish]]. Los resultados se interpretaron junto con la exposición lingüística, la participación y las respuestas familiares. En [[KEEP|Comprensión auditiva]], obtuvo una puntuación estándar de [[KEEP|82]], percentil [[KEEP|12]], intervalo de confianza de [[KEEP|76–90]] y edad equivalente de [[KEEP|21 meses]].
+
+En [[KEEP|Comunicación expresiva]], obtuvo una puntuación estándar de [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza de [[KEEP|72–86]] y edad equivalente de [[KEEP|19 meses]]. En [[KEEP|Lenguaje total]], obtuvo una puntuación estándar de [[KEEP|79]], percentil [[KEEP|8]] e intervalo de confianza de [[KEEP|74–86]]. Las edades equivalentes describen el resultado de la prueba; no representan todas sus capacidades cotidianas.
+
+Durante el juego, siguió instrucciones familiares en [[KEEP|8/10]] oportunidades, equivalentes a [[KEEP|80%]], con [[KEEP|claves mínimas]]. Ante instrucciones nuevas, respondió en [[KEEP|3/5]] oportunidades con [[KEEP|claves moderadas]]. Usó gestos o palabras para pedir en [[KEEP|6/10]] oportunidades. Las producciones espontáneas incluyeron «[[KEEP|agua]]», «[[KEEP|más]]», «[[KEEP|mamá]]» y «[[KEEP|ta]]». Esta última producción apareció al entregar un objeto; su significado no fue consistente.
+
+Se observaron intentos de los sonidos [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|/k/]]. La muestra incluyó una aproximación con [[KEEP|[w]]]. No se estableció un objetivo específico para [[KEEP|/ɾ/]]. La transcripción de la muestra conservó el código [[KEEP|[EW]]] cuando apareció una palabra adicional. El plan prioriza mensajes útiles, comprensión y participación. La impresión clínica es compatible con [[KEEP|F80.2]].
+
+Otras agencias y coordinación
+
+La familia recibe orientación nutricional de [[AGENCY|Programa WIC Semillas del Valle]]. También conoce los recursos de [[AGENCY|Red Smart Start Caminos de Loma Serena]]. No se informó participación actual del departamento social [[AGENCY|DSS Loma Serena]]. La familia autorizó compartir el resumen funcional con el centro infantil y la pediatra. Cada envío requerirá verificar que la autorización continúe vigente.
+
+La coordinadora [[PROVIDER|Elena Brisola]], de [[AGENCY|ACEAF Loma Serena]], solicitará la documentación auditiva disponible y confirmará la próxima cita pediátrica. La [[AGENCY|CDSA Arroyo Cedral]] mantendrá el seguimiento del plan. Los padres prefieren recibir llamadas después de las [[TIME|4:30 p. m.]]. La coordinación reunirá recomendaciones para evitar actividades duplicadas o instrucciones diferentes entre proveedores.
+
+Resultados funcionales y estrategias
+
+Resultado [[KEEP|1]]: Durante las comidas y el juego, [[CHILD|Nicolás]] comunicará una petición mediante palabra, gesto o combinación de ambos en [[KEEP|8/10]] oportunidades durante tres registros semanales consecutivos. Los cuidadores ofrecerán opciones, esperarán y responderán al intento. Las palabras objetivo serán «[[KEEP|agua]]», «[[KEEP|más]]», «[[KEEP|abre]]» y «[[KEEP|ayuda]]». El adulto modelará una vez y evitará exigir repetición. Se comenzará con [[KEEP|claves moderadas]] y se reducirá a [[KEEP|claves mínimas]]. La familia registrará ejemplos durante rutinas habituales.
+
+Resultado [[KEEP|2]]: Durante el vestido, la limpieza y las transiciones, el niño seguirá una instrucción funcional en [[KEEP|4/5]] oportunidades con [[KEEP|claves mínimas]]. El adulto dirá una frase corta, mostrará el objeto y esperará antes de repetir. Los mensajes objetivo serán «[[KEEP|dame el zapato]]», «[[KEEP|guarda el carro]]» y «[[KEEP|ven conmigo]]». Se practicará dentro de la actividad real. Si aparece frustración, el adulto simplificará el mensaje y ofrecerá ayuda.
+
+Resultado [[KEEP|3]]: Durante el juego compartido, [[CHILD|Nico]] mantendrá al menos tres intercambios con un adulto o compañero en [[KEEP|3/5]] oportunidades. Un intercambio podrá incluir mirada, gesto, acción o palabra. La maestra [[TEACHER|Rosa Nivarel]] preparará juegos breves con [[PEER|Leo Cambrés]] o [[PEER|Alma Roviel]]. Los adultos modelarán «[[KEEP|mi turno]]» y «[[KEEP|tu turno]]». La hermana [[SIBLING|Julia Valcera]] podrá participar cuando lo desee, sin obligación de dirigir la actividad.
+
+Resultado [[KEEP|4]]: Los cuidadores usarán dos estrategias acordadas durante una rutina elegida y describirán su efecto en [[KEEP|4/5]] registros. La profesional demostrará, observará la práctica y dará comentarios concretos. Se usarán estrategias de [[KEEP|Hanen]] adaptadas a las prioridades familiares. Se considerará [[KEEP|PECS]] si los apoyos visuales ayudan a ampliar mensajes. No se iniciarán [[KEEP|PROMPT]] ni [[KEEP|Cycles]] sin una nueva valoración de necesidad. La familia elegirá materiales accesibles y relevantes.
+
+Servicios, fechas y seguimiento
+
+La evaluación identificada con [[KEEP|92523]] se completó el [[DATE|1 de octubre de 2026]]. La intervención con [[KEEP|92507]] y modificador [[KEEP|GN]] comenzará el [[DATE|21 de octubre de 2026]]. Se programará una visita semanal de cuarenta y cinco minutos en el hogar. La profesional revisará una rutina, demostrará estrategias y observará al cuidador. Las visitas incluirán tiempo para preguntas y planificación.
+
+El período autorizado termina el [[DATE|13 de abril de 2027]]. Se realizará una revisión de progreso el [[DATE|20 de enero de 2027]]. La coordinadora organizará la planificación de transición antes del tercer cumpleaños. Si cambia el empleo, la asistencia o la necesidad familiar, se revisarán los horarios. Las cancelaciones se comunicarán por el teléfono acordado.
+
+La familia puede rechazar una actividad o solicitar otro formato de apoyo. Se acordó practicar en español y reconocer intentos en cualquier idioma. Las hojas de seguimiento serán breves y no requerirán grabaciones. Se documentarán el contexto, el mensaje y la ayuda utilizada. Los datos orientarán cambios en las estrategias y en los resultados.
+
+Acuerdos finales de la revisión
+
+Los padres consideran que el plan refleja sus prioridades. [[PARENT|Mariela Solvena]] eligió el desayuno como primera rutina de práctica. [[PARENT|Esteban Valcera]] eligió el juego después del trabajo. Ambos explicaron las estrategias con sus propias palabras. La profesional confirmó que comprender el plan no implica lograr cada criterio de inmediato.
+
+[[PROVIDER|Adriana Celmora]], MS, CCC-SLP, de [[EMPLOYER|Terapias Infantiles Puente de Luceros]], redactó el documento en español. La coordinadora verificará los acuerdos de comunicación y las fechas de servicio. La siguiente visita revisará una petición funcional, una transición y la comodidad familiar con las estrategias. Los resultados se ajustarán según la participación observada y las prioridades que la familia comunique.

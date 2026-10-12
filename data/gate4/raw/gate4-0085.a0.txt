@@ -1,0 +1,55 @@
+Tipo de documento: Nota diaria de terapia del habla y lenguaje
+Paciente: [[CHILD|Nicolás Vega Montes]]
+Apodo: [[CHILD|Nico]]
+Edad: [[KEEP|4;2]]
+Fecha de nacimiento: [[DATE|08/09/2022]]
+Fecha de servicio: [[DATE|10/11/2026]]
+Profesional: Lic. [[PROVIDER|Marina Valdés Ríos]], patóloga bilingüe del habla y lenguaje
+Empresa: [[EMPLOYER|Voces del Sendero Pediatría]]
+Estado: North Carolina
+Expediente: [[ID|NV-604182]]
+Medicaid: [[MEDICAID_ID|583927461Q]]
+Autorización: [[ID|AUT-826410]]
+Diagnóstico: [[KEEP|F80.2]]
+Procedimiento: [[KEEP|92507]]
+Modificador: [[KEEP|GN]]
+Responsable: su mamá [[PARENT|Elena Montes]]
+Teléfono: [[PHONE|919-555-0147]]
+Correo: [[EMAIL|elena.montes@example.com]]
+Domicilio: [[PLACE|4827 Calle Roble Sereno]], [[PLACE|Vallebrisa]], North Carolina [[PLACE|27593]]
+
+S — Información familiar
+
+La madre informó que [[CHILD|Nicolás]] pidió ayuda durante el desayuno y esperó su turno con su hermana [[SIBLING|Sol]]. La familia alterna español e inglés; hoy solicitó realizar toda la sesión en español. Su papá [[PARENT|Tomás Vega]] trabaja en [[ORG|Talleres Nube Clara]]. Su abuela [[FAMILY|Inés Montes]] participa por videollamada desde [[PLACE|Aldea Las Luciérnagas]], Guatemala. La madre negó cambios recientes en audición, sueño o medicamentos.
+
+El niño habló de su perro [[PET|Chispa]] y dijo: “[[PET|Chispa]] quiere agua”. La madre describió mayor iniciativa para conversar, aunque todavía necesita apoyo cuando varias personas hablan.
+
+O — Observaciones y datos
+
+Se revisaron los resultados de la evaluación previa. Las fechas corresponden a la administración de cada subprueba. Los intervalos representan un nivel de confianza de [[KEEP|90%]].
+
+| Prueba y subprueba | Fecha | Puntuación estándar | Percentil | Intervalo de confianza |
+|---|---|---|---|---|
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Comprensión auditiva]] | [[DATE|09/28/2026]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] |
+| [[KEEP|PLS-5 Spanish]] — [[KEEP|Comunicación expresiva]] | [[DATE|09/28/2026]] | [[KEEP|81]] | [[KEEP|10]] | [[KEEP|76–88]] |
+
+Horario acordado para las próximas sesiones:
+
+| Día | Inicio | Fin | Lugar |
+|---|---|---|---|
+| Martes | [[TIME|9:00 a. m.]] | [[TIME|9:45 a. m.]] | [[SCHOOL|Escuela Infantil Puente de Colores]] |
+| Jueves | [[TIME|2:15 p. m.]] | [[TIME|3:00 p. m.]] | [[EMPLOYER|Voces del Sendero Pediatría]] |
+
+Durante el juego, [[CHILD|Nico]] siguió instrucciones de dos pasos en [[KEEP|8/10]] oportunidades con [[KEEP|min cues]]. Produjo frases espontáneas en [[KEEP|3 de 5]] oportunidades. Se aplicaron estrategias de [[KEEP|Hanen]] para ampliar mensajes y dar tiempo de respuesta.
+
+La palabra objetivo [[KEEP|"sol"]] se trabajó como nombre del astro, mediante una tarjeta ilustrada. El niño señaló la tarjeta y luego a su hermana [[SIBLING|Sol]] en una fotografía. Esta coincidencia facilitó la atención, pero requirió aclarar el significado.
+
+Para [[KEEP|/k/]], alcanzó [[KEEP|70%]] de precisión con [[KEEP|mod cues]]. Se registraron [[KEEP|"tasa"]] por [[KEEP|"casa"]] y [[KEEP|"quiero más"]]. En la muestra se anotó [[KEEP|[EW]] cuando agregó una palabra ajena al mensaje.
+
+A — Interpretación
+
+El niño mostró avances en participación y combinación de palabras. Las claves visuales ayudaron más que las repeticiones verbales. La precisión disminuyó al aumentar la longitud de la frase. No se observaron señales de frustración.
+
+P — Plan
+
+Continuar el objetivo [[KEEP|2]] del [[KEEP|IFSP]]. Practicar peticiones durante cinco minutos diarios con [[KEEP|min cues]]. La maestra [[TEACHER|Clara Benítez]] enviará observaciones sobre turnos con el compañero [[PEER|Emilio Prado]]. Revisar la generalización en la próxima sesión, programada para [[DATE|10/13/2026]].

@@ -1,0 +1,28 @@
+Nota de Progreso – Terapia de Habla y Lenguaje
+
+Nombre del niño: [[CHILD|Mateo Hernández Cruz]] ("[[CHILD|Teo]]")
+Fecha de nacimiento: [[DATE|14 de febrero de 2022]]
+Edad actual: [[KEEP|4;8]]
+Fecha de servicio: [[DATE|9 de octubre de 2026]]
+Hora de sesión: [[TIME|10:00 a.m.]] – [[TIME|10:45 a.m.]]
+ID de Medicaid: [[MEDICAID_ID|123456789A]]
+Número de miembro de seguro (BCBS NC): [[ID|BCB987654321]]
+ID de niño del Programa ITP de NC: [[ID|ITP-NC-0045821]]
+Número de autorización: [[ID|AUTH-2026-77410]]
+Terapeuta: [[PROVIDER|Ana Martínez]], CCC-SLP
+Compañía: [[EMPLOYER|Little Learners Program]]
+Teléfono de la clínica: [[PHONE|(828) 555-0199]]
+
+Subjetivo:
+La madre de [[CHILD|Teo]], [[PARENT|Lucía Rodríguez Paz]] ([[PHONE|828-555-0142]]), reporta que su hijo sigue frustrado en casa cuando su hermana, [[SIBLING|Camila]], no le entiende. Dice que anoche [[CHILD|Teo]] señaló al perro de la familia y dijo "[[PET|Rocky]] vamos", pronunciando "vamos" como "[[KEEP|bamo]]". El padre, [[PARENT|Javier Hernández]] ([[PHONE|828.555.0173]]), trabaja en [[ORG|Blue Ridge Furniture Company]] y no pudo asistir hoy. La abuela, [[FAMILY|Rosa Paz]], quien vive parte del año en México y llama seguido al número [[PHONE|+52 999 123 4567]], ayuda con el cuidado los martes y jueves.
+
+[[CHILD|Teo]] asistió antes a [[DAYCARE|Little Learners Daycare]], donde la maestra, Ms. [[TEACHER|Lopez]], notó pocos avances. Desde agosto asiste a [[DAYCARE|El Rincón de los Sueños]], donde la maestra, Srta. [[TEACHER|Carmen Díaz]], reporta que juega bien con su compañera [[PEER|Sofía]] pero aún usa oraciones de una o dos palabras.
+
+Objetivo:
+Se administró el [[KEEP|Rossetti Infant-Toddler Language Scale]], subprueba de [[KEEP|Comprensión Auditiva]]. [[CHILD|Teo]] obtuvo una puntuación estándar de [[KEEP|73-83]], percentil [[KEEP|9]], equivalente de edad de [[KEEP|2;6–3;0]]. Produjo /[[KEEP|r]]/ con [[KEEP|claves moderadas]] en "[[KEEP|carro]]" (código SALT [[KEEP|[EW]]]). Logró [[KEEP|3 de 5]] ensayos usando [[KEEP|PROMPT]] y respondió bien a estrategias de [[KEEP|Hanen]].
+
+Análisis:
+Progreso lento pero presente en articulación. Persisten barreras de comunicación en casa con [[SIBLING|Camila]].
+
+Plan:
+Continuar sesiones semanales. La coordinadora de servicios de la [[AGENCY|CDSA del Piedmont]] revisará el IFSP el [[DATE|15 de enero de 2027]]. La familia reside en [[PLACE|456 Oak Street, Hendersonville, Henderson County]], NC [[PLACE|28792]]. [[CHILD|Teo]] nació en el [[HOSPITAL|Pardee Hospital]].

@@ -1,0 +1,39 @@
+Daily Session Note
+
+Child: [[CHILD|Mateo Alvarez]] (DOB [[DATE|04/12/2022]]; current age [[KEEP|4;2]])
+Session Date: [[DATE|October 9, 2026]]
+Medicaid ID: [[MEDICAID_ID|987654321A]]
+Insurance Member ID: [[ID|BCBS-NC-55217890]]
+NC ITP Child ID: [[ID|ITP-2024-003417]]
+Authorization Number: [[ID|AUTH-NC-778812]]
+
+Provider: [[PROVIDER|Hannah J. Whitfield]], M.S., CCC-SLP, bilingual English/Spanish, [[EMPLOYER|Carolina Pines Pediatric Therapy]]
+
+Setting: home visit at [[PLACE|412 Willow Bend Lane]], [[PLACE|Cary]], [[PLACE|Wake County]], [[PLACE|27518]].
+
+Present: [[CHILD|Mateo]]'s mother [[PARENT|Lucía Alvarez]], who works at [[ORG|Precision Fiber Solutions]], and older sister [[SIBLING|Sofía]] (age 7). Interpreter [[PROVIDER|Marisol Peña]] assisted with portions conducted in Spanish.
+
+Subjective: Mother reports [[CHILD|Mateo]] has been more vocal at [[DAYCARE|Little Sprouts Daycare]], per teacher [[TEACHER|Ms. Donna Carter]], and now plays alongside classmate [[PEER|Jace]] during circle time. He recently began saying "[[KEEP|agua]]" for water and attempted "[[KEEP|más]]" during snack. He continues to call his stuffed dog "[[PET|Buddy]]" and imitates his uncle [[FAMILY|Tío Carlos]] by barking at the real family dog, [[PET|Rocky]]. Service coordinator [[PROVIDER|Rebecca Tanaka]] from [[AGENCY|Wake County CDSA]] confirmed the IFSP review is due [[DATE|November 3, 2026]].
+
+Objective: Administered portions of [[KEEP|PLS-5]]. Auditory Comprehension standard score [[KEEP|73-83]] (90% CI), Expressive Communication standard score [[KEEP|68]], percentile [[KEEP|2nd]]. Age equivalent range [[KEEP|2;6–3;0]]. Articulation sample of 100 utterances yielded intelligibility of [[KEEP|3 of 5]] words understood by an unfamiliar listener. Target /k/ production: [[KEEP|8/10]] correct in isolation; stimulability noted for [[KEEP|[w]]]. He produced "[[KEEP|ba]]" for "ball" with [[KEEP|mod cues]]. SALT code [[KEEP|[EW]]] was used to mark word-finding delays. The session used [[KEEP|PECS]] and [[KEEP|Hanen]] strategies; parent coaching emphasized [[KEEP|PROMPT]] tactile cues.
+
+Assessment: Mateo continues to show delays consistent with ICD-10 code [[KEEP|F80.1]]. CPT code [[KEEP|92507]] was billed, modifier [[KEEP|GN]]. Birth history: gestational age [[KEEP|36 weeks]], birth weight [[KEEP|5 lbs 4 oz]], Apgar score [[KEEP|8/9]].
+
+IFSP Outcome Review:
+Outcome	Strategies	Progress	Date
+[[KEEP|Outcome 1]]: Mateo will request preferred items using words or signs	[[KEEP|PECS]], modeling, [[KEEP|mod cues]]	Uses 5 signs consistently; 2 new words emerging	[[DATE|10/09/2026]]
+[[KEEP|Outcome 2]]: Mateo will imitate CV and CVC words	[[KEEP|Hanen]] strategies, parent coaching	Improved from [[KEEP|40%]] to [[KEEP|65%]] accuracy	[[DATE|10/09/2026]]
+[[KEEP|Outcome 3]]: Family will use mealtime routines to build language	[[KEEP|PROMPT]] cues, home practice	Mother reports consistent daily carryover	[[DATE|10/09/2026]]
+
+Plan: Continue weekly direct therapy and biweekly parent coaching. Discussed referral to pediatrician [[PROVIDER|Dr. Amara Singh]] at [[HOSPITAL|WakeMed Children's Clinic]] for a hearing re-check. Will coordinate with [[TEACHER|Ms. Carter]] at [[DAYCARE|Little Sprouts Daycare]] regarding classroom carryover. Next IFSP meeting [[DATE|November 3, 2026]] at the [[AGENCY|Wake County CDSA]] office.
+
+Session Schedule (upcoming month):
+
+Day	Start	Stop	Location
+Monday	[[TIME|9:00 AM]]	[[TIME|9:45 AM]]	[[PLACE|412 Willow Bend Lane]], [[PLACE|Cary]]
+Wednesday	[[TIME|1:30 PM]]	[[TIME|2:15 PM]]	[[DAYCARE|Little Sprouts Daycare]], [[PLACE|Cary]]
+Friday	[[TIME|10:15 AM]]	[[TIME|11:00 AM]]	[[PLACE|412 Willow Bend Lane]], [[PLACE|Cary]]
+
+Contact: clinic line [[PHONE|(919) 555-0148]], email [[EMAIL|hwhitfield@carolinapinestherapy.com]].
+
+Signed, [[PROVIDER|Hannah J. Whitfield, M.S., CCC-SLP]], [[EMPLOYER|Carolina Pines Pediatric Therapy]]

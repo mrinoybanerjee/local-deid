@@ -1,0 +1,122 @@
+Nombre del paciente: [[CHILD|Mateo Alejandro Vásquez Rodríguez]]
+Apodo usado por la familia: [[CHILD|Teo]]
+Fecha de nacimiento: [[DATE|14 de agosto de 2021]]
+Edad cronológica en la evaluación: [[KEEP|4;2]]
+Sexo: masculino
+Número de expediente: [[ID|MV-20538]]
+Número de Medicaid: [[MEDICAID_ID|784215630B]]
+Fechas de la evaluación: [[DATE|20 de octubre de 2025]] y [[DATE|22 de octubre de 2025]]
+Fecha del informe: [[DATE|3 de noviembre de 2025]]
+Idioma primario del hogar: español; idioma de exposición secundaria: inglés
+Remitido por: [[PROVIDER|Dra. Hannah Nguyen]], pediatra
+CDSA / Agencia de remisión: [[AGENCY|Piedmont Regional CDSA]]
+Coordinadora de servicios: [[PROVIDER|Rachel Kim]]
+Clínica: [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]] (abreviado [[EMPLOYER|CPSLT]])
+Dirección de la clínica: [[PLACE|482 Birchwood Lane, Suite 200, Apex, NC 27502]]
+Teléfono de la clínica: [[PHONE|(919) 555-0148]]
+Correo electrónico de la clínica: [[EMAIL|athompson@carolinapediatricspeech.com]]
+Sitio web: [[URL|www.carolinapediatricspeech.com]]
+Terapeuta del habla y lenguaje: [[PROVIDER|Avery Thompson]], M.S., CCC-SLP, bilingüe español-inglés
+Intérprete certificado presente: [[PROVIDER|Diego Fuentes]]
+Centro de cuidado infantil: [[DAYCARE|Little Sprouts Early Learning Center]]
+
+MOTIVO DE LA REMISIÓN
+
+[[CHILD|Mateo]] fue remitido a [[EMPLOYER|Carolina Pediatric Speech]] por su pediatra, la [[PROVIDER|Dra. Hannah Nguyen]], después de una visita de control de los cuatro años en la que la familia expresó preocupación por el lenguaje expresivo y la claridad del habla del niño. Su madre, [[PARENT|Lucía Rodríguez Fernández]], reportó que [[CHILD|Mateo]] usa oraciones cortas, omite palabras pequeñas y con frecuencia es difícil de entender tanto para la familia como para personas fuera del hogar. Su padre, [[PARENT|Hugo Vásquez Ibarra]], añadió que [[CHILD|Mateo]] se frustra cuando no logra comunicarse y a veces empuja o llora en lugar de hablar.
+
+La maestra principal de [[CHILD|Mateo]] en [[DAYCARE|Little Sprouts Early Learning Center]], [[TEACHER|la maestra Carmen]], también envió una nota de preocupación. Ella observa que [[CHILD|Mateo]] participa poco en el círculo de conversación y que su amigo [[PEER|Ethan]] a menudo habla por él. La asistente de la clase, [[TEACHER|Miss Ana]], notó que [[CHILD|Mateo]] sigue instrucciones de un solo paso pero se pierde con instrucciones de dos pasos. El especialista en desarrollo motor que visita el centro, [[PROVIDER|Mr. Tom]], no reportó preocupaciones de motricidad gruesa ni fina.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+[[CHILD|Mateo]] nació a las [[KEEP|38 semanas]] de gestación mediante parto vaginal en el [[HOSPITAL|WakeMed Cary Hospital]]. Su peso al nacer fue de [[KEEP|3,200 gramos]] ([[KEEP|7 libras, 1 onza]]) y sus puntuaciones de Apgar fueron de [[KEEP|8 y 9]] al minuto y a los cinco minutos, respectivamente. El embarazo fue descrito por [[PARENT|Lucía]] como sin complicaciones mayores, aunque reportó presión arterial elevada durante el tercer trimestre que fue manejada médicamente sin necesidad de hospitalización adicional.
+
+El historial médico de [[CHILD|Mateo]] incluye tres episodios de otitis media entre los dos y tres años de edad, tratados con antibióticos. No ha requerido tubos de ventilación (miringotomía). Una evaluación auditiva realizada el [[DATE|12 de junio de 2024]] en el consultorio de la [[PROVIDER|Dra. Nguyen]] mostró audición dentro de límites normales bilateralmente. No hay historial de convulsiones, hospitalizaciones significativas ni cirugías. [[CHILD|Mateo]] toma actualmente un multivitamínico diario y no tiene alergias conocidas a medicamentos.
+
+[[CHILD|Mateo]] comenzó a recibir servicios de intervención temprana a través de [[AGENCY|Piedmont Regional CDSA]] en [[DATE|marzo de 2024]] después de una evaluación de desarrollo que identificó un retraso leve en el área de comunicación. Su Plan Individualizado de Servicios para la Familia (IFSP) incluye actualmente el [[KEEP|Resultado 2]], enfocado en el seguimiento de instrucciones de dos pasos, y el [[KEEP|Resultado 3]], enfocado en el aumento de la longitud de sus enunciados. La coordinadora de servicios, [[PROVIDER|Rachel Kim]], ha facilitado la comunicación entre la familia y los proveedores durante este proceso.
+
+HISTORIA FAMILIAR Y DE LENGUAJE
+
+[[CHILD|Mateo]] vive con su madre, [[PARENT|Lucía Rodríguez Fernández]], su padrastro, [[PARENT|Marcos Jiménez Soto]], y su hermana mayor, [[SIBLING|Camila Vásquez Rodríguez]]. Su padre biológico, [[PARENT|Hugo Vásquez Ibarra]], vive en una residencia separada dentro del mismo condado y tiene contacto regular con [[CHILD|Mateo]] los fines de semana. La familia reside en [[PLACE|1147 Willow Creek Road, Garner, NC 27529]], dentro del [[PLACE|condado de Wake]].
+
+En el hogar se habla principalmente español. [[PARENT|Lucía]] reporta que ella y [[PARENT|Marcos]] usan español con los niños casi todo el tiempo, mientras que [[CHILD|Mateo]] escucha inglés principalmente en el centro de cuidado infantil y a través de programas de televisión. [[SIBLING|Camila]], quien tiene seis años y asiste a kinder, está adquiriendo el inglés con mayor rapidez y ocasionalmente traduce para su hermano menor cuando juegan con vecinos de habla inglesa.
+
+En cuanto al historial de empleo de la familia, [[PARENT|Lucía]] trabaja actualmente como cajera en la tienda de abarrotes [[ORG|Harris Teeter]]; antes de este empleo trabajó durante dos años en el restaurante [[ORG|El Rancho Mexican Restaurant]], donde conoció a varios de los vecinos que ahora cuidan a los niños ocasionalmente. [[PARENT|Hugo]] trabaja en la planta de fabricación de muebles [[ORG|Triad Furniture Manufacturing]] como operador de maquinaria; previamente trabajó en el servicio de limpieza [[ORG|Sparkle Clean Cleaning Service]] durante el turno nocturno. [[PARENT|Marcos]], el padrastro de [[CHILD|Mateo]], trabaja actualmente en la granja [[ORG|Sunrise Dairy Farm]], y antes de mudarse a Carolina del Norte trabajó para la compañía de construcción [[ORG|Ortiz Brothers Construction Company]].
+
+Debido a los horarios de trabajo de ambos padres, [[CHILD|Mateo]] y [[SIBLING|Camila]] pasan las tardes con una vecina de confianza a quien la familia llama [[FAMILY|doña Lupe]]. Ella cocina para los niños, los ayuda con tareas sencillas y, según [[PARENT|Lucía]], habla con ellos principalmente en español, aunque mezcla algunas palabras en inglés que aprendió trabajando anteriormente en una tienda local. La familia recibe apoyo nutricional a través de [[AGENCY|WIC]] y ha participado en talleres para padres ofrecidos por [[AGENCY|Smart Start de Wake County]].
+
+La mascota de la familia es un perro llamado [[PET|Rocky]], al cual [[CHILD|Mateo]] menciona con frecuencia durante las sesiones de juego y a quien usa como motivador para practicar vocabulario de animales y acciones.
+
+No se reportan otros retrasos de lenguaje en la familia inmediata. [[PARENT|Hugo]] menciona que él mismo tuvo dificultades leves de pronunciación de niño en México, pero que se resolvieron sin terapia formal. No hay historial familiar de trastornos del espectro autista, pérdida auditiva genética ni trastornos de aprendizaje diagnosticados.
+
+OBSERVACIÓN CONDUCTUAL
+
+Durante ambas sesiones de evaluación, realizadas en las oficinas de [[EMPLOYER|CPSLT]] en [[PLACE|Apex, NC]], [[CHILD|Mateo]] se mostró inicialmente tímido pero se adaptó rápidamente al ambiente de juego estructurado. Mantuvo atención conjunta de manera consistente y respondió bien al reforzamiento positivo y a los descansos breves con movimiento. Su nivel de atención fue apropiado para su edad durante tareas de quince a veinte minutos. No se observaron conductas repetitivas, dificultades sensoriales significativas ni problemas de interacción social que sugirieran preocupaciones dentro del espectro autista.
+
+El intérprete, [[PROVIDER|Diego Fuentes]], facilitó la comunicación con la familia durante la entrevista inicial y la revisión de resultados, asegurando que [[PARENT|Lucía]] y [[PARENT|Hugo]] comprendieran completamente los procedimientos y pudieran hacer preguntas en su idioma preferido.
+
+PROCEDIMIENTOS DE EVALUACIÓN
+
+Se administraron las siguientes pruebas estandarizadas, complementadas con observación clínica, muestra de lenguaje espontáneo y entrevista con los padres:
+
+1. [[KEEP|Preschool Language Scales, Fifth Edition, Spanish]] ([[KEEP|PLS-5 Spanish]])
+2. [[KEEP|Goldman-Fristoe Test of Articulation, Third Edition]] ([[KEEP|GFTA-3]])
+3. [[KEEP|Bilingual English Spanish Assessment]] ([[KEEP|BESA]]) — subpruebas de Fonología y Morfosintaxis
+4. Muestra de lenguaje espontáneo en español e inglés, analizada con codificación tipo [[KEEP|SALT]]
+5. Lista de verificación informal de procesos fonológicos (enfoque de [[KEEP|Cycles]])
+
+RESULTADOS DE LAS PRUEBAS
+
+[[KEEP|PLS-5 Spanish]]:
+Comprensión Auditiva: puntuación estándar de [[KEEP|82]], percentil [[KEEP|12]], intervalo de confianza del 95% de [[KEEP|76–88]]
+Comunicación Expresiva: puntuación estándar de [[KEEP|76]], percentil [[KEEP|5]], intervalo de confianza del 95% de [[KEEP|70–82]]
+Puntuación Total del Lenguaje: puntuación estándar de [[KEEP|78]], percentil [[KEEP|7]]
+Edad equivalente de lenguaje expresivo: [[KEEP|30 meses]]
+
+[[KEEP|GFTA-3]] (Sonidos en Palabras):
+Puntuación estándar: [[KEEP|73]], percentil [[KEEP|4]]
+
+[[KEEP|BESA]] — Fonología:
+Puntuación en español dentro del rango esperado para la edad; se observaron procesos fonológicos persistentes, incluyendo gliding de /r/ y /ɾ/ (producidos como [w]) y simplificación de grupos consonánticos (por ejemplo, "[[KEEP|pego]]" por "[[KEEP|pero]]", y "[[KEEP|flol]]" por "[[KEEP|flor]]")
+
+[[KEEP|BESA]] — Morfosintaxis:
+Desempeño por debajo del rango esperado en ambos idiomas; omisión frecuente de artículos y marcadores de plural en español, y omisión de la cópula ("is/are") en inglés
+
+Durante la muestra de lenguaje, [[CHILD|Mateo]] produjo enunciados de una longitud media de aproximadamente 3.2 palabras por enunciado en español. Se codificaron varios errores como palabras con error ([[KEEP|[EW]]]) debido a omisiones de morfemas gramaticales. En inglés, produjo "[[KEEP|wion]]" por "[[KEEP|lion]]" y "[[KEEP|wed]]" por "[[KEEP|red]]", consistente con el patrón de gliding observado en español.
+
+En cuanto a producción de sonidos específicos, [[CHILD|Mateo]] logró producir el fonema /s/ correctamente en posición inicial en [[KEEP|8 de 10]] intentos ([[KEEP|80%]]) con clave verbal mínima, pero requirió clave moderada para producir /ɾ/ en palabras como "[[KEEP|carro]]" y "[[KEEP|pero]]". En posición final de palabra, logró /s/ correctamente en [[KEEP|3 de 5]] intentos ([[KEEP|60%]]) sin ayuda.
+
+Su madre completó un cuestionario de desarrollo comunicativo que arrojó resultados consistentes con las observaciones clínicas, confirmando que la dificultad de [[CHILD|Mateo]] se presenta en ambos idiomas del hogar y no es exclusiva de un solo idioma, lo cual apoya un diagnóstico de trastorno primario del lenguaje en lugar de una diferencia típica asociada al bilingüismo.
+
+IMPRESIONES DIAGNÓSTICAS
+
+Con base en los resultados de las pruebas estandarizadas, la observación clínica, el análisis de la muestra de lenguaje y la información proporcionada por la familia y el personal educativo, [[CHILD|Mateo]] presenta un trastorno mixto de lenguaje receptivo-expresivo con un componente fonológico significativo, presente en ambos idiomas del hogar. Esto es consistente con [[KEEP|ICD-10]] [[KEEP|F80.2]] (trastorno mixto del lenguaje receptivo-expresivo) con un diagnóstico secundario de [[KEEP|F80.0]] (trastorno fonológico).
+
+El perfil de [[CHILD|Mateo]] no es atribuible únicamente a la exposición a dos idiomas; su desempeño está por debajo de lo esperado en ambos idiomas en comparación con normas monolingües y bilingües apropiadas. Su inteligibilidad general se estima en aproximadamente 60% para oyentes familiares y menos del 40% para oyentes no familiares, lo cual representa un impacto funcional significativo en su participación en el centro de cuidado infantil y en el hogar.
+
+Los servicios de evaluación de hoy fueron codificados bajo [[KEEP|CPT 92523]] (evaluación del habla y de la producción de sonidos del habla con evaluación del lenguaje), y se anticipa que los servicios de tratamiento continuo se codificarán bajo [[KEEP|CPT 92507]].
+
+RECOMENDACIONES
+
+1. Se recomienda terapia de habla y lenguaje individual dos veces por semana, sesiones de 30 minutos, en modalidad bilingüe (español e inglés), a través de [[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]].
+
+2. El plan de tratamiento incorporará el enfoque [[KEEP|PROMPT]] para abordar los patrones de gliding y simplificación de grupos consonánticos, junto con el enfoque de [[KEEP|Cycles]] para el tratamiento de procesos fonológicos múltiples.
+
+3. Para el desarrollo de morfosintaxis y longitud de enunciado, se recomienda incorporar estrategias del método [[KEEP|Hanen]] durante las sesiones y capacitar a [[PARENT|Lucía]] y [[PARENT|Marcos]] en técnicas de expansión y modelado lingüístico dentro del hogar.
+
+4. Se recomienda continuar la colaboración con [[AGENCY|Piedmont Regional CDSA]] para actualizar el IFSP, revisando el progreso hacia el [[KEEP|Resultado 2]] y el [[KEEP|Resultado 3]] en la próxima reunión de revisión, programada para el [[DATE|15 de enero de 2026]].
+
+5. Se recomienda comunicación continua con [[TEACHER|la maestra Carmen]] y [[TEACHER|Miss Ana]] en [[DAYCARE|Little Sprouts Early Learning Center]] para generalizar estrategias de comunicación dentro del aula, incluyendo el uso de instrucciones simplificadas y espera estructurada para dar oportunidad a que [[CHILD|Mateo]] se comunique antes de que su amigo [[PEER|Ethan]] responda por él.
+
+6. Se recomienda una reevaluación formal del progreso en aproximadamente seis meses, o antes si el equipo clínico lo considera necesario.
+
+7. Se sugiere que la familia continúe fomentando el uso del español en el hogar, ya que el bilingüismo no es la causa del retraso de [[CHILD|Mateo]] y debe mantenerse como un recurso valioso para la familia y el desarrollo a largo plazo del niño.
+
+Cualquier pregunta sobre este informe puede dirigirse a [[PROVIDER|Avery Thompson]], M.S., CCC-SLP, a través del correo electrónico [[EMAIL|athompson@carolinapediatricspeech.com]], por teléfono al [[PHONE|(919) 555-0148]], o visitando [[URL|www.carolinapediatricspeech.com]] para más información sobre los servicios de [[EMPLOYER|CPSLT]].
+
+Agradezco la colaboración de la familia y del personal de [[DAYCARE|Little Sprouts Early Learning Center]] durante este proceso de evaluación.
+
+Atentamente,
+
+[[PROVIDER|Avery Thompson]], M.S., CCC-SLP
+Patóloga del Habla y Lenguaje Bilingüe
+[[EMPLOYER|Carolina Pediatric Speech & Language Therapy, PLLC]]

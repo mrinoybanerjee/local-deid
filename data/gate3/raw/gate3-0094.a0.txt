@@ -1,0 +1,128 @@
+ENCABEZADO
+
+- Documento sintético para pruebas de desidentificación. Todos los datos personales, las instituciones, los contactos y los acontecimientos son ficticios. El contenido representa una evaluación pediátrica bilingüe simulada y no corresponde a una persona real.
+- Paciente: [[CHILD|María José de la Cruz Vargas-Lozano]]. Nombre usado en casa: [[CHILD|Marijo]]. Fecha de nacimiento: [[DATE|18 de noviembre de 2021]]. Edad cronológica durante la evaluación: [[KEEP|4;2]]. Idiomas evaluados: español e inglés.
+- Evaluación realizada el [[DATE|20 de enero de 2026]], desde las [[TIME|9:15 a. m.]] hasta las [[TIME|11:00 a. m.]]. Informe finalizado el [[DATE|23 de enero de 2026]].
+- Profesional: [[PROVIDER|Elena Salcedo-Márquez]], patóloga bilingüe del habla y del lenguaje pediátrico. Empleador: [[EMPLOYER|Senderos de Voz Terapia Pediátrica Bilingüe, PLLC]], también denominado [[EMPLOYER|Senderos de Voz]] y [[EMPLOYER|SVTPB]].
+- Dirección de atención: [[PLACE|4826 Sendero de la Garza, oficina 210]], [[PLACE|Valle de Bruma]], North Carolina, [[PLACE|27000]]. Teléfono: [[PHONE|(919) 555-0146]]. Correo: [[EMAIL|esalcedo@senderosvoz.example]]. Sitio: [[URL|https://senderosvoz.example]].
+- Expediente: [[ID|SV-260120-047]]. Medicaid: [[MEDICAID_ID|000482731Q]]. Autorización: [[ID|AUT-2601-08342]]. Servicio de evaluación: [[KEEP|92523]]. Servicio terapéutico propuesto: [[KEEP|92507]], con modificador [[KEEP|GN]] cuando corresponda. Código diagnóstico utilizado: [[KEEP|F80.2]].
+
+MOTIVO DE REFERENCIA
+
+- La pediatra [[PROVIDER|Adriana Montes-Peña]] remitió a la paciente por dificultades para comprender instrucciones, combinar palabras y explicar acontecimientos. La madre, [[PARENT|Lucía Vargas-Lozano]], informó que las conversaciones suelen requerir preguntas adicionales, gestos y conocimiento previo del tema.
+- El padre, [[PARENT|Tomás de la Cruz]], desea que [[CHILD|María José]] pueda pedir ayuda, responder preguntas y participar en juegos familiares. Ambos padres describen avances recientes, pero observan frustración cuando otras personas no comprenden sus mensajes o cambian rápidamente de actividad.
+- La evaluación buscó describir habilidades en ambos idiomas, distinguir diferencias relacionadas con la exposición lingüística y establecer apoyos funcionales. También se examinó si los errores del habla limitaban la participación. Las conclusiones integran pruebas, observación, entrevista y respuesta a la enseñanza.
+
+FUENTES DE INFORMACIÓN
+
+- Se entrevistó a [[PARENT|Lucía Vargas-Lozano]] en español. [[PARENT|Tomás de la Cruz]] aportó información por teléfono el [[DATE|19 de enero de 2026]]. Los padres autorizaron revisar documentos escolares y antecedentes médicos incluidos en el expediente ficticio.
+- La maestra, Sra. [[TEACHER|Camila Robles]], completó un cuestionario sobre participación. La asistente, Sra. [[TEACHER|Paula Benítez]], describió las transiciones y el juego. Sus observaciones corresponden a [[SCHOOL|Centro Preescolar Puentes del Cedral]], ubicado en [[PLACE|Loma del Junco]].
+- La evaluadora revisó una nota de [[HOSPITAL|Hospital Infantil Riberas del Alba]] y un registro de [[AGENCY|CDSA del Valle del Junco]]. La coordinadora [[PROVIDER|Nora Estévez]] confirmó que el antiguo plan familiar cerró al terminar la elegibilidad correspondiente.
+- Los ejemplos familiares se consideran información aportada por los cuidadores. Los resultados obtenidos durante esta sesión se identifican como observaciones directas. Ninguna fuente se interpretó de manera aislada.
+
+ANTECEDENTES DEL DESARROLLO
+
+- Según la madre, [[CHILD|Marijo]] mostró interés temprano por las personas y disfrutaba canciones con movimientos. Usó gestos para pedir objetos antes de producir palabras frecuentes. Actualmente busca compañía, comparte materiales preferidos y necesita apoyo para mantener conversaciones sobre experiencias menos conocidas.
+- La familia recordó primeras palabras consistentes alrededor de los [[KEEP|20 meses]] y combinaciones espontáneas cerca de los [[KEEP|34 meses]]. Estas edades son aproximadas y proceden del recuerdo parental. No se informó pérdida de palabras, habilidades sociales ni capacidades motoras previamente adquiridas.
+- Caminó de manera independiente a los [[KEEP|15 meses]]. La madre describe autonomía creciente para vestirse y comer, con ayuda para organizar secuencias. Las dificultades comunicativas se hacen más visibles cuando una tarea contiene varias acciones o cuando falta una demostración.
+- Una evaluación temprana del [[DATE|9 de febrero de 2024]] documentó necesidades de comunicación. El IFSP del [[DATE|22 de febrero de 2024]] incluyó el resultado [[KEEP|2]], relacionado con pedir ayuda durante rutinas. El presente informe no supone que esa meta continúe vigente.
+
+HISTORIA DE NACIMIENTO Y MÉDICA
+
+- El embarazo presentó vigilancia adicional por presión arterial materna, según el relato familiar. El nacimiento ocurrió a las [[KEEP|38 semanas y 2 días]] de gestación, mediante cesárea programada. El peso al nacer fue de [[KEEP|3,120 gramos]].
+- Las puntuaciones Apgar registradas fueron [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos. La familia informó una estancia hospitalaria breve, sin ventilación asistida ni complicaciones neurológicas conocidas. Estos antecedentes proceden de la nota disponible y de la entrevista.
+- La pediatra [[PROVIDER|Adriana Montes-Peña]] realiza el seguimiento en [[HOSPITAL|Clínica Pediátrica Sendero Claro]]. Se informaron episodios de otitis durante la primera infancia. No se reportaron cirugías, convulsiones, traumatismos importantes ni medicamentos diarios.
+- La audióloga [[PROVIDER|Inés Valverde]] realizó una evaluación el [[DATE|7 de enero de 2026]] en [[HOSPITAL|Centro Auditivo Riberas del Alba]]. El resumen disponible describió audición suficiente para las tareas administradas. No se observaron dificultades evidentes para detectar la voz durante esta sesión.
+- La familia negó problemas actuales de masticación o deglución. El sueño varía cuando cambian los horarios laborales. No se administró una evaluación de alimentación; las conclusiones de este documento se limitan al habla, el lenguaje y la comunicación observados.
+
+HISTORIA FAMILIAR Y CUIDADOS
+
+- La paciente vive con su mamá [[PARENT|Lucía Vargas-Lozano]], su papá [[PARENT|Tomás de la Cruz]] y su hermano [[SIBLING|Emilio de la Cruz Vargas-Lozano]], de [[KEEP|7 años]]. La residencia familiar está en [[PLACE|1847 Camino del Sauzal]], [[PLACE|Loma del Junco]], condado de [[PLACE|Cedral]], [[PLACE|27001]].
+- [[PARENT|Lucía Vargas-Lozano]] trabaja en dos empleos: [[ORG|Mercado Colibrí del Bosque]] y [[ORG|LSR]]. Los turnos alternan. La familia solicita actividades breves que puedan incorporarse a comidas, traslados y juego, sin depender de materiales especiales.
+- La abuela [[FAMILY|Rosa del Río]] cuida a la paciente algunas tardes. La tía [[FAMILY|Irene Vargas-Lozano]] participa los fines de semana. La cuidadora [[FAMILY|Marta Solís]] acompaña las transiciones entre casa y preescolar cuando coinciden los horarios de ambos padres.
+- El hermano [[SIBLING|Emilio]] suele interpretar mensajes, pero también invita a su hermana a explicar lo que desea. Se recomendó darle tiempo para responder antes de intervenir. El perro familiar, [[PET|Nube]], aparece con frecuencia en sus juegos y relatos.
+- El vecino [[PERSON|Álvaro Castañeda]] facilita algunos traslados. La familia no informó antecedentes confirmados de trastornos del lenguaje, aunque describió familiares que comenzaron a hablar tarde. Ese relato no sustituye una evaluación de dichos familiares.
+
+HISTORIA DE IDIOMAS
+
+- El español predomina en conversaciones familiares, comidas, cuidados y visitas. El inglés aparece principalmente en el preescolar, canciones y actividades comunitarias. Los cuidadores describen oportunidades diarias en ambos idiomas, con interlocutores y demandas diferentes.
+- [[CHILD|María José]] responde con mayor facilidad en español cuando conversa sobre experiencias personales. En inglés utiliza expresiones escolares aprendidas y algunas palabras de juego. Puede cambiar de idioma dentro de una conversación sin perder la intención comunicativa.
+- La abuela [[FAMILY|Rosa del Río]] habla principalmente español. La maestra [[TEACHER|Camila Robles]] utiliza inglés y apoyos visuales. La asistente [[TEACHER|Paula Benítez]] ofrece aclaraciones en español cuando la actividad lo permite.
+- La familia no recibió una recomendación de abandonar ninguno de los idiomas. La evaluación consideró conocimientos distribuidos entre ambos y aceptó respuestas conceptualmente correctas cuando el procedimiento lo permitía. Las dificultades aparecieron también en situaciones familiares realizadas completamente en español.
+
+CONTEXTO EDUCATIVO Y SOCIAL
+
+- La paciente asiste a [[SCHOOL|Centro Preescolar Puentes del Cedral]]. Anteriormente recibió cuidados en [[DAYCARE|Guardería Semillas de Bruma]]. La adaptación actual es favorable, aunque necesita anticipación visual para cambios y apoyo verbal para participar en actividades de grupo.
+- Según la maestra [[TEACHER|Camila Robles]], sigue rutinas conocidas mejor que instrucciones nuevas. En cuentos compartidos señala imágenes, pero rara vez explica por qué ocurre un acontecimiento. Sus respuestas mejoran cuando el adulto reduce la longitud de la pregunta.
+- Durante el juego, busca a [[PEER|Ana Sofía Molina]] y a [[PEER|Diego Rivas-Cortés]]. Comparte objetos y acepta turnos breves. Si un compañero cambia las reglas, puede repetir su petición sin explicar el desacuerdo.
+- La amiga [[PEER|Ana Sofía]] suele ofrecer opciones que facilitan la respuesta. El compañero [[PEER|Diego]] disfruta juegos de construcción similares. El equipo escolar desea aumentar la independencia comunicativa y evitar que los compañeros asuman siempre la función de interpretar.
+
+OBSERVACIÓN DURANTE LA SESIÓN
+
+- [[CHILD|Marijo]] entró acompañada de su madre y exploró los materiales con interés. Aceptó sentarse después de una explicación breve y eligió actividades de cocina y animales. Se mantuvo participativa cuando pudo alternar movimiento y tareas de mesa.
+- Mostró contacto visual funcional, gestos claros y atención compartida. La participación disminuyó con preguntas largas o vocabulario desconocido. Las pausas y las demostraciones facilitaron el regreso a la actividad sin necesidad de retirar materiales preferidos.
+- En una conversación sobre su mascota dijo: "yo quiero que [[PET|Nube]] venga aquí". La frase incluyó una petición clara. En otro momento dijo: "[[PEER|Ana Sofía]] tiene mi taza". La evaluadora conservó esos nombres únicamente como ejemplos ficticios de referencias personales.
+- Cuando no comprendió una instrucción, miró a su madre o repitió la última palabra. Después de modelar una solicitud de aclaración, utilizó "[[KEEP|¿qué hago?]]" con [[KEEP|ayudas moderadas]]. No se observaron conductas que impidieran completar la evaluación.
+- La madre permaneció presente para apoyar la comodidad. La evaluadora evitó que las respuestas parentales sustituyeran las de la paciente. Algunas tareas se repitieron en una actividad diferente para comprobar si la dificultad dependía del material.
+
+PROCEDIMIENTOS Y CONSIDERACIONES
+
+- Se administró [[KEEP|PLS-5 Spanish]] siguiendo los procedimientos aplicables a las tareas seleccionadas. También se obtuvieron muestras de conversación y juego en español e inglés, una revisión del mecanismo oral y actividades de enseñanza breve con observación de la respuesta.
+- Las puntuaciones se presentan como datos simulados de este caso. La interpretación incorpora exposición lingüística, desempeño funcional y condiciones de administración. Ninguna puntuación, por sí sola, establece la naturaleza o gravedad de una dificultad.
+- La muestra de lenguaje se revisó con convenciones de [[KEEP|SALT]]. Los códigos [[KEEP|[EW]]] y [[KEEP|[EU]]] señalaron errores de palabra y de enunciado, respectivamente. Las producciones ambiguas se compararon con el contexto antes de asignar un código.
+- La evaluación dinámica utilizó demostración, práctica y nueva oportunidad. Se registraron [[KEEP|ayudas mínimas]], [[KEEP|ayudas moderadas]] y [[KEEP|ayudas máximas]] según la asistencia necesaria. Los resultados de estas actividades no se transformaron en puntuaciones normativas.
+
+RESULTADOS DE PRUEBAS
+
+- La siguiente tabla resume los resultados simulados de [[KEEP|PLS-5 Spanish]]. Los intervalos corresponden a un nivel de confianza de [[KEEP|90%]]. Las edades equivalentes describen resultados de la prueba y no representan una edad general de funcionamiento.
+
+  | Prueba o subprueba | Puntuación estándar | Percentil | Intervalo de confianza | Edad equivalente |
+  |---|---:|---:|---|---|
+  | [[KEEP|Comprensión auditiva]] | [[KEEP|78]] | [[KEEP|7]] | [[KEEP|73-85]] | [[KEEP|3;0]] |
+  | [[KEEP|Comunicación expresiva]] | [[KEEP|76]] | [[KEEP|5]] | [[KEEP|71-84]] | [[KEEP|2;10]] |
+  | [[KEEP|Lenguaje total]] | [[KEEP|75]] | [[KEEP|5]] | [[KEEP|70-82]] | [[KEEP|2;11]] |
+
+- El desempeño fue inferior a lo esperado para las demandas evaluadas. La diferencia entre áreas no se interpretó como una separación clínica clara. Las observaciones mostraron necesidades tanto para comprender relaciones lingüísticas como para formular mensajes completos.
+- En tareas descriptivas adicionales, el rendimiento varió según familiaridad, longitud de la instrucción y apoyo visual. Estos resultados complementan la tabla y no constituyen nuevas subpruebas estandarizadas.
+
+COMPRENSIÓN DEL LENGUAJE
+
+- Identificó objetos cotidianos y acciones familiares con precisión de [[KEEP|8/10]], equivalente a [[KEEP|80%]], sin demostración. Comprendió mejor instrucciones vinculadas con actividades presentes que preguntas sobre situaciones ausentes.
+- Siguió instrucciones de una acción en [[KEEP|9/10]] oportunidades. Para instrucciones de dos acciones relacionadas obtuvo [[KEEP|5/10]] con [[KEEP|ayudas mínimas]]. Después de una demostración alcanzó [[KEEP|8/10]] con [[KEEP|ayudas moderadas]].
+- Las relaciones espaciales "[[KEEP|dentro]]" y "[[KEEP|encima]]" fueron más consistentes que "[[KEEP|detrás]]" y "[[KEEP|entre]]". La selección de imágenes mejoró cuando la evaluadora presentó menos opciones y permitió manipular objetos.
+- Respondió preguntas concretas sobre personajes y acciones. Las preguntas de causa, secuencia y predicción requirieron apoyo. La dificultad persistió en español, incluso cuando las palabras individuales eran conocidas y el adulto había explicado el contexto.
+
+EXPRESIÓN DEL LENGUAJE
+
+- Produjo mensajes espontáneos para pedir, protestar, comentar y compartir interés. Usó más detalles durante el juego familiar que al describir imágenes nuevas. Las frases tendían a omitir información necesaria para un oyente que desconociera la situación.
+- En una escena de cocina dijo "[[KEEP|la niña quiere sopa]]". Al explicar un accidente produjo "[[KEEP|se cayó porque aquí]]", acompañando la frase con un gesto. La intención fue comprensible, pero la relación causal quedó incompleta.
+- La precisión para describir una acción con sujeto y verbo fue de [[KEEP|6/10]] sin modelo. Con [[KEEP|ayudas moderadas]] alcanzó [[KEEP|8/10]]. La transferencia a escenas nuevas fue parcial y requirió preguntas abiertas breves.
+- Se observaron omisiones variables de artículos y marcas gramaticales. La evaluadora consideró características del español familiar y exposición al inglés antes de interpretar cada ejemplo. Los patrones relevantes afectaron la claridad en ambos idiomas.
+- En una narración breve identificó el problema, pero no explicó de forma independiente la solución. Tras organizar imágenes, añadió información útil. La respuesta a la enseñanza indica capacidad de aprendizaje, junto con una necesidad actual de apoyo estructurado.
+
+HABLA Y MECANISMO ORAL
+
+- La revisión funcional mostró movilidad suficiente para las tareas observadas. No se identificaron señales evidentes de una dificultad estructural que explicara el patrón comunicativo. La voz y la fluidez permitieron participar; esta sesión no incluyó una evaluación especializada de esas áreas.
+- Se observaron sustituciones ocasionales de /[[KEEP|ɾ]]/ en palabras largas. En la palabra objetivo "[[KEEP|caro]]" produjo "[[KEEP|cado]]". Las consonantes [[KEEP|/k/]] y [[KEEP|/g/]] aparecieron en palabras familiares, aunque con variabilidad durante mensajes extensos.
+- En inglés apareció [[KEEP|[w]]] en lugar de [[KEEP|/ɹ/]] en algunas palabras. La evaluadora consideró edad, idioma y contexto. La inteligibilidad estimada para un oyente familiar fue de [[KEEP|80%]]; para un oyente menos familiar, de [[KEEP|65%]].
+- La necesidad principal observada correspondió al lenguaje. Se recomienda vigilar el habla durante intervención y ampliar la evaluación si los errores persisten, aumentan o limitan de manera importante la participación.
+
+IMPRESIONES CLÍNICAS
+
+- Los datos simulados son compatibles con un trastorno mixto del lenguaje receptivo y expresivo, identificado mediante [[KEEP|F80.2]]. Las dificultades afectan instrucciones nuevas, explicación de acontecimientos, organización de relatos y reparación de mensajes.
+- El bilingüismo forma parte del contexto comunicativo y no explica por sí solo las necesidades observadas. La paciente mostró fortalezas sociales, intención comunicativa, juego simbólico y respuesta favorable a modelos breves. Estas capacidades ofrecen una base útil para la intervención.
+- La información médica disponible no identifica una causa única. El funcionamiento puede variar con familiaridad, cansancio y apoyo. Se recomienda revisar el progreso mediante observaciones repetidas en casa, escuela y terapia.
+
+RECOMENDACIONES Y METAS
+
+- Iniciar terapia en [[EMPLOYER|Senderos de Voz]] con objetivos funcionales en ambos idiomas. Combinar sesiones directas y orientación familiar según disponibilidad. Incorporar estrategias de [[KEEP|Hanen]] y [[KEEP|estimulación focalizada]] dentro de juego, lectura y rutinas compartidas.
+- Mantener el español familiar y ofrecer oportunidades naturales de inglés. Hablar con claridad, esperar la respuesta y ampliar el mensaje sin exigir repetición constante. Modelar "[[KEEP|necesito ayuda]]" y "[[KEEP|dime otra vez]]" cuando surjan dificultades.
+- Meta [[KEEP|1]]: seguir instrucciones relacionadas de dos acciones con precisión de [[KEEP|80%]] y [[KEEP|ayudas mínimas]] durante actividades funcionales.
+- Meta [[KEEP|2]]: describir acciones con información suficiente para el oyente en [[KEEP|8/10]] oportunidades, con [[KEEP|ayudas mínimas]].
+- Meta [[KEEP|3]]: pedir aclaración o reparar un mensaje en [[KEEP|3 de 5]] oportunidades, con [[KEEP|ayudas moderadas]]. Registrar el contexto y reducir gradualmente la asistencia.
+- Compartir apoyos visuales con [[SCHOOL|Centro Preescolar Puentes del Cedral]]. La maestra [[TEACHER|Camila Robles]] puede anticipar vocabulario, dividir instrucciones y comprobar comprensión mediante acciones, evitando depender únicamente de respuestas afirmativas.
+
+SEGUIMIENTO Y FIRMA
+
+- Revisar objetivos el [[DATE|24 de abril de 2026]]. La cita provisional será a las [[TIME|3:30 p. m.]]. La familia podrá contactar a [[EMPLOYER|SVTPB]] mediante [[PHONE|(919) 555-0146]] para ajustar el horario.
+- Informe preparado y firmado electrónicamente por [[PROVIDER|Elena Salcedo-Márquez]], patóloga bilingüe del habla y del lenguaje pediátrico, de [[EMPLOYER|Senderos de Voz Terapia Pediátrica Bilingüe, PLLC]]. Identificador profesional ficticio: [[ID|NC-SLP-000742]]. Fecha de firma: [[DATE|23 de enero de 2026]].

@@ -1,0 +1,69 @@
+PLAN DE SERVICIOS FAMILIARES INDIVIDUALIZADO (IFSP) – REVISIÓN
+Programa de Intervención Temprana Infantil de Carolina del Norte (NC Infant-Toddler Program)
+
+Niña: [[CHILD|María José Hernández Morales]]
+Fecha de nacimiento: [[DATE|14 de enero de 2024]]
+ID Medicaid: [[MEDICAID_ID|MC0294817B]]
+Número de caso EI: [[ID|EI-48291]]
+Domicilio: [[PLACE|412 Calle Roble]], [[PLACE|Lexington]], [[PLACE|27292]], condado de [[PLACE|Davidson]]
+Coordinadora de servicios: [[PROVIDER|Gabriela Ríos]], [[AGENCY|CDSA del Suroeste]], tel. [[PHONE|(336) 555-0147]], correo [[EMAIL|gabriela.rios@cdsasuroeste.org]]
+Patóloga del habla-lenguaje: [[PROVIDER|Mariana Castillo]], CCC-SLP, bilingüe, bajo contrato con [[EMPLOYER|Piedmont Therapy Partners, PLLC]]
+Intérprete: [[PROVIDER|Rosa Elena Pacheco]] (español-inglés, presente durante toda la sesión)
+Fecha de la revisión: [[DATE|11 de marzo de 2026]]
+Tipo de visita: revisión semestral del IFSP, domicilio familiar
+
+S:
+Madre, [[PARENT|Lucía Morales Díaz]], y padre, [[PARENT|Javier Hernández Castro]], presentes todo el tiempo. Intérprete [[PROVIDER|Pacheco]] facilita toda la entrevista; la familia prefiere español en casa, inglés limitado. Madre refiere, con sus propias palabras: "[[CHILD|María José]] entiende casi todo lo que le decimos en español y en inglés, pero cuando quiere pedir algo se frustra porque no le salen las palabras, solo apunta o grita." Padre agrega: "En la guardería dicen que se queda callada, pero en casa con su hermana [[SIBLING|Sol]] habla más, aunque no se le entiende bien." Madre comenta también: "A veces pienso que es porque le hablamos en dos idiomas, pero el pediatra dijo que no es por eso."
+
+Prioridad #1 de la familia: que [[CHILD|María José]] pueda pedir comida y juguetes con palabras en vez de llanto o gritos. Prioridad #2: mejorar la inteligibilidad para que la [[FAMILY|abuela materna]] (quien la cuida tres tardes por semana mientras los padres trabajan) entienda sus necesidades sin que los padres traduzcan. Prioridad #3: preparar la transición a preescolar público a los tres años, dado que la familia no cuenta con transporte propio los días que no trabaja el padre.
+
+Rutina diaria: despierta aprox. [[TIME|6:30 a.m.]], desayuna en familia (cereal, huevo, a veces avena), va a [[DAYCARE|Guardería Pequeños Pasos]] de [[TIME|8:00 a.m.]] a [[TIME|4:00 p.m.]] mientras los padres trabajan — madre en turno de mañana en [[ORG|Food Lion #2458]], padre en turno de tarde en [[ORG|Tyson Foods, planta de Wilkesboro]]. Hermana mayor [[SIBLING|Sol Hernández Morales]] (7 a.) la recoge de la guardería algunos días junto con la [[FAMILY|abuela materna]], caminando desde la parada de autobús. Cena en familia aprox. [[TIME|6:00 p.m.]], rutina de baño y cuento antes de dormir aprox. [[TIME|8:00 p.m.]]. Padres refieren buen apetito, sueño estable sin despertares nocturnos frecuentes, y sin conductas repetitivas preocupantes. Juego preferido: bloques, cocina de plástico y un oso de peluche sin nombre asignado por la familia.
+
+Historia médica relevante por informe de los padres: nació a las [[KEEP|32 semanas]] de gestación en el [[HOSPITAL|Atrium Health Levine Children's Hospital, Campus Carolinas Medical Center]], ingresó a la unidad de cuidados intensivos neonatales por [[KEEP|18 días]] por dificultad respiratoria; Apgar [[KEEP|6]] al minuto y [[KEEP|8]] a los 5 minutos; peso al nacer [[KEEP|1,680 g]]. Seguimiento pediátrico actual con [[PROVIDER|Dra. Priya Nair]] en [[HOSPITAL|Atrium Health Pediatric Associates – Monroe]]; último chequeo [[DATE|2 de febrero de 2026]] sin hallazgos nuevos relevantes al habla-lenguaje. Evaluación audiológica reciente en [[HOSPITAL|Carolina ENT & Audiology – Pineville]] el [[DATE|20 de enero de 2026]]: audición dentro de límites normales bilateral, sin otitis media recurrente desde hace [[KEEP|6 meses]].
+
+La familia también recibe apoyo nutricional de [[AGENCY|WIC del condado de Davidson]] y está en lista de espera de [[AGENCY|Smart Start de Davidson]] para un cupo de preescolar subsidiado; una trabajadora social del [[AGENCY|Departamento de Servicios Sociales (DSS) de Davidson]] hace seguimiento del caso por tema de vivienda, sin impacto reportado en los servicios de intervención temprana. Terapeuta ocupacional, [[PROVIDER|Kayla Simmons]], y fisioterapeuta, [[PROVIDER|Brandon Lee]], continúan viendo a la niña semanalmente en el mismo domicilio; ambos reportan buen progreso motor grueso y fino, sin preocupaciones nuevas que afecten la terapia de lenguaje.
+
+O:
+Se administra [[KEEP|PLS-5]] (versión en español) con apoyo de la intérprete [[PROVIDER|Pacheco]]. Edad cronológica al momento de la prueba: [[KEEP|2;1]]. Niña cooperadora, buen contacto visual, requiere reorientación ocasional a la tarea con refuerzo tangible (galletas).
+
+Tabla de resultados:
+Fecha | Prueba/Subprueba | Puntaje estándar | IC 95%
+[[DATE|11/03/2026]] | [[KEEP|PLS-5]] [[KEEP|Comunicación Expresiva]] | [[KEEP|68]] | [[KEEP|61-75]]
+[[DATE|11/03/2026]] | [[KEEP|PLS-5]] [[KEEP|Comunicación Receptiva]] | [[KEEP|74]] | [[KEEP|67-81]]
+[[DATE|11/03/2026]] | [[KEEP|PLS-5]] [[KEEP|Lenguaje Total]] | [[KEEP|70]] | [[KEEP|64-76]]
+[[DATE|20/09/2025]] | [[KEEP|PLS-5]] [[KEEP|Lenguaje Total]] (línea base) | [[KEEP|58]] | [[KEEP|51-65]]
+
+Inventario de palabras funcionales (reporte de padres, [[KEEP|MacArthur-Bates CDI]] adaptado): [[KEEP|34 palabras]] producidas de forma espontánea, de las cuales [[KEEP|11]] son bilingües (equivalentes en ambos idiomas). MLU estimado en muestra de habla espontánea: [[KEEP|1.8 morfemas]]. Examen oromotor funcional dentro de límites normales; sin hallazgos de disfunción estructural.
+
+Muestra de habla conversacional (juego con bloques y comida de plástico), transcrita parcialmente en [[KEEP|SALT]]:
+- Pide bloque azul: "[[KEEP|má aú]]" por "más azul" ([[KEEP|2 of 3]] intentos ininteligibles para la intérprete sin contexto visual).
+- Nombra dibujo del sol como meta articulatoria del día — produce "[[KEEP|to]]" por [[KEEP|"sol"]] ([[KEEP|/s/]] omitido en posición inicial, patrón consistente en [[KEEP|3 of 5]] ensayos). Nota clínica: coincide fonéticamente con el nombre de la hermana [[SIBLING|Sol]], pero la palabra elicitada es el sustantivo común "sol" (astro); se mantiene como palabra meta por su estructura CVC y por el fonema inicial objetivo, no por referencia a la hermana.
+- Produce "[[KEEP|agua]]" de forma clara con [[KEEP|min cues]] cuando se le ofrece modelo visual.
+- [[KEEP|8/10]] ensayos de imitación directa de vocabulario funcional ("más", "no", "ayuda") logrados con [[KEEP|mod cues]].
+- Al mostrarle el oso de peluche sin nombre, produce "[[KEEP|o]]" por "oso" de forma consistente, omitiendo [[KEEP|/s/]] final.
+
+Inteligibilidad global estimada por la clínica en contexto conocido (padres): [[KEEP|40%]]; en contexto desconocido (intérprete, primera exposición): [[KEEP|15-20%]].
+
+Observación colateral en guardería el [[DATE|4 de marzo de 2026]]: maestra principal [[TEACHER|Ashley Monroe]] reporta que [[CHILD|María José]] participa en círculo con apoyo visual pero rara vez inicia lenguaje verbal con compañeros; se observó breve interacción con compañera [[PEER|Camila]] durante juego de cocina, intercambiando gestos más que palabras. Maestra auxiliar [[TEACHER|Dana Whitfield]] confirma el mismo patrón en actividades de merienda.
+
+A:
+[[CHILD|María José]] presenta retraso significativo de lenguaje expresivo y receptivo-expresivo mixto, consistente con diagnóstico de elegibilidad establecido ([[KEEP|ICD-10 F80.9]]) y continúa cumpliendo criterios de elegibilidad del NC Infant-Toddler Program por retraso de [[KEEP|25% o más]] en el dominio de comunicación (edad equivalente de lenguaje expresivo [[KEEP|11-13 meses]] frente a edad cronológica de [[KEEP|25 meses]]). Comparado con la línea base del [[DATE|20 de septiembre de 2025]], se observa mejora de [[KEEP|12 puntos]] en Lenguaje Total, lo que sugiere respuesta positiva a la intervención semanal y a las estrategias implementadas en el hogar (modelo de lenguaje dual, expansión, espera estructurada).
+
+El patrón fonológico de omisión de consonante inicial y final en el fonema [[KEEP|/s/]] (y en menor grado [[KEEP|/f/]] y [[KEEP|/t/]]) es consistente con un proceso fonológico normativo para la edad, pero merece monitoreo dado su impacto funcional en la inteligibilidad. El uso de la palabra meta "sol" durante la sesión ilustra la importancia de diferenciar contenido lingüístico objetivo de referencias reales a personas al momento de documentar; en este caso no hay superposición real, solo coincidencia léxica con el nombre de la hermana de la niña.
+
+Participación familiar consistente y de alta calidad; la madre y el padre implementan estrategias de espera estructurada y modelado con buena fidelidad según el reporte y la observación directa de hoy. Existe riesgo de retraso secundario en alfabetización temprana si no se aborda la inteligibilidad antes de la transición a preescolar. El bilingüismo del hogar no se considera factor de riesgo adicional; se recomienda mantener ambos idiomas.
+
+P:
+Continuar servicio de patología del habla-lenguaje: [[KEEP|60 minutos]] semanales, modelo bilingüe, en el domicilio familiar y coordinado con [[DAYCARE|Guardería Pequeños Pasos]], bajo [[KEEP|CPT 92507]], autorización vigente hasta el [[DATE|30 de junio de 2026]].
+
+[[KEEP|Resultado 1]] (comunicación funcional): [[CHILD|María José]] usará [[KEEP|10]] palabras o aproximaciones espontáneas para pedir objetos o comida en el hogar y la guardería, en [[KEEP|4 of 5]] oportunidades observadas, para el [[DATE|11 de septiembre de 2026]]. Estrategias: modelo de lenguaje dual español-inglés, espera estructurada de [[KEEP|5 segundos]], refuerzo natural inmediato ante cualquier aproximación verbal, entrenamiento a cuidadores incluyendo a la [[FAMILY|abuela materna]].
+
+[[KEEP|Resultado 2]] (inteligibilidad): Aumentar la inteligibilidad global en contexto conocido de [[KEEP|40%]] a [[KEEP|60%]] mediante práctica de patrones silábicos CV y CVC con énfasis en los fonemas iniciales y finales [[KEEP|/s/, /f/, /t/]], usando apoyo de [[KEEP|PROMPT]] táctil y claves auditivas, revisado para el [[DATE|11 de septiembre de 2026]].
+
+[[KEEP|Resultado 3]] (transición): Coordinar con el equipo de la guardería y con [[AGENCY|CDSA del Suroeste]] la evaluación de elegibilidad para servicios de educación especial preescolar antes del tercer cumpleaños de [[CHILD|María José]]; la coordinadora [[PROVIDER|Gabriela Ríos]] enviará el referido formal el [[DATE|1 de mayo de 2026]] y notificará a la familia por teléfono o correo.
+
+Coordinación continua con la terapeuta ocupacional [[PROVIDER|Kayla Simmons]] y el fisioterapeuta [[PROVIDER|Brandon Lee]] para abordar metas motoras compartidas durante el juego funcional. Seguimiento con la pediatra [[PROVIDER|Dra. Priya Nair]] según indicado; se solicitará re-evaluación audiológica en [[HOSPITAL|Carolina ENT & Audiology – Pineville]] si no hay progreso esperado en inteligibilidad para la próxima revisión.
+
+Próxima revisión de IFSP programada para el [[DATE|10 de septiembre de 2026]]. Los padres firman consentimiento informado para la continuidad de los servicios; la intérprete [[PROVIDER|Rosa Elena Pacheco]] certifica la comprensión plena del contenido por parte de la familia. Se entrega copia impresa en español a la familia y copia digital a la coordinadora de servicios.
+
+Nota clínica firmada electrónicamente por [[PROVIDER|Mariana Castillo]], CCC-SLP, el [[DATE|11 de marzo de 2026]].

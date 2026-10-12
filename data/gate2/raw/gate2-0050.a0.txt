@@ -1,0 +1,106 @@
+NC Infant-Toddler Program — IFSP Review / Revisión del plan familiar  
+FICTIONAL TRAINING DOCUMENT — all people, organizations, locations, and records below are invented.
+
+**Información familiar y datos del encuentro**
+
+Pt: [[CHILD|Nicolás Rivera Montes]]; preferred name [[CHILD|Nico]]; DOB [[DATE|May 10, 2024]]; current age [[KEEP|29 months]]. Review completed [[DATE|October 10, 2026]], [[TIME|10:00 AM]]–[[TIME|11:15 AM]], at family home. Initial IFSP: [[DATE|July 10, 2026]]. Child record: [[ID|JH-ITP-260741]]; Medicaid: [[MEDICAID_ID|642019835Q]]; authorization: [[ID|ST-26-084219]].
+
+Address: [[PLACE|418 Lantern Fern Lane]], [[PLACE|Juniper Hollow]], NC [[PLACE|27900]], [[PLACE|Fernwater County]]. Mom: [[PARENT|Elena Rivera Montes]]; Dad: [[PARENT|Diego Montes Salas]]. Family phone: [[PHONE|919-555-0147]]; backup: [[PHONE|252-555-0126]]. Email: [[EMAIL|elena.rivera@example.invalid]]. Spanish preferred for discussion; English acceptable for brief scheduling texts. CG requested written summaries in both languages. No interpreter needed today; clinician conducted the visit bilingually. Parents reviewed contact details verbally.
+
+**Equipo y coordinación**
+
+Author: [[PROVIDER|Marisol Vega Serrano]], MS, CCC-SLP, bilingual pediatric SLP, employed by [[EMPLOYER|Sendero Claro Pediatric Communication Therapy, PLLC]]. Employer also uses [[EMPLOYER|Sendero Claro Therapy]] and [[EMPLOYER|SCPT]] on visit notes.
+
+Service coordinator: [[PROVIDER|Ana Beltrán Soto]], with [[AGENCY|Agencia Comunitaria de Coordinación de Servicios para Familias y Niños Pequeños de Fernwater]], short form [[AGENCY|Coordinación Fernwater]]. CDSA office: [[AGENCY|Oficina de Servicios de Desarrollo Infantil y Apoyo a Familias de Juniper Hollow]], short form [[AGENCY|CDSA Juniper Hollow]].
+
+Present: pt, both parents, sister [[SIBLING|Sol Montes Rivera]], and maternal aunt [[FAMILY|Luz Rivera Peña]]. Coordinator joined by secure audio. Family identified aunt as the regular backup CG. Dad requested practice examples he can use without reading a lengthy handout. SLP confirmed that routine participation remains the plan’s focus.
+
+**Historia y salud**
+
+Pregnancy reportedly uncomplicated; gestational age [[KEEP|38 weeks, 4 days]]; birth weight [[KEEP|6 lb 9 oz]]. Birth hospital: [[HOSPITAL|Fernwater Family Birth Hospital]]. Apgar scores: [[KEEP|8]] and [[KEEP|9]]. PCP: Dr. [[PROVIDER|Tomás Cárdenas Ruiz]], at [[HOSPITAL|Juniper Hollow Pediatric Health Center]]. Hearing screening completed [[DATE|September 2, 2026]]; report documented a pass bilaterally.
+
+Mom denied recent ear infections, swallowing concerns, or loss of previously used skills. Pt accepts varied textures but leaves the table when demands increase. Sleep varies b/c Mom’s work schedule changes. No current medication reported. Clinical diagnosis listed as [[KEEP|F80.2]] for mixed receptive-expressive language disorder. SLP explained that the diagnosis supports service documentation; daily participation and family priorities guide intervention.
+
+**Evaluación / communication profile**
+
+Evaluation on [[DATE|September 18, 2026]] included caregiver interview, play observation, and [[KEEP|PLS-5 Spanish]]. Pt was [[KEEP|28 months]] at testing. [[KEEP|Auditory Comprehension]] standard score [[KEEP|78]], [[KEEP|7th percentile]], [[KEEP|90% confidence interval]] [[KEEP|73–85]], age equivalent [[KEEP|22 months]]. [[KEEP|Expressive Communication]] standard score [[KEEP|74]], [[KEEP|4th percentile]], [[KEEP|90% confidence interval]] [[KEEP|69–82]], age equivalent [[KEEP|20 months]]. [[KEEP|Total Language]] standard score [[KEEP|75]], [[KEEP|5th percentile]], [[KEEP|90% confidence interval]] [[KEEP|70–82]].
+
+Scores were considered alongside bilingual exposure and functional observations. Pt followed familiar directions in [[KEEP|6/10]] opportunities w/ [[KEEP|mod cues]]. Independent requests occurred in [[KEEP|3 of 10]] opportunities. Productions included [[KEEP|"ma"]], [[KEEP|"agua"]], [[KEEP|"go"]], and [[KEEP|"no mío"]]. Sample included final consonant omission coded [[KEEP|[EW]]]. Observed substitutions included [[KEEP|[w]]] for [[KEEP|/l/]]; no direct articulation goal established. Pt used pointing, shared gaze, and bringing objects to adults. Communication increased when adults paused and followed his play choices.
+
+**Preocupaciones y prioridades — family’s own words**
+
+Mom: “Yo quiero que [[CHILD|Nico]] me diga qué necesita. Sometimes he pulls my hand y después llora because I guess wrong.”
+
+Dad: “At dinner, quiero escuchar [[KEEP|"más"]], [[KEEP|"ayuda"]], or anything clear. No tiene que ser perfecto. I want him included when everyone talks.”
+
+Aunt [[FAMILY|Luz]]: “Cuando vamos afuera, he runs toward the gate. Quiero que entienda [[KEEP|"espera"]] y que pueda pedir salir.”
+
+Mom works nights at [[ORG|Lantern Basket Foods Cooperative]] as a grocery stock clerk. She stated, “Llego cansada, so give me something corto that fits breakfast.”
+
+Parents prioritized requesting help, joining meals, understanding transition language, and participating w/ sister. They declined adding separate drill time. Both requested strategies that feel natural in Spanish and English.
+
+**Rutinas: mañana, comida y descanso**
+
+Breakfast usually begins around [[TIME|8:15 AM]]. Mom prepares oatmeal while Dad packs lunch. Pt points toward preferred items and may push away an unwanted bowl. CG currently asks several questions quickly; pt often leaves before answering. Plan: offer visible choices, pause, and accept a gesture plus vocalization. Model [[KEEP|"más avena"]] or [[KEEP|"more oats"]] once, then respond.
+
+Lunch occurs at approx [[TIME|12:00 PM]] w/ aunt. Pt sits longer when he helps carry his cup. Family will use this helper role before meals. Nap begins around [[TIME|1:30 PM]]; pt needs predictable cleanup and a familiar book. CG will give one short direction, show the object, and allow processing time. Family wants flexible language choices based on who is present and what feels comfortable.
+
+**Rutinas: juego, comunidad y cuidado infantil**
+
+Pt attends [[DAYCARE|Little Lantern Meadow Childcare]] on selected weekdays. Teacher Ms. [[TEACHER|Julia Paredes]] reports that pt watches peers [[PEER|Ari Molina]] and [[PEER|Maya Chen]] before joining block play. Classroom aide [[TEACHER|Owen Mercer]] supports transitions w/ pictures. Staff report crying when another child takes a preferred truck.
+
+At home, sister [[SIBLING|Sol]] enjoys pretend kitchen play; pt joins briefly when she offers a spoon. Family dog [[PET|Chispa]] sometimes interrupts floor play. CG will move play materials away from the dog’s resting area.
+
+Evening bath begins near [[TIME|7:15 PM]]. Dad described bath play as the easiest routine for shared attention. Weekend library visits are variable; family prefers practicing during ordinary errands before adding another scheduled activity.
+
+**Otras agencias y recursos**
+
+[[AGENCY|Departamento de Servicios Sociales de Fernwater]] / [[AGENCY|DSS Fernwater]] provides benefits case support; worker [[PERSON|Lidia Moss]] is the family’s contact. [[AGENCY|Programa de Nutrición para Mujeres, Bebés y Niños de Juniper Hollow]] / [[AGENCY|WIC Juniper Hollow]] provides nutrition appointments. [[AGENCY|Fernwater Smart Start Family Partnership]] / [[AGENCY|Smart Start Fernwater]] supplies lending-library toys and parenting groups.
+
+[[AGENCY|Juniper Hollow Early Head Start Collaborative]] / [[AGENCY|Early Head Start Juniper Hollow]] accepted a referral; enrollment remains pending per Mom. Coordinator will verify availability. Parents authorized communication about routines and IFSP supports only. No agency attendance requirement was added. Family asked that appointments be grouped when possible because transportation depends on one shared vehicle. Coordinator documented this preference.
+
+**Outcome [[KEEP|1]] — Pedir ayuda y cosas necesarias**
+
+By [[DATE|January 8, 2027]], pt will request a desired item, action, or help during breakfast and play using a word, word approximation, gesture, or picture in [[KEEP|8/10]] opportunities across consecutive routine samples. Baseline: [[KEEP|3/10]] w/ [[KEEP|mod cues]].
+
+Strategies: CG places desired items within view, offers a meaningful choice, waits, and responds promptly. Use [[KEEP|Enhanced Milieu Teaching]] and [[KEEP|focused stimulation]] during existing routines. Targets: [[KEEP|"ayuda"]], [[KEEP|"help"]], [[KEEP|"abre"]], and [[KEEP|"open"]]. Adults accept either language and avoid requiring repetition before meeting the request.
+
+SLP will coach parents to distinguish an independent request from an imitated response. Mom will note brief examples after breakfast when feasible. Success means fewer unresolved requests and easier participation, not a required spoken phrase length. Gestures remain valid communication.
+
+**Outcome [[KEEP|2]] — Compartir la comida y el juego**
+
+By [[DATE|January 8, 2027]], pt will participate in reciprocal exchanges during meals or pretend play for [[KEEP|3 of 5]] opportunities w/ [[KEEP|min cues]]. Baseline: [[KEEP|1 of 5]] w/ [[KEEP|max cues]].
+
+CG follows pt’s interest, comments briefly, and leaves space for a response. Use [[KEEP|Hanen]] interaction strategies and [[KEEP|naturalistic language intervention]]. Model targets [[KEEP|"mi turno"]], [[KEEP|"your turn"]], [[KEEP|"rico"]], and [[KEEP|"eat"]]. A response may be looking, giving an object, gesturing, or vocalizing.
+
+Dad will practice during bath and dinner. Sister may participate voluntarily; adults remain responsible for support. SLP will demonstrate, observe CG practice, and offer feedback. Family selected this outcome because shared routines currently stop when adults increase questions or expect a spoken answer immediately.
+
+**Outcome [[KEEP|3]] — Transiciones con menos frustración**
+
+By [[DATE|January 8, 2027]], pt will follow a familiar transition direction and communicate acceptance, refusal, or need for help in [[KEEP|4/5]] opportunities w/ [[KEEP|mod cues]]. Baseline: [[KEEP|2/5]] w/ [[KEEP|max cues]].
+
+CG uses a consistent picture, short spoken cue, and advance notice before cleanup, handwashing, or leaving home. Targets include [[KEEP|"espera"]], [[KEEP|"wait"]], [[KEEP|"all done"]], and [[KEEP|"terminé"]]. Adults acknowledge refusal and offer supported choices when possible.
+
+SLP will coordinate picture use across home and childcare. Staff will document which supports help pt enter the next activity. Communication practice does not replace direct adult supervision near exits. Family will judge progress by participation and recovery during transitions, alongside the opportunity counts. Coordinator will check whether materials are accessible to each CG.
+
+**Outcome [[KEEP|4]] — Caregiver confidence across languages**
+
+By [[DATE|January 8, 2027]], parents and backup CG will demonstrate the agreed strategies in [[KEEP|80%]] of observed opportunities during a selected routine w/ [[KEEP|min cues]]. Baseline: [[KEEP|40%]] w/ [[KEEP|mod cues]].
+
+SLP will use [[KEEP|caregiver coaching]]: joint planning, observation, supported practice, reflection, and feedback. Adults may model in Spanish, English, or a natural mix. Example adult target: [[KEEP|"abre, open the box"]]. SLP will explain that family members do not need to translate every utterance.
+
+CG will identify what worked and choose the next small adjustment. Written reminders will use pictures and brief bilingual phrases. Family requested feedback without correction in front of visitors; clinician agreed to discuss detailed coaching privately.
+
+**Servicios y fechas**
+
+Speech-language services through [[EMPLOYER|Sendero Claro Therapy]]: [[KEEP|1x/week]], approx 45 minutes, home or childcare according to the agreed routine. Start [[DATE|October 15, 2026]]; planned end [[DATE|January 8, 2027]]. Rendering provider: [[PROVIDER|Marisol Vega Serrano]]. Billing code [[KEEP|92507]]; modifier [[KEEP|GN]]. Scheduling: [[PHONE|919-555-0182]]; clinician email [[EMAIL|m.vega@example.invalid]].
+
+Service coordination through [[AGENCY|Coordinación Fernwater]] remains monthly and as needed, from [[DATE|October 10, 2026]] through [[DATE|January 8, 2027]]. [[AGENCY|CDSA Juniper Hollow]] retains IFSP oversight. No additional therapy was requested today. Visits will occur in natural environments identified by the family. Coordinator will document changes in location, provider availability, or family preference before revising the service grid.
+
+**Revisión, consentimiento y próximos pasos**
+
+Today’s coaching sample showed independent requests in [[KEEP|5/10]] opportunities after CG slowed questions. This sample reflects one visit; the team will check carryover across routines. Mom stated, “Así sí puedo hacerlo; poquito durante el día.” Dad selected bath play for his practice routine.
+
+Parents verbally agreed to the outcomes and service schedule; signatures remain pending on the fictional review form. Coordinator will obtain signatures and share the bilingual summary. Next review: [[DATE|January 8, 2027]], [[TIME|10:00 AM]]. Family requested a reminder before the visit.
+
+Prepared by [[PROVIDER|Marisol Vega Serrano]], bilingual pediatric SLP, [[EMPLOYER|SCPT]]. Documentation completed [[DATE|October 10, 2026]]. Family received the plan and contact information.

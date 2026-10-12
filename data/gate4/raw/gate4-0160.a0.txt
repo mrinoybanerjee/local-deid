@@ -1,0 +1,136 @@
+Document type: IFSP review / Revisión del plan familiar
+Record status: Synthetic training document; all personal and service details are fictional
+Program: [[AGENCY|NC Infant-Toddler Program]]
+CDSA office: [[AGENCY|Sendero Infantil CDSA]]
+Child: [[CHILD|Nicolás Aranda Solís]]
+Preferred name: [[CHILD|Nico]]
+Date of birth: [[DATE|August 6, 2024]]
+Review date: [[DATE|October 6, 2026]]
+Current age: [[KEEP|26 months]]
+Original IFSP date: [[DATE|April 9, 2026]]
+Next review: [[DATE|April 6, 2027]]
+Child record number: [[ID|SI-260409-4827]]
+Medicaid member number: [[MEDICAID_ID|684209731R]]
+Service authorization: [[ID|ST-261012-5398]]
+Parents: [[PARENT|Mariela Solís Vega]] and [[PARENT|Esteban Aranda Ruiz]]
+Home address: [[PLACE|427 Lantern Finch Lane]], [[PLACE|Briar Mesa]], North Carolina [[PLACE|27864]]
+County: [[PLACE|Fern Hollow County]]
+Family telephone: [[PHONE|252-555-0146]]
+Family email: [[EMAIL|mariela.solis@example.com]]
+Service coordinator: [[PROVIDER|Tessa Norwood]], early intervention service coordinator
+Coordinator telephone: [[PHONE|252-555-0178]]
+Review author: [[PROVIDER|Elena Maravilla]], MS, CCC-SLP, bilingual pediatric speech-language pathologist
+Clinician employer: [[EMPLOYER|Juniper Puente Pediatric Therapy]]
+Employer telephone: [[PHONE|919-555-0132]]
+Employer website: [[URL|https://juniperpuente.example.com]]
+Languages used: Spanish and English
+Interpreter: [[PROVIDER|Camila Rosales]], Spanish-English interpreter
+
+FAMILY INFORMATION / INFORMACIÓN DE LA FAMILIA
+
+[[CHILD|Nicolás Aranda Solís]] lives with both parents, his sister [[SIBLING|Lía Aranda Solís]], and his maternal grandmother, [[FAMILY|Rosa Vega Molina]]. His sister is [[KEEP|6 years]] old. His grandmother provides care during the overlap between the parents’ work schedules. An aunt, [[FAMILY|Inés Solís Vega]], sometimes helps with transportation. The family’s dog, [[PET|Chispa]], stays behind a gate during visits because the child becomes distracted when the dog brings toys.
+
+The family primarily uses Spanish at home. English is also part of daily life through childcare, songs, and neighborhood activities. Both parents want communication support in both languages. They do not want relatives to stop speaking Spanish. La familia quiere que las estrategias funcionen con las personas que realmente cuidan al niño.
+
+His mother works at [[ORG|Moss Lantern Packaging]]. His father works at [[ORG|Cedar Spoon Foods]]. Their shifts vary, so appointment reminders should go to both parents when possible. Telephone contact is preferred over portal messages.
+
+The family identifies its hometown village as [[PLACE|El Pinar de las Garzas]], Mexico. A grandmother’s mailing address there is [[PLACE|Calle Jacaranda 18, Barrio La Loma]], [[PLACE|El Pinar de las Garzas]]. Family video calls support connection with paternal grandmother [[FAMILY|Ofelia Ruiz Campos]]. The parents want their child to participate in those calls without pressure to perform.
+
+PARTICIPANTS AND FAMILY VOICE / LO QUE NOS IMPORTA
+
+The review included the parents, grandmother, service coordinator [[PROVIDER|Tessa Norwood]], and speech-language pathologist [[PROVIDER|Elena Maravilla]]. Interpreter [[PROVIDER|Camila Rosales]] supported discussion of service terms and scheduling. The clinician provided direct bilingual assessment and coaching. The interpreter did not supply answers during testing.
+
+Su mamá [[PARENT|Mariela Solís Vega]] stated, “Quiero entender lo que necesita antes de que se enoje. Sometimes I know he wants something, pero no sé qué. I want him to ask for help when I am cooking.”
+
+His father, [[PARENT|Esteban Aranda Ruiz]], stated, “Para mí, lo primero es que pueda jugar con otros niños. He takes the truck because he cannot explain. We need something simple that I can practice after work.”
+
+His grandmother, [[FAMILY|Rosa Vega Molina]], stated, “No quiero convertir todo el día en tarea. Podemos practicar cuando comemos, cuando guardamos los juguetes, y cuando vamos afuera.”
+
+The family selected three priorities: requesting help, joining play, and moving through daily transitions. They want adults to notice gestures and sounds as communication. They also want childcare staff to respond consistently. The parents declined a separate homework packet because loose papers are difficult to track. They requested a short picture card and one practical idea after each visit.
+
+DEVELOPMENTAL INFORMATION / INFORMACIÓN DEL DESARROLLO
+
+Parent report describes birth at [[KEEP|39 weeks, 2 days]] gestation, birth weight [[KEEP|3,180 g]], and Apgar scores of [[KEEP|8]] and [[KEEP|9]]. No prolonged newborn admission was reported. Pediatrician Dr. [[PROVIDER|Maren Whitcomb]] at [[HOSPITAL|Fern Hollow Children’s Clinic]] follows routine health needs. A hearing screening completed on [[DATE|September 18, 2026]] documented a pass in both ears. This review does not replace medical follow-up.
+
+The bilingual language evaluation on [[DATE|September 29, 2026]] included the [[KEEP|PLS-5 Spanish]]. Recorded standard scores were [[KEEP|81]] for [[KEEP|Auditory Comprehension]], [[KEEP|77]] for [[KEEP|Expressive Communication]], and [[KEEP|78]] for [[KEEP|Total Language]]. The corresponding percentiles were [[KEEP|10th percentile]], [[KEEP|6th percentile]], and [[KEEP|7th percentile]]. The report listed a [[KEEP|90% confidence interval]] of [[KEEP|73–85]] for the overall score.
+
+These results were considered with caregiver interviews and observations in both languages. The clinician did not treat English performance alone as the child’s full language ability. Skills varied with familiarity, adult pacing, and access to meaningful objects.
+
+During play, he used gestures, vocalizations, and several words. Observed productions included [[KEEP|"agua"]], [[KEEP|"más"]], [[KEEP|"up"]], and [[KEEP|"no"]]. He approximated [[KEEP|"perro"]] as [[KEEP|"peo"]]. The clinician heard [[:KEEP|placeholder]] only as a documentation error; the actual recorded sound was [[KEEP|[w]]] during an attempt at [[KEEP|"water"]]. Production of [[KEEP|/ɾ/]] was not an IFSP target.
+
+Following familiar directions was more consistent when the adult paused and pointed. He completed [[KEEP|4 of 6]] routine directions with [[KEEP|min cues]]. He requested help in [[KEEP|2/8]] observed opportunities with [[KEEP|mod cues]]. These observations describe this visit and do not establish performance across every setting.
+
+DAILY ROUTINES / ASÍ ES NUESTRO DÍA
+
+Morning begins around [[TIME|6:45 a.m.]]. His mother prepares breakfast while his grandmother helps with dressing. The child brings shoes to an adult but may cry when a sleeve catches. Adults often solve the problem before he can signal. The family will place needed items within view and wait briefly for a gesture, sound, or word.
+
+Breakfast usually includes fruit, eggs, or cereal. He points toward preferred food and pushes away unwanted items. The family wants to practice [[KEEP|"más"]], [[KEEP|"all done"]], and [[KEEP|"ayuda"]] without requiring a spoken word before offering food. Se acepta señalar, mirar, o intentar una palabra.
+
+Childcare runs from [[TIME|8:15 a.m.]] to [[TIME|3:15 p.m.]] at [[DAYCARE|Little Acorn Path Childcare]]. Lead teacher Ms. [[TEACHER|Dana Pruitt]] and assistant teacher Mr. [[TEACHER|Emilio Castañeda]] report that transitions are hardest when preferred trucks must be put away. Peer [[PEER|Milo Finch]] often joins truck play. Another peer, [[PEER|Ariana Bell]], enjoys pretend cooking. Staff will model a short request and offer a turn without asking peers to act as therapists.
+
+Afternoon pickup is usually with his grandmother. At home, outdoor play happens before dinner when weather permits. He enjoys bubbles and carrying leaves in a bucket. His father can practice communication during this routine without arranging a separate activity.
+
+Dinner begins near [[TIME|6:15 p.m.]]. Bath and bedtime follow. His sister likes to sing and offer choices between books. Adults will protect her own play time and keep participation optional. During the visit, he said, “[[SIBLING|Lía]] ven,” while carrying a book toward her.
+
+COMMUNITY SUPPORTS / APOYOS Y OTRAS AGENCIAS
+
+The family uses [[AGENCY|Fern Hollow WIC]] for nutrition support and [[AGENCY|Bright Steps Smart Start]] for family activity information. These services remain separate from the therapy authorization. The service coordinator will confirm contact preferences before arranging any joint discussion.
+
+The family attends the bilingual story group at [[AGENCY|Briar Mesa Public Library]]. Librarian [[PERSON|Nora Bellamy]] welcomes movement breaks and lets families borrow picture books. The parents value this group because attendance is flexible.
+
+They also visit [[AGENCY|Open Lantern Community Center]] for free indoor play. Neighbor [[PERSON|Jules Mercer]] sometimes accompanies the family. The grandmother described the center as “un lugar donde podemos jugar sin comprar nada.”
+
+Childcare consultation will focus on the same routines used at home. The parents agreed that the service coordinator may share the signed service summary with the childcare program. Detailed evaluation records will remain subject to the family’s separate release choices.
+
+OUTCOME [[KEEP|1]] / PEDIR AYUDA EN LAS RUTINAS
+
+The family wants the child to communicate a need before frustration interrupts dressing, meals, or play. By [[DATE|January 12, 2027]], he will use a gesture, picture, sign, word, or short phrase to request help in [[KEEP|4 of 5]] natural opportunities across three familiar routines. Success will be observed with [[KEEP|min cues]] over two consecutive weeks, based on caregiver notes and provider observation.
+
+Strategies: Adults will pause when a familiar problem occurs, stay nearby, and model [[KEEP|"ayuda"]] or [[KEEP|"help"]]. They will respond to an intentional look, reach, gesture, or vocal attempt. Adults will avoid repeatedly withholding an item to create extra trials. The clinician will use [[KEEP|Enhanced Milieu Teaching]] within activities the family already enjoys.
+
+Progress: The family reports more pointing toward containers, but spoken requests remain inconsistent. At review, help requests occurred in [[KEEP|3/7]] opportunities with [[KEEP|mod cues]]. The outcome remains active. The next visit will focus on helping adults recognize early requests before crying begins.
+
+OUTCOME [[KEEP|2]] / PARTICIPAR EN EL JUEGO
+
+The family wants the child to join short play exchanges with adults and other children. By [[DATE|February 9, 2027]], he will participate in three back-and-forth turns during a familiar game in [[KEEP|4/5]] opportunities, with [[KEEP|min cues]], across home and childcare observations.
+
+Strategies: Adults will sit at the child’s level, copy an action, and wait for a response. Models will include [[KEEP|"my turn"]], [[KEEP|"tu turno"]], and [[KEEP|"go"]]. A gesture or action counts as a turn. Adults will use duplicate toys when sharing one object causes distress. The clinician will demonstrate [[KEEP|focused stimulation]] with a small set of useful words.
+
+Progress: Exchanges are strongest with bubbles and rolling a truck. During the review, he completed three turns in [[KEEP|3 of 5]] opportunities with [[KEEP|mod cues]]. His father reported that waiting quietly worked better than asking several questions. Childcare staff will try the same approach during a brief truck activity before adding another game.
+
+OUTCOME [[KEEP|3]] / CAMBIAR DE ACTIVIDAD CON APOYO
+
+The family wants transitions to feel predictable and manageable. By [[DATE|March 9, 2027]], the child will move between two familiar activities using a picture, gesture, or spoken message in [[KEEP|80%]] of observed opportunities, with [[KEEP|min cues]], across two weeks.
+
+Strategies: Adults will show what comes next, give a short warning, and offer one manageable choice. Suggested models are [[KEEP|"one more"]], [[KEEP|"terminamos"]], and [[KEEP|"vamos afuera"]]. Adults will acknowledge distress and remain available. They will avoid treating silence or compliance as the only sign of success.
+
+Occupational therapist [[PROVIDER|Priya Sen]] will help adapt dressing and cleanup routines. Physical therapist [[PROVIDER|Owen Calder]] will review access to the outdoor step and stable play positions. Communication support will continue during movement.
+
+Progress: Transitions improved when the next activity was visible. Review observations showed success in [[KEEP|2/5]] opportunities with [[KEEP|max cues]]. The team will simplify the picture support before increasing expectations.
+
+SERVICE PLAN / FECHAS Y HORARIOS
+
+The updated service period begins [[DATE|October 12, 2026]] and ends [[DATE|April 6, 2027]]. Speech-language services will occur weekly for 45 minutes. Occupational therapy will occur every other week for 45 minutes. Physical therapy consultation will occur monthly for 30 minutes. Service coordination will occur monthly and as needed.
+
+| Service and provider | Day | Start | Stop | Location |
+|---|---|---|---|---|
+| Speech-language therapy, [[PROVIDER|Elena Maravilla]] | Tuesday | [[TIME|4:15 p.m.]] | [[TIME|5:00 p.m.]] | Family home, [[PLACE|427 Lantern Finch Lane]] |
+| Occupational therapy, [[PROVIDER|Priya Sen]] | Thursday, alternate weeks | [[TIME|4:00 p.m.]] | [[TIME|4:45 p.m.]] | Family home, [[PLACE|427 Lantern Finch Lane]] |
+| Physical therapy consultation, [[PROVIDER|Owen Calder]] | First Wednesday monthly | [[TIME|9:00 a.m.]] | [[TIME|9:30 a.m.]] | [[DAYCARE|Little Acorn Path Childcare]] |
+| Service coordination, [[PROVIDER|Tessa Norwood]] | Second Monday monthly | [[TIME|12:15 p.m.]] | [[TIME|12:45 p.m.]] | Telephone with family |
+
+The first speech visit is scheduled for [[DATE|October 13, 2026]]. Occupational therapy begins [[DATE|October 15, 2026]]. Physical therapy consultation is scheduled for [[DATE|November 4, 2026]]. Interpreter [[PROVIDER|Camila Rosales]] is available for coordination calls when requested.
+
+Planned speech billing includes CPT [[KEEP|92507]] with modifier [[KEEP|GN]]. The documented communication diagnosis is ICD-10 [[KEEP|F80.2]]. Billing codes do not determine the family’s daily strategies.
+
+FOLLOW-UP / PRÓXIMOS PASOS
+
+The coordinator will confirm the schedule with the parents and childcare staff. Providers will document which routine was practiced, what the child communicated, and which adult strategy helped. Each visit will end with one agreed activity for the coming week.
+
+The family will use brief notes or voice reminders instead of daily worksheets. Missed visits will prompt a scheduling call. Changes to service frequency require team review and updated consent.
+
+Transition planning will begin with a family discussion of future options. The team will explain timelines in the parents’ preferred language. No future placement was selected during this review.
+
+Parent understanding was checked through discussion and examples. The parents described how they will pause, model a useful message, and respond to gestures. Their final priority remained, “Que nos pueda decir lo que necesita, en español o en inglés.”
+
+Electronically documented by [[PROVIDER|Elena Maravilla]], MS, CCC-SLP, [[EMPLOYER|Juniper Puente Pediatric Therapy]], on [[DATE|October 6, 2026]] at [[TIME|5:42 p.m.]].

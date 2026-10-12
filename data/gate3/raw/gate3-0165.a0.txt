@@ -1,0 +1,23 @@
++ Name: [[CHILD|Elena Marisol Vega]]
++ CA: [[KEEP|4;2]]
++ Context: School team summary, [[DATE|October 7, 2026]]
+
+Dear Ms. [[TEACHER|Alina Moss]] and school team,
+
+I am [[PROVIDER|Nora Bellamy]], a bilingual pediatric speech-language pathologist with [[EMPLOYER|Little Lantern Speech Partners]] in North Carolina. With her mother, [[PARENT|Marisol Vega]], I reviewed [[CHILD|Elena]]’s communication across English and Spanish at [[SCHOOL|Meadowglass Elementary School]] in [[PLACE|Laurelmere]].
+
+Her history includes a NICU stay at [[HOSPITAL|Silverleaf Health Children’s Hospital, Willowbank Campus]]. Pediatrician Dr. [[PROVIDER|Tessa Rowan]], OT [[PROVIDER|Amir Solano]], and PT [[PROVIDER|Celia Hartwell]] supplied background notes. Interpreter [[PROVIDER|Lucía Serrano]] supported the parent interview.
+
+These scores describe the English assessment only; they require interpretation alongside bilingual language samples and family reports.
+
+| Test and subtest | Evaluation date | Standard score | Confidence interval | Percentile |
+|---|---|---|---|---|
+| [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] | [[DATE|09/29/2026]] | [[KEEP|78]] | [[KEEP|73-85]] | [[KEEP|7th]] |
+
+During play, [[CHILD|Elena]] followed directions in [[KEEP|8/10]] opportunities with [[KEEP|min cues]]. She produced "[[KEEP|tar]]" for "[[KEEP|car]]," substituting /[[KEEP|t]]/ for [[KEEP|/k/]]. Her sample included [[KEEP|[EW]]]. She also said "[[PET|Pippin]] run" while describing the family dog. Her sister, [[SIBLING|Maya Vega]], and classmate [[PEER|Owen Vale]] help sustain shared play.
+
+We recommend bilingual modeling, visual choices, and [[KEEP|Hanen]] strategies during daily routines. Please share classroom observations before our review on [[DATE|November 12, 2026]], at [[TIME|10:30 a.m.]].
+
+For record matching: Medicaid ID [[MEDICAID_ID|864209753Q]]; insurance member ID [[ID|NCX-57280419]]; NC ITP child ID [[ID|ITP-6204837]]; authorization number [[ID|AUTH-261007-482]]. Service coordinator [[PROVIDER|Dalia Mercer]] at [[AGENCY|Willowbank CDSA]] maintains these records.
+
+Thank you for supporting communication in both languages.

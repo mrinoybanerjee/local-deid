@@ -1,0 +1,88 @@
+REVISIÓN DEL IFSP DEL PROGRAMA PARA BEBÉS Y NIÑOS PEQUEÑOS DE CAROLINA DEL NORTE
+
+- Documento completamente ficticio para pruebas de desidentificación. Describe una revisión del plan individualizado de servicios familiares, con participación familiar y atención bilingüe.
+- Fecha de revisión: [[DATE|8 de octubre de 2026]]. Próxima revisión: [[DATE|14 de enero de 2027]]. La familia participó en español y recibió una copia en español.
+- Expediente: [[ID|NC-ITP-684219]]. Autorización: [[ID|SLP-2601847]]. Número de Medicaid: [[MEDICAID_ID|583714926Q]]. La familia autorizó el intercambio de información con las entidades indicadas.
+
+INFORMACIÓN DEL NIÑO Y LA FAMILIA
+
+- [[CHILD|Nicolás Valle Cárdenas]], llamado [[CHILD|Nico]] en casa, nació el [[DATE|8 de febrero de 2024]]. Su edad actual es [[KEEP|32 meses]], equivalente a [[KEEP|2;8]].
+- Vive con su mamá, [[PARENT|Elena Cárdenas]], su papá, [[PARENT|Tomás Valle]], y su hermana, [[SIBLING|Alma Valle Cárdenas]]. La abuela [[FAMILY|Beatriz Cárdenas]] ayuda durante las jornadas laborales.
+- Domicilio: [[PLACE|4187 Laurel Lantern Drive]], [[PLACE|Brisaverde]], Carolina del Norte, [[PLACE|27946]]. La familia procede de la aldea [[PLACE|Los Naranjos del Viento]], Guatemala.
+- Teléfono principal: [[PHONE|919-555-0146]]. Teléfono alternativo: [[PHONE|984-555-0173]]. Correo familiar: [[EMAIL|elena.valle@example.net]]. La familia prefiere llamadas después de las [[TIME|5:30 p. m.]].
+
+TRABAJO, APOYOS Y DISPONIBILIDAD
+
+- La mamá trabaja actualmente en la tienda [[ORG|Maple Lantern Store]]. Antes trabajó en el restaurante [[ORG|Copper Sparrow Restaurant]] y en el servicio de limpieza [[ORG|Morning Basket Cleaning Service]].
+- El papá trabaja en la planta [[ORG|Cedar Thread Manufacturing Plant]]. Sus empleos anteriores fueron en la granja [[ORG|Blue Orchard Farm]] y en la empresa de construcción [[ORG|Stone Finch Construction Company]].
+- La tía [[FAMILY|Irene Valle]] puede acompañar visitas cuando cambian los turnos. La cuidadora [[FAMILY|Patricia Solano]] recibe instrucciones escritas sobre comunicación durante la merienda.
+- La familia solicita visitas los lunes a las [[TIME|9:00 a. m.]]. Puede recibir llamadas breves durante el almuerzo, pero necesita aviso previo para reuniones fuera del hogar.
+
+COORDINACIÓN Y EQUIPO
+
+- Coordinadora de servicios: [[PROVIDER|Diana Rivas]], de [[AGENCY|CDSA de Brisaverde y Valle Claro]]. Teléfono: [[PHONE|919-555-0118]]. Correo: [[EMAIL|diana.rivas@example.org]].
+- Oficina CDSA: [[PLACE|260 Meadow Compass Avenue]], [[PLACE|Brisaverde]], Carolina del Norte, [[PLACE|27946]]. Página informativa ficticia: [[URL|https://cdsa-brisaverde.example.org]].
+- La revisión fue redactada por la patóloga bilingüe del habla y lenguaje [[PROVIDER|Mariela Robles]], identificada también como [[PROVIDER|M.R.]], de [[EMPLOYER|Little Lantern Pediatric Communication]].
+- Participaron la pediatra, doctora [[PROVIDER|Camila Serrano]], y la terapeuta ocupacional [[PROVIDER|Julia Mena]]. No se necesitó intérprete porque todos los participantes comprendieron la conversación en español.
+
+PREOCUPACIONES Y PRIORIDADES FAMILIARES
+
+- La mamá [[PARENT|Elena Cárdenas]] expresó: “Queremos entender qué necesita antes de que llore. A veces señala todo y nosotros tenemos que adivinar”.
+- El papá [[PARENT|Tomás Valle]] dijo: “Mi prioridad es que pueda pedir «[[KEEP|ayuda]]» cuando algo no sale. También quiero conversar con él mientras preparo la cena”.
+- La abuela [[FAMILY|Beatriz Cárdenas]] comentó: “Quiero que disfrute los cuentos conmigo. No necesito que repita cada palabra; quiero saber qué parte le interesa”.
+- La familia prioriza pedir necesidades, compartir atención y participar en juegos. Desea conservar el español del hogar y apoyar la comprensión del inglés usado en la guardería.
+
+SALUD Y ANTECEDENTES
+
+- El embarazo terminó a las [[KEEP|39 semanas y 2 días]]. Peso al nacer: [[KEEP|3.180 g]]. Apgar: [[KEEP|8]] al minuto y [[KEEP|9]] a los cinco minutos.
+- La evaluación pediátrica del [[DATE|17 de septiembre de 2026]] ocurrió en [[HOSPITAL|Hospital Infantil Sendero de Robles]]. No se reportaron dificultades actuales de alimentación ni pérdida de habilidades.
+- La evaluación auditiva del [[DATE|22 de septiembre de 2026]] mostró respuestas compatibles con acceso auditivo funcional. La familia informará cualquier cambio en respuesta a sonidos o infecciones recurrentes.
+- Diagnóstico de trabajo: [[KEEP|F80.2]]. El equipo explicó que las diferencias entre idiomas requieren una interpretación conjunta de observaciones, entrevista familiar y evaluación clínica.
+
+EVALUACIÓN Y RESULTADOS
+
+- Se administró [[KEEP|PLS-5 Spanish]] el [[DATE|29 de septiembre de 2026]]. En [[KEEP|Auditory Comprehension]], el puntaje estándar fue [[KEEP|78]], con intervalo de confianza [[KEEP|73-83]] y percentil [[KEEP|7]].
+- En [[KEEP|Expressive Communication]], el puntaje estándar fue [[KEEP|75]], con intervalo de confianza [[KEEP|70–80]], percentil [[KEEP|5]] y edad equivalente [[KEEP|1;10–2;2]]. Estos resultados orientan apoyos funcionales.
+- La observación con [[KEEP|Rossetti Infant-Toddler Language Scale]] identificó habilidades emergentes de comunicación entre [[KEEP|21–24 meses]]. Se consideraron gestos, intención comunicativa, juego y oportunidades familiares.
+- El informe previo de [[KEEP|Bayley-4]] describió [[KEEP|Cognitive]], puntaje escalado [[KEEP|8]]. La evaluación con [[KEEP|Peabody Developmental Motor Scales, Third Edition]] informó edad equivalente [[KEEP|2;6–3;0]] en [[KEEP|Object Manipulation]].
+- Se revisó [[KEEP|Goldman-Fristoe Test of Articulation 3]], sin obtener puntaje válido por muestra insuficiente. Se observaron [[KEEP|/m/]], [[KEEP|/p/]] y [[KEEP|[w]]]; no se estableció una meta para [[KEEP|/ɾ/]].
+
+RUTINAS DIARIAS Y PARTICIPACIÓN
+
+- Durante el desayuno, [[CHILD|Nicolás]] elige entre fruta y pan. Usa gestos con mayor facilidad cuando el adulto espera y coloca ambas opciones a su alcance.
+- En el baño disfruta llenar recipientes. La familia puede practicar turnos, anticipar acciones y modelar [[KEEP|“más agua”]] sin exigir repetición antes de continuar.
+- Durante el juego, la hermana [[SIBLING|Alma]] ofrece bloques. El perro [[PET|Tobi]] suele acercarse; el niño dijo “[[PET|Tobi]] ven” mientras señalaba la puerta.
+- En [[DAYCARE|Guardería Semillitas del Faro]], la maestra [[TEACHER|Rosa Beltrán]] organiza canciones. Los compañeros [[PEER|Lina Paredes]] y [[PEER|Bruno Salcedo]] participan en juegos de pelotas.
+- La transición futura a [[SCHOOL|Escuela Preescolar Puente de Colores]] requiere planificación. La familia desea conocer el aula y explicar cómo el niño comunica cansancio.
+
+OTRAS AGENCIAS Y RECURSOS
+
+- [[AGENCY|WIC de Valle Claro]] proporciona orientación alimentaria. [[AGENCY|Smart Start de Brisaverde]] ofrece préstamo de libros. [[AGENCY|DSS de Valle Claro]] apoya la revisión de beneficios.
+- La vecina [[PERSON|J. Ortiz]] informó sobre actividades comunitarias. La coordinadora verificará accesibilidad y horarios antes de proponer su incorporación como recurso familiar.
+
+RESULTADO [[KEEP|1]]: PEDIR NECESIDADES
+
+- Durante comidas y juego, [[CHILD|Nico]] pedirá mediante palabra, gesto o combinación en [[KEEP|8/10]] oportunidades durante dos semanas consecutivas.
+- Los adultos ofrecerán opciones, esperarán y modelarán [[KEEP|“quiero pan”]] o [[KEEP|“abre”]]. Se reducirá el apoyo desde [[KEEP|max cues]] hasta [[KEEP|min cues]] según respuesta.
+- La familia registrará ejemplos breves. La clínica comparará participación y frustración, sin condicionar el acceso a comida a una producción verbal.
+
+RESULTADO [[KEEP|2]]: COMPARTIR ATENCIÓN
+
+- Durante cuentos, [[CHILD|Nicolás]] compartirá interés mediante mirada, señalamiento o comentario en [[KEEP|3 de 5]] oportunidades, con [[KEEP|mod cues]] o menos.
+- Se aplicarán estrategias de [[KEEP|Hanen]] mediante imitación, pausas y seguimiento del interés. La abuela elegirá libros conocidos y aceptará respuestas en ambos idiomas.
+
+RESULTADO [[KEEP|3]]: PARTICIPAR CON COMPAÑEROS
+
+- En juegos de turnos, [[CHILD|Nico]] responderá o iniciará intercambios en [[KEEP|70 %]] de oportunidades observadas durante tres registros consecutivos.
+- La maestra [[TEACHER|Rosa Beltrán]] usará apoyos visuales y modelos como [[KEEP|“mi turno”]]. El equipo considerará [[KEEP|PECS]] si los apoyos actuales resultan insuficientes.
+
+RESULTADO [[KEEP|4]]: AMPLIAR COMBINACIONES
+
+- En rutinas familiares, [[CHILD|Nicolás]] combinará dos elementos comunicativos en [[KEEP|6/10]] oportunidades, con [[KEEP|min cues]]. Se aceptarán combinaciones de gesto y palabra.
+- La muestra inicial incluyó [[KEEP|“ma agua”]] y [[KEEP|“no cae”]]. El análisis con [[KEEP|SALT]] registró [[KEEP|[EW]]]. No se indica actualmente [[KEEP|PROMPT]] ni [[KEEP|Cycles]].
+
+SERVICIOS, FECHAS Y REVISIÓN
+
+- Terapia del lenguaje: visita semanal de [[KEEP|45 minutos]], del [[DATE|12 de octubre de 2026]] al [[DATE|31 de enero de 2027]], en el hogar. Código [[KEEP|92507]], modificador [[KEEP|GN]].
+- Coordinación familiar: contacto mensual y revisión de apoyos. La primera consulta con la guardería será el [[DATE|19 de octubre de 2026]], a las [[TIME|10:15 a. m.]].
+- La familia aceptó el plan. [[PROVIDER|Mariela Robles]] revisará registros funcionales; [[PROVIDER|Diana Rivas]] coordinará la transición. Se ajustarán estrategias cuando las rutinas o prioridades cambien.

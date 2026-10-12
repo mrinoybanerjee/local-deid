@@ -1,0 +1,21 @@
+Fecha: [[DATE|October 8, 2026]]  Hora: [[TIME|9:10 AM]]–[[TIME|9:55 AM]]  Lugar: [[SCHOOL|Willow Kite Preschool]]
+Cliente: [[CHILD|Elian Cruz Vega]]  Apodo: [[CHILD|Lito]]  Edad: [[KEEP|4;2]]  DOB: [[DATE|08/02/2022]]
+Clinician: [[PROVIDER|Marisol Brenner]], bilingual SLP  Employer: [[EMPLOYER|Bright Acorn Pediatric Therapy PLLC]]  Office: [[PLACE|482 Lantern Finch Lane]], [[PLACE|Briarhaven]], North Carolina [[PLACE|27864]]
+Record: [[ID|BA-260108-047]]  Medicaid: [[MEDICAID_ID|731084629Q]]  Authorization: [[ID|ST-6620418]]  CPT: [[KEEP|92507]]  Modifier: [[KEEP|GN]]  ICD-10: [[KEEP|F80.2]]
+Contacto: [[PHONE|919-555-0146]]  Email: [[EMAIL|intake@brightacorn.example]]  Portal: [[URL|https://brightacorn.example/session]]
+Agency: [[AGENCY|Centro Regional de Coordinación del Desarrollo Infantil y Apoyo Integral a las Familias del Condado de Luminaria (CRCDIAIF)]]  Coordinator: [[PROVIDER|Tessa Calder]]
+School contact: Ms. [[TEACHER|Lopez]]  Classroom: Ms. [[TEACHER|Lopez]]'s room  Interpreter: [[PROVIDER|Camila Duarte]]
+
+Subjetivo: Su mamá [[PARENT|Nadia Cruz]] reported, “En casa pide ayuda, pero cuando hay ruido se queda callado.” His father, [[PARENT|Omar Vega]], requested Spanish practice sheets. Brother [[SIBLING|Bruno Vega]] models turn-taking; abuela [[FAMILY|Inés Salcedo]] provides afternoon care. Mother works at [[ORG|Copper Finch Packaging]]. Family recently moved to [[PLACE|Luminaria County]]. Mother described fewer communication breakdowns during meals, aunque todavía necesita tiempo para responder. No new hearing concerns were reported.
+
+Historia breve: Birth at [[HOSPITAL|Juniper Lantern Children's Hospital]] was reported at [[KEEP|38 weeks]] gestation, birth weight [[KEEP|3.12 kg]], Apgar scores [[KEEP|8]] and [[KEEP|9]]. Prior evaluation on [[DATE|September 17, 2026]] used [[KEEP|PLS-5]]: [[KEEP|Auditory Comprehension]] standard score [[KEEP|82]], percentile [[KEEP|12th]], confidence interval [[KEEP|76–88]], age equivalent [[KEEP|3;1]]. [[KEEP|Expressive Communication]] standard score was [[KEEP|78]], with age-equivalent range [[KEEP|2;6–3;0]]. These historical findings informed today's play activities and language supports.
+
+Objetivo: At [[EMPLOYER|Bright Acorn Therapy]], [[CHILD|Elian]] practiced requesting with [[KEEP|Hanen]] strategies and brief [[KEEP|PROMPT]] support. He produced "[[KEEP|más agua]]" in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], then "[[KEEP|help me]]" in [[KEEP|3 of 5]] opportunities with [[KEEP|min cues]]. Targets "[[KEEP|casa]]" and "[[KEEP|car]]" supported initial [[KEEP|/k/]]; accuracy reached [[KEEP|70%]]. One substitution used [[KEEP|[w]]]. A conversational sample included [[KEEP|[EW]]]. During pretend play he said, "[[PET|Chispa]] run," while moving a toy dog.
+
+Participación: Peers [[PEER|Mila Serrano]] and [[PEER|Theo Finch]] joined the closing activity. Classroom aide [[TEACHER|Rosa Medina]] provided visual choices. [[CHILD|Lito]] waited through two peer turns and independently offered a pretend cup. Cuando la actividad cambió, he needed a visual preview and additional processing time. He returned to play after a short movement break without distress.
+
+Análisis: Functional requests increased when adults paused and used familiar routines. English responses remained shorter than Spanish responses today. Performance varied with background noise; this observation does not establish a language-specific deficit. Engagement supported continued treatment under IFSP outcome [[KEEP|2]].
+
+Plan: [[EMPLOYER|BAPT]] will share picture choices with OT [[PROVIDER|Anika Rowell]], PT [[PROVIDER|Jonah Mercado]], and pediatrician Dr. [[PROVIDER|Felix Arden]]. [[AGENCY|CRCDIAIF]] will coordinate the review on [[DATE|October 22, 2026]]. Driver [[PERSON|Ellis Navarro]] confirmed pickup. Caregivers will practice requests during snack, ofreciendo opciones y esperando la respuesta. Next session will address generalization across partners and reduced cueing. Family agreed to brief daily practice in both languages. Continue weekly visits.
+
+Firma: [[PROVIDER|Marisol Brenner]], SLP  Completed: [[TIME|10:20 AM]]

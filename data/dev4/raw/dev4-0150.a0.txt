@@ -1,0 +1,20 @@
+Client: [[CHILD|Mateo Cruz Hernández]]
+DOB: [[DATE|04/12/2022]]
+Date of Service: [[DATE|October 9, 2026]]
+Session Time: [[TIME|2:30 PM]]
+Clinician: [[PROVIDER|Sarah Whitfield]], M.S., CCC-SLP, [[EMPLOYER|Carolina Pediatric Therapy Partners]]
+Interpreter: [[PROVIDER|J. Ortiz]]
+CDSA Office: [[AGENCY|Agencia de Servicios de Desarrollo Infantil del Piedmont]] ([[AGENCY|CDSA]])
+Service Coordinator: [[PROVIDER|Ana Delgado]], [[AGENCY|Centro Hispano de Apoyo Familiar del Condado de Durham]] ([[AGENCY|CHAF]])
+Medicaid ID: [[MEDICAID_ID|9284716203K]]
+Record ID: [[ID|LD-55821]]
+Diagnosis: [[KEEP|F80.2]]
+CPT Code: [[KEEP|92507]]
+
+S: Mother, [[PARENT|Lucía Rodríguez]], reported [[CHILD|Mateo]] ([[KEEP|4;2]]) had a calm weekend overall. She works two jobs, one at [[ORG|Bojangles]] on [[PLACE|Roxboro Street]] and a second shift at [[ORG|UPS]], so her own mother, initials [[FAMILY|M.R.]], watches [[CHILD|Mateo]] and his sister [[SIBLING|Camila]] most evenings. The family lives at [[PLACE|418 Holloway Court, Durham, NC 27701]]; [[PARENT|Lucía]] grew up in [[PLACE|San Marcos La Laguna]] and still calls the village "home."
+
+O: Session held at the family's home. [[CHILD|Mateo]] produced /k/ in isolation with [[KEEP|mod cues]] ([[KEEP|8/10]]) and imitated "[[KEEP|cookie]]" with final consonant deletion, rendered [[KEEP|"coo"]]. Articulation screening on the [[KEEP|Goldman-Fristoe 3]] yielded a [[KEEP|standard score 73-83]] range. [[CHILD|Mateo]] mentioned his classmate [[PEER|Ethan]] from daycare and imitated barking while naming the family dog, [[PET|Chispa]].
+
+A: [[CHILD|Mateo]] continues progressing toward [[KEEP|IFSP Outcome 2]], consonant production, with stimulability improving under [[KEEP|PROMPT]] cueing.
+
+P: Continue weekly sessions. [[PROVIDER|Ana Delgado]] will confirm transportation for the [[DATE|November 14, 2026]] IFSP review. Questions may go to the clinic at [[PHONE|(919) 555-0148]].

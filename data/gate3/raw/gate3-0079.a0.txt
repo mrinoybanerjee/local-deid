@@ -1,0 +1,21 @@
+Nota diaria de terapia del habla y lenguaje
+
+Fecha: [[DATE|11 de octubre de 2026]]. Horario: [[TIME|9:10 a. m.]] a [[TIME|9:55 a. m.]]
+Cliente: [[CHILD|Nicolas Prado]], edad [[KEEP|4;2]]. Nacimiento: [[DATE|11 de agosto de 2022]].
+Expediente: [[ID|SL-604281]]. Medicaid: [[MEDICAID_ID|482716305R]].
+Profesional: [[PROVIDER|Elena Valdes]], patologa bilingue del habla y lenguaje, de [[EMPLOYER|Palabras del Roble]].
+Lugar: [[PLACE|318 Calle Brisa]], [[PLACE|Loma Serena]], Carolina del Norte, [[PLACE|27594]].
+Contacto: [[PHONE|919-555-0146]]; [[EMAIL|elena.valdes@palabrasdelroble.example]]; [[URL|https://palabrasdelroble.example/sesiones]].
+Facturacion: CPT [[KEEP|92507]], modificador [[KEEP|GN]]; ICD-10 [[KEEP|F80.2]].
+
+S: La madre [[PARENT|Marina Prado]] acompano al cliente. Mama trabaja de noche como tecnica de inventario en [[ORG|Deposito Nube Clara]]. El padre [[PARENT|Samuel Prado]] practica turnos durante la cena. La hermana [[SIBLING|Clara Prado]] modela peticiones; la abuela [[FAMILY|Rosa Mena]] ofrece cuidado por las tardes. La familia reporto que el cliente dijo "[[PET|Tilo]] ven" al perro. La madre percibe menos frustracion cuando puede escoger entre objetos visibles. No reporto cambios recientes de salud ni dificultades para dormir antes de esta visita.
+
+O: La sesion individual incluyo juego, lectura compartida y merienda simulada. Se incorporaron estrategias de [[KEEP|Hanen]] y [[KEEP|It Takes Two to Talk]], apoyos de [[KEEP|PECS]], claves tactiles de [[KEEP|PROMPT]], practica motora de [[KEEP|Kaufman]] y seleccion de patrones mediante [[KEEP|Cycles]]. Cada enfoque se adapto al objetivo trabajado y a la tolerancia del cliente.
+
+Produjo peticiones de dos palabras en [[KEEP|8/10]] oportunidades con [[KEEP|apoyos moderados]]. Imito [[KEEP|"quiero agua"]] y [[KEEP|"mas pan"]]. Para el objetivo [[KEEP|2]] del IFSP, siguio instrucciones con ubicaciones en [[KEEP|3 de 5]] ensayos con [[KEEP|apoyos minimos]]. Produjo [[KEEP|/k/]] inicial con [[KEEP|60%]] de precision; sustituyo [[KEEP|[t]]] en [[KEEP|"casa"]]. Una muestra incluyo [[KEEP|"yo tene pelota"]] con codigo SALT [[KEEP|[EW]]]. Necesito [[KEEP|apoyos maximos]] para reparar mensajes cuando el interlocutor no comprendio.
+
+Como referencia, la evaluacion del [[DATE|18 de septiembre de 2026]] registro [[KEEP|PLS-5]], subprueba [[KEEP|Auditory Comprehension]], puntuacion estandar [[KEEP|78]], percentil [[KEEP|7]], intervalo de confianza [[KEEP|73-83]] y rango equivalente de edad [[KEEP|2;6–3;0]]. Estos valores corresponden a aquella evaluacion; hoy no se repitio la prueba.
+
+A: El cliente aumento sus peticiones cuando la profesional espero antes de entregar materiales. La precision disminuyo durante cambios de actividad. Respondio mejor al modelo lento y a opciones concretas. El uso espontaneo sigue limitado, aunque mostro interes sostenido y acepto ayuda.
+
+P: Continuar semanalmente. Coordinar con la maestra [[TEACHER|Laura Solis]] de [[SCHOOL|Escuela Sendero Azul]] y la coordinadora [[PROVIDER|Paula Rios]] de [[AGENCY|CDSA Valle Claro]]. Practicar peticiones durante rutinas breves. En clase, facilitar turnos con el companero [[PEER|Bruno Leal]]. La madre recibio demostracion y explico correctamente la estrategia. Proxima visita: [[DATE|18 de octubre de 2026]], a las [[TIME|9:10 a. m.]]. Registrar por separado respuestas espontaneas y respuestas imitadas para ajustar los apoyos.

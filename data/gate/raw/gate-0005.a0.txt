@@ -1,0 +1,34 @@
+ADMINISTRATIVE DETAILS
+- Client: [[CHILD|Nicolás de la Cruz]], called [[CHILD|Nico]]; DOB [[DATE|August 8, 2022]]; age [[KEEP|4;2]]. Record: [[ID|SLP-684219]]; Medicaid: [[MEDICAID_ID|482619735Q]].
+- Service: [[DATE|October 8, 2026]], [[TIME|9:10 a.m.]]–[[TIME|9:55 a.m.]], at [[EMPLOYER|Firefly Bridge Pediatric Therapy]]. Treating bilingual clinician: [[PROVIDER|Elena Marín-Wexler]], MS, CCC-SLP.
+- Clinic: [[PLACE|4826 Lantern Moss Lane]], [[PLACE|Willowmere]], NC [[PLACE|27900]], [[PLACE|Pineglass County]]. Contact: [[PHONE|919-555-0147]], [[EMAIL|emarín-wexler@fireflybridge.example]], [[URL|https://fireflybridge.example]].
+- Individual treatment billed under [[KEEP|CPT 92507]] for [[KEEP|ICD-10 F80.2]]. Session used English with Spanish supports, play routines, and caregiver coaching.
+
+SUBJECTIVE
+- Mother [[PARENT|Lucía del Río]] reported that [[CHILD|Nico]] used longer requests during breakfast but needed help describing events afterward.
+- Father [[PARENT|Gabriel de la Cruz]] practiced turn-taking with sister [[SIBLING|Mara de la Cruz]]. Grandmother [[FAMILY|Inés del Río]] used the same picture choices.
+- Babysitter [[FAMILY|Tessa Brookfield]] reported that the family dog, [[PET|Mochi]], encouraged spontaneous requests during pretend feeding.
+- Ms. [[TEACHER|Rowan Bellamy]] at [[SCHOOL|Willowmere Early Learning School]] reported improved participation beside classmates [[PEER|Eli Hartwick]] and [[PEER|Sofia Chenwick]].
+- Staff at [[DAYCARE|Little Lantern Daycare]] described easier transitions when adults offered two choices. Mother requested language practice that fits familiar home routines.
+
+OBJECTIVE
+- [[CHILD|Nicolás]] entered comfortably, selected a vehicle activity, and shared materials. Attention improved with a visual schedule and brief movement breaks.
+- Produced three-word requests in [[KEEP|8/10]] opportunities with [[KEEP|mod cues]], including [[KEEP|"I want blue car"]]. Independent requests occurred in [[KEEP|50%]] of opportunities.
+- Followed two-step related directions in [[KEEP|7/10]] trials with [[KEEP|min cues]]. Performance decreased when the second action required a different object.
+- Produced initial [[KEEP|/k/]] in [[KEEP|6/10]] trials with [[KEEP|mod cues]]. Targets included [[KEEP|"car"]], [[KEEP|"cup"]], and [[KEEP|"key"]]. Occasional substitutions included [[KEEP|[t]]].
+- During pretend cooking, [[CHILD|Nico]] said [[KEEP|"him eat soup"]]. The language sample retained [[KEEP|[EW]]] for an extraneous word and documented reduced grammatical accuracy.
+- Used gestures appropriately when verbal retrieval slowed. Clinician modeled expansions, allowed processing time, and accepted meaningful responses in either language.
+
+ASSESSMENT
+- Reviewed prior [[KEEP|Goldman-Fristoe Test of Articulation–3]] findings: [[KEEP|standard score 78]], [[KEEP|7th percentile]]. Current speech patterns remain consistent with that evaluation.
+- Prior [[KEEP|Peabody Picture Vocabulary Test–5]] results included [[KEEP|standard score 84]], [[KEEP|14th percentile]]. English vocabulary scores were interpreted alongside bilingual history.
+- Earlier records referenced the [[KEEP|Rossetti Infant-Toddler Language Scale]] and [[KEEP|Bayley Scales of Infant and Toddler Development–Fourth Edition]]. These historical findings informed developmental context.
+- Functional communication improved with predictable routines. Spontaneous grammar and independent speech accuracy remain treatment needs. No new standardized testing occurred today.
+
+PLAN AND COORDINATION
+- Continue weekly sessions. Next appointment: [[DATE|October 15, 2026]], [[TIME|9:10 a.m.]]. Practice requests and two-step directions during short, enjoyable routines.
+- Mother demonstrated expansion without requiring repetition. Home practice will emphasize successful communication before adding another word or increasing speech demands.
+- Pediatrician Dr. [[PROVIDER|Priya Senwick]] at [[HOSPITAL|Pineglass Children’s Hospital]] remains the medical contact. Occupational therapist [[PROVIDER|Amelia Frostvale]] will coordinate shared regulation supports.
+- Service coordinator [[PROVIDER|Dalia Finchmere]] at [[AGENCY|Pineglass County Smart Start Partnership]] provided a resource list. Father’s employer, [[ORG|Mossbeam Fabrication]], supplied schedule flexibility.
+- Transportation contact [[PERSON|Owen Reedvale]] confirmed pickup arrangements. No clinical information was shared with him.
+- Caregiver received a picture handout and explained the practice routine accurately. Review independence, cueing needs, and caregiver observations at the next visit.

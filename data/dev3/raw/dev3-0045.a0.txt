@@ -1,0 +1,31 @@
+Piedmont Pediatric Speech & Language Partners [[EMPLOYER|Piedmont Pediatric Speech & Language Partners]]
+Daily Session Note / Nota de sesión diaria
+
+Client: [[CHILD|Mateo Fernández]]  DOB: [[DATE|02/14/2022]]  Age: [[KEEP|4;8]]
+Medicaid ID: [[MEDICAID_ID|MC4471239B]]
+Date of service: [[DATE|October 9, 2026]]  Time: [[TIME|3:15 PM]]–[[TIME|3:45 PM]]
+Clinician: [[PROVIDER|Daniela Castillo-Reyes]], M.S., CCC-SLP
+
+Setting: [X] Home  [ ] Daycare  [ ] Clinic
+Present: madre [[PARENT|Lucía Rodríguez]], hermana [[SIBLING|Camila]] (2 years)
+
+S: Lucía reports, "Mateo ha estado diciendo más palabras en casa, pero todavía mezcla los sonidos." She states he said "wion" for "[[KEEP|lion]]" during play, substituting [[KEEP|/w/]] for [[KEEP|/l/]]. No new illness; follow-up with ENT at [[HOSPITAL|Novant Health ENT & Audiology – Ballantyne Campus]] is scheduled for [[DATE|October 20, 2026]] given history of recurrent otitis media since his stay at the [[HOSPITAL|Atrium Health Levine Children's Hospital NICU]] after birth (gestational age [[KEEP|34 weeks]], birth weight [[KEEP|4 lbs 2 oz]], Apgar [[KEEP|6/9]]).
+
+O: Administered [[KEEP|GFTA-3]] informally; [[KEEP|3 of 10]] target words produced correctly. [[KEEP|CELF-5]] Core Language standard score fell in the [[KEEP|73-83]] range at last annual eval (age equivalent [[KEEP|2;6–3;0]]), consistent with current functioning. Articulation of [[KEEP|/k/]] and [[KEEP|/g/]] improved to [[KEEP|8/10]] with [[KEEP|mod cues]]; [[KEEP|/ɾ/]] still emerging, [[KEEP|min-max cues]] required. Used [[KEEP|PROMPT]] touch cues and a brief [[KEEP|Hanen]] "OWL" strategy to expand MLU during juego libre.
+
+[X] Receptive  [X] Expressive  [ ] Pragmatics  [ ] Feeding
+
+A: Mateo made steady progress toward IFSP [[KEEP|Outcome 2]]. His pediatrician, Dr. [[PROVIDER|Htun]], noted continued fluid on tympanometry; coordinating with service coordinator [[PROVIDER|Marisol Vega]] at [[AGENCY|Mecklenburg CDSA]] re: amplification trial. Daycare teacher [[TEACHER|Ms. Lopez]] reports via a note sent home from [[DAYCARE|Little Sprouts Daycare]] that Mateo imitates peers in [[TEACHER|Ms. Lopez]]'s room and said "[[PEER|Diego]] go" during outdoor play.
+
+P: Continue twice-weekly sessions through [[EMPLOYER|Piedmont Pediatric Speech & Language Partners]]. Home program: Lucía will practice minimal pairs nightly; reminded her that interpreter [[PROVIDER|Yolanda Pérez]] is available for the upcoming IFSP review on [[DATE|November 4, 2026]] at [[TIME|10:00 AM]].
+
+[X] Parent training provided  [ ] Equipment checked
+
+Nota adicional: el padre [[PARENT|Carlos Fernández]] llamó para confirmar la cita; se le recordó traer el reporte de audiología más reciente. La familia vive en [[PLACE|4821 Holly Ridge Lane, Matthews, NC 28105]]; contacto: [[PHONE|(704) 555-0187]], [[EMAIL|lucia.rodriguez84@example.com]].
+
+El perro de Mateo, [[PET|Rocky]], estuvo presente durante la sesión y parecía motivar el etiquetado espontáneo ("perro," "[[KEEP|dog]]"). Overall, good engagement; recommend continued biweekly collaboration with [[AGENCY|Mecklenburg CDSA]] and a possible referral given mother's request for flexible scheduling around her shift at [[ORG|Bank of America]].
+
+Next visit scheduled [[DATE|October 16, 2026]].
+
+— [[PROVIDER|Daniela Castillo-Reyes]], M.S., CCC-SLP
+[[EMPLOYER|Piedmont Pediatric Speech & Language Partners]]

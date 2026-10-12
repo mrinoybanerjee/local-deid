@@ -1,0 +1,113 @@
+IFSP REVIEW — FICTIONAL NORTH CAROLINA RECORD
+
+- This fictional document supports offline de-identification testing. All people, organizations, contact details, locations, identifiers, and events are invented.
+- The family participated in an English-language review with Spanish interpretation and bilingual speech-language assessment. The team reviewed communication, participation, family priorities, and current services.
+- Review date: [[DATE|06/16/2025]]. Initial IFSP date: [[DATE|3 de marzo de 2025]]. Next review: [[DATE|2025-09-15]].
+- Child record: [[ID|NCIT-F482731]]. IFSP case: [[ID|CDSA-25-06148]]. Medicaid member: [[MEDICAID_ID|684209731Q]]. Speech authorization: [[ID|SLP-250316-8842]].
+
+FAMILY INFORMATION
+
+- The child is [[CHILD|Tomás de la Cruz-Herrera]], called [[CHILD|Tomi]] at home. Date of birth: [[DATE|03/19/2023]]. Current age: [[KEEP|26 months]].
+- Mother: [[PARENT|Lucía de la Cruz]]. Father: [[PARENT|Gabriel Herrera-del Río]]. Both parents share decisions and attended the review.
+- The household includes sister [[SIBLING|Elena de la Cruz-Herrera]], age [[KEEP|7 years]], and brother [[SIBLING|Nicolás de la Cruz-Herrera]], age [[KEEP|4;2]].
+- Maternal grandmother [[FAMILY|Rosa del Río]] provides afternoon care. Aunt [[FAMILY|Inés Salcedo-Mora]] provides backup transportation. Babysitter [[FAMILY|Maribel Cuenca]] covers occasional evening shifts.
+- The family lives at [[PLACE|418 Lantern Finch Lane]], [[PLACE|Alderbrook]], North Carolina [[PLACE|28997]], in [[PLACE|Larkwell County]]. They plan to remain there during this review period.
+- Family telephone: [[PHONE|(919) 555-0146]]. Father's alternate telephone: [[PHONE|919-555-0172]]. Family email: [[EMAIL|lucia.family@example.invalid]].
+- The family uses Spanish during meals and English during some books and songs. Their dog, [[PET|Canela]], often joins floor play.
+
+PARENTS' WORKPLACES AND SCHEDULING
+
+- Mother [[PARENT|Lucía de la Cruz]] works at [[ORG|Willow Lantern Grocery Store]]. Her Spanish word-order label is [[ORG|Tienda de Abarrotes Willow Lantern]].
+- She also accepts weekend shifts at [[ORG|Blue Apron Finch Restaurant]], written in Spanish word order as [[ORG|Restaurante Blue Apron Finch]].
+- Her previous seasonal employer was [[ORG|Clear Meadow Cleaning Service]], recorded in Spanish word order as [[ORG|Servicio de Limpieza Clear Meadow]].
+- Father [[PARENT|Gabriel Herrera-del Río]] works at [[ORG|Silver Heron Packaging Plant]], also written as [[ORG|Planta de Empaque Silver Heron]].
+- His occasional outdoor employer is [[ORG|Copper Orchard Farm]], written in Spanish word order as [[ORG|Granja Copper Orchard]].
+- His former employer was [[ORG|River Lantern Construction Company]], recorded as [[ORG|Compañía de Construcción River Lantern]]. These entries identify separate workplaces and their translated naming forms.
+- The parents prefer visits after [[TIME|4:15 p.m.]] on weekdays. They request telephone reminders before [[TIME|11:30 a.m.]], when either parent can usually answer.
+
+SERVICE COORDINATION AND CDSA OFFICE
+
+- Service coordinator Ms. [[PROVIDER|Alicia Pineda-Ross]] works through [[AGENCY|Larkwell Valley CDSA]]. She coordinated the review and documented family consent.
+- The CDSA office is at [[PLACE|72 Hearth Sparrow Avenue]], [[PLACE|Alderbrook]], North Carolina [[PLACE|28997]]. Office telephone: [[PHONE|(984) 555-0128]].
+- Coordinator email: [[EMAIL|alicia.pinedaross@example.invalid]]. Family information portal: [[URL|https://larkwell-cdsa.example.invalid/families]].
+- The first outreach occurred on [[DATE|el martes 4 de junio de 2024]]. The family requested renewed communication support on [[DATE|02-10-2025]].
+- Ms. [[PROVIDER|Pineda-Ross]] will confirm transportation options, share the revised service schedule, and contact the family when referrals change.
+
+CLINICIAN AND PARTICIPATING PROVIDERS
+
+- Bilingual pediatric speech-language pathologist [[PROVIDER|Maya Solís-Bennett]], MS, CCC-SLP, completed this review in English and supported family participation in Spanish.
+- Her employer is [[EMPLOYER|Juniper Bridge Pediatric Communication Therapy, PLLC]]. The service agreement uses the short form [[EMPLOYER|Juniper Bridge Therapy]].
+- Scheduling messages use [[EMPLOYER|JBPCT]]. Each employer name refers to the same fictional therapy company.
+- Clinician telephone: [[PHONE|(919) 555-0183]]. Clinician email: [[EMAIL|maya.solisbennett@example.invalid]]. Employer website: [[URL|https://juniperbridge.example.invalid]].
+- Pediatrician Dr. [[PROVIDER|Owen Miraflor]] practices at [[HOSPITAL|Larkwell Children's Health Center]]. Occupational therapist [[PROVIDER|Priya Calderón]] consulted about seating and utensil access.
+- Interpreter [[PROVIDER|Samuel Vela]] supported discussion of benefits. The bilingual clinician directly assessed speech and language in both languages.
+
+FAMILY CONCERNS AND PRIORITIES
+
+- Mother [[PARENT|Lucía de la Cruz]] said, “I want him to tell me what he needs before he cries. Spanish matters because grandmother understands it best.”
+- Father [[PARENT|Gabriel Herrera-del Río]] said, “At dinner, I guess too much. I want him to choose food and tell us when he is finished.”
+- Grandmother [[FAMILY|Rosa del Río]] said, “He brings my hand to the cupboard. I want a word, a picture, or a clear gesture.”
+- The parents selected meals, getting dressed, and play with siblings as their first priorities. They welcome communication in either language.
+- The family wants practical coaching during ordinary routines. They prefer two strategies per visit and a brief written reminder.
+- The parents requested that providers explain paperwork in plain English, offer Spanish clarification, and allow time for questions before signing.
+
+DAILY ROUTINES AND PARTICIPATION
+
+- Breakfast begins near [[TIME|7:20 a.m.]]. The child sits beside his siblings, points toward food, and sometimes leaves the table when choices arrive slowly.
+- Dressing follows breakfast. Offering two shirts helps participation. Adults currently complete most steps when the child pulls away or drops clothing.
+- At [[DAYCARE|Little Lantern Nest Childcare]], arrival occurs around [[TIME|8:10 a.m.]]. Teacher Ms. [[TEACHER|Celia Aranda]] reports better engagement with songs than group instructions.
+- Classroom assistant [[TEACHER|Jonah Westmere]] uses pictures during cleanup. Peers [[PEER|Amira Stonefield]] and [[PEER|Leo Fennick]] model putting toys into baskets.
+- Afternoon care includes books, blocks, and outdoor play. Grandmother [[FAMILY|Rosa del Río]] pauses before opening containers to encourage a request.
+- During play, [[CHILD|Tomi]] said “[[PET|Canela]] run.” The clinician also heard [[KEEP|"más"]], [[KEEP|"go"]], and [[KEEP|"my turn"]].
+- Bedtime starts at [[TIME|7:45 p.m.]]. The family reports that a predictable book sequence reduces protest and supports shared attention.
+
+OTHER AGENCIES AND COMMUNITY SUPPORTS
+
+- [[AGENCY|Larkwell County DSS]] assists with benefit renewal. Caseworker [[PERSON|Della Maren]] requested updated household information, with family permission.
+- [[AGENCY|Alderbrook WIC Office]] provides nutrition support. The family wants help choosing affordable foods that fit the child's accepted textures.
+- [[AGENCY|Larkwell Smart Start Partnership]] offered a lending library and parent workshops. The coordinator will check accessible session times.
+- [[AGENCY|Hearthside Early Head Start]] accepted a referral on [[DATE|May 29, 2025]]. Enrollment remains pending; no classroom placement is confirmed.
+- A future preschool contact is [[SCHOOL|Finch Hollow Community Preschool]]. The family requested information only and has not enrolled.
+- The family authorized coordination about routines, attendance, and communication goals. Providers will request separate consent before sharing additional records.
+
+DEVELOPMENTAL AND CLINICAL INFORMATION
+
+- Fictional birth history records gestational age [[KEEP|38 weeks, 2 days]], birth weight [[KEEP|3,180 grams]], and Apgar scores [[KEEP|8]] and [[KEEP|9]].
+- Hearing screening occurred on [[DATE|04/08/2025]]. The record documents a pass in both ears. The team will monitor responses during everyday activities.
+- Assessment included [[KEEP|PLS-5]] on [[DATE|05/27/2025]]. [[KEEP|Auditory Comprehension]] standard score: [[KEEP|79]]; percentile: [[KEEP|8th]].
+- [[KEEP|Expressive Communication]] standard score: [[KEEP|75]]; percentile: [[KEEP|5th]]. [[KEEP|Total Language]] standard score: [[KEEP|76]]; [[KEEP|95%]] confidence interval: [[KEEP|73-83]].
+- Reported age equivalents were [[KEEP|1;8]] for comprehension and [[KEEP|1;5]] for expression. Functional observations covered an estimated skill range of [[KEEP|1;5–1;8]].
+- The clinician used these fictional scores cautiously because bilingual experience and modified presentation affect interpretation. Family reports and participation observations guided planning.
+- The child requested through gestures in [[KEEP|8/10]] opportunities and words in [[KEEP|3 of 5]] familiar play exchanges with [[KEEP|mod cues]].
+- Speech observations included /phoneme/ samples [[KEEP|/m/]], [[KEEP|/k/]], and [[KEEP|/ɾ/]], with occasional [[KEEP|[w]]] substitutions. No isolated sound drill is currently planned.
+- The working communication diagnosis is ICD-10 [[KEEP|F80.2]]. The team will review functional progress before changing the service plan.
+
+OUTCOME [[KEEP|1]] — COMMUNICATE NEEDS DURING MEALS
+
+- The child will request food, help, or an ending through words, gestures, or pictures in [[KEEP|8/10]] opportunities across three family meals.
+- Adults will offer two visible choices, pause, and accept communication in either language. Targets include [[KEEP|"more"]], [[KEEP|"más"]], [[KEEP|"help"]], and [[KEEP|"all done"]].
+- The clinician will coach responsive interaction using [[KEEP|Hanen]] principles. Picture choices will support access without requiring spoken repetition.
+- Current baseline is [[KEEP|30%]] independent requests. The family will record brief examples weekly; success requires [[KEEP|min cues]] across familiar partners.
+
+OUTCOME [[KEEP|2]] — JOIN PLAY AND SHARED ROUTINES
+
+- The child will complete three reciprocal turns during blocks, books, or ball play in [[KEEP|4 of 5]] opportunities with [[KEEP|min cues]].
+- Adults will follow the child's interest, imitate actions, and model [[KEEP|"my turn"]], [[KEEP|"your turn"]], [[KEEP|"otra vez"]], and [[KEEP|"open"]].
+- Sister [[SIBLING|Elena de la Cruz-Herrera]] may offer a toy and wait. Adults will keep responsibility for support and avoid making siblings conduct therapy.
+- Current performance requires [[KEEP|max cues]]. The clinician will track engagement and communication rather than require eye contact or a specific spoken response.
+
+OUTCOME [[KEEP|3]] — PARTICIPATE IN DRESSING AND TRANSITIONS
+
+- The child will choose clothing and follow one familiar transition direction in [[KEEP|4/5]] opportunities across home and childcare routines.
+- Adults will pair a short direction with a picture or gesture. Targets include [[KEEP|"shoes on"]], [[KEEP|"zapatos"]], and [[KEEP|"clean up"]].
+- Teacher Ms. [[TEACHER|Aranda]] will use the same picture sequence when practical. The family will share preferred Spanish words for each routine.
+- Baseline participation is [[KEEP|40%]] with [[KEEP|mod cues]]. The team will review progress after six weeks and adjust demands when frustration increases.
+
+SERVICES, DATES, AND REVIEW PLAN
+
+- Speech-language services run from [[DATE|06/23/2025]] through [[DATE|09/14/2025]]: one 45-minute home visit weekly, with caregiver coaching and routine-based practice.
+- Billing references are CPT [[KEEP|92507]] with modifier [[KEEP|GN]]. Evaluation documentation references CPT [[KEEP|92523]]. These codes identify fictional service records.
+- Service coordination continues monthly from [[DATE|03/03/2025]] through [[DATE|03/02/2026]]. Childcare consultation occurs monthly when family consent and classroom availability permit.
+- The first planned visit is [[DATE|June 23, 2025]] at [[TIME|4:30 p.m.]]. The family can reschedule through [[EMPLOYER|Juniper Bridge Therapy]].
+- Parents agreed with the outcomes and requested Spanish strategy summaries. The coordinator will send the final copy and verify receipt.
+- Review author: [[PROVIDER|Maya Solís-Bennett]]. Completion date: [[DATE|16 de junio de 2025]]. Family signatures and actual service delivery are not represented by this synthetic record.
