@@ -53,6 +53,13 @@ line with `| bash -s -- --measure` instead of `| bash`.
    draft** and paste it into the EMR.
 4. The clipboard clears itself after 2 minutes, and when the app quits.
 
+**A whole document:** open the window (click **DeID** in the menu bar, or open
+**Local DeID** again from Spotlight or Applications). Drag a Word, PDF, RTF,
+or text file onto the window, or click **Open a document…**. The Check view
+opens as for a pasted note; then continue with Copy, step 2. Headers,
+footers, footnotes, and comments are not read. A scanned PDF has no text:
+print it to PDF from the EMR, or copy the text and paste it.
+
 Put the children's names in **Caseload**, one child per line, for example
 `Mateo Ruiz López; nickname Teo; mom Lucía; sister Sol; school Little Sprouts`.
 For a two-word first name, add `first`: `Juan Pablo Ruiz; first Juan Pablo`.

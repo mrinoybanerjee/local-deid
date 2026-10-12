@@ -13,6 +13,7 @@ from __future__ import annotations
 from . import netguard  # noqa: F401  (first: blocks the network)
 
 import argparse
+import base64
 import json
 import os
 import sys
@@ -126,6 +127,20 @@ def _install_shell(window, api):
             return api.restore(draft), draft, seq if isinstance(seq, int) else None
         in_background(run, show_restore)
 
+    from webview.platforms.cocoa import BrowserView
+
+    class ReopenDelegate(BrowserView.AppDelegate):
+        """Opening the app again (Spotlight, Finder, Login Items) shows the window: the menu
+        bar item can be hidden behind the notch of a MacBook."""
+
+        def applicationShouldHandleReopen_hasVisibleWindows_(self, app, has_visible):
+            threading.Thread(target=bring_front, daemon=True).start()
+            return True
+
+    delegate = ReopenDelegate.alloc().init()
+    BrowserView._shared_app_delegate = delegate
+    NSApp.setDelegate_(delegate)
+
     class Target(NSObject):
         def open_(self, _):
             threading.Thread(target=bring_front, daemon=True).start()
@@ -177,7 +192,7 @@ def _install_shell(window, api):
 
         NSEvent.addGlobalMonitorForEventsMatchingMask_handler_(NSEventMaskKeyDown, lambda e: (on_key(e), None)[1])
         NSEvent.addLocalMonitorForEventsMatchingMask_handler_(NSEventMaskKeyDown, on_key)
-    _install_shell.keep = (target, item, menu, hotkeys)  # keep the Objective-C objects alive
+    _install_shell.keep = (target, item, menu, hotkeys, delegate)  # keep the Objective-C objects alive
     objc  # noqa: B018 (imported for its side effect of loading the bridge)
     return hotkeys, failed
 
@@ -214,8 +229,7 @@ def run_app(args) -> int:
     api, manager, engine, vault = build()
     stop = threading.Event()
     threading.Thread(target=_expire_hourly, args=(manager, stop), daemon=True).start()
-    webview.settings["OPEN_EXTERNAL_LINKS_IN_BROWSER"] = False
-    webview.settings["ALLOW_DOWNLOADS"] = False
+    _webview_settings()
     window = webview.create_window("Local DeID", url=UI.as_uri(), js_api=api, width=1100, height=760,
                                    min_size=(520, 420), text_select=True)
 
@@ -250,7 +264,6 @@ def run_app(args) -> int:
         from PyObjCTools import AppHelper
 
         AppHelper.callAfter(_install_shell, window, api)
-        AppHelper.callAfter(_no_drops, window)
         threading.Thread(target=lambda: _warm(engine), daemon=True).start()
 
     try:
@@ -261,12 +274,25 @@ def run_app(args) -> int:
     return 0
 
 
+def _webview_settings() -> None:
+    import webview
+
+    webview.settings["OPEN_EXTERNAL_LINKS_IN_BROWSER"] = False
+    webview.settings["ALLOW_DOWNLOADS"] = False
+    # The page reads no files by URL. A dropped link or page is stopped by the page
+    # (preventDefault) and, failing that, by the reload in _protect_window; with file
+    # URLs off it cannot read local files in between.
+    webview.settings["ALLOW_FILE_URLS"] = False
+
+
 def _protect_window(window, api) -> None:
     """Only the bundled page may use the bridge, and the window never stays on another
-    page. Drag-and-drop, the one way to open another page here, is also switched off
-    (`_no_drops`, once the window exists). The guard runs on bridge threads only."""
+    page. The page takes dropped documents itself and stops every other drop; if a
+    drop still navigates, the window loads the bundled page again. The guard runs on
+    bridge threads only."""
     ui_url = UI.as_uri()
     api._set_guard(lambda: (window.get_current_url() or "").split("#")[0] == ui_url)
+    api._set_chooser(lambda: _choose_document(window))
 
     def on_loaded():
         if (window.get_current_url() or "").split("#")[0] != ui_url:
@@ -290,11 +316,98 @@ def _webview_of(window):
     return find(window.native.contentView())
 
 
-def _no_drops(window) -> None:
-    """A link dropped on the window would load a web page: the web view takes no drops."""
+def _native_drop(window, objects) -> bool:
+    """Hand the web view an AppKit drop of `objects` (NSURLs), as the Finder does. Runs on
+    the main thread. Returns what performDragOperation_ returned."""
+    from AppKit import NSDragOperationCopy, NSDraggingFormationDefault, NSPasteboard
+    from Foundation import NSMakePoint, NSObject
+
     web = _webview_of(window)
-    if web is not None:
-        web.unregisterDraggedTypes()
+    pb = NSPasteboard.pasteboardWithUniqueName()
+    pb.clearContents()
+    pb.writeObjects_(objects)
+    size = web.frame().size
+    point = web.convertPoint_toView_(NSMakePoint(size.width / 2, size.height / 2), None)
+
+    class DropInfo(NSObject):  # the NSDraggingInfo calls WebKit makes for a drop
+        def draggingDestinationWindow(self): return window.native  # noqa: E704
+        def draggingSourceOperationMask(self): return NSDragOperationCopy  # noqa: E704
+        def draggingLocation(self): return point  # noqa: E704
+        def draggedImageLocation(self): return point  # noqa: E704
+        def draggedImage(self): return None  # noqa: E704
+        def draggingPasteboard(self): return pb  # noqa: E704
+        def draggingSource(self): return None  # noqa: E704
+        def draggingSequenceNumber(self): return 4242  # noqa: E704
+        def slideDraggedImageTo_(self, p): pass  # noqa: E704
+        def namesOfPromisedFilesDroppedAtDestination_(self, u): return None  # noqa: E704
+        def draggingFormation(self): return NSDraggingFormationDefault  # noqa: E704
+        def setDraggingFormation_(self, f): pass  # noqa: E704
+        def animatesToDestination(self): return False  # noqa: E704
+        def setAnimatesToDestination_(self, f): pass  # noqa: E704
+        def numberOfValidItemsForDrop(self): return 1  # noqa: E704
+        def setNumberOfValidItemsForDrop_(self, n): pass  # noqa: E704
+        def enumerateDraggingItemsWithOptions_forView_classes_searchOptions_usingBlock_(self, *a): pass  # noqa: E704
+        def springLoadingHighlight(self): return 0  # noqa: E704
+        def resetSpringLoading(self): pass  # noqa: E704
+
+    info = DropInfo.alloc().init()
+    web.draggingEntered_(info)
+    web.draggingUpdated_(info)
+    web.prepareForDragOperation_(info)
+    performed = bool(web.performDragOperation_(info))
+    web.concludeDragOperation_(info)
+    _native_drop.keep = (info, pb)
+    return performed
+
+
+def _smoke_docx(school: str = "Briarwood Elementary") -> bytes:
+    """A small synthetic .docx for the smoke run: a paragraph and a table."""
+    import io
+    import zipfile
+
+    w = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"'
+
+    def p(text):
+        return f"<w:p><w:r><w:t xml:space='preserve'>{text}</w:t></w:r></w:p>"
+
+    def row(*cells):
+        return "<w:tr>" + "".join(f"<w:tc>{p(c)}</w:tc>" for c in cells) + "</w:tr>"
+
+    body = (p("Speech-language evaluation. Mother reports Mateo started saying two-word phrases at 30 months.")
+            + "<w:tbl>" + row("Name", "DOB", "School") + row("Mateo Ruiz", "03/14/2021", school)
+            + "</w:tbl>" + p("Contact the family at (919) 555-0199. Goal: /s/ blends in 4/5 trials."))
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as z:
+        z.writestr("[Content_Types].xml",
+                   '<?xml version="1.0"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
+                   '<Default Extension="xml" ContentType="application/xml"/></Types>')
+        z.writestr("word/document.xml", f'<?xml version="1.0"?><w:document {w}><w:body>{body}</w:body></w:document>')
+    return buf.getvalue()
+
+
+def _choose_document(window):
+    """The Open dialog for one document: (extension, bytes), or None if cancelled.
+    The path stays here; only the extension and the bytes go on."""
+    import webview
+
+    from . import documents
+    from .session import SessionError
+
+    kinds = ";".join(f"*{e}" for e in documents.EXTENSIONS)
+    paths = window.create_file_dialog(webview.FileDialog.OPEN, allow_multiple=False,
+                                      file_types=(f"Documents ({kinds})",))
+    if not paths:
+        return None
+    path = Path(paths[0])
+    ext = path.suffix.lower()
+    if ext not in documents.EXTENSIONS:
+        raise SessionError("doc-unsupported")
+    try:
+        if path.stat().st_size > documents.MAX_BYTES:
+            raise SessionError("doc-too-large")
+        return ext, path.read_bytes()
+    except OSError:
+        raise SessionError("doc-unreadable") from None
 
 
 def _user_closed_window(window) -> bool:
@@ -373,6 +486,7 @@ def run_smoke(args) -> int:
     os.environ["LOCALDEID_HOME"] = scratch
     os.environ["LOCALDEID_TEST_KEYSTORE"] = "1"
     api, manager, engine, vault = build(model=not args.no_model)
+    _webview_settings()
     window = webview.create_window("Local DeID", url=UI.as_uri(), js_api=api, width=args.width, height=760,
                                    text_select=True)
     _protect_window(window, api)
@@ -435,9 +549,10 @@ def run_smoke(args) -> int:
     def script():
         try:
             step("bridge ready", wait_js("!!(window.pywebview && window.pywebview.api)", 60))
-            _on_main(lambda: _no_drops(window))
             step("guard accepts the bundled page", api.state().get("ok") is True)
-            step("web view takes no drops", _on_main(lambda: len(_webview_of(window).registeredDraggedTypes())) == 0)
+            types = [str(t) for t in (_on_main(lambda: _webview_of(window).registeredDraggedTypes()) or [])]
+            step("web view takes dropped files", any("file-url" in t or "NSFilenames" in t for t in types),
+                 ", ".join(types)[:300])
             step("first-run card shown", wait_js("!document.getElementById('firstrun').hidden", 20))
             shot("1-welcome")
             window.evaluate_js("document.getElementById('trysample').click()")
@@ -487,8 +602,75 @@ def run_smoke(args) -> int:
             restored = window.evaluate_js("document.getElementById('restored').textContent")
             step("restored equals the note", restored == api._m.get(api._m.history()[0].id).raw)
             shot("3-restore")
+            # A document dropped on the window opens in Check (SPEC 5.4); its name never leaves the page.
+            sessions_before = len(api._m.history())
+            drop_js = ("((b64, name) => { const bin = atob(b64); const u = new Uint8Array(bin.length);"
+                       "for (let i = 0; i < bin.length; i++) u[i] = bin.charCodeAt(i);"
+                       "const dt = new DataTransfer(); dt.items.add(new File([u], name));"
+                       "document.querySelector('nav button[data-view=history]').click();"
+                       "document.dispatchEvent(new DragEvent('drop', {dataTransfer: dt, bubbles: true, cancelable: true}));"
+                       "})({b64}, {name})")
+            window.evaluate_js(drop_js.replace("{b64}", json.dumps(base64.b64encode(_smoke_docx()).decode()))
+                               .replace("{name}", json.dumps("Mateo Ruiz evaluation.docx")))
+            ok = wait_js("!document.getElementById('check').hidden && "
+                         "document.getElementById('text').textContent.includes('Briarwood Elementary')", 120)
+            step("dropped .docx opens in Check", ok)
+            raw = api._m.get(api._m.history()[0].id).raw if len(api._m.history()) > sessions_before else ""
+            step("dropped table row is tab-separated", "Mateo Ruiz\t03/14/2021\tBriarwood Elementary" in raw)
+            step("dropped file's name is not kept", "evaluation.docx" not in raw)
+            shot("3b-document")
+            api._clipboard.write("smoke sentinel")
+            window.evaluate_js("document.getElementById('copy').click()")
+            end = time.time() + 60
+            while time.time() < end and not (api._clipboard.read() or "").startswith("ref: "):
+                time.sleep(0.3)
+            got = api._clipboard.read() or ""
+            step("dropped document copies de-identified", got.startswith("ref: ") and "Mateo" not in got
+                 and "Briarwood" not in got and "555-0199" not in got and "/s/ blends" in got)
+            window.evaluate_js(drop_js.replace("{b64}", json.dumps(base64.b64encode(b"x").decode()))
+                               .replace("{name}", json.dumps("notes.pages")))
+            ok = wait_js("!document.getElementById('notice').hidden && "
+                         "document.getElementById('notice').textContent.includes('cannot be read')", 10)
+            step("unsupported file shows a message", ok)
+            # The same drops as AppKit delivers them from the Finder: a file opens; a web link
+            # and a local web page never replace the window's page.
+            from AppKit import NSURL
+
+            native = Path(scratch) / "Mateo Ruiz native.docx"
+            native.write_bytes(_smoke_docx("Oakmont Elementary"))
+            window.evaluate_js("document.querySelector('nav button[data-view=history]').click()")
+            performed = _on_main(lambda: _native_drop(window, [NSURL.fileURLWithPath_(str(native))]))
+            ok = wait_js("!document.getElementById('check').hidden && "
+                         "document.getElementById('text').textContent.includes('Oakmont Elementary')", 120)
+            step("Finder drop of a .docx opens in Check", ok, f"performed={performed} notice="
+                 f"{window.evaluate_js('document.getElementById(`notice`).textContent')!r} views="
+                 f"{window.evaluate_js('Array.from(document.querySelectorAll(`.view`)).filter(v => !v.hidden).map(v => v.id).join()')}")
+            page = Path(scratch) / "page.html"
+            page.write_text("<p>not the app</p>")
+            for label, obj in (("web link", NSURL.URLWithString_("https://example.com/")),
+                               ("local web page", NSURL.fileURLWithPath_(str(page)))):
+                _on_main(lambda o=obj: _native_drop(window, [o]))
+                time.sleep(2.0)
+                url = (window.get_current_url() or "").split("#")[0]
+                step(f"Finder drop of a {label} leaves the app page", url == UI.as_uri() and api.state().get("ok"),
+                     url)
             hk = _on_main(lambda: _install_shell(window, api))
             step("hotkeys registered", hk is not None and hk[0] is not None and not hk[1], str(hk and hk[1]))
+            # Opening the app again (Spotlight, Finder) shows the hidden window: the menu bar
+            # item can sit behind the notch.
+            window.hide()
+            hidden_now = not _on_main(lambda: bool(window.native.isVisible()))
+
+            def reopen():
+                from AppKit import NSApp
+                return bool(NSApp.delegate().applicationShouldHandleReopen_hasVisibleWindows_(NSApp, False))
+
+            handled = _on_main(reopen)
+            end = time.time() + 10
+            while time.time() < end and not _on_main(lambda: bool(window.native.isVisible())):
+                time.sleep(0.2)
+            step("reopening the app shows the window", hidden_now and handled
+                 and _on_main(lambda: bool(window.native.isVisible())))
             api._clipboard.write(SMOKE_NOTE)
             sim = _on_main(lambda: hk[0].simulate(HOTKEY_D))
             end = time.time() + 180
@@ -587,6 +769,7 @@ def run_memory(args) -> int:
     os.environ["LOCALDEID_HOME"] = scratch
     os.environ["LOCALDEID_TEST_KEYSTORE"] = "1"
     api, manager, engine, vault = build(model=True)
+    _webview_settings()
     window = webview.create_window("Local DeID", url=UI.as_uri(), js_api=api, width=1100, height=760)
     _protect_window(window, api)
     inputs = ROOT / "harness" / "inputs"

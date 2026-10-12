@@ -4,8 +4,9 @@ A Mac menu-bar app that de-identifies a bilingual (English/Spanish) pediatric
 speech-language pathologist's documents (evaluations, assessments, IFSPs,
 daily notes) on her own Mac, fully offline.
 
-1. Copy a note from the EMR and press **⌃⌥D**. The app replaces names, places,
-   schools, dates, phone numbers, and IDs with tags such as `[CHILD_1]`.
+1. Copy a note from the EMR and press **⌃⌥D**, or drop a Word, PDF, RTF, or
+   text document on the window. The app replaces names, places, schools,
+   dates, phone numbers, and IDs with tags such as `[CHILD_1]`.
 2. Paste the tagged text into ChatGPT or Claude to draft.
 3. Copy the draft and press **⌃⌥R**. The app puts the real values back, on
    this Mac only.

@@ -8,12 +8,15 @@ step (SPEC 5.3) and never contain note text.
 
 from __future__ import annotations
 
+import base64
+import binascii
 import re
 import secrets
 import threading
 from dataclasses import asdict
 from typing import Any, Callable
 
+from . import documents
 from .caseload import CaseloadError, parse
 from .engine import EngineError
 from .session import Manager, SessionError, view
@@ -48,6 +51,27 @@ MESSAGES = {
     "caseload-damaged": "Your saved caseload cannot be read, so the checks are stopped. To start again, use "
                         "Settings > Delete everything.",
     "bad-request": "Something went wrong in the app. Try again.",
+    "doc-unsupported": "This kind of file cannot be read. Use a Word (.docx or .doc), PDF, RTF, or text file.",
+    "doc-too-large": "This file is larger than 25 MB. Save a shorter copy, or copy the text and paste it.",
+    "doc-empty": "This document has no text in it.",
+    "doc-unreadable": "This file cannot be read. Open it, save it again as Word or PDF, and try again. "
+                      "Or copy the text and paste it.",
+    "doc-locked": "This PDF is protected by a password. Open it, copy the text, and paste it.",
+    "doc-scanned": "This PDF is a scan (a picture of the pages), so it has no text to check. Print it to PDF "
+                   "from the EMR, or copy the text and paste it.",
+    "doc-embedded": "This Word file holds another document or an embedded table, which the app cannot read. "
+                    "Copy the text and paste it.",
+    "doc-equation": "This Word file has an equation the app cannot read. Copy the text and paste it.",
+    "doc-incomplete": "Part of this Word file cannot be read, so it was not opened. Copy the text and paste it.",
+    "deleted-meanwhile": "Delete everything ran while the document was being read, so it was not opened.",
+    "doc-form": "This PDF form has a list with several choices, which the app cannot read. Print it to PDF "
+                "(File > Print > Save as PDF), or copy the text and paste it.",
+    "doc-numbering": "This Word file uses a kind of list numbering the app cannot read. Copy the text and "
+                     "paste it.",
+    "doc-form-word": "This Word form has a drop-down list the app cannot read. Copy the text and paste it.",
+    "doc-symbols": "This Word file uses a symbol the app cannot read. Copy the text and paste it.",
+    "doc-part-scanned": "Part of this PDF is a scan or a picture, so some of its words cannot be checked. "
+                        "Print it to PDF from the EMR, or copy the text and paste it.",
 }
 
 
@@ -68,6 +92,7 @@ class Api:
         self._notify = notify or (lambda text: None)
         self._drafts: dict[str, str] = {}  # confirmation token -> the draft it was shown for
         self._guard: Callable[[], bool] | None = None
+        self._choose: Callable[[], tuple[str, bytes] | None] | None = None
         self._lock = threading.Lock()
 
     # ------------------------------------------------------------------ plumbing
@@ -75,6 +100,10 @@ class Api:
     def _set_guard(self, guard: Callable[[], bool]) -> None:
         """`guard()` is True only while the window shows the bundled UI (the app sets it)."""
         self._guard = guard
+
+    def _set_chooser(self, choose: Callable[[], tuple[str, bytes] | None]) -> None:
+        """`choose()` shows the Open dialog and returns (extension, bytes), or None (the app sets it)."""
+        self._choose = choose
 
     def _wrap(self, fn: Callable[[], dict]) -> dict:
         if self._guard is not None:
@@ -165,6 +194,36 @@ class Api:
 
     def paste(self, text: Any) -> dict:
         return self._wrap(lambda: {"view": view(self._m.new(self._text(text)))})
+
+    def open_document(self, ext: Any, data: Any, wipes: Any = None) -> dict:
+        """A dropped document: its extension (never its name) and its bytes as base64.
+        `wipes` is the Delete everything count the page read before reading the file."""
+        def run():
+            if not isinstance(ext, str) or not isinstance(data, str):
+                raise SessionError("bad-request")
+            if len(data) > documents.MAX_BYTES * 4 // 3 + 4:
+                raise SessionError("doc-too-large")
+            # a Delete everything after the page started reading cancels this import
+            since = wipes if isinstance(wipes, int) and not isinstance(wipes, bool) else self._m.wipes
+            try:
+                raw = base64.b64decode(data, validate=True)
+            except (binascii.Error, ValueError):
+                raise SessionError("doc-unreadable") from None
+            return {"view": view(self._m.new(documents.extract(ext, raw), unless_wiped_since=since))}
+        return self._wrap(run)
+
+    def choose_document(self) -> dict:
+        """The Open a document… button: the Open dialog, then the same checks as a drop."""
+        def run():
+            if self._choose is None:
+                raise SessionError("bad-request")
+            since = self._m.wipes
+            picked = self._choose()
+            if picked is None:
+                return {"cancelled": True}
+            ext, raw = picked
+            return {"view": view(self._m.new(documents.extract(ext, raw), unless_wiped_since=since))}
+        return self._wrap(run)
 
     def open(self, sid: Any) -> dict:
         return self._wrap(lambda: {"view": view(self._m.refresh(self._sid(sid)))})
@@ -297,7 +356,7 @@ class Api:
         def run():
             st = self._settings_dict()
             return {"first_run": not st["first_run_done"], "engine": getattr(self._engine, "status", "unknown"),
-                    "restarts": getattr(self._engine, "restarts", 0)}
+                    "restarts": getattr(self._engine, "restarts", 0), "wipes": self._m.wipes}
         return self._wrap(run)
 
     def selftest(self) -> dict:

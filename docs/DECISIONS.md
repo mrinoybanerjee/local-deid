@@ -408,3 +408,103 @@ spec does not state, and need Mrinoy's review.
     memory with the window open (`harness/app_memory.sh`: SPEC workloads,
     kernel lifetime peaks; 1,901-1,912 MiB on the mini), the self-test, and the app install. It no longer
     copies or installs GLiNER or the adapters.
+
+27. **v1.1: document input** (Mrinoy relayed the clinician's request,
+    2026-10-12; design reviewed by Fable 5.1, 2026-10-12). SPEC v6.1
+    section 5.4.
+    - **What:** drop one document on the window, or "Open a document…";
+      its text goes through the same path as a paste. Output stays text.
+    - **.docx is read by our own parser**, not `textutil`: `textutil`
+      writes each table cell on its own line, which breaks the form-field
+      parser's "Label<TAB>value" rows. Our reader writes each row as
+      tab-separated cells, the same shape as a Word table pasted into the
+      app, so a dropped .docx and a paste give the same input. Content
+      controls, insertions, hyperlinks, smart tags, custom XML, and text
+      boxes are read, taking one representation of each
+      mc:AlternateContent (its first mc:Choice, else mc:Fallback); tracked
+      deletions, moved-from text, and field codes are not. `w:sym` symbols
+      are decoded (Symbol font through the Mac Symbol encoding; Wingdings
+      check boxes and marks ◻ ✘ ✔ ☒ ☑); any other private-font symbol is
+      refused (`doc-symbols`). `w:altChunk` and `w:object` (embedded
+      documents, Excel tables) are refused (`doc-embedded`). Pictures are not
+      read (like headers). Radio groups in PDF forms give the chosen option.
+      (`/cr` round 2 findings.) .doc, .rtf, and .odt content is whatever
+      `textutil` returns.
+    - **Completeness check for .docx** (after `/cr` rounds 1-3 each found
+      another Word structure that could drop text): every non-space
+      character of every visible w:t and m:t (same skips and AlternateContent
+      choice as the reader) must appear in what the reader took, or the
+      document is refused (`doc-incomplete`). Equations made only of runs
+      are read as text; any OMML structure (fraction, script, root...) is
+      refused (`doc-equation`). PDF dropdowns give the shown label, not the
+      export value. A Delete everything while a document is being read
+      cancels that import (`Manager.wipes`; `deleted-meanwhile`).
+      (`/cr` round 3 findings.) Round 4: dropdown labels come from /V
+      mapped through the options by position (PDFKit already shows labels for
+      real files); a multi-select list (Ff bit 22) is refused (`doc-form`),
+      because PDFKit drops an array /V; the page reads the app's Delete
+      everything count before reading the file and sends it with the bytes,
+      and drops the import if its own count changed.
+      Round 5: the page drops a pending import when Delete everything
+      starts, not when its reply arrives; a text-less PDF page counts as a
+      picture if any pixel is not pure white at full size (pale and thin
+      marks too); Word automatic numbering (numbering.xml, styles.xml with
+      basedOn, startOverride, decimal, letters, roman, ordinal, bullets as
+      "•") is written as Word shows it, a tab after the label as in a paste;
+      any other number format is refused (`doc-numbering`).
+      Round 6: legacy Word check boxes (FORMCHECKBOX, state in ffData) are
+      written ☒ or ☐; legacy drop-downs are refused (`doc-form-word`: the
+      shown entry is not stored as text); w:lvlRestart is honored. Not
+      adopted: separate counters per w:num. Word continues the count across
+      w:num instances on one abstractNum; restarting takes a startOverride
+      (ooxml.org w:startOverride notes; docx-plus and OfficeCLI document the
+      same Word behavior, 2026-10-12).
+      Round 7: a sub-level startOverride applies at each restart; numId and
+      level are inherited separately through basedOn; a level linked to a
+      style (w:lvl/w:pStyle) is used when the paragraph has no level.
+      Round 8: a text-less page is checked for ink even when it has form
+      fields or text boxes (a filled scan is still refused).
+      Verification round 9 (after the round 8 fix): table rows keep grid
+      columns (gridBefore, gridAfter, gridSpan as empty cells), so values stay
+      under their headers for the fields detector. Loop closed here by the
+      stopping rule below. Known limits, recorded: words inside pictures on a
+      page or in a Word body (no OCR); headers, footers, footnotes, comments
+      (not read by design); .doc/.rtf/.odt content is textutil's; Word
+      numbering formats other than decimal, letters, roman, ordinal, and
+      bullets are refused.
+    - **Stopping rule for this `/cr` loop** (written before round 6, as in
+      DECISIONS 24): fix every finding that can drop or change visible
+      clinical text in a .docx or .pdf an EMR or Word produces, or that can
+      keep data after Delete everything. A finding about a rare document
+      structure is handled by refusing it (with a next step) when a refusal
+      is simple, else recorded here as a limit. The loop ends when a round
+      has no finding of the first kind, or after round 8 with the rest
+      recorded. Caps: 25 MB file, 50 MB
+      document.xml. Python 3.12's expat (2.6.3) stops entity amplification.
+    - **.doc, .rtf, .odt via `textutil`** through stdin and stdout (no
+      temp file). Note: `textutil` runs outside the app's network guard;
+      a document with a linked remote picture could, in principle, make it
+      fetch. Low risk; the app itself stays offline.
+    - **.pdf via PDFKit**: an empty open password is tried (owner-password
+      PDFs); a real open password and a PDF with no pages are refused. Filled
+      form fields (text, choice, checked boxes) and typed FreeText boxes are
+      not in the page text, so they are added as "Field name: value" lines.
+      A page with no text that still draws ink (rendered to a 120 x 160 gray
+      bitmap) is a scan or picture: the whole PDF is refused (all pages:
+      `doc-scanned`; some: `doc-part-scanned`), because dropping a page's
+      words silently would break "never change anything except the
+      identifiers". Blank pages pass. No OCR. (`/cr` round 1 findings.)
+    - **Headers, footers, footnotes, comments are not read** (advisor:
+      what is not extracted cannot leak; headers repeat the child's name
+      and DOB on every page).
+    - **The filename never leaves the page**: the page sends the extension
+      and the bytes only. The page checks the size before reading.
+    - **Drops:** the web view takes drops again (`_no_drops` removed). The
+      page stops every drop and opens only files it can read; a dropped
+      link or page never replaces the app's page (smoke checks both with
+      AppKit-level drops), the reload guard stays, and
+      `ALLOW_FILE_URLS` is off.
+    - **Reopen shows the window:** the app delegate handles reopen
+      (Spotlight, Finder), because the menu bar item can be hidden behind
+      a MacBook's notch. A second `open` reaches the running app (checked
+      with LaunchServices on the mini).

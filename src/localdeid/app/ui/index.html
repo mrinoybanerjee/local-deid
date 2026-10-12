@@ -22,11 +22,14 @@
 
 <main>
 <section id="home" class="view" aria-labelledby="home-h">
-  <h1 id="home-h">Paste a note</h1>
-  <p class="hint">Paste with ⌘V and the checks run at once. Or copy a note anywhere and press ⌃⌥D.</p>
+  <h1 id="home-h">Paste a note or drop a document</h1>
+  <p class="hint">Paste with ⌘V and the checks run at once. Or copy a note anywhere and press ⌃⌥D.
+    Or drop a Word, PDF, RTF, or text file anywhere on this window. Headers, footers, footnotes, and
+    comments in a document are not read.</p>
   <label for="paste" class="sr">Note text</label>
-  <textarea id="paste" spellcheck="false" placeholder="Paste a note here (⌘V)"></textarea>
-  <div class="row"><button id="run" class="primary">De-identify</button></div>
+  <textarea id="paste" spellcheck="false" placeholder="Paste a note here (⌘V), or drop a document"></textarea>
+  <div class="row"><button id="run" class="primary">De-identify</button>
+    <button id="opendoc">Open a document…</button></div>
 </section>
 
 <section id="check" class="view" hidden aria-labelledby="check-h">

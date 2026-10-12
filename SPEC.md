@@ -50,7 +50,10 @@ Yes, with one honest limit.
   - v1 takes pasted text, including tables pasted from Word or the EMR as
     tab-separated text. Session transcripts are not a v1 input.
   - She writes in an EMR. v1 is **paste in, paste out only**: no file import
-    and no file export.
+    and no file export. **v1.1 (2026-10-12, the clinician's request):** a
+    document dropped on the window, or opened with "Open a document…", is
+    read as text and checked like a paste (section 5.4). Output stays
+    text: no file export.
 - **Hardware:** MacBook Air, M3 or M4, **8 GB RAM (confirmed)**. Chrome and
   ChatGPT will be open at the same time.
 - **Install:** Mrinoy builds and installs the app on her Mac, and keeps one
@@ -342,6 +345,48 @@ must also be the easiest path; otherwise she will paste raw notes into ChatGPT.
   - A narrow-window layout.
   - Color is never the only signal.
 
+### 5.4 Documents (v1.1)
+
+- **Input:** drop one file anywhere on the window, or click "Open a
+  document…". Word (.docx, .doc), PDF, RTF, OpenDocument text (.odt), and
+  text files (.txt, .md), up to 25 MB.
+- **Same path as a paste:** the app reads the document's text, and the
+  Check view, Copy, and Restore work exactly as for a pasted note. The
+  text in Check is exactly the text that was checked.
+- **.docx** is read by the app itself: body text in order, and each table
+  row as one line of tab-separated cells, the same shape as a table pasted
+  from Word, so the form-field parser reads it the same way. Content
+  controls, insertions, hyperlinks, text boxes (one representation each),
+  and symbol characters are read; tracked deletions, moved-from text, field
+  codes, and pictures are not. Automatic list numbers and bullets are
+  written as Word shows them ("1." then a tab), as in a paste from Word.
+  Plain equations are read as their text. A
+  .docx with an embedded document or object (for example an Excel table),
+  a structured equation, a symbol the app cannot name, or any visible text
+  the reader did not take (a completeness check counts every character) is
+  refused, never read in part. **.doc, .rtf, .odt** go through macOS `textutil`; **.pdf** through
+  PDFKit, with filled form fields as "Field name: value" lines (the label
+  shown, for a dropdown or a radio group) and typed text boxes (a form with
+  a multi-select list is refused: its choices cannot be read); text files as UTF-8, UTF-16 with a BOM, or Windows-1252.
+- **Not read:** headers, footers, footnotes, and comments (as when copying
+  the body). What is not read cannot leak.
+- **Refused with a next step:** other file types, files over 25 MB,
+  password-protected PDFs, and any PDF with a scanned or picture-only page
+  (a page that shows something but has no text), because its words could
+  not be checked ("Print it to PDF from the EMR, or copy the text and
+  paste it"). No OCR. Words inside pictures on a page that also has text
+  are not read (no OCR); EMR exports have no such pictures.
+- **Delete everything wins:** a document still being read when Delete
+  everything runs is not opened or saved.
+- **The file's name never reaches the engine, the vault, or a log:** the
+  page sends only the extension and the bytes, because a filename can hold
+  a child's name. Nothing is written to disk while reading.
+- **Safety of drops:** the page stops every drop; only a file it can read
+  is opened. A dropped link or web page never replaces the app's page, and
+  the web view has no file-URL access.
+- **Finding the window:** opening the app again (Spotlight, Finder) shows
+  the window, because the menu bar item can be hidden behind the notch.
+
 ## 6. Tag rules (v1: tags only)
 
 | Type | Tag | Notes |
@@ -426,7 +471,7 @@ None. Resolved on 2026-10-10:
   transcripts.
 - Tags only in v1, with fake names later: accepted.
 - She writes in an EMR, so the app is paste in, paste out. No file import or
-  export.
+  export. (v1.1 adds document input; section 5.4.)
 - No samples or templates from the clinician. The app must work on any SLP text, so
   we build and test it on varied public and generated documents.
 
@@ -459,6 +504,9 @@ None. Resolved on 2026-10-10:
     independent gate set (from a different model family) cover many styles
     and templates, plus general text.
   - No open questions.
+- **v6.1 (2026-10-12):** document input by drop or "Open a document…"
+  (section 5.4), at the clinician's request; output stays text. Opening the
+  app again shows its window. Decision record: `docs/DECISIONS.md` 27.
 
 ## 12. Review synthesis (v3 → v4)
 

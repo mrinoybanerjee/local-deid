@@ -2,7 +2,7 @@
 // Engine offsets are code points; the DOM uses UTF-16, so offsets are converted here only.
 "use strict";
 
-const S = { view: null, selRow: 0, restore: null, ready: false, restoreSeq: 0, opens: 0, shown: 0, wiped: 0,
+const S = { view: null, selRow: 0, restore: null, ready: false, restoreSeq: 0, opens: 0, shown: 0, wiped: 0, deletes: 0,
   loads: {}, deleted: new Set() };
 
 // Check view replies. Each opening of a note (paste, History, hotkey) takes a number
@@ -435,6 +435,7 @@ function bind() {
     }
   });
   $("deleteall").addEventListener("click", async () => {
+    S.deletes++;  // a document being read is dropped from now on, before the reply
     const out = await call("delete_everything", $("deleteconfirm").value);
     if (out.ok) {
       // nothing deleted may stay on screen, and no reply on its way may bring it back
@@ -481,8 +482,77 @@ function bind() {
       notice("Use Copy restored draft: it clears itself from the clipboard.", true);
     }
   });
-  // Nothing may be dropped onto the window: a dropped link would open a web page.
-  for (const t of ["dragover", "drop"]) document.addEventListener(t, (e) => e.preventDefault());
+  // A dropped document opens in Check. Every drop is stopped first, so a dropped link
+  // or page never loads in the window.
+  document.addEventListener("dragover", (e) => {
+    e.preventDefault();
+    if (hasFiles(e)) {
+      e.dataTransfer.dropEffect = "copy";
+      document.body.classList.add("dropping");
+      clearTimeout(S.dropTimer);
+      S.dropTimer = setTimeout(() => document.body.classList.remove("dropping"), 200);
+    }
+  });
+  document.addEventListener("drop", (e) => {
+    e.preventDefault();
+    document.body.classList.remove("dropping");
+    const files = e.dataTransfer ? e.dataTransfer.files : null;
+    if (!files || files.length === 0) return;
+    if (files.length > 1) { notice("Drop one document at a time.", true); return; }
+    openDocument(files[0]);
+  });
+  $("opendoc").addEventListener("click", chooseDocument);
+}
+
+// Documents (SPEC 5.4). Only the extension and the bytes go to the app, never the
+// file's name: a name can hold a child's name.
+const DOC_EXTS = [".docx", ".doc", ".pdf", ".rtf", ".odt", ".txt", ".md"];
+const DOC_MAX = 25 * 1024 * 1024;
+
+function hasFiles(e) {
+  return !!(e.dataTransfer && Array.from(e.dataTransfer.types || []).includes("Files"));
+}
+
+function toBase64(buf) {
+  const bytes = new Uint8Array(buf);
+  let bin = "";
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+  return btoa(bin);
+}
+
+async function openDocument(file) {
+  const name = file.name || "";
+  const dot = name.lastIndexOf(".");
+  const ext = dot < 0 ? "" : name.slice(dot).toLowerCase();
+  if (!DOC_EXTS.includes(ext)) {
+    notice("This kind of file cannot be read. Use a Word (.docx or .doc), PDF, RTF, or text file.", true);
+    return;
+  }
+  if (file.size > DOC_MAX) {  // checked before reading: a huge file is never loaded
+    notice("This file is larger than 25 MB. Save a shorter copy, or copy the text and paste it.", true);
+    return;
+  }
+  const gen = beginOpen();
+  // A Delete everything that finishes while the file is read cancels this import,
+  // here and in the app (which compares its own count, read now).
+  const deletes = S.deletes;
+  const st = await callQuiet("state");
+  const wipes = st.ok && Number.isInteger(st.wipes) ? st.wipes : null;
+  notice("Reading the document…");
+  let data;
+  try { data = toBase64(await file.arrayBuffer()); } catch (err) {
+    notice("This file cannot be read. Open it, save it again as Word or PDF, and try again.", true);
+    return;
+  }
+  if (deletes !== S.deletes) { notice(""); return; }
+  const out = await call("open_document", ext, data, wipes);
+  if (out.ok) { notice(""); showOpened(gen, out.view); }
+}
+
+async function chooseDocument() {
+  const gen = beginOpen();
+  const out = await call("choose_document");
+  if (out.ok && out.view) { notice(""); showOpened(gen, out.view); }
 }
 
 async function runPaste() {

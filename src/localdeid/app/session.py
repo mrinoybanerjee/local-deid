@@ -110,6 +110,7 @@ class Manager:
         self.clock = clock
         self._settings_loader = settings_loader or (lambda: {})
         self._open: dict[str, Session] = {}
+        self.wipes = 0  # Delete everything runs so far (an import started before one is refused)
         self._q: queue.Queue = queue.Queue()
         self._closing = threading.Lock()
         self._closed = False
@@ -417,6 +418,7 @@ class Manager:
         self.vault.delete(sid)
 
     def _delete_everything(self) -> None:
+        self.wipes += 1
         self._open.clear()  # a cached session must not be saved again under the new key
         self.vault.delete_everything()
 
@@ -429,8 +431,15 @@ class Manager:
 
     # ------------------------------------------------------------------ public API (any thread)
 
-    def new(self, text: str) -> Session:
-        return self.call(self._new, text)
+    def new(self, text: str, unless_wiped_since: int | None = None) -> Session:
+        """A new session. With `unless_wiped_since` (a `wipes` value read before the
+        caller started), a Delete everything in between refuses it: an import that was
+        still reading must not save its text after the data was deleted."""
+        def run():
+            if unless_wiped_since is not None and self.wipes != unless_wiped_since:
+                raise SessionError("deleted-meanwhile")
+            return self._new(text)
+        return self.call(run)
 
     def decide(self, sid: str, decision_key: str, hidden: bool, confirmed: bool = False) -> Session:
         return self.call(self._decide, sid, decision_key, hidden, confirmed)
