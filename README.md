@@ -61,7 +61,11 @@ the app needs macOS on Apple Silicon (MLX, AppKit, Keychain).
 ## Privacy
 
 No real client data belongs in this repository, its tests, logs, or issues.
-All evaluation data is synthetic. Third-party licenses are in `LICENSES/`.
+All evaluation data is synthetic.
+
+## License
+
+MIT (see `LICENSE`). Third-party licenses for the models are in `LICENSES/`.
 
 Build history before 2026-10-12 (and the design reviews and research notes) is
 in a private archive repository; commit hashes cited in `docs/DECISIONS.md` and
