@@ -1,0 +1,23 @@
+name: Model-free regression tests
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: blacksmith-2vcpu-ubuntu-2404
+    timeout-minutes: 15
+    steps:
+      - uses: useblacksmith/checkout@4a338d9e78beb326c7222f0693507fe80bae37f2
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+      - run: uv sync --frozen
+      - name: Synthetic engine, vault, session and document tests
+        run: >-
+          uv run --no-sync pytest -q
+          --ignore=tests/test_finetune.py
+          --ignore=tests/test_app_clipboard.py
+          --ignore=tests/test_app_hotkeys.py
