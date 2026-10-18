@@ -287,11 +287,14 @@ class Api:
     def restore(self, draft: Any = None) -> dict:
         def run():
             text = self._clipboard.read() if draft is None and self._clipboard is not None else self._text(draft)
+            since = self._m.wipes
             res = self._m.restore_draft(text)
             if res.get("status") == "confirm":
                 # The confirmation is bound to this exact draft: a later restore cannot swap it.
                 token = secrets.token_hex(8)
                 with self._lock:
+                    if self._m.wipes != since:
+                        raise SessionError("draft-expired")
                     self._drafts[token] = text
                     while len(self._drafts) > 20:
                         self._drafts.pop(next(iter(self._drafts)))
@@ -370,7 +373,13 @@ class Api:
         def run():
             if confirm != "DELETE":
                 raise SessionError("confirm")
-            self._m.delete_everything()
+            try:
+                self._m.delete_everything()
+            finally:
+                # These drafts live outside Manager's session cache and may
+                # contain text pasted back from the clinician's AI editor.
+                with self._lock:
+                    self._drafts.clear()
             return {}
         out = self._wrap(run)
         if not out["ok"] and out["error"] == "confirm":

@@ -141,6 +141,7 @@ def test_docx_nested_table_stays_in_its_cell():
 
 
 @mac
+@mac
 def test_docx_symbols_are_decoded_or_refused():
     def sym(font, char):
         return f"<w:r><w:sym w:font='{font}' w:char='{char}'/></w:r>"

@@ -116,8 +116,22 @@ uv sync --extra mlx --extra app
 cd tests && PYTHONPATH=../src ../.venv/bin/python -m pytest -q
 ```
 
-Tests that need model files skip when the files are missing. There is no CI:
-the app needs macOS on Apple Silicon (MLX, AppKit, Keychain).
+For the model-free regression suite, including the encrypted vault and synthetic
+session tests:
+
+```sh
+uv sync --frozen --extra app
+uv run --no-sync pytest -q --ignore=tests/test_finetune.py \
+  --ignore=tests/test_app_clipboard.py --ignore=tests/test_app_hotkeys.py
+```
+
+CI runs the portable subset on Linux without app/model dependencies. Mac-only
+checks skip there, including Symbol-font decoding, PDFKit, textutil, and native
+memory checks. Clipboard/hotkey integration tests need an interactive
+Mac session; the experimental fine-tuning tests need their separate model/MLX
+setup. Tests requiring missing model files skip. Passing this suite does not
+establish model recall, clinician acceptance, runtime network isolation, or the
+8 GB Air memory/speed gates.
 
 ## Layout
 
