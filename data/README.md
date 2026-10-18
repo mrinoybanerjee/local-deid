@@ -9,6 +9,10 @@ All documents are fictional. No real client data is stored here or anywhere in t
 | `dev2/dev2.jsonl` | Claude Sonnet 5, prompt v2 | 119 | Engine tuning. Prompt v2 marks every clinical token as KEEP and adds organization-heavy challenges (agencies, employers, workplaces, daycares, hospitals). |
 | `gate2/gate2.jsonl` | GPT-6.1 Sol, high reasoning, prompt v2 | 66 | Sealed gate set. Metrics only, measured once at the end of phase 1. Same strata as `gate`. |
 
+The later `gate4/gate4.jsonl` contains 185 synthetic documents (GPT-6.1 Sol, prompt v3, seed 53).
+It was evaluated once and is spent; see [the gate4 report](../reports/eval/phase3-gate4.md).
+It must not become a tuning set. A later release decision needs a new sealed gate.
+
 - Each record: `doc_id`, `text`, `spans` (`start`, `end`, `type`; code-point offsets), `meta`
   (language, doc_type, style, challenges, generator, attempt, split).
 - Labels come from inline markup (`[[TYPE|text]]`, `[[KEEP|text]]`) parsed by
