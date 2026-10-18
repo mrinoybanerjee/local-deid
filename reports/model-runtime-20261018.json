@@ -1,0 +1,144 @@
+{
+  "recorded_at": "2026-10-18T23:11:49.766681+00:00",
+  "source_commit": "1b24f22aa8bb5390f6d604cd9ecfc7310133e74c",
+  "source_restore_sha256": "f7e7e925eadf270db4872da22b65603ca9aedf959394d79a179d77f459da61d6",
+  "runner_sha256": "0bb8ef45b2cc48b0328346b298e0957b673ae93d99d46fe058617023ed0759d8",
+  "python": "3.12.12",
+  "os": "macOS-26.6.2-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.5.4",
+    "tiktoken": "0.14.0",
+    "mlx": "0.32.3",
+    "mlx-metal": "0.32.3",
+    "cryptography": "50.0.2"
+  },
+  "backend": "mlx_8bit",
+  "model": true,
+  "native_clipboard": false,
+  "keychain": false,
+  "limitations": "Four synthetic fixtures; not clinical acceptance, multilingual recall, OS-wide network isolation, or an 8 GB Air performance test.",
+  "checks": {
+    "worker_selftest": true,
+    "sample:paste": true,
+    "sample:copy": true,
+    "sample:no_inferred_gender": true,
+    "sample:identifiers_hidden": true,
+    "sample:clinical_tokens_preserved": true,
+    "sample:restore_exact": true,
+    "sample:copy_restored": true,
+    "spanish:paste": true,
+    "spanish:copy": true,
+    "spanish:identifiers_hidden": true,
+    "spanish:restore_exact": true,
+    "spanish:copy_restored": true,
+    "unicode:paste": true,
+    "unicode:copy": true,
+    "unicode:no_inferred_gender": true,
+    "unicode:identifiers_hidden": true,
+    "unicode:clinical_tokens_preserved": true,
+    "unicode:restore_exact": true,
+    "unicode:copy_restored": true,
+    "clinical-only:paste": true,
+    "clinical-only:copy": true,
+    "clinical-only:clinical_tokens_preserved": true,
+    "clinical-only:restore_exact": true,
+    "clinical-only:copy_restored": true,
+    "worker_restart_model_selftest": true,
+    "saved_session:0:restore_exact": true,
+    "saved_session:1:restore_exact": true,
+    "saved_session:2:restore_exact": true,
+    "saved_session:3:restore_exact": true,
+    "vault_has_no_plaintext_notes": true,
+    "delete_temporary_sessions": true,
+    "delete_clears_history": true,
+    "deleted_mapping_cannot_restore": true,
+    "new_session_after_delete": true
+  },
+  "fixtures": [
+    {
+      "id": "sample",
+      "tagged": "ref: XD2P — keep this line and all [TAGS] exactly as written.\n[CHILD_1]. Language: English. Tags named SURNAME are family surnames.\nName: [CHILD_1] [SURNAME_1]   DOB: [DATE_1]/2021\nMother: [PERSON_1] [SURNAME_1] [PHONE_1]\n[CHILD_1] produced /k/ in 8/10 trials with mod cues at [DAYCARE_1]. CPT 92507.",
+      "counts": {
+        "hidden": 8,
+        "unsure": 0,
+        "checks": 0
+      },
+      "elapsed_seconds": 0.051328917033970356
+    },
+    {
+      "id": "spanish",
+      "tagged": "ref: YGV9 — keep this line and all [TAGS] exactly as written.\nLanguage: Spanish.\n[PERSON_1] [PERSON_2] llamó al [PHONE_1] el [DATE_1]/2026. Email [EMAIL_1].",
+      "counts": {
+        "hidden": 5,
+        "unsure": 0,
+        "checks": 2
+      },
+      "elapsed_seconds": 0.029306083917617798
+    },
+    {
+      "id": "unicode",
+      "tagged": "ref: RLGY — keep this line and all [TAGS] exactly as written.\n[CHILD_1]. Language: English. Tags named SURNAME are family surnames.\nName: [CHILD_1] [SURNAME_1] 😀\n[CHILD_1] practiced /ɲ/ in 7/10 trials.",
+      "counts": {
+        "hidden": 3,
+        "unsure": 0,
+        "checks": 0
+      },
+      "elapsed_seconds": 0.02568425005301833
+    },
+    {
+      "id": "clinical-only",
+      "tagged": "ref: 5N2E — keep this line and all [TAGS] exactly as written.\nLanguage: English.\nProduced /k/ and /s/ in 8/10 trials with mod cues. CPT 92507.",
+      "counts": {
+        "hidden": 0,
+        "unsure": 0,
+        "checks": 0
+      },
+      "elapsed_seconds": 0.02588812494650483
+    }
+  ],
+  "selftest": {
+    "ok": true,
+    "selftest": {
+      "ok": true,
+      "checks": [
+        {
+          "name": "model files",
+          "ok": true,
+          "detail": "2 artifacts verified"
+        },
+        {
+          "name": "offline",
+          "ok": true,
+          "detail": "sockets blocked"
+        },
+        {
+          "name": "sample note",
+          "ok": true,
+          "detail": "0 visible identifiers, 0 changed clinical tokens, blocked=False"
+        }
+      ]
+    }
+  },
+  "restarted_selftest": {
+    "ok": true,
+    "checks": [
+      {
+        "name": "model files",
+        "ok": true,
+        "detail": "2 artifacts verified"
+      },
+      {
+        "name": "offline",
+        "ok": true,
+        "detail": "sockets blocked"
+      },
+      {
+        "name": "sample note",
+        "ok": true,
+        "detail": "0 visible identifiers, 0 changed clinical tokens, blocked=False"
+      }
+    ]
+  },
+  "elapsed_seconds": 3.7207021249923855,
+  "all_pass": true
+}

@@ -1,0 +1,64 @@
+{
+  "model_repo": "OpenMed/privacy-filter-mlx-8bit",
+  "model_revision": "f244d23379e440f2a7ec9f0832c049d92a44295c",
+  "bytes_downloaded": 1520328946,
+  "free_bytes_before_download": 78228242432,
+  "files": [
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "weights.safetensors",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/weights.safetensors",
+      "size": 1488841579,
+      "sha256": "22c4e8323b5a39bd6ab42b8cf9f8920f7676158b7375759d28d053616fbd7d6e",
+      "verified": true
+    },
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "tokenizer.json",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/tokenizer.json",
+      "size": 27868174,
+      "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3",
+      "verified": true
+    },
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "config.json",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/config.json",
+      "size": 3414,
+      "sha256": "0a17c3fa16404dd4322e704bb8ada2ae9bbb988e4ba18bcb37a101c60f36ea07",
+      "verified": true
+    },
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "id2label.json",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/id2label.json",
+      "size": 845,
+      "sha256": "82ec14dd6f97ce46c227689a06507f258919e48235591a90bfc1cb73f97f5a32",
+      "verified": true
+    },
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "openmed-mlx.json",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/openmed-mlx.json",
+      "size": 757,
+      "sha256": "32d12cdb17ef880f76bfe9e8ad20434ae197627f9ad186c687891f1b3fae59d3",
+      "verified": true
+    },
+    {
+      "artifact": "pf-mlx-8bit",
+      "file": "tokenizer_config.json",
+      "source": "https://huggingface.co/OpenMed/privacy-filter-mlx-8bit/resolve/f244d23379e440f2a7ec9f0832c049d92a44295c/tokenizer_config.json",
+      "size": 255,
+      "sha256": "56b69495a8baf36b6b6107ecf16677d4bf892c3f6edca454eaf12dfc0c7018a8",
+      "verified": true
+    },
+    {
+      "artifact": "o200k-bpe",
+      "file": "o200k_base.tiktoken",
+      "source": "https://openaipublic.blob.core.windows.net/encodings/o200k_base.tiktoken",
+      "size": 3613922,
+      "sha256": "446a9538cb6c348e3516120d7c08b09f57c36495e2acfffe59a5bf8b0cfb1a2d",
+      "verified": true
+    }
+  ]
+}

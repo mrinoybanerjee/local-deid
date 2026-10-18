@@ -92,6 +92,12 @@ A fresh [model-free development baseline](reports/model-free-baseline-20261018.m
 found 12/26 synthetic documents fully clean without a roster and 13/26 with one.
 This measures the rules and matching path, not the shipping model or clinical acceptance.
 
+A [fresh real-model runtime check](reports/model-runtime-20261018.md) verified the
+pinned shipping artifacts and four synthetic worker/API/vault round trips on a
+16 GB M4 Mac. It also removed unsupported name-based gender inference from copied
+context. This is integration evidence, not new model-recall or clinical acceptance
+evidence; the gate4 limitations above remain.
+
 ## Design and evidence
 
 The engine combines deterministic rules, roster and name/place matches, and the
