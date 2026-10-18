@@ -664,7 +664,7 @@ def test_org_context_triggers(text, gone):
 def test_context_line_never_shows_over_89_age():
     r = deidentify("Name: Mateo Ruiz\nGrandmother age: 94;2. Mateo is 4;2.", Settings(children=[Child("Mateo", ["Ruiz"])]))
     block = copy_block(r)
-    assert "94;2" not in block and "[CHILD_1]: boy, 4;2." in block
+    assert "94;2" not in block and "[CHILD_1]: 4;2." in block
 
 
 @pytest.mark.parametrize("text", ["He was referred to Physical Therapy.", "Taught through Total Communication.",

@@ -14,7 +14,6 @@ import unicodedata
 from dataclasses import dataclass, field
 from typing import Iterable, Sequence
 
-from . import gazetteer
 from .pipeline import Result
 from .tags import scan
 
@@ -44,17 +43,13 @@ _EN_WORDS = frozenset("the and of to in a is with for on was that he she his her
 def context_line(result: Result, gender: str | None = None) -> str:
     """'[CHILD_1]: girl, 4;2. Language: Spanish/English.' (SPEC 4.4).
 
-    Gender: given, or from the SSA female share of the child's given name
-    (>= 0.9 girl, <= 0.1 boy); omitted when unknown. Age: the first y;m age.
+    Gender: explicitly supplied by the caller; never inferred from a name.
+    Age: the first unhidden y;m age under 90.
     """
     child = next((it for it in result.items if it.hidden and it.kind == "CHILD"), None)
     lang = language_of(result.source)
     if child is None:
         return f"Language: {lang}."
-    if gender is None:
-        share = gazetteer.female_share(result.canonical[child.tag].split()[0])
-        gender = "girl" if share is not None and share >= 0.9 else (
-            "boy" if share is not None and share <= 0.1 else None)
     age = None
     hidden = [(it.start, it.end) for it in result.items if it.hidden]
     for m in _AGE_RE.finditer(result.source):

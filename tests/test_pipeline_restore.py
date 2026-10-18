@@ -158,8 +158,35 @@ def test_restore_unedited_copy_is_exact(result):
 def test_copy_block_lines(result):
     block = copy_block(result).split("\n")
     assert block[0] == "ref: K7F2 — keep this line and all [TAGS] exactly as written."
-    assert block[1].startswith("[CHILD_1]: boy, 4;2. Language: ")
+    assert block[1].startswith("[CHILD_1]: 4;2. Language: ")
     assert find_ref(copy_block(result)) == "K7F2"
+
+
+
+@pytest.mark.parametrize("name,pronoun", [("Mateo", "She"), ("Valentina", "He"), ("Mateo", "")])
+def test_context_does_not_infer_gender_from_name(name, pronoun):
+    text = f"Name: {name} Ruiz\nAge: 4;2. {pronoun} practiced /k/."
+    r = deidentify(text, Settings(children=[Child(name, ["Ruiz"])]))
+    block = copy_block(r)
+    context = block.splitlines()[1]
+    assert "boy" not in context and "girl" not in context
+    assert "4;2" in context and "Language:" in context
+    assert restore(block, r).text == text
+
+
+def test_explicit_gender_context_restores_after_serialization_and_default_copy():
+    from localdeid.app.serialize import result_from_dict, result_to_dict
+
+    text = "Name: Mateo Ruiz\nShe practiced /k/."
+    r = deidentify(text, Settings(children=[Child("Mateo", ["Ruiz"])]))
+    issued = copy_block(r, gender="girl")
+    assert "[CHILD_1]: girl." in issued.splitlines()[1]
+    reloaded = result_from_dict(result_to_dict(r))
+    default = copy_block(reloaded)
+    assert "boy" not in default.splitlines()[1] and "girl" not in default.splitlines()[1]
+    for block in (issued, default):
+        restored = restore(block, reloaded)
+        assert not restored.blocked and restored.text == text
 
 
 def test_language_detection():

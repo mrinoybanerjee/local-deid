@@ -155,14 +155,16 @@ school, teacher, or employer gap that the rules and triggers cannot close.
 
 ```
 ref: K7F2 — keep this line and all [TAGS] exactly as written.
-[CHILD_1]: girl, 4;2. Language: Spanish/English.
+[CHILD_1]: 4;2. Language: Spanish/English.
 <tagged text>
 ```
 
 - The **ref line** binds the draft to its session.
-- The **context line** gives the AI gender and age, which are not Safe Harbor
-  identifiers under age 90. Without it, Spanish drafts get gender agreement
-  wrong.
+- The **context line** carries age under 90 and optional gender context for
+  drafting. Gender appears only when the caller explicitly supplies it; it is
+  never inferred from a name. Unknown gender is omitted. Original pronouns
+  remain in the tagged text. A caller can supply known gender context for
+  Spanish agreement through the existing `copy_block(..., gender=...)` argument.
 - With "Copy with my note template", her saved prompt (English or Spanish)
   goes around this block.
 
@@ -547,7 +549,8 @@ None. Resolved on 2026-10-10:
 
 - **Unsure items hidden by default, so Copy is never locked** (Opus). This
   removes the incentive to press "keep" blindly.
-- **Context line with gender and age** for Spanish gender agreement (Opus).
+- **Context line with age and explicitly supplied gender** for Spanish gender
+  agreement (Opus).
 - **Number normalization** before the restore number check (Opus).
 - **A bilingual name gazetteer with context triggers** in place of
   truecasing (Fable).
