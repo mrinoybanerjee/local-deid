@@ -23,7 +23,12 @@ app = [
 ]
 
 [dependency-groups]
-dev = ["pytest>=8", "hypothesis>=6.100", "tokenizers>=0.21"]
+dev = [
+    "pytest>=8",
+    "hypothesis>=6.100",
+    "tokenizers>=0.21",
+    "cryptography>=44",
+]
 
 [build-system]
 requires = ["hatchling"]

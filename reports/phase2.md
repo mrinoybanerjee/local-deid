@@ -1,7 +1,10 @@
 # Phase 2: the menu-bar app
 
 Date: 2026-10-11. Built and verified on the Mac mini (Apple M4, 16 GB, macOS 26.6).
-The 8 GB MacBook Air checks are still to run (`harness/air_run.sh`, see `docs/INSTALL.md`).
+The 8 GB MacBook Air checks are still to run (see `docs/INSTALL.md`).
+The previously cited `harness/air_run.sh` is not present in this repository.
+Available harnesses include `harness/app_memory.sh` and `harness/memspeed.py`;
+this report does not establish an Air result.
 
 ## What ships (SPEC 5)
 

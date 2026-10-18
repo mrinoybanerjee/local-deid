@@ -388,6 +388,7 @@ onnx = [
 
 [package.dev-dependencies]
 dev = [
+    { name = "cryptography" },
     { name = "hypothesis" },
     { name = "pytest" },
     { name = "tokenizers" },
@@ -410,6 +411,7 @@ provides-extras = ["onnx", "mlx", "gliner", "app"]
 
 [package.metadata.requires-dev]
 dev = [
+    { name = "cryptography", specifier = ">=44" },
     { name = "hypothesis", specifier = ">=6.100" },
     { name = "pytest", specifier = ">=8" },
     { name = "tokenizers", specifier = ">=0.21" },

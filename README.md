@@ -77,6 +77,21 @@ Still pending in the committed status:
 The [phase 2 report](reports/phase2.md) records checks on the build Mac and lists
 what was not verified on the Air. Those are historical results, not new measurements.
 
+## Engineering focus
+
+The project connects a local hybrid detector to a review-and-restore workflow:
+span edits preserve surrounding text, integrity checks guard Copy, and encrypted
+session mappings let a reviewed draft regain its identifiers locally. The detector
+combines project rules and caseload matching with a third-party Privacy Filter model.
+
+A fictional sample illustrates the boundary: hide names, date of birth and phone
+numbers while keeping `/k/`, `8/10`, `mod cues` and CPT `92507`. These are the
+[sample self-test expectations](src/localdeid/app/selftest.py), not a guarantee on new notes.
+
+A fresh [model-free development baseline](reports/model-free-baseline-20261018.md)
+found 12/26 synthetic documents fully clean without a roster and 13/26 with one.
+This measures the rules and matching path, not the shipping model or clinical acceptance.
+
 ## Design and evidence
 
 The engine combines deterministic rules, roster and name/place matches, and the
@@ -116,8 +131,22 @@ uv sync --extra mlx --extra app
 cd tests && PYTHONPATH=../src ../.venv/bin/python -m pytest -q
 ```
 
-Tests that need model files skip when the files are missing. There is no CI:
-the app needs macOS on Apple Silicon (MLX, AppKit, Keychain).
+For the model-free regression suite, including the encrypted vault and synthetic
+session tests:
+
+```sh
+uv sync --frozen --extra app
+uv run --no-sync pytest -q --ignore=tests/test_finetune.py \
+  --ignore=tests/test_app_clipboard.py --ignore=tests/test_app_hotkeys.py
+```
+
+CI runs the portable subset on Linux without app/model dependencies. Mac-only
+checks skip there, including Symbol-font decoding, PDFKit, textutil, and native
+memory checks. Clipboard/hotkey integration tests need an interactive
+Mac session; the experimental fine-tuning tests need their separate model/MLX
+setup. Tests requiring missing model files skip. Passing this suite does not
+establish model recall, clinician acceptance, runtime network isolation, or the
+8 GB Air memory/speed gates.
 
 ## Layout
 

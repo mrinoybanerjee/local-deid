@@ -304,3 +304,30 @@ def test_reads_wait_for_a_queued_save(api):
     saver.join(5)
     reader.join(5)
     assert got["text"] == "Zorblax Quill"  # the read came after the save, not before it
+
+
+def test_delete_everything_discards_pending_restore_drafts(api):
+    v = api.paste(NOTE)["view"]
+    api.copy(v["id"])
+    body = "\n".join(api._m.clipboard.text.splitlines()[2:])
+    pending = api.restore(body)["restore"]
+    assert pending["status"] == "confirm" and api._drafts
+    assert api.delete_everything("DELETE")["ok"]
+    assert api._drafts == {}
+    assert api.restore_confirm(*pending["best"], pending["token"])["error"] == "draft-expired"
+
+
+def test_restore_finishing_after_delete_cannot_cache_old_text(api):
+    original = api._m.restore_draft
+
+    def restore_then_delete(text):
+        result = original(text)
+        api.delete_everything("DELETE")
+        return result
+
+    v = api.paste(NOTE)["view"]
+    api.copy(v["id"])
+    body = "\n".join(api._m.clipboard.text.splitlines()[2:])
+    api._m.restore_draft = restore_then_delete
+    assert api.restore(body)["error"] == "draft-expired"
+    assert api._drafts == {}
